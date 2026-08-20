@@ -1,5 +1,7 @@
 # Chapter One — The Stars That Fell
 
+*I was happy. Whatever else is said of that house and the two who kept it — and I have heard it said every way the world can say a thing — no one takes that from the boy in the loft. I was happy, and I was loved, and both were true the whole time, under everything else that was true in that house.*
+
 Before anything else, there was the fire.
 
 It lived in a hole in the floor, down where the wind could not find it. The wind wanted the fire. Kael knew this because the wind came to the door every night and pushed, and pushed, and the door held, and the fire stayed small and orange and his.

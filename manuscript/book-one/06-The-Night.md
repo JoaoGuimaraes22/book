@@ -12,7 +12,7 @@ Then the lights, close up, through the last of the pines.
 
 They were lamps. He knew this now the way he knew the sea would not freeze — he had traded the stars for lamps, promise for fact, and had thought the trade was finished. It was not finished. Because no fact had told him about the *people*. The shore ran with them. Lamps end to end along the waterline, doubled and trembling in the black water exactly as they had always been from above, and moving among the lamps, dark against them, more people than his numbers had ever been asked to hold. They made a sound all together that was not any sound he had a name for — under the pieces of it, voices, laughing, a thing that might be singing done wrong or done by many — a low warm roar like the fire would make if the fire were happy. The plural of person. He crouched at the treeline with his knees to his chest and his hands quiet and watched them the way he had watched the six-oared boat, except that the boat had been one thing, and this was everything.
 
-He wanted to go down into it so badly that his body leaned. He did not go down into it. The wanting and the not-going were both at their whole strength, neither winning, the way the wind pushed the door and the door held; and he understood, crouched there, shaking a little in his warm weathers, that he was afraid. Not game-afraid. He had no drill for this. Every stranger he had ever met was one old man, vetted and arrived on a known path, and here were hundreds, and any of them could turn, and see him, and *speak* to him, and there was no count for what came after that.
+He wanted to go down into it so badly that his body leaned. And yet, he did not go down into it. The wanting and the not-going were both at their whole strength, neither winning, the way the wind pushed the door and the door held; and he understood, crouched there, shaking a little in his warm weathers, that he was afraid. Not game-afraid. He had no drill for this. Every stranger he had ever met was one old man, vetted and arrived on a known path, and here were hundreds, and any of them could turn, and see him, and *speak* to him, and there was no count for what came after that.
 
 So he did what his training did with everything it could not enter: he went around it.
 
@@ -50,13 +50,23 @@ He was at the wheel without deciding. That was the truth of it, the truth he wou
 
 Light fell across the yard. A man stood in the open door.
 
-For one breath nothing happened. The man was big the way the stone in the gate had been big, and he held a jug, and he looked at Kael crouched at the wheel with the line half-drawn, and his face did something slow, and he said a word Kael did not know in a voice gone loud, and then the yard was full.
+For one breath nothing happened. The man was big the way the stone in the gate had been big, and he held a jug, and he looked at Kael crouched at the wheel with the line half-drawn, and his face did something slow, and he said a word Kael did not know — a word that needed no knowing — in a voice gone loud.
+
+"What," said a voice from inside, unhurried, a chair going back. "What is it."
+
+"A boy." The big man had not moved. He was looking at Kael the way you look at a tool lying where no tool should be. "At the wheel."
+
+"Whose is he?" The doorway was growing men, dark against the lamplight, one and then three.
+
+"Nobody's." A short laugh came out of the light behind them. "Look at him. He's nobody's."
+
+They were not afraid. His body filed that even then, under everything, the way it filed weather: the voices were the voices of men sorting a strayed goat, a fallen rail — a small thing, found where small things get found, already sorted. And then the yard was full.
 
 What happened next happened the way scree happens.
 
-The first man reached for him, and Kael was not where the hand arrived — his feet had already answered, the way feet answer in the dark — and the man's weight went on past its own lazy place and Kael helped it, two fingers of push at the loaded knee, no more, and the man met the ground with all of himself at once and did not immediately get up. It worked. It was the standing game and it *worked*, on a man, the mountain tricked, and somewhere far under the roaring in him a cold clean voice was counting.
+The first man reached for him, and Kael was not where the hand arrived — his feet had already answered — and the man's weight went on past its own lazy place and Kael helped it, two fingers of push at the loaded knee, no more, and the man met the ground with all of himself at once and did not immediately get up. It worked. It was the standing game and it *worked*, on a man, the mountain tricked, and somewhere far under the roaring in him a cold clean voice was counting.
 
-The second man came with his hands wide, herding, and there was iron in Kael's hand — his own short knife, arrived from his belt without him — and the knife-lesson met the world: not the body, the *carrying*, the cabled place above the wrist where a man's grip lives, and the blade told the truth there, one short honest line, and the man's hand stopped being a hand that worked and the man made a sound and folded around it. The eyes go up, go out, come back. His father's voice, calm as bread. Two men down. The cold voice counted two.
+Somebody laughed at their own man on the ground and the laugh was still in the air when the second man came with his hands wide, herding. There was iron in Kael's hand — his own short knife, arrived from his belt — and the knife-lesson met the world: *not the body, the carrying*, the cabled place above the wrist where a man's grip lives, and the blade told the truth there, one short honest line, and the man's hand stopped being a hand that worked and the man made a sound and folded around it. The eyes go up, go out, come back. His father's voice, calm as bread. Two men down. The cold voice counted two.
 
 And then the wall of the house gave him the small sound again — the one that wanted to stop being made — and Kael *heard* it, heard it all the way, and the count broke.
 

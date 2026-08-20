@@ -60,7 +60,7 @@ The axe stood against the block. Kael went down beside the woodpile, into the sh
 
 He was splitting wood, honestly and loudly, by the time the door opened.
 
-The master left in the grey of the afternoon. At the yard's edge he stopped by Kael and said, "Read the fat one first. The thin one will still be true when you're older." And then, to no one, to the mountain: "He unties things." And went down the path.
+The master left in the grey of the afternoon. At the yard's edge he stopped by Kael and said, "Read the fat one first. The thin one will still be true when you're older." And then, to no one: "He unties things." And went down the path.
 
 Supper was quiet. The good bread was eaten. Everything was the same, and Kael lay in the loft doing his numbers and could not find the list, because the day would not file. The books were the master's. The absences were arranged. His parents had a third voice. A knot had opened before his fingers — he had already stopped believing that one; fingers were fast, that was all; his father's hands did things by themselves, why not his.
 

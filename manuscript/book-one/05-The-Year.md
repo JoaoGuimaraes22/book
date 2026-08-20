@@ -28,11 +28,31 @@ He did not have a theory for it. The honey theory did not fit, because you saved
 
 That was the year everything else sharpened too.
 
-His father's mornings grew a third longer, and stopped ending at noon so much as being interrupted by it. The scree in the dark was old work now, so there was scree with a load, and scree with a load and a count, and ways of falling — falling had rules, it turned out, had a whole grammar, and his father taught it the way he taught everything, by being beside him, hitting the ground and coming up out of it in one motion, again, again, until the ground was just another thing the body talked to. The knife-work moved from the snares to the body: where a man carries, his father said, and Kael heard the new school's word in his father's mouth and looked up fast, and his father was already going on, and it was nothing, a word, everyone said carry. Where a man carries his weight; where he is lazy; how you stand so that his strength is spent on standing. His parents did not attend each other's schools. But that year Kael began to hear each school inside the other, the way you heard the same wind in different trees, and he filed that too.
+His father's mornings grew a third longer, and stopped ending at noon so much as being interrupted by it. The scree in the dark was old work now, so there was scree with a load, and scree with a load and a count, and ways of falling — falling had rules, it turned out, a whole grammar, the body hitting the ground and coming up out of it in one motion, again, until the ground was just another thing the body talked to.
+
+And the body's own school, the one with no first day in it, grew teeth. It had been play before it was anything — the oldest game he had, older than proper remembering: his father's arm a snare across him, and a small Kael squirming loose into laughing, before memory had proper edges. The snare had grown as he grew, the way the stillness had grown, and that year the play finished folding over into work, so gradually that there was no day he could have pointed to and said: there. It began the way it always began, with him caught — wrist taken, collar taken, folded under the patient mass of his father with the frost finding his cheek — because every lesson in that school began with him caught, and every lesson was the same lesson. Get loose.
+
+There came a morning he could not. He tried strength, which was always the first lie, and then speed, and the grip rode him the way weather rides a slope, and his shoulder began to say things, and then to shout them, and his face was raining and nobody counted it.
+
+"Too much," he said, into the grass.
+
+"Then say so."
+
+He tapped the frost twice with his free hand, flat, and the weight was gone — all of it, at once, the morning sky standing where his father had been.
+
+"Your mouth may be busy," his father said. "The hand talks. Again."
+
+The fourth time down, with the world gone small and the grip a fact of weather, he stopped asking his arm and asked her question instead — where does it carry — and the grip, like everything heavy, was lazy: the iron of it lived in the fingers, and the thumb held the door. He turned against the thumb, not hard, exactly, and his wrist fell out of his father's hand like a thing set down.
+
+His father looked at the wrist, and then at him, and what crossed his face was nothing Kael had a name for, there and gone.
+
+"Again tomorrow," he said, and went to the wood.
+
+The knife-work moved from the snares to the body that year too: where a man carries his weight; where he is lazy; how you stand so that his strength is spent on standing. His parents did not attend each other's schools. But that year Kael began to hear each school inside the other, the way you heard the same wind in different trees, and he filed that too.
 
 He was too full to be restless, most days. Most days.
 
-The itch had not gone. It had changed registers, was all. It lived in the new school now, down at the bottom of the rationed answers, and it lived where it had always lived, down the mountain, in the corner where the fallen stars burned. He was nine, and he still owned the promise the way he owned his knife. When the sea froze — walked on it like a floor — then. It was the oldest thing in the waiting part of him. He did not think about it so much as keep it, the way his mother kept the sea counted.
+The itch had not gone. It had changed registers, was all. It lived in the new school now, down at the bottom of the rationed answers, and it lived where it had always lived, down the mountain, in the corner where the fallen stars burned. He was nine, and he still owned the promise the way he owned his knife. When the sea froze — he'd walk on it like a floor — then. It was the oldest thing in the waiting part of him. He did not think about it so much as keep it, the way his mother kept the sea counted.
 
 What fire eats came in the spring, and it killed the promise in four lessons, and she never knew.
 

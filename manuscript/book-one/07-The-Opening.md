@@ -52,7 +52,7 @@ Sword, spear, the bow at distance, his father beside him in everything the way h
 
 His mother's watching had changed too. He noticed it the first week he was well enough to lie awake properly: the window, the door, her feet in the dark — every night now. The boats no longer decided. He lay in the loft with the old arithmetic in his hands and nowhere to put it, because the pattern he had cracked was gone, and she had never said a word, and this was her answer the way the knife was his father's: *I know what you read. I have made myself harder to read.* He felt the cost of it arrive in him and sit down. She stood two watches now where she had stood one. He had done that.
 
-And her answers went deeper. That was the strangest mending of that strange winter. He asked her, over the pairs of caps one afternoon, why the killer and the eater wore the same face — he had asked it before, years before, and gotten *so you never pick wrong*, which was a fence, and he had known it was a fence — and this time she stopped her hands, and thought, and answered him: what the two shared, what the flesh was doing differently underneath, how you could ask the difference to show itself, and when her answer reached the place where her answers had always gone gentle and then gone nowhere, it went on. It went all the way to *I don't know*. She gave him her not-knowing with both hands, like a tool, and he took it, and it was worth more to him than most of what he knew, and he could not have said why — except that you did not give a fence to someone you thought could not be trusted past it. Some of her schools stayed fenced. The new school stayed drops. But the rest opened like the winter opening, and he filed the difference between the opened schools and the fenced ones, without knowing he was filing it, the way he filed everything.
+And her answers went deeper. That was the strangest mending of that strange winter. He asked her, over the pairs of caps one afternoon, why the killer and the eater wore the same face — he had asked it before, years before, and gotten *so you never pick wrong*, which was a fence, and he had known it was a fence — and this time she stopped her hands, and thought, and answered him: what the two shared, what the flesh was doing differently underneath, how you could ask the difference to show itself, and when her answer reached the place where her answers had always gone gentle and then gone nowhere, it went on. It went all the way to *I don't know*. She gave him her not-knowing with both hands, like a tool, and he took it, and it was worth more to him than most of what he knew, and he could not have said why — except that you did not give a fence to someone you thought could not be trusted past it. Some of her schools stayed fenced. The newest school did. But the rest opened like the winter opening, and he filed the difference between the opened schools and the fenced ones, without knowing he was filing it, the way he filed everything.
 
 ---
 
@@ -60,9 +60,9 @@ The conversation happened in spring, in the evening, with the light long and the
 
 There was an order to evenings, old as everything. His father went out last, checked what was to be checked, came in, barred the door. That evening he stayed at the table, and his mother sat down across, and Kael, between them, understood from the arrangement alone — two of them, both facing him, nothing in their hands — that this was a lesson with no school attached, and went still.
 
-"We have taught you everything we have," his father said. "It was not everything there is."
+"Everything we have, you will have," his father said. "It is not everything there is."
 
-His mother's hands were flat on the table, the way they had been the day of the knot. "The rest," she said, "is people. It cannot be learned here. We cannot—" and she stopped, and it was not the gentle stopping of the fenced schools; it was a hand set down mid-air, the load too live to shift. "It is not ours to teach," she said, which was a different sentence than the one she had started, and truer, he thought, in some way he had no floor under yet.
+His mother's hands were flat on the table, the way they had been the day of the knot. "The rest," she said, "is people. It cannot be learned here. We cannot—" and she stopped, and it was not the gentle stopping of the fenced schools. "It is not ours to teach," she said, which was a different sentence than the one she had started, and truer, he thought, in some way he had no floor under yet.
 
 They did not ask him what he had seen. They did not say the word for where he had gone. The night stood outside this wall too, present, unentered, and inside the wall his parents opened the future by a crack — a school, down the mountain, where the island's children learned; a master he already knew; a road.
 
@@ -84,7 +84,7 @@ At the table, after, the master spoke to him plainly, the way you speak terms.
 
 He did not, entirely. He understood it was a knot, and that he was being handed the tied side of it, and that everyone at the table could see the whole of it and he could see the outside. Rules were the floor you asked from. "Yes," he said.
 
-Then his parents gave him the law, and it was theirs to give, and they gave it together, his father saying it and his mother's stillness saying it under him:
+Then his parents gave him the law, his father saying it and his mother's stillness saying it under him:
 
 "Home to the temple. The temple to home. Never beyond."
 
@@ -94,7 +94,7 @@ No reason came with it. Reasons had never come with the laws; that was what made
 
 He left on a morning in autumn, early, the light coming up grey out of the sea.
 
-His mother put bread in the bag and a word in his ear, in the downhill language, low — a blessing or an order, built like both. His father walked him as far as the pens and stopped where his work stopped, and said, "Evening," which meant *by evening*, which meant *come home*, and turned back to the morning as if the morning were any morning, and only his hand, briefly, on Kael's shoulder, weighed what it weighed.
+His mother put bread in the bag and a word in his ear, in the downhill language, low — a blessing or an order, built like both. His father walked him as far as the pens and stopped where his work stopped, and said, "Evening," which meant *by evening*, which meant *come home*, and placed his hand, briefly, on Kael's shoulder.
 
 The master was waiting at the split rock.
 
@@ -104,25 +104,27 @@ He stood on the near side of it, on the path, leaning on a stick he did not need
 
 "Kael of what?"
 
-"Of—" and there was nothing to put there. He had never needed anything to put there. The master let the nothing sit exactly as long as it wanted to sit, and then turned and stepped past the rock, and Kael put his hand on the stone as he went by — the way you touch the goat, the door, a thing of the house — and followed him onto the lawful road, and the mountain did not notice. It had not noticed the first time.
+"Of—" and there was nothing to put there. He had never needed anything to put there. The master let the nothing sit exactly as long as it wanted to sit, and then turned and stepped past the rock, and Kael put his hand on the stone as he went by — the way you touch the goat, the door, a thing of the house — and followed him onto the lawful road.
 
 "You are Kael from the mountain," the master said, walking. "A herder's boy. I found you three summers ago with your letters already in you — your mother taught you those, that much is true, keep what is true, it carries the rest — and I have brought you books since, because I am an old man with money for books and no sons, and this year I have grown foolish enough to school you. That is your whole story. Tell it to me."
 
 Kael told it to him.
 
-"Again. You are not defending it, you are wearing it. A story is not a wall, boy; walls get climbed. A story is a coat. Loose. Warm. Nobody wonders at a coat."
+"Again. You are not defending it, you are wearing it. A story is not a wall, boy; walls get climbed. *A story is a coat*. Loose. Warm. Nobody wonders at a coat."
 
 He told it again, and the master stopped him three sentences in. "Who taught you letters?"
 
 "My mother."
 
-"You said it like a fact you were handing over. It is not a fact. It is your mother. Say it that way the whole way through."
+"You said it like a fact you were handing over. It is not a fact. It is *your* mother. Say it that way the whole way through."
 
 He told it once more, all the way, the herder's boy, the books, the old man's foolishness — and it was different in his mouth this time, and he could not have pointed to where.
 
 "There," the master said. "Now it hangs off you," and moved on as if from a finished chore. "You will be surprised slowly. You know what fire eats. You do not know what they call it. Their names for things will be new to you, and that is convenient, because it is even true."
 
 The road bent, and below it, for the first time in daylight, lawfully, close: the village.
+
+---
 
 Roofs, and smoke standing up from them, and the harbor with its boats at their work, and sound coming up the slope loose and ordinary — a dog, a hammer somewhere, a woman's voice carrying two notes of something, gulls. People, small and clear, moving between the houses at the pace of chores. Kael's eyes went out, took the whole of it, came back — and his hands had gone quiet on the strap of the bag, too quiet, the stillness arriving in him unasked. Downshore, past the boat-sheds, a cluster of roofs stood with their smoke standing up like all the others, ordinary, indistinguishable, and he did not look at it longer than he looked at anything, and looking away cost what it cost.
 
