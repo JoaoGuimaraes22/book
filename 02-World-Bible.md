@@ -82,6 +82,13 @@
 - **Scholarly/natural-philosophy register (new):** real pre-modern learning vocabulary — "the minima." Collision-safe because it is genuine historical scholarship, not fantasy coinage. ("Magicule" released — established in *That Time I Got Reincarnated as a Slime*.)
 - Commoners effectively lack house names; Kael does not know surnames EXIST until the Temple.
 
+## Time & Term Lexicon (ratified session 11 — coined register terms are CONTROLLED vocabulary)
+- **Rule:** the book's coined terms for seasons, calendar, and institutions are a controlled lexicon. Each term is CONSISTENT (never improvise a synonym for a logged term) and OWNED by a place and culture — when geography or culture changes (Book Two's continent, coalition lands, the far continent), each locale mints its own terms rather than inheriting the island's. New coinages are logged here at chapter commit.
+- **Village register (island):** the dark of the year (longest night) · the winter feast / feast night.
+- **Temple register:** the cold term (winter term) · the turn toward spring · the boards (twice-yearly standings) · first workings · the roll · the yard / the yard-master · storm-weeks (the drowned-yard weeks of deep winter, children's vernacular — coined Ch. 10, pending commit).
+- **Mountain / Kael's narration register:** winter's turn (the seam of the year) · "Evening" (the daily deadline — Vask's word) · the long game · his personal lexicon (far-counting, the standing game, what fire eats, what being seen costs [Ch. 10, pending commit] — see 03, the lexicon habit).
+- **Scholarly register:** see Naming Registers ("the minima").
+
 ## Open Questions
 - Coalition composition; the tournament's prize.
 - What the bloodline grants; what magic is (deep layer now sealed in 00; world-level origin still open); the far continent.
