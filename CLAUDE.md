@@ -17,6 +17,9 @@ This is a fiction project. The document system is the sole source of truth; chat
 6. Every decision commits to a file before session close. Session closes with a `git commit` (short imperative subject) + `git push`; update baselines in 05 whenever prose changes.
 7. Ceiling: two chapters of new prose per session; three only if structurally simple.
 
+## Instruments
+- **Reader-copy notebook (NotebookLM via `nlm`):** clean-reader simulator holding manuscript chapters ONLY — never add bibles, 00, or 05 to it (its blindness to sealed canon is the point). Query it for legibility probes before committing a chapter; treat answers as reader-inference evidence, never canon. Re-sync after prose changes: `scripts/sync-reader-notebook.sh` (part of session close). Full rules in 05 §READER-COPY INSTRUMENT.
+
 ## Hard rules
 - Never edit 00 without explicit author ratification; additions are dated append-only blocks.
 - Commit after every author-ratified change; never leave ratified work uncommitted at session close.
