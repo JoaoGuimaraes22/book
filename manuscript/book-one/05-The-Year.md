@@ -4,13 +4,25 @@ The new school had no name, and that was the first strange thing about it, becau
 
 The second strange thing was that she rationed it.
 
-He knew rationing. History came in scraps, and he had a theory about that, the honey theory, and the theory had held for years. But history was stories, and you could live without stories. This was not stories. This was the thing his fingers had done to the master's knot, the thing her empty palm had shown him on the flat rock, and it was the largest thing that had ever happened to him, and she gave it to him in drops. One lesson, some weeks. One sitting, some days, and then nothing, the basket, the languages, the ordinary schools, while the new one sat in him and asked and asked.
+He knew rationing. History came in scraps, and the honey theory had held for years. But history was stories; you could live without stories. This was not stories. This was the thing his fingers had done to the master's knot, the thing her empty palm had shown him on the flat rock, and it was the largest thing that had ever happened to him, and she gave it to him in drops. One lesson, some weeks. One sitting, some days, and then nothing, the basket, the languages, the ordinary schools, while the new one sat in him and asked and asked.
 
-The lessons themselves were small on purpose. He understood that much by midwinter. She never asked him to do anything. She asked him to feel where things carried. The pail of water: where it carried. The wind at the door: where it pushed from, which was not where it seemed to push from. The fire in its hole — this one for weeks — where the fire was lazy, which was a thing he would not have believed fire could be, fire that ate all day and was never full, and then one evening he felt it, the way you feel a stair in the dark that is shallower than the others, and he said so, and described it, and it was wrong, and he tried again, and it was wrong differently, and the third time his mother looked at him for a moment and said, "Yes," and put the lid on the lesson like a pot.
+The lessons themselves were small on purpose. He understood that much by midwinter. She never asked him to do anything. She asked him to feel where things carried. The pail of water: where it carried. The wind at the door: where it pushed from, which was not where it seemed to push from. The fire in its hole — this one for weeks — where the fire was lazy, which was a thing he would not have believed fire could be, fire that ate all day and was never full. And then one evening he felt it, the way you feel a stair in the dark that is shallower than the others.
+
+"The low side," he said. "Away from the draft, where the log sits down on the coals. It isn't eating there. That's where it carries."
+
+"You felt that. Or you worked it out."
+
+He had to think, which was the answer, and she saw it. "Worked it out," he admitted. He reached again — too fast, lost the whole of it, made himself slow — and this time it was there without any working, shallow and sure under the whole burning weight of it. "There. Felt."
+
+His mother looked at him for a moment and said, "Yes," and put the lid on the lesson like a pot.
+
+"But why is it there? Does it move when the log burns down? Could you—"
+
+She was already at the basket.
 
 That was the whole of it, for eleven days. He counted.
 
-He asked, of course. His questions had questions, and the new school bred them faster than any school before it — what the carrying was, why the eyes couldn't find it, whether the goat could feel it, whether the fire knew. His mother had always answered until his head was full. That was a true thing about her, floor-true, old as the door holding. And in the new school, for the first time in his life, she answered until *she* stopped, which was different, and the difference had a shape he kept bumping in the dark. Her answers went so far and then went gentle and then went nowhere, like the path going down the mountain, which went so far, and then was not allowed to be a path anymore.
+He asked, of course. His questions had questions, and the new school bred them faster than any school before it — what the carrying was, why the eyes couldn't find it, whether the goat could feel it. His mother had always answered until his head was full. That was a true thing about her, floor-true, old as the door holding. And in the new school, for the first time in his life, she answered until *she* stopped, which was different, and the difference had a shape he kept bumping in the dark. Her answers went so far and then went gentle and then went nowhere, like the path going down the mountain, which went so far, and then was not allowed to be a path anymore.
 
 He did not have a theory for it. The honey theory did not fit, because you saved honey for later, and there was no later in the way she stopped; the stopping was the lesson's own wall. The best he could do was a fact, filed without a place: in every school he had, being good was the thing that made his mother's shoulders come down. In the new school it was the other way. On the days he felt nothing, the days the pail was just a pail and he said so, angry at himself, ashamed — those were the days her hand rested a moment on his head, and something in her went loose, the way the house went loose when a watched boat finally leaned back to its fishing. He filed it and could not file it. He was nine, and he assumed the fault was his: that feeling nothing was, in this school, a kind of manners, and some days he was polite by accident.
 
@@ -24,9 +36,21 @@ The itch had not gone. It had changed registers, was all. It lived in the new sc
 
 What fire eats came in the spring, and it killed the promise in four lessons, and she never knew.
 
-It was the last of her schools to arrive and the first one that felt like the new school's cousin: it was about what things were made of, underneath, where the eyes lied. Fire eats, she said, but it is a picky eater — it will take the fat and leave the bone, take the spirit out of the wine and leave the water, and what fire will not eat tells you as much as what it will. Then the cold, because the cold was an eater too, the other mouth, the slow one. The cold ate the difference out of things. It found water wherever water hid and made it hold still.
+It was the last of her schools to arrive and the first one that felt like the new school's cousin: it was about what things were made of, underneath, where the eyes lied.
 
-And then salt. Salt was the third thing, and salt was not an eater; salt was a keeper. Salt in the meat kept the rot's mouth shut. Salt in the barrel water kept it sweet longer. And salt in water — this was the fourth lesson, done with two pails on the bench on a hard-frost night, one pail plain and one brined for the goat, set out together, found together in the iron morning — salt in water kept the cold's mouth shut too. The plain pail wore its lid of ice. The brine pail moved when he rocked it, dark and obedient and unfrozen, and his mother said the thing she said in every school, the sentence that was the school: *the more salt the water carries, the deeper the cold must bite to hold it* — and went to the fire to see about breakfast, because to her it was Tuesday.
+"Fire eats," she said, first lesson, her hands going on with the wicks while she taught. "But it is a picky eater. It takes the fat of a thing and leaves the bone. It takes the spirit out of the wine and leaves the water. What fire will not eat tells you as much as what it will."
+
+"What won't it eat?"
+
+"Ask it," she said, and gave him the tongs.
+
+Then the cold, the second lesson, because the cold was an eater too — the other mouth, the slow one. The cold ate the difference out of things. It found water wherever water hid and made it hold still.
+
+And then salt. Salt was the third thing, and salt was not an eater; salt was a keeper. Salt in the meat kept the rot's mouth shut. Salt in the barrel water kept it sweet longer. And salt in water — this was the fourth lesson, done with two pails on the bench on a hard-frost night, one pail plain and one brined for the goat, set out together, found together in the iron morning — salt in water kept the cold's mouth shut too. The plain pail wore its lid of ice. The brine pail moved when he rocked it, dark and obedient and unfrozen, and his mother said the thing she said in every school, the sentence that was the school.
+
+"The more salt the water carries, the deeper the cold must bite to hold it."
+
+And went to the fire to see about breakfast, because to her it was Tuesday.
 
 Kael stood with the light coming up grey out of the sea, holding the fact.
 
@@ -38,15 +62,25 @@ The promise was not a promise. It was a door painted on a wall.
 
 He did not cry. He noticed that, distantly, the way he noticed the wind change. What he felt was closer to the morning with the stone in the gate — the mountain-sized weight of a thing, and, arriving underneath it, unwanted, unstoppable, the cold beginning of leverage. She had answered a small boy the way you shut a gate. Very well. It had worked for five years; it was a good gate. But he was not asking to be answered anymore.
 
-At breakfast she was at the table as always. He watched her pour, and he said the bird-language word for the little grey shrike, because one was on the fence post, and she looked and laughed, and he laughed too, and it was real, both laughs were real, that was the thing he could not have explained to anyone: nothing was different, and one thing was. He had a room of his own now, with a shut door in it, and she walked past it every day and did not know the house had grown.
+At breakfast she was at the table as always. He watched her pour, and a little grey shrike came to the fence post, and he said its word in the bird language — said it wrong, on purpose, the way she sang wrong on purpose, the old game.
+
+His mother looked up. She said the word back, properly. Then she added a second word he didn't have.
+
+"What's that one?"
+
+"What the shrike calls a boy who does it wrong on purpose." She was pouring again. "It is not a polite word."
+
+And she laughed, and he laughed too, and it was real, both laughs were real — that was the thing he could not have explained to anyone: nothing was different, and one thing was. He had a room of his own now, with a shut door in it, and she walked past it every day and did not know the house had grown.
 
 He never asked her about the sea again. She never noticed that he stopped.
 
-The planning began before he admitted it was planning. That was true the way most true things about himself were true: visible first from outside, and there was no outside, so it went unseen. He was simply *interested*, that spring and summer, in things he had always lived beside. When his father woke, exactly, and what woke him — which sounds reached him and which did not, and he tested this without deciding to, a dropped spoon, a held door, filing what brought footsteps and what didn't. His mother's nights: when the window-and-door counting happened and how long it lasted and which nights it didn't happen at all, and he found the pattern in eleven weeks of lying awake — it followed the boats. Days a strange sail had passed, she stood her watch. Days the sea had been all fishermen, she slept, and the house at the black bottom of the night went as unwatched as it ever went, which was not very, and was enough.
+The planning began before he admitted it was planning. That was true the way most true things about himself were true: visible first from outside, and there was no outside, so it went unseen. He was simply *interested*, that spring and summer, in things he had always lived beside. When his father woke, exactly, and what woke him — a dropped spoon, a held door, tested without deciding to, filed by what brought footsteps and what didn't. His mother's nights: when the window-and-door counting happened and how long it lasted and which nights it didn't happen at all, and he found the pattern in eleven weeks of lying awake — it followed the boats. Days a strange sail had passed, she stood her watch. Days the sea had been all fishermen, she slept, and the house at the black bottom of the night went as unwatched as it ever went, which was not very, and was enough.
 
 The moon: he knew the moon from far-counting, but he attended to it now the way she attended to the sea, and it was the only piece he ever caught himself holding openly — standing in the yard at dusk working out the dark of it, the nights it would rise late and thin — and his mother came out beside him and looked up too, and said, "What do you see?" And he said, "The moon is lazy this week," in the voice of her own schools, and she laughed, and rested her hand on his head, and went in. Both things were real. That was the year he learned that both things were always real, and that this, not the stillness and not the knife, was the family trade.
 
-The master came in the autumn — no absence arranged, not anymore; those were over — and the visit was books and questions and the best day of the season, and one more thing, this year: a fact, offered across the table like the knot had been. The master mentioned, in the way he mentioned things, sideways, that the village kept the winter feast on the dark of the year, the longest night, the whole of it, lamps everywhere, everyone down at the water till morning.
+The master came in the autumn — no absence arranged, not anymore; those were over — and the visit was books and questions and the best day of the season, and one more thing, this year: a fact, offered across the table like the knot had been.
+
+They had been talking of lamp-oil, of all things — what the village paid for it, some loose thread of the evening — and the master turned his cup and said, "They'll burn a winter's worth of it in one night, soon enough. The feast. The village keeps it on the dark of the year — the longest night, the whole of it, lamps down the waterline end to end, every soul at the water till morning. You could read by the harbor at midnight, I'm told." And he asked Kael something else entirely, about the fat book's water-wheels.
 
 Everyone. Kael took the fact and thanked the school in him that had taught his face to be a stone's face, because his heart had gone loud enough that it seemed impossible the table could not hear it.
 
