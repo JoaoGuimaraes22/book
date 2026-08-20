@@ -48,4 +48,5 @@
 - TBD.
 
 ## Open valves (deliberate)
+- **REVISIT NOTE (session 11): the settlement girl + her mother (the widow)** — return to them in a future arc. Two banked payoffs, separable (00): the intelligence vector (she can put a BOY in the folklore — the ghost story becomes a lead in professional hands) and the recognition/mercy beat (she knows him / he learns the line held — proto-witness, minor-key Valeria rhyme). NOT spent at the raid (crowded, consequence-free). Caution when staging the fire: whatever burns, do not foreclose them.
 - Recognition vector at the tournament · contents of the chest · exact on-page fates seen by Kael in the fire · the tournament's prize · how much of the village burns · the winter-feast fact (gift or slip — never resolve) · THE FOLKLORE VALVE (Ch. 6 — the ghost story pointing up; who misses the dead crew; whether it reaches dangerous men) · Neris at the rock (duty or wall — never resolve). [Survivors-of-the-night valve CLOSED: sealed total kill, 00.]
