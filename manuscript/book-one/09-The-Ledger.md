@@ -6,7 +6,7 @@ He did not begin with weapons, though the racks stood along the south wall with 
 
 It was a drum of grey stone the length of a man, kept for flattening the yard after rain, and the yard-master put his hand on it and said, "Move it to the wall," and stepped back.
 
-They went at it the way the benches answered Priscian. Boys shoved, in twos, in fives, slipping on the frost, until Aurelian Corvane came through them and made it work: he picked the six biggest, set them low along one side, gave them a count — a real count, well given; Kael filed that — and on the third try the roller ground the width of the yard with all seven of them roaring, and reached the wall, and the cohorts cheered, and Aurelian stood off it with his breath tearing and his face bright, a boy standing where he stood best.
+They went at it the way the benches answered Priscian. Boys shoved, in twos, in fives, slipping on the frost, until Aurelian Corvane came through them and made it work: he picked the six biggest, set them low along one side, gave them a count — a real count, well given; Kael filed that — and on the third try the roller ground the width of the yard, all seven of them roaring, and reached the wall. The cohorts cheered. Aurelian stood off it with his breath tearing and his face bright, a boy standing where he stood best.
 
 "Good," the yard-master said. "Again. Alone."
 
@@ -52,11 +52,13 @@ The filing took longer than usual that evening, because two entries would not si
 
 Twice a year, it turned out, the Temple wrote its children in order.
 
-The midwinter examinations lasted four days — letters, sums, the chronicle, the natural philosophy, a day in the yard — and on the fifth day a clerk nailed the standings to the colonnade of the first court, cohort by cohort, every name in the order it had earned, and the whole Temple came past the boards before noon the way the village came to its water. Kael had not known the boards were coming; nobody warns furniture. He came late, in the crowd's ebb, and read up his cohort's column from the bottom, and found his name at last four lines from the top, above names with three parts to them, plain and short as a nail among rings.
+The midwinter examinations lasted four days — letters, sums, the chronicle, the natural philosophy, a day in the yard — and on the fifth day a clerk nailed the standings to the colonnade of the first court, cohort by cohort, every name in earned order, and the whole Temple came past before noon the way the village came to its water. Kael had not known the boards were coming; nobody warns furniture. He came late, in the crowd's ebb, and read up his cohort's column from the bottom, and found his name at last four lines from the top, above names with three parts to them, plain and short as a nail among rings.
+
+In the ebb behind him a voice said, "Which one is Kael?" and a second answered it — "The charity case" — and a third read the arithmetic aloud, "Four lines from the top," in the voice you use for a wrong answer that will not stop being right.
 
 The bench that had filled itself around him began, that same week, to have room in it.
 
-It was not one thing. It was the bench, and his boots gone from where boots went during yard-work and found in the well-shed, and *charity case* arriving now from older mouths, with the new word riding under it — *the bastard*, said like a thing everyone had agreed on while he was elsewhere — and his body priced each as it came and declined to spend, and the declining, he began to understand, was itself the answer they could bear least.
+It was not one thing. The bench. His boots, gone from where boots went during yard-work, found in the well-shed. *Charity case* arriving now from older mouths, the new word riding under it — *the bastard*, said like a thing everyone had agreed on while he was elsewhere. His body priced each as it came and declined to spend, and the declining, he began to understand, was itself the answer they could bear least.
 
 Oss kept sitting down. That was the fixed thing in those weeks: the bench emptied around Kael and filled around him at the same time, one boy's worth of filling, arriving with the day's news and the day's names. It was Oss who told him, low, across the bread, which of them actually did things: "Corvane doesn't fetch and carry, he never has, that's what the four are for — and of the four it's Drusane who works. Lucan Drusane, the long one. The others laugh where he points. Watch the pointing, not the laughing." Kael took the sentence with both hands, and it proved, like most of Oss's sentences, to be exactly true.
 
@@ -124,7 +126,23 @@ Kael watched the sea do its enormous grey work while his mind, without asking hi
 
 His mother wanted the candles.
 
-She wanted all of it, at the lamp — the yard-master's purse, the gradient, the whitening, told back in Kael's own order — and her questions that evening were not the wide ones. They were close and exact: how long they had sat before the reaching, what the reaching had been called, whether the master worked the feeling every day now or only the once. She listened with her whole body, and her stillness changed twice, both times at the same place — where he described being told to reach for where the flame carried — the way still water changes when something passes under it far down. Her face gave out nothing. At the end she said, in the voice of her ordinary evenings: "Show me."
+She wanted all of it, at the lamp — the yard-master's purse, the gradient, the whitening, told back in Kael's own order — and her questions that evening were not the wide ones. They were close and exact.
+
+"How long did he sit you, before the reaching?"
+
+"Most of the hour."
+
+"And his word for it?"
+
+"Reach. Reach for the flame the way you'd reach for warmth through cloth." Kael turned the instruction over. "But it isn't reaching. It's more like listening — for where it carries."
+
+Her stillness changed, the way still water changes when something passes under it far down.
+
+"Does he work it every day now, or the once?"
+
+"The once, so far." He came back along his telling — the guttering candles, the weeping tallow, the fire that stood up off the wax — and then to his own. "Mine did nothing. I found where it carried and spent a grain on it, and nothing."
+
+Her stillness changed again, at the same place, and her face gave out nothing. At the end she said, in the voice of her ordinary evenings: "Show me."
 
 The candle came to the table. And then his mother taught the Temple's lesson the way you re-hang a door a stranger has hung: same door, same frame, everything a half-turn different. The Temple had said reach and push. She said nothing at all for a long time, and made him do nothing for a long time, only feel the flame's carrying until the feeling was old and boring and sure — "until the knowing is in your hands, not your eyes" — and then: "Now. The smallest thing you can do. Smaller than that. Spend a thread."
 

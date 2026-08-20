@@ -2,7 +2,7 @@
 
 The gate stood open, and it was meant to.
 
-That was the first thing the Temple taught him, before any master spoke: a door could stand open on purpose, all day, and be right. He walked through it behind the master into a court the size of the upper meadow, walled in stone that had been asked to be flat and had agreed, and the court was full of the sound he had heard from the road — voices, many, loose, weaving — and his eyes went out and came back with the count before he had asked them to. Two dozen children crossing on nine errands. Three clusters holding ground. Colonnade north and east; the walls gave nowhere. His breath found the long shape. None of it showed.
+That was the first thing the Temple taught him, before any master spoke: a door could stand open on purpose, all day, and be right. He walked through it behind the master into a court the size of the upper meadow, walled in stone that had been asked to be flat and had agreed. The court was full of the sound he had heard from the road — voices, many, loose, weaving — and his eyes went out and came back with the count before he had asked them to. Two dozen children crossing on nine errands. Three clusters holding ground. Colonnade north and east; the walls gave nowhere. His breath found the long shape. None of it showed.
 
 The air was crowded here too, but crowded differently than the one other crowded air he knew — ink somewhere, and wet stone, and bread in quantities no one family could want, and under everything the smell of many people being ordinary. His body checked it the way you check a pail lid, and let it pass.
 
@@ -26,7 +26,7 @@ The pen took *Kael* and then stood, patient as a heron, over the long empty stre
 
 The pen came down and made the emptiness official with a small line, the way you close an account. And Kael saw — because his eyes did what they always did — that the line took the clerk less time than any single name of the boy before him, and that two children waiting behind him had heard the whole of it, *charity case* and the line and all, and were already telling it with their faces to a third.
 
-The master left without a farewell. That was its own kind of lesson. On the mountain, the master's leaving was the end of the best day of the year. Here he went the way weather went, and the Temple closed around the space where he had been, and Kael stood in it alone, entered, blank where the fences were, with the day not even at its noon.
+The master left without a farewell. That was its own kind of lesson. On the mountain, the master's leaving was the end of the best day of the year. Here he went the way weather went. The Temple closed around the space where he had been, and Kael stood in it alone — entered, blank where the fences were, the day not even at its noon.
 
 ---
 
@@ -36,7 +36,7 @@ The rooms were the strangest part of the morning. The table became a market when
 
 History came before noon, and history nearly undid him.
 
-At home history was rationed. It came in scraps, sideways, while her hands worked, and never — never once in his life — on asking. Here a master with a chronicle open on the lectern *poured* it, reign after reign, in quantities that would have lasted his mother a decade. Around him the heirs of the story dozed on their fists. Kael sat with his hands flat on the bench and took it the way dry ground takes rain, and had to remind himself, twice, to blink like furniture blinks, because the hunger in him had come all the way up to his face.
+At home history was rationed. It came in scraps, sideways, while her hands worked, and never — never once in his life — on asking. Here a master with a chronicle open on the lectern *poured* it, reign after reign, in quantities that would have lasted his mother a decade. Around him the heirs of the story dozed on their fists. Kael sat with his hands flat on the bench and took all of it, every reign, and had to remind himself, twice, to blink like furniture blinks, because the hunger in him had come all the way up to his face.
 
 No one had ever answered him on asking. Here they answered before he asked. He filed the strangeness of that where he filed everything, and under the strangeness, far under, something else went by — small, quick, like a shape running a treeline — and was gone before he could turn to it.
 
@@ -54,7 +54,15 @@ Priscian lectured, and Kael attended him the way he attended the sea.
 
 The trouble came at the end, and he brought it on himself. Priscian, closing, threw a question at the benches the way you throw scraps to hens: "What, then, is flame? Anyone. What is fire?"
 
-The benches offered him what benches offer. It was hot. It was bright. It was the minima in haste, said one boy, who had clearly been fed the doctrine at home and wore it like his coat. Priscian took each answer with the face of a man tasting thin soup. And the itch came up in Kael, the old one, the deep one, because a question was standing in the room with no one under it — and a question from a master was a lifted stone —
+The benches offered him what benches offer.
+
+"It's hot," a boy said, and got the quiet agreement such answers earn.
+
+"It's bright."
+
+"It is the minima in haste," said a third, who had clearly been fed the doctrine at home and wore it like his coat. "Quickened past their nature by the working of the art, whereupon the fiery nature—"
+
+"Whereupon," Priscian said, "you will tell me what nature they had before they hastened." The boy did not. Priscian took the silence with the face of a man tasting thin soup. And the itch came up in Kael, the old one, the deep one, because a question was standing in the room with no one under it — and a question from a master was a lifted stone —
 
 "It's the wood being eaten," Kael said.
 
@@ -77,6 +85,8 @@ The meal was in a hall that held more people than he had ever seen under one roo
 He knew the leader before the leader spoke, the way you know the lead goat: by where the others put their feet. A boy of eleven or twelve, tall for it, built a year ahead of his age, with dark-gold hair and a chain of a name Kael had heard twice already that morning traveling ahead of its owner — Aurelian Corvane. Kael's body priced him on the way over: unspent strength, carried high, the stand of a boy who had never once been put on the ground by anything. And the table priced him too, in its own language — room arriving around him where no one had moved — so that he crossed the hall the way weather crosses water, announced by the surface. He came with four behind him and stopped across the table with the pleasantness of someone doing a thing he has done before and enjoys.
 
 "The charity case," Aurelian said, to his four, presenting him. Then, to Kael, kindly, the way you speak to something in a pen: "So what does a herder study up a mountain? Goats?"
+
+"Say yes," one of the four said, low, to the others. "Please say yes."
 
 And Kael — because a question was a question, and this one had an answer, and no one had ever taught him that some questions are only thrown to watch you flinch — considered it honestly and answered it honestly. "Yes. Goats teach a lot. Where they'll put their weight, what they'll spook at, what they can eat that you can't." He thought a moment more, because the answer was still coming, and gave the rest of it: "And weather, and snares, and mending. And letters, from my mother."
 
@@ -104,7 +114,13 @@ His mother was in the doorway, and the good smell came out past her, and on the 
 
 "Sit," she said. "Eat. And tell me."
 
-So he told her. And here was the strange thing, the thing he turned over for years afterward without ever wearing it smooth: she asked. All his life the questions had run one way, downhill from him, and she had answered until his head was full, and tonight she sat across from him with her hands still and her supper cooling and asked — what the rooms were like, and what the philosopher had said, and how they taught the letters, and what the other children — and stopped, and started differently — what the masters were called, and he answered and answered, he talked the way Oss talked, he heard himself doing it, and she listened with her whole body the way she listened to birds. Once, when he was telling the part about the book the size of a door, and the pen, and how his name had gone in short with the empty place after it, her eyes went to his father's, one glance, quick as the shuttle of a loom, and came back, and Kael read the glance the way he read everything and filed it wrong: *they are checking I did it correctly.* Their faces through the whole of his talking were the faces of people at work, attentive, weighing — and then he came to the fire question, and what he had answered, and that the room had laughed and the old man hadn't, and his father made a sound.
+So he told her. And here was the strange thing, the thing he turned over for years afterward without ever wearing it smooth: she asked. All his life the questions had run one way, downhill from him, and she had answered until his head was full, and tonight she sat across from him with her hands still and her supper cooling and asked.
+
+"The rooms first. Where does the light come in? Where did they put you?"
+
+"Wherever there was a space. The lessons stay in their rooms — you go to them. The room *is* the lesson," he said, trying the thought aloud for the first time, and something small and pleased crossed her mouth, and she asked on — how they taught the letters, whose hand they taught; what the philosopher said the world was made of; and what the other children — and stopped, and started differently — "And what are the masters called?"
+
+And he answered and answered, he talked the way Oss talked, he heard himself doing it, and she listened with her whole body the way she listened to birds. Once, when he was telling the part about the book the size of a door, and the pen, and how his name had gone in short with the empty place after it, her eyes went to his father's, one glance, quick as the shuttle of a loom, and came back, and Kael read the glance the way he read everything and filed it wrong: *they are checking I did it correctly.* Their faces through the whole of his talking were the faces of people at work, attentive, weighing — and then he came to the fire question, and what he had answered, and that the room had laughed and the old man hadn't, and his father made a sound.
 
 Kael stopped. It had been short, low, one note — and his father's hand came up and covered the lower half of his own face, thumb and knuckle, a man rubbing his jaw at the end of a day, and above the hand his eyes had gone bright and creased at the corners, and his mother was not looking at either of them, she was looking at the bread, cutting it, and her mouth was pressed the way she pressed it when the bird got the song wrong on purpose, and the lamplight was moving on both their faces.
 
