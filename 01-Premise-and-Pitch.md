@@ -1,6 +1,6 @@
 # 01 — Premise & Pitch
 **Working Title:** TBD
-**Status:** Foundation document — rarely changes. Last updated: 2026-08-09.
+**Status:** Foundation document — rarely changes. Last updated: 2026-08-20, session 12 (POV section amended — single POV now default-not-absolute; strict information rule scoped; full doctrine in 06 §POV). Prior: 2026-08-09.
 
 ## Logline
 
@@ -18,9 +18,9 @@ Each disaster strips another illusion from him and forges what remains. To survi
 
 ## POV & Style
 
-- **Close third limited, single POV** (Kael), from early childhood onward.
+- **Close third limited, Kael-focused** (amended session 12: single POV is the DEFAULT, no longer absolute — governed departures per 06 §POV: external-camera pan-aways with cut-before-the-answer discipline, rare interludes/split-group bits in later acts, occasional first-person reflective slips in Kael at emotional turning points).
 - **Prose matures with his age** (Joyce / *Portrait* technique): early chapters in a child's rhythms; complexity, irony and self-awareness grow as he does.
-- **Strict information rule:** the reader never receives information the POV character doesn't have, except by inference. All dread is built through the gap between his innocence and the reader's adult understanding.
+- **Strict information rule (scoped at amendment):** within Kael's scenes, the reader never receives information he doesn't have, except by inference. Sanctioned departures may show what Kael doesn't know — but they relocate dread, never unseal 00: machinations moving, not answers landing. All dread is still built through gaps between innocence and understanding — Kael's and now sometimes the world's.
 
 ## Structure
 
