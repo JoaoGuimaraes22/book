@@ -16,7 +16,7 @@ REPO_DIR="$(cd "$(dirname "$0")/.." && pwd)"
 CHAPTER_DIR="$REPO_DIR/manuscript/book-one"
 
 title_for() { # chapter filename -> source title (Ch. N — Title)
-  basename "$1" .md | sed -E 's/^0?([0-9]+)_-_/Ch. \1 — /; s/_/ /g'
+  basename "$1" .md | sed -E 's/^0?([0-9]+)-/Ch. \1 — /; s/-/ /g'
 }
 
 # Pick which files to sync

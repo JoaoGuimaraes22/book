@@ -3,10 +3,10 @@
 This is a fiction project. The document system is the sole source of truth; chat history is disposable. Migrated from Claude Chat 2026-08-20; the repo is now a git repository and git history is the authority on what changed.
 
 ## Files
-- `00_-_Author_Canon__SEALED_.md` = SEALED author canon (truths of the story that may NOT yet be revealed on the page. Never contradict; reveal slowly. Append-only, dated blocks; never edit without author ratification.)
+- `00-Author-Canon-SEALED.md` = SEALED author canon (truths of the story that may NOT yet be revealed on the page. Never contradict; reveal slowly. Append-only, dated blocks; never edit without author ratification.)
 - `01`–`04`, `06` = bibles (premise, world, characters, outline, style)
-- `05_-_Continuity_Log.md` = THE WORKHORSE (protocol, established facts, seed ledgers, NEXT TARGET, word-count baselines)
-- `manuscript/book-one/NN_-_Title.md` = manuscript chapters
+- `05-Continuity-Log.md` = THE WORKHORSE (protocol, established facts, seed ledgers, NEXT TARGET, word-count baselines)
+- `manuscript/book-one/NN-Title.md` = manuscript chapters
 
 ## Session protocol (full rules live in 05 §Working Protocol — read them, they win over this file)
 1. VERIFY: `git status` must be clean. Anything modified or untracked that no log entry explains = STOP and report before reading further. Optional cross-check: `wc -w` chapters + 00 against the CANONICAL baselines in 05 (real `wc -w` on this machine is the only valid counter — chat-era counts ran 1–3% under because they missed standalone em-dashes).
