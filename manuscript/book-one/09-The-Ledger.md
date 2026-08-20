@@ -142,7 +142,7 @@ Kael watched the sea do its enormous grey work while his mind, without asking hi
 
 Her stillness changed, the way still water changes when something passes under it far down.
 
-"Does he work it every day now with you, or the just the once?"
+"Does he work it every day now with you, or just the once?"
 
 "The once, so far. One grain, he says, until the body learns the door." He came back along his telling — the guttering candles, the weeping tallow, the fire that stood up off the wax — and then to his own. "Mine did nothing. I found where it carried and spent a grain on it, and nothing."
 
