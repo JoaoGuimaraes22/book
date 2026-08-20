@@ -10,7 +10,7 @@ Kael stood very still, and not in the game way. Somewhere a floor he had stood o
 
 He had theories about the exemption before he reached the trough — the game was for boats that watched, and this boat sailed like a sentence plainly spoken — and he knew, scrubbing his knuckles, that they were the kind of good that wrong theories were.
 
-The house, when he came in, had changed the way the light changes before snow. His mother had the good bread out, the one with the seeds, that rose on feast days and no other days, and it had risen, which meant she had started it last night, which meant she had known last night. His father had put on his other shirt. Kael read the room the way he had been taught to read everything. His father's shoulders had come down from wherever they usually lived. His mother was singing, not bird, not downhill, just humming, loose, the way the goat wandered when the gate was open.
+The house, when he came in, had changed the way the light changes before snow. His mother had the good bread out, the one with the seeds, that rose on feast days and no other days, and it had risen, which meant she had started it last night, which meant she had known last night. His father had put on his other shirt. His father's shoulders had come down from wherever they usually lived. His mother was singing, not bird, not downhill, just humming, loose, the way the goat wandered when the gate was open.
 
 They were not afraid. That was the wrongness. He had no word for how he knew that a stranger should have made them afraid, but he knew it. A stranger was coming up the mountain, and the two of them had gone soft as summer, and the door stood open.
 
@@ -18,7 +18,9 @@ The man who came up the path was old the way the split rock was old — worn to 
 
 "So," the man said. "You're the reason the honey's always gone."
 
-His father laughed. Kael heard it and filed it and could not file it: a short, real laugh, spent like coin, and his father did not spend. His mother came out wiping her hands and the man said something to her in the soft downhill language, the strict one, and she answered in it, easily, three sentences with a smile inside them, and the man bowed his head a little.
+His father laughed. Kael heard it and filed it and could not file it: a short, real laugh, spent like coin, and his father did not spend. "He counts the jar," his father said, "so mind your spoon."
+
+His mother came out wiping her hands and the man said something to her in the soft downhill language, the strict one, and she answered in it, easily, three sentences with a smile inside them, and the man bowed his head a little.
 
 "This is the master," his mother said. "He has come before. You were on the mountain."
 

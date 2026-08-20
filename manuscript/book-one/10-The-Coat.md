@@ -60,11 +60,17 @@ He did not stand near it long.
 
 ---
 
-He walked home under the tail of the storm, and where the road bent above the village the roofs came up at him one by one, and downshore, past the boat-sheds, the cluster stood apart with its smoke standing up like all the others' — ordinary, indistinguishable, a year and a half ordinary — and it was not the same. The story lay over the roofs now, and would lie there for good. The village had not buried that night, he understood, looking down through the grey; it had built on it, the way you build on rock. The night was a place now, a place a story lived, and stories did not die of winter. Salt keeps.
+He walked home under the tail of the storm, and where the road bent above the village the roofs came up at him one by one. Downshore, past the boat-sheds, the cluster stood apart with its smoke standing up like all the others' — ordinary, indistinguishable, a year and a half ordinary — and it was not the same. The story lay over the roofs now, and would lie there for good. The village had not buried that night, he understood, looking down through the grey; it had built on it, the way you build on rock. The night was a place now, a place a story lived, and stories did not die of winter. Salt keeps.
 
 And out of the filed dark of him, unasked, one piece came up — a quiet the size of several men — came up whole, in its own old air, and stood there being the size it was. He walked. The road did what roads do. He put the piece back where the pieces lived, not touching, and by the pens he was a boy coming home from school, because that was true too, and it carried the rest.
 
-His mother asked, because she asked everything now, and he told her the day: the storm, the hall, the sums, a master's cold. The day he gave her had no story in it. He heard the hole in his own telling — he was good at holes; he had been apprenticed to them his whole life without either of them ever saying so — and she did not seem to hear it, and he did not examine his relief. The lamp was lit. The slate came out. Her questions ran under the Temple's answers, the way they ran every night.
+His mother asked, because she asked everything now.
+
+"A whole day indoors," she said. "What does the Temple do with weather?"
+
+"Talks. Sums." He turned his bread. "Somebody's master had a cold."
+
+The day he gave her had no story in it. He heard the hole in his own telling — he was good at holes; he had been apprenticed to them his whole life without either of them ever saying so — and she did not seem to hear it, and he did not examine his relief. The lamp was lit. The slate came out. Her questions ran under the Temple's answers, the way they ran every night.
 
 In the loft, he opened the drawer that had no name and put the day into it, and the drawer would not shut.
 

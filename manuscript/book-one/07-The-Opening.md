@@ -2,7 +2,7 @@
 
 The winter measured him in mendings.
 
-First the arm, which itched under its thread and then itched worse without it, a tightness he was told not to test and tested anyway, alone, in the loft, making a fist until the new skin spoke up. Then the ribs, which measured slower. Ribs kept their own calendar. For a long while there were two kinds of breath, the shallow kind that cost nothing and the deep kind that cost, and he paid for the deep kind sometimes just to know the price, and the price came down by the week, and that was the calendar.
+First the arm, which itched under its thread and then itched worse without it, a tightness he was told not to test and tested anyway, alone, in the loft, making a fist until the new skin spoke up. Then the ribs, which measured slower. Ribs kept their own calendar. For a long while there were two kinds of breath, the shallow kind that cost nothing and the deep kind that cost. He paid for the deep kind sometimes just to know the price, and the price came down by the week. That was the calendar.
 
 Nobody punished him.
 
@@ -44,7 +44,11 @@ His father was quiet. His hand came over and rested on the stitched forearm — 
 
 "The body held," his father said. "We will build the rest."
 
-And that was the sentence the wooden swords had been for. The new school started the day the ribs released him: sword, spear, the bow at distance, his father beside him in everything the way his father had been beside him in the stillness, being it longer, being it better, corrections one stroke at a time. *You have the feet,* the school said, in the school's wordless way. *You have the eyes. Now we put something in your hands.* Kael took to it the way dry ground takes rain, and did not tell anyone, least of all himself, that some of the gladness was that in this school, at last, there was something to swing.
+And that was the sentence the wooden swords had been for. The new school started the day the ribs released him. His father put the shorter waster in his hands, hilt first, and watched him find the weight of it.
+
+"Heavier at the tip than steel," his father said. "So that steel, when it comes, will feel like a gift."
+
+Sword, spear, the bow at distance, his father beside him in everything the way his father had been beside him in the stillness, being it longer, being it better, corrections one stroke at a time. *You have the feet,* the school said, in the school's wordless way. *You have the eyes. Now we put something in your hands.* Kael took to it the way dry ground takes rain, and did not tell anyone, least of all himself, that some of the gladness was that in this school, at last, there was something to swing.
 
 His mother's watching had changed too. He noticed it the first week he was well enough to lie awake properly: the window, the door, her feet in the dark — every night now. The boats no longer decided. He lay in the loft with the old arithmetic in his hands and nowhere to put it, because the pattern he had cracked was gone, and she had never said a word, and this was her answer the way the knife was his father's: *I know what you read. I have made myself harder to read.* He felt the cost of it arrive in him and sit down. She stood two watches now where she had stood one. He had done that.
 
@@ -120,7 +124,7 @@ He told it once more, all the way, the herder's boy, the books, the old man's fo
 
 The road bent, and below it, for the first time in daylight, lawfully, close: the village.
 
-Roofs, and smoke standing up from them, and the harbor with its boats at their work, and sound coming up the slope loose and ordinary — a dog, a hammer somewhere, a woman's voice carrying two notes of something, gulls. People, small and clear, moving between the houses at the pace of chores. Kael's eyes went out, took the whole of it, came back — and his hands had gone quiet on the strap of the bag, too quiet, the stillness arriving in him unasked, the way it had arrived once at the foot of a woodpile. Downshore, past the boat-sheds, a cluster of roofs stood with their smoke standing up like all the others, ordinary, indistinguishable, and he did not look at it longer than he looked at anything, and looking away cost what it cost.
+Roofs, and smoke standing up from them, and the harbor with its boats at their work, and sound coming up the slope loose and ordinary — a dog, a hammer somewhere, a woman's voice carrying two notes of something, gulls. People, small and clear, moving between the houses at the pace of chores. Kael's eyes went out, took the whole of it, came back — and his hands had gone quiet on the strap of the bag, too quiet, the stillness arriving in him unasked. Downshore, past the boat-sheds, a cluster of roofs stood with their smoke standing up like all the others, ordinary, indistinguishable, and he did not look at it longer than he looked at anything, and looking away cost what it cost.
 
 The master, beside him, watched the harbor and said nothing at all. Then he said, "The fish here is better than the mutton. You will hear the opposite. It is villagers being loyal to sheep," and walked on, and Kael came off the stillness like a held breath let go, and followed, and was grateful in a direction he could not have pointed to.
 
