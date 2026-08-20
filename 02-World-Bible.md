@@ -1,5 +1,5 @@
 # 02 — World Bible
-**Status:** Living document — grows as we invent. Last updated: 2026-08-09, session 8 (Ch. 9 canon absorbed: three mage schools; inter-school tournament; declaration leaning-tint amendment; pre-declaration cohort design; dueling culture + one-handed convention; the boards; drain-lore now taught on-page; Ruthen + Drusane named).
+**Status:** Living document — grows as we invent. Last updated: 2026-08-20, session 11 (Time & Term Lexicon section added — controlled vocabulary rule + catalog; Ch. 10 coins committed: storm-weeks, what being seen costs). Prior: 2026-08-09, session 8 (Ch. 9 canon absorbed: three mage schools; inter-school tournament; declaration leaning-tint amendment; pre-declaration cohort design; dueling culture + one-handed convention; the boards; drain-lore now taught on-page; Ruthen + Drusane named).
 
 ## The Empire — THE VESSANTINE EMPIRE
 - **Name (CANON):** the Vessantine Empire; ruling dynasty House Vessantine.
@@ -85,8 +85,8 @@
 ## Time & Term Lexicon (ratified session 11 — coined register terms are CONTROLLED vocabulary)
 - **Rule:** the book's coined terms for seasons, calendar, and institutions are a controlled lexicon. Each term is CONSISTENT (never improvise a synonym for a logged term) and OWNED by a place and culture — when geography or culture changes (Book Two's continent, coalition lands, the far continent), each locale mints its own terms rather than inheriting the island's. New coinages are logged here at chapter commit.
 - **Village register (island):** the dark of the year (longest night) · the winter feast / feast night.
-- **Temple register:** the cold term (winter term) · the turn toward spring · the boards (twice-yearly standings) · first workings · the roll · the yard / the yard-master · storm-weeks (the drowned-yard weeks of deep winter, children's vernacular — coined Ch. 10, pending commit).
-- **Mountain / Kael's narration register:** winter's turn (the seam of the year) · "Evening" (the daily deadline — Vask's word) · the long game · his personal lexicon (far-counting, the standing game, what fire eats, what being seen costs [Ch. 10, pending commit] — see 03, the lexicon habit).
+- **Temple register:** the cold term (winter term) · the turn toward spring · the boards (twice-yearly standings) · first workings · the roll · the yard / the yard-master · storm-weeks (the drowned-yard weeks of deep winter, children's vernacular — coined Ch. 10).
+- **Mountain / Kael's narration register:** winter's turn (the seam of the year) · "Evening" (the daily deadline — Vask's word) · the long game · his personal lexicon (far-counting, the standing game, what fire eats, what being seen costs [Ch. 10] — see 03, the lexicon habit).
 - **Scholarly register:** see Naming Registers ("the minima").
 
 ## Open Questions
