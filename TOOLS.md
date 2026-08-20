@@ -5,7 +5,7 @@
 Google NotebookLM driven from the terminal (`nlm --help`; authenticated as the author's Google account; WSL login via `nlm login --wsl`). Mostly idle — reach for it deliberately, not by default.
 
 ### The standing instrument (in active use)
-- **"Book One — Reader Copy"** (`ce62aafb-0d6c-45af-becc-5bdf01d9799c`) — clean-reader simulator. Chapters only, never bibles/00/05. Query with `nlm query notebook <id> "..."`. Sync after prose changes: `scripts/sync-reader-notebook.sh`. Full rules: 05 §READER-COPY INSTRUMENT, CLAUDE.md §Instruments.
+- **"Book One — Reader Copy"** (`ce62aafb-0d6c-45af-becc-5bdf01d9799c`) — clean-reader simulator. Chapters only, never bibles/00/05. Query with `nlm query notebook <id> "..."`. Sync after prose changes: `scripts/sync-reader-notebook.sh`. Full rules: this file §Rules + CLAUDE.md §Instruments; probe records in `archive/session-log.md` §READER-COPY INSTRUMENT.
 
 ### Dormant capabilities (documented so we remember they exist)
 All operate on a notebook's sources; artifacts land in NotebookLM's Studio (`nlm studio`, `nlm download`, `nlm export` to Google Docs/Sheets).

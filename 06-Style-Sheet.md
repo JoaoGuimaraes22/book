@@ -2,7 +2,7 @@
 **Status:** Mostly stable. Last updated: 2026-08-09.
 
 ## POV
-- Close third limited, single POV (Kael). No cutaways, no other POVs.
+- Close third limited, single POV (Kael). Mostly no cutaways, mostly no other POVs.
 - Reader never knows more than he does, except by inference.
 
 ## The Maturing Voice
