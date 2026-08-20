@@ -14,7 +14,7 @@ This is a fiction project. The document system is the sole source of truth; chat
 3. Confirm target via the NEXT TARGET block in 05. Never improvise a target, only if requested.
 4. New chapters: mandatory design argument first (as specified in NEXT TARGET) → propose chapter shape → WAIT for approval → draft.
 5. Revisions: propose per-chapter cut/addition tables with projected counts; flat-or-leaner rule per chapter (against 05's CANONICAL baselines); failed passes get redone. Cut material is recoverable from git history — restoration is one edit.
-6. Every decision commits to a file before session close. Session closes with a `git commit` (short imperative subject); update baselines in 05 whenever prose changes.
+6. Every decision commits to a file before session close. Session closes with a `git commit` (short imperative subject) + `git push`; update baselines in 05 whenever prose changes.
 7. Ceiling: two chapters of new prose per session; three only if structurally simple.
 
 ## Hard rules
