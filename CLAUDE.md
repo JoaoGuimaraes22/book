@@ -19,6 +19,7 @@ This is a fiction project. The document system is the sole source of truth; chat
 
 ## Instruments
 - **Reader-copy notebook (NotebookLM via `nlm`):** clean-reader simulator holding manuscript chapters ONLY — never add bibles, 00, or 05 to it (its blindness to sealed canon is the point). Query it for legibility probes before committing a chapter; treat answers as reader-inference evidence, never canon. Re-sync after prose changes: `scripts/sync-reader-notebook.sh` (part of session close). Full rules in 05 §READER-COPY INSTRUMENT.
+- `nlm` has further dormant capabilities (reports, mind maps, audio overviews, expectation probes) — catalog and usage rules in `TOOLS.md`.
 
 ## Hard rules
 - Never edit 00 without explicit author ratification; additions are dated append-only blocks.
