@@ -1,5 +1,12 @@
 # Tools
 
+## Repo scripts (`scripts/`)
+- `verify.sh` — session-open check: git tree clean + `wc -w` vs canonical baselines in 05. Protocol step 1 is now this one command.
+- `check-echoes.sh [files]` — protected-phrasing scan against 07's list. With a draft: every protected phrase it contains (each must be deliberate). Without args: phrases appearing in >1 chapter across the manuscript. Detects only; judgment stays human.
+- `build-manuscript.sh [epub]` — concatenates chapters into `build/Book-One.md` (+ EPUB via pandoc) for read-through passes. `build/` is derived, gitignored.
+- `sync-reader-notebook.sh` — pushes changed chapters to the reader-copy notebook (below).
+- `probe-reader.sh <label>` — standard reader-probe battery (knowledge / expectation / confusion), saved to `archive/probes/<label>.md` so probes stay comparable chapter over chapter. Run after commit + sync.
+
 ## NotebookLM CLI (`nlm`)
 
 Google NotebookLM driven from the terminal (`nlm --help`; authenticated as the author's Google account; WSL login via `nlm login --wsl`). Mostly idle — reach for it deliberately, not by default.

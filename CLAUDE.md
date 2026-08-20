@@ -11,11 +11,11 @@ This is a fiction project. The document system is the sole source of truth; chat
 - `manuscript/book-one/NN-Title.md` = manuscript chapters
 
 ## Session protocol (full rules live in 05 §Working Protocol — read them, they win over this file)
-1. VERIFY: `git status` must be clean. Anything modified or untracked that no log entry explains = STOP and report before reading further. Optional cross-check: `wc -w` chapters + 00 against the CANONICAL baselines in 05 (real `wc -w` on this machine is the only valid counter — chat-era counts ran 1–3% under because they missed standalone em-dashes).
+1. VERIFY: run `scripts/verify.sh` (git tree clean + `wc -w` vs the CANONICAL baselines in 05). Any failure it can't explain = STOP and report before reading further.
 2. COLD READ all bibles (incl. 07) + all chapters. Flag anything that itches BEFORE any work. The archive is history, not part of the cold read — spot-read it only when a session record is needed. (Tiered-read amendment in 05 applies from ~Ch. 12.)
 3. Confirm target via the NEXT TARGET block in 05. Never improvise a target, only if requested.
 4. New chapters: mandatory design argument first (as specified in NEXT TARGET) → propose chapter shape → WAIT for approval → draft.
-5. Revisions: propose per-chapter cut/addition tables with projected counts; flat-or-leaner rule per chapter (against 05's CANONICAL baselines); failed passes get redone. Cut material is recoverable from git history — restoration is one edit.
+5. Revisions: propose per-chapter cut/addition tables with projected counts; flat-or-leaner rule per chapter (against 05's CANONICAL baselines); failed passes get redone. Cut material is recoverable from git history — restoration is one edit. Run `scripts/check-echoes.sh` on any new/revised chapter (every protected-phrase hit must be a deliberate echo) and report tic counts per the MODEL-TIC SELF-AWARENESS rule (07 §Standing Rules).
 6. Every decision commits to a file before session close. Session closes with a `git commit` (short imperative subject) + `git push`; update baselines in 05 whenever prose changes.
 7. Ceiling: two chapters of new prose per session; three only if structurally simple.
 
