@@ -21,7 +21,7 @@
 - PART I COMPLETE (Ch. 1–7). PART II: Ch. 8 Enrollment, Ch. 9 The Ledger, Ch. 10 The Coat (SPENT — beats 8–10 complete). Part II = Temple years 10–12 with peers BEFORE Valeria (~12). Ch. 11 (beat 11, years pass + THE CROSSING scene) = NEXT. The Oss/Elarine braid: Ch. 9–10 legs done; the crossing (the day Kael reads Oss among the laughers = the day Elarine sits down, one scene if the draft allows) lands in Ch. 11. Whisper spent; coat policy live; declaration placement UNDECIDED (see NEXT TARGET).
 
 ## WORD-COUNT BASELINES (CANONICAL — real `wc -w`, this machine; single valid counter since migration; flat-or-leaner budgets use these)
-- Ch. 1 = 1,276 · Ch. 2 = 1,653 · Ch. 3 = 2,262 · Ch. 4 = 2,278 · Ch. 5 = 2,651 · Ch. 6 = 3,182 · Ch. 7 = 3,576 · Ch. 8 = 3,676 · Ch. 9 = 4,652 · **Ch. 10 = 3,213** · **00 = 6,157** (session 11: audit flags cleared from 00 on author ratification; prior 6,158)
+- Ch. 1 = 1,276 · Ch. 2 = 1,653 · Ch. 3 = 2,262 · Ch. 4 = 2,278 · Ch. 5 = 2,859 (session-12 dialogue pass, +208 over old 2,651 — GROWTH PENDING AUTHOR RATIFICATION; flat-or-leaner waived for the dialogue/relationship revision by author direction, confirm at close) · Ch. 6 = 3,182 · Ch. 7 = 3,576 · Ch. 8 = 3,676 · Ch. 9 = 4,652 · **Ch. 10 = 3,213** · **00 = 6,157** (session 11: audit flags cleared from 00 on author ratification; prior 6,158)
 - (Chat-era baselines superseded — the old counter missed standalone em-dashes; full finding in archive §MIGRATION hygiene.)
 
 ## SESSION 12 OPENER (ready to paste)
