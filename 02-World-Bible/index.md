@@ -9,6 +9,7 @@
 - [The Mountain Curriculum (the parents' schools)](curriculum.md)
 - [Geography](geography.md)
 - [The Temple](temple.md)
+- [Dueling Culture](dueling.md)
 - [Naming Registers](naming.md)
 - [Controlled Lexicons](lexicon.md)
 - [Open Questions](open-questions.md)
