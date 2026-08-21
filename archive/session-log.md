@@ -167,3 +167,12 @@ Doc-system compaction for long-term LLM efficiency. Agreed scope (author-ratifie
 ## SESSION 18 ADDENDUM 4 — 2026-08-21 (changelogs)
 - `changelog.md` added to 02 and 03 (author-directed; 02's text supplied by the author) — one line per session, newest first, appended at each session close; linked first in each index; replaces fat status chains in the folder bibles (the rolled chains stay above).
 
+
+## SESSION 18 ADDENDUM 5 — 2026-08-21 (THE 04 COMPACTION, author-directed: "04 is just the next goals")
+- **Move:** `04-Outline.md` reduced to the FORWARD PLAN. Spent beats 1–12 collapsed to one-line pins (title + SPENT + chapter + age); full pre-compaction beat text, the Part II framing blocks, and both superseded plans (the session-12 Ch. 11 brief; the beat-12 amendment note) rolled VERBATIM to `archive/outline-archive.md`. 3,819 → 1,431 words (−63%), all of it forward-facing.
+- **Spine kept:** every beat number 1–20 + 10b still present in 04. Beat numbers are load-bearing addresses — 00, 02, 03, 05, 07 and this log cite spent beats by number (3, 5, 6, 7, 8, 10, 12 among them); pins keep every reference resolvable.
+- **New section in 04:** §Queued threads (unspent; no fixed beat) — the history discrepancy (the old Part II reserved beat), Sanctum-fingerprint follow-ups, Halden's next move, Oss estrangement beats, the concession ladder. These were previously scattered across the Part II preamble, beat 11's tail, and the 04 status line, and duplicated in 05 §NEXT TARGET.
+- **Two orphans found and PROMOTED to 07 §Standing Rules** (recorded nowhere else in the system): (1) THREE STACKED SYSTEMS — the Part II engine (ignorance + settlement fear + armor; threat-calibration; calm enrages; escalation spiral); (2) CRACKED WASTER — INERT FOREVER (ruled session 12, buried in the superseded brief). Engines 2–4 (science-vs-pride, the parallel track, the honesty gradient) and the whole session-4 seeds block verified already covered in 07/02/03/00 before archiving.
+- **Stale-outline bug fixed:** beat 8 was never marked SPENT though `08-Enrollment.md` committed at session 8.
+- **Verification:** line-level diff of pre/post 04 — every non-empty removed line present verbatim in `archive/outline-archive.md`; only the three Part headings differ, by an appended COMPLETE/OPEN state marker. Beat-coverage check: none of 1–20 + 10b missing. No prose touched.
+- **Also this addendum:** the 02/03 index status lines repointed to their own `changelog.md`, and each changelog given a header line carrying the pointer on to this log (77b5d7a).

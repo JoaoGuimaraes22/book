@@ -8,6 +8,7 @@ This is a fiction project. The document system is the sole source of truth; chat
 - `05-Continuity-Log.md` = LIVE STATE, the workhorse (status, NEXT TARGET, working protocol, arc state, canonical word-count baselines — churns every session)
 - `07-Story-Ledger.md` = LAW (do-not-contradict canon: timeline, chapter summaries, standing rules, planted-clue ledger, magic snapshot, established facts, protected phrasings — changes only when canon changes; read every session like a bible)
 - `archive/session-log.md` = HISTORY (append-only session records and design logs — spot-read on demand, never edited)
+- `archive/outline-archive.md` = the spent-beat text and superseded plans rolled out of 04 (04 keeps only the forward plan + one-line pins) — spot-read on demand
 - `manuscript/book-one/NN-Title.md` = manuscript chapters
 
 ## Session protocol (full rules live in 05 §Working Protocol — read them, they win over this file)
