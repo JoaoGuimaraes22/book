@@ -1,0 +1,10 @@
+# Changelog
+s18 (2026-08-21) — Folder split: one file per character + index (pure TOC). Terse sheet format ratified: Glance / STATIC / DYNAMIC / FORWARD; appearance entries inlined (ledger → register rules only); ripple ledgers dropped (chapter history lives in 07); session-9 amendments moved to the archive. ENDGAME KIT header restored after a session-17 splice. Pre-split file at git a804bd4; pre-conversion sheets at 6981067.
+s17 (2026-08-21) — Ch. 14 "The Measure": Valeria arrival spent (beat 12 with amendments); her appearance sealed; Kael first loss / wall belief / danger self-knowledge; Aurelian "better than my brother" + the mirror line; Elarine fiction-mechanic on the flash + judge-watch; Halden dossier escalation; Oss structural-hole spend.
+s16 — Ch. 13 "The Coat": Kael tuition / hidden contact / furniture failure; Vask margin line; Oss coerced joke + estrangement (sealed truth); Aurelian apology spent (arc accelerated); Elarine confession (bound-to-fate canon); HALDEN entry added (sealed: Corvane's man). Session-15 splice repaired.
+s15 (2026-08-21) — Ch. 12 "The Telling": Kael beyond-the-sea want + confrontation / anger / prohibition; Vask braid school + danger speech; Neris fear shown + "He will not be spent"; Severin pan-away counsel + concession door; Oss futures scene; Elarine arrangement institutionalized.
+s14 — Resonance vocabulary reform applied throughout; Severin = Resonant, earth + nature dual proficiency (sealed).
+s13 (2026-08-20) — WHAT/WHY split ratified; Aurelian valued-not-hand-waved; Vask hand-to-hand beats (Ch. 5); Lucan spar rebuilt as system-read. Post-checkpoint: Ch. 10 deleted for redo.
+s11 — Ch. 10 (deleted draft) ripples logged; defining-axis emphasis pointer added.
+s9 (2026-08-12) — Paternity sealed (00; pointers in entries); appearance ledger ratified in full; revision-pass spends (Severin bodied, Oss's too-new clothes, the Lucan lines, Aurelian's radius).
+s8 (2026-08-09) — Ch. 9: Ruthen entry; Lucan Drusane added; Aurelian fire sealed; Elarine loss beat + crumb; Oss sea-wall; endgame kit direction.

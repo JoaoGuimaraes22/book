@@ -164,3 +164,6 @@ Doc-system compaction for long-term LLM efficiency. Agreed scope (author-ratifie
 - Dedup applied: the released-names ledger left to 07 (its one home); Kael's boards record left to 07. HYGIENE FIX: "Dain" removed from the guard-register examples — released session 7 per 07 (stale artifact caught in the rewrite's cold read).
 - Verification: every quoted span from the old 02 located in the new folder or its one home (07/00/05/the page); coverage check logged below the commit.
 
+## SESSION 18 ADDENDUM 4 — 2026-08-21 (changelogs)
+- `changelog.md` added to 02 and 03 (author-directed; 02's text supplied by the author) — one line per session, newest first, appended at each session close; linked first in each index; replaces fat status chains in the folder bibles (the rolled chains stay above).
+

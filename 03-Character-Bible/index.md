@@ -1,11 +1,12 @@
 # 03 — Character Bible (index)
-**Status:** Last updated 2026-08-21, session 18 — folder split + terse sheet format ratified (Glance / STATIC / DYNAMIC / FORWARD; appearance inline). Refresh DYNAMIC for every character a chapter touches, at each close. History: archive/session-log.md.
+**Status:** Sheet format: Glance / STATIC / DYNAMIC / FORWARD, appearance inline. Refresh DYNAMIC for every character a chapter touches, at each close; one changelog line per session, appended at each close. Full records: archive/session-log.md.
 
 Template per character: Name/Role · Want · Wound · Flaw/Limit/Awkwardness · Voice · Arc · Status.
 Sheet structure (session 18 addendum): **Glance** line (Role · Faction · Age as of Ch. N · Status) → **STATIC** (identity + design incl. Appearance; changes only by ruling) → **DYNAMIC** (current state as of the latest chapter; refresh at every close) → **FORWARD** (unsealed arc directions + banked material; sealed truths live in 00, pointers only). Register: to the point — no justification, no story beats, no session citations; chapter-by-chapter history lives in 07 §Chapter Records.
 
 ---
 
+- [Changelog](changelog.md)
 - [KAEL (protagonist)](kael.md)
 - [VALERIA VEL](valeria.md)
 - [VASK (the father)](vask.md)

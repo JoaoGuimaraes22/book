@@ -1,8 +1,9 @@
 # 02 — World Bible (index)
-**Status:** Last updated 2026-08-21, session 18 — folder split + terse rewrite (register: to the point; chapter pins kept as spend-state, session archaeology dropped). Grows as we invent; new canon lands in its topic file at chapter commit. History: archive/session-log.md; pre-split file at git e6a9865.
+**Status:** Grows as we invent — new canon lands in its topic file at chapter commit; one changelog line per session, appended at each close. Full records: archive/session-log.md.
 
 ---
 
+- [Changelog](changelog.md)
 - [The Vessantine Empire · the Coalition · the Program](factions.md)
 - [The Bloodline (public layer)](bloodline.md)
 - [Magic (system canon)](magic.md)
