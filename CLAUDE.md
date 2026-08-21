@@ -4,7 +4,7 @@ This is a fiction project. The document system is the sole source of truth; chat
 
 ## Files
 - `00-Author-Canon-SEALED.md` = SEALED author canon (truths of the story that may NOT yet be revealed on the page. Never contradict; reveal slowly. Append-only, dated blocks; never edit without author ratification.)
-- `01`–`04`, `06` = bibles (premise, world, characters, outline, style). `03` is a FOLDER since session 18 (`03-Character-Bible/` — one file per character + `appearance-ledger.md` + `session-9-amendments.md`; `index.md` = pure TOC, no facts). "Read 03" = read every file in the folder.
+- `01`–`04`, `06` = bibles (premise, world, characters, outline, style). `02` and `03` are FOLDERS since session 18 (`02-World-Bible/` — topic files; `03-Character-Bible/` — one file per character + `appearance-ledger.md`; each has `index.md` = pure TOC, no facts). "Read 02/03" = read every file in the folder.
 - `05-Continuity-Log.md` = LIVE STATE, the workhorse (status, NEXT TARGET, working protocol, arc state, canonical word-count baselines — churns every session)
 - `07-Story-Ledger.md` = LAW (do-not-contradict canon: timeline, chapter summaries, standing rules, planted-clue ledger, magic snapshot, established facts, protected phrasings — changes only when canon changes; read every session like a bible)
 - `archive/session-log.md` = HISTORY (append-only session records and design logs — spot-read on demand, never edited)

@@ -1,0 +1,8 @@
+## GEOGRAPHY
+- **The archipelago:** rich in resources; home to wealthy noble merchant families.
+- **The island (Book One):** its differentiator is the TEMPLE — where the empire sends talented young royals and nobles for a few years to be forged into future leaders, generals, Resonants.
+- **The village:** small; its lights visible from the mountain at night ("the stars that fell down the mountain"). Keeps the WINTER FEAST on the dark of the year — the longest night, lamps everywhere, everyone down at the water till morning. Since the feast night of Ch. 6 it carries a ghost story: a crew of men found dead, no survivors — "something came down off the mountain on the longest night"; wrong in details, true in center, pointing up (the folklore valve — 00; Temple leg spent Ch. 12).
+- **Temple geography (Ch. 7):** the Temple stands south along the coast on a headland — visible from the mountain all Kael's life as "a pale shape." The lawful road runs down past the split rock, bends HIGH ABOVE the village (within sight and sound, never through it), then out along the coast's shoulder. Kael commutes daily ("Evening" = the deadline); the daily pass keeps the world at the exact distance of his whole childhood — seen, heard, unentered — and gives the folklore a vector to reach him sideways.
+- **The family's home:** isolated, in the mountains, sea approaches watchable. Why THIS island: the master placed the parents here — hiding in the empire's own shadow, inside the blind spot of the man who runs the light.
+- **The continent (Book Two+):** empire heartland, subjugated nations, coalition territory. Map: TBD.
+- **The far continent:** officially doesn't exist. Clues only (00).
