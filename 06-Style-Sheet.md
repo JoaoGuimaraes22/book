@@ -50,4 +50,5 @@
 
 ## Author taste notes (calibration, not rules)
 - **Interiority is the seasoning, scene is the meal.** Kael's deep head is the story's depth — keep it — but favor dialogue and real-time action over narrated summary whenever both can carry the beat. A lot of descriptive/interior text over action and dialogue reads boring to the author.
+- **"Telling the reader what to feel" is a FLAG, not a verdict** (author ruling, session 19). The §Things to Avoid entry points at prose that substitutes an emotion-label for the scene that would have earned it. It does not ban the naked statement of feeling: a line that names what a character feels, in his own register, at a moment the book has already paid for, is allowed and is sometimes the right line. Weigh each instance; never auto-fail one on the rule's name alone.
 - **The causal chain stops at the first why.** The child's-logic chains earned their density in Ch. 1–3; from Part II, links that re-derive established canon ("the why of the why") get cut — trust the plant. Not a flag system; an ear.

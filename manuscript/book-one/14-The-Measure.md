@@ -91,7 +91,7 @@ The itch did not ask. It never had. It was the one thing in him that had never o
 
 Kael was stepping out of the line before the arithmetic of the coat could finish running. It did not get to finish. It stood there, half-summed, holding its columns, while his body walked into the drawn measure with a waster in one hand, in front of the First Master and the judge and the officials and the assembled gold of the island, and every eye in the yard arrived on him at once, and all of it showed.
 
-"You're crazy," Elarine said, low, somewhere behind him, watching her peer's strange smile as he was getting up.
+"You're crazy," Elarine said, low, somewhere behind him.
 
 "I know," he said, to the measure, and took his ground.
 
@@ -111,7 +111,7 @@ The boredom was gone. Her eyes were awake, fully, aimed at him the way his were 
 
 She began to press, and pressing, she began to win.
 
-It was not one thing. It was the sum: reach answered, lanes closed, the twin blades running his single one into arithmetic that got one exchange worse each time it ran, her stillness spending itself into speed with no lazy place anywhere in the spending for him to put a lever against. The measure shrank around him. His shoulder burned where a cut had already been paid for once today by someone else. He was losing, on the numbers, in front of the empire, and the counting in him laid the columns side by side and returned its flat verdict: plain, he could not beat her. Nothing plain he owned would arrive in time.
+It was not one thing. It was the sum: reach answered, lanes closed, the twin blades running his single one into arithmetic that got one exchange worse each time it ran, her stillness spending itself into speed with no lazy place anywhere in the spending for him to put a lever against. The measure shrank around him. His jaw stung where she had already spent one answer on it. He was losing, on the numbers, in front of the empire, and the counting in him laid the columns side by side and returned its flat verdict: plain, he could not beat her. Nothing plain he owned would arrive in time.
 
 There was no moment when he chose.
 

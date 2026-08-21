@@ -127,7 +127,13 @@ So now the wasters worked while small threads of lightning lived in his off hand
 
 "If the threading dies, you are a boy with a sword," he said. "If the sword stops, you are a boy with a trick. Neither wins. Now look."
 
-His father began. He threaded his lightning cleanly through his hand. Went to a tree, and put his hand through its thick trunk, as if the wood was wool. Kael saw it for what it was. The amount of precision needed to contain lightning in his hand, threading it so finely and precisely, transforming his own hand into the sharpest of blades. Now, he questioned, what if the threading was done to his blade itself. *What could it not cut?*
+His father began. He threaded the lightning through his own hand, and put the hand through the trunk of a tree, wrist-deep, as if the wood were wool, and drew it out. The tree stood there with a hole through it.
+
+Kael read the holding, not the hole. Lightning kept inside the shape of a hand, spent at exactly the rate the hand could bear, an edge finer than anything on the wall at home. His father had not carried a blade to that tree. He had made one out of a part of himself, and then unmade it.
+
+The next question came up on its own, the way they did. If it could be done to a hand, it could be done to what the hand held.
+
+*What could it not cut?*
 
 By the turn of the month there had come one exchange — one — where the parry landed and the threading lived through it, and his father saw it, because his father saw everything, and nodded, one nod, a half smile, and called the next stroke.
 
@@ -173,7 +179,7 @@ And she let him see her face while she said it. All his life the fear had lived 
 
 He ran it, because running things was what he was. Years of rules stood up one by one and walked to the answer and sat down around it — the fire in its hole, the boats counted, the blade in the dark, the smallness of every lesson — and nothing in him could find the lie. The answer had no face, no name, no shape, and it fit everything. That was the worst thing at that table: he believed them.
 
-"You will stay enrolled, of course," his mother said. "The Temple. The yard. Every school in this house. Everything we should give you, you will have." He heard it all and yet he knew; the Temple, the yard, his parent's teachings: it is not everything there is. And he yearned for more. For more and more every passing day. He yearned so deeply it scarred him deep inside where no one could see.
+"You will stay enrolled, of course," his mother said. "The Temple. The yard. Every school in this house. Everything we should give you, you will have." He heard it all and yet he knew; the Temple, the yard, his parents' teachings: it is not everything there is. And he yearned for more. For more and more every passing day. He yearned so deeply it scarred him deep inside where no one could see.
 
 He sat very still, and none of it showed, and both of them read all of it anyway.
 
