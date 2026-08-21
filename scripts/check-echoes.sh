@@ -18,12 +18,16 @@ python3 - "$@" <<'EOF'
 import re, sys, glob, collections
 
 ledger = open("07-Story-Ledger.md").read()
-lines = [l for l in ledger.splitlines() if "On-page canon phrasing" in l]
-if not lines:
-    sys.exit("protected-phrasings line not found in 07")
+# Protected phrasings live in their own section since the session-18 restructure:
+# one phrase per line, from the header containing "On-page canon phrasing" to the
+# next "## " header or end of file. Retired phrases are listed unquoted -> skipped.
+m = re.search(r"^##[^\n]*On-page canon phrasing[^\n]*\n(.*?)(?=^## |\Z)",
+              ledger, re.M | re.S)
+if not m:
+    sys.exit("protected-phrasings section not found in 07")
 
 phrases = set()
-for quoted in re.findall(r'"([^"]+)"', lines[0]):
+for quoted in re.findall(r'"([^"]+)"', m.group(1)):
     # split ellipses/slashes into independently searchable fragments
     for frag in re.split(r"\.\.\.|/", quoted):
         frag = frag.strip(" .,—")

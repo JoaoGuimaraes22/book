@@ -173,7 +173,6 @@
 - The raiders are COALITION forces; Kael's initial truth: they are the enemy.
 - The master placed the parents on the island; brought Kael to the Temple as "the master's charity case."
 - Kael doesn't learn surnames exist until the Temple.
-- **On-page canon phrasing (protect; echo deliberately or not at all):** "the stars that fell down the mountain" · "when the sea freezes" · "true things" · "his mother speaks bird" · "spilled/spilling" (movement failure) · "part of the mountain" · "outside belongs to the wind" · "Again tomorrow" · "Done" (Vask's release word) · the dropped-fingers sign · **Ch. 3:** "so you never pick wrong" · "A bad employer" · "Everything heavy is lazy" · "things that cannot lie make the best witnesses" · the itch that cannot be out-waited · "his questions had questions" · "Supper was the answer" · "far-counting" · "the standing game" · the shut doors (of her stories) · "No. It's his." · **Ch. 4:** "He unties things" · "It keeps the cold out" · "Now we begin" · "You were on the mountain" · the liar's knot · "the lazy place" · "part of the house" · the third voice · **Ch. 5 additions:** "a door painted on a wall" · "the more salt the water carries, the deeper the cold must bite to hold it" · "the family trade" · "both things were real" · "She never noticed that he stopped" · "The mountain did not notice" · "nine years and a winter old" · the winter feast / the dark of the year · **Ch. 6 additions:** "the plural of person" · the tapping hand (NEVER explain, NEVER reuse) · "It wanted to stop being made. It was being made anyway." · "the first thing his body had ever known before he did that no one had put there" · "He had a school for this. He had never once been told what the school was for." · "a quiet the size of several men" · "not enough" (his misfiled verdict) · "He never learned whether the line had held" · "the mending school arrived at last at the thing it had always been for" · **Ch. 7 additions:** "The body held. We will build the rest." · "A count you hurry is a wish" · "It ends the argument the same and costs him less" · "we know everything, and here is your knife" (the wall's language) · "I know what you read. I have made myself harder to read." (her wordless answer, Kael's reading) · "It is not ours to teach" · "with both hands, like a tool" (the given not-knowing) · "A story is not a wall... a coat" · "keep what is true, it carries the rest" · "Hold that. It is the only thing I am worried you'll lose." · "Home to the temple. The temple to home. Never beyond." (THE RULE) · "a wall around the itch / a road cut through the middle of it" · "Evening" (Vask's farewell = come home) · "looking away cost what it cost" · "Come along, charity case" · "ready, in the oldest part of him, for the ground" · **Ch. 8 additions:** "The gate stood open, and it was meant to" · "Empty is true" · "Then I am done carrying you" · the book the size of a door / the blank column · "nothing was also a thing the pen would have to write" · "the minima — the smallest grains of the world" (Priscian's delivery) · "a roof arriving over a room he had lived in all his life... and the word was not hers" · "You can watch it choose" · "We have a fire" / "Everyone has a fire" · "nothing here is heavy" · "It talks" · "Everyone says Oss. You should too, it's faster" · "she's priced everyone in this Temple and no one's met it yet" · "one clean seam of it, like quartz through rock" · "Sit. Eat. And tell me." · "You told a room of the empire's sons... that everyone has a fire." / "We do have a fire" · "the best supper Kael could remember" · the carried-across-ice hand · "her questions running under the Temple's answers like water under a boat" · "trading the day back and forth — his day" · **Ch. 9 additions:** "the yard-master" the way you said "the sea" · "Strength is a purse... The ones who like spending always think the purse is the man" · "before I let any of you spend a grain, you will learn what spending is" · "The body kept the receipt" · "this too had been taught, without one word spent on it" · "when it settles it settles" · "The art runs in the blood, and the blood runs in the houses" · "Somebody's blood in that line somewhere. Someone's bastard, then." · "What did the mountain expect" · "a nail among rings" · "watch the pointing, not the laughing" · "Nobody on the mountain saluted the weather" · "no language at all" (the yard's second offense) · "a small permanent receipt for someone else's spending" · "Then whose is the mist?" / "The mist has never heard of them" · the coin on the table (her hand over the slate — Priscian's half cut session 13) · "My grandfather chose it off a list. I've seen the list." · "Quiet." (his whole mountain, wearable) · "both of them were served, and neither of them was met" · "seeing one is the last thing you do" · "one taught in a yard by arithmetic, one told on a wall by a grin" · "Smaller. Always smaller than you can." · "The ones who spend big learn what things cost. The ones who spend small learn what things are." · "Two schools, one candle" · **Session-9 revision additions (minted in the passes — merged here at the 2026-08-20 split; had lived only in the session record):** Lucan: "When you're ready, charity case. There's a form to it." / "What was that? That wasn't anything." (the yard's "Luck" now agrees with him) · Severin's correction pair: "It is not a fact. It is your mother." / "There. Now it hangs off you." · Kael coinage: "Her fear has bad eyes." · **Ch. 10 additions (SUSPENDED — chapter deleted session 13; these are not on any page; available for re-minting in the redo):** "what being seen costs" (the drawer's name — sibling to "what fire eats") · "The exactness was the hiding" · "was there not a girl. Four words." · "No one walking away is how you know" (Oss's weld logic) · "It came down off the mountain on the longest night" (the folklore's spine, minted on-page) · "a story with his night inside it the way a pearl has sand inside it" · "Except one. / He did not stand near it long." · "Salt keeps." · "his day, most of it" · "And nobody wondered at the boy." · **Session-13 additions:** "Get loose" (Ch. 5 — the school's one lesson) · "The hand talks" (Ch. 5) · "Whose is he?" / "He's nobody's" (Ch. 6) · "a word that needed no knowing" (Ch. 6) · "Waste wanders. This was built." (Ch. 9) · "a school built to fight its own graduates" (Ch. 9) · "six backs, one voice — that was a purse too" (Ch. 9). Session-13 RETIREMENTS (cut from the page, no longer protected — listed unquoted so the echo script skips them): nobody warns furniture · his questions growing hands · at winter's turn when the door was holding. · **Ch. 10 additions ("The Asking," session 14):** "the art does what you understand" (the thesis, in the book) · "A fence tells you what a man owns, boy. It has never yet told you what the ground is." · "Full books answer. Empty ones ask." · "Mind the company you keep it in." · "Smaller than that, I cannot show you indoors." · "Knowing built by trial, and tested until it holds." (her definition of science) · "Wear the better coat." · "I did not know this." (her first uphill concession — respend deliberately or not at all) · "the way a tongue comes back to a tooth" · "Then say what the kettle does. Not what it makes." · **Ch. 11 additions ("The Dish," session 14):** "The dish does not flatter and it does not lie." · "What settles, settles. The dish only asks early." · "It had been saying its own, all along." · "stopped being an insult and started being a theory" · "Mine as well." (Vask — the no-blood-claim reveal; protect absolutely) · "You will not ask the next hundred questions tonight." · "She lost it to the ground and a kettle. Go and think about that." · "I aimed it at your reading." · "Everything I do is small." · "Tomorrow. Not here." · "I wanted you to hear the water moving before it reached you." · "Laughing people cost you standing. Smiling people cost you things you don't get back." · "Both of them were served — and this once, a little, met." (deliberate Ch. 9 inversion) · "the shelf of things that answered before he had finished understanding the question" · **Ch. 12 additions ("The Telling," session 15):** "It came down off the mountain on the longest night" (now minted ON-PAGE, in-room) · "No one walking away is how you know" (minted) · "a story with his night inside it the way a pearl has sand inside it" · "*Was there not a girl?* Four words." (minted in question form — supersedes the banked period form) · "the hardest stillness anyone had ever asked of him, and nobody had asked" · "He was good at holes" (minted) · "They're not teaching us, mountain boy. They're making us." · "the tournament is the empire coming to look at the blades" · "the biggest market this island will ever see" · "You have two years... Spend them well." · "You will not enter it." · "It is a weight, and it kills." · "This house lives because it is not looked at." · "Pray the day never comes." · "He will not be spent." (her restart's second sentence — protect absolutely) · "The door has held." / "The door has held because nobody pushed it." · "what you made does not keep on a shelf" · "Held, or loose. Prepared, or surprised." · "If the threading dies, you are a boy with a sword. If the sword stops, you are a boy with a trick." · "*What could it not cut?*" · "the gate was them" · "moved the world by inches around his bed" · **Ch. 13 additions ("The Coat," session 16):** "I can be wrong by a finger's width. The purse forgives me. Nothing forgives you. So you will be exact instead." · "exactly enough to pay, and pay, and pay" · "the art writing its own receipts" · "the shape of accidents and the timing of appointments" · "there are men who show roads. I am one of them." · "the way a lamp burns the same for anyone who walks past it" · "Fire is not held, it is *paid*" · "I do not pretend the rope is a sash." · "You are the only person on this island who has ever beaten me with his mind." · "their loss, twice" · "Later, mountain boy." (the refusal that ended the register) · "It was just a seat." · "Corvane pays what it owes." · "what the yard gets, plus the why" · "he had made sure of the rest" (the button's third life — his own authorship added) · the slip block's "both things were true. Both things were always true." (the overture's pair — protect absolutely) · **Ch. 14 additions ("The Measure," session 17):** "I am here for the year... I will win it." · "Who is next?" · "The Line does not keep pets." · "the way a drawn blade stands in a room" · "It looked at him. The rest of us it read in passing." · "the wood ended where the wood ended. / The edge did not." · "the way you decline bread" (her "No.") · "She is better than my brother." · "Now you know how it feels. I thought you should hear that from the first man you did it to." · "A year is long enough to learn what that was." (protect absolutely) · "that the boy they were building would be enough" / "He had believed it the way you believe a wall." · "some of what it had made sure of was dangerous, and did not entirely belong to him." · "He was afraid of what it had eaten." · deliberate echoes this chapter (not new coinage): "There was no moment when he chose." (Ch. 6 untying register — the instinct motif welded) · "not enough" ×2 (the drawer's first true entry) · "all of it showed" (inversion) · "no language at all" · "the lazy place"
 - **Ch. 14 established facts ("The Measure," committed session 17):** Kael 12 (unpinned); the spring one year out; PART III OPEN. VALERIA VEL ON-PAGE: arrival with the advance; famous/unbeaten; art publicly unknown pre-duel; the declaration (year + enrollment + "I will win it."); appearance ledger SEALED in 03 (lean/strong/athletic; black shoulder-length hair; EMERALD GREEN eyes — color spent at reading distance only; bored eyes as display — died vs. Kael, a beat spent); TWIN WASTERS canon (the Vel heresy — internal art frees both hands, 02); EARTH proficiency revealed, INTERNAL REINFORCEMENT (02 canon — nothing leaves the body; flagstone split; force/speed beyond his category); total control (the point stopped at one finger); the cut received without anger; "Match — Vel" (Ruthen's call). BEAT-12 AMENDMENTS (supersede the old design as written): first words = declaration, not a challenge at Kael; KAEL INITIATES ("Who is next?" answered); recognition lands in-duel (bored-eyes tell + the "No." to the First Master). KAEL: first loss since the settlement (first ever called a match); the wall belief broken; "not enough" first TRUE entry; the threading spent PUBLICLY below decision (the coat torn by instinct, not choice); the danger self-knowledge canon; the slash = trained instinct under STRAIN — NOT the absorbed state (no Kynemir anywhere; rule consciously held — do not re-read the below-decision register as flow); "heaviest hits of his life" with NO father comparison (author ruling 1b — the never-seen-them-try rule untouched; father-glimpse ledger untouched). THE FLASH's public state: benches sealed around "wet light"; colonnade saw; Halden's non-reaction on-page via Elarine. TRIO: Aurelian's "better than my brother" + invoice nod + "now you know how it feels"; Elarine's fiction-mechanic over the flash (she saw, declined to ask — coat-wire fed HOW-not-WHAT) + the judge-watch. OSS: absent by structure (the name from no particular mouth). The lamp scene does NOT occur (cut at the yard — the parents' knowledge state re the flash is UNSPENT, owed to Ch. 15; do not resolve offstage). Relief-tell untouched; "the charity case" holds (a bench's mouth); group laughter not fired (awe-silence chapter — deliberate); probes clean on all five axes (archive/probes/ch-14-pre-commit.md).
 - **Ch. 13 established facts ("The Coat," committed session 16):** Kael 11→12 (unpinned); the training year whole (announcement-spring → cold term; one year remains at the next spring). THE BURST mechanic canon (see clue table — structural). Burned 320 times (counted); speckle-receipts on wrist/hand = ordinary burns, never a magical mark. HALDEN canon (the judge; soldier-worn register logged in 02); his truth OFF-PAGE (03): Corvane's man = the Ch. 12 pan-away's third-house man RESOLVED (bible-side only; on-page unconnected); the two lightning houses remain separate live dread. THE HIDDEN CONTACT canon (the concealment now threat-grade; parents DO NOT KNOW). THE JOKE: Oss's coercion truth OFF-PAGE (03); on-page only the tells (the eyes-elsewhere smile; Kael misfiles the why); the estrangement state stands ("It was just a seat." — the sea-wall register dead as of this chapter); the diminutive's prophecy fulfilled (intimacy held nothing). THE FURNITURE FAILED once (the count needed — first regression in a year; group-laughter register escalation, tells only). Elarine: the confession (bound-to-fate canon — the house chooses "the school, then the seat, then the man"); the collegial fiction EXPLICITLY held on-page (seal intact); crush untouched. AURELian'S APOLOGY SPENT (the unlikely-friend arc accelerated by author direction; Character Law held — pride and shame both; his four excluded); the cistern-court trio = new standing geometry; Kael's coat held inside it ("what the yard gets, plus the why" — the mountain still never shown). Lucan: watching, adding lines (no laughing — the arithmetic thread live). Boards: +1 line, held. FIRST-PERSON SLIP #2 SPENT (06 amended in-session: the reservation rewritten — the fire is now slip 3, the triptych ratified). NO Kynemir (the braid rendered as effortful strain, never absorbed flow — rule consciously held); father-glimpse ledger untouched (Vask's margin line is speech, not display); relief-tell untouched; "the charity case" holds; probes clean (archive/probes/ch-13-pre-commit.md).
 - **Ch. 12 established facts ("The Telling," committed session 15):** Kael 11 throughout; storm-weeks → turn toward spring. THE WHISPER'S TEMPLE WELD SPENT (the "no one left alive" version canon on-page; the mountain line minted in-room; frost accretions established as in-room falsehoods; boy-detail and girl both ABSENT from every telling — banked holds intact). RECOGNITION-WITHOUT-ATTRIBUTION executed per 00 (the men died = the new fact; the last inference refused; chapter-wide narration rule HELD — no clause joins the quiet and his father; the refusal's whole render: "Kael went on eating."). THE TOURNAMENT ANNOUNCED on-page (two springs out; inter-school; the island as host; Severin announced it publicly as the First Master). THE PROHIBITION canon: the parents forbid entry, law register, no reason; Kael asks, confronts, and COMPLIES (NO refusal — beat 16's "first time Kael refuses" protected); the speed-of-No planted (filed unassembled). THE CONFRONTATION canon: first spoken push against the walls; the enumeration; "Everything you have said is rational"; no-punishment said aloud; THE DANGER ADMISSION (stakes without content — one answer, mortal, carriers and bystanders dead; "This house lives because it is not looked at"); the fear shown deliberately (first time); Kael believes them; anger named (first time). THE BRAID SCHOOL BEGUN (author overrule — moved up from Ch. 13's reservation): threading under load; THE TRUNK DEMO = deliberate teaching demonstration under the 06 session-15 amendment, NOT a reflex glimpse — the father-glimpse ledger holds at three-plus-fragments; "never seen them try" re-scoped to contest/effort, still never witnessed. BEYOND-THE-SEA want spoken (sea-wall). THE PAN-AWAY: first sanctioned POV departure executed (external camera, dialogue+observables, adult-cold register, downhill seal, cut-before-the-answer); reader-only canon: two houses' formal inquiries + THE THIRD HOUSE'S MAN; "mother and father" both asked after; the parents' plan (sit still while it passes; free after); "He will not be spent."; Severin's counter + the concession door ("how he goes") — unresolved by design. Severin's knowledge valves (00) untouched; winter-feast/liar's-knot valves untouched; NO Kynemir anywhere (the hall = fear/tension, the confrontation = anger — never the absorbed state); group laughter fired once (the goat joke — tells only); relief-tell untouched (the movement-I pour inversion is HIS relief, his direction); crush not respent (the kettle joke winks reader-side only).
@@ -188,6 +187,252 @@
 - **Ch. 4 established facts:** Kael = 9; first meeting of the master (prior visits = arranged absences, canon); the master speaks the downhill language with Neris; the good seed-bread = feast/visit tell; the flat rock reused (Ch. 1 site); first self-deployed stillness (the eavesdrop); the blade previously unknown to Kael; magic school begun — perception-first, no mechanics on-page; the flicker = sealed Kynemir first unleashing (POV-silent, see 00); ledger: zero father-glimpses spent (holds at 3).
 - **Ch. 3 established facts:** Kael's curiosity = defining trait (see 03); four languages by age 8 (bird, stone-click/"Traders", the downhill one, one unspecified); history rationed by the parents — Temple carries history education (Part II); curriculum subject names canon (see 02); "what fire eats" named Ch. 3, spent Ch. 5; scars on-page with "A bad employer"; the wrist catch = third father-glimpse (see ledger); Neris overrides Vask on teaching jurisdiction once ("No. It's his.").
 
-
 ---
 
+## Protected Phrasings — On-page canon phrasing (protect; echo deliberately or not at all)
+(Restructured session 18 from the single-line form — content verbatim, one line per phrase, per-chapter blocks; the **Ch. 1–2:** label added at the restructure for the originally unlabeled opening group. `check-echoes.sh` reads this entire section, header to end of file.)
+
+**Ch. 1–2:**
+- "the stars that fell down the mountain"
+- "when the sea freezes"
+- "true things"
+- "his mother speaks bird"
+- "spilled/spilling" (movement failure)
+- "part of the mountain"
+- "outside belongs to the wind"
+- "Again tomorrow"
+- "Done" (Vask's release word)
+- the dropped-fingers sign
+
+**Ch. 3:**
+- "so you never pick wrong"
+- "A bad employer"
+- "Everything heavy is lazy"
+- "things that cannot lie make the best witnesses"
+- the itch that cannot be out-waited
+- "his questions had questions"
+- "Supper was the answer"
+- "far-counting"
+- "the standing game"
+- the shut doors (of her stories)
+- "No. It's his."
+
+**Ch. 4:**
+- "He unties things"
+- "It keeps the cold out"
+- "Now we begin"
+- "You were on the mountain"
+- the liar's knot
+- "the lazy place"
+- "part of the house"
+- the third voice
+
+**Ch. 5 additions:**
+- "a door painted on a wall"
+- "the more salt the water carries, the deeper the cold must bite to hold it"
+- "the family trade"
+- "both things were real"
+- "She never noticed that he stopped"
+- "The mountain did not notice"
+- "nine years and a winter old"
+- the winter feast / the dark of the year
+
+**Ch. 6 additions:**
+- "the plural of person"
+- the tapping hand (NEVER explain, NEVER reuse)
+- "It wanted to stop being made. It was being made anyway."
+- "the first thing his body had ever known before he did that no one had put there"
+- "He had a school for this. He had never once been told what the school was for."
+- "a quiet the size of several men"
+- "not enough" (his misfiled verdict)
+- "He never learned whether the line had held"
+- "the mending school arrived at last at the thing it had always been for"
+
+**Ch. 7 additions:**
+- "The body held. We will build the rest."
+- "A count you hurry is a wish"
+- "It ends the argument the same and costs him less"
+- "we know everything, and here is your knife" (the wall's language)
+- "I know what you read. I have made myself harder to read." (her wordless answer, Kael's reading)
+- "It is not ours to teach"
+- "with both hands, like a tool" (the given not-knowing)
+- "A story is not a wall... a coat"
+- "keep what is true, it carries the rest"
+- "Hold that. It is the only thing I am worried you'll lose."
+- "Home to the temple. The temple to home. Never beyond." (THE RULE)
+- "a wall around the itch / a road cut through the middle of it"
+- "Evening" (Vask's farewell = come home)
+- "looking away cost what it cost"
+- "Come along, charity case"
+- "ready, in the oldest part of him, for the ground"
+
+**Ch. 8 additions:**
+- "The gate stood open, and it was meant to"
+- "Empty is true"
+- "Then I am done carrying you"
+- the book the size of a door / the blank column
+- "nothing was also a thing the pen would have to write"
+- "the minima — the smallest grains of the world" (Priscian's delivery)
+- "a roof arriving over a room he had lived in all his life... and the word was not hers"
+- "You can watch it choose"
+- "We have a fire" / "Everyone has a fire"
+- "nothing here is heavy"
+- "It talks"
+- "Everyone says Oss. You should too, it's faster"
+- "she's priced everyone in this Temple and no one's met it yet"
+- "one clean seam of it, like quartz through rock"
+- "Sit. Eat. And tell me."
+- "You told a room of the empire's sons... that everyone has a fire." / "We do have a fire"
+- "the best supper Kael could remember"
+- the carried-across-ice hand
+- "her questions running under the Temple's answers like water under a boat"
+- "trading the day back and forth — his day"
+
+**Ch. 9 additions:**
+- "the yard-master" the way you said "the sea"
+- "Strength is a purse... The ones who like spending always think the purse is the man"
+- "before I let any of you spend a grain, you will learn what spending is"
+- "The body kept the receipt"
+- "this too had been taught, without one word spent on it"
+- "when it settles it settles"
+- "The art runs in the blood, and the blood runs in the houses"
+- "Somebody's blood in that line somewhere. Someone's bastard, then."
+- "What did the mountain expect"
+- "a nail among rings"
+- "watch the pointing, not the laughing"
+- "Nobody on the mountain saluted the weather"
+- "no language at all" (the yard's second offense)
+- "a small permanent receipt for someone else's spending"
+- "Then whose is the mist?" / "The mist has never heard of them"
+- the coin on the table (her hand over the slate — Priscian's half cut session 13)
+- "My grandfather chose it off a list. I've seen the list."
+- "Quiet." (his whole mountain, wearable)
+- "both of them were served, and neither of them was met"
+- "seeing one is the last thing you do"
+- "one taught in a yard by arithmetic, one told on a wall by a grin"
+- "Smaller. Always smaller than you can."
+- "The ones who spend big learn what things cost. The ones who spend small learn what things are."
+- "Two schools, one candle"
+
+**Session-9 revision additions (minted in the passes — merged here at the 2026-08-20 split; had lived only in the session record):**
+- Lucan: "When you're ready, charity case. There's a form to it." / "What was that? That wasn't anything." (the yard's "Luck" now agrees with him)
+- Severin's correction pair: "It is not a fact. It is your mother." / "There. Now it hangs off you."
+- Kael coinage: "Her fear has bad eyes."
+
+**Ch. 10 additions (SUSPENDED — chapter deleted session 13; these are not on any page; available for re-minting in the redo):**
+- "what being seen costs" (the drawer's name — sibling to "what fire eats")
+- "The exactness was the hiding"
+- "was there not a girl. Four words."
+- "No one walking away is how you know" (Oss's weld logic)
+- "It came down off the mountain on the longest night" (the folklore's spine, minted on-page)
+- "a story with his night inside it the way a pearl has sand inside it"
+- "Except one. / He did not stand near it long."
+- "Salt keeps."
+- "his day, most of it"
+- "And nobody wondered at the boy."
+
+**Session-13 additions:**
+- "Get loose" (Ch. 5 — the school's one lesson)
+- "The hand talks" (Ch. 5)
+- "Whose is he?" / "He's nobody's" (Ch. 6)
+- "a word that needed no knowing" (Ch. 6)
+- "Waste wanders. This was built." (Ch. 9)
+- "a school built to fight its own graduates" (Ch. 9)
+- "six backs, one voice — that was a purse too" (Ch. 9).
+
+**Session-13 RETIREMENTS (cut from the page, no longer protected — listed unquoted so the echo script skips them):**
+- nobody warns furniture
+- his questions growing hands
+- at winter's turn when the door was holding.
+
+**Ch. 10 additions ("The Asking," session 14):**
+- "the art does what you understand" (the thesis, in the book)
+- "A fence tells you what a man owns, boy. It has never yet told you what the ground is."
+- "Full books answer. Empty ones ask."
+- "Mind the company you keep it in."
+- "Smaller than that, I cannot show you indoors."
+- "Knowing built by trial, and tested until it holds." (her definition of science)
+- "Wear the better coat."
+- "I did not know this." (her first uphill concession — respend deliberately or not at all)
+- "the way a tongue comes back to a tooth"
+- "Then say what the kettle does. Not what it makes."
+
+**Ch. 11 additions ("The Dish," session 14):**
+- "The dish does not flatter and it does not lie."
+- "What settles, settles. The dish only asks early."
+- "It had been saying its own, all along."
+- "stopped being an insult and started being a theory"
+- "Mine as well." (Vask — the no-blood-claim reveal; protect absolutely)
+- "You will not ask the next hundred questions tonight."
+- "She lost it to the ground and a kettle. Go and think about that."
+- "I aimed it at your reading."
+- "Everything I do is small."
+- "Tomorrow. Not here."
+- "I wanted you to hear the water moving before it reached you."
+- "Laughing people cost you standing. Smiling people cost you things you don't get back."
+- "Both of them were served — and this once, a little, met." (deliberate Ch. 9 inversion)
+- "the shelf of things that answered before he had finished understanding the question"
+
+**Ch. 12 additions ("The Telling," session 15):**
+- "It came down off the mountain on the longest night" (now minted ON-PAGE, in-room)
+- "No one walking away is how you know" (minted)
+- "a story with his night inside it the way a pearl has sand inside it"
+- "*Was there not a girl?* Four words." (minted in question form — supersedes the banked period form)
+- "the hardest stillness anyone had ever asked of him, and nobody had asked"
+- "He was good at holes" (minted)
+- "They're not teaching us, mountain boy. They're making us."
+- "the tournament is the empire coming to look at the blades"
+- "the biggest market this island will ever see"
+- "You have two years... Spend them well."
+- "You will not enter it."
+- "It is a weight, and it kills."
+- "This house lives because it is not looked at."
+- "Pray the day never comes."
+- "He will not be spent." (her restart's second sentence — protect absolutely)
+- "The door has held." / "The door has held because nobody pushed it."
+- "what you made does not keep on a shelf"
+- "Held, or loose. Prepared, or surprised."
+- "If the threading dies, you are a boy with a sword. If the sword stops, you are a boy with a trick."
+- "*What could it not cut?*"
+- "the gate was them"
+- "moved the world by inches around his bed"
+
+**Ch. 13 additions ("The Coat," session 16):**
+- "I can be wrong by a finger's width. The purse forgives me. Nothing forgives you. So you will be exact instead."
+- "exactly enough to pay, and pay, and pay"
+- "the art writing its own receipts"
+- "the shape of accidents and the timing of appointments"
+- "there are men who show roads. I am one of them."
+- "the way a lamp burns the same for anyone who walks past it"
+- "Fire is not held, it is *paid*"
+- "I do not pretend the rope is a sash."
+- "You are the only person on this island who has ever beaten me with his mind."
+- "their loss, twice"
+- "Later, mountain boy." (the refusal that ended the register)
+- "It was just a seat."
+- "Corvane pays what it owes."
+- "what the yard gets, plus the why"
+- "he had made sure of the rest" (the button's third life — his own authorship added)
+- the slip block's "both things were true. Both things were always true." (the overture's pair — protect absolutely)
+
+**Ch. 14 additions ("The Measure," session 17):**
+- "I am here for the year... I will win it."
+- "Who is next?"
+- "The Line does not keep pets."
+- "the way a drawn blade stands in a room"
+- "It looked at him. The rest of us it read in passing."
+- "the wood ended where the wood ended. / The edge did not."
+- "the way you decline bread" (her "No.")
+- "She is better than my brother."
+- "Now you know how it feels. I thought you should hear that from the first man you did it to."
+- "A year is long enough to learn what that was." (protect absolutely)
+- "that the boy they were building would be enough" / "He had believed it the way you believe a wall."
+- "some of what it had made sure of was dangerous, and did not entirely belong to him."
+- "He was afraid of what it had eaten."
+
+**Ch. 14 deliberate echoes this chapter (not new coinage):**
+- "There was no moment when he chose." (Ch. 6 untying register — the instinct motif welded)
+- "not enough" ×2 (the drawer's first true entry)
+- "all of it showed" (inversion)
+- "no language at all"
+- "the lazy place"
