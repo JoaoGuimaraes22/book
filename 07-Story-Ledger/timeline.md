@@ -1,5 +1,22 @@
 ## Timeline (planned)
-**LAW CORE.** Planned part/age structure and every age pinned on the page.
+**LAW CORE.** Part/age structure, and every age pinned on the page. Check any new chapter's age and season against this table.
 
-- Part I: Kael ~4–10 (ends with permission + enrollment) · Part II: ~10–12 (Temple years, peers, BEFORE Valeria) · Part III: ~12–13 (Valeria) · Part IV: ~13–14 (tournament, birth of brother, the fire).
-- **Ages pinned on the page:** Ch. 1 = 4 ("four years old, rich with certainty"). Ch. 2 = 5 ("last summer" = the age-4 season). Ch. 3 = 8 ("He was eight, and he had theories") — deliberate 3-year jump; the routine implies the elapsed years. Ch. 4 = 9 ("He was nine, and the rules lived in his body now"). Ch. 5 = 9 through the year; crossing at midwinter, "nine years and a winter old". Ch. 6 = same night as the Ch. 5 crossing ("a nine-year-old boy in a yard of grown men") — continuous action, no time jump. Ch. 7 = midwinter healing → spring conversation → autumn departure; "ten years old" pinned twice at the Temple gate (birthday passes unmarked inside the year — deliberate; never pin the date). Ch. 8 = 10, same autumn morning, continuous from the gate ("He was ten" pinned in the coda); coda compresses into routine reaching "the turn of winter." Ch. 9 = 10 (age not re-pinned on page — continuous first Temple year); spans winter term → spring (movements in thematic, not strict chronological, order — deliberate; session 13: the close no longer carries a season stamp — the chapter now ends in the loft after the candle audit, on the wool crackle; Ch. 10 still opens at winter's turn and now supplies the trial's construction in its own opening). Ch. 10 = "The Asking" (redrafted + committed session 14): Kael 10 throughout (no age pin; the birthday passes unmarked between chapters), turn toward spring → the summer's turn of the first Temple year. Ch. 11 = "The Dish": "He was eleven" pinned at the ceremony; second autumn → the cold term. Ch. 12 = "The Telling": Kael 11 (not re-pinned; "He would be thirteen" at the two-springs horizon carries the arithmetic); storm-weeks of the second cold term → the turn toward spring; the pan-away nine days after the announcement. Ch. 13 = "The Coat": Kael 11→12 (birthday unmarked, per rule); the full year from the announcement's spring → the following cold term ("at the spring, one year would remain"); Ch. 14 = "The Measure": Kael 12 (never pinned on-page — carried by "a girl his own age" + the Ch. 13 arithmetic); opens at the spring one year out (the advance's three ships, "the first fair week of the turn"); arrival, exhibition, and duel run continuous within that spring; the year-before-tournament opens here (Part III).
+- **Parts:** Part I: Kael ~4–10 (ends with permission + enrollment) · Part II: ~10–12 (Temple years, peers, BEFORE Valeria) · Part III: ~12–13 (Valeria) · Part IV: ~13–14 (tournament, birth of brother, the fire).
+- **Standing rule:** birthdays pass unmarked inside a year — never pin the date.
+
+| Ch. | Age | Pinned on page | Season / span |
+|---|---|---|---|
+| 1 | 4 | "four years old, rich with certainty" | — |
+| 2 | 5 | "last summer" = the age-4 season | — |
+| 3 | 8 | "He was eight, and he had theories" | deliberate 3-year jump; the routine implies the elapsed years |
+| 4 | 9 | "He was nine, and the rules lived in his body now" | — |
+| 5 | 9 | "nine years and a winter old" | through the year; crossing at midwinter |
+| 6 | 9 | "a nine-year-old boy in a yard of grown men" | same night as the Ch. 5 crossing — continuous, no time jump |
+| 7 | 9→10 | "ten years old", pinned twice at the Temple gate | midwinter healing → spring conversation → autumn departure |
+| 8 | 10 | "He was ten", in the coda | same autumn morning, continuous from the gate; coda compresses into routine reaching the turn of winter |
+| 9 | 10 | not re-pinned — continuous first Temple year | winter term → spring; movements thematic, not strictly chronological |
+| 10 | 10 | no pin — the birthday passes unmarked between chapters | turn toward spring → the summer's turn, first Temple year |
+| 11 | 11 | "He was eleven", at the ceremony | second autumn → the cold term |
+| 12 | 11 | not re-pinned — "He would be thirteen" at the two-springs horizon carries the arithmetic | storm-weeks of the second cold term → the turn toward spring; the pan-away nine days after the announcement |
+| 13 | 11→12 | no pin — birthday unmarked, per rule | the announcement's spring → the following cold term ("at the spring, one year would remain") |
+| 14 | 12 | never pinned — carried by "a girl his own age" + the Ch. 13 arithmetic | the spring one year out; arrival, exhibition and duel run continuous within that spring; Part III opens |
