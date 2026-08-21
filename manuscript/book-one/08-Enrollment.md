@@ -44,7 +44,7 @@ Between the rooms, crossing the second court in a line of ten-year-olds, he saw 
 
 The last room before the meal was natural philosophy, and the natural philosopher was called Priscian. Priscian was old in a different way than the master was old: not worn to what mattered but stuffed to the seams, a man with too many books inside him and the bindings straining. He took the lectern the way Kael's mother took the table, as territory, and what he lectured on, that first day, was the smallest thing in the world.
 
-"The minima," Priscian said, and wrote it on the great slate in letters a hand high. "The smallest grains of the world. Division has a floor, gentlemen — split the log to splinters, the splinter to dust, and beneath the eye's failure the world is still made of pieces, and the pieces have a smallest, and the smallest is where the art lives. All matter carries them. All matter *is* carried by them. The mage is one who feels the grains as the hand feels warmth through cloth — not seeing, mark me, feeling — and having felt them, works."
+"The minima," Priscian said, and wrote it on the great slate in letters a hand high. "The smallest grains of the world. Division has a floor, gentlemen — split the log to splinters, the splinter to dust, and beneath the eye's failure the world is still made of pieces, and the pieces have a smallest, and the smallest is where the art lives. All matter carries them. All matter *is* carried by them. The Resonant is one who feels the grains as the hand feels warmth through cloth — not seeing, mark me, feeling — and having felt them, sounds them, as a struck string wakes its silent neighbor: his own minima move the world's, and the world answers. That is resonance. The whole of the art is in the word."
 
 Kael sat very still, and this time the stillness was not furniture.
 
@@ -60,7 +60,7 @@ The benches offered him what benches offer.
 
 "It's bright."
 
-"It is the minima in haste," said a third, who had clearly been fed the doctrine at home and wore it like his coat. "Quickened past their nature by the working of the art, whereupon the fiery nature—"
+"It is the minima in haste," said a third, who had clearly been fed the doctrine at home and wore it like his coat. "Quickened past their nature by resonance, whereupon the fiery nature—"
 
 "Whereupon," Priscian said, "you will tell me what nature they had before they hastened." The boy did not. Priscian took the silence with the face of a man tasting thin soup. And the itch came up in Kael, the old one, the deep one, because a question was standing in the room with no one under it, and a question from a master was a lifted stone —
 

@@ -22,13 +22,13 @@ In the line, Kael did his own arithmetic, because a piece was standing in the ya
 
 Then the yard-master straightened his back, and proceeded.
 
-"In two years, three for some of you, your art will come in, and you will want to spend it the way you wanted to shove that stone. So before I let any of you spend a grain, you will learn what spending is." He walked the line slowly while he said the rest, even, unhurried, a thing worn smooth by being true. The art was spending. Every mage carried a purse of it, and no eye could see into the purse. Spending was effort. Deep spending was pain. And spending near the bottom — the well-rope's creak came into the quiet — the body wrote down forever: the hair went white, from that day, in the measure of how deep the spending had gone, and it never went dark again. The body kept the receipt. And past the bottom there was no pain and no receipt and no mage, because past the bottom was death, every time, however large the purse or beloved the house.
+"In two years, three for some of you, your art will come in, and you will want to spend it the way you wanted to shove that stone. So before I let any of you spend a grain, you will learn what spending is." He walked the line slowly while he said the rest, even, unhurried, a thing worn smooth by being true. The art was spending. Every Resonant carried a purse of it, and no eye could see into the purse. Spending was effort. Deep spending was pain. And spending near the bottom — the well-rope's creak came into the quiet — the body wrote down forever: the hair went white, from that day, in the measure of how deep the spending had gone, and it never went dark again. The body kept the receipt. And past the bottom there was no pain and no receipt and no Resonant, because past the bottom was death, every time, however large the purse or beloved the house.
 
 Nobody looked at the seam of white. Forty children stood in the cold and did not look at it so hard that the not-looking was a thing they did together, one animal, and Kael stood in the middle of them not looking with everyone else, and understood that this too had been taught, without one word spent on it.
 
 ---
 
-The first workings came at the turn toward spring, when the yard-master judged they knew what a purse was.
+The first resonances came at the turn toward spring, when the yard-master judged they knew what a purse was.
 
 They were given candles. The whole apparatus of the empire's art, that morning: a bench of tallow candles in the lee of the south wall, one child before each, and the instruction, which was to reach for the flame the way you reached for warmth through cloth, and push.
 
@@ -92,17 +92,17 @@ That night his mother asked what the marks had been, because she asked everythin
 
 Spring filled the philosophy room with flies, and Priscian lectured through them.
 
-The morning it happened he was on the elements — the six, their provinces, the tidy fences of the art — and he closed, as he closed every morning, with a question thrown at the benches. "The kettle, then. Water over the fire, and the water becomes air. Tell me the working of it, in the minima, properly. Anyone."
+The morning it happened he was on the elements — the six, their provinces, the tidy fences of the art — and he closed, as he closed every morning, with a question thrown at the benches. "The kettle, then. Water over the fire, and the water becomes air. Tell me the resonance of it, in the minima, properly. Anyone."
 
 Elarine Sedrane answered, and her answer was the best thing Kael had heard in that room since the first day. She built it the way a wall is built, course on course: the fire's minima quickening the water's; the water's loosened, rising, taking the airy nature; each element keeping to its fence. It was complete. Priscian nodded along the length of it the way a man nods at good masonry, and had his mouth open for the next thing, and Kael — because her wall was so good; a wall that good showed you exactly the shape of what it stood on —
 
 "Then whose is the mist?"
 
-The room turned. He was under the stone now, so he kept going, at his own pace. "When the kettle breathes, there's mist over it. If a water-wright can call mist off the sea, and an air-wright can call mist out of a valley" — doctrine, both provinces claimed it, the room had recited it a week since — "then the same mist comes from two arts. So when the mist is standing there, whose is it? What does the mist know that it is?" One breath more, because it was still coming: "The fences are drawn around the workings. But the mist is only the mist. It has never heard of them."
+The room turned. He was under the stone now, so he kept going, at his own pace. "When the kettle breathes, there's mist over it. If a water Resonant can call mist off the sea, and an air Resonant can call mist out of a valley" — doctrine, both provinces claimed it, the room had recited it a week since — "then the same mist comes from two arts. So when the mist is standing there, whose is it? What does the mist know that it is?" One breath more, because it was still coming: "The fences are drawn around the resonances. But the mist is only the mist. It has never heard of them."
 
 Silence, one breath of it, with a temperature he was coming to know.
 
-"The mist has never heard of them," Priscian said, slowly, not to Kael, not to the benches. Then he gathered himself, said, "The provinces of the art are the provinces of the art; we will come to the mixed workings at the proper time," which answered nothing, and knew it, and let the benches go with the flies.
+"The mist has never heard of them," Priscian said, slowly, not to Kael, not to the benches. Then he gathered himself, said, "The provinces of the art are the provinces of the art; we will come to the mixed resonances at the proper time," which answered nothing, and knew it, and let the benches go with the flies.
 
 Elarine Sedrane had not moved through any of it. What Kael carried out was her stillness, which had changed when he asked, and then changed further, going in, the way his own went in when a pattern would not sit. She was not looking at him. She was looking at the fence-diagram on the great slate the way you look at a knot, and her face gave out nothing it had not priced, and the pricing was still running when the room emptied.
 
@@ -122,7 +122,7 @@ It ran along the Temple's ocean side from the kitchens to the old beacon stump, 
 
 It was on the sea-wall, that same afternoon, that Kael got the stories. Oss kept ghost stories the way he kept house-gossip, sorted and current, and the cold term was their season. He did the witch-white one first, offhandedly, a coin already spent — "that one's just true, mind; my uncle's seen a hedge-wife gone white to the roots at forty; they spend too deep and the hair writes it down" — and then, warming, lowering, with the sea behind him doing the sound a story wants: the old one. The eyes.
 
-"Red eyes," Oss said. "The eyes of the devil, the fishermen say — and my grandmother's people say the same from the far side of the archipelago, so it's everywhere, it's old. A mage's spending writes white in the hair. But there's a thing that isn't a mage, and when it works, the eyes go red as a coal — and where it walks, whole rooms of men die, doors and walls between mean nothing, and it never leaves one alive to say what it was. Every telling has that in it: no one left. Whole houses. Whole crews." He was enjoying himself immensely. "No one's ever seen one, of course. Because" — the grin of a boy delivering a story's oldest hinge — "seeing one is the last thing you do."
+"Red eyes," Oss said. "The eyes of the devil, the fishermen say — and my grandmother's people say the same from the far side of the archipelago, so it's everywhere, it's old. A Resonant's spending writes white in the hair. But there's a thing that isn't a Resonant, and when it works, the eyes go red as a coal — and where it walks, whole rooms of men die, doors and walls between mean nothing, and it never leaves one alive to say what it was. Every telling has that in it: no one left. Whole houses. Whole crews." He was enjoying himself immensely. "No one's ever seen one, of course. Because" — the grin of a boy delivering a story's oldest hinge — "seeing one is the last thing you do."
 
 Kael watched the sea do its enormous grey work while his mind, without asking him, built a shelf and put the eyes on it: the body's two marks, one taught in a yard by arithmetic, one told on a wall by a grin. White, the receipt of spending. Red, the rumor of something that was not spending — that the fences had never heard of. He did not know why it was a shelf. Both things had gone onto it the moment the second arrived, and that evening it rode up the mountain with him, not heavy, present, all the way home.
 
@@ -132,7 +132,7 @@ Kael watched the sea do its enormous grey work while his mind, without asking hi
 
 "The yard-master."
 
-"How long did he sit you, before the reaching?"
+"How long did he sit you, before he let you spend?"
 
 "Most of the hour."
 
@@ -142,7 +142,7 @@ Kael watched the sea do its enormous grey work while his mind, without asking hi
 
 Her stillness changed, the way still water changes when something passes under it far down.
 
-"Does he work it every day now with you, or just the once?"
+"Does he sit you at it every day now, or just the once?"
 
 "The once, so far. One grain, he says, until the body learns the door." He came back along his telling — the guttering candles, the weeping tallow, the fire that stood up off the wax — and then to his own. "Mine did nothing. I found where it carried and spent a grain on it, and nothing."
 

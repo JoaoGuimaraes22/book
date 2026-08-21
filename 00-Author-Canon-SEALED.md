@@ -1,5 +1,5 @@
 # 00 — Author Canon (SEALED — spoilers for the entire series)
-**Status:** Truths of the story that are NOT yet revealed on the page. Never contradict; reveal slowly. Last updated: 2026-08-20, session 11 (AUDIT FLAGS on the reconstructed session-9 valves ratified as written and cleared — author ruling; no canon content changed). Prior: 2026-08-20, session 10 (SESSION 9 PATERNITY BLOCK RECONSTRUCTED — original lost to the session-9 tool ceiling; rebuilt from 05/03 pointers + session record; append-only tail now current through session 9). Prior header: 2026-08-09, session 7 (Ch. 8 committed; Vask's lightning sealed; the coordinated leash; the Elarine coat-wire valve; stale princess block corrected) — session-8 additions were appended without a header update.
+**Status:** Truths of the story that are NOT yet revealed on the page. Never contradict; reveal slowly. Last updated: 2026-08-21, session 14 (SESSION 14 ADDITIONS appended: resonance vocabulary reform; minima-vs-deeper-structure refinement; elemental command clarification; Severin = Resonant, earth+nature; Kael's many-element road). Prior: 2026-08-20, session 11 (AUDIT FLAGS on the reconstructed session-9 valves ratified as written and cleared — author ruling; no canon content changed). Prior: 2026-08-20, session 10 (SESSION 9 PATERNITY BLOCK RECONSTRUCTED — original lost to the session-9 tool ceiling; rebuilt from 05/03 pointers + session record; append-only tail now current through session 9). Prior header: 2026-08-09, session 7 (Ch. 8 committed; Vask's lightning sealed; the coordinated leash; the Elarine coat-wire valve; stale princess block corrected) — session-8 additions were appended without a header update.
 
 ## Vask's Lightning (sealed — decided session 7)
 - **VASK HAS LIGHTNING PROFICIENCY** — the program forged its instruments as educated soldier-mages (Doctrine of Cultivated Inheritance applies to instruments too). His magic is never shown in Part I–II early (concealment as resting state; the fire remains the only full answer).
@@ -186,3 +186,23 @@
 - **OPEN VALVES (flagged at seal — DO NOT RESOLVE without a dedicated session):**
   - **(a) Who else knows.** Severin's knowledge deliberately uncommitted — he placed them in the blind spot; what he was told or guessed is a door. The Gardener's knowledge likewise open — the program bred this child; what records survived the rebellion's fire is a door.
   - **(b) Kael's path to the truth.** Whether he ever learns, when, and from what direction (surviving records, the Gardener's mouth, the bio-father himself) — fully open. The reader-knows/Kael-doesn't gap is a designed asymmetry and may run for books.
+
+## SESSION 14 ADDITIONS (ratified 2026-08-21)
+
+### THE RESONANCE VOCABULARY REFORM (page + bible vocabulary; retro pass executed same session)
+- Five-term system (full register in 02): **Resonant** (a person capable of the art) · **resonance** (the CONNECTION between person and minima) · **resonate** (the act of establishing it) · **resonant thread** (a controlled connection — the "spend a thread" idiom's formal term) · **Resonance Theory** (the scholarly field).
+- "Mage" retired from page vocabulary; "wright" and "channeling" RELEASED; "working" returned to ordinary labor. Older blocks in this file that read "mage" are to be read as "Resonant"; sealed content unchanged.
+- **"The minima" reclassified a COMMON word** — the world's everyday name for the fine grains in all things. Neris may use and acknowledge it (Ch. 10 on). She never handed it to Kael in Part I — vocabulary withheld is the rationing; Ch. 8's "the word was not hers" stays true.
+
+### MINIMA vs. THE DEEPER STRUCTURE (deep-layer refinement — sealed)
+- The world's matter has a true fine structure (atoms, in the author's frame) that this pre-scientific society has not discovered. **The minima are NOT that structure's floor: they are a constituent WITHIN matter's deeper structure** (as electrons and protons are constituents of atoms). Resonants touch the minima to change a substance's nature — the magic particle inside matter, not the smallest division of matter.
+- The Temple's "smallest grains of the world" is therefore an honest pre-scientific ERROR stacked under the existing honest errors. A substance's chemical composition and its minima composition are DIFFERENT things; the minima-stance reflects the substance's nature and can be read by feel (Ch. 10's instrument idea). Never told in Book One; Kael on-page withholds assent to the untested "smallest" claim (Ch. 10) without knowing what is under it.
+
+### ELEMENTAL COMMAND (clarification — sharpens the Kynemir fence)
+- Elemental resonance includes COMMANDING the element's own matter (an earth Resonant throws the rock; a water Resonant moves the mist): motion MEDIATED by the element's connection. Kynemir remains motion UNMEDIATED, on anything, nature unchanged. The distinction moves further from the surface; nothing on any page names it.
+
+### SEVERIN — RESONANT (addition to his kit)
+- **Severin is a Resonant: EARTH + NATURE dual proficiency (rare). Very powerful, very experienced.** Not made explicit on-page in early Part II — Ch. 10 shows only the fact of his art (the fern) and seeds the nature flavor deniably (the sill of green pots). Whenever the future shows him in action, earth/nature is what he mostly uses. His demonstrations stay candle-scale (the first-magic-as-spectacle reserve for the tournament is untouched); his grey's drain-reading grows louder and is STILL never confirmed.
+
+### KAEL — THE MANY-ELEMENT ROAD (direction, session 14)
+- His small-scale command across all six elements, powered by understanding the world's own mechanisms ("the art does what you understand," Ch. 10), is a FUTURE WEAPON: most Resonants work almost nothing outside their proficiency (proficiency = far more capacity there), so nobody fights a man who can spend threads in six provinces with knowledge instead of capacity. Seeds planted Ch. 10 (the mist two roads; the garden trial; the spark that answers before he finishes asking — lightning hint, deniable).
