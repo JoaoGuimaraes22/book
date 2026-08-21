@@ -115,7 +115,7 @@ It was not one thing. It was the sum: reach answered, lanes closed, the twin bla
 
 There was no moment when he chose.
 
-The thread was in the waster before he knew he had spent it, the smallest thing the art could make, a stitch of white down the ash — a year of burns, three hundred and some receipts, the one skill on the island nobody had seen — and her parry came exact as everything she did, priced to the wood, and the wood ended where the wood ended.
+The thread was in the waster before he knew he had spent it, the smallest thing the art could make, a stitch of white down its length — a year of burns, three hundred and some receipts, the one skill on the island nobody had seen — and her parry came exact as everything she did, priced to the wood, and the wood ended where the wood ended.
 
 The edge did not.
 
@@ -163,7 +163,7 @@ She did not move her eyes. She waited the way stone waits.
 
 "Kael," he said.
 
-"Kael." She entered it the way clerks enter weights, and he watched his own name go into a ledger that eleven generations had kept, and sit there. She glanced once at the ash waster lying on the stones, at the arm he was not using, at the line of her own blood going into the wrapping the healer was finally being permitted to apply. The awake thing was still in her eyes. He understood, with the part of him that read weather, that she was not angry, and that he had no idea what she was instead.
+"Kael." She entered it the way clerks enter weights, and he watched his own name go into a ledger that eleven generations had kept, and sit there. She glanced once at the waster lying on the stones, at the arm he was not using, at the line of her own blood going into the wrapping the healer was finally being permitted to apply. The awake thing was still in her eyes. He understood, with the part of him that read weather, that she was not angry, and that he had no idea what she was instead.
 
 "A year is long enough," Valeria Vel said, "to learn what that was."
 
@@ -183,7 +183,7 @@ Kael picked his waster up off the stones. When he straightened, they were both t
 
 "It was wet light," Kael said.
 
-"Of course it was," Elarine said, and both of them let it hold. "One thing." Her voice went down to the register she used for corrections that mattered. "I gave the twelfth exchange away to watch the colonnade. The judge saw a boy open a Vel's arm with ash and rain, and his face spent nothing. Not one grain. A man's face does that because he has seen the thing before, or because he was expecting it. Neither one is good. Judges score bouts, Kael." She did not say the rest. She had said it in the winter, and she was not a woman who repeated her work.
+"Of course it was," Elarine said, and both of them let it hold. "One thing." Her voice went down to the register she used for corrections that mattered. "I gave the twelfth exchange away to watch the colonnade. The judge saw a boy open a Vel's arm with wood and rain, and his face spent nothing. Not one grain. A man's face does that because he has seen the thing before, or because he was expecting it. Neither one is good. Judges score bouts, Kael." She did not say the rest. She had said it in the winter, and she was not a woman who repeated her work.
 
 "Twelve months," Aurelian said, into the pause, at the yard, at the year standing over all of them. "The cistern court keeps longer hours from tomorrow." And then, already turning, in the voice his tier would not have recognized: "Now you know how it feels. I thought you should hear that from the first man you did it to."
 

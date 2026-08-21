@@ -14,7 +14,7 @@ The knife was back on the wall.
 
 He found it there the first morning he came down the ladder on his own — his knife, in its place, in the order of tools, and it had been cleaned. Not wiped. Cleaned, the way his father cleaned, back to the metal's own weather. Kael stood in front of the wall for a while with his ribs holding his breath down to the shallow kind, and did not touch it, and did not ask, and the not-asking was a thing he did with his whole body. Someone had gone down for it. Someone had brought it up the mountain and made it right and hung it where it lived. The wall said what the honey said, in the wall's language: *we know everything, and here is your knife.*
 
-Those weeks his father sat by the fire in the evenings with the drawknife and a stack of seasoned ash, and made swords.
+Those weeks his father sat by the fire in the evenings with the drawknife and a stack of seasoned wood, and made swords.
 
 Not swords. Kael corrected himself the first night, and was wrong, and knew better by the third: they were swords the way the game was a game. Wooden, full-weight, the balance fussed over the way his father fussed over nothing else — shavings taken off in whispers, the thing hefted, turned, hefted again, held out level on two fingers to see where it wanted to tip. Two of them, one to Kael's arm and one longer. Then a spear with its head blunted round. Then, from the corner where it had always leaned being a hunting tool, the bow came into the evenings too, and got a second string made, and a dozen new arrows with their feathers set in his father's exact, unhurried spiral.
 
