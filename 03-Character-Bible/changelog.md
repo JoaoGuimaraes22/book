@@ -1,4 +1,6 @@
 # Changelog
+One line per session, appended at close. Full records: ../archive/session-log.md.
+
 s18 (2026-08-21) — Folder split: one file per character + index (pure TOC). Terse sheet format ratified: Glance / STATIC / DYNAMIC / FORWARD; appearance entries inlined (ledger → register rules only); ripple ledgers dropped (chapter history lives in 07); session-9 amendments moved to the archive. ENDGAME KIT header restored after a session-17 splice. Pre-split file at git a804bd4; pre-conversion sheets at 6981067.
 s17 (2026-08-21) — Ch. 14 "The Measure": Valeria arrival spent (beat 12 with amendments); her appearance sealed; Kael first loss / wall belief / danger self-knowledge; Aurelian "better than my brother" + the mirror line; Elarine fiction-mechanic on the flash + judge-watch; Halden dossier escalation; Oss structural-hole spend.
 s16 — Ch. 13 "The Coat": Kael tuition / hidden contact / furniture failure; Vask margin line; Oss coerced joke + estrangement (sealed truth); Aurelian apology spent (arc accelerated); Elarine confession (bound-to-fate canon); HALDEN entry added (sealed: Corvane's man). Session-15 splice repaired.
