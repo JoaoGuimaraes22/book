@@ -1,5 +1,14 @@
 ## LUCAN DRUSANE (the worker — petty revenge with feet)
-- **Role:** one of Aurelian's four — THE ONE WHO WORKS ("The others laugh where he points. Watch the pointing, not the laughing." — Oss). House Drusane (imperial -ane register, 02). Long build; a paid fencing-master's polish at eleven: proper guard, proper measure, crossbow lunges off a straight back.
-- **Spends Ch. 9–11 (COMPRESSED session 18 — full blocks verbatim at git 4fa521b; detail in 07):** **Ch. 9:** the salute unanswered; the spar lost to a puzzle-win the yard absorbs as "Luck" (his fall = the alien-honor beat's stage); THE TWO-PIECE REVENGE, unsigned: the cracked waster (defeated — the crack-up return enrages worse) and the fouled slate (LANDED — one permanent line; the cost real and official); session 13 (spar rebuilt): his form honored as a real system — he is out-thought, not out-formed; the accumulating-evidence thread intact. **Ch. 10 — hold, deliberate:** arithmetic only ("a column being added and added and refusing its total"); no new revenge piece (fed patience); the accumulation thread live and unspent. [The deleted-draft Ch. 10 note SUSPENDED; the thread itself remains live.] **Ch. 11:** AIR proficiency declared ("his posture already wearing it"); at the Sedrane duel: "added the line anyway" — the column grows.
-- **Design:** child-currency cruelty, deniable, real; gives the escalation a face and hands without spending Aurelian. His arithmetic-that-doesn't-like-its-answer (watching Kael win on dead wood) = a live thread: he is the one golden child accumulating evidence that the luck story is false. Door left open, unresolved.
-- **ARC DIRECTION (logged session 14 — author thinking aloud, not sealed):** NO redemption — where Aurelian eventually turns, Lucan does not; the arithmetic hardens instead of opening.
+**Glance:** the worker of Aurelian's four · House Drusane · ~12, as of Ch. 14 · the arithmetic hardening; his house feeds the campaign.
+
+### STATIC
+- **Role:** The one of the four who WORKS — "watch the pointing, not the laughing." A paid fencing-master's polish at eleven. Design: child-currency cruelty, deniable, real — the escalation's face and hands without spending Aurelian.
+- **Fighting profile:** his form is a real system, optimized against its own graduates; Kael beats him off the lane the form never priced — he is out-thought, not out-formed.
+- **Abilities:** AIR proficiency; proper guard, proper measure, crossbow lunges off a straight back; posture worn like inheritance.
+- **Appearance:** "The long one" — tall, narrow, all reach; a careful dresser even in yard clothes. A narrow face that does arithmetic badly in public — his thinking shows, which among the golden children is a weakness.
+
+### DYNAMIC
+- **As of Ch. 14.** The accumulating-evidence thread live: the one golden child collecting proof that the luck story is false. His house coordinates with Halden's campaign, fed by his arithmetic (off-page). No new revenge piece since the fouled slate; added the line at the Sedrane duel anyway.
+
+### FORWARD
+- **Arc direction (not sealed):** NO redemption — where Aurelian turns, Lucan does not; the arithmetic hardens instead of opening. A recognition/accusation door stays open, unresolved.

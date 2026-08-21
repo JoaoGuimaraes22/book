@@ -1,7 +1,16 @@
 ## RUTHEN (the yard-master — named session 8; formerly "the white-streaked master")
-- **Name (CANON):** Ruthen — soldier-worn register (02): one hard closed syllable + worn ending; army-ground, between village and guard without belonging to either. Heard exactly twice all winter, both from clerks; the children say "the yard-master" the way you say "the sea." Spend the name sparingly (Severin precedent). (Helvane released — Corvane collision; Ostade released — Oss collision.)
-- **Role:** an old war Resonant pensioned into the yard; teaches the young cohorts COST BEFORE CRAFT — the Resonant's ledger. The yard takes cohorts together (the one shared arena). His subjects: the roller-parable of economy, the purse, the gradient, the whitening, death past the bottom; first resonances only after cost doctrine; arms as recurring yard texture (spars on wasters).
-- **The seam rule (canon):** one clean seam of white "like quartz through rock" — drain-marked (00), permanent, proportional. He teaches the whitening WITHOUT ONE REFERENCE TO HIMSELF; the room's collective not-looking is the lesson's second half ("this too had been taught, without one word spent on it"). NOT Severin (protects the never-confirm rule on Severin's grey — which acquired its second possible reading in the reader's head this chapter, unconfirmed forever).
-- **Voice:** flat, even, cadence-counted; "a thing worn smooth by being true" (deliberately rhymes with Neris's school-voice — two teachers of cost, unmarked). Key doctrine lines protected (05).
-- **Kit (Character Law, to develop):** WANT/WOUND/LIMIT held open — but the design space is marked: a man who spent deep enough to wear the receipt, pensioned to teach children not to. The one breath's unhurried look at Kael after the Drusane spar (he saw what the yard refused to) — filed, unspent.
-- **Ch. 11 spend (COMPRESSED session 18 — full block verbatim at git 4fa521b; detail in 07):** presides over the proficiency dish; says "Lightning" for the clerk's stalled pen; stands the resonance duels (the three rules); stops the Sedrane duel ("Enough.") + the verdict-lesson ("She lost it to the ground and a kettle. Go and think about that.") — the second time he publicly underwrites Kael's way of winning without praising the boy; still calls him "the charity case" (author-ruled: no change).
+**Glance:** the yard-master · the Temple; an old war Resonant, pensioned · age unpinned · stands the duels; still says "the charity case."
+
+### STATIC
+- **Name:** Soldier-worn register; heard rarely — the children say "the yard-master" the way you say "the sea." Spend the name sparingly.
+- **Role:** Teaches the young cohorts COST BEFORE CRAFT — the Resonant's ledger: the purse, the gradient, the whitening, death past the bottom; first resonances only after cost doctrine. The yard takes cohorts together.
+- **The seam rule (canon):** one clean streak of white "like quartz through rock" — drain-marked (00), permanent, proportional. He teaches the whitening without one reference to himself; the room's collective not-looking is the lesson's second half. NOT Severin — protects the never-confirm rule on Severin's grey.
+- **Kit (held open):** a man who spent deep enough to wear the receipt, pensioned to teach children not to.
+- **Voice:** Flat, even, cadence-counted; worn smooth by being true (rhymes with Neris's school-voice, unmarked).
+- **Appearance:** Built like old rope — lean, hard, used, the yard's weather in it; dark hair with THE SEAM. Knuckles like a counting-frame; a cadence-counter's unhurried walk. A face that has priced worse yards than this one.
+
+### DYNAMIC
+- **As of Ch. 14.** Called "Match. Vel." — the first match ever called at Kael. Has now repeatedly underwritten Kael's way of winning in public without ever praising the boy. The one-breath look after the Drusane spar — he saw the formlessness truly — stays filed, unspent.
+
+### FORWARD
+- **Door (unspent):** the one adult at the Temple who saw what the yard refused to, pre-Valeria; mentor-adjacent.

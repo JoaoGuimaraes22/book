@@ -1,11 +1,24 @@
 ## VALERIA VEL
-- **Role:** daughter of the Line of Vel, royal protectors for eleven generations. Kael's rival → first friend. THE WITNESS (see 00 — she alone will know the truth of him at the end).
-- **Want:** to be worthy of the Line; later — things she was never permitted to want.
-- **Wound:** forged from birth; lethality as her family's love language; correspondence read by chaperones; cannot sleep; flinches (microscopically) at reverence for her name.
-- **Flaw:** coldness as armor; belief in the empire "the way one believes in a parent who beats you"; mistakes discipline for identity.
-- **Voice:** precise, formal, economical; thaws by degrees across books. "Val" is reserved for intimacy — the first time Kael uses it is a beat.
-- **Arc:** flawless mask → cracks → the choice in the fire (she runs with Kael and the princess — duty at first; the deeper choice between crown and Kael is deferred to when it hurts more) → the witness.
-- **Beat-12 note (sharpened session 8; EXECUTED WITH AMENDMENTS Ch. 14, session 17):** by her arrival the Temple has spent ~three years reading Kael's formlessness as no style ("no language at all," Ch. 9 canon). She is the FIRST person on the island to look at the formlessness and see a FORM — the only other native speaker of his one social language recognizing the shape of real training. AS EXECUTED: her first words = the public declaration, not a challenge at Kael ("I am here for the year... I will win it." — a fact entered in a roll; the entering is the display); KAEL INITIATES (answers her "Who is next?" when the yard cannot — the itch overriding the coat's arithmetic mid-sum); the recognition lands INSIDE the duel — the BORED EYES DIE (her tell; "something in her eyes had changed by one degree" → "awake, fully"), and her "No." to the First Master over her own blood IS the recognition made act. The read-war = the Ch. 11 inversion: she prices his tricks in real time ("His fifth exchange belonged to her from inside his second") — the first person ever to read him back; the native-speaker beat spent on-page.
-- **Ch. 14 — SPENT (the arrival + the exhibition + the duel; committed session 17):** arrives with the tournament's advance (three ships, spring, one year out); fame-weather (the hall's legend vs. Kael's chronicle-fact; her art unknown — "nobody tells that story twice the same"). THE GAUNTLET: twin wasters (the one-handed doctrine offended; the yard swallows its own sound); two older boys in three exchanges each ("which was the message"); AURELIAN in six, never in one of them ("absent from the fight... the way the sea is absent from an argument with a swimmer"). THE DUEL vs. Kael: pushed hard for the first time (the boredom dies); takes the threading slash (left forearm, the invisible inch past the wood) WITHOUT anger — refuses the halt ("No." ×2, "the way you decline bread"); REVEALS the earth spent inward (02 canon — flagstone split, force beyond category); overpowers him in twelve exchanges, stops a killing stroke at exactly one finger (total control — the deliberate mirror of his non-control). THE NAME: "What are you called?" — waits through "the charity case," takes "Kael," enters it "the way clerks enter weights." EXIT LINE (protect): "A year is long enough to learn what that was." — the rivalry engine set AND the coat-wire's newest thread: she is coming for the flash. NOT angry at the cut; the one person in the yard untroubled by his danger (the Line's love language — first soil of beat 13).
-- **Status (end of Book One):** ~13–14; in the boat. AS OF CH. 14: on the island for the year, per the plan ("at least that's the plan" — the plan the fire shreds); Kael's name in her ledger.
-- **The unfinished duel:** her match with Kael was interrupted by the raid. No winner. Unresolved for the entire series.
+**Glance:** rival → first friend; the Witness · Line of Vel (royal protectors, eleven generations) · 12 (Kael's age), as of Ch. 14 · on the island for the year; will enroll and "win it."
+
+### STATIC
+- **Role:** Daughter of the Line of Vel. Kael's rival, then first friend. The Witness — she alone will know the truth of him at the end (00).
+- **Want:** To be worthy of the Line; later, things she was never permitted to want.
+- **Wound:** Forged from birth; lethality as her family's love language; correspondence read by chaperones; cannot sleep; flinches microscopically at reverence for her name.
+- **Flaw:** Coldness as armor; belief in the empire the way one believes in a parent who beats you; mistakes discipline for identity.
+- **Abilities:** EARTH spent inward — internal reinforcement; nothing leaves her body (02). Twin blades, both hands full — the one-handed empire's heresy. Unbeaten; total control (a killing stroke stopped at exactly one finger); force and speed beyond Kael's category. The first person on the island to read his formlessness as a FORM — the other native speaker of his one social language.
+- **Voice:** Precise, formal, economical; thaws by degrees across books. "Val" is reserved for intimacy — Kael's first use is a beat.
+- **Appearance:** Lean, strong, athletic — a working build that reads as function even at rest. Black shoulder-length hair, no ornament. Emerald green eyes — color spent at reading distance only; worn plain and bored as display (the boredom died against Kael). Her stillness WARNS — nothing like his. Knuckles older than her face; guard-lineage calluses. Rooms rearrange around the name before the girl; reverence draws her one untrained tell, the microscopic flinch (unspent — banked).
+
+### DYNAMIC
+- **As of Ch. 14.** Arrived with the tournament's advance; trains the year, enrolls at its end, "leaves after" — the plan the fire shreds.
+- **State:** pushed hard for the first time; took the threading slash without anger — the one person in the yard untroubled by his danger; refused the halt over her own blood ("No."). Kael's name entered in her ledger; she is coming for the flash ("A year is long enough to learn what that was.").
+- **Relationships:** Kael — rival, the first she has had to read seriously; the rest of the yard — read in passing.
+- **Knows:** the flash was not wet light. **Does not know:** what it was; anything of the mountain.
+- **Body:** left-forearm cut from the threading slash.
+
+### FORWARD
+- **Arc:** flawless mask → cracks → the choice in the fire (she runs with Kael and the princess — duty first; the crown-vs-Kael choice deferred to when it hurts more) → the Witness.
+- **Reveal discipline:** the wound's cracks (the sleeplessness, the flinch, the forged childhood) stay unspent — ration her interiority, keep the mask.
+- **The unfinished duel:** her match with Kael is interrupted by the raid; no winner; unresolved for the entire series.
+- **End of Book One:** ~13–14; in the boat.

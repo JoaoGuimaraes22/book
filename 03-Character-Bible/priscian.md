@@ -1,4 +1,15 @@
 ## PRISCIAN (master of natural philosophy)
-- **Role:** delivers the minima (Ch. 8 — SPENT: "the smallest grains of the world," chalk a hand high). Scholarly register (real late-antique grammarian's name; collision-safe by the minima precedent).
-- **Kit:** a man in love with a model — the taxonomy is his life's furniture ("stuffed to the seams, a man with too many books inside him and the bindings straining"). **Want:** one student in a room of heirs marking time who asks real questions — Kael makes his decade and will complicate it. **Limit:** mistakes the model for the world — the honest scientific error walking (see 00, empiricism convergence); when Kael's experiments start returning answers the taxonomy cannot hold (Book Two), his love of questions will fight his love of the model. Build now, spend later.
-- **Tells Ch. 8–9 (COMPRESSED session 18 — full blocks verbatim at git 4fa521b):** **Ch. 8:** the thin-soup face at doctrine-answers; did not laugh at the fire answer; "Everyone has a fire," in a voice that meant the opposite; the repetition tic ("You can watch it choose"). **Ch. 9:** the mist question received as "a strange coin on a table" — the tic again, fresh words (deliberate echo); retreats to "the elements of the art are the elements of the art," which answers nothing, and knows it. Build continues toward the Book Two model-vs-questions fight.
+**Glance:** master of natural philosophy; the model's man · the Temple · age unpinned · the mist question still standing.
+
+### STATIC
+- **Role:** Delivers the minima and the taxonomy; a man in love with a model — it is his life's furniture. Scholarly register.
+- **Want:** One student in a room of heirs marking time who asks real questions — Kael makes his decade and will complicate it.
+- **Limit:** Mistakes the model for the world — the honest scientific error walking. When Kael's experiments return answers the taxonomy cannot hold (Book Two), his love of questions will fight his love of the model.
+- **Tells:** Does not laugh at real questions; the thin-soup face at doctrine-answers; repeats a strange coin slowly to keep it still while he looks at it.
+- **Appearance:** Heavy, round, stuffed to the seams; ink-stained cuffs, chalk dust in the creases, a squint from a life at close text. Moves like a man carrying a library. Delight and irritation use the same furrow.
+
+### DYNAMIC
+- **As of Ch. 14.** No new state; the mist question left standing; the build continues.
+
+### FORWARD
+- **Book Two:** the model-vs-questions fight.
