@@ -23,4 +23,3 @@ Sheet structure (session 18 addendum): **Glance** line (Role · Faction · Age a
 - [HALDEN (the judge — the smiling man; introduced Ch. 13)](halden.md)
 - [Villagers / coalition cast](villagers-coalition.md)
 - [APPEARANCE REGISTER (rules — entries live in each character sheet)](appearance-ledger.md)
-- [SESSION 9 AMENDMENTS (2026-08-12) — revision session; ledger ratified](session-9-amendments.md)
