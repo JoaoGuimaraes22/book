@@ -81,7 +81,7 @@ Kael looked at the water, all the way out, to where it stopped being color and s
 
 "I don't know." He gave the not-knowing the way she had taught him to give it, with both hands.
 
-Oss was quiet for the length of a wave. "I'm going to stand in a counting-house in the capital," he said, "watching other men's cargo. And one day somebody will tell me the some mountain boy wielding lightning went past the sea, and I'll say I split a pastry with him once, and nobody will believe me."
+Oss was quiet for the length of a wave. "I'm going to stand in a counting-house in the capital," he said, "watching other men's cargo. And one day somebody will tell me some mountain boy wielding lightning went past the sea, and I'll say I split a pastry with him once, and nobody will believe me."
 
 Footsteps came along the wall, exact and unhurried, and stopped.
 
@@ -121,7 +121,7 @@ And Kael stood in the middle of the broken stillness of the court with the want 
 
 The mornings with his father had changed, and the one thing changed all of it: the threading.
 
-"Lightning is a tricky element. It is the element most truly spent from the body," his father said, the first morning, in the voice of moving a lesson from one shelf to another. "The body is busy. You and the storm, will learn to be busy together."
+"Lightning is a tricky element. It is the element most truly spent from the body," his father said, the first morning, in the voice of moving a lesson from one shelf to another. "The body is busy. You and the storm will learn to be busy together."
 
 So now the wasters worked while small threads of lightning lived in his off hand — the smallest things he could hold, held — and the first mornings taught him the size of what he had been asked. The threads died at every hard parry. The sword slowed whenever the threads lived. His father watched the two of them fail to share one boy with no expression at all.
 
