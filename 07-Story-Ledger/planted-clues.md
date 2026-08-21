@@ -1,7 +1,7 @@
 ## Planted Clues & Foreshadowing
 **LAW CORE.** The clue ledger: what was planted, where, and what it is owed. **STATE is the section a row sits in** — four states, no others; a row changes state by moving section. Everything in the Handling column is an instruction, never a state.
 
-### PLANTED — payoff owed — THE WORKING SET  (87)
+### PLANTED (87) — payoff owed · THE WORKING SET
 On the page; the payoff is still owed. This section is the answer to "what is still owed?"
 
 | Clue | Planted in | Pays off in | Handling |
@@ -94,7 +94,7 @@ On the page; the payoff is still owed. This section is the answer to "what is st
 | THE WALL BELIEF + THE FIRST TRUE "NOT ENOUGH" — everything since the night built on "that the boy they were building would be enough"; the first loss since the settlement, taken whole ("this time it was not even wrong") | **Ch. 14** | the misfile engine upgraded (a true verdict now sits beside the false one, indistinguishable to him); beat 13's losing seasons; the "never seen them try" beat (Valeria = the reference class arriving); the drive toward the tournament | structural |
 | THE DANGER SELF-KNOWLEDGE — the slash spent below decision ("There was no moment when he chose." — deliberate untying-register echo); "some of what it had made sure of was dangerous, and did not entirely belong to him." | **Ch. 14** | the series "becoming them" thread made self-aware; the Requiem's moral spine (the unfiled faculty vs. the built instincts — the two involuntary things in him now face each other); future escalations (steel raises it) | protect; never resolve cheaply |
 
-### PLANNED — not yet on the page  (9)
+### PLANNED (9) — not yet on the page
 Not yet planted. **Audit every session:** if a row's Part has closed, that is a bug — plant it, or rescope the payoff.
 
 | Clue | Planted in | Pays off in | Handling |
@@ -109,7 +109,7 @@ Not yet planted. **Audit every session:** if a row's Part has closed, that is a 
 | Third-hand glimpse in the raid (fits neither side) | Part IV fire | far continent (much later) | — |
 | The unfinished duel (Kael vs. Valeria) | Part IV | very late in the saga | — |
 
-### VALVE — never resolve — INVERTED INSTRUCTION  (3)
+### VALVE (3) — never resolve · INVERTED INSTRUCTION
 Deliberately left open. Do NOT close these; a payoff here is a mistake, not progress.
 
 | Clue | Planted in | Pays off in | Handling |
@@ -118,7 +118,7 @@ Deliberately left open. Do NOT close these; a payoff here is a mistake, not prog
 | THE FOLKLORE VALVE — "something came down off the mountain on the longest night": dead crew found, no survivors; the story grows, wrong in details, true in center, pointing UP; the crew's absence is noticed by somebody (who: open) | **Ch. 6 (sealed 00); Temple leg SPENT Ch. 12** (the hall weld; "no one left alive" version now on-page canon; the mountain line minted in-room; boy-detail still BANKED) | professional ears (tournament season); dangerous men, maybe; the girl's version as the story's dangerous correction (see 04 revisit note) | do not resolve; Temple leg SPENT; who-misses-the-crew and professional-ears legs still open |
 | THE LIAR'S KNOT — gift or test? Both readings alive, perhaps even to him | **Ch. 4** | Severin's sealed-room endgame | do not resolve |
 
-### PAID — nothing further owed — THE EVICTION COHORT  (10)
+### PAID (10) — nothing further owed · THE EVICTION COHORT
 The payoff has landed. Kept only for the do-not-respend instruction. **EVICTION: lift this whole section to `planted-clues-book-N.md` at each book boundary.**
 
 | Clue | Planted in | Pays off in | Handling |
