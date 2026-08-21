@@ -9,12 +9,12 @@
 ---
 
 ## LAW CORE — read in full every session
-- [timeline.md](timeline.md) — Planned part/age structure and every age pinned on the page. (458w)
-- [standing-rules.md](standing-rules.md) — Author-ratified rules that govern how the prose is written. (1,147w)
+- [timeline.md](timeline.md) — Planned part/age structure and every age pinned on the page. (432w)
+- [standing-rules.md](standing-rules.md) — Author-ratified rules that govern how the prose is written. (792w)
 - [planted-clues.md](planted-clues.md) — The clue ledger: what was planted, where, and what it is owed. (5,128w)
-- [magic-snapshot.md](magic-snapshot.md) — Canon snapshot; deep layer in 00, public layer in 02. (257w)
+- [magic-snapshot.md](magic-snapshot.md) — Canon snapshot; deep layer in 00, public layer in 02. (256w)
 - [open-threads.md](open-threads.md) — End-of-Book-One state of the live threads. (48w)
-- [established-facts.md](established-facts.md) — Do-not-contradict facts that no single chapter owns. (532w)
+- [established-facts.md](established-facts.md) — Do-not-contradict facts that no single chapter owns. (438w)
 
 ## ACCUMULATORS — per-book roll; tierable
 - [chapter-records.md](chapter-records.md) — One canonical record per committed chapter (summary + FACTS tail). Rolls per book. (10,202w)

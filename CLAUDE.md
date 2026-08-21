@@ -29,7 +29,7 @@ Folded in from 05 §Working Protocol at session-18 addendum 6; verbatim pre-fold
 
 **Work**
 4. New chapters: mandatory design argument first (as specified in NEXT TARGET) → propose chapter shape → WAIT for approval → draft.
-5. Revisions: propose per-chapter cut/addition tables with projected counts; flat-or-leaner rule per chapter (against 05's CANONICAL baselines); failed passes get redone. Run `scripts/check-echoes.sh` on any new/revised chapter (every protected-phrase hit must be a deliberate echo) and report tic counts per the MODEL-TIC SELF-AWARENESS rule (07 §Standing Rules).
+5. Revisions: propose per-chapter cut/addition tables with projected counts; flat-or-leaner rule per chapter (against 05's CANONICAL baselines); failed passes get redone. Run `scripts/check-echoes.sh` on any new/revised chapter (every protected-phrase hit must be a deliberate echo) and report tic counts per the MODEL-TIC SELF-AWARENESS rule (06 §Model-Tic Self-Awareness).
 6. Rhythm: open on `git status` clean → draft → react/revise while hot → approve → commit decisions to the files → `git commit` → close. The working files ARE the canon; there is no reupload step.
 7. Ceiling: two chapters of new prose per session; three only if structurally simple. Heavy-canon chapters (the tournament, the fire) get a session to themselves, with a planning session beforehand if needed. The ceiling applies to NEW prose only — revision passes and line-edits are cheap.
 
