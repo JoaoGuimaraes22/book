@@ -20,3 +20,4 @@
 | 12 | 11 | not re-pinned — "He would be thirteen" at the two-springs horizon carries the arithmetic | storm-weeks of the second cold term → the turn toward spring; the pan-away nine days after the announcement |
 | 13 | 11→12 | no pin — birthday unmarked, per rule | the announcement's spring → the following cold term ("at the spring, one year would remain") |
 | 14 | 12 | never pinned — carried by "a girl his own age" + the Ch. 13 arithmetic | the spring one year out; arrival, exhibition and duel run continuous within that spring; Part III opens |
+| 15 | 12 | never pinned — the birthday passes unmarked per rule | continuous from Ch. 14's yard that same evening; the mountain's steel through the spring; the Temple's at midsummer; the watching in the weeks after |

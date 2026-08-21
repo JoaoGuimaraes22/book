@@ -11,9 +11,9 @@
 - **Appearance:** Broad through the shoulders and no further — an instrument's economy, not bulk; fills a doorway by carriage. Iron-dark hair greying at the temples; iron-dark eyes (both parents dark-eyed — Kael's grey is no one's). A face like used tools, weathered past its years. Scars on-page: the long seam, the through-wound pair, the tally-like forearm marks ("A bad employer"). Hands permanently half-curled, as if around something set down. Moves exactly as much as required.
 
 ### DYNAMIC
-- **As of Ch. 14.** The braid school running hard — the burst tuition paid all spring without softening; the margin line delivered; the first stitch acknowledged ("Earlier than I thought").
+- **As of Ch. 15.** KNOWS about the flash (Kael told him) and answers it with an AUDIT, not a ban — one fault named, wrist discipline, then "The rest was correct." His response to being frightened is to escalate: steel in the boy's hands a year out, provenance unremarked; teaching becomes PROOFING; the hours run into the night. The harshness is coat-aware — never a mark above the collar or below the wrist. Gets ONE glimpse of what he is doing and does not change. Never once hurried all summer (withholding plant — not a display).
 - **Stance:** the prohibition spoken ("You will not enter it."); the plan is to sit still while the tournament passes, the boy free after.
-- **Knows:** the escalation (the inquiries; the third house's man — via Severin). **Does not know:** the public flash (owed to Ch. 15); the hidden contact.
+- **Knows:** the escalation (via Severin); THE PUBLIC FLASH, in full, from Kael's own mouth. **Does not know:** the hidden contact; the bind idea.
 
 ### FORWARD
 - **Status:** dies in the fire, buying time for both his sons to escape in two directions.

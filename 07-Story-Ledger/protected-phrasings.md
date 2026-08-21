@@ -247,3 +247,34 @@
 - "all of it showed" (inversion)
 - "no language at all"
 - "the lazy place"
+
+**Ch. 15 additions ("The Hours," session 19):**
+- "She had not been faster than his thinking. She had been faster than his body."
+- "Their words. Not yours."
+- "The rest was correct." (the audit that arrives instead of a punishment — protect absolutely)
+- "reaching in the dark for the side of the bed where the wall had always been"
+- "There was the drawer, and whatever was in it, and him."
+- "Wood forgives you. It bounces, it bends, and it lies to you about what you did. This does not lie."
+- "That is the wrong question. Ask the other one."
+- "It likes it."
+- "the same size thread in a better road"
+- "You will not be exact enough for steel this year by being what you were last year."
+- "The lamp is in the shed."
+- "Everything the Temple would see was left alone. Everything the shirt covered was fair."
+- "Not once. Not by accident, either, because his father did not do things by accident."
+- "his father was never once hurried"
+- "I can't see my own mistakes because they're the size of a hair. Yours are the size of a house."
+- "It is the first useful thing anyone has said to me about the art in four years."
+- "That is not a reason. That is the shape a reason goes in."
+- "the sound of her having spent correctly"
+- "*Nobody stands beside her.*" (protect absolutely — the misread's whole load)
+- "It was *how you built a person*: you put someone next to them who is further along and you leave him there."
+- "Her school had no beside. Her school had above, and her school had at."
+- the closing block: "a child being made by people who did not love her — and never once notice that the only reason he had a word for the difference at all was that he had been made by people who did." (protect absolutely)
+
+**Ch. 15 deliberate echoes this chapter (not new coinage):**
+- "the way you decline bread" (Ch. 14 — the narration reaching for its own figure inside Kael's retelling; FLAGGED at commit, one chapter after minting, author left standing)
+- "Everything I do is small" (Ch. 11 — explicitly recalled to the healer's bench; the hinge of the magnifying-glass insight)
+- "the standing game" (Ch. 3 / 5 / 6 — in the beside-her passage)
+- "The fire ate what it was given" (Ch. 12 — the lamp's silence after the flash)
+- Neris in the doorway, hand on the frame, knuckles pale (Ch. 2 image, unquoted, at higher intensity)

@@ -613,3 +613,29 @@ The first normalisation pass silently corrupted all 109 rows: the leading-state-
 
 ### 05 STATUS-CHAIN ROLL-OFF — session 17 (rolled at the session-18 close; the standing "riding steel" ruling it carried was rehomed to 07 chapter-records Ch. 13 first)
 - **s17 close (2026-08-21) — CH. 14 "THE MEASURE" COMMITTED, 4,317 words; PART III OPENS.** Full record: `07-Story-Ledger/chapter-records.md`. Session rulings that outlive the chapter: "riding steel" in Ch. 13 stands AS WRITTEN (do not re-flag); pre-commit probes clean on all five axes (`archive/probes/ch-14-pre-commit.md`).
+
+
+## 05 STATUS-CHAIN ROLL-OFF (session 19)
+- **s18 close (2026-08-21) — HYGIENE SESSION, no prose.** The five-item compaction under the zero-loss discipline. Full record: archive §SESSION 18.
+
+## SESSION 19 — 2026-08-21/22 (CH. 15 "THE HOURS" + a cold-read line-edit pass)
+
+**Open.** verify.sh OK. Full tiered cold read. Six itches flagged before any work; five fixed, one ruled to stand.
+
+**Line-edit pass (committed bcce427).**
+- Ch. 14: POV break cut — Elarine's face read from behind Kael's back, carrying an orphaned "as he was getting up" with no referent (he does not get up until after the match). Also the orphaned "a cut already paid for once today by someone else" on his shoulder, re-aimed at the jaw the duel actually cut.
+- Ch. 12: the trunk demo rewritten out of summary register (it was the flattest prose in the manuscript on a heavy-canon beat); "*What could it not cut?*" preserved verbatim; `parent's` → `parents'`.
+- 07: the PAID row for the coerced joke had inverted parentheses spliced in at the s18 restructure. Repaired.
+- **AUTHOR RULING:** the Ch. 12 yearning-scar lines STAND. "Telling the reader what to feel" is to be applied as a FLAG, not a verdict — it points at an emotion-label substituting for a scene that would have earned it, and does not ban naked statement of feeling at a moment the book has paid for. Recorded in 06 §Author taste notes.
+
+**Design argument (Ch. 15).** Claude proposed a shape built on a parental prohibition of the thread. The author replaced the spine: Kael comes home frustrated and MORE obsessed; the schools move to real blades; the cistern court pushes to its limit with Kael studying Aurelian's capacity to sharpen his own small spending; and Kael surveils Valeria's training, obsessively, using his parents' own schools. Claude's contributions kept: the lamp staged so the debt lands on-page without a pan-away, and the "nobody stands beside her" misread as the chapter's close.
+
+**AUTHOR RULINGS IN SESSION.**
+1. **STEEL (amends 07 law core).** The weapons school leaves wasters. The "steel is banked — the Temple's, or the fire's" clause is spent on the TEMPLE's side only; the CHEST is inheritance, not issue, and stays banked. Argued and accepted that the fire's throw lands harder if Kael already knows steel.
+2. **NO PROHIBITION.** Author caught that a ban on public threading contradicts the braid school's own purpose and Ch. 11's established public-thread canon (the coat hides the mountain, not that he uses the art). The ban was cut; Vask AUDITS instead — one fault, wrist discipline, then "The rest was correct." The knock-on improved the chapter: with no rule to obey, Kael's withholding becomes his own decision and the loft close becomes "There was the drawer, and whatever was in it, and him."
+3. **THE MEDIUM LAW.** Author ruled lightning should thread metal MORE easily than wood, and that Kael's scientific mind should get ideas from it. Steel takes a thread unasked and carries it whole; the same property returns it, so the burst scales with the road. Yielded THE BIND — Kael's untested hypothesis, written in the blank book, never attempted (02, logged OPEN, not canon until spent).
+4. **BRUTALITY SCALED.** Kael's obsession and Vask's fear meeting and each mistaking the other for agreement. Proofing; the night hours Kael asks for; the marks never above the collar or below the wrist (coat-aware harshness); Neris twice in the doorway; Vask's one glimpse.
+5. **"ASH" RETIRED** as the wasters' wood, retroactively — nine on-page instances across Ch. 7/9/14/15 plus 02 and 07. Fire-ash (Ch. 1/8/10) is a different sense and untouched; the archive keeps the old wording per the append-only rule. Vask's briefing on Temple steel also cut — he would not know it and would not say it; the information moved to where Kael would actually meet it, which made the mountain visibly ahead of the empire.
+6. **CHAPTER CUT AT THE WATCHING.** The drafted tail (2,079w: her asking for him in the yard, the losing season, the drawer shut deliberately, the judge, the First Master, the gorse catch) was removed at the author's direction for redesign. Diagnosis recorded at the time: the tail failed because the MODE changed — everything before it is scene, the tail is summary, and the rivalry is the one thing that most needs dramatising. It survives only in git b482ced and is NOT a plan. The Temple-steel section was then moved above the cistern court so the chapter closes on the watching, and the burn-count span trimmed to midsummer.
+
+**Ch. 15 result.** 5,479w, five sections. Ledger checks: no pan-away, no slip, no Kynemir, father-glimpse ledger untouched (the "never once hurried" line is a withholding plant explicitly fenced against being read as a display), relief-tell untouched, "Val" unused, crush unlabeled, Valeria's beat-14 cracks unspent. Echo check clean — three protected phrases, all deliberate; "the way you decline bread" flagged as a reuse one chapter after minting and left standing.

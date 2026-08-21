@@ -14,7 +14,7 @@
 - **Appearance:** Ink-dark hair bound severely; pale, economical — nothing on her that doesn't work; small; dark eyes that price before they blink. Forgettable at a glance and unforgettable the third time you notice she hasn't moved. What others react to: they mostly don't — which she has noticed, and wears as neatness.
 
 ### DYNAMIC
-- **As of Ch. 14.** The cistern-court arrangement institutional — her fans for his reading, twice a week, Aurelian admitted on her conditions. She is the crush-object, unknowing (his side only; never labeled by either).
+- **As of Ch. 15.** Proposes recruiting Valeria into the court and is refused by Kael in a beat too fast to be a reason ("That is not a reason. That is the shape a reason goes in."); prices the refusal, declines to ask again, and says nothing further — the collegial fiction holding over something she has plainly seen. Previously: the cistern-court arrangement institutional — her fans for his reading, twice a week, Aurelian admitted on her conditions. She is the crush-object, unknowing (his side only; never labeled by either).
 - **The flash:** she SAW and declined to ask — "Of course it was," both letting it hold; the coat-wire fed HOW, not WHAT, at its highest pressure yet.
 - **The judge-watch:** gave the twelfth exchange away to watch Halden — "his face spent nothing... Neither one is good." She smells the wrongness Kael won't examine.
 

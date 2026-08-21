@@ -11,7 +11,7 @@
 - **Appearance:** Tall for his cohort, built a year ahead of his age; dark-gold hair; high carriage; unspent strength Kael prices on sight. Beautiful and knows the exact weight of it — the bench behaves differently in his radius (render the radius, not the adjective). Fire's warmth in the coloring without stating it.
 
 ### DYNAMIC
-- **As of Ch. 14.** Trains at the cistern court under Elarine's conditions — the apology paid in full, alone, "Corvane pays what it owes"; the coat held inside the alliance (he gets what the yard gets, plus the why).
+- **As of Ch. 15.** Longer hours delivered: goes and gets bruises off older boys on purpose, and pays at full rate for "the why" — Kael takes his structure apart an inch at a time and he gets worse for three weeks before better, and does not stop. Lets Kael study his capacity as a magnifying glass ("Yours are the size of a house" — received as "the first useful thing anyone has said to me about the art in four years"). His first real laugh, surprised out of him, aimed at nobody. Previously: trains at the cistern court under Elarine's conditions — the apology paid in full, alone, "Corvane pays what it owes"; the coat held inside the alliance (he gets what the yard gets, plus the why).
 - **The Valeria loss:** beaten in six, never in one of them; paid the invoice nod and the costliest line of his arc — "She is better than my brother."; recruited the loss into the work ("longer hours"); handed Kael the mirror ("Now you know how it feels...").
 - **Knows:** something of his house's campaign — how much is open. **Does not know:** the mountain; Halden's identity.
 

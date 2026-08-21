@@ -11,8 +11,8 @@
 - **Appearance:** Dark-haired, dark-eyed; passes as village until she is still — then the stillness has a quality the village doesn't make. Fine bones under worked hands; the hands know too many trades — the lie's weak point. Handsome and unremarkable in the same breath, with ages of watching in the face.
 
 ### DYNAMIC
-- **As of Ch. 14.** Watches every night — the boats no longer decide. The evening school audits the Temple daily. The danger admission given (her sharpest lines); the fear shown once, deliberately — the only answer she can afford.
-- **Knows:** the escalation (via Severin). **Does not know:** the public flash (owed to Ch. 15); the hidden contact; that Kael cracked her old night-watch pattern; that he knows the sea never freezes.
+- **As of Ch. 15.** Watches every night. Twice that summer she stands in the doorway while her son comes in from the dark, hand on the frame, knuckles pale, and says nothing (Ch. 2 image at higher intensity — sees the harm, does not stop it). Water and salve on the table before he asks. The danger admission and the one shown fear both stay spent — not respent.
+- **Knows:** the escalation (via Severin); THE PUBLIC FLASH — she debriefs him on it herself, sightline by sightline, in a built sequence Kael has no name for at his own table (Sanctum fingerprint, method only). **Does not know:** the hidden contact; the bind idea; that Kael cracked her old night-watch pattern; that he knows the sea never freezes.
 
 ### FORWARD
 - **Book One:** pregnant through the tournament season (planted for Part III); gives birth near the arc's end.

@@ -15,14 +15,14 @@
 - **Appearance:** Village-plain by design — dark hair (his mother's), unremarkable at rest; a wiry, light-through-the-shoulders build that hides its training completely — nothing to look at until he moves, and he is trained not to move. Eyes a pale grey belonging to no one in the house (00): the parents never remark on them, not once — their silence is the tell that never tells; the grey arrives only through other mouths or other eyes, no mirrors, no self-description; unspent on the page — spend when a Temple mouth wants a detail to be cruel or curious about. Left forearm: the blade scar, near his father's tally-marks in site and length. Marked older than his face admits. What others react to: nothing — which is the point, and slowly becomes the thing they react to.
 
 ### DYNAMIC
-- **As of Ch. 14.** Kael 12; one year to the tournament; Temple day-commuter, the mountain's dawn and evening schools running.
+- **As of Ch. 15.** Kael 12; one year to the tournament (midsummer past); Temple day-commuter, the mountain's schools running in STEEL and into the night.
 - **Goals:** beyond the sea; the tournament (forbidden — complied, devastated); Valeria's measure, fed and feared.
-- **Concealments:** the coat (torn once, publicly — the flash; benches sealed around "wet light", the colonnade saw) and the hidden contact (Halden's capital offer, hidden from the parents).
+- **Concealments:** the coat (torn once publicly — the flash; benches sealed around "wet light"); the hidden contact (Halden's capital offer); and now THE BIND idea, written in the blank book and told to no one. The parents KNOW about the flash — he told them himself, un-holed. He never sandbags: at home in Temple steel from the first hour, in front of everyone.
 - **Relationships:** parents — prohibition live, anger named, believes the danger admission; Elarine — collegial ally, crush unlabeled; Aurelian — training ally; Oss — estranged; Valeria — rival, coming for the flash; Severin — sponsor and mentor; Halden — hidden contact, the wrongness filed unexamined.
 - **Knows:** the men of his night died; two lightning houses asked after him and his mother; his parents are Resonants (lightning / air).
 - **Does not know:** anything sealed in 00; the third house's man; Halden is Corvane's man; Oss was coerced.
-- **Body:** the forearm scar; burn speckle-receipts on wrist and hand.
-- **Arc position:** first true "not enough" filed beside the misfiled one; the wall belief broken; the danger self-knowledge live; slips 1–2 spent, slip 3 reserved for the fire.
+- **Body:** the forearm scar; burn speckle-receipts wrist to second knuckle (411 more between spring and midsummer); a summer of proofing-bruises, none of them ever above the collar or below the wrist.
+- **Arc position:** first true "not enough" filed beside the misfiled one; the wall belief broken; the danger self-knowledge live and now UNGOVERNED BY ANY RULE — nobody forbade him the thread, so the only thing between him and spending it is himself. Withholds it from Valeria by his own decision. Slips 1–2 spent, slip 3 reserved for the fire.
 
 ### FORWARD
 - **Endgame kit:** dual daggers, both hands full, lightning threaded through the steel; sheathe-speed faster than most Resonants shape a resonance. Emerges much later (00). The signature is not the whole arsenal — dual daggers · throwing knives · a longsword.

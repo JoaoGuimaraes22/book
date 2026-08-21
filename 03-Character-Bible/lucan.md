@@ -8,7 +8,7 @@
 - **Appearance:** "The long one" — tall, narrow, all reach; a careful dresser even in yard clothes. A narrow face that does arithmetic badly in public — his thinking shows, which among the golden children is a weakness.
 
 ### DYNAMIC
-- **As of Ch. 14.** The accumulating-evidence thread live: the one golden child collecting proof that the luck story is false. His house coordinates with Halden's campaign, fed by his arithmetic (off-page). No new revenge piece since the fouled slate; added the line at the Sedrane duel anyway.
+- **As of Ch. 15.** Issued the same Temple steel on the same morning, with a paid master's four years behind him, and watches the charity case handle it "like a man taking back something borrowed" — another line in the column. Previously: the accumulating-evidence thread live: the one golden child collecting proof that the luck story is false. His house coordinates with Halden's campaign, fed by his arithmetic (off-page). No new revenge piece since the fouled slate; added the line at the Sedrane duel anyway.
 
 ### FORWARD
 - **Arc direction (not sealed):** NO redemption — where Aurelian turns, Lucan does not; the arithmetic hardens instead of opening. A recognition/accusation door stays open, unresolved.

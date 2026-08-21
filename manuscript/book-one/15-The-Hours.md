@@ -210,7 +210,19 @@ Kael had been read by that face his whole life and had never once seen the thing
 
 "Again," his father said.
 
-He burned four hundred and eleven times between the spring and the turn of the year. He counted, because counting was his.
+He burned four hundred and eleven times between the spring and midsummer. He counted, because counting was his.
+
+---
+
+The Temple came to steel at midsummer.
+
+It came the way everything came there, with a procedure attached: blades issued out of the armoury by cohort, racked and numbered and counted back in at the bell, blunted and rounded to the pattern every school in the empire would fight the tournament to. The yard spent a week being extremely pleased with itself.
+
+Kael took his out of the rack and it sat in his hand where it had been sitting every night for two months.
+
+He did not hide it. He had never once hidden that he was good, only where the good came from, and there was nothing in the coat that covered a boy simply being at home in a weapon. So he was at home in it, from the first hour, in front of all of them — and the yard did what the yard had done for three years and decided it was nothing much, and Lucan Drusane, who had been issued the same blade on the same morning with a paid master's four years of steel behind him, watched the charity case handle it like a man taking back something borrowed.
+
+He added a line to a column.
 
 ---
 
@@ -302,7 +314,7 @@ Elarine looked at him a moment longer. Then she picked up the satchel she had no
 
 ---
 
-Kael was thirsty. Everyday, he wondered. *What does she do?* *How does she train?*. But, for some reason he could not fit in any drawer, he could not bring himself to simply go, and ask. And so, he did what he did best.
+Kael was thirsty. Every day, he wondered. *What does she do?* *How does she train?* But, for some reason he could not fit in any drawer, he could not bring himself to simply go, and ask. And so, he did what he did best.
 
 He knew, if you looked at the thing you needed to know about, you'd do it from where it could not look back, for as long as it took. He had been taught to do exactly this by everyone he loved, and if he had been asked he would have said, honestly, that he was studying an opponent a year out from a tournament he was forbidden to enter.
 
@@ -330,134 +342,4 @@ He turned it over and found it good, and the more he turned it the better it got
 
 Her school had no beside. Her school had above, and her school had at, and it worked, plainly it worked, it had produced the most complete twelve-year-old he had ever seen or heard of.
 
-The looking. It never stopped. He'd spend two weeks looking, from the wet grass, through the gorse, in the grey light, at a child being made by people who did not love her, and that the only reason he had a word for the difference at all was that he had been made by people who did.
-
----
-
-The Temple came to steel at midsummer.
-
-It came the way everything came there, with a procedure attached: blades issued out of the armoury by cohort, racked and numbered and counted back in at the bell, blunted and rounded to the pattern every school in the empire would fight the tournament to. The yard spent a week being extremely pleased with itself.
-
-Kael took his out of the rack and it sat in his hand where it had been sitting every night for two months.
-
-He did not hide it. He had never once hidden that he was good, only where the good came from, and there was nothing in the coat that covered a boy simply being at home in a weapon. So he was at home in it, from the first hour, in front of all of them — and the yard did what the yard had done for three years and decided it was nothing much, and Lucan Drusane, who had been issued the same blade on the same morning with a paid master's four years of steel behind him, watched the charity case handle it like a man taking back something borrowed.
-
-He added a line to a column.
-
----
-
-She began asking for him in the yard in the last weeks of the summer.
-
-The first time, Ruthen simply called it — "Vel. Charity case." — and the yard made a sound, and Kael went out and lost in nine exchanges, which was worse than eleven, and knew exactly why.
-
-He had settled it on the road, days before, the way he settled things: laid out flat, priced, decided. She had gone off this island's whole gathered gold at a walk and had wanted nothing from any of it, and then she had taken a cut on her forearm and come awake, and said a year was long enough. She was not curious about him. She was curious about *that*. Whatever he had, she wanted to see it a second time, and a thing seen twice by Valeria Vel was a thing she owned. He had watched her take a technique off him in one duel and start using it on the whole yard inside a month.
-
-So: she would not get it. Not this year. He would beat her with his hands or he would not beat her.
-
-It was a clean decision and he was proud of it for about four days, which was how long it took to discover that a man who spends the first minute of every fight telling himself what he will not do is fighting two fights, and loses both.
-
-The second time it happened, four days later, Kael saw the yard-master's head come round at the start of the hour, before any pairing had been called, and saw where he was looking, and understood that Ruthen was not choosing.
-
-She never mentioned the flash. Not once, in any of it, in any way. She did not look at the waster he carried. She did not glance at his hand. Whatever a year was long enough to learn, she was not going to learn it by asking, and the not-asking sat over every exchange they had like weather.
-
-What she did instead was press.
-
-She pressed him in a particular direction and she was very good at it. Every match, she took away the safe answers first — the ground, the timing, the half-count, the lanes he liked — closing them one by one, patiently, the way you close doors down a corridor, until what was left at the end of the corridor was a boy with nothing plain that would arrive in time. She was walking him to the exact place he had been standing when it happened. She did it in the second match and the fourth and the seventh, and on the seventh Kael understood the shape of it whole, and understood that she would keep doing it for a year if it took a year, and understood something else besides, which was that she had learned this from him. He had beaten every boy in the yard by finding the one place their school had never priced. She was doing it to him. She had watched him do it, in one duel, and taken it.
-
-He lost eleven times that summer to Valeria Vel. He counted.
-
-And on the eighth of them, deep in a corridor with all the doors shut, with his lungs burning and the count still running and nothing plain anywhere left to spend, he felt the drawer come open.
-
-It was not a decision. That was the whole horror of it, and he had known it since he lay on his back in the drawn measure looking up her blade: there was no moment when he chose. It came up out of him the way the untying had come up out of him at a cartwheel three years ago, below the asking, arriving with its answer already in its hand, and it was not a thought and could not be argued with, and it was already halfway into the wood.
-
-He shut it.
-
-He shut it with his own hand, deliberately, the way you shut a door on a room with a fire in it, and it cost him a quarter of a second, and the quarter of a second cost him the exchange, and her point came in over his failing guard and stopped, exactly, one finger from his throat.
-
-"Match," Ruthen said. "Vel."
-
-Kael stood in the middle of the yard with his chest going and his hand shaking on the grip and did not hear the rest of it.
-
-He had done that. Nobody had made him do that. There had been a thing standing in him, built by people who loved him, that did not ask his permission before it spent, and this time — once, for a quarter of a second, at the cost of a match — he had been at the door of it, and he had held it shut.
-
-Nothing in him wanted to celebrate. He had lost. He had been beaten, again, publicly, by a girl who had not needed the thing he was not spending. And underneath that, in a place with no name on it, something that had been badly frightened since the spring sat down and was quiet for the first time in months.
-
-He picked his blade up off the stones.
-
-Across the yard, comfortable at the rail, the judge was watching, and had been watching for some time, and inclined his head very slightly, the way a man does at a well-played hand in a game he is not in.
-
-Kael got out of the yard as fast as the coat allowed.
-
----
-
-"They are saying you have gone off," the judge said, a week later, in the colonnade, to nobody. "The benches, I mean. It is the kindest thing a bench ever says, that a boy has gone off. It means they have stopped being frightened."
-
-Kael said nothing, which was allowed, because the judge never asked anything a coat could catch.
-
-"I have judged a great many young men." Halden watched the yard with the pleasure of a man watching weather he has correctly predicted. "Half of them are worse than they look. A few are better than they are permitted to be. That second kind is the interesting kind, and they are usually being kept by somebody." He said it to the drills, in his warm-room voice, without a grain of weight anywhere in it. "A blade in a drawer is still a blade. But nobody buys it, because nobody has seen it, and there is no ledger anywhere in this empire where a thing that was never spent is written down as having existed."
-
-He straightened off the pillar, and smiled at Kael the way a lamp shines on whoever walks past it.
-
-"The capital in the spring," he said. "Everyone will be looking at the same field. Do enjoy the summer."
-
-Kael walked to his next room with the drawer in his chest getting heavier by a measurable amount, and did not open it, and was, he would think later, almost proud of how good he had become at not opening it.
-
-The First Master sent for him at the turn of the term, as he did every term, and read the blank book, and asked his four questions about the garden trials, and turned back to a page with very little written on it, and looked at that twice.
-
-"The yard has settled on wet light," Severin said, without looking up.
-
-Kael's face did nothing.
-
-"It will hold, too. A yard would very much rather be right than curious, and it has had three years of practice being right about you." He closed the book and set it down and looked at Kael over it, and his face was as courteous and unhurried as it had ever been. "I mention it only so you know what you are standing behind. It is a good wall. It is not a thick one."
-
-He did not ask what it had been. He did not ask where it had come from. He put his hand flat on the blank book for a moment, the way a man does on a door he is not going to open, and then he moved it.
-
-"Your mother is well?"
-
-"Yes," Kael said.
-
-"Good," said the First Master. "Tell her I asked."
-
----
-
-He was in the gorse before the light, on a morning at the very end of the season, with the sea going about its business below and the court still empty, when the voice came from behind his right shoulder at conversational volume.
-
-"Nine days."
-
-Kael's body did four things at once and none of them was moving. He had been trained for a long time by a man who was very serious about what happened when you were found, and every one of the four things had been put there on purpose, and he was on his feet and turned with his weight already back before his mind arrived to say who it was.
-
-Valeria Vel stood six feet up the slope with her blade case in one hand, in the grey, entirely unhurried.
-
-"Nine days," she said again. "You did better than that at the start. Then you found a place you liked, and you kept it, and a thing that does not move is a thing that can be counted." She looked past him, down at the court, evaluating his angle with what he recognized, with a lurch, as professional interest. "It is a good place. The light is wrong for anyone below. You are downwind. If you had moved every third day I would still be looking for you."
-
-There was nothing at all in her face.
-
-Kael's whole apparatus stood up and offered him things and he threw all of them away. Denial: absurd, she had counted the days. A joke: he did not have any. The coat: the coat had nothing in it for this, because the coat was cut to make him ordinary, and there was nothing ordinary about a herder's son lying in the wet grass above a royal guard's daughter with the sun not up.
-
-"How," he said.
-
-He heard, distantly, that it was the wrong question, and that it had come out of him with real hunger in it, and that he had just told her more with one word than the coat had let out in three years.
-
-Something moved very slightly at the corner of Valeria Vel's mouth. It did not become anything.
-
-"The gorse is old and it is dry," she said. "On the second morning you came in from the east and put your knee on it, and it sounded like a fire starting. After that I only had to know where to not look."
-
-Kael stood in the wet grass and took the correction the way he took corrections, which was straight down, without argument, filed permanently. *Come in from below. The gorse is dry from the east.*
-
-"Are you going to report it," he said.
-
-She looked at him then, properly, the way she had looked at him from six feet away with her point at his face, awake all the way down, and Kael had absolutely no idea what was behind it and knew, with total certainty, that this was information about him and not about her.
-
-"To whom," said Valeria Vel.
-
-She shifted the case to her other hand.
-
-"They have moved the hours," she said. "From tomorrow it is the half-bell, not the sixth. It will still be dark." She was already turning; she said the rest of it downhill, over her shoulder, in exactly the voice she had used to say she would win the tournament. "The east side is closer to the wall. There is no gorse there at all."
-
-And she went down the path to the sea court, alone, a quarter of an hour before anybody, the way she did every morning, and began.
-
-Kael stayed where he was until the light came up, which was not a decision either.
-
-Then he went down the headland, and up the mountain, and burned his hand nine times before breakfast, and told his mother about the drills and the boards and the weather, whole, warm, in order, with two holes in it now.
-
-He was there before the half-bell the next morning, on the east side, near the wall, where there was no gorse at all.
+The looking. It never stopped. He'd spend two weeks looking, from the wet grass, through the gorse, in the grey light, at a child being made by people who did not love her — and never once notice that the only reason he had a word for the difference at all was that he had been made by people who did.

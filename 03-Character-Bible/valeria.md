@@ -11,7 +11,7 @@
 - **Appearance:** Lean, strong, athletic — a working build that reads as function even at rest. Black shoulder-length hair, no ornament. Emerald green eyes — color spent at reading distance only; worn plain and bored as display (the boredom died against Kael). Her stillness WARNS — nothing like his. Knuckles older than her face; guard-lineage calluses. Rooms rearrange around the name before the girl; reverence draws her one untrained tell, the microscopic flinch (unspent — banked).
 
 ### DYNAMIC
-- **As of Ch. 14.** Arrived with the tournament's advance; trains the year, enrolls at its end, "leaves after" — the plan the fire shreds.
+- **As of Ch. 15.** Trains alone on the old sea court under adults of the capital's grey. Her school CALIBRATES her: weighted wasters, a number called after each blow, adjust, again. First on court by a quarter-hour, last off, nobody waiting at either end; instructions spoken *at* her; letters read aloud by a chaperone before she is handed them. Observed for weeks by Kael from the headland, unknowing (as of this chapter).
 - **State:** pushed hard for the first time; took the threading slash without anger — the one person in the yard untroubled by his danger; refused the halt over her own blood ("No."). Kael's name entered in her ledger; she is coming for the flash ("A year is long enough to learn what that was.").
 - **Relationships:** Kael — rival, the first she has had to read seriously; the rest of the yard — read in passing.
 - **Knows:** the flash was not wet light. **Does not know:** what it was; anything of the mountain.
@@ -19,6 +19,7 @@
 
 ### FORWARD
 - **Arc:** flawless mask → cracks → the choice in the fire (she runs with Kael and the princess — duty first; the crown-vs-Kael choice deferred to when it hurts more) → the Witness.
-- **Reveal discipline:** the wound's cracks (the sleeplessness, the flinch, the forged childhood) stay unspent — ration her interiority, keep the mask.
+- **Reveal discipline:** the wound's cracks (the sleeplessness, the flinch, the forged childhood) stay unspent — ration her interiority, keep the mask. Ch. 15 spent only the OBSERVABLE from outside; the confession is beat 14 and is untouched.
+- **The one lazy place (Ch. 15, banked):** half a count of lag on the first exchange of each morning, before she is warm. Kael found it; it is unspent.
 - **The unfinished duel:** her match with Kael is interrupted by the raid; no winner; unresolved for the entire series.
 - **End of Book One:** ~13–14; in the boat.

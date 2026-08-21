@@ -1,6 +1,7 @@
 # Changelog
 One line per session, appended at close. Full records: ../archive/session-log.md.
 
+s19 (2026-08-22) — Ch. 15 "The Hours": THE MEDIUM LAW (metal takes a thread where wood must be persuaded; carries it whole; returns it the same way — the burst through steel scales with the road, not the thread) + THE BIND logged OPEN as Kael's untested hypothesis. "proofing" minted in his lexicon. "ash" retired as the wasters' wood, retroactively (page + curriculum); no species is named anywhere now.
 s18 (2026-08-21) — Folder split: topic files + index (pure TOC); terse rewrite (chapter pins kept as spend-state, session archaeology dropped). Dueling culture split out of magic.md; declaration practice moved to temple.md; Kael's profile deduped to his 03 sheet; released "Dain" dropped from the guard-register examples. Pre-split file at git e6a9865.
 s17 (2026-08-21) — Ch. 14 "The Measure": internal reinforcement canon; the Vel twin-blade heresy.
 s16 — Ch. 13: the burst (lightning-threading failure mode); Halden named.
