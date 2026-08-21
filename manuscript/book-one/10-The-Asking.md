@@ -2,7 +2,7 @@
 
 The Temple had given him the word a year ago, and it had sat over his mother's school ever since like a roof: the minima. The smallest grains of the world, Priscian said — all matter made of them, all matter carried by them. Kael kept the doctrine the way he kept any tool: the part his hands could test. That the grains were real he knew; two years of her school had put the feel of them in his hands before the Temple put a name to it. Whether they were truly the smallest thing, or the whole of what a thing was made of, his hands could not say — so that part went on the shelf, and he kept the part that worked: a thing's grains stood some way, and could be felt standing, and could be moved.
 
-The Temple had words for the rest of it too. Between a man and the minima of a thing a connection could stand — his own grains waking the world's, Priscian said, as a struck string wakes its silent neighbor — and the connection was resonance, and making it was resonating, and those who could were Resonants: fire Resonants, water Resonants, each strongest in the province of his proficiency. Kael liked the words better than most of the Temple's words. They said what they did.
+The Temple had words for the rest of it too. Between a man and the minima of a thing a connection could stand — his own grains waking the world's, Priscian said, as a struck string wakes its silent neighbor — and the connection was resonance, and making it was resonating, and those who could were Resonants: fire Resonants, water Resonants, each strongest in the element of his proficiency. Kael liked the words better than most of the Temple's words. They said what they did.
 
 ---
 
@@ -14,7 +14,7 @@ It was the one room below the split rock where the coat came off.
 
 He poured out the winter — the candle run her way at the bench, the trial that had worked, the questions stacking up behind it — and the master listened the way he had listened in the yard at nine, unhurried, putting answers away somewhere and questions on the table.
 
-"I asked Priscian whose the mist is — the water Resonant's or the air Resonant's," Kael said. "He said the provinces of the art are the provinces of the art."
+"I asked Priscian whose the mist is — the water Resonant's or the air Resonant's," Kael said. "He said the elements of the art are the elements of the art."
 
 "So they are. Who drew them?"
 

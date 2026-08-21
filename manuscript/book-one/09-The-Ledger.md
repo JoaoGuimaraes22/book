@@ -92,17 +92,17 @@ That night his mother asked what the marks had been, because she asked everythin
 
 Spring filled the philosophy room with flies, and Priscian lectured through them.
 
-The morning it happened he was on the elements — the six, their provinces, the tidy fences of the art — and he closed, as he closed every morning, with a question thrown at the benches. "The kettle, then. Water over the fire, and the water becomes air. Tell me the resonance of it, in the minima, properly. Anyone."
+The morning it happened he was on the elements — the six of them, their tidy fences — and he closed, as he closed every morning, with a question thrown at the benches. "The kettle, then. Water over the fire, and the water becomes air. Tell me the resonance of it, in the minima, properly. Anyone."
 
 Elarine Sedrane answered, and her answer was the best thing Kael had heard in that room since the first day. She built it the way a wall is built, course on course: the fire's minima quickening the water's; the water's loosened, rising, taking the airy nature; each element keeping to its fence. It was complete. Priscian nodded along the length of it the way a man nods at good masonry, and had his mouth open for the next thing, and Kael — because her wall was so good; a wall that good showed you exactly the shape of what it stood on —
 
 "Then whose is the mist?"
 
-The room turned. He was under the stone now, so he kept going, at his own pace. "When the kettle breathes, there's mist over it. If a water Resonant can call mist off the sea, and an air Resonant can call mist out of a valley" — doctrine, both provinces claimed it, the room had recited it a week since — "then the same mist comes from two arts. So when the mist is standing there, whose is it? What does the mist know that it is?" One breath more, because it was still coming: "The fences are drawn around the resonances. But the mist is only the mist. It has never heard of them."
+The room turned. He was under the stone now, so he kept going, at his own pace. "When the kettle breathes, there's mist over it. If a water Resonant can call mist off the sea, and an air Resonant can call mist out of a valley" — doctrine, both elements claimed it, the room had recited it a week since — "then the same mist comes from two arts. So when the mist is standing there, whose is it? What does the mist know that it is?" One breath more, because it was still coming: "The fences are drawn around the resonances. But the mist is only the mist. It has never heard of them."
 
 Silence, one breath of it, with a temperature he was coming to know.
 
-"The mist has never heard of them," Priscian said, slowly, not to Kael, not to the benches. Then he gathered himself, said, "The provinces of the art are the provinces of the art; we will come to the mixed resonances at the proper time," which answered nothing, and knew it, and let the benches go with the flies.
+"The mist has never heard of them," Priscian said, slowly, not to Kael, not to the benches. Then he gathered himself, said, "The elements of the art are the elements of the art; we will come to the mixed resonances at the proper time," which answered nothing, and knew it, and let the benches go with the flies.
 
 Elarine Sedrane had not moved through any of it. What Kael carried out was her stillness, which had changed when he asked, and then changed further, going in, the way his own went in when a pattern would not sit. She was not looking at him. She was looking at the fence-diagram on the great slate the way you look at a knot, and her face gave out nothing it had not priced, and the pricing was still running when the room emptied.
 
