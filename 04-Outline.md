@@ -49,6 +49,7 @@
 - **The Sanctum fingerprint — follow-ups.** The architecture of her teaching shows: curriculum, sequence, a system of asking no village origin explains. Kael notices the grain, files it, does not knock. METHOD ONLY — no source, no name; the Sanctum is SEALED, bible-only (00).
 - **Halden's next move.** The fuse is live and now doubled: the hidden contact still concealed from the parents, and the dossier holds the public flash — lever-grade twice over.
 - **Oss estrangement beats.** His hurt kept real; the coercion stays off-page (sealed in 03).
+- **The locked chest — PLANT IT OR RESCOPE.** Beat 19 schedules "something from the chest ends up in his hands" at the fire, but the chest was never put on the page and Part I is closed (found in the session-18 planted-clues audit). Decide before Part IV: plant it in Part III, or rescope the beat.
 - **The trio + the fourth gravity.** Valeria against the cistern-court trio (Kael/Aurelian/Elarine) — untouched in Ch. 14 by design. How the standing geometry absorbs or resists a fourth body is unspent.
 - **The concession ladder.** prohibit → concede → withdraw-request → first refusal (beat 16). The concede leg needs a dedicated design session before Part IV; Severin's pan-away question is the planted door. Valeria's arrival and the public flash are both new pressure sources.
 
