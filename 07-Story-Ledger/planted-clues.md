@@ -99,7 +99,7 @@ Not yet planted. **Audit every session:** if a row's Part has closed, that is a 
 
 | Clue | Planted in | Pays off in | Handling |
 |---|---|---|---|
-| Locked chest beneath floorboards | Part I — **NOT PLANTED** | fire (partial); series (full) | ⚠ AUTHOR DECISION: Part I is closed and this never reached the page, but beat 19 still schedules "something from the chest ends up in his hands" at the fire. Plant it before Part IV, or rescope the beat |
+| Locked chest beneath the floorboards — contents SEALED in 00 (Vask's old sword, Neris's old dagger) | Part III — **NOT YET PLANTED**; stage on the Ch. 4 board | beat 19: the chest opened, the parents unsheathed literally, **Vask throws his sword to Kael as he dies** | Plant it LOCKED; contents stay sealed until the fire opens it. Bank for Ch. 16/17 — do not force into Ch. 15. Staging of the throw is governed by 00's paternity rule: the monument, never the undoing |
 | THE EYES — Kael's pale grey belongs to no one in the house | 03 ledger (session 9) | the paternity (00, sealed); spend via other mouths only, no mirrors; the parents' never-remarking is the tell that never tells | ledger-planted, unspent on page |
 | Bird-language word makes a master go pale | Part III | far-continent thread | — |
 | Chart with coastline that doesn't exist | Part III | far-continent thread | — |
@@ -109,7 +109,7 @@ Not yet planted. **Audit every session:** if a row's Part has closed, that is a 
 | Third-hand glimpse in the raid (fits neither side) | Part IV fire | far continent (much later) | — |
 | The unfinished duel (Kael vs. Valeria) | Part IV | very late in the saga | — |
 
-### VALVE (3) — never resolve · INVERTED INSTRUCTION
+### VALVE (4) — never resolve · INVERTED INSTRUCTION
 Deliberately left open. Do NOT close these; a payoff here is a mistake, not progress.
 
 | Clue | Planted in | Pays off in | Handling |
@@ -117,6 +117,7 @@ Deliberately left open. Do NOT close these; a payoff here is a mistake, not prog
 | THE WINTER-FEAST FACT — the master mentions the feast sideways; six weeks later the boy crosses on exactly that night. Gift or slip? | **Ch. 5** | Severin's sealed-room endgame (liar's-knot family) | do not resolve |
 | THE FOLKLORE VALVE — "something came down off the mountain on the longest night": dead crew found, no survivors; the story grows, wrong in details, true in center, pointing UP; the crew's absence is noticed by somebody (who: open) | **Ch. 6 (sealed 00); Temple leg SPENT Ch. 12** (the hall weld; "no one left alive" version now on-page canon; the mountain line minted in-room; boy-detail still BANKED) | professional ears (tournament season); dangerous men, maybe; the girl's version as the story's dangerous correction (see 04 revisit note) | do not resolve; Temple leg SPENT; who-misses-the-crew and professional-ears legs still open |
 | THE LIAR'S KNOT — gift or test? Both readings alive, perhaps even to him | **Ch. 4** | Severin's sealed-room endgame | do not resolve |
+| **THE NIGHT-WATCH BLADE'S IDENTITY** — whether the blade "he had never been shown" across Neris's knees IS her chest dagger | **Ch. 4** | never — both readings stay alive | Do NOT resolve. If it is the dagger, "it keeps the cold out" turns on reread and "unsheathed" pre-echoes beat 19; if it is not, the chest stays wholly sealed. Never remark either way |
 
 ### PAID (10) — nothing further owed · THE EVICTION COHORT
 The payoff has landed. Kept only for the do-not-respend instruction. **EVICTION: lift this whole section to `planted-clues-book-N.md` at each book boundary.**

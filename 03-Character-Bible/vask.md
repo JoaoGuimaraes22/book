@@ -17,3 +17,4 @@
 
 ### FORWARD
 - **Status:** dies in the fire, buying time for both his sons to escape in two directions.
+- **The chest (00):** his old sword lies under the floorboards with Neris's dagger. At the raid the chest is opened — "the parents unsheathed" made literal — and **in his last hour he throws the sword to Kael.** Staging governed by 00's paternity rule: the monument, never the undoing.

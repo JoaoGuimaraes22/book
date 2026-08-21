@@ -25,6 +25,7 @@
 - **Arc position:** first true "not enough" filed beside the misfiled one; the wall belief broken; the danger self-knowledge live; slips 1–2 spent, slip 3 reserved for the fire.
 
 ### FORWARD
-- **Endgame kit:** dual daggers, both hands full, lightning threaded through the steel; sheathe-speed faster than most Resonants shape a resonance. Emerges much later (00).
+- **Endgame kit:** dual daggers, both hands full, lightning threaded through the steel; sheathe-speed faster than most Resonants shape a resonance. Emerges much later (00). The signature is not the whole arsenal — dual daggers · throwing knives · a longsword.
+- **The inheritance (00):** his parents' service weapons. Vask's sword is thrown to him as Vask dies; Neris's dagger becomes one of the pair, arriving by a route still open. The banked steel of the weapons school is this chest.
 - **Arc:** innocence → disillusion → dangerous competence → the Requiem (00). Aims at the wrong enemy first — the coalition burned his island.
 - **End of Book One:** ~13–14; fleeing by sea with Valeria and the princess. Father dead; mother, brother, master lost, fates unknown to him.

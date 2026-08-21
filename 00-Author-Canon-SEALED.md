@@ -216,3 +216,24 @@
 
 ### KAEL — THE MANY-ELEMENT ROAD (direction, session 14)
 - His small-scale command across all six elements, powered by understanding the world's own mechanisms ("the art does what you understand," Ch. 10), is a FUTURE WEAPON: most Resonants work almost nothing outside their proficiency (proficiency = far more capacity there), so nobody fights a man who can spend threads in six elements with knowledge instead of capacity. Seeds planted Ch. 10 (the mist two roads; the garden trial; the spark that answers before he finishes asking — lightning hint, deniable).
+
+## SESSION 18 ADDITIONS (ratified 2026-08-21 — author-decided in session)
+
+### THE CHEST — CONTENTS SEALED
+- **The locked chest beneath the floorboards holds VASK'S OLD SWORD and NERIS'S OLD DAGGER** — the weapons of their service, from before the island. Not keepsakes: the tools of what they were. The chest is the single largest object of program archaeology in the house, and it sits under the floor of the one room the boy has lived in his whole life.
+- This completes two standing clauses rather than adding to them. 07 §Standing Rules already reads *"steel is banked — the Temple's, or the fire's"*; the chest IS the fire's steel. §KAEL'S ENDGAME KIT already reads *"Steel banked; wasters rule the present; the daggers arrive when the story earns them"*; the chest is how they arrive.
+- **On-page discipline:** the chest may be planted as a locked chest. Its CONTENTS stay sealed until the fire opens it. This is the purest instance of 06's rule that the parents' backstory is never told, only inherited — the archaeology object made literal.
+
+### THE PARENTS UNSHEATHED — NOW LITERAL (beat 19)
+- At the raid the parents open the chest. "THE PARENTS UNSHEATHED" ceases to be a figure of speech: the chest opening is the visible signal that the at-capacity ceiling is off, and the reader will understand it before anyone says a word.
+- Ch. 4 pre-echoes the word: the mother's night-watch blade lies *"unsheathed"* across her knees. Deliberate; do not remark on it.
+
+### THE FATHER'S THROW (sealed staging)
+- **In his last hour Vask throws his own sword to Kael.** This is how the steel passes — not a bequest, not a ceremony: a dying man arming his son.
+- **STAGING IS GOVERNED BY THE PATERNITY RULE (§THE PATERNITY, above): whenever the reveal lands, it must land as the LARGEST proof of Vask's fatherhood, never as its undoing.** The throw is that proof in object form — the man who is not the boy's blood hands him the weapon of the self he buried, in the last seconds he has. Every earlier Vask beat (the tally-marks, the carved wasters, the audit, the seed-bread, the carried-across-ice hand) points here. Stage it as the monument.
+- Neris's dagger travels a different road: she is extracted with the master and the newborn, and how her blade reaches Kael is OPEN.
+
+### KAEL'S ARSENAL — THE SIGNATURE IS NOT THE WHOLE KIT (amends §KAEL'S ENDGAME KIT by expansion, not correction)
+- Dual daggers remain THE doctrine-defying silhouette. The wider arsenal: **dual daggers · throwing knives · a longsword.**
+- **Neris's dagger becomes one of the dual-dagger pair**; its mate arrives later.
+- OPEN (not sealed): whether the longsword IS Vask's sword or a later blade. The inference is natural and available; it has not been ratified.
