@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Echo audit ("echo deliberately or not at all"):
-# scans prose for occurrences of protected phrasings from 07-Story-Ledger.md.
+# scans prose for occurrences of protected phrasings from 07-Story-Ledger/protected-phrasings.md.
 #
 # Usage:
 #   scripts/check-echoes.sh <draft.md> [...]  -> list every protected phrase found in the given file(s)
@@ -17,14 +17,14 @@ cd "$(dirname "$0")/.."
 python3 - "$@" <<'EOF'
 import re, sys, glob, collections
 
-ledger = open("07-Story-Ledger.md").read()
+ledger = open("07-Story-Ledger/protected-phrasings.md").read()
 # Protected phrasings live in their own section since the session-18 restructure:
 # one phrase per line, from the header containing "On-page canon phrasing" to the
 # next "## " header or end of file. Retired phrases are listed unquoted -> skipped.
 m = re.search(r"^##[^\n]*On-page canon phrasing[^\n]*\n(.*?)(?=^## |\Z)",
               ledger, re.M | re.S)
 if not m:
-    sys.exit("protected-phrasings section not found in 07")
+    sys.exit("protected-phrasings section not found in 07-Story-Ledger/protected-phrasings.md")
 
 phrases = set()
 for quoted in re.findall(r'"([^"]+)"', m.group(1)):

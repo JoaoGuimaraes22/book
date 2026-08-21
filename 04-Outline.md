@@ -1,5 +1,5 @@
 # 04 — Outline
-**Status:** THE FORWARD PLAN — beats and their order. Spent beats keep a one-line pin only; the canonical record of what is on the page is `07-Story-Ledger.md` §Chapter Records. Pre-compaction beat text and superseded plans: `archive/outline-archive.md`. Live session state and the current chapter's debts: 05.
+**Status:** THE FORWARD PLAN — beats and their order. Spent beats keep a one-line pin only; the canonical record of what is on the page is `07-Story-Ledger/chapter-records.md`. Pre-compaction beat text and superseded plans: `archive/outline-archive.md`. Live session state and the current chapter's debts: 05.
 
 ## Saga Shape
 - **A series.** Book One = Act One = The Island. Book count TBD (structure supports 3–7).
@@ -49,6 +49,7 @@
 - **The Sanctum fingerprint — follow-ups.** The architecture of her teaching shows: curriculum, sequence, a system of asking no village origin explains. Kael notices the grain, files it, does not knock. METHOD ONLY — no source, no name; the Sanctum is SEALED, bible-only (00).
 - **Halden's next move.** The fuse is live and now doubled: the hidden contact still concealed from the parents, and the dossier holds the public flash — lever-grade twice over.
 - **Oss estrangement beats.** His hurt kept real; the coercion stays off-page (sealed in 03).
+- **The trio + the fourth gravity.** Valeria against the cistern-court trio (Kael/Aurelian/Elarine) — untouched in Ch. 14 by design. How the standing geometry absorbs or resists a fourth body is unspent.
 - **The concession ladder.** prohibit → concede → withdraw-request → first refusal (beat 16). The concede leg needs a dedicated design session before Part IV; Severin's pan-away question is the planted door. Valeria's arrival and the public flash are both new pressure sources.
 
 ## Open valves (deliberate)
