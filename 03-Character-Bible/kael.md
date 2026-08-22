@@ -1,5 +1,5 @@
 ## KAEL (protagonist)
-**Glance:** POV protagonist · no house — but no longer sponsorless: **entered to the games by Halden** · 12, as of Ch. 18
+**Glance:** POV protagonist · no house — but no longer sponsorless: **entered to the games by Halden** · 12, as of Ch. 20
 
 ### STATIC
 - **Role:** POV character; hidden son of Vask (ex-instrument) and Neris (ex-asset) of the program. Carrier of the rare KYNEMIR bloodline through his mother; kinetic affinity is dormant and leashed by training. The Ch. 4 knot is its first raw surfacing; he does not know. Surname unknown until the Temple.
@@ -17,6 +17,10 @@
 
 ### DYNAMIC
 - **Now:** 12; Temple day-commuter, the mountain's schools in STEEL and running into the night; the hour after the yard is Valeria's, then the cistern court. **He is on the tournament list, four lines down, and nobody alive can take him off it** — entered under the houseless provision by Halden. He walks the road differently now (never the same route or hour twice, never the last stretch in the light) and carries his own knife, off the belt.
+- **Abilities, new:** LINE-REINFORCEMENT — he cannot flood a limb, so he spends inward into the single inch where a line of force folds. One inch, two seconds, and it empties him to the floor of the purse every time. Permanent kit; the many-element road's second proof.
+- **Does not sleep.** The attention he turned all the way up in the autumn will not turn back down; it walks the road all night on its own. He is not frightened, and says so.
+- **Has been called a friend and could not say it back** — he does not have the word and took Elarine's apart instead. He suspects Aurelian is one too and cannot find the day. He does not know whether Oss still is, and has no idea how to find out.
+- **He has given Valeria a name.** It was not answered. He does not know whether that was permission, and he did not say it twice.
 - **Wants:** beyond the sea; the tournament; Valeria's measure, fed and feared. No *because* under any of it — appetite, not purpose.
 - **Knows:** the men of his night died; two lightning houses asked after him and his mother; his parents are Resonants (lightning / air); the family is hunted, and hunted *because he is theirs*; they were owned and stopped being owned; a child comes in the spring; **he will compete and be taken off the field mid-tournament** — told in front of him, never asked of him, and he said nothing.
 - **Does not know:** anything sealed in 00; the third house's man; that Halden is Corvane's man; that Oss was coerced; why the delivery must be Severin's; what is under the third board.

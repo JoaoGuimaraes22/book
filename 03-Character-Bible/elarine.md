@@ -1,5 +1,5 @@
 ## ELARINE SEDRANE (the watcher — pride that learns)
-**Glance:** the cohort's real mind; collegial ally · House Sedrane · ~12, as of Ch. 17 · cistern-court alliance standing; the fiction held over the flash.
+**Glance:** the cohort's real mind; collegial ally · House Sedrane · ~12, as of Ch. 20 · cistern-court alliance standing; the fiction held over the flash.
 
 ### STATIC
 - **Role:** Considers herself the cohort's real MIND (Aurelian its capacity, its name, its noise) — and she is right. With Aurelian: the two responses to being out-thought — his world breaks, hers gets bigger. Proof the golden children are not a monolith.
@@ -15,7 +15,9 @@
 
 ### DYNAMIC
 - **Now:** ~12. The cistern-court alliance is institutional — her fans for his reading, twice a week, Aurelian admitted on her conditions, and Valeria in it because Elarine said *bring her*. She wants Valeria beaten, by her, at the tournament, and wants Valeria to belong somewhere.
-- **The coat-wire, at its highest pressure yet and still unresolved:** she saw the flash and declined to ask (*"Of course it was"* — both letting it hold); supplied the principle Kael's earth-step counter is built on and never asked what it was for; heard *"It isn't for me"*, recognised the shape from the summer about the same girl, laid the two side by side, and **said nothing**; and at the list she read Kael instead of the sheet, then moved her eyes once, deliberately, from him to the second column and let him see her do it. She smells the wrongness around Halden that Kael will not examine.
+- **The coat-wire, at its highest pressure yet and still unresolved:** she saw the flash and declined to ask (*"Of course it was"* — both letting it hold); supplied the principle Kael's earth-step counter is built on and never asked what it was for; heard *"It isn't for me"*, recognised the shape from the summer about the same girl, laid the two side by side, and **said nothing**; and at the list she read Kael instead of the sheet, then moved her eyes once, deliberately, from him to the second column and let him see her do it. She smells the wrongness around Halden that Kael will not examine — and has now taken the entry apart on her own account and found nothing crooked in it anywhere, which is what frightens her.
+- **She has called Kael her friend, out loud, and he did not say it back** — she had been using the word privately since the summer and withheld it because she could see exactly what he would do with it, which is what he did. She has not raised it since and will not.
+- She has told him that if they are drawn against each other in the spring he is not to be kind to her, and that she will know within three exchanges.
 - **State:** she does not repeat her work and does not ask twice. She priced Kael's bad reason exactly, told him it was not a good one, and let it stand. She is the crush-object, unknowing — his side only, never labeled by either.
 
 ### FORWARD

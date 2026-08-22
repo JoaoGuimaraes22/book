@@ -25,3 +25,4 @@
 | 17 | 12 | never pinned | continuous with Ch. 16's terms — the autumn; closes the evening before the tournament lists go up |
 | 18 | 12 | never pinned | the next morning, continuous from Ch. 17 — the autumn; one day, first bell to full dark |
 | 19 | 12 | never pinned | the same night, continuous from Ch. 18's road — the autumn; one scene, one room, from the door to the loft |
+| 20 | 12 | never pinned — the birthday passes unmarked per rule (he is 12→13 across it) | opens the next morning, continuous from Ch. 19 — the autumn; movement II that morning; movement III jumps seven weeks to the end of the COLD TERM |

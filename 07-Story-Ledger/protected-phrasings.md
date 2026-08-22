@@ -388,3 +388,46 @@
 - "the family trade" (Ch. 5 — turned on being talked about rather than talked to)
 - the third voice (Ch. 4, unquoted — where the Severin non-answer gets filed)
 - "Evening" (Ch. 7, unquoted — the wall he is forty minutes past when the chapter opens)
+
+**Ch. 20 additions ("The Word," session 24):**
+- "a cooper on a Tuesday is not evidence about a cooper on a Wednesday"
+- "pricing nothing nine times takes exactly as long as pricing something"
+- "He had turned everything up... What he could not work out was how you turned it back down." (the attention at a thousand — protect; it is the sleeplessness's plant)
+- "A thing that is done badly has a place you can put your hand."
+- "I have been looking for four days for the crooked part and there is no crooked part." (protect absolutely)
+- "You are my friend. It is not a complicated word." (Elarine — protect absolutely; **Kael never says it back**, and the register constraint in 03 holds on his side)
+- "I am going to say something now, and you are going to do something strange with it, and I have decided in advance not to hold that against you."
+- "Because he will put it in a letter. To his brother. At length. With a heading."
+- "He had been right about the price. He had never once looked at the other column." (Oss — protect)
+- "he could price a man off the set of his shoulder at forty strides in bad light, and he had no idea whatever how a person walks across a hall" (the WHAT/WHY split rendered as a capability gap — protect)
+- "if you hold back I will know within three exchanges, and I will never forgive it, and I am extremely good at not forgiving things"
+- "a thing that fails the same way twice is a fact and a thing that fails eleven ways is a subject"
+- "He did not reinforce his arm. He had no idea how to reinforce an arm. / He reinforced the line." (protect absolutely — the technique's whole statement)
+- "his legs had been consulted and had returned an answer"
+- "Nobody has ever asked me where it folds, because I have never needed to know. There is always more." / "There's never more"
+- "eleven generations of my house have not had to have your idea, and that is not the same as my house having had it and set it aside" (protect absolutely)
+- "You will never be able to do it the way I do it."
+- "How do I know when before is." / "That is the part they cannot teach you either."
+- "finding nothing once isn't finding nothing"
+- "It runs all night on its own. It doesn't need me." (Kael's sleeplessness — protect absolutely)
+- "I am cold. Not the weather." / "It is not the stone." (protect absolutely)
+- "I am telling you a fact about my body in the way that you have just told me one about yours, and if you make it into the other thing I will stop." (the refusal the leak sits inside — protect absolutely)
+- "Nobody stands beside you." (**the Ch. 15 misread said ALOUD, in the second person, and REFUSED** — see deliberate echoes)
+- "watching you be careful with it has been like watching a man carry a lamp slowly around a room he has already set fire to"
+- "My father has never in his life said a sentence to me that was not an instruction." / "he does not give them — so when one arrives, it is *true*" (protect absolutely)
+- "It is not a sad story and I will not have it told back to me as one." (protect absolutely)
+- "Then do not stand beside me. Stand in front of me. It is worth more." (protect absolutely — her answer to the misread, and the only form of closeness her house has built her to take)
+- "Then do not use a word... Use something else."
+- "Val" (**FIRST USE — the beat is spent**; unanswered on the page)
+- "Nobody has ever called me anything." (protect absolutely — the acceptance that is not a yes)
+- "He could not tell whether that had been permission."
+
+**Ch. 20 deliberate echoes (not new coinage):**
+- "Everything heavy is lazy" (Ch. 3 — the standing game turned on his own arm; the only hit the echo script catches, and it is the chapter's engine)
+- "Nobody stands beside you" (Ch. 15's *"Nobody stands beside her."* — the interior misread turned to the second person and spoken to her face. The script cannot match it. **The misread is refused by HER, never corrected by narration** — the Ch. 15 handling is satisfied, not breached)
+- "Nobody has ever asked me where it folds" (Ch. 17's *"Nobody has ever asked me to go and look."* — same speaker, same shape, escalated from her purse to her art)
+- "everyone says Oss and it's faster" (Ch. 8 — **paraphrased, not quoted**, because it is memory and not transcript; fired in the chapter where "Val" lands, which is the inversion it was designed for)
+- **"Evening"** (Ch. 7 / Ch. 16, unquoted — and BROKEN for the first time in the book: he stays past it, with a man on that road)
+- the father's letter (Ch. 16) **referenced and deliberately NOT respent** — *"You know what the letter asked."* The protected sentence is not re-minted; what is new is that she was pleased with her answer
+- "six threads in six seconds" (Ch. 16, unquoted — the explicit cost reference for the new collapse)
+

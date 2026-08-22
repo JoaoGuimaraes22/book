@@ -43,3 +43,12 @@ Two items did NOT come here — they were promoted to 07 §Standing Rules as unr
 ## The concession ladder — queued thread, CLOSED (rolled session 21, 2026-08-22; the concede leg is dead — nobody concedes, the entry removes the parents' agency)
 - **The concession ladder.** prohibit → concede → withdraw-request → first refusal (beat 16). The concede leg needs a dedicated design session before Part IV; Severin's pan-away question is the planted door. Valeria's arrival and the public flash are both new pressure sources.
 
+
+## BEAT 14 — pre-collapse text (rolled at the session-24 commit of Ch. 20 "The Word")
+Verbatim as it stood in 04 before the beat was spent:
+
+> 14. **The cracks in her.** Trains before dawn (cannot sleep); letters read by chaperones; the microscopic flinch at her family's revered name. One honest night-conversation: what it costs to be forged. Two weapons discovering they're also children.
+
+**What the page did with it, and what it did not:** the sleeplessness landed, but as KAEL'S first and hers by answer. The chaperoned letters were not restaged (spent Ch. 15/16); what came instead was her own pleasure in the answer she wrote her father. **The microscopic flinch at reverence for her name was NOT spent** — the flinch-in-a-corridor movement was designed in session 23, cut in session 24 when the author reduced the chapter to three movements, and the tell remains banked in 03. "One honest night-conversation" was staged as an ARGUMENT rather than a confession, per the session-23 design thesis: the crack is a leak inside a refusal.
+
+**Also cut from the session-23/24 design and NOT lost — deferred to the timeskip that follows:** the drowned-yard storm-weeks (unspent and available), the war pre-seeds (rumours, a lesson rewritten, senior students summoned home, letters growing strange), the island filling, and Aurelian's training overdrive.
