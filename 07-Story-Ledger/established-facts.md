@@ -4,7 +4,7 @@
 ### Names in use
 - **Kael** — no known surname. Does not learn surnames exist until the Temple.
 - **Vask** (father) · **Neris** (mother) · **Wren** (brother).
-- **Valeria Vel** — the Line of Vel, eleven generations of royal protectors.
+- **Valeria Vel** — the Line of Vel, eleven generations. They serve the royal **lineage** wherever it goes, loyally and often — but **the STRONGEST Vel alive stands over the KING or QUEEN**, and that apex is what being the best of the Line means. Distinct in kind (not merely in grade) from the ordinary royal guard who escort royalty; tiers in `../02-World-Bible/factions.md`. Never write it as a bar on who a Vel may guard.
 - **Aeliana Cassivara Vessantine** — the princess; House Vessantine; the empire is the Vessantine Empire.
 - **Severin** — the master; publicly THE FIRST MASTER. Mostly "the master" on-page; the name appears rarely, by design.
 - **"the Gardener"** — Kael's pattern-name for the leader. True name reserved (00).

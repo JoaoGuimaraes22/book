@@ -1,5 +1,5 @@
 ## VALERIA VEL
-**Glance:** rival → first friend; the Witness · Line of Vel (royal protectors, eleven generations) · 12 (Kael's age), as of Ch. 20 · on the island for the year; will enroll and "win it."
+**Glance:** rival → first friend; the Witness · Line of Vel (eleven generations; they serve the royal lineage wherever it goes, and **the strongest Vel alive stands over the KING or QUEEN** — the apex, and what being the best of the Line means; a different kind from the ordinary royal guard, not a higher grade; tiers in 02/factions) · 12 (Kael's age), as of Ch. 20 · on the island for the year; will enroll and "win it."
 
 ### STATIC
 - **Role:** Daughter of the Line of Vel. Kael's rival, then first friend. The Witness — she alone will know the truth of him at the end (00).
@@ -12,6 +12,7 @@
 - **Appearance:** Lean, strong, athletic — a working build that reads as function even at rest. Black shoulder-length hair, no ornament. Emerald green eyes — color spent at reading distance only; worn plain and bored as display (the boredom died against Kael). Her stillness WARNS — nothing like his. Knuckles older than her face; guard-lineage calluses. Rooms rearrange around the name before the girl; reverence draws her one untrained tell, the microscopic flinch (unspent — banked).
 
 ### DYNAMIC
+- **Competes for the CAPITAL**, in its five, though resident on the island all year.
 - **Now:** 12, on the island for the year; entered, and intending to win it. Trains alone on the old sea court under adults of the capital's grey who CALIBRATE her — weighted wasters, a number called after each blow, adjust, again; first on court by a quarter-hour, last off, nobody waiting at either end; instructions spoken *at* her; letters read aloud by a chaperone before she is handed them. Fights Kael in the hour after the yard, daily, dangerously, with no adult and no rules, and neither of them has ever discussed whether it is allowed to hurt. Comes to the cistern court now, which surprised her.
 - **Wants:** the rematch with Kael in front of the empire — the one personal want she has ever leaked.
 - **State:** pushed hard for the first time in her life, and the one person in the yard untroubled by his danger. **Beaten once — by a floor, not a sword** — and cannot answer it; named AIR as the sense she would need and does not have. Has been to the bottom of her purse on his instruction, because nobody had ever asked her to go and look. Her family's care arrives as correction, by post.

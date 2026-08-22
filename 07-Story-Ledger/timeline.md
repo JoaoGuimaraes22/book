@@ -26,3 +26,5 @@
 | 18 | 12 | never pinned | the next morning, continuous from Ch. 17 — the autumn; one day, first bell to full dark |
 | 19 | 12 | never pinned | the same night, continuous from Ch. 18's road — the autumn; one scene, one room, from the door to the loft |
 | 20 | 12 | never pinned — the birthday passes unmarked per rule (he is 12→13 across it) | opens the next morning, continuous from Ch. 19 — the autumn; movement II that morning; movement III jumps seven weeks to the end of the COLD TERM |
+| 21 | 12→13 | never pinned — the birthday passes unmarked per rule, inside this chapter | the TURN TOWARD SPRING, continuous from Ch. 20's cold-term close; the routine re-run at the top of its development (dawn Vask / daylight Temple / lamplight Neris), spanning roughly eight weeks to the eve of the games |
+| 22 | 13 | **PINNED ONCE: "He was thirteen years old"** — pays Ch. 12's *"He would be thirteen"* at the two-springs horizon | THE FIRST DAY OF THE GAMES — the spring; the island's eleven-day filling compressed, then one continuous morning at the arena to the first bout being called |

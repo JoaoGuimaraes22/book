@@ -431,3 +431,52 @@
 - the father's letter (Ch. 16) **referenced and deliberately NOT respent** — *"You know what the letter asked."* The protected sentence is not re-minted; what is new is that she was pleased with her answer
 - "six threads in six seconds" (Ch. 16, unquoted — the explicit cost reference for the new collapse)
 
+**Ch. 21 additions ("The Edge," session 25):**
+- "The blades had edges on them."
+- "a thing you can write down is a thing you have actually got"
+- "They will not stop anything."
+- "Then you have eight weeks of finding out how it fails, which is not nothing, and it is not the same as having it."
+- "You have made it possible to be wrong twice in the same instant."
+- "The problem isn't capacity" (protect — the register shift landing in Kael's mouth against his father's *purse*, unremarked)
+- "I am not being careless with it." (protect absolutely — the control-not-capacity ruling in one line)
+- "You do not know where your own elbow is when your hands are full."
+- "it will go out into them, because by then there will be nowhere else for it to go"
+- "Dead." (Vask, ×5 — the flat word is the whole register; never gloss it, never let him explain it)
+- "the arithmetic had been done inside a killing stroke, at speed, and nothing whatever about it had shown" (protect absolutely — the coat running inside the violence)
+- "His father could kill him on any morning he chose, and had chosen not to, on every morning of his life, several times a morning, for years."
+- "Not of surviving it — of being worth it."
+- "He went back to his mark. He was glad to." (protect absolutely — no reassurance anywhere near it, per 06's counterweight)
+- "a thing that fails the same way twice is a fact" — see Ch. 20; NOT re-minted here
+- "You have nine results and one of them is interesting."
+- "I am going to go faster."
+- "It is true, and it is not the reason. Ask me in a year." (protect absolutely — the 00 s22 cover-reason device turned on the register shift)
+- "conductivity" · "conductors" (FIRST formal scientific vocabulary on the page, in Neris's mouth — 02 §Curriculum Part IV)
+
+**Ch. 21 deliberate echoes (not new coinage):**
+- "Get loose" (Ch. 5 — the escape school's one lesson, arriving as the refutation of two full hands. **Two words: `check-echoes.sh` cannot match it**)
+- "the family trade" (Ch. 5 — not asking where the blades came from)
+- "the standing game" + "what fire eats" + "far-counting" (Ch. 3/5 — quoted by NERIS as she retires them; the only chapter in which the child-words are named as a set and set down)
+- the off-hand drill (Ch. 12, unquoted — *"I did that at eleven."* / *"You did it with one hand, holding the smallest thing you could hold, standing still."*)
+- Neris in the doorway, knuckles pale (Ch. 2 / Ch. 15) — **INVERTED: it is Vask in the doorway now**, watching her, and the page does not remark on it
+- the salt lesson (Ch. 5, unquoted — the pail on the step that killed the promise, arriving as the reason sea water carries)
+
+**Ch. 22 additions ("The Names," session 25):**
+- "The other two schools had sent nobody who was not going to fight."
+- "Ten children off two ships, and not one of them there to watch."
+- "the split rock with a chain on it" (Severin in the host's box — deliberate reach back to Ch. 4's *old the way the split rock was old*)
+- "the sound of a very large number of people being glad about a thing they were never going to be any nearer to than this" (protect absolutely — the radius doing the work no narrator verdict is allowed to do)
+- "The kind of beautiful that is also a uniform." (protect absolutely — Kael's verdict on Aeliana; arrives from nowhere he can name and stays with him for years)
+- "Arms as carried. Resonance without limit." / "No mortal intent." (the games' law — protect; the third clause is unenforceable and everybody knows it)
+- "the empire had written a rule it could not enforce and had answered the difficulty by putting one old man in a chair" (protect absolutely)
+- "This was the first time in his life that anyone had ever stood over it."
+- "there are two people in eleven thousand who know what that pause is" (unquoted here — the shape, not the words)
+- THE HERALD'S CALL — *Kael*, and then the place where a house goes, and the place is the rock he lives on (unquoted here, retirement convention: the bare phrase is three ordinary words and the exact-match script chases it through every chapter that mentions the island). **Protect absolutely:** the empire answering *Kael of what?* with a location, because he has nothing else to be answered with, while the entry sheet still says Halden. **The surname thread is ADVANCED, NOT CLOSED.**
+- "the first sound the world ever made about him, and the sound was a question"
+- THE CLOSING LINE — three words, the games starting on him (unquoted here, retirement convention: *had begun* occurs as ordinary prose elsewhere and the script cannot tell the difference). Protect the position, not the phrase.
+
+**Ch. 22 deliberate echoes (not new coinage):**
+- "Stand in front of me." (Ch. 20 — a FRAGMENT of *"Then do not stand beside me. Stand in front of me. It is worth more."*, so the exact-match script cannot find it. Fired when Kael sees what the job actually is. **It does not resolve the Ch. 20 ambiguity** — he gets an origin for her sentence, never an answer about what passed between them)
+- the hand where the knife is not (Ch. 7, unquoted — **INVERTED: the hand finds it**, because Ch. 19 put it there)
+- "Then I am done carrying you" (Ch. 8 — **paraphrased, never re-quoted**: *the man who had told him at a gate that he was done carrying him*)
+- the blank column (Ch. 8, unquoted and **NOT respent** — *"Empty is true"* is PAID and must never be re-minted; what returns is the clerk's pause, not the phrase)
+- "Four years ago, when I thought I understood what I was asking for" (Ch. 18 — Severin's own sentence returned to him in italics, in his own box)

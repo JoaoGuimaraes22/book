@@ -8,6 +8,7 @@
 - **Appearance:** "The long one" — tall, narrow, all reach; a careful dresser even in yard clothes. A narrow face that does arithmetic badly in public — his thinking shows, which among the golden children is a weakness.
 
 ### DYNAMIC
+- **In the Temple's Gold six, and drawn against Kael in the first bout of the games**, in front of eleven thousand people under a law permitting sharp steel and unlimited resonance. At the measure his face is doing arithmetic that has already finished.
 - **The arithmetic is hardening.** The one golden child accumulating evidence that the luck story is false: he watched the charity case take up Temple steel "like a man taking back something borrowed", with a paid master's four years behind him, and added another line to the column.
 - No new revenge piece since the fouled slate; he added the line at the Sedrane duel anyway. His house coordinates with Halden's campaign, off-page, fed by his arithmetic.
 
