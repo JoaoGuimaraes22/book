@@ -182,7 +182,7 @@ Kael looked at it.
 
 He said it easily, in the voice that had made two years of corridors and doorways and accidental crossings feel like a warm room, and he said it looking out at the yard, where two boys of the second cohort were being stood up by the yard-master and made to salute each other again.
 
-"Look at them," Halden said. "That is Amerien's second son and that is a Kaeth, and both of them will be entered, and neither of them will last the second day, and both of them have been entered since the week the games were announced, because their houses wrote a letter and paid a fee and the thing was done. Nobody asked whether they were any good. Nobody in the empire has ever asked that question about a boy with a name." He turned his head. "And four lines above them, on the same sheet, at four hundred to one against, there is a herder's son who has been three lines off the top of this Temple's boards for two years and cannot be entered by anybody, because there is nobody to write the letter."
+"Look at them," Halden said. "That is Talrane's second son and that is an Iscane, and both of them will be entered, and neither of them will last the second day, and both of them have been entered since the week the games were announced, because their houses wrote a letter and paid a fee and the thing was done. Nobody asked whether they were any good. Nobody in the empire has ever asked that question about a boy with a name." He turned his head. "And four lines above them, on the same sheet, at four hundred to one against, there is a herder's son who has been three lines off the top of this Temple's boards for two years and cannot be entered by anybody, because there is nobody to write the letter."
 
 "There's a provision," Kael said.
 

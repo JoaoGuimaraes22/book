@@ -28,15 +28,17 @@ She turned around.
 
 He watched her put his face on the shape she already had, and the two things fit, and she did not look surprised. She looked the way she had looked at the end of the exhibition, with the awake thing in her eyes.
 
-"How long have you been watching me for?" she said.
+"How long have you been watching me."
 
-"Fifteen..."
+"Fifteen—"
 
 "Fifteen what?" She said it flatly.
 
-"Fifteen mornings, truth be told."
+"Fifteen mornings."
 
-She sighed, "You have yet to miss one."
+She sighed.
+
+"You have yet to miss one."
 
 "No."
 
