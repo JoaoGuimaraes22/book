@@ -358,3 +358,34 @@
 - "This house lives because it is not looked at." (Ch. 12 — her sentence arriving in his head on a road, meaning something new)
 - "ask twice, with one thing changed" (Ch. 10 — her method turned on a man)
 
+
+**Ch. 19 additions ("The Winter," session 22):**
+- "I was followed." (the first sentence in the house — operational before personal; protect the position, not just the words)
+- "Sometimes a man is put on a road to be noticed."
+- "You learn a great deal about a house by letting it find out it is being looked at, and watching what it does next."
+- "He was bad at the work. Or he was not alone, and did not need to be good at it. Or he was never meant to be hidden from you at all."
+- "which told Kael which of the two of them carried the names"
+- "We are hunted." / "You are hunted because you are ours." (protect absolutely)
+- "Because the day you know it you are carrying it" / "You are asking me to put a thing in you that you cannot set down." (protect absolutely)
+- "We were owned. We stopped being owned. People who own things do not forget." (Vask's three sentences — RATIFIED, verbatim, never widened; protect absolutely)
+- "It may not be them." / "It is them."
+- "An empire noticing a clever boy is not the same animal as the one we have been watching that sea for, and you cannot make it the same animal by wanting there to be only one." (protect absolutely)
+- "Because he has never once been wrong about us." / "That is not why." (the Severin non-answer — protect absolutely; never resolve which reason is whose)
+- "Because I am carrying a child."
+- "I'm going to have a brother." / "Or a sister." / "One or the other,"
+- "There had never in his life been anybody he was older than." (protect absolutely)
+- "You will be careful with the head." / "I know about heads."
+- "the art on its own is not worth very much" / "You want both halves in the one head."
+- "A boy who stops going is a boy worth asking about."
+- "Then it happens on ground I chose."
+- "whatever day it falls on, and whatever he is standing in the middle of" (protect absolutely — beat 16's ask, pre-stated)
+- "Not on your belt. Not where a boy carries a knife to be seen carrying one."
+- "That the knife is the smallest part."
+- "A nailed board does not move." (the chest's plant — never gloss further, never name the thing under it)
+
+**Ch. 19 deliberate echoes (not new coinage):**
+- "A count you hurry is a wish" (Ch. 7 — Vask's sentence arriving inside Kael's own six-month sum)
+- "He is the empire, Kael. Not a house." + "somebody in that colonnade did not need an easy answer" + "What a pity it would be, not to showcase the empire's finest" (Ch. 18 — REPORTED, not respent: Kael quoting the day back at his own table, which is what his mother's method demands)
+- "the family trade" (Ch. 5 — turned on being talked about rather than talked to)
+- the third voice (Ch. 4, unquoted — where the Severin non-answer gets filed)
+- "Evening" (Ch. 7, unquoted — the wall he is forty minutes past when the chapter opens)

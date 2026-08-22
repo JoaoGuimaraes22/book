@@ -1,7 +1,7 @@
 ## Planted Clues & Foreshadowing
 **LAW CORE.** The clue ledger: what was planted, where, and what it is owed. **STATE is the section a row sits in** — four states, no others; a row changes state by moving section. Everything in the Handling column is an instruction, never a state.
 
-### PLANTED (115) — payoff owed · THE WORKING SET
+### PLANTED (122) — payoff owed · THE WORKING SET
 On the page; the payoff is still owed. This section is the answer to "what is still owed?"
 
 | Clue | Planted in | Pays off in | Handling |
@@ -121,18 +121,23 @@ On the page; the payoff is still owed. This section is the answer to "what is st
 | **HALDEN'S CONFESSION** — the smiling man tells Kael to his face in the first breath, prices his own gain openly, refuses to undo it, **asks for nothing**, and pointedly does not ask who forbade the boy | **Ch. 18** | the hidden-contact fuse (Ch. 13) now doubled and still undetonated; the lever is still the want; whatever he eventually asks for | the warmth is REAL and he is not a cartoon — never let him become one |
 | **THE TAIL** — a man walks Kael to within two miles of his mother's door. No badge, no colour, no face. Lost in four minutes because Kael is an expert and it shows | **Ch. 18** | the fire; the house's exposure; whoever sent him (open) | the insignia stays RESERVED for the fire — this man carries nothing that means anything |
 | **THE JOY IN IT** — being hunted is very nearly fun; eleven years of school finally needed, and part of him a long way down enjoys it. He is ashamed of about half of it for years afterward | **Ch. 18** | the "becoming them" thread; the danger self-knowledge (Ch. 14) escalated from instinct to APPETITE; the Requiem's moral spine | never soften; the narration must not disapprove for him |
+| **THE CHEST — PLANTED, LOCKED** — Vask stands his whole weight on the third board Kael has counted around since he was nine; it does not creak, it MOVES, one piece end to end, with a line of iron in the seam. A nailed board does not move, so it is lying on top of something. Neither parent looks at the floor; Kael does not ask | **Ch. 19** (Part III debt CLOSED — planned since Part I) | beat 19: the chest opened, the parents unsheathed literally, **Vask throws his sword to Kael as he dies** | Contents stay SEALED (00) until the fire opens it. Never opened, never remarked, never named on the page. Staging of the throw governed by 00's paternity rule: the monument, never the undoing |
+| **THE PREGNANCY — ON-PAGE** — Neris tells Kael plainly, in answer to *why not now*: since the summer, about three months. NOT a secret and never was; he reacts as a boy and asks to hold it | **Ch. 19** | beat 17 (the birth); beat 16 (the ask); the fire | **What IS sealed is why the delivery must be Severin's** (00 s22 — the Kynemir birth is violent). Kael gets the cover reason, which is true and is not the reason |
+| **THE FOUR REASONS THEY CANNOT SAIL** — no hull of their own; the cold-term sea; watched quays; and the pregnancy. Kael solves the first three unaided and proposes an unwatched beach on their own side of the mountain, and gets silence, because he has just described a plan they already made | **Ch. 19** | the six months of sitting still; beat 16 (the gap that finally opens); the fire | the load-bearing reason is the only one he is never given whole — do not let a later chapter explain it to him casually |
+| **THE PARENTS DO NOT KNOW** — Halden's name lands on two people who have never heard it, in four seconds, and neither knows what they have just told their son. Then they disagree in front of Kael for the first time in his life: *"It may not be them." / "It is them."* — their past, or an empire noticing a clever boy, and **neither can prove which** | **Ch. 19** | 00's both-true-at-once (the raid's true causality); the fire; the compass rotating across the saga | NEVER resolve on the page which it was. The adults having no more of it than the boy does is the point |
+| **THE SEVERIN NON-ANSWER** — "Why not him?" / *"Because he has never once been wrong about us." / "That is not why."* Two different old reasons, neither spoken in front of their son; Kael reads the shape instead of the answer and files it beside the third voice | **Ch. 19** | Severin's sealed-room endgame (00, the liar's-knot family); the origin reveal, books away | do NOT resolve which reason belongs to which parent, or what either is |
+| **THE MID-TOURNAMENT EXTRACTION** — stated in front of Kael and never asked of him: he appears, he goes as far as he goes, and on the day the boat is ready they take him off that field *whatever day it falls on and whatever he is standing in the middle of.* He says nothing | **Ch. 19** | **BEAT 16** — this IS the ask, pre-stated a season early; the first refusal | the refusal is UNSPENT and stays unspent: nobody asks him anything here. Do not let a later chapter re-derive the ask as *do not enter* |
+| **THE KNIFE GIVEN** — Vask takes Kael's own knife off the wall and hands it hilt first: not on the belt, show me where you put it, and *the knife is the smallest part.* The same knife Vask retrieved from the settlement yard and cleaned (sealed 00) | **Ch. 19** | the fire; the road; whatever Kael eventually does with a blade on that hill | the retrieval stays SEALED — the wall answered once in Ch. 7 and does not speak again. Never remark |
 
-### PLANNED (9) — not yet on the page
+### PLANNED (7) — not yet on the page
 Not yet planted. **Audit every session:** if a row's Part has closed, that is a bug — plant it, or rescope the payoff.
 
 | Clue | Planted in | Pays off in | Handling |
 |---|---|---|---|
-| Locked chest beneath the floorboards — contents SEALED in 00 (Vask's old sword, Neris's old dagger) | Part III — **NOT YET PLANTED**; stage on the Ch. 4 board | beat 19: the chest opened, the parents unsheathed literally, **Vask throws his sword to Kael as he dies** | Plant it LOCKED; contents stay sealed until the fire opens it. Bank for Ch. 16/17 — do not force into Ch. 15. Staging of the throw is governed by 00's paternity rule: the monument, never the undoing |
 | THE EYES — Kael's pale grey belongs to no one in the house | 03 ledger (session 9) | the paternity (00, sealed); spend via other mouths only, no mirrors; the parents' never-remarking is the tell that never tells | ledger-planted, unspent on page |
 | Bird-language word makes a master go pale | Part III | far-continent thread | — |
 | Chart with coastline that doesn't exist | Part III | far-continent thread | — |
 | War pre-seeds (rumors, recalled students, strange letters) | Part III | the raid | — |
-| Mother's pregnancy | Part III | birth; fire choreography | — |
 | Insignia the father recognizes with horror | Part IV fire | program reveal (later books) | — |
 | Third-hand glimpse in the raid (fits neither side) | Part IV fire | far continent (much later) | — |
 | The unfinished duel (Kael vs. Valeria) | Part IV | very late in the saga | — |

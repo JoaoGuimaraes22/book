@@ -1,5 +1,5 @@
 ## NERIS (the mother)
-**Glance:** Kael's mother; teacher of the mind · ex-asset of the program — bearer of the Kynemir bloodline (00) · age unpinned · alive; watches the sea; the danger admission given.
+**Glance:** Kael's mother; teacher of the mind · ex-asset of the program — bearer of the Kynemir bloodline (00) · age unpinned · **pregnant, ~3 months, ON-PAGE as of Ch. 19**; the danger admission given.
 
 ### STATIC
 - **Name:** Chosen, not given (00). Belongs to no naming register; villagers assume it foreign; its true nature is sealed — never explain on the page.
@@ -11,6 +11,7 @@
 - **Appearance:** Dark-haired, dark-eyed; passes as village until she is still — then the stillness has a quality the village doesn't make. Fine bones under worked hands; the hands know too many trades — the lie's weak point. Handsome and unremarkable in the same breath, with ages of watching in the face.
 
 ### DYNAMIC
+- **As of Ch. 19.** **THE PREGNANCY IS ON-PAGE** — she tells Kael plainly, in answer to *why not now*, and does not dress it: since the summer, about three months. She does NOT conceal it and never has; what she conceals is why the delivery must be Severin's (00 s22 — the Kynemir birth). She runs the tail debrief in her built sequence, does not go to the window when she is frightened, and carries the argument on every operational question in the chapter: the hulls that talk and the hulls that write, the watched quays, and **the hill — *a boy who stops going is a boy worth asking about*** — overruling Vask, who wanted the boy kept home. She refuses Kael the history in the same words as last year and says so: *"It is still the only true one."* Delivers the plan in front of him and never once looks at him while doing it. Warmth spent exactly once all night, on the head of an unborn child.
 - **As of Ch. 15.** Watches every night. Twice that summer she stands in the doorway while her son comes in from the dark, hand on the frame, knuckles pale, and says nothing (Ch. 2 image at higher intensity — sees the harm, does not stop it). Water and salve on the table before he asks. The danger admission and the one shown fear both stay spent — not respent.
 - **Knows:** the escalation (via Severin); THE PUBLIC FLASH — she debriefs him on it herself, sightline by sightline, in a built sequence Kael has no name for at his own table (Sanctum fingerprint, method only). **Does not know:** the hidden contact; the bind idea; that Kael cracked her old night-watch pattern; that he knows the sea never freezes.
 
