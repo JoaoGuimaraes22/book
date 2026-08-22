@@ -373,7 +373,6 @@
 - "Because he has never once been wrong about us." / "That is not why." (the Severin non-answer — protect absolutely; never resolve which reason is whose)
 - "Because I am carrying a child."
 - "I'm going to have a brother." / "Or a sister." / "One or the other,"
-- "There had never in his life been anybody he was older than." (protect absolutely)
 - "You will be careful with the head." / "I know about heads."
 - "the art on its own is not worth very much" / "You want both halves in the one head."
 - "A boy who stops going is a boy worth asking about."
