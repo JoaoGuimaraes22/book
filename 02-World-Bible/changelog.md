@@ -17,3 +17,4 @@ s14 — Vocabulary reform ratified: resonance / Resonants; mage, wright, working
 s13 (2026-08-20) — Crop-of-laughter ratified and capped; hand-to-hand school added (Ch. 5); dueling-culture mirror (Ch. 9). Post-checkpoint: Ch. 10 deleted for redo.
 s11 — Time & Term Lexicon section added.
 s8 (2026-08-09) — Ch. 9 canon: three schools; inter-school tournament; declaration leaning-tint; pre-declaration cohort design; dueling culture and the one-handed convention; the boards; drain-lore taught on-page; Ruthen and Drusane named.
+s26 (2026-08-22) — `temple.md`: THE COLLEGIUM named as the capital's school (Ch. 22, on the page) — the "other two names reserved" claim corrected to the northwest school alone. `factions.md`: the princess's twelve royal guard re-cited Ch. 21 → Ch. 22. No canon changed; both were stale pointers.

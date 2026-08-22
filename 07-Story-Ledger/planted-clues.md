@@ -45,7 +45,7 @@ On the page; the payoff is still owed. This section is the answer to "what is st
 | THE UNTYING MOTIF — first act in the world = an unfinished untying, below decision ("he was the boy who untied things") | **Ch. 4 / Ch. 6 — SPENT deliberately** | the Requiem (pulling the one loop); Vask's completion sealed in 00 | next echo deliberate or not at all |
 | THE UNFILED FACULTY — conscience as the one thing nobody built ("the first thing his body had ever known before he did that no one had put there"); the tapping hand | **Ch. 6** | the series' moral spine; the Requiem (the faculty that makes the final act LOVE and not doctrine) | protect phrasing; never label |
 | First impression of humanity = the settlement (he never entered the feast; watched from the treeline) — fear under the social blindness | **Ch. 6** | Pt II awkwardness (second engine); combat-as-safe-contact; the Valeria thaw; all future intimacy | sealed in 03 |
-| Kael's untrained flicker (Ch. 4 knot) = FIRST KYNEMIR UNLEASHING (sealed); eyes reddened, seen by adults, POV-silent | Ch. 4 | true unleashing (late Book One — fire candidate); series | unmarked, sealed |
+| Kael's untrained flicker (Ch. 4 knot) = FIRST KYNEMIR UNLEASHING (sealed); eyes reddened, seen by adults, POV-silent | Ch. 4 | true unleashing — **BOOK TWO** (00 s20; the fire carries only the FLICKER, never resolved); series | unmarked, sealed |
 | "Untying" as Kael's MOTIF — first magic = an untying; the Requiem = pulling the one loop that carries all the others | Ch. 1 / Ch. 4 | the Requiem (00) | echo deliberately or not at all |
 | The master speaks the DOWNHILL language with Neris | **Ch. 4** | downhill-language thread; Severin archaeology | deniable |
 | The THIRD VOICE — drill-cadence among all three adults | **Ch. 4** | Severin's past; the parents' true shape | deniable |
@@ -147,15 +147,14 @@ On the page; the payoff is still owed. This section is the answer to "what is st
 | **AELIANA ARRIVES** — the full ceremonial chain, twelve royal guard in dark grey arranged across the distances, and **Kael's instruments returning nothing** — explicitly not concealment, which he was raised inside. *The kind of beautiful that is also a uniform* | **Ch. 22** | the empire at close range; the raid's prime target; the boat | Appearance block SPENT (03). The radius and the failing instruments are the ONLY two delivery routes — never a narrator verdict. She does not know Kael exists |
 | **"OF THE ISLAND"** — the herald reaches the place where a house goes and finds a boy who has none, and the empire names him after the rock. Every other child on that sand has a house; the entry sheet still says Halden | **Ch. 7 → Ch. 8 → Ch. 18 → Ch. 22** | the surname thread (series); Book Two's *Kael of what?*; the houseless provision holding a won city in the crown's hand until he has somewhere to put it (02) | **ADVANCED, NOT CLOSED.** Do not respend Ch. 8's *"Empty is true"* — what returns is the clerk's pause, and the two people in eleven thousand who know what it is |
 
-### PLANNED (7) — not yet on the page
+### PLANNED (6) — not yet on the page
 Not yet planted. **Audit every session:** if a row's Part has closed, that is a bug — plant it, or rescope the payoff.
 
 | Clue | Planted in | Pays off in | Handling |
 |---|---|---|---|
 | THE EYES — Kael's pale grey belongs to no one in the house | 03 ledger (session 9) | the paternity (00, sealed); spend via other mouths only, no mirrors; the parents' never-remarking is the tell that never tells | ledger-planted, unspent on page |
-| Bird-language word makes a master go pale | Part III | far-continent thread | — |
-| Chart with coastline that doesn't exist | Part III | far-continent thread | — |
-| War pre-seeds (rumors, recalled students, strange letters) | Part III | the raid | — |
+| Bird-language word makes a master go pale | **Part IV** (rescoped s26 — Part III closed with Ch. 22 and the row still read Part III) | far-continent thread | Temple-side, and now competing with the tournament for room |
+| Chart with coastline that doesn't exist | **Part IV** (rescoped s26 — as above) | far-continent thread | Temple-side; same competition for room |
 | Insignia the father recognizes with horror | Part IV fire | program reveal (later books) | — |
 | Third-hand glimpse in the raid (fits neither side) | Part IV fire | far continent (much later) | — |
 | The unfinished duel (Kael vs. Valeria) | Part IV | very late in the saga | — |

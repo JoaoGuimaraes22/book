@@ -1,5 +1,5 @@
 ## NERIS (the mother)
-**Glance:** Kael's mother; teacher of the mind · ex-asset of the program — bearer of the Kynemir bloodline (00) · age unpinned · **pregnant, ~3 months, ON-PAGE as of Ch. 19**; the danger admission given.
+**Glance:** Kael's mother; teacher of the mind · ex-asset of the program — bearer of the Kynemir bloodline (00) · age unpinned · **eight or nine months pregnant, as of Ch. 21**; the danger admission given; the birth collides with the games.
 
 ### STATIC
 - **Name:** Chosen, not given (00). Belongs to no naming register; villagers assume it foreign; its true nature is sealed — never explain on the page.

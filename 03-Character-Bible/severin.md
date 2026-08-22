@@ -1,5 +1,5 @@
 ## SEVERIN (the master)
-**Glance:** head of the Temple — THE FIRST MASTER; the family's secret savior and patron · empire past, his own man now · old, the way the split rock is old · **outreached inside his own Temple; the protection promise given whole — and already keeping it before it was made.**
+**Glance:** head of the Temple — THE FIRST MASTER; the family's secret savior and patron · empire past, his own man now · old, the way the split rock is old · **as of Ch. 22: above the sand for the whole of the games, and the only safety there is; outreached inside his own Temple; the protection promise given whole.**
 
 ### STATIC
 - **Name:** Severin — on-page mostly "the master"; spend the name sparingly so it carries weight.

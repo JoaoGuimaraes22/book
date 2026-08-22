@@ -1,0 +1,575 @@
+# Protected Phrasings — PRE-PURGE ARCHIVE (Book One)
+
+**Contract:** HISTORY. The complete state of `07-Story-Ledger/protected-phrasings.md` as it stood at commit `30cfecd`, immediately before the session-26 purge (author-ratified: the file admits COINED LANGUAGE, not plot beats). Preserved verbatim and in full so that nothing evicted is lost — restoration of any entry is one edit. Append-only; never rewrite.
+
+**Why the purge:** the file had no working admission test and had been taking overflow from two other files — plot beats in ordinary English (`chapter-records` owns those) and world doctrine (02 owns that). The live file now holds coinage, figures, bent phrasing, register words, ratified-verbatim lines, and the deliberate-echo record.
+
+**The evicted entries are listed at the foot of this file. Everything above the rule is the original, byte-for-byte.**
+
+---
+
+## Protected Phrasings — On-page canon phrasing (protect; echo deliberately or not at all)
+**ACCUMULATOR.** On-page canon phrasing. Parsed by scripts/check-echoes.sh. Rolls per book.
+
+(Restructured session 18 from the single-line form — content verbatim, one line per phrase, per-chapter blocks; the **Ch. 1–2:** label added at the restructure for the originally unlabeled opening group. `check-echoes.sh` reads this entire section, header to end of file.)
+
+**Ch. 1–2:**
+- "the stars that fell down the mountain"
+- "when the sea freezes"
+- "true things"
+- "his mother speaks bird"
+- "spilled/spilling" (movement failure)
+- "part of the mountain"
+- "outside belongs to the wind"
+- "Again tomorrow"
+- "Done" (Vask's release word)
+- the dropped-fingers sign
+
+**Ch. 3:**
+- "so you never pick wrong"
+- "A bad employer"
+- "Everything heavy is lazy"
+- "things that cannot lie make the best witnesses"
+- the itch that cannot be out-waited
+- "his questions had questions"
+- "Supper was the answer"
+- "far-counting"
+- "the standing game"
+- the shut doors (of her stories)
+- "No. It's his."
+
+**Ch. 4:**
+- "He unties things"
+- "It keeps the cold out"
+- "Now we begin"
+- "You were on the mountain"
+- the liar's knot
+- "the lazy place"
+- "part of the house"
+- the third voice
+
+**Ch. 5 additions:**
+- "a door painted on a wall"
+- "the more salt the water carries, the deeper the cold must bite to hold it"
+- "the family trade"
+- "both things were real"
+- "She never noticed that he stopped"
+- "The mountain did not notice"
+- "nine years and a winter old"
+- the winter feast / the dark of the year
+
+**Ch. 6 additions:**
+- "the plural of person"
+- the tapping hand (NEVER explain, NEVER reuse)
+- "It wanted to stop being made. It was being made anyway."
+- "the first thing his body had ever known before he did that no one had put there"
+- "He had a school for this. He had never once been told what the school was for."
+- "a quiet the size of several men"
+- "not enough" (his misfiled verdict)
+- "He never learned whether the line had held"
+- "the mending school arrived at last at the thing it had always been for"
+
+**Ch. 7 additions:**
+- "The body held. We will build the rest."
+- "A count you hurry is a wish"
+- "It ends the argument the same and costs him less"
+- "we know everything, and here is your knife" (the wall's language)
+- "I know what you read. I have made myself harder to read." (her wordless answer, Kael's reading)
+- "It is not ours to teach"
+- "with both hands, like a tool" (the given not-knowing)
+- "A story is not a wall... a coat"
+- "keep what is true, it carries the rest"
+- "Hold that. It is the only thing I am worried you'll lose."
+- "Home to the temple. The temple to home. Never beyond." (THE RULE)
+- "a wall around the itch / a road cut through the middle of it"
+- "Evening" (Vask's farewell = come home)
+- "looking away cost what it cost"
+- "Come along, charity case"
+- "ready, in the oldest part of him, for the ground"
+
+**Ch. 8 additions:**
+- "The gate stood open, and it was meant to"
+- "Empty is true"
+- "Then I am done carrying you"
+- the book the size of a door / the blank column
+- "nothing was also a thing the pen would have to write"
+- "the minima — the smallest grains of the world" (Priscian's delivery)
+- "a roof arriving over a room he had lived in all his life... and the word was not hers"
+- "You can watch it choose"
+- "We have a fire" / "Everyone has a fire"
+- "nothing here is heavy"
+- "It talks"
+- "Everyone says Oss. You should too, it's faster"
+- "she's priced everyone in this Temple and no one's met it yet"
+- "one clean seam of it, like quartz through rock"
+- "Sit. Eat. And tell me."
+- "You told a room of the empire's sons... that everyone has a fire." / "We do have a fire"
+- "the best supper Kael could remember"
+- the carried-across-ice hand
+- "her questions running under the Temple's answers like water under a boat"
+- "trading the day back and forth — his day"
+
+**Ch. 9 additions:**
+- "the yard-master" the way you said "the sea"
+- "Strength is a purse... The ones who like spending always think the purse is the man"
+- "before I let any of you spend a grain, you will learn what spending is"
+- "The body kept the receipt"
+- "this too had been taught, without one word spent on it"
+- "when it settles it settles"
+- "The art runs in the blood, and the blood runs in the houses"
+- "Somebody's blood in that line somewhere. Someone's bastard, then."
+- "What did the mountain expect"
+- "a nail among rings"
+- "watch the pointing, not the laughing"
+- "Nobody on the mountain saluted the weather"
+- "no language at all" (the yard's second offense)
+- "a small permanent receipt for someone else's spending"
+- "Then whose is the mist?" / "The mist has never heard of them"
+- the coin on the table (her hand over the slate — Priscian's half cut session 13)
+- "My grandfather chose it off a list. I've seen the list."
+- "Quiet." (his whole mountain, wearable)
+- "both of them were served, and neither of them was met"
+- "seeing one is the last thing you do"
+- "one taught in a yard by arithmetic, one told on a wall by a grin"
+- "Smaller. Always smaller than you can."
+- "The ones who spend big learn what things cost. The ones who spend small learn what things are."
+- "Two schools, one candle"
+
+**Session-9 revision additions (minted in the passes — merged here at the 2026-08-20 split; had lived only in the session record):**
+- Lucan: "When you're ready, charity case. There's a form to it." / "What was that? That wasn't anything." (the yard's "Luck" now agrees with him)
+- Severin's correction pair: "It is not a fact. It is your mother." / "There. Now it hangs off you."
+- Kael coinage: "Her fear has bad eyes."
+
+**Ch. 10 additions (SUSPENDED — chapter deleted session 13; these are not on any page; available for re-minting in the redo):**
+- "what being seen costs" (the drawer's name — sibling to "what fire eats")
+- "The exactness was the hiding"
+- "was there not a girl. Four words."
+- "No one walking away is how you know" (Oss's weld logic)
+- "It came down off the mountain on the longest night" (the folklore's spine, minted on-page)
+- "a story with his night inside it the way a pearl has sand inside it"
+- "Except one. / He did not stand near it long."
+- "Salt keeps."
+- "his day, most of it"
+- "And nobody wondered at the boy."
+
+**Session-13 additions:**
+- "Get loose" (Ch. 5 — the school's one lesson)
+- "The hand talks" (Ch. 5)
+- "Whose is he?" / "He's nobody's" (Ch. 6)
+- "a word that needed no knowing" (Ch. 6)
+- "Waste wanders. This was built." (Ch. 9)
+- "a school built to fight its own graduates" (Ch. 9)
+- "six backs, one voice — that was a purse too" (Ch. 9).
+
+**Session-13 RETIREMENTS (cut from the page, no longer protected — listed unquoted so the echo script skips them):**
+- nobody warns furniture
+- his questions growing hands
+- at winter's turn when the door was holding.
+
+**Ch. 10 additions ("The Asking," session 14):**
+- "the art does what you understand" (the thesis, in the book)
+- "A fence tells you what a man owns, boy. It has never yet told you what the ground is."
+- "Full books answer. Empty ones ask."
+- "Mind the company you keep it in."
+- "Smaller than that, I cannot show you indoors."
+- "Knowing built by trial, and tested until it holds." (her definition of science)
+- "Wear the better coat."
+- "I did not know this." (her first uphill concession — respend deliberately or not at all)
+- "the way a tongue comes back to a tooth"
+- "Then say what the kettle does. Not what it makes."
+
+**Ch. 11 additions ("The Dish," session 14):**
+- "The dish does not flatter and it does not lie."
+- "What settles, settles. The dish only asks early."
+- "It had been saying its own, all along."
+- "stopped being an insult and started being a theory"
+- "Mine as well." (Vask — the no-blood-claim reveal; protect absolutely)
+- "You will not ask the next hundred questions tonight."
+- "She lost it to the ground and a kettle. Go and think about that."
+- "I aimed it at your reading."
+- "Everything I do is small."
+- "Tomorrow. Not here."
+- "I wanted you to hear the water moving before it reached you."
+- "Laughing people cost you standing. Smiling people cost you things you don't get back."
+- "Both of them were served — and this once, a little, met." (deliberate Ch. 9 inversion)
+- "the shelf of things that answered before he had finished understanding the question"
+
+**Ch. 12 additions ("The Telling," session 15):**
+- "It came down off the mountain on the longest night" (now minted ON-PAGE, in-room)
+- "No one walking away is how you know" (minted)
+- "a story with his night inside it the way a pearl has sand inside it"
+- "*Was there not a girl?* Four words." (minted in question form — supersedes the banked period form)
+- "the hardest stillness anyone had ever asked of him, and nobody had asked"
+- "He was good at holes" (minted)
+- "They're not teaching us, mountain boy. They're making us."
+- "the tournament is the empire coming to look at the blades"
+- "the biggest market this island will ever see"
+- "You have two years... Spend them well."
+- "You will not enter it."
+- "It is a weight, and it kills."
+- "This house lives because it is not looked at."
+- "Pray the day never comes."
+- "He will not be spent." (her restart's second sentence — protect absolutely)
+- "The door has held." / "The door has held because nobody pushed it."
+- "what you made does not keep on a shelf"
+- "Held, or loose. Prepared, or surprised."
+- "If the threading dies, you are a boy with a sword. If the sword stops, you are a boy with a trick."
+- "*What could it not cut?*"
+- "the gate was them"
+- "moved the world by inches around his bed"
+
+**Ch. 13 additions ("The Coat," session 16):**
+- "I can be wrong by a finger's width. The purse forgives me. Nothing forgives you. So you will be exact instead."
+- "exactly enough to pay, and pay, and pay"
+- "the art writing its own receipts"
+- "the shape of accidents and the timing of appointments"
+- "there are men who show roads. I am one of them."
+- "the way a lamp burns the same for anyone who walks past it"
+- "Fire is not held, it is *paid*"
+- "I do not pretend the rope is a sash."
+- "You are the only person on this island who has ever beaten me with his mind."
+- "their loss, twice"
+- "Later, mountain boy." (the refusal that ended the register)
+- "It was just a seat."
+- "Corvane pays what it owes."
+- "what the yard gets, plus the why"
+- "he had made sure of the rest" (the button's third life — his own authorship added)
+- the slip block's "both things were true. Both things were always true." (the overture's pair — protect absolutely)
+
+**Ch. 14 additions ("The Measure," session 17):**
+- "I am here for the year... I will win it."
+- "Who is next?"
+- "The Line does not keep pets."
+- "like a drawn blade stands in a room" (aligned to the page s24 — the ledger read *the way a drawn blade…* — unquoted here, retirement convention — which the exact-match echo script could not find)
+- "It looked at him. The rest of us it read in passing."
+- "the wood ended where the wood ended. / The edge did not."
+- "the way you decline bread" (her "No.")
+- "She is better than my brother."
+- "Now you know how it feels. I thought you should hear that from the first man you did it to."
+- "A year is long enough to learn what that was." (protect absolutely)
+- "that the boy they were building would be enough" / "He had believed it the way you believe a wall."
+- "some of what it had made sure of was dangerous, and did not entirely belong to him."
+- "He was afraid of what it had eaten."
+
+**Ch. 14 deliberate echoes this chapter (not new coinage):**
+- "There was no moment when he chose." (Ch. 6 untying register — the instinct motif welded)
+- "not enough" ×2 (the drawer's first true entry)
+- "all of it showed" (inversion)
+- "no language at all"
+- "the lazy place"
+
+**Ch. 15 additions ("The Hours," session 19):**
+- "She had not been faster than his thinking. She had been faster than his body."
+- "Their words. Not yours."
+- "The rest was correct." (the audit that arrives instead of a punishment — protect absolutely)
+- "reaching in the dark for the side of the bed where the wall had always been"
+- "There was the drawer, and whatever was in it, and him."
+- "Wood forgives you. It bounces, it bends, and it lies to you about what you did. This does not lie."
+- "That is the wrong question. Ask the other one."
+- "It likes it."
+- "the same size thread in a better road"
+- "You will not be exact enough for steel this year by being what you were last year."
+- "The lamp is in the shed."
+- "Everything the Temple would see was left alone. Everything the shirt covered was fair."
+- "Not once. Not by accident, either, because his father did not do things by accident."
+- "his father was never once hurried"
+- "I can't see my own mistakes because they're the size of a hair. Yours are the size of a house."
+- "It is the first useful thing anyone has said to me about the art in four years."
+- "That is not a reason. That is the shape a reason goes in."
+- "the sound of her having spent correctly"
+- "*Nobody stands beside her.*" (protect absolutely — the misread's whole load)
+- "It was *how you built a person*: you put someone next to them who is further along and you leave him there."
+- "Her school had no beside. Her school had above, and her school had at."
+- the closing block: "a child being made by people who did not love her — and never once notice that the only reason he had a word for the difference at all was that he had been made by people who did." (protect absolutely)
+
+**Ch. 15 deliberate echoes this chapter (not new coinage):**
+- "the way you decline bread" (Ch. 14 — the narration reaching for its own figure inside Kael's retelling; FLAGGED at commit, one chapter after minting, author left standing)
+- "Everything I do is small" (Ch. 11 — explicitly recalled to the healer's bench; the hinge of the magnifying-glass insight)
+- "the standing game" (Ch. 3 / 5 / 6 — in the beside-her passage)
+- "The fire ate what it was given" (Ch. 12 — the lamp's silence after the flash)
+- Neris in the doorway, hand on the frame, knuckles pale (Ch. 2 image, unquoted, at higher intensity)
+
+**Ch. 16 additions ("The Terms," session 20):**
+- "You are too light to be one of mine."
+- "My father's letter asked how a Vel came to be standing where a waster could reach her, and instructed me to write back with the answer."
+- "Nobody asked me what it was."
+- "I am not going to stop thinking about it because you answer like a door."
+- "You are going to show me."
+- "Random is for people who are hoping. I am not hoping."
+- "Good," she said. "Find out." (the close of movement I. **This block previously carried *and did not ask again, then or ever*** — unquoted, retirement convention; never on any page; the author's pass cut it and the ledgers kept the ruling about it. Struck s24. Valeria's never-asking about the mountain is real and is CHARACTERISATION, but it lives in the narration of Ch. 17 and in the clue ledger, not in a line of Ch. 16.)
+- "It will work once more." / "It worked once more."
+- "I can feel where you are with my *face*. That is revolting. Do it again."
+- "It is not that the stone knows anything. It is that the stone is all one thing." (Elarine — the principle; protect)
+- "It's a rug if it works"
+- "Where are you." / "I can see where you are. I am asking where you *are*."
+- "You are not absent. You are a *hole*." (protect absolutely)
+- "Nothing is not quieter than everything else. Nothing is only quiet."
+- "You cannot beat me with a sword. You have beaten me with a floor." (protect absolutely)
+- "It was the first thing he had ever taken from her."
+- the closing block: "in a room where everything talks, the silent thing is the loudest thing in it" + the single-word paragraph "Yet." (protect absolutely)
+
+**Ch. 16 deliberate echoes (not new coinage):**
+- "Evening" (Ch. 7 — Vask's word, as the wall at the end of his day)
+- the lazy place / pricing register (throughout, unmarked)
+
+**Ch. 17 additions ("The List," session 20):**
+- "He did not tell her to stop. It did not once occur to him to tell her to stop." (protect absolutely)
+- "Nobody has ever asked me to go and look."
+- "Do you know what happens to a thing you own and never spend? It becomes a story your family tells."
+- "Ask the rest of them."
+- "At no point in the morning did it occur to either of them that this was an unusual way for two children to spend one." (protect absolutely)
+- "the way he wrote down everything he was ever given"
+- "That is the only interesting part"
+- "*There* it is." / "Then do it more."
+- "Because I don't know what it does, and you're the only person on this island worth doing it to."
+- "Elarine watched the whole of it from the wall and said nothing at all." **(Ch. 16, not Ch. 17.** This block previously carried *the single most expensive thing anyone did for him that year* (unquoted, retirement convention) — a phrase that was never on any page, filed under the wrong chapter. The not-asking is on the page; the pricing of it is not, and does not need to be. Struck s24; do not re-mint.)
+- "That girl has been on this island eight months and has not once been in a room with anybody her own age who was not being paid to hit her."
+- "Because you're better than all of us and it hasn't done you any good."
+- "Better than everyone in this Temple at one thing and bound hand and foot regardless." / "The same. Different thing."
+- "Who lives in it" / "You take the top off it and put a new top on." / "Depends what the old top did."
+- "They are not choosing a champion, they are choosing an *order*"
+- "You are all speaking as though being looked at were the injury."
+- "I have never been able to think of an answer that was not an insult to my father." (protect absolutely)
+- "Every one of them had answered with a *because*. Kael went looking for his own and found the work standing where the because should have been." (protect absolutely)
+- "It isn't for me."
+- "It is the only thing on the list I actually wanted."
+- "It had never once been a list with his name off it." (protect absolutely)
+
+**Ch. 17 deliberate echoes (not new coinage):**
+- "I will win it." (Ch. 14 — respent by Valeria and marked as such in the text)
+- "they're not teaching us, they're making us" (Ch. 12 — Oss quoted in Kael's memory, italicised, one clause)
+- "It was just a seat." register (Oss's absence registered, unquoted)
+
+**Ch. 18 additions ("The Entry," session 21):**
+- "a list is a document, and documents are made by clerks, and clerks make mistakes"
+- "a boy does not enter a tournament that gives away a city; a boy's house enters him"
+- "The space was not empty."
+- "Somebody has stood for you at the empire's games and you do not know who."
+- "The Temple is mine. The tournament is not."
+- "I can refuse you a room. I can refuse you the yard. I cannot refuse you the games."
+- "I have not asked you what it was. I am not going to ask you now." (the read that arrives as a refusal to ask — protect absolutely)
+- "somebody in that colonnade did not need an easy answer"
+- "He is the empire, Kael. Not a house." (protect absolutely)
+- "there is no door to knock on, because it was all done correctly" (protect absolutely)
+- "you are not standing in it by yourself" (the protection promise — protect)
+- "What a pity it would be, not to showcase the empire's finest." (protect absolutely)
+- "It buys me a good week in the spring if you are what I think you are."
+- "I have taken away their ability to go on being wrong about you"
+- "Go home, lad."
+- "he had never in his life turned a corner without buying the corner first"
+- "it was enormous, and it was *fun*"
+- "He had not been sent to follow a boy who could do this. Nobody had told him there was one." (protect absolutely)
+- "being finished was not the same as being sure"
+- "the two people who had built the part of him that enjoyed it" (protect absolutely)
+
+**Ch. 18 deliberate echoes (not new coinage):**
+- "Empty is true" (Ch. 8 — PAID here, not respent: the space the line closed is filled by a stranger)
+- "He had a school for this. He had never once been told what the school was for." (Ch. 6 — butchery school on a dead man then, fieldcraft school on a live one now)
+- "This house lives because it is not looked at." (Ch. 12 — her sentence arriving in his head on a road, meaning something new)
+- "ask twice, with one thing changed" (Ch. 10 — her method turned on a man)
+
+
+**Ch. 19 additions ("The Winter," session 22):**
+- "I was followed." (the first sentence in the house — operational before personal; protect the position, not just the words)
+- "Sometimes a man is put on a road to be noticed."
+- "You learn a great deal about a house by letting it find out it is being looked at, and watching what it does next."
+- "He was bad at the work. Or he was not alone, and did not need to be good at it. Or he was never meant to be hidden from you at all."
+- "which told Kael which of the two of them carried the names"
+- "We are hunted." / "You are hunted because you are ours." (protect absolutely)
+- "Because the day you know it you are carrying it" / "You are asking me to put a thing in you that you cannot set down." (protect absolutely)
+- "We were owned. We stopped being owned. People who own things do not forget." (Vask's three sentences — RATIFIED, verbatim, never widened; protect absolutely)
+- "It may not be them." / "It is them."
+- "An empire noticing a clever boy is not the same animal as the one we have been watching that sea for, and you cannot make it the same animal by wanting there to be only one." (protect absolutely)
+- "Because he has never once been wrong about us." / "He knows us. Truly." (the Severin non-answer — protect absolutely; two reasons laid side by side, neither explained, neither refused. **Corrected s24:** the second half was carried for two sessions as *That is not why.* (unquoted here, per this file's retirement convention, so the echo script skips it) — a line that was never on any page in the repo's history. Do not re-mint it.)
+- "Because I am carrying a child."
+- "I'm going to have a brother." / "Or a sister." / "One or the other,"
+- "You will be careful with the head." / "I know about heads."
+- "the art on its own is not worth very much" / "You want both halves in the one head."
+- "A boy who stops going is a boy worth asking about."
+- "Then it happens on ground I chose."
+- "whatever day it falls on, and whatever he is standing in the middle of" (protect absolutely — beat 16's ask, pre-stated)
+- "Not on your belt. Not where a boy carries a knife to be seen carrying one."
+- "That the knife is the smallest part."
+- "A nailed board does not move." (the chest's plant — never gloss further, never name the thing under it)
+
+**Ch. 19 deliberate echoes (not new coinage):**
+- "A count you hurry is a wish" (Ch. 7 — Vask's sentence arriving inside Kael's own six-month sum)
+- "He is the empire, Kael. Not a house." + "somebody in that colonnade did not need an easy answer" + "What a pity it would be, not to showcase the empire's finest" (Ch. 18 — REPORTED, not respent: Kael quoting the day back at his own table, which is what his mother's method demands)
+- "the family trade" (Ch. 5 — turned on being talked about rather than talked to)
+- the third voice (Ch. 4, unquoted — where the Severin non-answer gets filed)
+- "Evening" (Ch. 7, unquoted — the wall he is forty minutes past when the chapter opens)
+
+**Ch. 20 additions ("The Word," session 24):**
+- "a cooper on a Tuesday is not evidence about a cooper on a Wednesday"
+- "pricing nothing nine times takes exactly as long as pricing something"
+- "He had turned everything up... What he could not work out was how you turned it back down." (the attention at a thousand — protect; it is the sleeplessness's plant)
+- "A thing that is done badly has a place you can put your hand."
+- "I have been looking for four days for the crooked part and there is no crooked part." (protect absolutely)
+- "You are my friend. It is not a complicated word." (Elarine — protect absolutely; **Kael never says it back**, and the register constraint in 03 holds on his side)
+- "I am going to say something now, and you are going to do something strange with it, and I have decided in advance not to hold that against you."
+- "Because he will put it in a letter. To his brother. At length. With a heading."
+- "He had been right about the price. He had never once looked at the other column." (Oss — protect)
+- "he could price a man off the set of his shoulder at forty strides in bad light, and he had no idea whatever how a person walks across a hall" (the WHAT/WHY split rendered as a capability gap — protect)
+- "And if you hold back I will know, and I will never forgive it, and I am extremely good at not forgiving things" (**Corrected s25:** this block carried the same sentence with *within three exchanges* set after *I will know* — unquoted here, per this file's retirement convention, so the echo script skips it. It was never on any page in any commit; `git log -S` puts its first appearance at the Ch. 20 commit itself, which means the entry was written off the design and not off the page. **She names no threshold** — the flat *I will know* is the line, and it is the more dangerous one. Do not re-mint the count.)
+- "a thing that fails the same way twice is a fact and a thing that fails eleven ways is a subject"
+- "He did not reinforce his arm. He had no idea how to reinforce an arm. / He reinforced the line." (protect absolutely — the technique's whole statement)
+- "his legs had been consulted and had returned an answer"
+- "Nobody has ever asked me where it folds, because I have never needed to know. There is always more." / "There's never more"
+- "eleven generations of my house have not had to have your idea, and that is not the same as my house having had it and set it aside" (protect absolutely)
+- "You will never be able to do it the way I do it."
+- "How do I know when before is." / "That is the part they cannot teach you either."
+- "finding nothing once isn't finding nothing"
+- "It runs all night on its own. It doesn't need me." (Kael's sleeplessness — protect absolutely)
+- "I am cold. Not the weather." / "It is not the stone." (protect absolutely)
+- "I am telling you a fact about my body in the way that you have just told me one about yours, and if you make it into the other thing I will stop." (the refusal the leak sits inside — protect absolutely)
+- "Nobody stands beside you." (**the Ch. 15 misread said ALOUD, in the second person, and REFUSED** — see deliberate echoes)
+- "watching you be careful with it has been like watching a man carry a lamp slowly around a room he has already set fire to"
+- "My father has never in his life said a sentence to me that was not an instruction." / "he does not give them — so when one arrives, it is *true*" (protect absolutely)
+- "It is not a sad story and I will not have it told back to me as one." (protect absolutely)
+- "Then do not stand beside me. Stand in front of me. It is worth more." (protect absolutely — her answer to the misread, and the only form of closeness her house has built her to take)
+- "Then do not use a word... Use something else."
+- "Val" (**FIRST USE — the beat is spent**; unanswered on the page)
+- "Nobody has ever called me anything." (protect absolutely — the acceptance that is not a yes)
+- "He could not tell whether that had been permission."
+
+**Ch. 20 deliberate echoes (not new coinage):**
+- "Everything heavy is lazy" (Ch. 3 — the standing game turned on his own arm; the only hit the echo script catches, and it is the chapter's engine)
+- "Nobody stands beside you" (Ch. 15's *"Nobody stands beside her."* — the interior misread turned to the second person and spoken to her face. The script cannot match it. **The misread is refused by HER, never corrected by narration** — the Ch. 15 handling is satisfied, not breached)
+- "Nobody has ever asked me where it folds" (Ch. 17's *"Nobody has ever asked me to go and look."* — same speaker, same shape, escalated from her purse to her art)
+- "everyone says Oss and it's faster" (Ch. 8 — **paraphrased, not quoted**, because it is memory and not transcript; fired in the chapter where "Val" lands, which is the inversion it was designed for)
+- **"Evening"** (Ch. 7 / Ch. 16, unquoted — and BROKEN for the first time in the book: he stays past it, with a man on that road)
+- the father's letter (Ch. 16) **referenced and deliberately NOT respent** — *"You know what the letter asked."* The protected sentence is not re-minted; what is new is that she was pleased with her answer
+- "six threads in six seconds" (Ch. 16, unquoted — the explicit cost reference for the new collapse)
+
+**Ch. 21 additions ("The Edge," session 25):**
+- "The blades had edges on them."
+- "a thing you can write down is a thing you have actually got"
+- "They will not stop anything."
+- "Then you have eight weeks of finding out how it fails, which is not nothing, and it is not the same as having it."
+- "You have made it possible to be wrong twice in the same instant."
+- "The problem isn't capacity" (protect — the register shift landing in Kael's mouth against his father's *purse*, unremarked)
+- "I am not being careless with it." (protect absolutely — the control-not-capacity ruling in one line)
+- "You do not know where your own elbow is when your hands are full."
+- "it will go out into them, because by then there will be nowhere else for it to go"
+- "Dead." (Vask, ×5 — the flat word is the whole register; never gloss it, never let him explain it)
+- "the arithmetic had been done inside a killing stroke, at speed, and nothing whatever about it had shown" (protect absolutely — the coat running inside the violence)
+- "His father could kill him on any morning he chose, and had chosen not to, on every morning of his life, several times a morning, for years."
+- "Not of surviving it — of being worth it."
+- "He went back to his mark. He was glad to." (protect absolutely — no reassurance anywhere near it, per 06's counterweight)
+- "a thing that fails the same way twice is a fact" — see Ch. 20; NOT re-minted here
+- "You have nine results and one of them is interesting."
+- "I am going to go faster."
+- "It is true, and it is not the reason. Ask me in a year." (protect absolutely — the 00 s22 cover-reason device turned on the register shift)
+- "conductivity" · "conductors" (FIRST formal scientific vocabulary on the page, in Neris's mouth — 02 §Curriculum Part IV)
+
+**Ch. 21 deliberate echoes (not new coinage):**
+- "Get loose" (Ch. 5 — the escape school's one lesson, arriving as the refutation of two full hands. **Two words: `check-echoes.sh` cannot match it**)
+- "the family trade" (Ch. 5 — not asking where the blades came from)
+- "the standing game" + "what fire eats" + "far-counting" (Ch. 3/5 — quoted by NERIS as she retires them; the only chapter in which the child-words are named as a set and set down)
+- the off-hand drill (Ch. 12, unquoted — *"I did that at eleven."* / *"You did it with one hand, holding the smallest thing you could hold, standing still."*)
+- Neris in the doorway, knuckles pale (Ch. 2 / Ch. 15) — **INVERTED: it is Vask in the doorway now**, watching her, and the page does not remark on it
+- the salt lesson (Ch. 5, unquoted — the pail on the step that killed the promise, arriving as the reason sea water carries)
+
+**Ch. 22 additions ("The Names," session 25):**
+- "The other two schools had sent nobody who was not going to fight."
+- "Ten children off two ships, and not one of them there to watch."
+- "the split rock with a chain on it" (Severin in the host's box — deliberate reach back to Ch. 4's *old the way the split rock was old*)
+- "the sound of a very large number of people being glad about a thing they were never going to be any nearer to than this" (protect absolutely — the radius doing the work no narrator verdict is allowed to do)
+- "The kind of beautiful that is also a uniform." (protect absolutely — Kael's verdict on Aeliana; arrives from nowhere he can name and stays with him for years)
+- "Arms as carried. Resonance without limit." / "No mortal intent." (the games' law — protect; the third clause is unenforceable and everybody knows it)
+- "the empire had written a rule it could not enforce and had answered the difficulty by putting one old man in a chair" (protect absolutely)
+- "This was the first time in his life that anyone had ever stood over it."
+- "there are two people in eleven thousand who know what that pause is" (unquoted here — the shape, not the words)
+- THE HERALD'S CALL — *Kael*, and then the place where a house goes, and the place is the rock he lives on (unquoted here, retirement convention: the bare phrase is three ordinary words and the exact-match script chases it through every chapter that mentions the island). **Protect absolutely:** the empire answering *Kael of what?* with a location, because he has nothing else to be answered with, while the entry sheet still says Halden. **The surname thread is ADVANCED, NOT CLOSED.**
+- "the first sound the world ever made about him, and the sound was a question"
+- THE CLOSING LINE — three words, the games starting on him (unquoted here, retirement convention: *had begun* occurs as ordinary prose elsewhere and the script cannot tell the difference). Protect the position, not the phrase.
+
+**Ch. 22 deliberate echoes (not new coinage):**
+- "Stand in front of me." (Ch. 20 — a FRAGMENT of *"Then do not stand beside me. Stand in front of me. It is worth more."*, so the exact-match script cannot find it. Fired when Kael sees what the job actually is. **It does not resolve the Ch. 20 ambiguity** — he gets an origin for her sentence, never an answer about what passed between them)
+- the hand where the knife is not (Ch. 7, unquoted — **INVERTED: the hand finds it**, because Ch. 19 put it there)
+- "Then I am done carrying you" (Ch. 8 — **paraphrased, never re-quoted**: *the man who had told him at a gate that he was done carrying him*)
+- the blank column (Ch. 8, unquoted and **NOT respent** — *"Empty is true"* is PAID and must never be re-minted; what returns is the clerk's pause, not the phrase)
+- "Four years ago, when I thought I understood what I was asking for" (Ch. 18 — Severin's own sentence returned to him in italics, in his own box)
+
+---
+
+## EVICTED AT THE SESSION-26 PURGE (verbatim; 46 entries + 2 blocks)
+
+Reason codes: **BEAT** = ordinary words at an important moment, `07/chapter-records` owns it · **DOCTRINE** = states how the world works, `02-World-Bible` owns it · **PHANTOM** = never on any page (`git log -S` puts first appearance at `30cfecd`, ledger side only) · **SUSPENDED/RETIRED** = blocks already flagged as not-on-any-page.
+
+- "No. It's his."
+- "You were on the mountain"
+- "the minima — the smallest grains of the world" (Priscian's delivery)
+- "Sit. Eat. And tell me."
+- "You told a room of the empire's sons... that everyone has a fire." / "We do have a fire"
+- "the best supper Kael could remember"
+**Ch. 10 additions (SUSPENDED — chapter deleted session 13; these are not on any page; available for re-minting in the redo):**
+- "what being seen costs" (the drawer's name — sibling to "what fire eats")
+- "The exactness was the hiding"
+- "was there not a girl. Four words."
+- "No one walking away is how you know" (Oss's weld logic)
+- "It came down off the mountain on the longest night" (the folklore's spine, minted on-page)
+- "a story with his night inside it the way a pearl has sand inside it"
+- "Except one. / He did not stand near it long."
+- "Salt keeps."
+- "his day, most of it"
+- "And nobody wondered at the boy."
+**Session-13 RETIREMENTS (cut from the page, no longer protected — listed unquoted so the echo script skips them):**
+- nobody warns furniture
+- his questions growing hands
+- at winter's turn when the door was holding.
+- "Knowing built by trial, and tested until it holds." (her definition of science)
+- "Tomorrow. Not here."
+- "the biggest market this island will ever see"
+- "Pray the day never comes."
+- "Who is next?"
+- "The lamp is in the shed."
+- "You are going to show me."
+- "Good," she said. "Find out." (the close of movement I. **This block previously carried *and did not ask again, then or ever*** — unquoted, retirement convention; never on any page; the author's pass cut it and the ledgers kept the ruling about it. Struck s24. Valeria's never-asking about the mountain is real and is CHARACTERISATION, but it lives in the narration of Ch. 17 and in the clue ledger, not in a line of Ch. 16.)
+- "Ask the rest of them."
+- "That is the only interesting part"
+- "*There* it is." / "Then do it more."
+- "Elarine watched the whole of it from the wall and said nothing at all." **(Ch. 16, not Ch. 17.** This block previously carried *the single most expensive thing anyone did for him that year* (unquoted, retirement convention) — a phrase that was never on any page, filed under the wrong chapter. The not-asking is on the page; the pricing of it is not, and does not need to be. Struck s24; do not re-mint.)
+- "Go home, lad."
+- "I was followed." (the first sentence in the house — operational before personal; protect the position, not just the words)
+- "It may not be them." / "It is them."
+- "Because I am carrying a child."
+- "I'm going to have a brother." / "Or a sister." / "One or the other,"
+- "the art on its own is not worth very much" / "You want both halves in the one head."
+- "Then it happens on ground I chose."
+- "They will not stop anything."
+- "I am going to go faster."
+- "The other two schools had sent nobody who was not going to fight."
+- "Ten children off two ships, and not one of them there to watch."
+- "the split rock with a chain on it" (Severin in the host's box — deliberate reach back to Ch. 4's *old the way the split rock was old*)
+- "This was the first time in his life that anyone had ever stood over it."
+
+## EVICTED AT THE SESSION-26 SECOND PASS (verbatim; 25 entries)
+
+Reason codes: **REFRAIN** = ordinary words; only the moment or the repetition is distinctive, not the language · **LEXICON** = controlled vocabulary, and `02-World-Bible/lexicon.md` owns the positive word-registers (06: *vocabulary to 02*).
+
+[REFRAIN] - "true things"
+[REFRAIN] - "Again tomorrow"
+[REFRAIN] - "Done" (Vask's release word)
+[LEXICON] - "far-counting"
+[LEXICON] - "the standing game"
+[LEXICON] - "the lazy place"
+[LEXICON] - "the family trade"
+[REFRAIN] - "both things were real"
+[LEXICON] - the winter feast / the dark of the year
+[REFRAIN] - "not enough" (his misfiled verdict)
+[LEXICON] - "Evening" (Vask's farewell = come home)
+[REFRAIN] - "We have a fire" / "Everyone has a fire"
+[REFRAIN] - "It talks"
+[REFRAIN] - "Quiet." (his whole mountain, wearable)
+[REFRAIN] - "Later, mountain boy." (the refusal that ended the register)
+[REFRAIN] - "It was just a seat."
+[LEXICON] - "the lazy place"
+[REFRAIN] - "It likes it."
+[LEXICON] - "the standing game" (Ch. 3 / 5 / 6 — in the beside-her passage)
+[REFRAIN] - "It was just a seat." register (Oss's absence registered, unquoted)
+[REFRAIN] - "The space was not empty."
+[LEXICON] - "the family trade" (Ch. 5 — turned on being talked about rather than talked to)
+[REFRAIN] - "The blades had edges on them."
+[LEXICON] - "the family trade" (Ch. 5 — not asking where the blades came from)
+[LEXICON] - "the standing game" + "what fire eats" + "far-counting" (Ch. 3/5 — quoted by NERIS as she retires them; the only chapter in which the child-words are named as a set and set down)

@@ -18,7 +18,7 @@ Every file has a CONTRACT (what it holds), an ADMISSION TEST, and a named EVICTI
 - `manuscript/book-one/NN-Title.md` = the chapters.
 - `TOOLS.md` = the catalog for all five `scripts/` and for `nlm`.
 
-"Read 02/03/07" = read every file in the folder; each `index.md` is TOC only.
+"Read 02/03/07" = read every canon file in the folder. **NOT part of any cold read:** each `index.md` (TOC only) and each `changelog.md` (a hygiene record of what moved, not canon — spot-read on demand, like the archive). The canon is in the topic files; git is the authority on what changed.
 
 ## Session protocol
 

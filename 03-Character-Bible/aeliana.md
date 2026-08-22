@@ -1,5 +1,5 @@
 ## AELIANA CASSIVARA VESSANTINE (the princess)
-**Glance:** royal princess; the raid's prime target · House Vessantine (the ruling dynasty; the empire is the Vessantine Empire) · **14 — one year above Kael and Valeria**, as of Ch. 21 · arrived on the island for the games; on-page from the opening day.
+**Glance:** royal princess; the raid's prime target · House Vessantine (the ruling dynasty; the empire is the Vessantine Empire) · **14 — one year above Kael and Valeria**, as of Ch. 22 · arrived on the island for the games; on-page from the opening day.
 
 ### STATIC
 - **Name:** Aeliana Cassivara Vessantine; "Cassivara" is an honor-name in the formal chain.

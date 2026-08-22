@@ -22,3 +22,4 @@ s13 (2026-08-20) — WHAT/WHY split ratified; Aurelian valued-not-hand-waved; Va
 s11 — Ch. 10 (deleted draft) ripples logged; defining-axis emphasis pointer added.
 s9 (2026-08-12) — Paternity sealed (00; pointers in entries); appearance ledger ratified in full; revision-pass spends (Severin bodied, Oss's too-new clothes, the Lucan lines, Aurelian's radius).
 s8 (2026-08-09) — Ch. 9: Ruthen entry; Lucan Drusane added; Aurelian fire sealed; Elarine loss beat + crumb; Oss sea-wall; endgame kit direction.
+s26 (2026-08-22) — ten Glance stamps refreshed against Ch. 21–22 (the DYNAMIC blocks had been updated at the s25 close, the Glance lines had not): Valeria 12/Ch.20 → 13/Ch.22 (the stamp had gone self-contradictory, her age being defined as Kael's), Elarine · Aurelian · Lucan → ~13/Ch.22, Aeliana → Ch.22, Neris ~3 months → eight or nine, Wren → Ch.21, Vask → live edges, Severin → above the sand, Oss → Ch.20. No canon changed.

@@ -1,5 +1,5 @@
 ## LUCAN DRUSANE (the worker — petty revenge with feet)
-**Glance:** the worker of Aurelian's four · House Drusane · ~12, as of Ch. 15 · the arithmetic hardening; his house feeds the campaign.
+**Glance:** the worker of Aurelian's four · House Drusane · ~13, as of Ch. 22 · the arithmetic hardening; his house feeds the campaign.
 
 ### STATIC
 - **Role:** The one of the four who WORKS — "watch the pointing, not the laughing." A paid fencing-master's polish at eleven. Design: child-currency cruelty, deniable, real — the escalation's face and hands without spending Aurelian.

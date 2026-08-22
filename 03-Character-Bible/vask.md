@@ -1,5 +1,5 @@
 ## VASK (the father)
-**Glance:** Kael's father; teacher of the body · ex-instrument of the program, hidden · age unpinned · alive; the braid school running; the extraction plan his mouth.
+**Glance:** Kael's father; teacher of the body · ex-instrument of the program, hidden · age unpinned · alive, as of Ch. 21; the school now on LIVE EDGES; the extraction plan his mouth.
 
 ### STATIC
 - **Name:** Chosen, not given (00). One closed syllable, a tool being set down; worn the way soldiers' names get worn.
