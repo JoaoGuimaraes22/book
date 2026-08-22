@@ -36,3 +36,10 @@ Two items did NOT come here — they were promoted to 07 §Standing Rules as unr
 
 ## Beat 13 — pre-spend text (rolled session 20, 2026-08-22)
 13. **The rivalry.** She beats him, repeatedly, at first. He is the first to make her work; she is the first to be his measure. Seasons of matches and silent one-upmanship. Neither calls it friendship; everyone sees it's the only friendship either has ever had. Combat is the one social language he speaks — she is its only other native speaker.
+
+## Beat 16 — pre-rescope text (rolled session 21, 2026-08-22; superseded by 00 s21 — withdrawal became institutionally impossible in Ch. 18)
+16. **The island fills.** The Grand Tournament: a royal princess will attend. Weeks of ships — retinues, banners, and quiet professionals who look at faces. The parents go strange in ways Kael now has the training to notice; they ask him to withdraw. For the first time in his life, KAEL REFUSES. *(Ch. 12 planted the PROHIBITION at 11 — Kael complied then, so the refusal here stays the first. The ladder's middle leg — how the prohibition becomes enrollment before this beat — is OPEN and needs a dedicated design session; Severin's pan-away question is the planted door.)*
+
+## The concession ladder — queued thread, CLOSED (rolled session 21, 2026-08-22; the concede leg is dead — nobody concedes, the entry removes the parents' agency)
+- **The concession ladder.** prohibit → concede → withdraw-request → first refusal (beat 16). The concede leg needs a dedicated design session before Part IV; Severin's pan-away question is the planted door. Valeria's arrival and the public flash are both new pressure sources.
+
