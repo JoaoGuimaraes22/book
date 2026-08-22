@@ -14,7 +14,7 @@ Two classes are admitted that are not "good lines", and both are explicitly mark
 
 **Retirement convention:** text that is NOT on the page goes *unquoted*, in italics, so the exact-match parser skips it. Quote marks mean *it is on the page*.
 
-(Restructured session 18 from the single-line form — content verbatim, one line per phrase, per-chapter blocks; the **Ch. 1–2:** label added at the restructure for the originally unlabeled opening group. `check-echoes.sh` reads this entire section, header to end of file. **Session 26:** purged to the admission test above — 444 quoted phrases to 395; the pre-purge file and every evicted entry sit verbatim in `../archive/protected-phrasings-archive.md`.)
+(Restructured session 18 from the single-line form — content verbatim, one line per phrase, per-chapter blocks; the **Ch. 1–2:** label added at the restructure for the originally unlabeled opening group. `check-echoes.sh` reads this entire section, header to end of file. **Session 26:** purged to the admission test above — 444 quoted phrases to 346; the pre-purge file and every evicted entry sit verbatim in `../archive/protected-phrasings-archive.md`.)
 
 **Ch. 1–2 — The Stars That Fell · Part of the Mountain**
 - "The stars fell down the mountain"
