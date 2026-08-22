@@ -14,6 +14,8 @@
 - Middle childhood: questions sharpen; sentences lengthen; pattern-noticing.
 - Adolescence+: complexity, irony, self-awareness.
 - **THE BLOOMING.** From Part II on, his wits bloom visibly as he grows — quicker in dialogue, drier and faster in thought, pattern-jumps arriving sooner. The gradient includes intelligence made audible, not just sentence complexity.
+- **THE NARROWING (Part III on — ratified session 21).** The sentence TIGHTENS as he hardens, and the em-dash is the instrument that measures it. Through Ch. 1–14 the prose ran at 8–15 dashes per 1,000 words; across Part III it falls away — Ch. 14 = 7.9, Ch. 15 = 4.2, Ch. 16 = 0.8, Ch. 17 = 1.3, Ch. 18 = 1.1. **This is the register now, and it is deliberate.** The parenthetical aside, the qualifying interruption, the writerly dash-and-recover belong to the boy who still explains things to himself; from Part III the prose says it once, in order, and stops. **BUDGET: keep new chapters at or under ~1.5 per 1,000 words** (the chapter-title dash does not count). Where the cut bites hardest is the long interior paragraph — reach for the colon, the full stop, and the sentence that ends, and do NOT trade dashes for fragments, which is the same tic wearing a different coat. **EXEMPT:** dialogue interruption (people still get cut off mid-word), and the single rhetorical turn a speaker has genuinely earned.
+- **Retro-fitting is NOT owed.** Ch. 1–14 stand as written; the decline is the voice maturing on the page, not an error to be corrected backwards.
 
 ## Dread by Inference
 - Menace is shown through what a child half-notices; the reader assembles it. Never explain.
