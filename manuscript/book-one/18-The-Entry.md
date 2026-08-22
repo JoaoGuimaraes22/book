@@ -42,7 +42,7 @@ The name was Halden.
 
 ---
 
-He stood there for a while with the collar in front of him moving and the rain coming off the colonnade roof in a line, and the drawer he had put the judge in two years ago came open by itself, the way a bar comes off a door somebody has been leaning on for a long time. It was the shut one, the one with the level warmth in it that he had filed and not examined and not opened since.
+He stood there for a while with the collar in front of him moving and the rain coming off the colonnade roof in a line, and the drawer he had put the judge in two years ago — the shut one, the one with the level warmth in it that he had filed and not examined and not opened since — came open by itself, the way a bar comes off a door that somebody has been leaning on for a long time.
 
 He did not know what was in it. That was the thing. He had a wrongness with a face on it now and not one single word to put after the wrongness.
 
@@ -86,7 +86,7 @@ It was the only clean thing that happened to him all day, and it was going to be
 
 He had never gone up to the study without being sent for.
 
-Four years, and every one of the summonses had come the same way: a boy from the clerks' room at the end of the third lesson, the same words every time, *the First Master will see you before you go down*, and Kael had gone up the stair and sat in the chair and had his book read and his year audited and gone home. He had never once climbed that stair on his own account. It had not occurred to him that a person could.
+Four years, and every one of the summonses had come the same way — a boy from the clerks' room at the end of the third lesson, the same words every time, *the First Master will see you before you go down* — and Kael had gone up the stair and sat in the chair and had his book read and his year audited and gone home. He had never once climbed that stair on his own account. It had not occurred to him that a person could.
 
 The door was open. That was the first thing.
 
@@ -148,7 +148,7 @@ Kael looked at the two letters lying open on the desk and did not read them, whi
 
 "You told me at the rock," he said, "that you were done carrying me."
 
-"I said it at the gate, and I said it because you needed to walk into that court on your own feet." Severin came off the desk. "I am telling you now that whatever this is, you are not standing in it by yourself. Not you, and not your house. Whatever it costs, and whatever it takes, and however far it has to go, you have that from me, and you will have it in the spring, and you would have had it if you had never once climbed this stair."
+"I said it at the gate, and I said it because you needed to walk into that court on your own feet." Severin came off the desk. "I am telling you now that whatever this is, you are not standing in it by yourself. Not you, and not your house. Whatever it costs, and whatever it takes, and however far it has to go — you have that from me, and you will have it in the spring, and you would have had it if you had never once climbed this stair."
 
 Kael sat and looked at his own hands.
 
@@ -216,7 +216,7 @@ He pulled his coat straight.
 
 He made the man at the second bend.
 
-It was not a thing he did on purpose. His head was full of the four lines, the second column, the two letters lying open on a desk, *he is the empire, Kael*, and none of that had anything to do with his feet, and somewhere underneath the thinking the part of him that had been built first went on counting the way it always did.
+It was not a thing he did on purpose. His head was full — the four lines, the second column, the two letters lying open on a desk, *he is the empire, Kael* — and none of that had anything to do with his feet, and somewhere underneath the thinking the part of him that had been built first went on counting the way it always did.
 
 At the bend above the village the road gave you two hundred strides of the way you had come. Kael had never in his life turned a corner without buying the corner first.
 
@@ -252,7 +252,7 @@ The man did not slow, and did not look up, and did not come back.
 
 He had not been sent to follow a boy who could do this. Nobody had told him there was one.
 
-The stillness game ended on his father's word and always had, and there was no one on that hillside to say *done*, so Kael set the rule himself: the lamps at the water, all of them, and a hundred after that. He held it long past any use, because being finished was not the same as being sure. Then he went home the wrong way: up over the shoulder, along the goat line, down onto the path above the split rock from the side that had no road on it, adding forty minutes to a walk he could have done blind.
+The stillness game ended on his father's word and always had, and there was no one on that hillside to say *done*, so Kael set the rule himself — the lamps at the water, all of them, and a hundred after that — and held it long past any use, because being finished was not the same as being sure. Then he went home the wrong way: up over the shoulder, along the goat line, down onto the path above the split rock from the side that had no road on it, adding forty minutes to a walk he could have done blind.
 
 He came at his own house from above and stopped and looked at it the way he had been taught to look at anything before giving it his weight. The lamp was lit. His mother's shape crossed the window and did not stop at it. The bar would be down, because the bar had been down every night of his life.
 
