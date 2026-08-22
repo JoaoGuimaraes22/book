@@ -88,7 +88,7 @@ His father nodded once, slowly, at the middle of the table, and did not look ple
 
 "Now the rest of it," Vask said.
 
-Kael put his hands on the table because he did not know where else to put them. His body tensed.
+Kael put his hands on the table because he did not know where else to put them.
 
 "The tournament lists went up this morning. In earned order, off the standings." He made himself say it at one speed. "Vel. Corvane. Two of the senior cohort. Sedrane. And me, four lines down."
 
@@ -136,11 +136,11 @@ It came out level and unhurried, and every word of it was true, and it was the s
 
 Vask looked at Neris.
 
-"There is one more," Kael said. "I think it is the worst one and I have been carrying."
+"There is one more," Kael said. "I think it is the worst one, and I have been carrying it."
 
 "Give it."
 
-"He talked to me about the spring. The exhibition. The thing I did to the Vel girl's arm." He had told them that himself, in this room, at this table, in the summer. "He said the agreement was not luck. Four hundred people wanted an easy answer and were handed one and took it, and he let them keep it. And then he said he was not going to ask me what it was, and that he had chosen every day since the spring not to say any of this, and that he had been wrong to." Kael looked at his hands. "And then: *somebody in that colonnade did not need an easy answer. He had a hard one already.* And nine days ago a man wrote my name onto a sheet in the capital."
+"He talked to me about the spring. The exhibition. The thing I did to the Vel girl's arm." He had told them that himself, in this room, at this table, in the spring. "He said the agreement was not luck. Four hundred people wanted an easy answer and were handed one and took it, and he let them keep it. And then he said he was not going to ask me what it was, and that he had chosen every day since the spring not to say any of this, and that he had been wrong to." Kael looked at his hands. "And then: *somebody in that colonnade did not need an easy answer. He had a hard one already.* And nine days ago a man wrote my name onto a sheet in the capital."
 
 His mother stood up.
 
@@ -158,7 +158,7 @@ She did not go to the window. He noticed it because he had cracked the window pa
 
 ---
 
-"I've known for a while know. That something, or someone, is looking for us. How long have you known it would come for us? I deserve to know. Please." Kael said.
+"I've known for a while now," Kael said. "That something, or someone, is looking for us. How long have you known it would come for us?"
 
 Neither of them asked him what he meant.
 
@@ -296,7 +296,7 @@ Neither of them said anything at all, and about a second later Kael understood t
 
 "Why not now."
 
-A stop. He could see his mother's breathing got heavier.
+Nobody answered. Then his mother's breathing changed, and he heard it.
 
 "Because I am carrying a child," his mother said.
 
@@ -306,11 +306,11 @@ The fire went on doing what the fire did. His father did not move. Kael sat with
 
 "Yes."
 
-"Oh. Wow. Mother... since when."
+"Since when."
 
-"Since the summer." 
+"Since the summer."
 
-Silence sat in the room for a while. The as Kael's eyes widened, as he said:
+Silence sat in the room. Then Kael's head came up.
 
 "I'm going to have a brother. Or a sister."
 
@@ -364,15 +364,13 @@ He sat and listened to his mother lay out a road built end to end out of that on
 
 "Your mother will have the best hand there is on this island," his father said.
 
-It was the first time all night that either of them had answered a question that had been put to the other one. Kael knew what it means when the *wrong* person answers, and he sat and looked at the two of them and let it go, because there was nothing else available to do with it.
+It was the first time all night that either of them had answered a question that had been put to the other one. Kael knew what it meant when the *wrong* person answered, and he sat and looked at the two of them and let it go, because there was nothing else available to do with it.
 
 Kael did the rest of the sum before either of them offered it to him.
 
 The cold term. The storm-weeks. The turn toward spring. The child, and then three weeks, and then a beach in the dark.
 
 Six months. Call it six months and be honest about it, because a count you hurry is a wish.
-
-Nobody in that room said the word *friends*, because nobody in that room had ever used it about him, including him.
 
 "The games are in the spring," his mother said, to his father, in the same voice she had used about the hull.
 
