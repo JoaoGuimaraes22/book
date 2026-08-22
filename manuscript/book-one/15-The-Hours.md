@@ -302,7 +302,7 @@ Elarine's eyes did what her eyes did.
 
 "Why not?"
 
-And Kael, who could take apart a fencing form in two exchanges and had once cracked eleven weeks of his mother's night watch by writing down which boats went where, stood in a disused cistern court in the summer of his twelfth year and could not find one single word to put in the gap.
+And Kael, who could take apart a fencing form in two exchanges and had once cracked eleven weeks of his mother's night watch by writing down which boats went where, stood in a disused cistern court on a summer afternoon and could not find one single word to put in the gap.
 
 "It wouldn't work," he said.
 
@@ -314,9 +314,9 @@ Elarine looked at him a moment longer. Then she picked up the satchel she had no
 
 ---
 
-Kael was thirsty. Every day, he wondered. *What does she do?* *How does she train?* But, for some reason he could not fit in any drawer, he could not bring himself to simply go, and ask. And so, he did what he did best.
+It came up the road with him in the evenings and was there in the morning: *What does she do all day, and how?* Twice he built the sentence that would ask her, and twice something in him put it down, and there was no drawer that fit it.
 
-He knew, if you looked at the thing you needed to know about, you'd do it from where it could not look back, for as long as it took. He had been taught to do exactly this by everyone he loved, and if he had been asked he would have said, honestly, that he was studying an opponent a year out from a tournament he was forbidden to enter.
+So he did the other thing. If you needed to know a thing, you looked at it from where it could not look back, for as long as it took; he had been taught that by everyone he loved. If he had been asked he would have said, honestly, that he was studying an opponent a year out from a tournament he was forbidden to enter.
 
 What he learned in the first week was her art, and it was worth every hour.
 

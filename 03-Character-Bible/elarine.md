@@ -1,5 +1,5 @@
 ## ELARINE SEDRANE (the watcher — pride that learns)
-**Glance:** the cohort's real mind; collegial ally · House Sedrane · ~12, as of Ch. 14 · cistern-court alliance standing; the fiction held over the flash.
+**Glance:** the cohort's real mind; collegial ally · House Sedrane · ~12, as of Ch. 17 · cistern-court alliance standing; the fiction held over the flash.
 
 ### STATIC
 - **Role:** Considers herself the cohort's real MIND (Aurelian its capacity, its name, its noise) — and she is right. With Aurelian: the two responses to being out-thought — his world breaks, hers gets bigger. Proof the golden children are not a monolith.
@@ -14,7 +14,7 @@
 - **Appearance:** Ink-dark hair bound severely; pale, economical — nothing on her that doesn't work; small; dark eyes that price before they blink. Forgettable at a glance and unforgettable the third time you notice she hasn't moved. What others react to: they mostly don't — which she has noticed, and wears as neatness.
 
 ### DYNAMIC
-- **As of Ch. 15.** Proposes recruiting Valeria into the court and is refused by Kael in a beat too fast to be a reason ("That is not a reason. That is the shape a reason goes in."); prices the refusal, declines to ask again, and says nothing further — the collegial fiction holding over something she has plainly seen. Previously: the cistern-court arrangement institutional — her fans for his reading, twice a week, Aurelian admitted on her conditions. She is the crush-object, unknowing (his side only; never labeled by either).
+- **As of Ch. 17.** Supplied the PRINCIPLE Kael's counter is built on ("It is not that the stone knows anything. It is that the stone is all one thing") without ever being told what it was for, and did not ask. Let eleven weeks of her own hour go before she said one word about it, then said the reason he gave her was not one — and told him to bring Valeria anyway, because that girl has not been in a room with anyone her own age who was not paid to hit her, *and you notice everything and you had not noticed that*. Converted the Ammareth fact into what it is for. Heard "It isn't for me" and recognised the shape from the summer, and said nothing: the coat-wire at its hottest yet, still never resolved. She wants Valeria beaten, by her, at the tournament — and wants Valeria to belong somewhere. Previously: proposes recruiting Valeria into the court and is refused by Kael in a beat too fast to be a reason ("That is not a reason. That is the shape a reason goes in."); prices the refusal, declines to ask again, and says nothing further — the collegial fiction holding over something she has plainly seen. Previously: the cistern-court arrangement institutional — her fans for his reading, twice a week, Aurelian admitted on her conditions. She is the crush-object, unknowing (his side only; never labeled by either).
 - **The flash:** she SAW and declined to ask — "Of course it was," both letting it hold; the coat-wire fed HOW, not WHAT, at its highest pressure yet.
 - **The judge-watch:** gave the twelfth exchange away to watch Halden — "his face spent nothing... Neither one is good." She smells the wrongness Kael won't examine.
 

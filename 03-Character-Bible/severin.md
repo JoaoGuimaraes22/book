@@ -12,7 +12,7 @@
 
 ### DYNAMIC
 - **As of Ch. 14.** Announced the tournament publicly; counseled the parents against sitting still ("how he goes. Held, or loose." — the concession door planted, unresolved); reads Kael's blank book at the termly summons.
-- **The exhibition:** he rose at the threading slash and was told "No" by a guest; his read of the flash is UNSPENT — owed to Ch. 15.
+- **The exhibition:** he rose at the threading slash and was told "No" by a guest; his read of the flash is UNSPENT — still owed (Ch. 15 never reached him).
 - **Knowledge valves (00):** untouched.
 
 ### FORWARD

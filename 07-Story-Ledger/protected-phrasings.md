@@ -278,3 +278,54 @@
 - "the standing game" (Ch. 3 / 5 / 6 — in the beside-her passage)
 - "The fire ate what it was given" (Ch. 12 — the lamp's silence after the flash)
 - Neris in the doorway, hand on the frame, knuckles pale (Ch. 2 image, unquoted, at higher intensity)
+
+**Ch. 16 additions ("The Terms," session 20):**
+- "You are too light to be one of mine."
+- "My father's letter asked how a Vel came to be standing where a waster could reach her, and instructed me to write back with the answer."
+- "Nobody asked me what it was."
+- "I am not going to stop thinking about it because you answer like a door."
+- "You are going to show me."
+- "Random is for people who are hoping. I am not hoping."
+- "and did not ask again, then or ever"
+- "It will work once more." / "It worked once more."
+- "I can feel where you are with my *face*. That is revolting. Do it again."
+- "It is not that the stone knows anything. It is that the stone is all one thing." (Elarine — the principle; protect)
+- "It's a rug if it works"
+- "Where are you." / "I can see where you are. I am asking where you *are*."
+- "You are not absent. You are a *hole*." (protect absolutely)
+- "Nothing is not quieter than everything else. Nothing is only quiet."
+- "You cannot beat me with a sword. You have beaten me with a floor." (protect absolutely)
+- "It was the first thing he had ever taken from her."
+- the closing block: "in a room where everything talks, the silent thing is the loudest thing in it" + the single-word paragraph "Yet." (protect absolutely)
+
+**Ch. 16 deliberate echoes (not new coinage):**
+- "Evening" (Ch. 7 — Vask's word, as the wall at the end of his day)
+- the lazy place / pricing register (throughout, unmarked)
+
+**Ch. 17 additions ("The List," session 20):**
+- "He did not tell her to stop. It did not once occur to him to tell her to stop." (protect absolutely)
+- "Nobody has ever asked me to go and look."
+- "Do you know what happens to a thing you own and never spend? It becomes a story your family tells."
+- "Ask the rest of them."
+- "At no point in the morning did it occur to either of them that this was an unusual way for two children to spend one." (protect absolutely)
+- "the way he wrote down everything he was ever given"
+- "That is the only interesting part"
+- "*There* it is." / "Then do it more."
+- "Because I don't know what it does, and you're the only person on this island worth doing it to."
+- "the single most expensive thing anyone did for him that year"
+- "That girl has been on this island eight months and has not once been in a room with anybody her own age who was not being paid to hit her."
+- "Because you're better than all of us and it hasn't done you any good."
+- "Better than everyone in this Temple at one thing and bound hand and foot regardless." / "The same. Different thing."
+- "Who lives in it" / "You take the top off it and put a new top on." / "Depends what the old top did."
+- "They are not choosing a champion, they are choosing an *order*"
+- "You are all speaking as though being looked at were the injury."
+- "I have never been able to think of an answer that was not an insult to my grandfather." (protect absolutely)
+- "Every one of them had answered with a *because*. Kael went looking for his own and found the work standing where the because should have been." (protect absolutely)
+- "It isn't for me."
+- "It is the only thing on the list I actually wanted."
+- "It had never once been a list with his name off it." (protect absolutely)
+
+**Ch. 17 deliberate echoes (not new coinage):**
+- "I will win it." (Ch. 14 — respent by Valeria and marked as such in the text)
+- "they're not teaching us, they're making us" (Ch. 12 — Oss quoted in Kael's memory, italicised, one clause)
+- "It was just a seat." register (Oss's absence registered, unquoted)
