@@ -230,7 +230,7 @@
 - "I am here for the year... I will win it."
 - "Who is next?"
 - "The Line does not keep pets."
-- "the way a drawn blade stands in a room"
+- "like a drawn blade stands in a room" (aligned to the page s24 — the ledger read *the way a drawn blade…* — unquoted here, retirement convention — which the exact-match echo script could not find)
 - "It looked at him. The rest of us it read in passing."
 - "the wood ended where the wood ended. / The edge did not."
 - "the way you decline bread" (her "No.")
@@ -286,7 +286,7 @@
 - "I am not going to stop thinking about it because you answer like a door."
 - "You are going to show me."
 - "Random is for people who are hoping. I am not hoping."
-- "and did not ask again, then or ever"
+- "Good," she said. "Find out." (the close of movement I. **This block previously carried *and did not ask again, then or ever*** — unquoted, retirement convention; never on any page; the author's pass cut it and the ledgers kept the ruling about it. Struck s24. Valeria's never-asking about the mountain is real and is CHARACTERISATION, but it lives in the narration of Ch. 17 and in the clue ledger, not in a line of Ch. 16.)
 - "It will work once more." / "It worked once more."
 - "I can feel where you are with my *face*. That is revolting. Do it again."
 - "It is not that the stone knows anything. It is that the stone is all one thing." (Elarine — the principle; protect)
@@ -312,7 +312,7 @@
 - "That is the only interesting part"
 - "*There* it is." / "Then do it more."
 - "Because I don't know what it does, and you're the only person on this island worth doing it to."
-- "the single most expensive thing anyone did for him that year"
+- "Elarine watched the whole of it from the wall and said nothing at all." **(Ch. 16, not Ch. 17.** This block previously carried *the single most expensive thing anyone did for him that year* (unquoted, retirement convention) — a phrase that was never on any page, filed under the wrong chapter. The not-asking is on the page; the pricing of it is not, and does not need to be. Struck s24; do not re-mint.)
 - "That girl has been on this island eight months and has not once been in a room with anybody her own age who was not being paid to hit her."
 - "Because you're better than all of us and it hasn't done you any good."
 - "Better than everyone in this Temple at one thing and bound hand and foot regardless." / "The same. Different thing."
@@ -370,7 +370,7 @@
 - "We were owned. We stopped being owned. People who own things do not forget." (Vask's three sentences — RATIFIED, verbatim, never widened; protect absolutely)
 - "It may not be them." / "It is them."
 - "An empire noticing a clever boy is not the same animal as the one we have been watching that sea for, and you cannot make it the same animal by wanting there to be only one." (protect absolutely)
-- "Because he has never once been wrong about us." / "That is not why." (the Severin non-answer — protect absolutely; never resolve which reason is whose)
+- "Because he has never once been wrong about us." / "He knows us. Truly." (the Severin non-answer — protect absolutely; two reasons laid side by side, neither explained, neither refused. **Corrected s24:** the second half was carried for two sessions as *That is not why.* (unquoted here, per this file's retirement convention, so the echo script skips it) — a line that was never on any page in the repo's history. Do not re-mint it.)
 - "Because I am carrying a child."
 - "I'm going to have a brother." / "Or a sister." / "One or the other,"
 - "You will be careful with the head." / "I know about heads."

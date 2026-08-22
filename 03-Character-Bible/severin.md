@@ -14,7 +14,7 @@
 ### DYNAMIC
 - **Now:** First Master, and **outreached inside his own Temple** — he can do nothing about Kael's entry and told the boy so without softening it. The Temple is his; the tournament is not. Someone is above him and it is not a house.
 - **State:** the protection promise is given, unqualified and slightly too confident — *"you are not standing in it by yourself. Not you, and not your house."* **His read of the flash is SPENT**, paid as a refusal to ask. He reads Halden as no house and nobody's cousin, which is **WRONG, and he does not know it** — never correct him on the page. He reads the blank book at each termly summons, and turned back once to a page with very little on it, looked at it twice, and said nothing.
-- **Off-page and load-bearing:** he will attend the birth (the art *and* the medicine) and he will find the hull — not one with the family's faces in a ledger, something of his own, kept dry on their own side of the mountain. **He arranged it before anybody asked him to.** Neither parent will say why they trust him: Vask offers *"Because he has never once been wrong about us"*, Neris answers *"That is not why."* — never resolve which reason is whose.
+- **Off-page and load-bearing:** he will attend the birth (the art *and* the medicine) and he will find the hull — not one with the family's faces in a ledger, something of his own, kept dry on their own side of the mountain. **He arranged it before anybody asked him to.** Neither parent will say why they trust him: Vask offers *"Because he has never once been wrong about us"* and Neris lays a second one beside it, *"He knows us. Truly."* — two reasons, neither explained, neither refused; never resolve what either of them is.
 - **Knowledge valves (00):** untouched.
 
 ### FORWARD
