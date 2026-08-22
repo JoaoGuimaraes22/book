@@ -23,3 +23,4 @@
 | 15 | 12 | never pinned — the birthday passes unmarked per rule | continuous from Ch. 14's yard that same evening; the mountain's steel through the spring; the Temple's at midsummer; the watching in the weeks after |
 | 16 | 12 | never pinned — no age reference anywhere in the chapter (the "summer of his twelfth year" half-pin was removed session 20) | continuous from Ch. 15's watching; the catch in late summer; the terms run eleven weeks into the turn |
 | 17 | 12 | never pinned | continuous with Ch. 16's terms — the autumn; closes the evening before the tournament lists go up |
+| 18 | 12 | never pinned | the next morning, continuous from Ch. 17 — the autumn; one day, first bell to full dark |

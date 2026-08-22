@@ -1,5 +1,5 @@
 ## SEVERIN (the master)
-**Glance:** head of the Temple — THE FIRST MASTER; the family's secret savior and patron · empire past, his own man now · old, the way the split rock is old · sponsor of the charity case; the concession door open.
+**Glance:** head of the Temple — THE FIRST MASTER; the family's secret savior and patron · empire past, his own man now · old, the way the split rock is old · **outreached inside his own Temple; the protection promise given whole.**
 
 ### STATIC
 - **Name:** Severin — on-page mostly "the master"; spend the name sparingly so it carries weight.
@@ -11,8 +11,8 @@
 - **Appearance:** Old the way the split rock is old; tall, gone lean, a scholar's stoop that once wasn't. Hair fully grey — the second reading never confirmed. An enforcer's frame under a master's robes: wrists too thick for the ink they carry. A face that is courteous, unhurried, and gives out nothing it hasn't priced.
 
 ### DYNAMIC
-- **As of Ch. 14.** Announced the tournament publicly; counseled the parents against sitting still ("how he goes. Held, or loose." — the concession door planted, unresolved); reads Kael's blank book at the termly summons.
-- **The exhibition:** he rose at the threading slash and was told "No" by a guest; his read of the flash is UNSPENT — still owed (Ch. 15 never reached him).
+- **As of Ch. 18.** **HIS FIRST ON-PAGE FAILURE.** Spent a morning learning he can do nothing about the entry, and told the boy so without softening it: the Temple is his, the tournament is not; entries are lodged to the games under seal and he cannot strike a name off a document that is not his. Delivered the jurisdiction canon (02) and "He is the empire, Kael. Not a house." **PAID THE OWED FLASH-READ AS A REFUSAL TO ASK** — carried since the spring, chose every day not to say it, said it now: he will not ask what it was, and somebody in that colonnade did not need an easy answer. **Gave the protection promise unqualified** ("you are not standing in it by yourself. Not you, and not your house."). Reads Halden as no house, nobody's cousin — **WRONG, and does not know it** (03/halden sealed truth); never correct him on the page. Knowledge valves (00) untouched. Previously (Ch. 14): announced the tournament publicly; counseled the parents against sitting still ("how he goes. Held, or loose." — the concession door planted, unresolved); reads Kael's blank book at the termly summons.
+- **The exhibition:** he rose at the threading slash and was told "No" by a guest. **His read of the flash is now SPENT (Ch. 18)** — three chapters owed, paid as cause rather than audit.
 - **Knowledge valves (00):** untouched.
 
 ### FORWARD

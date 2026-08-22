@@ -329,3 +329,32 @@
 - "I will win it." (Ch. 14 — respent by Valeria and marked as such in the text)
 - "they're not teaching us, they're making us" (Ch. 12 — Oss quoted in Kael's memory, italicised, one clause)
 - "It was just a seat." register (Oss's absence registered, unquoted)
+
+**Ch. 18 additions ("The Entry," session 21):**
+- "a list is a document, and documents are made by clerks, and clerks make mistakes"
+- "a boy does not enter a tournament that gives away a city; a boy's house enters him"
+- "The space was not empty."
+- "Somebody has stood for you at the empire's games and you do not know who."
+- "The Temple is mine. The tournament is not."
+- "I can refuse you a room. I can refuse you the yard. I cannot refuse you the games."
+- "I have not asked you what it was. I am not going to ask you now." (the read that arrives as a refusal to ask — protect absolutely)
+- "somebody in that colonnade did not need an easy answer"
+- "He is the empire, Kael. Not a house." (protect absolutely)
+- "there is no door to knock on, because it was all done correctly" (protect absolutely)
+- "you are not standing in it by yourself" (the protection promise — protect)
+- "What a pity it would be, not to showcase the empire's finest." (protect absolutely)
+- "It buys me a good week in the spring if you are what I think you are."
+- "I have taken away their ability to go on being wrong about you"
+- "Go home, lad."
+- "he had never in his life turned a corner without buying the corner first"
+- "it was enormous, and it was *fun*"
+- "He had not been sent to follow a boy who could do this. Nobody had told him there was one." (protect absolutely)
+- "being finished was not the same as being sure"
+- "the two people who had built the part of him that enjoyed it" (protect absolutely)
+
+**Ch. 18 deliberate echoes (not new coinage):**
+- "Empty is true" (Ch. 8 — PAID here, not respent: the space the line closed is filled by a stranger)
+- "He had a school for this. He had never once been told what the school was for." (Ch. 6 — butchery school on a dead man then, fieldcraft school on a live one now)
+- "This house lives because it is not looked at." (Ch. 12 — her sentence arriving in his head on a road, meaning something new)
+- "ask twice, with one thing changed" (Ch. 10 — her method turned on a man)
+
