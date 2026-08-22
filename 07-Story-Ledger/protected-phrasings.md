@@ -400,7 +400,7 @@
 - "Because he will put it in a letter. To his brother. At length. With a heading."
 - "He had been right about the price. He had never once looked at the other column." (Oss — protect)
 - "he could price a man off the set of his shoulder at forty strides in bad light, and he had no idea whatever how a person walks across a hall" (the WHAT/WHY split rendered as a capability gap — protect)
-- "if you hold back I will know within three exchanges, and I will never forgive it, and I am extremely good at not forgiving things"
+- "And if you hold back I will know, and I will never forgive it, and I am extremely good at not forgiving things" (**Corrected s25:** this block carried the same sentence with *within three exchanges* set after *I will know* — unquoted here, per this file's retirement convention, so the echo script skips it. It was never on any page in any commit; `git log -S` puts its first appearance at the Ch. 20 commit itself, which means the entry was written off the design and not off the page. **She names no threshold** — the flat *I will know* is the line, and it is the more dangerous one. Do not re-mint the count.)
 - "a thing that fails the same way twice is a fact and a thing that fails eleven ways is a subject"
 - "He did not reinforce his arm. He had no idea how to reinforce an arm. / He reinforced the line." (protect absolutely — the technique's whole statement)
 - "his legs had been consulted and had returned an answer"
