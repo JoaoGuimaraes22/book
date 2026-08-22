@@ -19,5 +19,6 @@
 - **Knowledge valves (00):** untouched.
 
 ### FORWARD
+- **THE CHAIR COSTS HIM THE DELIVERY (00 s26):** he is above the sand when Neris goes into labour, because that is what the chair is for, and he must be fetched. The old enforcer who went and learned to mend is held away from the one person on this island who needs the mending, by the empire's answer to a rule it could not enforce. **Never remark on it.**
 - **Endgame:** open (00) — what he does with Wren, the extraction's true nature, whether the doctrine curdles.
 - **Status:** extracts Neris and the newborn during the fire; vanishes with them. Fate and whereabouts unknown.

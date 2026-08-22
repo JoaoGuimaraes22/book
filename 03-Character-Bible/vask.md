@@ -19,5 +19,5 @@
 - **Knows:** the escalation (via Severin); the public flash, in full, from Kael's own mouth. **Does not know:** the hidden contact; the bind idea; who Halden is — the name meant nothing to him.
 
 ### FORWARD
-- **Status:** dies in the fire, buying time for both his sons to escape in two directions.
+- **Status:** dies in the fire, buying time for both his sons to escape in two directions. **THE LAST HOUR'S GEOMETRY (00 s26):** he is split three ways and can hold two at most — Neris alone in a violent delivery, Kael on the sand, and Severin six miles from her in the host's box. He spends the hour moving between them. Which legs he completes is UNRESOLVED.
 - **The chest (00):** his old sword lies under the floorboards with Neris's dagger. At the raid the chest is opened — "the parents unsheathed" made literal — and **in his last hour he throws the sword to Kael.** Staging governed by 00's paternity rule: the monument, never the undoing.

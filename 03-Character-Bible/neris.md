@@ -20,6 +20,6 @@
 - **Knows:** the escalation (via Severin); the public flash, in full — she debriefed him on it herself. **Does not know:** the hidden contact; the bind idea; that Kael cracked her night-watch pattern; that he knows the sea never freezes; who Halden is — the name meant nothing to her.
 
 ### FORWARD
-- **Book One:** pregnant through the tournament season (planted for Part III); gives birth near the arc's end.
+- **Book One:** pregnant through the tournament season (planted for Part III); gives birth near the arc's end. **ALONE (00 s26):** the labour begins as the semifinals begin and Severin is above the sand, so the one mitigation the family built the whole winter around is absent at the hour it was built for. Her survival of the delivery stays UNCONFIRMED.
 - **The chest (00):** her old dagger lies under the floorboards with Vask's sword; it becomes one of Kael's dual-dagger pair. How it reaches him is OPEN — she is extracted, so it does not pass by her hand. Whether the Ch. 4 night-watch blade IS this dagger is a VALVE: never resolve.
 - **Status:** separated in the fire; extracted with the newborn by Severin; fate unconfirmed — a low flame under the whole series. She becomes MYSTERY as Vask becomes MEMORY: Kael's archaeology of his father ends; his archaeology of his mother never does.

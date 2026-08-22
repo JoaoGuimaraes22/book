@@ -9,7 +9,7 @@
 - **Severin** — the master; publicly THE FIRST MASTER. Mostly "the master" on-page; the name appears rarely, by design.
 - **"the Gardener"** — Kael's pattern-name for the leader. True name reserved (00).
 - **Temple cast** (sheets in `../03-Character-Bible/`): Ostrian "Oss" Vessaline (merchant house) · Aurelian Corvane · Elarine Sedrane · LUCAN DRUSANE (house Drusane) · RUTHEN (the yard-master) · Priscian.
-- **Minor names SPENT on the page — do not re-coin, do not reuse** (logged s26; no sheets, none owed one): **MELORAN** (Ch. 21 — seventeen, entered, a spear; takes Aurelian's hour four days a week) · **LEDRON** (Ch. 18 sheet, gone Ch. 21) · **TAVRIAN** (gone in the cold term, Ch. 21) · **TALRANE** and **ISCANE** (Ch. 18, Halden's yard line — houses, -ANE register).
+- **Minor names SPENT on the page — do not re-coin, do not reuse** (logged s26; no sheets, none owed one): **MELORAN** (Ch. 21 — seventeen, entered, a spear; takes Aurelian's hour four days a week. **Decided s26: he is the Temple six's surviving senior-cohort entrant** — line 4 of Ch. 18's sheet; 02 §Temple Six) · **LEDRON** (Ch. 18 sheet, gone Ch. 21) · **TAVRIAN** (gone in the cold term, Ch. 21) · **TALRANE** and **ISCANE** (Ch. 18, Halden's yard line — houses, -ANE register).
 - **THE COLLEGIUM** — the CAPITAL's Resonant school, named on the page at Ch. 22 (*"Five from the capital's Collegium, in red and black"*). The northwest school's name is still unminted.
 
 ### Naming law
