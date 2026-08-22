@@ -12,7 +12,7 @@
 - **Appearance:** Soft-built, round-faced, quick-eyed; expressive hands that talk when he does, which is always. Everything he wears slightly too new — cloth that hasn't learned him yet (the bought name as wardrobe). A face built for laughing that watches carefully between laughs.
 
 ### DYNAMIC
-- **As of Ch. 14.** Estranged. He performed the coerced joke (truth off-page: Corvane and Drusane pressured Vessaline; Vessaline pressured him; he obliged, reluctant, hurting his only friend and himself), then held the ordered distance — two approaches ignored, the sea-wall register dead. Structurally absent from Ch. 14: the Vel name reached Kael from no particular mouth.
+- **As of Ch. 17.** Estranged, and the estrangement now has a length: Ch. 17 registers him in one clause — three tables away in the hall, not a word in a year — and his Ch. 12 forge warning is quoted back inside Kael's head, proved right, by a boy who cannot tell him so. Previously (Ch. 14): estranged. He performed the coerced joke (truth off-page: Corvane and Drusane pressured Vessaline; Vessaline pressured him; he obliged, reluctant, hurting his only friend and himself), then held the ordered distance — two approaches ignored, the sea-wall register dead. Structurally absent from Ch. 14: the Vel name reached Kael from no particular mouth.
 - **Handling:** his hurt is real — keep it real whenever he is on the page. The reader's protective-joke theory is productive ambiguity — do not correct; the truth outs at its own session or never.
 
 ### FORWARD

@@ -60,7 +60,11 @@ Valeria Vel considered him for a while. Somewhere up the hill a bell went for th
 
 "I have beaten a great many people."
 
-"You beat me *whole*," Kael said, and it came out with more of him in it than he had meant to spend. "I've lost twice in my life." He thought to himself, besides the thousands to his father, "The first time something in me broke and I've been building against it for three years. The second time nothing broke. Everything I have worked when I called it and it wasn't enough, and I've been trying since then to find out what the missing thing is, and I can't find it. So I came."
+"You beat me *whole*," Kael said, and it came out with more of him in it than he had meant to spend. "I've lost twice in my life."
+
+Twice. The thousands to his father he had never thought to count.
+
+"The first time, something in me broke, and I've been building against it for three years. The second time nothing broke. Everything I have, worked when I called it, and it wasn't enough, and I've been trying to find out what the missing thing is, and I can't find it. So I came."
 
 "And what have you found."
 

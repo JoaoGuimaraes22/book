@@ -319,7 +319,7 @@
 - "Who lives in it" / "You take the top off it and put a new top on." / "Depends what the old top did."
 - "They are not choosing a champion, they are choosing an *order*"
 - "You are all speaking as though being looked at were the injury."
-- "I have never been able to think of an answer that was not an insult to my grandfather." (protect absolutely)
+- "I have never been able to think of an answer that was not an insult to my father." (protect absolutely)
 - "Every one of them had answered with a *because*. Kael went looking for his own and found the work standing where the because should have been." (protect absolutely)
 - "It isn't for me."
 - "It is the only thing on the list I actually wanted."
