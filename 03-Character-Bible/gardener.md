@@ -6,7 +6,7 @@
 - **Appearance:** reserved entirely (00).
 
 ### DYNAMIC
-- **As of Ch. 14.** Nothing on-page.
+- Nothing on-page.
 
 ### FORWARD
 - All of it (00).

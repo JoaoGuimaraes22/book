@@ -9,7 +9,7 @@
 - **Appearance:** Heavy, round, stuffed to the seams; ink-stained cuffs, chalk dust in the creases, a squint from a life at close text. Moves like a man carrying a library. Delight and irritation use the same furrow.
 
 ### DYNAMIC
-- **As of Ch. 14.** No new state; the mist question left standing; the build continues.
+- The mist question is still standing, unanswered; the build continues.
 
 ### FORWARD
 - **Book Two:** the model-vs-questions fight.

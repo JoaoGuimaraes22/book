@@ -8,7 +8,7 @@
 - **Appearance (reserved for the tournament; direction only):** the kind of beauty that is also a uniform. Full block sealed at her chapter.
 
 ### DYNAMIC
-- **As of Ch. 14.** Not yet on-page.
+- Not yet on-page.
 
 ### FORWARD
 - **Arc:** long arc undecided (00).

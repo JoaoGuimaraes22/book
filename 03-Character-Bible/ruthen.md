@@ -10,7 +10,8 @@
 - **Appearance:** Built like old rope — lean, hard, used, the yard's weather in it; dark hair with THE SEAM. Knuckles like a counting-frame; a cadence-counter's unhurried walk. A face that has priced worse yards than this one.
 
 ### DYNAMIC
-- **As of Ch. 14.** Called "Match. Vel." — the first match ever called at Kael. Has now repeatedly underwritten Kael's way of winning in public without ever praising the boy. The one-breath look after the Drusane spar — he saw the formlessness truly — stays filed, unspent.
+- Has repeatedly underwritten Kael's way of winning in public without ever praising the boy; called *"Match. Vel."* — the first match ever called at Kael. Still says "the charity case."
+- **The one-breath look after the Drusane spar — he saw the formlessness truly — stays filed and UNSPENT.**
 
 ### FORWARD
 - **Door (unspent):** the one adult at the Temple who saw what the yard refused to, pre-Valeria; mentor-adjacent.

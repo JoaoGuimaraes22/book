@@ -2,7 +2,7 @@
 **Status:** Sheet format: Glance / STATIC / DYNAMIC / FORWARD, appearance inline. Refresh DYNAMIC for every character a chapter touches, at each close; one changelog line per session, appended at each close. Changelog: ./changelog.md
 
 Template per character: Name/Role · Want · Wound · Flaw/Limit/Awkwardness · Voice · Arc · Status.
-Sheet structure (session 18 addendum): **Glance** line (Role · Faction · Age as of Ch. N · Status) → **STATIC** (identity + design incl. Appearance; changes only by ruling) → **DYNAMIC** (current state as of the latest chapter; refresh at every close) → **FORWARD** (unsealed arc directions + banked material; sealed truths live in 00, pointers only). Register: to the point — no justification, no story beats, no session citations; chapter-by-chapter history lives in 07 §Chapter Records.
+Sheet structure (session 18 addendum): **Glance** line (Role · Faction · Age as of Ch. N · Status) → **STATIC** (identity + design incl. Appearance; changes only by ruling) → **DYNAMIC** (STANDING STATE — what this person now does, knows, wants, conceals and is carrying. Present tense, one line per fact. **No chapter stamps, no "Previously", no beats:** a beat is chapter history and lives in `../07-Story-Ledger/chapter-records.md`, never here. Test: *could a future chapter contradict this line?* If it is only *what happened*, it belongs in 07. Refresh is therefore 2–5 lines at a close, not a rewritten block) → **FORWARD** (unsealed arc directions + banked material; sealed truths live in 00, pointers only). Register: to the point — no justification, no story beats, no session citations; chapter-by-chapter history lives in 07 §Chapter Records.
 
 ---
 
