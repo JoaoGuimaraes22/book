@@ -1,4 +1,4 @@
-# Chapter Twenty-Five — The Third Bell
+# Chapter Twenty-Five — The Door
 
 The lamp was still burning when he came up the last of the hill.
 
@@ -88,7 +88,7 @@ Kael laughed — properly, once, out of the middle of him — and his father mad
 
 Kael looked. Two bundles, canvas, roped. He had walked past them coming in and had counted them and had not let the count arrive anywhere.
 
-"The books," said Neris. "The salt. The instruments. It has been ready since the second day of the games."
+"The books," said Neris. "The salt. The instruments. It has been ready since the morning the games opened."
 
 "And when it starts," Kael said, "the master comes."
 

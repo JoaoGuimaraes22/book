@@ -26,7 +26,7 @@ Every file has a CONTRACT (what it holds), an ADMISSION TEST, and a named EVICTI
 1. VERIFY: run `scripts/verify.sh` (git tree clean + `wc -w` vs the CANONICAL baselines in 05). Anything modified or untracked that no log entry explains = STOP and report before reading further.
 2. COLD READ, then flag anything that itches BEFORE any work — treat it as a free continuity audit. **The TIERED COLD READ is in effect:**
    - all bibles in full, every session, forever — they are the compressed truth and must stay fully loaded;
-   - the most recent 2–3 chapters in full, non-negotiable — the maturing-voice gradient is calibrated locally, chapter against neighbours; no summary carries cadence;
+   - the most recent 2 chapters in full, non-negotiable — the maturing-voice gradient is calibrated locally, chapter against neighbours; no summary carries cadence;
    - older chapters via `07-Story-Ledger/chapter-records.md`, plus targeted spot-reads of anything the session will touch (an echo, a protected phrasing, a scene being rhymed against). Skip a chapter's record when reading that chapter in full — the record substitutes for the chapter, it does not double it.
    - The archive is history, not part of the cold read — spot-read it only when a session record is needed. This is safe because continuity lives in the established facts, protected phrasings and clue ledger, never in rereading the manuscript.
 3. Confirm the target from the NEXT TARGET block in 05. Never improvise a target unless asked to.

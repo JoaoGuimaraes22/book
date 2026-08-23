@@ -479,7 +479,7 @@ Two classes are admitted that are not "good lines", and both are explicitly mark
 - "I am extremely aware of what my name does" — Elarine's *extremely* (Ch. 20), her intensifier, register echo only
 - "I am here for the year… I will win it." (Ch. 14) — NOT re-minted; carried by the year being up
 
-**Ch. 25 — The Third Bell** *(OPENING MOVEMENT ONLY — provisional; re-verify every entry against the page at the chapter's true commit)*
+**Ch. 25 — The Door** *(title was The Third Bell until the bout split out to Ch. 26 at the session-30 close; every entry below re-verified against the committed page)*
 - "That is enough of that for tonight." — RULE-CARRYING (Neris stops at three questions, and the stopping is the beat)
 - "There is always more. It will be there in the morning."
 - "He beat a house today." *(the second half of that exchange is deliberately not admitted — ordinary words, and incidental in Ch. 15 as well; the beat is chapter-records'. Left unquoted here so the parser skips it.)*
@@ -493,3 +493,32 @@ Two classes are admitted that are not "good lines", and both are explicitly mark
 - *Evening* (Ch. 7) — exchanged plainly and unweighted; the devastating reuse stays reserved
 - Neris in the doorway / both parents at the door (Ch. 2 / Ch. 15 / Ch. 21) — not re-minted; what returns is the position
 - "the way she listened to birds" (Ch. 10)
+
+**Ch. 26 — The Third Bell**
+- "Do not make me chase you."
+- "I am asking anyway." — protect absolutely
+- "It did not go out. It broke"
+- "He was spending his legs." / "She was spending herself." — protect absolutely
+- "the thinnest place he owned"
+- "It came apart on his hand the way the fan had come apart on the blade."
+- "All he had left was steel, and every hour he'd ever spent learning to swing it." — protect
+- "the face of a boy doing the only thing in the world he had never had to be taught to want" — protect absolutely
+- "It was the first language he ever learned." — protect absolutely
+- "He took the length away from her."
+- "They did not teach you that." — Severin · protect absolutely · RULE-CARRYING (he sources nothing, ever; never let a later chapter explain how he knows)
+- "I have been wrong about people for longer than you have been alive, and I have been wrong in both directions" — protect absolutely · RULE-CARRYING (the valve — never resolve which people, or in which direction)
+- "You watch it. The way you watch everything else, which you do better than any child I have ever put in that yard." — protect
+- "But if I had won it. Perhaps I could have proved to myself that I was still able to write my own destiny." — Elarine · protect absolutely · RULE-CARRYING (ratified s30: the prize goes to the HOUSE, and her claim is about standing INSIDE it — never restate it as the prize freeing her outright)
+- "It will be the match you really wanted." — RULE-CARRYING (author ruling s30: **the collision is announced here**, superseding s28's unannounced rule)
+- *NOT ADMITTED per the admission test — ordinary words at important moments, so the beats are `chapter-records`': "Go on, Ghost"; "Don't," said Elarine Sedrane; "She met him anyway"; "Two at once"; "You were not kind to me"; "All right," Kael said. And "the Ghost" itself is VOCABULARY and lives in 02/lexicon.*
+
+**Ch. 26 — deliberate echoes**
+- *Not with hands. Not enough.* — "not enough" (Ch. 6 / Ch. 14), the misfile engine, fired at the moment hands stop being sufficient
+- "a narrow cold" (Ch. 23) — the same sensation, now on his own road instead of in the arena
+- "because that was doctrine, and doctrine held that a Resonant kept one hand for the Art" (Ch. 23) — the identical silhouette, deliberately re-run, in the hands of the person who watched him break it
+- *Fire is not held. It is paid.* (Ch. 13, hers) — the chapter's key, recalled in his head and never re-explained
+- "fire eats what it is given" (Ch. 5 / Ch. 15) — the mother's voice arriving inside the fire
+- "the fingers came open because fingers do" (Ch. 23) — the same school taking the same wrist, second use
+- waiting to see whether she would get up (Ch. 23) — the question his father's school asks about anybody, asked a second time
+- the arm turned to the light with a thumb well below the cut — Ruthen (Ch. 23), Vask (Ch. 25), Severin (Ch. 26): three men, one trade, unremarked
+- a *because* standing under theirs (Ch. 17) — the hole at its widest, and he wins anyway
