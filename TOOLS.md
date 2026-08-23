@@ -5,7 +5,7 @@
 - `check-echoes.sh [files]` — protected-phrasing scan against 07's list. With a draft: every protected phrase it contains (each must be deliberate). Without args: phrases appearing in >1 chapter across the manuscript. Detects only; judgment stays human.
 - `check-quotes.sh [minwords]` — **phantom audit.** Checks every double-quoted span in 02/03/04/05/07 against the committed manuscript and reports what is not on any page. Tolerates one interruption per span, so split quotations (`"…," his father said. "…"`) do not false-positive. A hit is either a PHANTOM or text that should be unquoted per the CLAUDE.md hard rule. Detects only; confirm with `git log -S '<text>' -- manuscript/` before calling it a phantom, because a line may have been cut from a chapter that once carried it.
 - `build-manuscript.sh [epub]` — concatenates chapters into `build/Book-One.md` (+ EPUB via pandoc) for read-through passes. `build/` is derived, gitignored.
-- `sync-reader-notebook.sh` — pushes changed chapters to the reader-copy notebook (below).
+- `sync-reader-notebook.sh` — pushes changed chapters to the reader-copy notebook (below). **It ADDS and UPDATES; it never REMOVES (found s30).** Renaming or deleting a chapter file leaves an orphaned source behind, and two sources holding the same scene silently corrupt every later probe. After any `git mv` in `manuscript/`, run `nlm source list <notebook-id>` and delete the orphan with `nlm source delete <source-id> --confirm`.
 - `probe-reader.sh <label>` — standard reader-probe battery (knowledge / expectation / confusion), saved to `archive/probes/<label>.md` so probes stay comparable chapter over chapter. Run after commit + sync.
 
 ## NotebookLM CLI (`nlm`)
