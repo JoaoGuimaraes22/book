@@ -22,7 +22,7 @@ In the line, Kael did his own arithmetic, because a piece was standing in the ya
 
 Then the yard-master straightened his back, and proceeded.
 
-"In two years, three for some of you, your art will come in, and you will want to spend it the way you wanted to shove that stone. So before I let any of you spend a grain, you will learn what spending is." He walked the line slowly while he said the rest, even, unhurried, a thing worn smooth by being true. The art was spending. Every Resonant carried a purse of it, and no eye could see into the purse. Spending was effort. Deep spending was pain. And spending near the bottom — the well-rope's creak came into the quiet — the body wrote down forever: the hair went white, from that day, in the measure of how deep the spending had gone, and it never went dark again. The body kept the receipt. And past the bottom there was no pain and no receipt and no Resonant, because past the bottom was death, every time, however large the purse or beloved the house.
+"In two years, three for some of you, your art will come in, and you will want to spend it the way you wanted to shove that stone. So before I let any of you spend a grain, you will learn what spending is." He walked the line slowly while he said the rest, even, unhurried, a thing worn smooth by being true. The Art was spending. Every Resonant carried a purse of it, and no eye could see into the purse. Spending was effort. Deep spending was pain. And spending near the bottom — the well-rope's creak came into the quiet — the body wrote down forever: the hair went white, from that day, in the measure of how deep the spending had gone, and it never went dark again. The body kept the receipt. And past the bottom there was no pain and no receipt and no Resonant, because past the bottom was death, every time, however large the purse or beloved the house.
 
 Nobody looked at the seam of white. Forty children stood in the cold and did not look at it so hard that the not-looking was a thing they did together, one animal, and Kael stood in the middle of them not looking with everyone else, and understood that this too had been taught, without one word spent on it.
 
@@ -30,9 +30,9 @@ Nobody looked at the seam of white. Forty children stood in the cold and did not
 
 The first resonances came at the turn toward spring, when the yard-master judged they knew what a purse was.
 
-They were given candles. The whole apparatus of the empire's art, that morning: a bench of tallow candles in the lee of the south wall, one child before each, and the instruction, which was to reach for the flame the way you reached for warmth through cloth, and push.
+They were given candles. The whole apparatus of the empire's Art, that morning: a bench of tallow candles in the lee of the south wall, one child before each, and the instruction, which was to reach for the flame the way you reached for warmth through cloth, and push.
 
-"Your art is in you already, leaning," the yard-master said. "It settles when you are grown — twelve, fourteen, when it settles it settles — but it leans from the start, and the strong lean hard. Today you spend one grain, so your body learns the door." And then, flatly, a wall being pointed at: "The art runs in the blood, and the blood runs in the houses. That is why the Temple takes who it takes." His eyes went down the bench and passed over Kael neither faster nor slower than over anyone, and the bench understood the exception without a word.
+"Your art is in you already, leaning," the yard-master said. "It settles when you are grown — twelve, fourteen, when it settles it settles — but it leans from the start, and the strong lean hard. Today you spend one grain, so your body learns the door." And then, flatly, a wall being pointed at: "The Art runs in the blood, and the blood runs in the houses. That is why the Temple takes who it takes." His eyes went down the bench and passed over Kael neither faster nor slower than over anyone, and the bench understood the exception without a word.
 
 The candles began.
 
@@ -48,7 +48,7 @@ Kael's turn had come and gone before that, third from the end. He reached the wa
 
 The flame did not move. Something happened — he would have sworn it and could not have said what: a prickle across the back of his hand, a taste in the air for half a breath, gone before it was anything — and the flame stood there, and that was all. The child beside him had already looked away. Behind him someone said, not quietly, "What did the mountain expect," and someone else said: "Somebody's blood in that line somewhere. Someone's bastard, then." A short crop of laughter, many throats. His breath found the long shape on its own; none of it showed.
 
-The filing took longer than usual that evening, because two entries would not sit still. The doctrine said the art ran in the blood and the blood ran in the houses. And up the mountain sat a woman born in no house any book of the Temple's had ever heard of, who had been teaching him to feel where a fire carried since before this yard had seen his face. The two facts stood in him side by side and did not touch, and he did not put them together. He put them behind the shut door, and did not stand near it long.
+The filing took longer than usual that evening, because two entries would not sit still. The doctrine said the Art ran in the blood and the blood ran in the houses. And up the mountain sat a woman born in no house any book of the Temple's had ever heard of, who had been teaching him to feel where a fire carried since before this yard had seen his face. The two facts stood in him side by side and did not touch, and he did not put them together. He put them behind the shut door, and did not stand near it long.
 
 ---
 
@@ -102,7 +102,7 @@ The room turned. He was under the stone now, so he kept going, at his own pace. 
 
 Silence, one breath of it, with a temperature he was coming to know.
 
-"The mist has never heard of them," Priscian said, slowly, not to Kael, not to the benches. Then he gathered himself, said, "The elements of the art are the elements of the art; we will come to the mixed resonances at the proper time," which answered nothing, and knew it, and let the benches go with the flies.
+"The mist has never heard of them," Priscian said, slowly, not to Kael, not to the benches. Then he gathered himself, said, "The elements of the Art are the elements of the Art; we will come to the mixed resonances at the proper time," which answered nothing, and knew it, and let the benches go with the flies.
 
 Elarine Sedrane had not moved through any of it. What Kael carried out was her stillness, which had changed when he asked, and then changed further, going in, the way his own went in when a pattern would not sit. She was not looking at him. She was looking at the fence-diagram on the great slate the way you look at a knot, and her face gave out nothing it had not priced, and the pricing was still running when the room emptied.
 

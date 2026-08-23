@@ -59,7 +59,7 @@ It asked properly, with the weather's permission and the masters' arrangement: a
 
 Valeria Vel went to the racks and took two wasters, one for each hand.
 
-The yard made its sound. The off hand was for the art — every child in the lines had been taught the stance, the open empty hand at the shoulder, the boast the empire fought with. Both her hands were full. It read as ignorance, or as insult, and nothing else about her read as either, so the yard did not know what to do with its own sound, and swallowed it.
+The yard made its sound. The off hand was for the Art — every child in the lines had been taught the stance, the open empty hand at the shoulder, the boast the empire fought with. Both her hands were full. It read as ignorance, or as insult, and nothing else about her read as either, so the yard did not know what to do with its own sound, and swallowed it.
 
 Ruthen called the first pair.
 
@@ -115,7 +115,7 @@ It was not one thing. It was the sum: reach answered, lanes closed, the twin bla
 
 There was no moment when he chose.
 
-The thread was in the waster before he knew he had spent it, the smallest thing the art could make, a stitch of white down its length — a year of burns, three hundred and some receipts, the one skill on the island nobody had seen — and her parry came exact as everything she did, priced to the wood, and the wood ended where the wood ended.
+The thread was in the waster before he knew he had spent it, the smallest thing the Art could make, a stitch of white down its length — a year of burns, three hundred and some receipts, the one skill on the island nobody had seen — and her parry came exact as everything she did, priced to the wood, and the wood ended where the wood ended.
 
 The edge did not.
 
@@ -127,7 +127,7 @@ The yard's sound died in its throat. On the steps of the colonnade the First Mas
 
 And then the ground changed.
 
-Kael felt it through his boots before he understood a single thing about it — the flagstones taking her weight differently, a settling, like a wall sitting down onto its course — and nothing left her body. That was what his eye kept, all the way down: no fan, no thread, no reach of the art out into the world. Whatever she had spent, she had spent it inward. Down the line a voice said "*Earth*," half a whisper, and the hall's dozen stories collapsed into one.
+Kael felt it through his boots before he understood a single thing about it — the flagstones taking her weight differently, a settling, like a wall sitting down onto its course — and nothing left her body. That was what his eye kept, all the way down: no fan, no thread, no reach of the Art out into the world. Whatever she had spent, she had spent it inward. Down the line a voice said "*Earth*," half a whisper, and the hall's dozen stories collapsed into one.
 
 Then she moved, and the world got faster.
 

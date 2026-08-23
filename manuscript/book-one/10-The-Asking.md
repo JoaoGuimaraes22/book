@@ -14,7 +14,7 @@ It was the one room below the split rock where the coat came off.
 
 He poured out the winter — the candle run her way at the bench, the trial that had worked, the questions stacking up behind it — and the master listened the way he had listened in the yard at nine, unhurried, putting answers away somewhere and questions on the table.
 
-"I asked Priscian whose the mist is — the water Resonant's or the air Resonant's," Kael said. "He said the elements of the art are the elements of the art."
+"I asked Priscian whose the mist is — the water Resonant's or the air Resonant's," Kael said. "He said the elements of the Art are the elements of the Art."
 
 "So they are. Who drew them?"
 
@@ -28,7 +28,7 @@ Kael took that the way he took tools. Then, because it was the question under al
 
 "Smaller than that," the master said, "I cannot show you indoors."
 
-The master was a great Resonant. The fact arrived the way the biggest facts arrived, having clearly been standing there for years: the head of a school of the art, and Kael had filed him with books and questions and honey, and the file had been true, and short.
+The master was a great Resonant. The fact arrived the way the biggest facts arrived, having clearly been standing there for years: the head of a school of the Art, and Kael had filed him with books and questions and honey, and the file had been true, and short.
 
 When Kael left, the master took a book down from the shelf's end and put it in his hands. Bound, plain, thick. Kael opened it: empty, every page.
 
@@ -38,7 +38,7 @@ That night the book took its first pages: the candle at the bench, written in hi
 
 The mist was the first thing the book hunted.
 
-The kettle made mist every morning of his life: fire under water, and the water climbing out of itself into the air. No art in it at all. So mist could be made without the art — and the question of that spring was whether he could make it with the art, and what one road knew about the other.
+The kettle made mist every morning of his life: fire under water, and the water climbing out of itself into the air. No Art in it at all. So mist could be made without the Art — and the question of that spring was whether he could make it with the Art, and what one road knew about the other.
 
 He tried resonance first, because it looked like the shorter road: a bowl of cold water, a thread spent into it, and wanting mist. Nothing came. Evenings of nothing. He took the failure to the lamp, because failures went to the lamp too.
 
@@ -62,7 +62,7 @@ He tried resonance first, because it looked like the shorter road: a bowl of col
 
 "Then you know what to try," she said, and went back to the mending, and it was as if nothing had happened on her side of the lamp, and everything had happened on his.
 
-The next evening he cupped water in his palm and spent a thread of fire into it, at the top, the way the kettle would have — and a ghost of mist stood off his hand, one breath's worth, and was gone. He sat looking at his own palm. Then he wrote it in the book, and the writing shook a little: *the art does what you understand.* He had not been able to make mist until he knew how the world made it without him. Two roads, one mist — and the second road had only opened because he had walked the first. He thought of the yard, pushing at its candles. Then he thought of the fences: a thread of fire, spent into water, and the air over his palm gone white. Whose was that?
+The next evening he cupped water in his palm and spent a thread of fire into it, at the top, the way the kettle would have — and a ghost of mist stood off his hand, one breath's worth, and was gone. He sat looking at his own palm. Then he wrote it in the book, and the writing shook a little: *the Art does what you understand.* He had not been able to make mist until he knew how the world made it without him. Two roads, one mist — and the second road had only opened because he had walked the first. He thought of the yard, pushing at its candles. Then he thought of the fences: a thread of fire, spent into water, and the air over his palm gone white. Whose was that?
 
 Only one thing ever answered before the resonance was fully made. The dry-wool spark — the little winter crackle that lived in blankets and cold air — came when he called it. Quick, glad. Everything else in the world had to be leaned into answering; the spark arrived like it was waiting for its name to be said. He did not know what to do with that, so he did what he did with everything that had no shelf. He kept it.
 
@@ -72,7 +72,7 @@ That spring his curiosity turned to the garden. What made one bean plant stand t
 
 The last question had an answer a boy could dig for: the midden plants got what the midden leaked. So he made the difference himself — a feeding, mixed out of her own schools turned around: ash, because ash was the wood minus what the fire had eaten, and the soil could eat what the fire could not; bone from the butchering, ground small; the fish-water nobody wanted.
 
-Then he made it a trial. One hand of seed, mixed blind, split three ways; three rows in the same bed: one fed, one plain, one threaded — a thread of nature, spent in passing every evening, the way you greet a neighbor. The world's road, the bare ground, and the art's.
+Then he made it a trial. One hand of seed, mixed blind, split three ways; three rows in the same bed: one fed, one plain, one threaded — a thread of nature, spent in passing every evening, the way you greet a neighbor. The world's road, the bare ground, and the Art's.
 
 And the rows had to drink alike, all season, or the trial was no trial — which was half of why the waterer got built.
 
@@ -88,7 +88,7 @@ His father nodded, one nod, the size of every other nod, and went back up to the
 
 His mother had watched from the doorway. When he came up to the house she was still there, one hand on the frame, and she looked at him a moment longer than the doorway needed, and what was in her face was pride, whole, and under the pride, folding itself away as he came near, the way the blade went away in the mornings, something else. That night the two voices under the loft went on longer than his day could account for, low and even, past the edge of his sleep.
 
-The rows came in at summer's end, and the book took the answer. The fed row stood biggest, half again its neighbors. The threaded row had woken earliest — up days ahead, leaning to its light — and ended no bigger than the plain. He sat with the columns a long time, because there was more in them than growing. The thread could be replaced by dung, and dung was free. The art and the world could do one another's work — and for a boy with a small purse, knowing which road was cheaper was worth more than either road.
+The rows came in at summer's end, and the book took the answer. The fed row stood biggest, half again its neighbors. The threaded row had woken earliest — up days ahead, leaning to its light — and ended no bigger than the plain. He sat with the columns a long time, because there was more in them than growing. The thread could be replaced by dung, and dung was free. The Art and the world could do one another's work — and for a boy with a small purse, knowing which road was cheaper was worth more than either road.
 
 His mother walked the bed with him when the count was done.
 
@@ -124,7 +124,7 @@ Then she looked up. "Do not carry the word down the mountain."
 
 He waited.
 
-"The Temple teaches the art. To the empire's houses, knowing built by trial is a servant's knowing — a thing for smiths, and hedge-doctors, and men who mend milldams. A Resonant stands above it. A scientist" — she said the word the way the village said charity case — "stands beneath one. In Priscian's room you may say natural philosophy. In the yard, say nothing."
+"The Temple teaches the Art. To the empire's houses, knowing built by trial is a servant's knowing — a thing for smiths, and hedge-doctors, and men who mend milldams. A Resonant stands above it. A scientist" — she said the word the way the village said charity case — "stands beneath one. In Priscian's room you may say natural philosophy. In the yard, say nothing."
 
 "But their natural philosophy is—"
 
@@ -138,7 +138,7 @@ At the summer's turn he carried the book down the mountain, because the one room
 
 "The hand only worked after the kettle. I couldn't do it until I knew what the kettle did."
 
-"Say that again," the master said. "Slowly." And Kael said it again, slowly, and the master sat looking at him the way he had looked at him in the yard at nine, and what was in the look was not put away anywhere this time. "Hold on to that," he said at last, "the way you hold the not-knowing. Most men of the art go into the ground without it."
+"Say that again," the master said. "Slowly." And Kael said it again, slowly, and the master sat looking at him the way he had looked at him in the yard at nine, and what was in the look was not put away anywhere this time. "Hold on to that," he said at last, "the way you hold the not-knowing. Most men of the Art go into the ground without it."
 
 At the rows he stopped again, longer. "The threaded row woke early. Who taught you the thread?"
 

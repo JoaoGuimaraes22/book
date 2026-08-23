@@ -346,7 +346,7 @@ Kael looked over at his father, because his father had a face for everything and
 
 He had seen it once, two years ago, in the study: a dead fern standing itself back up out of its pot while the old man sat across the room with his hands in his lap. He had never once put that beside anything else.
 
-"Nature is the art of mending," his mother said. "Most of what a healer does badly with a hot iron and a needle, a skilled artist does properly." She sat down on the bench by the door, which was not where she sat. "And the art on its own is not worth very much. A man who can push a bone toward mending and does not know which way the bone goes will push it the wrong way, and there are a great many more of those about than anyone will admit to you. You want both halves in the one head. He has read medicine for as long as I have been alive and he works nature, and there is nobody else on this island who is both."
+"Nature is the Art of mending," his mother said. "Most of what a healer does badly with a hot iron and a needle, a skilled artist does properly." She sat down on the bench by the door, which was not where she sat. "And the Art on its own is not worth very much. A man who can push a bone toward mending and does not know which way the bone goes will push it the wrong way, and there are a great many more of those about than anyone will admit to you. You want both halves in the one head. He has read medicine for as long as I have been alive and he works nature, and there is nobody else on this island who is both."
 
 Kael sat with that.
 

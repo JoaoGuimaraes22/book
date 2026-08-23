@@ -260,7 +260,7 @@ There was a silence in the cistern court of a particular kind.
 
 "I am only checking. You have a face for when you have been insulted and it is not on."
 
-"It is not an insult," Aurelian said slowly, still looking at Kael. "It is the first useful thing anyone has said to me about the art in four years." He turned his hand over and looked at it as if it had been lent to him. "Go on, then. What is this *blink*."
+"It is not an insult," Aurelian said slowly, still looking at Kael. "It is the first useful thing anyone has said to me about the Art in four years." He turned his hand over and looked at it as if it had been lent to him. "Go on, then. What is this *blink*."
 
 That was the trade, all summer. Kael got a magnifying glass. Aurelian got the why.
 

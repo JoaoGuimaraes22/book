@@ -134,7 +134,7 @@ It took him seven weeks.
 
 He had been carrying the question since the first evening he had gone up the headland and watched grey coats put numbers on a girl, and it had lain in the blank book for most of a year under a heading with nothing under it: *what she does with it after it goes in.*
 
-The trouble was that everything he knew about the art was about getting something out. A thread went from him into a waster, into a floor, into the wet air in front of a boy's face. Hers did not go anywhere. She spent, and the spending stayed, and a flagstone came apart under her foot while nothing whatever had crossed the space between her and the stone.
+The trouble was that everything he knew about the Art was about getting something out. A thread went from him into a waster, into a floor, into the wet air in front of a boy's face. Hers did not go anywhere. She spent, and the spending stayed, and a flagstone came apart under her foot while nothing whatever had crossed the space between her and the stone.
 
 He could not do what she did. He had worked that out in the first fortnight and it had not been a disappointment, because it was arithmetic. To do what she did you flooded a limb, and to flood a limb you needed a limb's worth, and everything he had ever had would not fill a cup.
 

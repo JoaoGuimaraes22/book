@@ -104,7 +104,7 @@ Two classes are admitted that are not "good lines", and both are explicitly mark
 - "The body kept the receipt"
 - "this too had been taught, without one word spent on it"
 - "when it settles it settles"
-- "The art runs in the blood, and the blood runs in the houses"
+- "The Art runs in the blood, and the blood runs in the houses"
 - "Somebody's blood in that line somewhere. Someone's bastard, then."
 - "What did the mountain expect"
 - "a nail among rings"
@@ -129,7 +129,7 @@ Two classes are admitted that are not "good lines", and both are explicitly mark
 - "six backs, one voice — that was a purse too" (Ch. 9).
 
 **Ch. 10 — The Asking**
-- "the art does what you understand"
+- "the Art does what you understand"
 - "A fence tells you what a man owns, boy. It has never yet told you what the ground is."
 - "Full books answer. Empty ones ask."
 - "Mind the company you keep it in."
@@ -179,7 +179,7 @@ Two classes are admitted that are not "good lines", and both are explicitly mark
 **Ch. 13 — The Coat**
 - "I can be wrong by a finger's width. The purse forgives me. Nothing forgives you. So you will be exact instead."
 - "exactly enough to pay, and pay, and pay"
-- "the art writing its own receipts"
+- "the Art writing its own receipts"
 - "the shape of accidents and the timing of appointments"
 - "there are men who show roads. I am one of them."
 - "the way a lamp burns the same for anyone who walks past it"
@@ -226,7 +226,7 @@ Two classes are admitted that are not "good lines", and both are explicitly mark
 - "Not once. Not by accident, either, because his father did not do things by accident."
 - "his father was never once hurried"
 - "I can't see my own mistakes because they're the size of a hair. Yours are the size of a house."
-- "It is the first useful thing anyone has said to me about the art in four years."
+- "It is the first useful thing anyone has said to me about the Art in four years."
 - "That is not a reason. That is the shape a reason goes in."
 - "the sound of her having spent correctly"
 - "*Nobody stands beside her.*" — protect absolutely
