@@ -1,5 +1,5 @@
 ## VALERIA VEL
-**Glance:** rival → first friend; the Witness · Line of Vel (eleven generations; they serve the royal lineage wherever it goes, and **the strongest Vel alive stands over the KING or QUEEN** — the apex, and what being the best of the Line means; a different kind from the ordinary royal guard, not a higher grade; tiers in 02/factions) · 13 (Kael's age), as of Ch. 24 · **the year is up: she is sent somewhere after the games, and she has said out loud that she will miss them.**
+**Glance:** rival → first friend; the Witness · Line of Vel (eleven generations; they serve the royal lineage wherever it goes, and **the strongest Vel alive stands over the KING or QUEEN** — the apex, and what being the best of the Line means; a different kind from the ordinary royal guard, not a higher grade; tiers in 02/factions) · 13 (Kael's age), as of Ch. 26 · **the year is up: she is sent somewhere after the games, and she has said out loud that she will miss them** · **in the semifinal, against Kael.**
 
 ### STATIC
 - **Role:** Daughter of the Line of Vel. Kael's rival, then first friend. The Witness — she alone will know the truth of him at the end (00).

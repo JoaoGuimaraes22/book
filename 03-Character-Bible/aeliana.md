@@ -1,5 +1,5 @@
 ## AELIANA CASSIVARA VESSANTINE (the princess)
-**Glance:** royal princess; the raid's prime target · House Vessantine (the ruling dynasty; the empire is the Vessantine Empire) · **14 — one year above Kael and Valeria**, as of Ch. 24 · **the audience is SPENT and she ended it angry** · on-page from the opening day.
+**Glance:** royal princess; the raid's prime target · House Vessantine (the ruling dynasty; the empire is the Vessantine Empire) · **14 — one year above Kael and Valeria**, as of Ch. 26 · **the audience is SPENT and she ended it angry** · on-page from the opening day.
 
 ### STATIC
 - **Name:** Aeliana Cassivara Vessantine; "Cassivara" is an honor-name in the formal chain.
@@ -9,10 +9,8 @@
 
 ### DYNAMIC
 - **ON-PAGE from the opening day of the games (Ch. 22).** Arrives by water so the whole arena watches her arrive; announced by the full ceremonial chain; received at the rail by the First Master, who bows his grey head to her. **Twelve royal guard in dark grey attend her, arranged across the distances rather than in front of her — none of them Vel.**
-- **SHE CAME FORWARD IN HER CHAIR (Ch. 26).** Forward during the bout with one hand flat on the rail; the woman behind her said something and she did not answer it and did not sit back. Observables only — the girl who found *nothing to him* at conversational range is watching the thing move. **Her naming device is STILL NOT SPENT.**
+- **SHE CAME FORWARD IN HER CHAIR (Ch. 26).** Forward during the bout with one hand flat on the rail; the woman behind her said something and she did not answer it and did not sit back. Observables only — the girl who found *nothing to him* at conversational range is watching the thing move.
 - **THE AUDIENCE, SPENT (Ch. 24).** She sent for him **to look at a thing up close** — *"eleven thousand people looked at one thing this morning and I wished to see it closer than they did. That is all it was."* — and the thing was not visible: *"There is nothing to him,"* said to her woman, in the third person, with Kael turned toward the lamp on command. *"It is very annoying."* **ARROGANT, PRIDEFUL, NOT EVIL (author ruling, s29):** hers is the arrogance of someone who has never once been contradicted and does not know that is a condition — which is why every branch of her arc (00) survives the scene intact. **KAEL HAS NONE OF THE ROYAL REFLEX**, and it is ABSENCE, not defiance; he corrects her about Drusane in front of her household, and then asks what happens to the food on her table and where the ice came from. She has no idea where the food goes and cannot see why she would. **SHE ENDS ANGRY** — cold, and fourteen — because she came to look at a thing and was looked at instead: *"instead of being looked at you have stood in my rooms and counted my dinner."* Then **"Kneel. Say your farewells. And leave afterwards,"** and he kneels and has no farewell. **Her naming device is STILL NOT SPENT** — full ceremonial chain or "the princess"; *Aeliana*, *Liana* and *Ana* all reserved. Her appearance block was not respent: here she arrives through the ROOM and through Kael's instruments failing at conversational range.
-
-**SHE KNOWS HE EXISTS NOW (Ch. 23).** She stopped talking to the woman on her left somewhere around the third column of his first bout and did not start again, and her hands went still in her lap. Afterwards she **sent for him** — a royal guard in the corridor, flat, giving the words exactly as they were given to him: *at the third hour after the closing bout, alone, you will be brought.* Not asked. Not invited. **The audience itself is unwritten. Her naming device is NOT spent** — the full chain or "the princess" only; "Aeliana," "Liana" and "Ana" all still reserved.
 
 ### FORWARD
 - **Arc:** long arc undecided (00).

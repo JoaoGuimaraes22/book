@@ -9,8 +9,8 @@
 ---
 
 ## LAW CORE — read in full every session
-- [timeline.md](timeline.md) — Planned part/age structure and every age pinned on the page. (814w)
-- [standing-rules.md](standing-rules.md) — Author-ratified rules that govern how the prose is written. (947w)
+- [timeline.md](timeline.md) — Planned part/age structure and every age pinned on the page. (965w)
+- [standing-rules.md](standing-rules.md) — Author-ratified rules that govern how the prose is written. (1,191w)
 - [planted-clues.md](planted-clues.md) — The clue ledger: what was planted, where, and what it is owed. (13,410w)
 - [magic-snapshot.md](magic-snapshot.md) — Canon snapshot; deep layer in 00, public layer in 02. (275w)
 - [open-threads.md](open-threads.md) — End-of-Book-One state of the live threads. (56w)
