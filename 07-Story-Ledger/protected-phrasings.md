@@ -336,7 +336,7 @@ Two classes are admitted that are not "good lines", and both are explicitly mark
 **Ch. 20 — The Word**
 - "a cooper on a Tuesday is not evidence about a cooper on a Wednesday"
 - "pricing nothing nine times takes exactly as long as pricing something"
-- "He had turned everything up... What he could not work out was how you turned it back down." — protect
+- "He had turned everything up... was how you turned it back down" — protect *(s29: the middle of the page line is "What he could not work out, going in under the arch with his boots wet, was how you turned it back down"; quoted here in ellipsis form so the parser matches the page)*
 - "A thing that is done badly has a place you can put your hand."
 - "I have been looking for four days for the crooked part and there is no crooked part." — protect absolutely
 - "You are my friend. It is not a complicated word." — Elarine · protect absolutely · Kael never says it back

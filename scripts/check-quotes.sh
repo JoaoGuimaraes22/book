@@ -34,7 +34,7 @@ def present(n, gap=7):
     if n in man:
         return True
     w = n.split()
-    for i in range(2, len(w) - 1):
+    for i in range(1, len(w)):
         a, b = " ".join(w[:i]), " ".join(w[i:])
         if len(b.split()) < 2:
             break
@@ -51,6 +51,10 @@ miss = collections.defaultdict(set)
 total = 0
 for f in FILES:
     for q in re.findall(r'"([^"\n]{3,400})"', open(f).read()):
+        # naive quote pairing can capture the span BETWEEN a closing quote and the
+        # next opening one; a real quotation never starts or ends with whitespace.
+        if q != q.strip():
+            continue
         for frag in re.split(r"[.?!;]|…|\.\.\.|\s/\s", q):
             n = norm(frag)
             if len(n.split()) < MINW:

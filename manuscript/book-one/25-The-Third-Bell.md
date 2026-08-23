@@ -116,7 +116,7 @@ His father checked the arm. He did it the way Ruthen had done it and a good deal
 
 "Yes."
 
-"She has been reading you twice a week for two years and she was writing yesterday while everyone else was shouting." His father let go of the arm. "So she has got everything you did to the Drusane boy, and she is not going to give you any of it. What has she not got?"
+"You've said she has been reading you twice a week for two years and she was writing yesterday while everyone else was shouting." His father let go of the arm. "So she has got everything you did to the Drusane boy, and she is not going to give you any of it. What has she not got?"
 
 Kael stood on the step in the cold with the mountain going grey behind the house and found that he had the answer and had had it since the cistern.
 

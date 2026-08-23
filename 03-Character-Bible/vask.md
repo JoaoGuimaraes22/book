@@ -3,7 +3,7 @@
 
 ### STATIC
 - **Name:** Chosen, not given (00). One closed syllable, a tool being set down; worn the way soldiers' names get worn.
-- **Role:** Ex-instrument — a soldier the program forged. His past is brutal but ultimately knowable: he becomes MEMORY as Neris becomes MYSTERY. Teaches Kael the body: weapons, unarmed work, footing, breath, the stillness game, terrain, men. Father by total choice, not blood (00 — protect: "dies buying time for both his sons" carries the truth in both).
+- **Role:** Ex-instrument — a soldier the program forged. His past is brutal but ultimately knowable: he becomes MEMORY as Neris becomes MYSTERY. Teaches Kael the body: weapons, unarmed work, footing, breath, the stillness game, terrain, men. Father by total choice, not blood (00 — protect: *dies buying time for both his sons* carries the truth in both).
 - **Wound/Shame:** What he did as an instrument; that he believed it was destroyed and stopped watching.
 - **Flaw:** Loves through preparation; teaches survival, not people. Not a perfect parent.
 - **Abilities:** LIGHTNING Resonant, forged soldier (00). Revealed to Kael at the declaration — "Mine as well." plus one palm-crack; he never claims blood inheritance in words (00 staging rule). RULE: the reader never sees him fight until the fire — then the most terrifying display of skill in Book One. At the settlement: total kill, doctrine not rage; he completed the untying (00).

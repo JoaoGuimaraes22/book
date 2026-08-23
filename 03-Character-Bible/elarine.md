@@ -8,7 +8,7 @@
 - **Flaw:** Pride in intellect as identity — the exact mirror of Aurelian's pride in blood.
 - **Limit:** The respect began private — she would not be SEEN learning from a charity case; unlike Oss, she pays the public cost when it matters (the pairing asked for; the joke sat through, spots of color high on her cheeks).
 - **Bound to fate (canon):** "I did not choose the Temple. My house chooses everything — the school, then the seat, then the man." She does not pretend the rope is a sash. The marriage-market reading of her excellence — never labeled romantic on the page.
-- **Register constraint (sealed):** COLLEGIAL — a working alliance of minds Kael likely never files as friendship; its naming, if it ever comes, is books away. Protects "the only friendship either has ever had" (Valeria, beat 13).
+- **Register constraint (sealed):** COLLEGIAL — a working alliance of minds Kael likely never files as friendship; its naming, if it ever comes, is books away. Protects *the only friendship either has ever had* (Valeria, beat 13).
 - **The coat-wire (open valve, 00):** the person most likely to breach the coat. She notices HOW he thinks, never WHAT he already knew; whether she someday notices the gap and files it silently — door left cracked, do not resolve.
 - **Abilities:** FIRE, large capacity + total control — "a treasury with discipline"; hand-borne fans; her exactness is discipline over a deep purse, not smallness.
 - **Appearance:** Ink-dark hair bound severely; pale, economical — nothing on her that doesn't work; small; dark eyes that price before they blink. Forgettable at a glance and unforgettable the third time you notice she hasn't moved. What others react to: they mostly don't — which she has noticed, and wears as neatness.
