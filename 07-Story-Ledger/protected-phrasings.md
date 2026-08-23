@@ -415,3 +415,31 @@ Two classes are admitted that are not "good lines", and both are explicitly mark
 - "Then I am done carrying you"
 - the blank column — do not respend
 - "Four years ago, when I thought I understood what I was asking for"
+
+**Ch. 23 — The Ghost**
+- "The finding cost him nothing and was not free."
+- "A one-handed longsword is a magnificent object at four feet." / "At six inches it is a stick with the handle in the wrong place."
+- "around was exactly where the sword lived"
+- "They were a fence and a gate, and he had been running along the fence."
+- "the way you take a thing that is going to be in your hand whether it agrees or not"
+- "his father's school did not put men on the ground and leave them there" — protect absolutely · RULE-CARRYING (it is what the school IS)
+- "the face of somebody watching an expense" — protect absolutely
+- "it did not knock Lucan Drusane down so much as switch him off"
+- "he left himself somewhere between one instant and the next, and what arrived on the sand was the rest of him, loose, with no argument anywhere in it"
+- "the only question his father's school had ever asked about anybody" — RULE-CARRYING
+- "the noise came off the building the way water comes off a roof when the rain stops"
+- "He had been smiling for some while." — Halden · RULE-CARRYING · never resolve why
+- "It was not a cheer for a house. Nobody up there had a house."
+- "Half of that arena had watched a fight. The other half had watched an argument, and had lost it." — protect absolutely
+- "He was thirteen, and he was bleeding, and he had never in his life been so happy." — protect absolutely · never soften, never let the narration disapprove for him
+- "a kind of narrow cold"
+- "It had taken the world a winter and four minutes to come to the same conclusion and put a name on it."
+- "That was not anything I have a name for." — Ruthen
+- "there had never been the smallest question of it"
+- *NOT ADMITTED, deliberately, per the admission test — ordinary words at an important moment, so the beat is chapter-records': the hands that did not come up; he did not look at Kael, that was how Kael knew; the bout is decided. And "the Ghost" itself is VOCABULARY and lives in 02/lexicon.*
+
+**Ch. 23 — deliberate echoes**
+- "Everything heavy is lazy" — the only hit the script catches
+- "There's a form to it" — Lucan, Ch. 9, said to the same boy across the same kind of measure; the script cannot match it because Ch. 9 stores it inside a longer line
+- Ruthen's one-breath look, *from beside a well* (Ch. 9) — given a second time, and this time out loud
+- "Get loose" (Ch. 5 / Ch. 21) — carried by *Lucan tried to get loose*, never re-minted

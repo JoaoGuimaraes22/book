@@ -11,7 +11,8 @@
 ### DYNAMIC
 - **Now:** he has **ENTERED KAEL TO THE GAMES** under the houseless provision, sealed and lodged in the capital nine days before the standings closed — so he knew where the boy would fall before the boy did — and **confessed it to Kael's face**, warmly, never once cruel: explained the provision, priced his own gain openly, refused to undo it, said he would not if he could, **asked for nothing**, and pointedly did not ask who had forbidden the boy.
 - **State:** he reaches above the First Master and Severin cannot touch it. The dossier holds an untraceable technique on a sponsorless boy, witnessed. The lever is still the want. **The fuse is still unlit and the parents do not know he ever reached their son.**
-- **Open (do not resolve):** his face spent nothing at the flash — because he has seen the thing before, or because he was expecting it.
+- **HE WATCHED THE FIRST BOUT FROM THE JUDGES' ENCLOSURE, AND HE WAS SMILING** — hands folded on the rail, *and he had been smiling for some while.* **Kael did not see it; the reader did.** The fuse is still unlit and the hidden contact is still concealed from the parents.
+- **Open (do not resolve):** his face spent nothing at the flash — because he has seen the thing before, or because he was expecting it. **Ch. 23 lays a third reading beside those two — a man watching an investment come in — and resolves none of them.**
 
 ### FORWARD
 - **Live threat:** the campaign's next moves; the fuse detonation owed; his interest may outlive his employer's (door cracked).

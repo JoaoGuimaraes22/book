@@ -1,5 +1,5 @@
 ## ELARINE SEDRANE (the watcher — pride that learns)
-**Glance:** the cohort's real mind; collegial ally · House Sedrane · ~13, as of Ch. 22 · cistern-court alliance standing; the fiction held over the flash.
+**Glance:** the cohort's real mind; collegial ally · House Sedrane · ~13, as of Ch. 23 · **she fights Kael in the round of 8, tomorrow at the third bell** · cistern-court alliance standing; the fiction held over the flash.
 
 ### STATIC
 - **Role:** Considers herself the cohort's real MIND (Aurelian its capacity, its name, its noise) — and she is right. With Aurelian: the two responses to being out-thought — his world breaks, hers gets bigger. Proof the golden children are not a monolith.
@@ -14,6 +14,7 @@
 - **Appearance:** Ink-dark hair bound severely; pale, economical — nothing on her that doesn't work; small; dark eyes that price before they blink. Forgettable at a glance and unforgettable the third time you notice she hasn't moved. What others react to: they mostly don't — which she has noticed, and wears as neatness.
 
 ### DYNAMIC
+- **In the Temple's Gold six — and drawn against Kael in the round of 8.** She sat through his first bout with a slate flat on her knees and a stylus in her hand and **wrote**, while four hundred children stood up around her and shouted. Ruthen noticed and told Kael so. **Her Ch. 20 promise now comes due:** *you will not be kind to me · I will know · I am extremely good at not forgiving things.* She wanted Valeria beaten by her at these games, and she is not going to get it, because she meets Kael first.
 - **In the Temple's Gold six.** Tracking the war as paperwork: two northwest-house boys called out of the field — Ledron on a boat in the night, Tavrian in the cold term — and **no letter to the First Master** for either, which she knows because she asked the clerk. She states it, refuses to draw the conclusion, and tells them not to say it in the hall.
 - **Now:** ~13. The cistern-court alliance is institutional — her fans for his reading, twice a week, Aurelian admitted on her conditions, and Valeria in it because Elarine said *bring her*. She wants Valeria beaten, by her, at the tournament, and wants Valeria to belong somewhere.
 - **The coat-wire, at its highest pressure yet and still unresolved:** she saw the flash and declined to ask (*"Of course it was"* — both letting it hold); supplied the principle Kael's earth-step counter is built on and never asked what it was for; heard *"It isn't for me"*, recognised the shape from the summer about the same girl, laid the two side by side, and **said nothing**; and at the list she read Kael instead of the sheet, then moved her eyes once, deliberately, from him to the second column and let him see her do it. She smells the wrongness around Halden that Kael will not examine — and has now taken the entry apart on her own account and found nothing crooked in it anywhere, which is what frightens her.

@@ -12,6 +12,7 @@
 - **Appearance:** Soft-built, round-faced, quick-eyed; expressive hands that talk when he does, which is always. Everything he wears slightly too new — cloth that hasn't learned him yet (the bought name as wardrobe). A face built for laughing that watches carefully between laughs.
 
 ### DYNAMIC
+- **Seen and not reached (Ch. 23):** three rows up in the north curve on the opening day, hands already going, saying something to whoever was next to him. Kael found him in about a second and a half and moved on, *and the finding cost him nothing and was not free.*
 - **Estranged, and the estrangement now has a length: one year.** Three tables away in the hall, not a word; two approaches ignored, the sea-wall register dead. His forge warning has been proved right and is quoted back inside Kael's head by a boy who cannot tell him so.
 - **The truth, off-page:** Corvane and Drusane pressured Vessaline, Vessaline pressured him, and he obliged — reluctant, hurting his only friend and himself.
 - **Handling:** his hurt is real — keep it real whenever he is on the page. The reader's protective-joke theory is productive ambiguity; do not correct it.
