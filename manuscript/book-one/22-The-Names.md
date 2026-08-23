@@ -99,7 +99,7 @@ Kael discovered, standing in the north curve with his heart already going, that 
 
 "Lucan, of the House Drusane, of the Temple of the Southern Isles."
 
-Lucan went out. He had been ready; he had been holding his helm under his arm for a quarter of an hour, and he walked out onto the sand with the posture a paid master had spent years putting into him, and it was, Kael thought, entirely good. There was nothing wrong with it anywhere. The Drusane seats found their voice, and some of the Temple's, and the noise went up and around and came back off the seaward curve.
+Lucan went out. He had been ready, and he walked out onto the sand with the posture a paid master had spent years putting into him, and it was, Kael thought, entirely good. There was nothing wrong with it anywhere. The Drusane seats found their voice, and some of the Temple's, and the noise went up and around and came back off the seaward curve.
 
 The herald looked at his board.
 
@@ -119,6 +119,6 @@ Kael walked out onto the sand.
 
 He was thirteen years old. He had wanted, since he was four, to be seen; had wanted, since he was ten, to be measured in front of people who could tell; had spent every hour of it being told what it costs to be looked at, by two people who had built him out of not being. He came out into the middle of a white floor with eleven thousand people over him and heard the first sound the world ever made about him, and the sound was a question, because they had just been told everything about the other boy and nothing whatever about him.
 
-Lucan Drusane was already at the measure, with his helm on and his face doing arithmetic.
+Lucan Drusane was already at the measure, his eyes locked onto Kael's.
 
 It had begun.
