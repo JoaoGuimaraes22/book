@@ -25,7 +25,7 @@
 10b. **The declaration + the bonds.** — SPENT: Ch. 11 "The Dish" (Kael = 11).
 11. **The training years.** — SPENT: Ch. 12 "The Telling" (Kael = 11) + Ch. 13 "The Coat" (Kael = 11→12; PART II CLOSES).
 
-## Part III — Valeria (Kael ~12 → 13) · the mirror — OPEN
+## Part III — Valeria (Kael ~12 → 13) · the mirror — COMPLETE (Ch. 14–22)
 12. **She arrives.** — SPENT: Ch. 14 "The Measure" (Kael = 12; the spring one year out; PART III OPENS). Chapter CUT AT THE YARD — the mountain fallout is unspent and owed to Ch. 15; the standing debts are itemised in 05 §NEXT TARGET.
 12b. **The fallout + the watching.** — SPENT: Ch. 15 "The Hours" (Kael = 12; the spring's steel → midsummer → the weeks of the watching). The Ch. 14 debts discharged on-page (the lamp, told by Kael himself); the mountain goes to steel; the rivalry's PRIVATE half opened — Kael surveils her training and misreads her aloneness as a defect in her school. Beat 13's losing seasons are NOT on the page and remain wholly unspent.
 13. **The rivalry.** — SPENT: Ch. 16 "The Terms" + Ch. 17 "The List" (Kael = 12; late summer → the autumn). The catch, the terms, the stealth ledger and his first win off her; then the losing seasons, the threading shown to her (spent on her, never handed over), and the court becoming four. Neither ever calls it friendship.
