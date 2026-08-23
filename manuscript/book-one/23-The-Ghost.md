@@ -2,7 +2,7 @@
 
 Forty feet of raked sand, and a boy at the other end of it with a sword.
 
-The draw had gone up on the colonnade at first light. Kael had read it once and had it. Sixteen names in eight pairs, the pairs folded into each other twice more, then a line where the last bout went. His half of the sheet ran Drusane, then whichever of the four in the quarter under it was still standing tomorrow.
+The draw had gone up on the colonnade at first light. Kael had read it once and had it. Sixteen names in eight pairs, the pairs folded into each other twice more, then a line where the last bout went. His half of the sheet ran Drusane, then whichever of the two in the pair under it was still standing tomorrow.
 
 Lucan Drusane came to the measure the way he had been taught to. The front foot down, the back foot turned out, the sword up into the guard a paid master had spent four years putting into his shoulder. The off-hand open, empty, out to the side, because that was doctrine, and doctrine held that a Resonant kept one hand for the Art.
 

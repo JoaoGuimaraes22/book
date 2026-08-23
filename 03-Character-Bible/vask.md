@@ -1,5 +1,5 @@
 ## VASK (the father)
-**Glance:** Kael's father; teacher of the body · ex-instrument of the program, hidden · age unpinned · alive, as of Ch. 21; the school now on LIVE EDGES; the extraction plan his mouth.
+**Glance:** Kael's father; teacher of the body · ex-instrument of the program, hidden · age unpinned · alive, as of Ch. 25; the school now on LIVE EDGES; the extraction plan his mouth.
 
 ### STATIC
 - **Name:** Chosen, not given (00). One closed syllable, a tool being set down; worn the way soldiers' names get worn.
@@ -11,6 +11,7 @@
 - **Appearance:** Broad through the shoulders and no further — an instrument's economy, not bulk; fills a doorway by carriage. Iron-dark hair greying at the temples; iron-dark eyes (both parents dark-eyed — Kael's grey is no one's). A face like used tools, weathered past its years. Scars on-page: the long seam, the through-wound pair, the tally-like forearm marks ("A bad employer"). Hands permanently half-curled, as if around something set down. Moves exactly as much as required.
 
 ### DYNAMIC
+- **HE WAS SITTING DOWN (Ch. 25).** In eleven years he has not once been sitting when his son came in. He says almost nothing all night, pours the mint, and answers his wife over the boy's head — *"He beat a house today." / "He did."* At the door in the morning, with both of them out on the step, he re-dresses the arm and asks the only tactical question of the whole night: **"She has been reading you twice a week for two years… What has she not got?"** Pride delivered entirely as behaviour; never once stated.
 - **Training is now lethal.** Live edges; he stops the stroke and says *Dead.* and converts it to the hilt, five and six times a morning, and the only mechanism preventing his son's death is his own decision. **He will not strike the throat** — a mark on a neck is a question at a Temple gate — and the arithmetic runs inside the killing stroke without showing.
 - **He teaches the threading's route** — shoulder, arm, hand, steel, fast and tight the whole way — and sends Kael back to bare hands to build it. His superiority over the boy is CONTROL as much as capacity; the purse only means his errors would be free, and he does not make them.
 - **Now:** the braid school running; the weapons school in STEEL and into the night. Teaching has become PROOFING — coming at the boy at speed, over and over, to find what breaks, nothing explained after — and the harshness is coat-aware: never a mark above the collar or below the wrist. He got one glimpse of what he is doing and did not change. He is never once hurried.

@@ -443,3 +443,53 @@ Two classes are admitted that are not "good lines", and both are explicitly mark
 - "There's a form to it" — Lucan, Ch. 9, said to the same boy across the same kind of measure; the script cannot match it because Ch. 9 stores it inside a longer line
 - Ruthen's one-breath look, *from beside a well* (Ch. 9) — given a second time, and this time out loud
 - "Get loose" (Ch. 5 / Ch. 21) — carried by *Lucan tried to get loose*, never re-minted
+
+**Ch. 24 — The Table**
+- "the description had not survived the object"
+- "gold beaten flat and nailed along the edge of a screen that was there to stand in front of nothing"
+- "Bread in a shape bread has no reason to be in."
+- "it was not information and he had nowhere to keep it"
+- "Scars are the only interesting thing about soldiers and they get them so late."
+- "a false statement had been made in front of him about a subject he knew" — RULE-CARRYING (this, and not courage, is why he argues)
+- "the finest steel in the southern isles is fine only against itself"
+- "a girl of fourteen finding a place in her own chest where a thing had gone in"
+- "the way you hear yourself on the second night of a fever"
+- "and a room is not a person" — protect absolutely · RULE-CARRYING (the what/why split at its widest)
+- "instead of being looked at you have stood in my rooms and counted my dinner" — protect absolutely
+- "Kneel. Say your farewells. And leave afterwards."
+- "as long as it takes a room full of people to understand that nothing is coming"
+- "moved about the floor like furniture, by a man being polite about it"
+- "being correct about it in advance does not do one single thing for you at the time" — protect
+- "It was simply the word his mouth had for her now"
+- "you have not shortened one syllable of me in your life" — protect
+- "That is the whole of it. That is my entire name."
+- "There was something happening in her face that Kael could see with total clarity and could not read at all." — protect absolutely · RULE-CARRYING (the crush stays unlabelled; both directions stay live)
+- "It arrived when people laughed. It arrived worst when they laughed together. It had never once been wrong about anything, and never once been right." — protect absolutely
+- "Kael did not say very much, and was not asked to, and that was the part he had no word for at all." — protect absolutely
+- "It is grey and it is very large and there is nothing to eat that is any good."
+- "He had seen her satisfied. He had seen her bored. He had seen her decide not to hit somebody. He had never once seen this." — protect absolutely
+- "Do not lose to Sedrane. I want you." — protect
+- *NOT ADMITTED per the admission test — ordinary words at important moments, so the beats are `chapter-records`': "There is nothing to him"; "It is very annoying"; "I don't know what it's for yet"; "I said that twice"; "We are not doing tomorrow"; "I am going to miss this"; "That was true when I wrote it".*
+
+**Ch. 24 — deliberate echoes**
+- "six backs as one" (Ch. 9, "six backs, one voice") — Aurelian's instrument turned on his own defeat
+- the itch that cannot be out-waited (Ch. 3) — carried by *"The itch had never once in his life been out-waited"*, never re-minted
+- "a thing you say twice is a thing you have started to bargain about" (Ch. 20, verified on the page) — Kael recalling his own reasoning
+- "the way she listened to birds" (Ch. 10) — moved to Ch. 25 with the parents movement
+- "I am extremely aware of what my name does" — Elarine's *extremely* (Ch. 20), her intensifier, register echo only
+- "I am here for the year… I will win it." (Ch. 14) — NOT re-minted; carried by the year being up
+
+**Ch. 25 — The Third Bell** *(OPENING MOVEMENT ONLY — provisional; re-verify every entry against the page at the chapter's true commit)*
+- "That is enough of that for tonight." — RULE-CARRYING (Neris stops at three questions, and the stopping is the beat)
+- "There is always more. It will be there in the morning."
+- "He beat a house today." *(the second half of that exchange is deliberately not admitted — ordinary words, and incidental in Ch. 15 as well; the beat is chapter-records'. Left unquoted here so the parser skips it.)*
+- "I have no evidence whatever. Do not write it down."
+- "It will open in the first two minutes and then it will stop. Do not look at it."
+- "What has she not got?" — protect absolutely · RULE-CARRYING (the bout's thesis, stated at the door)
+- "Everything I've learned about fire. She taught me all of it herself." — protect absolutely
+- "And when it starts, the master comes." / "The master comes." — RULE-CARRYING (the reader does the Severin arithmetic; nobody on the page does)
+
+**Ch. 25 — deliberate echoes**
+- *Evening* (Ch. 7) — exchanged plainly and unweighted; the devastating reuse stays reserved
+- Neris in the doorway / both parents at the door (Ch. 2 / Ch. 15 / Ch. 21) — not re-minted; what returns is the position
+- "the way she listened to birds" (Ch. 10)
