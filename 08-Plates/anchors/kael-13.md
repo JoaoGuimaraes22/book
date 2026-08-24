@@ -42,6 +42,28 @@ The anchor therefore **does not resolve iris colour** — eyes in shadow or down
 
 ---
 
+## READING-DISTANCE PANEL — ADOPTED (s33)
+
+`../images/anchors/kael-13-face.png`. Head and shoulders, greyscale, entirely without hue. **The grey eyes are the lightest thing in the frame and are the only remarkable thing about him.**
+
+**THE TECHNIQUE, and it is the whole trick (author, s33):** a **distinct dark limbal ring** around a near-white iris, with a small dark pupil, under dark lashes and brows. Without the ring, pale irises read blind or blank; with it they read deliberate. Recorded in `style-anchor` as house craft.
+
+**This panel is what fixed the two-anchor drift.** The first close-up came back a young man several years above the adopted full-figure study, and plates pulling from both would have swung his age. Re-cut younger, they now agree.
+
+## AUTHOR RULING, s33 — HE IS HANDSOME, AND 03 DISAGREES WITH THREE ADOPTED IMAGES
+
+**Ruled:** Kael is good-looking — fit, chiselled, strong without bulk — **and scrappy and dirty with it.** Village grime, weather, hair cut by someone not being careful.
+
+**The author's own two words resolve the objection the audit raised.** Aeliana is *never in competition with anyone* for beauty, and the plain cast is the dark room her exception needs — but she is immaculate, assembled by several people over an hour, and Kael is handsome and filthy. They are not in the same category, so her exclusivity survives without him having to be plain.
+
+**AMENDMENT OWED AND NOW URGENT — `03/kael` → Appearance contradicts the adopted plates.** It reads *village-plain by design… unremarkable at rest… nothing to look at until he moves.* Drafted replacement, author's ratification pending:
+
+> *Good-looking, and filthy with it — dark hair (his mother's), clean features under village dirt and weather. Lean, hard and visibly fit; strong without bulk, the strength sitting in the forearms and the hands.* **He is not plain and never was — what makes him invisible is STATUS and STILLNESS, not his face:** *no house, no name, working cloth, and a body trained not to move. What others react to: nothing — which is the point, and slowly becomes the thing they react to.*
+
+The re-basing is the load-bearing part: it moves the cause of *what others react to: nothing* from his looks to his position, so the long inversion still pays when the island starts looking at him.
+
+**KNOCK-ON, also owed:** `03/appearance-ledger` says the cast is *kept deliberately plain by design*. With the protagonist ruled handsome that wants rescoping — plain as in **unadorned**, not plain-featured. It is the file every other sheet inherits from.
+
 ## THE GREY — CONFIRMED STANDING (author, s33)
 
 Raised because a plate note called them dark eyes. **They are pale grey and it holds.** `03/kael`: *a pale grey belonging to no one in the house*. The appearance ledger decides it as a cross-cast set — *both parents dark-eyed — Kael's grey is no one's* — against Wren's red resolving to the bloodline, closing on *neither brother's eyes come from the house, for opposite reasons.* Dark eyes would put him back inside the house, kill the symmetry with his brother, and retire a clue 00 is holding.

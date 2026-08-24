@@ -10,7 +10,7 @@
 ## ANCHORS (reference images — reused as generation sources; timestamped)
 - `anchors/aeliana-14.md` — Aeliana, age 14 · **ADOPTED** `images/anchors/aeliana-14.png`
 - `anchors/valeria-13.md` — Valeria Vel, age 13 · v1 generated, **NOT ADOPTED** (culture fork open)
-- `anchors/kael-13.md` — Kael, age 13, valid Ch. 22 → current · **v1 ADOPTED** `images/anchors/kael-13.png`
+- `anchors/kael-13.md` — Kael, age 13, valid Ch. 22 → current · **ADOPTED** `images/anchors/kael-13.png` + reading-distance panel `images/anchors/kael-13-face.png`
 
 ## PLATES (one sheet per chapter plate)
 - *(none yet — the moment-selection pass is unstarted)*
