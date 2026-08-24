@@ -6,4 +6,4 @@
 - **Scholarly:** real pre-modern learning vocabulary — "the minima"; collision-safe because it is genuine historical scholarship, not fantasy coinage.
 - **Conquered places (rule, s20):** a conquered city keeps its OWN tongue's name — the empire does not rename what it takes. Canon: AMMARETH. The register is therefore deliberately un-imperial (no -ANE, no Latin-Byzantine ornament); the empire handing out a city that still carries somebody else's name is itself a small political fact, never remarked on.
 - Commoners effectively lack house names; Kael does not know surnames EXIST until the Temple.
-- Released/spent names: the ledger lives in 07 §Established Facts (one home). Session-18 fix: "Dain" removed from the guard-register examples above — released session 7 (Tolkien collision) per 07.
+- Released, spent and blocked names: `../07-Story-Ledger/established-facts.md` (one home).

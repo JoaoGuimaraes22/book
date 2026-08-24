@@ -1216,3 +1216,84 @@ Protocol is in CLAUDE.md and auto-loads, including the TIERED COLD READ: all bib
 
   - **IT IS NOISY.** Speech-tag splits throw false positives and need eyes. And it is blind by construction to the worst class: **an invented fact that was never quoted** — the hand-borne fans (s30), the freckles (s34). Quote marks are what it checks; an unquoted invention is invisible to it forever.
 
+
+## 02 ROLL-OFF — s36 terse rewrite (history and superseded ruling text cut from `02-World-Bible/`, verbatim; the live rule each passage surrounded stays in the topic file). Pre-rewrite files: git 532703c.
+
+### 02/index.md
+- Old status line: *Grows as we invent — new canon lands in its topic file at chapter commit; one changelog line per session, appended at each close.* (The per-session changelog obligation was dropped at s35.)
+
+### 02/magic.md
+- Threading header: *(author ruling, s25; mechanic previously undefined in this file despite being referenced throughout)* and the clause *PAGE-FACING RULE (unchanged, and this is why no prose needs correcting):*
+- Threading consequences: *(Ch. 13's 320 receipts were buying exactly this)*
+- Internal reinforcement: *(Supersedes the earlier* the Vel line's guarded school *reading, which made a general art into a possession.)*
+
+### 02/temple.md
+- Temple Six — the derivation behind Meloran's seat and the pre-day-map "available" note: **MELORAN IS THE SURVIVING SENIOR-COHORT ENTRANT (decided s26, off the page's own arithmetic):** Ch. 18's sheet runs Vel, Corvane, **two of the senior cohort**, Sedrane, then four lines down Kael — so the seniors hold lines 3 and 4, Ledron was line 3 (Ch. 21: *two lines above Sedrane and six above his own*), and line 4 was never named until Ch. 21 named him. He is seventeen, entered, Temple, and good enough that the cohort's presumptive best seeks him out four days a week to be *enormously better* than him. **He is NOT one of Halden's yard pair** — Talrane's second son and the Iscane sit four lines BELOW Kael (Ch. 18), nowhere near the seniors. **AVAILABLE:** a spear, four years of reach on Kael, and an established training relationship with Aurelian — a natural round-of-8 body if the bracket wants one. *(Superseded by the day-map: he beat Aurelian in the round of 16, Ch. 24.)* Also cut: *on a reason Elarine believed at the time and states without repeating the belief now* (Tavrian's departure as told in Ch. 21 — chapter detail; the do-not-resolve fence is kept) and *Two names off the field, and part of how a boy who stood ninth in autumn is in the six by spring.*
+- Silver league: *The empire comes; its other two schools just don't bring children who aren't fighting.* and the pointer *; 04 beat 16*.
+- Houseless provision and the prize: *only what he already said out loud, that a judge who stood for a winner was right about something in front of every house in the empire; the entry stays exactly as clean as 00 s21 requires it to be; and the SURNAME THREAD stays owed rather than closing, because* Kael of what? *now has a legal answer and the answer is* nowhere to put a city. (Compressed, same content.)
+- Rules liberal / Severin the safety: *This is the on-page payoff of his sealed dual proficiency (00 s14) and of Ch. 19's* nature is the Art of mending *+* the Art alone is worth very little *— both halves, at scale, in public, at last.* And: **RULED s26 — THE TOURNAMENT WINS.** The s25 collision required him in two places at once; it is resolved by his chair. He is **above the sand, not at the house**, when Neris goes into labour as the semifinals begin, so the one delivery on this island that needs him happens without him and he has to be fetched (00 s26). The empire's unenforceable rule is what holds the only man who could have helped her six miles away.
+- What the games measure: the framing **CONSEQUENCE — never stated on the page, and the reason the ruling is a gain rather than a subtraction:** … *so the one instrument that has measured Kael's real axis for four years is a school ledger — and the empire that has sailed here to price its children does not read it. The instrument is wrong and nobody in that arena knows it.* **06 §KAEL'S DEFINING AXIS is served by the ABSENCE, not by an event:** the world says the loud wrong thing by measuring only what it worships, and the quiet true thing has to win inside the fight (06: *fights are puzzles*) or not at all. The layer that does price more than swordwork is already canon and is not scored — the nobles' market (Ch. 17: *they are not choosing a champion, they are choosing an ORDER*).
+- Day-map: *— the posting Severin took, not a tally he completed.* … **D1 and D2 are SPENT** (Ch. 23, Ch. 26); the semifinal is the next bout written, and Neris goes into labour as it begins. Elarine's Ch. 20 promise — *if they draw us against each other you will not be kind to me* — therefore comes due in the round of 8, and she does not get the Valeria she wanted, because Kael takes her out the day before. Neris goes into labour as D3 begins (00 s26). **MELORAN comes off the hook** as the round-of-8 body 02 was holding him for; he sits in the other half, where Aurelian is.
+- Bells are hours: *(author ruling, s32; closes the question s31 carried)* … **CONSEQUENCE, and it is why the ruling was needed: Ch. 26's close stands exactly as written.** *They were four bouts from the end of the second day* is the whole card — Gold and Silver together — counted from a Gold bout called at the third bell; it is not a claim that four Gold bouts remained, and a reader counting the bracket alone is counting the wrong thing. **No prose moves anywhere.** … *which is what gives the raid a programme to land in the middle of.*
+- First Master presides: **NOT IN CONFLICT with §JURISDICTION:** the tournament is still not his — he could not keep Kael out of it and cannot strike a name off a document that is not his — and that is precisely the irony now on the page. He is the man who has to preside over the boy he could not protect. **Ch. 23 spent his authority and NOT one grain of his Art:** he stopped a bout with his office and his voice. Earth and the mending are both still entirely unspent on the page. *(Spend-state now stale — both spent, Ch. 26–27; 03/severin owns it.)*
+- Summit is the semifinal — the s28 approach rule and its s30 supersession: **WHAT MUST BE LEGIBLE IS THE SHAPE, NOT THE COLLISION (author ruling, s28 — refines the s25 clause, which read *the bracket must be legible to the reader well before it breaks* and was being read as an instruction to pre-announce the semifinal).** The reader must hold the STRUCTURE early — sixteen, one round a day, R16 → R8 → semis → the final nobody reaches, and who is in the field — because the interruption only lands as an interruption if the shape it breaks is already in the reader's head. **The reader must NOT be told in advance that Kael and Valeria will meet.** They are children in a single-elimination bracket and they each have their own bouts to win first; announcing the summit ahead of it spends every intervening fight, converts Ch. 24's Sedrane bout into a stepping stone, and quietly promises an outcome the page has not earned. **Let the collision assemble itself as the rounds fall.** Ch. 23 plants the shape and the field and stops there, deliberately. **— SUPERSEDED AT THE ROUND OF 8 (author ruling, s30). THE COLLISION IS NOW ANNOUNCED.** It assembled itself exactly as the s28 rule required, across two bouts and three chapters, and then Ch. 26 names it on the page in Elarine's mouth as she is helped up at the gate … **The s28 rule did its whole job and is now spent** — it governed the approach, not the arrival. From here the reader knows Kael meets Valeria in the semifinal, the semifinal is the round the raid lands in (00 s26), and **the dread is no longer *who*, it is *what happens to it*.** Do not re-flag the announcement as a breach;
+- Grand Tournament: *Students compete for a great prize (TBD).* (Stale — the prize is Ammareth, Ch. 17.)
+- Declaration in practice: *The tournament's reserve is a POV-access rule, not a world rule: beat 18 = first magic seen close and whole, as spectacle.* (Spent — Ch. 23/26; 04 beat 18.)
+
+### 02/lexicon.md
+- The Ghost: *It is the on-page arrival of Ch. 16's* you are not absent, you are a hole *and of that chapter's one-word closing* Yet. *— the erasure becoming a signature in public, exactly as Valeria warned it would.* **Requiem rhyme (00, never remarked):** the world puts its first name on him years before he chooses the one it will remember.
+- capacity: **REGISTER SHIFT, author ruling s25:** from here … *In Ch. 21 the two words stand side by side in one exchange, a son and a father naming the same thing differently, and* **nothing on the page remarks on it**.
+- The Art: *(author ruling, s28; retro pass executed same session across all 23 chapters)* … **WHY THE FENCE MATTERS:** … **Scope note:** the capital is inaudible, so no character's register changes and Neris's felt-only vocabulary is untouched; and `check-echoes.sh` lowercases before matching, so no protected phrasing can break on it. The retro pass moved no word count in any chapter.
+
+### 02/curriculum.md
+- Weapons school: *(steel banked)* — replaced by a pointer to `07/standing-rules` §THE WEAPONS SCHOOL, which owns the steel state (spent Ch. 15 on the Temple's side; the chest still banked).
+
+### 02/geography.md
+- Nobles' district: **BANKED, UNSPENT:** Valeria is admitted at that gate and **Kael is not** — the houseless boy refused at a wall in wartime, and the surname thread collecting at last. (Replaced by a pointer to 00 §THE NOBLES' DISTRICT, AND THE GATE, which owns it.)
+- Visual registers: *(s33, recorded off the plates)* → *(author, s33)*.
+
+### 02/factions.md
+- Protection tiers: *So the Line is everywhere the blood is, and its top is fixed.* (restatement) · *(canon, s25 — keep them distinct)* → *(author, s25 — keep them distinct)*.
+
+### 02/dueling.md
+- Kael's blades: *(s33, recorded off the plates)* → *(author, s33)* · *The empire's honorable arms — longsword, rapier, spear — are bought from paid fencing-masters and carried as posture.* (restates the first bullet) · *— Vask's school is the antithesis of the grammar, so* (restatement).
+
+### 02/naming.md
+- *Session-18 fix: "Dain" removed from the guard-register examples above — released session 7 (Tolkien collision) per 07.* (07/established-facts blocks Dain.)
+
+### 02/open-questions.md
+- *(The tournament's prize is DECIDED and struck from this list: AMMARETH to the winner's house, Ch. 17/`geography.md`; the Silver league's purse of gold, s25; the houseless winner's city held in the crown's hand, s25 — full doctrine in `temple.md`.)*
+
+# 03 roll-off — s36 DYNAMIC refresh (fork). Cut passages with no home elsewhere, verbatim.
+
+### 03/kael.md (FORWARD — history of a spent row)
+- **AT THE GAMES — THE TWIN SHORTS: SPENT (pin).** The s25/s28 forward ruling was *he brings both and does not draw*, with the switch available later in the bracket as a real escalation, made because he has to and never because he planned to. **Ch. 26 executed it exactly that way and the row is closed** — the wrap came off mid-bout against Elarine Sedrane, the blades are LIVE STEEL (*blunted* was never on any page, s28), Vask's prohibition is BROKEN, and Kael told his parents all of it. Full record in DYNAMIC above and `07/planted-clues` §THE FENCE BROKEN. **What is still forward is Vask's answer, which is owed and unwritten.**
+
+### 03/kael.md (DYNAMIC — siting note, substance kept in §Body)
+- **SITED s33 (author, off the plates): the LEFT forearm**, running wrist to elbow. It therefore sits on top of the Ch. 6 blade scar — no contradiction, since the page never sited it, but the visual rhyme with Vask's tally-marks is quieter than it is in prose. Known cost, not a surprise.
+
+### 03/elarine.md (STATIC — the fans correction, s30)
+- **THE FANS ARE FIRE, NOT OBJECTS (corrected s30).** The page has *"a flat fan of flame sweeping from her palm at knee height"* (Ch. 11) and *"the fan that closed it caught him across the shoulder"* — a SHAPE she makes off an open hand, spent from the body like any other working (02 §Proximity law). Ch. 17 has Aurelian throw *"a fan of fire"*, which settles it: the word is the shape, available to any fire Resonant, and it is nobody's instrument. This sheet read *hand-borne fans* for four sessions; it was never on any page.
+
+### 03/elarine.md (DYNAMIC — the crush ruling, s29; rule kept in STATIC)
+- **OPEN AND UNRULED (s29) — WHICH WAY THE CRUSH RUNS.** This sheet's STATIC still reads *she is the crush-object, unknowing — his side only, never labeled by either*, and **nothing on any page contradicts that.** The author's s29 direction for the Ch. 24 teasing was written as an AVAILABLE READING and not a confirmation. If it is ever made mutual, do it the way the coat-wire is done — never confirmed by either — rather than by flipping *unknowing*, so Ch. 11's *never label* handling survives.
+
+### 03/neris.md (DYNAMIC — the s29 phantom correction)
+- **(Corrected s29: the ledger carried this as *I am going to go faster* in three files; that sentence was never in any commit — the page is quoted here. The retired wording is left unquoted so the parser skips it.)**
+
+### 03/halden.md (STATIC — stale clause struck; contradicted 00 s21)
+- Whether he serves only Corvane is open; no program connection established, none excluded.
+
+### 03/valeria.md (STATIC/FORWARD — stale clauses corrected)
+- "Val" is reserved for intimacy — Kael's first use is a beat.
+- **Reveal discipline:** the wound's cracks (the sleeplessness, the flinch, the forged childhood) stay unspent — ration her interiority, keep the mask. Ch. 15 spent only the OBSERVABLE from outside; the confession is beat 14 and is untouched.
+- **The one lazy place (Ch. 15, banked):** half a count of lag on the first exchange of each morning, before she is warm. Kael found it; STILL UNSPENT through Ch. 17.
+
+### 03/severin.md (DYNAMIC — stale clause struck; earth spent Ch. 27)
+- Both halves of the rare dual proficiency are no longer theoretical: **nature is SPENT, in public, at scale. His EARTH remains entirely unspent on the page.**
+
+### 03/aurelian.md (provenance note dropped)
+- (Ch. 24; decided s29 off Ch. 21's own page)
+
+### 03/appearance-ledger.md (history clause struck)
+- Entries were built session 8 and ratified session 9, decided cold, spent gradually; spend-state is tracked inside each entry.

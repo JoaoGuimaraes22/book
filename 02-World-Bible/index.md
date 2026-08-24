@@ -1,5 +1,5 @@
 # 02 — World Bible (index)
-**Status:** Grows as we invent — new canon lands in its topic file at chapter commit; one changelog line per session, appended at each close. Changelog: ./changelog.md
+**Status:** New canon lands in its topic file at chapter commit. Changelog: ./changelog.md — written only when a change's reason will not survive in the file it changed; no per-session obligation.
 
 ---
 
