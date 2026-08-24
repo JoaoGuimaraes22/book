@@ -115,7 +115,21 @@ wispy. An old man who is plainly still dangerous and completely at
 ease about it.
 ```
 
-**The original, still correct for Kael, Valeria and Aeliana:**
+**Kael at four — the first CHILD block** *(the ladder is now child → adolescent → adult, and the eye line is what carries it: BELOW the midpoint, AT it, ABOVE it)*:
+
+```
+Age: a small child of four. THE HEAD IS A CHILD'S — the cranium
+large and round and wide across the top, the face small and set
+low within it, and the eyes BELOW the vertical midpoint of the
+head, not at it and not above it. Round full cheeks with real fat
+in them, a small soft nose, a small round chin, no jaw definition
+anywhere at all, a short soft neck. The eyes large relative to the
+face; the brows fine and faint. Everything soft, nothing in the
+face set yet. A very young child — not a small adolescent, not a
+miniature adult, and not one year older than four.
+```
+
+**The original, still correct for Kael at fourteen, Valeria and Aeliana:**
 
 ```
 Age: eyes set at the vertical midpoint of the head, jaw softly
@@ -166,7 +180,7 @@ OR darkest value].
 
 ---
 
-## The eight characters
+## The eight characters (nine blocks — Kael has two ages)
 
 ### Kael
 
@@ -190,6 +204,40 @@ direct. Neither hostile nor sad.
 Threadbare open-collar linen shirt, coarse weave, frayed at the
 collar edge, in dull umber and olive.
 ```
+
+### Kael at four
+
+**NOT YET RUN.** Uses the **child AGE block** and **the HAIR line**. File as `images/portraits/kael-4.png`. **Ch. 1 canon:** *Kael lay in the loft with his hands behind his head, four years old, rich with certainty, waiting for the sea to freeze.*
+
+```
+SUBJECT — cool pale parchment ground.
+A four-year-old boy of a mountain village.
+Eyes near-white neutral grey — the LIGHTEST VALUE in the picture,
+cool and colourless, not the most saturated. Distinct dark limbal
+ring, small dark pupil. Large and wide open in a small face.
+Dark hair, fine and soft, cut short and uneven at home by somebody
+who was not being careful, falling over the forehead.
+Wind-chapped and outdoors all day — high colour across the cheeks
+and the nose from the cold, cool grey dust and dirt on the skin
+and in the creases of the neck, the grime staying cool grey and
+never warm brown. A CHILD'S skin under it: no weathering, no
+roughness, no hardness anywhere in it.
+No scars and no marks anywhere on him.
+Expression OPEN and entirely unguarded, wholly present, looking
+straight at the viewer with complete and untroubled certainty.
+Nothing withheld, nothing watchful, nothing wary — a child who has
+never once had a reason to conceal anything. Mouth closed and
+relaxed. NOT flat, NOT still, NOT level, NOT guarded, NOT cautious,
+not sad, not solemn.
+Plain undyed wool, coarse and much mended and a little too big for
+him, in dull oatmeal and dead olive.
+```
+
+**THIS IS THE ONLY KAEL IN THE LIBRARY WHOSE FACE IS NOT DOING THE COAT, and that is the entire point of it.** Every other Kael is *still and level, mouth closed, gaze flat and direct* — the trained stillness that `03` makes the thing he is invisible by. **At four none of that exists yet.** The stillness game is his father's play, the coat is nine years off, and the closing line of Ch. 1 is *rich with certainty.* The block therefore forbids the system's own default Kael by name — **NOT flat, NOT still, NOT level** — because that is exactly where an unattended run will go.
+
+**NO SCARS.** The Ch. 6 left-forearm blade scar is five years away, the Ch. 23 arm scar and the Ch. 24 burn nine. He is unmarked, and at head-and-shoulders it would not show anyway; the line is there so no run invents one.
+
+**HIS GREY IS LEGAL HERE AND ONLY HERE-ISH.** `03` keeps the grey unspent on the page and the rule is that **a portrait may show it and no published plate may** until a chapter spends it. This is a reference, so it shows.
 
 ### Valeria
 
