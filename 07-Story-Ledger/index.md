@@ -4,7 +4,7 @@
 **Split axis = growth behaviour** (session-18 addendum 6). The LAW CORE is stable and asymptotic — read it in full, every session. The two ACCUMULATORS grow with every chapter (~728w and ~157w per chapter) and carry the eviction rule 07 previously lacked:
 
 - **PER-BOOK ROLL (standing rule):** at each book boundary the accumulators roll to `chapter-records-book-N.md` / `protected-phrasings-book-N.md` and leave the every-session read. The law core never moves.
-- **NO WORD COUNTS HERE (s35).** This index carried a hand-typed `wc -w` for each of its eight files. They gated nothing — no decision in 35 sessions was made off them — and they drifted at s31 (two of eight) and again at s35 (two of eight). `wc -w 07-Story-Ledger/*.md` prints them correctly and for free. **One fact, one home: if a script can compute it, do not type it.**
+- **NO WORD COUNTS HERE.** `wc -w 07-Story-Ledger/*.md` prints them. One fact, one home.
 - **TIERING (cold read):** skip a chapter's entry in `chapter-records.md` when that chapter is being read in full from `manuscript/` — the record exists to substitute for the chapter, not to double it.
 
 ---
