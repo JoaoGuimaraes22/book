@@ -292,12 +292,12 @@ nothing on her that does not work.
 
 ### Vask
 
-**ADOPTED-BUT-FLAGGED:** `images/vask.png` — run 3. **The age is right at last** (thirty-five, matching Neris) and the hair length, eyes, expression and cloth are all right. **Two things are not, and both are the cost of the youth instruction winning:**
+**ADOPTED, AND THE TWO DEPARTURES BELOW ARE ACCEPTED (author, s34) — no further run owed.** `images/vask.png`, run 3. **The age is right** (thirty-five, matching Neris) and the hair length, eyes, expression and cloth are all right. **Two things are not, both the cost of the youth instruction winning, and both were ruled acceptable rather than fixed. `03` DOES NOT MOVE:** it still says *greying early at the temples* and *a face like used tools*, those remain prose canon, and this portrait simply does not carry them. **A rendering that under-delivers a sheet is not a licence to edit the sheet.** The corrected block is below if anyone ever regenerates him.
 
 1. **THERE IS NO VISIBLE GREY AT ALL, AND THE FENCE ATE IT.** Diagnosed, not guessed: the block aimed **five separate negations at light values in the hair** — *no hard-edged white*, *never a streak, never a seam, never a blaze or band or shape of white* — and the tool resolved the pile-up the cheapest way available, by putting **no light in the hair whatever.** Same overshoot as `no freckles`: a negation stack aimed at a feature suppresses the feature, not just its bad form. **The fix, now in the block, is one shape ban plus a positive COUNT:** *roughly one strand in six is grey, scattered evenly right through the mass and thickest at the temples, and the grey must be plainly visible at a glance. It is SCATTERED, never GATHERED — no streak, no seam, no patch.* Untested.
 2. **THE FACE IS NO LONGER *A FACE LIKE USED TOOLS*.** `03`'s phrase survived at forty and did not survive the trip to thirty-five; this reads as a weathered handsome man rather than a used one. **The weather/age split is still correct, but the weather itself came down with the age** and needs restating on its own, the same lesson as the grey.
 
-**Both are block bugs, not sheet bugs** — `03` is unchanged and right. Re-run owed; the image stands until then.
+**Both are block bugs, not sheet bugs** — `03` is unchanged and right.
 
 **THE PARENTS ARE THE SAME AGE (author ruling, s34)** — a relative fact only; both remain *age unpinned* in `03` and their files stay bare-named. Uses the **Vask AGE block** and **the HAIR line**. No age suffix, per the unpinned-age rule. **The block below is the order that ran: the length line BEFORE the demotion paragraph**, which is the reverse of how it was drafted and is how it worked.
 
