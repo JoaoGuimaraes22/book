@@ -14,7 +14,7 @@ The prompts are written where `00`, `02` and `03` cannot be seen. Every canon er
 - **Two visual registers.** The **island** keeps its own material culture; the **capital and imperial houses** are Latin-Byzantine. A character reads by where they are and what they are doing, not by their house.
 - **NEVER DESIGN "THE COAT."** It is the book's central metaphor for Kael's concealment — Ch. 13 is titled for it — not a garment to style. Literalising it flattens the image.
 - The empire's honourable arms are **longsword, rapier, spear**, bought from paid fencing-masters and carried as posture.
-- **Book One ages: Kael 13 · Valeria 13 · Aurelian ~13 · Elarine ~13 · Aeliana 14.** Aeliana reads one year ABOVE the rest, never below. Aurelian is the same age as the cohort and **is built a year ahead of it** — that is body, not birthday.
+- **Book One ages: Kael 13 · Valeria 13 · Aurelian ~13 · Elarine ~13 · Aeliana 14. The parents' ages are UNPINNED in 03 and stay so** — they are written as anatomy (grown; worn down; about forty) and their image files carry no age suffix. Aeliana reads one year ABOVE the rest, never below. Aurelian is the same age as the cohort and **is built a year ahead of it** — that is body, not birthday.
 
 ---
 
@@ -74,6 +74,27 @@ The prompts are written where `00`, `02` and `03` cannot be seen. Every canon er
 - **Forgettable at a glance and unforgettable the third time you notice she hasn't moved.** Stillness, not display.
 - **Plain dark clothing of very good quality** — exactly made, close, buttoned high. **No ornament of any kind**, and the plainness is the station, not the absence of it. Keep her distinct from Valeria: Elarine reads *scholar*, Valeria reads *uniform*.
 - **HER ONE TELL IS A STATE, NOT A FEATURE: spots of colour high on her cheeks** (Ch. 13, Ch. 17), which fire only when something is about to be said properly or when she is being spent in public. **Keep it out of the canonical portrait.** It is available to a plate of either of those two moments and nowhere else.
+
+## VASK — the father
+
+- **Broad through the shoulders AND NO FURTHER.** An instrument's economy, not bulk — heavy across the top of the back, nothing wasted below it. *Fills a doorway by carriage.* **Moves exactly as much as is required.**
+- **IRON-DARK hair, GREY AT THE TEMPLES — and the grey is the dangerous part.** It must read as **diffuse scatter, salt through the dark. NEVER a streak, seam, blaze or band of white.** `02` has two body-marks of magic and one is **white hair = the drain-mark**; Ruthen enters the book as *the master with the seam of white through his dark hair* and Ch. 9 spends a paragraph on forty children not looking at it. An image cannot tell forty-year-old grey from a drain-mark, so the shape is forbidden and only the scatter is allowed.
+- **IRON-DARK eyes.** Both parents are dark-eyed — **Kael's grey is no one's**, and that is load-bearing.
+- **A face like used tools, weathered far past its years.** The most weathered face in the book.
+- **HIS EYES ARE THE CHARACTER, and they are empty.** Ch. 2: *There was nothing in them that was angry. There was nothing in them that was anything.* **Not hostile, not cold, not sad, not kind, not tired.** Level, and giving nothing.
+- **Hands permanently half-curled, as if around something set down.**
+- **Scars: OUT OF FRAME unless the moment needs them.** The **long seam is in the SHOULDER** and the **tally-marks are on the FOREARM** (*a bad employer*). The page has never described either — they are questions Kael has never been allowed to ask, and there is no reason to spend them in a reference.
+- **Village working cloth**, coarse, mended, closed at the throat. No ornament, no buckle, no badge.
+
+## NERIS — the mother
+
+- **She passes as village UNTIL SHE IS STILL** — then the stillness has a quality the village does not make. **The stillness is the whole portrait.**
+- **DARK hair, DARK eyes (author ruling, s34).** She can switch her eyes off (00) and always could; **the Kynemir red is the truth underneath and is NOT what a reference shows.** A switched-on variant is a separate deliberate file. **Do not put red in her canonical images.**
+- **Fine bones under worked hands.** *Handsome and unremarkable in the same breath, with ages of watching in the face.* Weather and sun on her, but **not the coarsening** — she is the anomaly on the complexion scale, on purpose.
+- **HER HANDS ARE WHERE THE BOOK KEEPS HER**, every single time: *the hands that undid knots* · *her hands rested on it the way her hands rested on bread dough, at home* · *her hands were flat on the table* · *each already leaving when the eye arrived.* `03`: **the hands know too many trades — the lie's weak point.** A head-and-shoulders crop misses her. **Any full figure or scene must put the hands in frame and occupied.**
+- **NOT warm, not maternal, not soft.** Her warmth is spent once in the book, on the head of an unborn child. A portrait that makes her tender is the wrong woman.
+- **EIGHT OR NINE MONTHS PREGNANT** through the tournament season. Invisible at head-and-shoulders, unavoidable below it — decide it, never default it.
+- **Her plate is already composed, by Ch. 4:** *sat at the window in the dark with her back straight and her face to the sea, and across her knees, unsheathed, lay a blade he had never been shown.* Back, window, sea, blade, hands.
 
 ---
 

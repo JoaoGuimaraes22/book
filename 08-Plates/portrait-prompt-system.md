@@ -62,6 +62,32 @@ frame; nothing about her has caught up with her yet except the
 eyes.
 ```
 
+**Vask — grown and worn down** *(the first ADULT age block; the adolescent anatomy has to go entirely, not be softened)*:
+
+```
+Age: a man of about forty who reads older than that. Eyes set
+slightly above the vertical midpoint of the head. The jaw fully
+set and hard at the edge, no fullness anywhere in the cheek, a
+deep hollow beneath the cheekbone, the temple a little sunken.
+Deep lines cut from the nose to the mouth and at the outer corners
+of the eyes, the forehead scored across. Skin thickened and
+coarsened, weathered past its years. Neck thick, the tendons
+standing. Nothing soft left anywhere in the face. Fully grown and
+worn down — not elderly, not frail.
+```
+
+**Neris — grown, and the age is in the eyes:**
+
+```
+Age: a woman of about forty. Eyes set slightly above the vertical
+midpoint of the head. The jaw fully set, the cheek flat and
+unhollowed, fine lines at the outer corners of the eyes and a
+faint line at each side of the mouth, the skin still smooth over
+good bone. Fully grown. She has worn well, and that is not the
+point — the age is in the eyes and almost nowhere else in her
+face.
+```
+
 **The original, still correct for Kael, Valeria and Aeliana:**
 
 ```
@@ -99,7 +125,7 @@ OR darkest value].
 
 ---
 
-## The five characters
+## The seven characters
 
 ### Kael
 
@@ -253,6 +279,79 @@ olive. No jewellery, no embroidery, no ornament of any kind —
 nothing on her that does not work.
 ```
 
+### Vask
+
+**NOT YET RUN.** Uses the **Vask AGE block** and **the HAIR line** (his crop is cut by somebody not being careful). File as `images/vask.png` — **no age suffix: his age is unpinned in `03` and a number in a filename gets read as canon by the next session.**
+
+```
+SUBJECT — cool pale parchment ground.
+A grown man of a mountain village, a herder by every appearance.
+Eyes iron-dark, near black — the DARKEST VALUE in the picture. His
+hair is greying, so nothing else in the frame is as dark as they
+are; they are the one place the ink goes fully solid.
+Iron-dark hair gone grey at the temples, cut short and plain by
+somebody who was not being careful. The grey is diffuse and
+scattered, salt through the dark, thickest at the temples — never
+a streak, never a seam, never a blaze or band of white anywhere in
+the hair.
+Weathered far past his years — wind, sun and salt worked deep into
+the skin, coarsened and thickened, the pores open, the whole face
+used.
+Broad through the shoulders and no further: heavy across the top
+of the back and the neck, nothing wasted below it, an economy
+rather than a bulk.
+Expression: level, mouth closed, gaze direct and completely
+unreadable. There is nothing in his eyes that is angry and nothing
+in them that is anything at all. Not hostile, not cold, not sad,
+not kind, not tired. Perfectly still — a man who moves exactly as
+much as is required and is not moving now.
+Coarse undyed working cloth, heavy weave, a plain collar closed to
+the base of the throat, much mended, in dull grey-brown and dead
+olive. No ornament, no buckle, no badge.
+```
+
+**CANON NOTES.** **The grey is the dangerous instruction in this block.** `02` has exactly two body-marks of magic and one of them is **white hair — the drain-mark, meaning this person went to the bottom of their reserve and nearly died.** Ruthen arrives on the page as *the master with the seam of white through his dark hair*, and Ch. 9 spends a whole paragraph on forty children not looking at it. **An image cannot tell greying-at-forty from a seam of white**, so the block forbids the shape and permits only the scatter. Check every run for a defined streak; if one appears, it is not a stylistic quibble, it is a magic system claim.
+
+**HIS SCARS ARE DELIBERATELY OUT OF FRAME, and both are page-referenced.** The **long seam is in his shoulder** (Ch. 19: *whose was the blade that made the seam in your shoulder and where were you standing when it came*) and the **tally-marks are on the forearm** (Ch. 19: *the tally-marks came up out of the sleeve and lay there where they had lain in front of Kael for twelve years*). The page has never described either — they exist as questions Kael has never been allowed to ask. **The closed collar is on purpose:** there is no reason to spend the seam in a face reference and every reason not to. Both belong to the full figure, where the sleeve can come up.
+
+### Neris
+
+**NOT YET RUN.** Uses the **Neris AGE block** and **the HAIR line**. File as `images/neris.png` — no age suffix, same reason as Vask.
+
+```
+SUBJECT — cool pale parchment ground.
+A grown woman of a mountain village, to all appearances.
+Eyes dark brown — they win the picture on CONTRAST rather than on
+colour: a dark iris against a clean, light, clearly drawn sclera,
+the widest jump from light to dark anywhere in the image packed
+into the smallest area, while the whole face around them is held
+at a quiet middle value. The eyes read wide open and awake.
+Dark hair, pulled back off the face and fastened plainly for work,
+a few strands loose at the temple. Ordinary, unstyled, not severe
+and not arranged.
+Skin with weather and sun on it but not coarsened — she has worked
+outdoors for years and it has not got into her the way it gets
+into the others.
+Fine bones — a narrow nose, a fine jaw, good structure close under
+the skin. Handsome and unremarkable in the same breath.
+Expression: entirely still, and the stillness is the subject of the
+picture. Attentive, composed, giving nothing back, watching the
+viewer the way you watch something you are deciding about. Mouth
+closed and relaxed. Not cold, not sad, not kind, not warm, not
+maternal, not tired.
+Plain village working cloth — a coarse overdress over a plain
+undershirt, the neck closed, in dull grey-brown and undyed
+oatmeal, worn soft and much mended. No ornament of any kind.
+```
+
+**CANON NOTES.** **Her eyes are dark by author ruling (s34) and that is what she looks like every day of her life.** She can switch them off (00 s20) and always could; the Kynemir red is the truth underneath and is **not** what a canonical reference shows. A switched-on variant stays available as a deliberate second file for a moment the book actually spends. **Do not put red in this one.**
+
+**THE PORTRAIT MISSES HER, AND IT IS THE CROP'S FAULT, NOT THE BLOCK'S.** Every appearance the page gives Neris is her **hands** — *his mother's hands were quieter; they were the hands that undid knots* (Ch. 1) · *her hands rested on it the way her hands rested on bread dough, at home* (Ch. 4) · *his mother's hands were flat on the table* (Ch. 7) · *his mother's hands moved at the loom, each already leaving when the eye arrived* (Ch. 14) — and `03` makes them the lie's weak point: *the hands know too many trades.* A head-and-shoulders portrait cuts off the only part of her the book has ever spent. **Her full figure is not optional the way the others' were**, and it must put the hands in frame and occupied.
+
+**HER PLATE IS ALREADY COMPOSED, BY CH. 4:** *His mother sat at the window in the dark with her back straight and her face to the sea, and across her knees, unsheathed, lay a blade he had never been shown, long and thin and older than the tools on the wall, and her hands rested on it the way her hands rested on bread dough, at home.* Back, window, sea, blade, hands. Nothing needs designing.
+
+**AND SHE IS EIGHT OR NINE MONTHS PREGNANT** through the whole of the tournament season. Invisible at head-and-shoulders; unavoidable in a full figure or any Part III/IV scene. Decide it deliberately rather than by default.
+
 ---
 
 ## How the system works
@@ -261,6 +360,7 @@ nothing on her that does not work.
 - **Saturation** — Valeria's green, Aeliana's blue, Aurelian's amber: the most saturated point in an otherwise desaturated image.
 - **Lightest value** — Kael's near-white grey, which is almost colourless and cannot win on saturation at all.
 - ~~**Darkest value**~~ — proposed for Elarine's near-black and **it does not work, s34.** She has ink-dark hair (page canon, Ch. 9), so the darkest mass in the picture is her own head and the eyes cannot beat it by a margin. **A dark eye can only win on value against pale or mid hair.**
+- **Local contrast** — Neris. Her hair is dark and her eyes are dark, which is Elarine's dead end exactly; but an eye can win without being the extreme of the picture if it carries **the picture's widest value jump packed into its smallest area** — a dark iris against a clean light sclera, with the whole surrounding face held mid. It reads as *open*, which for her is the entire character.
 - **Finish** — what Elarine's run actually did, and it is the better mechanism for her anyway. In a picture that is loose everywhere, the eyes are the only fully resolved thing: rendered tight and exact, sharp-edged, one clean catchlight, while the rest is suggestion. She wins by being **the only part of the image that has been worked out** — which is the character, exactly.
 
 **Check the eye against the HAIR before choosing a mechanism.** Both failures found so far are the same failure: the eye competing with something large and adjacent that shares its property. Amber against warm skin; near-black against near-black hair. **Saturation, value and finish are four different axes and the eye must own one of them outright.**
@@ -273,7 +373,7 @@ nothing on her that does not work.
 
 **Age is written as anatomy, not adjectives.** Age words alone get ignored. What works: eyes at the vertical midpoint of the head, jaw softly defined but not sharp, remaining cheek fullness, narrow neck. For an older version of a character, change the SUBJECT age line *and* delete `Adolescent, not grown` plus `some remaining fullness in the cheeks` from the STYLE block, or they'll fight the older read.
 
-**Complexion encodes station.** Kael weathered → Valeria mid → Aurelian clear with sun on it → Elarine pale indoor → Aeliana pale untouched. Discovered by accident on the first three, kept on purpose: five characters, five visibly different lives, none of it stated in text. Aurelian added the point the scale was missing — a great-house child who *chooses* the yard, so the sun is on him and the weather never is. **The scale runs on VALUE AND WEATHERING, never on speckle** — see the freckle ruling under §Known behaviours; granulation puts freckles on everybody and they distinguish nobody.
+**Complexion encodes station.** Kael weathered → Valeria mid → Aurelian clear with sun on it → Elarine pale indoor → Aeliana pale untouched. Discovered by accident on the first three, kept on purpose: five characters, five visibly different lives, none of it stated in text. Aurelian added the point the scale was missing — a great-house child who *chooses* the yard, so the sun is on him and the weather never is. **The parents extend the scale off its own top end** — Vask is weathered past Kael and past anyone, an adult lifetime of it; Neris is the anomaly on purpose, weather on her without the coarsening, because *the hands know too many trades* and the face is the half of the lie that holds. **The scale runs on VALUE AND WEATHERING, never on speckle** — see the freckle ruling under §Known behaviours; granulation puts freckles on everybody and they distinguish nobody.
 
 ---
 
