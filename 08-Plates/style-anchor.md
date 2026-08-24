@@ -16,19 +16,28 @@ Consequence, stated plainly: **an image cannot decline to answer.** Prose can wi
 
 ---
 
-## THE COLOUR LAW (derived — 03/appearance-ledger, 02/magic)
+## THE COLOUR LAW — **AMENDED s33: COLOUR LIVES IN THE EYES**
 
-The world carries exactly two body-marks of magic: **RED EYES** (Kynemir) and **WHITE HAIR** (drain). The cast is kept deliberately plain by design — *the dark room the story's two loud marks need*.
+**Standing rule for character anchors: the plate is greyscale wash, and the eyes are the only place pigment appears.** Demonstrated on Valeria v2 — the green reads at full-figure scale, it is the sole colour in the frame, and it pulls the eye to the face.
 
-A heightened palette destroys that architecture. If everything is vivid, the two marks are not loud, and the book's entire visual signature goes flat. Therefore:
+This mirrors what the prose already does. The book tracks eye colour obsessively and almost nothing else about a face: Kael's grey belonging to no one in the house, Wren's red resolving to the bloodline, Valeria's green worn plain and bored as display.
 
-- **The plates are near-monochrome by law**, not by taste. Desaturated, narrow value range, colour rationed.
-- **RED is reserved.** Never at eye-scale on a face except the bloodline. Ambient red (fire, blood, cloth) stays low and desaturated so that bloodline red remains the loudest red in the book. Elarine's fire is orange-grey heat, not a red spectacle.
-- **WHITE HAIR IS DATA, NEVER STYLING.** 02/magic: drain whitens permanently, *proportional to depth*; an old Resonant's hair is a readable ledger. Whitening a head in a plate makes a claim about that person's magical history. Never add white for drama, age, or contrast.
-  - **Ruthen** carries one seam and the page fixes it: "one clean seam of it, like quartz through rock." The plate renders one seam through dark hair — not a streak, not distributed grey.
-  - **Severin** is fully grey and the drain-reading is *never confirmed*. Render grey. Never seamed, never white. The ambiguity is load-bearing and a plate can destroy it in one stroke.
+**The two body-marks still govern, but by MEANING rather than by scarcity:**
+- **RED** is the Kynemir mark. It stays the loud one because of what it is, not because it is the only colour available.
+- **WHITE HAIR IS DATA, NEVER STYLING.** 02/magic: drain whitens permanently, *proportional to depth*; an old Resonant's hair is a readable ledger. Whitening a head makes a claim about that person's magical history. Never add white for drama, age, or contrast.
+  - **Ruthen** carries one seam and the page fixes it: "one clean seam of it, like quartz through rock." One seam through dark hair — not a streak, not distributed grey.
+  - **Severin** is fully grey and the drain-reading is *never confirmed*. Render grey. Never seamed, never white. The ambiguity is load-bearing and one stroke can destroy it.
 
----
+**SUPERSEDED (s33):** the original law read *near-monochrome by law, red reserved, never colour at eye-scale on a face except the bloodline*. It was over-derived. `03/appearance-ledger` says *no heightened palette* about **how the cast is described** — it does not say the world is colourless, and collapsing those two was an error.
+
+## THE SCENE PALETTE IS OPEN — decision deferred to the first scene plate
+
+The eyes-only rule is settled for **character anchors**. It does NOT settle **chapter plates**, and the difference is not academic:
+
+- **Aeliana** is given as *blue so dark it reads black until the light moves on it; gold at shoulder and hem in a quantity with no function except to be a quantity.* The light moving on the blue is the whole trick. In greyscale she is a dark dress, and she is the exception the plainness exists to frame.
+- **Elarine's fire**, and *the sand beside her turned to glass*, have the same problem.
+
+Candidate for that decision when it arrives: a **restrained palette rather than an absent one** — sea grey, wet stone, undyed cloth, weathered timber, bone — so the loud things land because the surroundings are disciplined, not because everything else was deleted. Consistency risk is managed the way the medium is: name the palette with specific repeatable colour words in every prompt.
 
 ## COMPOSITION DOCTRINE (derived — 03/appearance-ledger rendering rule)
 

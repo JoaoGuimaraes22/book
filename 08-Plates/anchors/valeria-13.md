@@ -1,6 +1,6 @@
 # ANCHOR — VALERIA VEL, age 13 (valid Ch. 22 → current)
 
-**Status:** v1 generated, `../images/anchors/valeria-13-v1.png`. **NOT YET ADOPTED** — one open decision blocks it (visual culture, below).
+**Status:** **v2 is the live cut** — `../images/anchors/valeria-13-v2.jpg` (v1 kept at `valeria-13-v1.png`). Everything is settled except the visual-culture fork below, which is the only thing holding adoption.
 
 Anchors are timestamped reference studies, not plates. A plate uses the anchor valid at *its* chapter.
 
@@ -17,9 +17,15 @@ Anchors are timestamped reference studies, not plates. A plate uses the anchor v
 - Twin blades, both hands full — the one-handed empire's heresy (02/dueling).
 - 13, Kael's age. Line of Vel: eleven generations serving the royal lineage.
 
-## THE GREEN — RULED (s33)
+## THE GREEN — AUTHOR RULED IT IN (s33), and the law changed with it
 
-**Rendered in dark value only; no iris colour.** The colour law reserves loudness for the two body-marks, and a green-eyed girl in colour puts a third loud thing on the board. The page's own rule — *reading distance only* — already makes green rare and close, which is a framing plates almost never use. Green stays a prose fact.
+**Her irises are green on the plate.** v1's value-only rendering was my call and the author overruled it; v2 carries the colour.
+
+It proved the better rule. The green reads even at full-figure scale, it is the only pigment in the frame, and it pulls the eye to her face. `style-anchor` now reads **COLOUR LIVES IN THE EYES** — greyscale wash, pigment in the irises only — which mirrors the prose, since eye colour is close to the only facial fact the book tracks.
+
+**Consequence for Kael, and it improves him:** his plates still keep the eyes shadowed, but that now reads as the one face in the book withholding colour, in a book where eyes are the only colour there is. A better reason than the one the anchor was written with.
+
+**Shade note:** v2 came out pale sage against the sheet's *emerald*. Left as drawn — pushing saturation would make her eyes the loudest thing in the book.
 
 ## SILHOUETTE SEPARATION FROM KAEL (02/dueling: his dual-blade silhouette is *distinct and protected*)
 
