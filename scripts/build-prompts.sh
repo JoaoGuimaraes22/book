@@ -85,11 +85,12 @@ print(f"built {n} prompt files into {out}/")
 PY
 
 if [[ "${1:-}" == "--check" ]]; then
-  if diff -rq "$OUT" 08-Plates/prompts >/dev/null 2>&1; then
+  # README.md is hand-written, not generated — exclude it from the comparison.
+  if diff -rq --exclude=README.md "$OUT" 08-Plates/prompts >/dev/null 2>&1; then
     echo "PROMPTS: in sync with the markdown"
   else
     echo "PROMPTS: STALE — run scripts/build-prompts.sh"
-    diff -rq "$OUT" 08-Plates/prompts || true
+    diff -rq --exclude=README.md "$OUT" 08-Plates/prompts || true
     exit 1
   fi
 fi
