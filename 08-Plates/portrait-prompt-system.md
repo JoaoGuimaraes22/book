@@ -79,14 +79,17 @@ worn down — not elderly, not frail.
 **Neris — grown, and the age is in the eyes:**
 
 ```
-Age: a woman of about forty. Eyes set slightly above the vertical
-midpoint of the head. The jaw fully set, the cheek flat and
-unhollowed, fine lines at the outer corners of the eyes and a
-faint line at each side of the mouth, the skin still smooth over
-good bone. Fully grown. She has worn well, and that is not the
-point — the age is in the eyes and almost nowhere else in her
-face.
+Age: a woman in her early thirties. Eyes set slightly above the
+vertical midpoint of the head. Fully grown — the jaw set, the
+cheek firm and smooth, the skin even and clear, the neck smooth
+and unlined. No lines at the mouth, none across the forehead, no
+hollowing anywhere under the cheekbone, nothing drawn or worn in
+the face at all. At most the faintest crease at the outer corner
+of each eye. Young enough that her age does not show in her skin:
+it is in the eyes and nowhere else.
 ```
+
+**REVISED s34 — the first version said *about forty* and came back a decade older than that.** Two things did it. The number itself, and `03`'s *ages of watching in the face*, **which is a QUALITY and not a quantity of lines** — the run read it as skin. The block now spends its whole length forbidding the skin from doing the work and puts the watching in the eyes, where the sheet always meant it.
 
 **The original, still correct for Kael, Valeria and Aeliana:**
 
@@ -326,9 +329,10 @@ colour: a dark iris against a clean, light, clearly drawn sclera,
 the widest jump from light to dark anywhere in the image packed
 into the smallest area, while the whole face around them is held
 at a quiet middle value. The eyes read wide open and awake.
-Dark hair, pulled back off the face and fastened plainly for work,
-a few strands loose at the temple. Ordinary, unstyled, not severe
-and not arranged.
+Dark hair worn LONG AND LOOSE, falling well past the shoulders,
+unstyled and unarranged, a little disordered from work and
+weather. Not pinned, not bound, not braided, not tied — nothing
+holding it anywhere.
 Skin with weather and sun on it but not coarsened — she has worked
 outdoors for years and it has not got into her the way it gets
 into the others.
@@ -343,6 +347,10 @@ Plain village working cloth — a coarse overdress over a plain
 undershirt, the neck closed, in dull grey-brown and undyed
 oatmeal, worn soft and much mended. No ornament of any kind.
 ```
+
+**HAIR: LONG AND LOOSE (author ruling, s34), and it was free.** Checked before changing it, because Valeria's length turned out to be page canon at s33 and cost a prose edit: **Neris's hair appears nowhere in the manuscript and nowhere in `03` beyond *dark-haired*.** No prose moves. The first run read *fastened plainly for work* as a bun, so the block now kills every fastening by name — negating the shape is what the tool actually responds to.
+
+**SILHOUETTE WATCH:** long loose dark hair puts her within reach of Valeria. They separate on everything else and it holds — **grown woman vs thirteen, village overdress vs uniform and steel, stillness vs a body that reads as function at rest.** Per the README's separation method: provenance and bearing first, never the face.
 
 **CANON NOTES.** **Her eyes are dark by author ruling (s34) and that is what she looks like every day of her life.** She can switch them off (00 s20) and always could; the Kynemir red is the truth underneath and is **not** what a canonical reference shows. A switched-on variant stays available as a deliberate second file for a moment the book actually spends. **Do not put red in this one.**
 
