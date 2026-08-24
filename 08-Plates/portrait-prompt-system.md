@@ -79,17 +79,19 @@ worn down — not elderly, not frail.
 **Neris — grown, and the age is in the eyes:**
 
 ```
-Age: a woman in her early thirties. Eyes set slightly above the
-vertical midpoint of the head. Fully grown — the jaw set, the
-cheek firm and smooth, the skin even and clear, the neck smooth
-and unlined. No lines at the mouth, none across the forehead, no
-hollowing anywhere under the cheekbone, nothing drawn or worn in
-the face at all. At most the faintest crease at the outer corner
-of each eye. Young enough that her age does not show in her skin:
-it is in the eyes and nowhere else.
+Age: a woman of about thirty-five. Eyes set slightly above the
+vertical midpoint of the head. The jaw fully set and clean at the
+edge, the cheek flat and unhollowed, the skin smooth and even over
+good bone, the neck smooth and the throat unmarked. No lines
+anywhere in the face except the faintest at the outer corners of
+the eyes. Fully grown, and nothing has been taken out of her face
+yet. Not girlish, not unformed — a fully adult face that has simply
+not been worn. The age is in the eyes and nowhere else at all.
 ```
 
-**REVISED s34 — the first version said *about forty* and came back a decade older than that.** Two things did it. The number itself, and `03`'s *ages of watching in the face*, **which is a QUALITY and not a quantity of lines** — the run read it as skin. The block now spends its whole length forbidding the skin from doing the work and puts the watching in the eyes, where the sheet always meant it.
+**REVISED s34 — the first version said *about forty* and came back a decade older than that.** The number was not the fix. `03`'s *ages of watching in the face* **is a QUALITY, not a quantity of lines**, and the run read it as skin — so the block now forbids the skin from carrying it and relocates the watching to the eyes, where the sheet always meant it.
+
+**AND THE CLAUSE THAT MAKES IT WORK IS THE ONE THAT FORBIDS YOUTH:** *Not girlish, not unformed — a fully adult face that has simply not been worn.* An age block that only strikes out lines resolves *no lines* into *young*, and hands back a girl. **For an unworn adult you must forbid both ends** — the wear and the youth — and the positive term is the middle: *fully grown, and nothing has been taken out of her face yet.* This is the reusable half of the adult age block and it will matter for anyone the book wants grown but undepleted.
 
 **The original, still correct for Kael, Valeria and Aeliana:**
 
@@ -239,7 +241,7 @@ cloth.
 
 **WHAT THE RUN PROVED, AND ONE LINE OF IT IS A LIE.** The hair, the collar and the build all came through hard, and **the costume is the best this system has produced** — high buttoned collar, close, exactly made, no ornament, *nothing on her that does not work* rendered instead of stated, and it puts real distance between her and Valeria's wrapped charcoal. The expression held too: level, appraising, still, **no verdict reached.**
 
-**But `the DARKEST VALUE in the picture` did not happen and could not have.** She has ink-dark hair by page canon, so the darkest mass in the frame is her own head at twenty times the area. **The eyes won on FINISH instead** — the only fully resolved thing in a loose picture. **If she is ever regenerated, swap the eye clause for what actually happened:**
+**But `the DARKEST VALUE in the picture` did not happen and could not have.** She has ink-dark hair by page canon, so the darkest mass in the frame is her own head at twenty times the area. **The eyes won on FINISH instead** — the only fully resolved thing in a loose picture. **Two ways to fix it, and the second is better and was found later (s34, off Neris's run): demote the hair.** Render it as *fine ink strands and open transparent washes with bare paper left through the mass, soft wash-bled edges, no hard-edged black anywhere in it*, then state that *the sharpest step from light to dark in the whole picture happens inside the eye itself, at the edge of the iris.* **A dark eye can beat dark hair once the hair stops being a solid mass** — Neris proved it on a face with dark hair, dark eyes and no colour in the frame. **Or, keeping what her own run actually did, swap the eye clause for finish:**
 
 ```
 Eyes very dark brown, near black — the MOST FINISHED thing in the
@@ -321,7 +323,11 @@ olive. No ornament, no buckle, no badge.
 
 **ADOPTED:** `images/neris.png` — **the first adult portrait in the library, and the adult AGE block is proven by it.** Uses the **Neris AGE block** and **the HAIR line**. No age suffix, per the unpinned-age rule.
 
-**WHAT THE REVISION PROVED, on three separate counts.** (1) **The age fix works, and the fix is to forbid the skin.** Naming a younger number did nothing on its own the first time; what moved the render a decade was the explicit list of what the face may not do — no mouth lines, no forehead, no hollowing, smooth neck — with the watching relocated to the eyes. (2) **A negation stack beats a positive instruction on styling.** *Fastened plainly for work* produced a bun; *not pinned, not bound, not braided, not tied — nothing holding it anywhere* produced loose hair on the first try. (3) **LOCAL CONTRAST WORKS, first run** — it was written untested, and the eyes carry a picture whose subject is a woman with dark hair and dark eyes and no colour anywhere. **The fifth mechanism is real.**
+**WHAT THE REVISION PROVED, on three separate counts.** (1) **The age fix works, and the fix is to forbid the skin.** Naming a younger number did nothing on its own the first time; what moved the render a decade was the explicit list of what the face may not do — no mouth lines, no forehead, no hollowing, smooth neck — with the watching relocated to the eyes. (2) **Loose hair needed a light touch, not a heavy one.** *Fastened plainly for work* produced a bun; *unstyled and naturally settled… not arranged, not severe, not styled for anything* produced loose hair. **A four-item negation stack was drafted and never run** — the run used the light version and did not need it. *(Recorded wrong at first: this file briefly claimed the stack was what worked. It was not run. **Do not credit a technique to a prompt that was not the one used.**)* (3) **LOCAL CONTRAST WORKS — AND IT IS A TWO-PART INSTRUCTION, which is the finding.** Describing how the eye wins is not enough; the competing dark mass has to be demoted in the same breath. The paragraph that did it — *the hair is dark but never solid: fine ink strands and open transparent washes with bare paper left through the mass, soft wash-bled edges, no hard-edged black anywhere in it*, then *the sharpest step from light to dark in the whole picture happens inside the eye itself, at the edge of the iris* — **demotes the rival, then sites the winner.** The eyes carry a picture of a woman with dark hair, dark eyes and no colour anywhere in the frame. **The fifth mechanism is real, and it needs both halves.**
+
+**THIS IS ALSO THE ANSWER TO ELARINE.** Her darkest-value clause failed against her own ink-dark hair, and the fix recorded at the time was to abandon the mechanism for *finish*. **That was one option and this is the better one:** demote the hair to strands and washes and a dark eye can beat dark hair after all. Use this paragraph if she is ever regenerated.
+
+(4) **The brown arrived as an EDIT PASS, not in the prompt** — the block ran with *long dark hair* and the colour was changed afterwards. So the adopted image has spent one of its two edits (see §Known behaviours: granulation softens and the palette warms with each). The block above now carries the brown inline, so a fresh run starts clean.
 
 ```
 SUBJECT — cool pale parchment ground.
@@ -331,11 +337,16 @@ colour: a dark iris against a clean, light, clearly drawn sclera,
 the widest jump from light to dark anywhere in the image packed
 into the smallest area, while the whole face around them is held
 at a quiet middle value. The eyes read wide open and awake.
-Dark brown hair — warm rather than cool, dark but plainly brown
-and not black, no blue anywhere in it — worn LONG AND LOOSE,
-falling well past the shoulders, unstyled and unarranged, a little
-disordered from work and weather. Not pinned, not bound, not
-braided, not tied — nothing holding it anywhere.
+The face around the eyes is held at a quiet even middle value. The
+hair is dark but never solid: rendered as fine ink strands and open
+transparent washes with bare paper left through the mass, soft
+wash-bled edges, no hard-edged black anywhere in it. The sharpest
+step from light to dark in the whole picture happens inside the eye
+itself, at the edge of the iris.
+Long dark brown hair falling loose past the shoulders — warm rather
+than cool, plainly brown and not black, no blue anywhere in it —
+unstyled and naturally settled, a few strands across the temple.
+Ordinary — not arranged, not severe, not styled for anything.
 Skin with weather and sun on it but not coarsened — she has worked
 outdoors for years and it has not got into her the way it gets
 into the others.
@@ -373,7 +384,7 @@ oatmeal, worn soft and much mended. No ornament of any kind.
 - **Saturation** — Valeria's green, Aeliana's blue, Aurelian's amber: the most saturated point in an otherwise desaturated image.
 - **Lightest value** — Kael's near-white grey, which is almost colourless and cannot win on saturation at all.
 - ~~**Darkest value**~~ — proposed for Elarine's near-black and **it does not work, s34.** She has ink-dark hair (page canon, Ch. 9), so the darkest mass in the picture is her own head and the eyes cannot beat it by a margin. **A dark eye can only win on value against pale or mid hair.**
-- **Local contrast** — Neris, and **CONFIRMED on her first run**. Her hair is dark and her eyes are dark, which is Elarine's dead end exactly; but an eye can win without being the extreme of the picture if it carries **the picture's widest value jump packed into its smallest area** — a dark iris against a clean light sclera, with the whole surrounding face held mid. It reads as *open*, which for her is the entire character.
+- **Local contrast** — Neris, **CONFIRMED**. Her hair is dark and her eyes are dark, which is Elarine's dead end exactly; but an eye can win without being the extreme of the picture if it carries **the picture's widest value jump packed into its smallest area**. **Two parts, both required: demote the rival mass** (hair as fine ink strands and open washes with bare paper through it, no hard-edged black) **and then site the sharpest step inside the iris.** It reads as *open*, which for her is the entire character — and it retires the belief that a dark eye cannot beat dark hair.
 - **Finish** — what Elarine's run actually did, and it is the better mechanism for her anyway. In a picture that is loose everywhere, the eyes are the only fully resolved thing: rendered tight and exact, sharp-edged, one clean catchlight, while the rest is suggestion. She wins by being **the only part of the image that has been worked out** — which is the character, exactly.
 
 **Check the eye against the HAIR before choosing a mechanism.** Both failures found so far are the same failure: the eye competing with something large and adjacent that shares its property. Amber against warm skin; near-black against near-black hair. **Saturation, value and finish are four different axes and the eye must own one of them outright.**
