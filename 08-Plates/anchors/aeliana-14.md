@@ -27,6 +27,16 @@ Anchors show the person; plates show the moment (style-anchor, s33). This study 
 - **Silver spends no colour.** It is achromatic, so the gown and her eyes remain the only chroma. The eyes-only law survives intact.
 - **Expression ruled: radiant, not grim.** v1 came back severe because the prompt asked only for the cold half. Both halves are true at once — serene and luminous, and entirely unbothered by being looked at.
 
+## READING-DISTANCE PANEL — ADOPTED (s33)
+
+`../images/anchors/aeliana-14-face.png`. **The best eyes in the set.** Pale blue on pale skin under silver hair has nothing to push against, and the **limbal ring** is what keeps them from dissolving into the face. Silver reads warm rather than ashen — correctly distant from quartz-white.
+
+**PANEL JOBS (and this is how the age problem is contained):** the full figure owns the gown, the silhouette and the bearing; **this panel owns her face.** A plate takes each from its owner.
+
+**Age disagreement, logged not fixed:** the full figure reads late teens, this panel reads twelve or thirteen, and she currently reads YOUNGER than Kael's face panel when canon has her a year above him. Neither image is re-cut — the panel-job split makes it survivable — but **a plate carrying her and Kael together must be told her age explicitly.**
+
+**Softer than her sheet.** This face is sweet and slightly wide-eyed; the sheet gives *the arrogance of someone who has never once been contradicted* alongside the radiance. Not blocking for a reference, but a plate of the audience scene (Ch. 24) needs the other half.
+
 ## AUDIT — ONE FORWARD NOTE
 
 - **She reads older than fourteen, and older RELATIVE to the other two.** Kael and Valeria both come out young; she reads several years above them rather than one. Nothing on the page moves — but **the trio share a boat at the end of Book One**, and a group plate would show the gap wrong. Fix at the next cut if it matters there; harmless until then.
