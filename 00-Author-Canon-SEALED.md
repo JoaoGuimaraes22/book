@@ -3,46 +3,17 @@
 
 **TEST (author ruling, s32 — narrowed):** *is this a truth of the story, or a thing I want to hit?* **Destinations, events, ideas.** **NOT how, NOT when, NOT in what order** — unless the author fixed it deliberately, and those stay. Staging rules belong in `06`; do-not-contradict state belongs in `07`. A constraint may be recorded as a constraint; **the HOW is the part we write, and it is not decided here.**
 
-**APPEND-ONLY IS DROPPED (author ruling, s32).** The rule was worthless and counterproductive: it forced superseded lines to stay readable, which is exactly how three law-core files came to carry dead canon (s26). **00 is edited in place like every other file** — wrong lines are corrected, dead lines are cut, and `git log` is the update history. Nothing needs a `[SUPERSEDED]` tag any more; existing tags are historical and may be cleared as they are touched.
+**Organised by subject (s36).** `(author, sN)` and *session N* tags point at the archive's `## SESSION N` record. Edited in place — `git log` is the history; no `[SUPERSEDED]` tags. The chest, the throw, the birth and the fire each have ONE section here.
 
-**EVICTION PASS — RUN (s33).** 00's first eviction. **To `06` §Staging rules evicted from 00, VERBATIM:** the Sanctum's bible-only rule · Severin's fern flex · the *Mine as well* protection · the chest's on-page discipline · the Ch. 4 *unsheathed* pre-echo · the father's throw staged under the paternity rule · Severin's atonement left unremarked. **To the archive, CUT:** two `[SUPERSEDED s20]` blocks and the append-only parenthetical — dead bookkeeping, replaced by §THE UNLEASHING GATE. **DELIBERATELY NOT TOUCHED, and owed to a session with the author:** bullets that weld a TRUTH to a staging clause in one sentence — §THE FIRE'S FLICKER, §ON-PAGE DISCIPLINE (the pregnancy), the knot's *do not rationalize* note, and the *never explain* clauses on Neris's eyes, her language pedagogy and the name. Splitting those rewrites 00's prose and is the author's call, not mine. **ALSO OUT OF SCOPE:** the `## SESSION N ADDITIONS` headers are append-only scaffolding and the file is now half subject-organised and half session-organised; reorganising it by subject is a separate operation. **A constraint recorded as a constraint STAYS** — every *DO NOT RESOLVE* and open valve is untouched.
-
-## Vask's Lightning (sealed — decided session 7)
-- **VASK HAS LIGHTNING PROFICIENCY** — the program forged its instruments as educated soldier-mages (Doctrine of Cultivated Inheritance applies to instruments too). His magic is never shown in Part I–II early (concealment as resting state; the fire remains the only full answer).
-- **THE CAMOUFLAGE FUNCTION (sealed):** when Kael's element declares as LIGHTNING (reserved Part II beat), the world reads it as mundane paternal inheritance — a herder's quirk of blood, nothing to see. The mundane inheritance hides the true one: the Kynemir line runs silently through the mother. The empire's own bloodline doctrine does the concealing for them.
-- **THE COORDINATED LEASH (sealed nuance):** the parents coordinated the smallness across both schools — her magic curriculum rationed in drops (the leash on the blood), his combat school kept weapons-only until declaration. When combat-magic braiding begins (mid-Part II, post-declaration), Vask's proficiency surfaces to Kael as if newly relevant; it was always waiting, by design.
-- **Style rhyme:** Kael's mature fighting style — small, exact, fast lightning threaded into bladework — is literally both parents in one motion: father's economy of motion through mother's economy of power, now in one discipline.
-
-## The Elarine Coat-Wire (open valve — logged session 7)
-- Elarine Sedrane, learning WITH Kael across Part II, becomes the person most likely to breach the coat. Rule: she may notice HOW he thinks, never WHAT he already knew — the gap between those two is where her thread runs hot against the concealment thread (beat 10 onward).
-- Whether she someday notices the gap and files it silently — her own shut-door room — is a door left cracked. DO NOT RESOLVE without a dedicated session.
-
-## The Opening — Sealed Truths (Ch. 7)
-- **THE KNIFE (sealed):** Vask retrieved Kael's knife from the settlement yard the same night — a professional leaves nothing — cleaned it, and returned it to its place on the wall before the boy could look for it. Kael never asks; the answer on the page is the wall itself.
-- **THE PERSUASION LINE (sealed staging):** "You saved him from the empire. Who saves him from the mountain?" was spoken behind the wall, in the sealed room of the master's visit — Kael never hears it, therefore the reader never hears it in Book One. BANKED: available as a later-book reveal in someone's mouth (likely Severin's own), where its first clause detonates properly.
-- **THE HONESTY PIVOT — the bounded irony (sealed):** the parents' turn to precision after the crossing is real love and real respect — and it is BOUNDED. They give exactness in the five schools they can afford (far-counting, the standing game, what fire eats, the body, herb-lore) BECAUSE they cannot afford it in the three that matter most (their past, history, the magic school — where the leash holds and the drops stay drops). Honesty as respect where possible; the old rationing where necessary. The pivot draws a map of their secrets in negative space. Kael filed the asymmetry unknowing (Ch. 7); his conscious noticing is a reserved Part II beat.
-- **THE EMPIRICISM CONVERGENCE (sealed — series engine):** Kael's science-mindedness is not adjacent to magic — it is the deep layer's NATIVE epistemology. Magic IS mechanics (particles, economy, load-bearing lazy places); the elemental taxonomy is a classification error; the bloodline doctrine a political lie atop an honest scientific mistake. Every experiment he runs walks him, unknowing, toward the truth the far continent already holds. The golden children's mockery of his method is the empire failing to recognize its most wanted asset — the Doctrine's blindness repeating. His clash with the capacity-worshipping nobles is therefore dramatic irony against sealed canon, not flavor.
-- **THE AUDIT'S DOUBLE READING (sealed):** "The body held. We will build the rest." is Vask's correct diagnosis (operator broke, machinery worked) and his response (build the operator a bigger machine). Kael receives it as confirmation of "not enough." Both are load-bearing; neither is ever reconciled on the page until the misfile's reserved payoff (the "never seen them try" beat and beyond).
-
-## The Night — What Actually Happened (Ch. 6 — sealed truths, never on the page)
-- **Every man in the settlement died.** House and yard, all of them, in the time it took — the sound that stopped mid-note, the quiet the size of several men. Doctrine, not rage: no one who has seen his son lives. Kael was conscious for none of it and could never testify to any of it (at-capacity rule preserved; no comparison frame exists between what the boy did and what the father did).
-- **VASK COMPLETED THE UNTYING.** Passing the cart with his son over his shoulder, one flick of the blade through the half-drawn line — the girl loose, not a word, not a look. The father finishes the son's first unfinished act. Rhymes with mercy-from-weapons (the Severin night): kindness done at capacity, in passing, while being the most dangerous thing in the dark. The answer to the chapter's last line ("He never learned whether the line had held") is: IT HELD, BECAUSE HIS FATHER HELD IT. Kael may learn this someday or never.
-- **The family: the woman and the girl SURVIVE.** The girl's father was dead before Kael arrived. The girl is the one meaningful living witness — she saw a boy her own size come out of the dark, and a shape that came after him. Banked, costless now: available years later as a recognition beat.
-- **THE FOLKLORE VALVE (open — replaces the closed survivor valve):** a crew of men found dead on the dark of the year, no survivors among them; a widow who saw least; a girl who saw most. The village gets a ghost story — *something came down off the mountain on the longest night* — wrong in all its details, true in its center, and pointing UP. Can travel: village talk → Temple talk → professional ears in the tournament season. Whether it ever reaches dangerous men: open, deliberately.
-- **The dead crew is missed by somebody** (buyers, partners, kin — ordinary rot has ordinary networks). Sealed only that the absence is NOTICED; who notices is part of the folklore valve. Perpetrators remain fully ORDINARY (design canon holds — not the Harvest, not the program).
-- **Neris at the rock (deniable, never resolve):** she stopped at the split rock because someone had to hold the boundary — or because ten years on the island have made the rock a wall for her too. Both readings alive.
-
-## Kynemir — The Absorbed-State Rationale (sealed, session 5)
-- **The Kynemir surfacing is NOT a fear response. It surfaces from the ABSORBED state — calm, flow, the untying state — never from panic.** This is why the Ch. 4 knot (absorbed, mid-conversation, fingers believing) unleashed, and why the Ch. 6 beating (terror, collapse, spilling) did NOT — mortal fear finds nothing, because fear is precisely the state in which the blood is unreachable.
-- Deepens the leash logic: Neris's small-lessons pedagogy targets exactly the absorbed state — she rations the very state in which the blood wakes. The curriculum's smallness is aimed at the mechanism itself.
-
-## The Ending (series destination)
+## THE ENDING (series destination)
 - **The Requiem:** The everlasting darkness is not a faction — it is the WAR ITSELF, the self-feeding cycle of atrocity between empire and coalition (and the rot of power behind both). Kael ends it by becoming the final enemy of the world: he deliberately becomes something so monstrous that a divided world unites against him, and in uniting, remakes itself. He sacrifices himself. The world never learns the truth of what he did.
 - **The witness:** Valeria Vel is the one person who knows the truth. The reader knows; the world does not.
 - Reference tone: Code Geass — Zero Requiem. Bittersweet; the world becomes as he envisioned; he is remembered as the monster.
 - The series' central question — "can he become dangerous without becoming them?" — is answered: he becomes WORSE than them, on purpose, as the final act of love.
 
-## The Parents' True History
+## THE PARENTS
+
+### Their true history
 - **THE ASYMMETRY (sealed):** the bloodline descends through the MOTHER. She was an ASSET — a harvested bloodline child, both livestock and weapon. The father was an INSTRUMENT — a soldier the program forged. He was made; she was TAKEN. The program's return is aimed at her lineage — and now her sons.
 - Both were instruments of an ancient imperial PROGRAM that breeds/harvests children of a rare bloodline.
 - **Names as rebellion:** instruments and assets had DESIGNATIONS, not names. "Vask" and "Neris" are names they chose when the master placed them on the island — possibly the first things they ever chose. There are no "real" names beneath them for Kael's archaeology to find. Naming their sons was therefore an enormous act. (Reserved beat: someone from the program addressing one of them by designation.)
@@ -53,7 +24,7 @@
 - Their shame is double: what they did as instruments, and that they believed it was over and stopped watching.
 - Thematic rhyme: their uprising was the failed first draft of Kael's Requiem — they destroyed an institution; he will destroy the CONDITIONS that grow institutions.
 
-## The Doctrine of Cultivated Inheritance (sealed)
+### The Doctrine of Cultivated Inheritance
 - The program holds that capability passes BOTH by blood and by rearing: a bloodline child raised by cultivated minds becomes more than either alone. Partially true (genetics + upbringing) — but the program holds it as doctrine.
 - Consequence: assets and instruments were EDUCATED, not merely trained — sciences, languages, letters. **Neris's erudition is program-made.** Her learning is itself something that was done to her.
 - The dark rhyme: teaching Kael, out of love, she unknowingly completes the program's own design — cultivated parent producing cultivated child. "They rebuilt the academy that unmade them" is literal.
@@ -61,7 +32,59 @@
 - Kael's defining curiosity (canonized Ch. 3) is the trait the doctrine prizes and the Temple will recognize.
 - **Ch. 5 enactment (the tail eaten):** her curriculum killed her own cover story ("what fire eats" → the sea can never freeze), and his training built his escape (stillness, count, standing game, star-navigation all deployed at the crossing). The cultivated inheritance eats its own tail — on the page now, unmarked.
 
-## The Program
+### THE PATERNITY (sealed — the series' deepest lock; nothing on any page changes)
+- **KAEL IS NOT VASK'S BIOLOGICAL SON.** He is the program's child — bred through the program's apparatus on its finest asset. Neris carried the program's pregnancy: the conception was institutional and coercive, one more thing DONE to her (rhymes with the Doctrine — her erudition, her body, both program-made; the full weight of "she was TAKEN").
+- **THE REBELLION WAS FOR THIS CHILD** (03, verbatim pointer). The uprising's cause is now sealed: they rose while she carried him — the first thing the two of them ever did as people rather than instruments was refuse to hand this child over. Kael's existence is not incidental to the escape; it is its reason. (Deepens the sealed rhyme: their uprising as the failed first draft of his Requiem — both begin as an act of love for one person.)
+- **VASK CHOSE HIM — totally, from before the birth, permanently.** Chosen-over-given made absolute: the man with no given name, who chose his own, chose his son the same way. Every Vask beat already on the page — the tally-marks, the carved wasters, the audit, the seed-bread, the carried-across-ice hand — is retroactively load-bearing: none of it is blood; all of it is choice. HARD STAGING RULE: whenever the reveal lands (to reader or to Kael), it must land as the LARGEST proof of Vask's fatherhood, never as its undoing. It is not a twist against Vask; it is his monument.
+- **WREN is the only child of both by blood** (03 amended, session 9: the only face in the family that resolves). The asymmetry is NEVER felt inside the family on the page — for Vask there is no difference, so the book shows none.
+- **THE BIOLOGICAL FATHER: RESERVED.** Sealed constraints only: an instrument used by the program in its breeding design — unwilling (Character Law applies whenever he is built; no function, no cartoon); and **HE HAS LIGHTNING.**
+- **THE DOUBLE CAMOUFLAGE (upgrades the session-7 seal):** when Kael declares lightning, the world reads mundane paternal inheritance from Vask (camouflage function, sealed session 7) — and that reading is now wrong TWICE. The lightning is real blood inheritance, from a man nobody will ever look for; beneath both lies runs the Kynemir line through the mother. Two false floors before anyone reaches the truth. Vask's own lightning proficiency (session 7) thus serves the concealment even more perfectly than designed: the empire's doctrine confirms a paternity that does not exist.
+- **TWO UNASSEMBLABLE CLUES run from Book One** — neither sufficient alone, their sum invisible without this block: (1) **THE EYES** — Kael's grey is no one's (both parents dark-eyed; ledger ratified session 9; orphan-trait rendering rules in 03); (2) **THE ELEMENT** — the declaration's lightning "from his father" (true inheritance, wrong father). No third clue may be planted without a dedicated session.
+- **NERIS'S SILENCE: absolute, forever.** She will never speak of the conception — not to Vask (who knows, and has never needed it spoken), not to Kael, not under any pressure the series applies. If the truth ever reaches Kael, it does not come from her mouth.
+- **OPEN VALVES (flagged at seal — DO NOT RESOLVE without a dedicated session):**
+  - **(a) Who else knows.** Severin's knowledge deliberately uncommitted — he placed them in the blind spot; what he was told or guessed is a door. The Gardener's knowledge likewise open — the program bred this child; what records survived the rebellion's fire is a door.
+  - **(b) Kael's path to the truth.** Whether he ever learns, when, and from what direction (surviving records, the Gardener's mouth, the bio-father himself) — fully open. The reader-knows/Kael-doesn't gap is a designed asymmetry and may run for books.
+
+### Their proficiencies
+- **VASK HAS LIGHTNING PROFICIENCY** — the program forged its instruments as educated soldier-mages (Doctrine of Cultivated Inheritance applies to instruments too). His magic is never shown in Part I–II early (concealment as resting state; the fire remains the only full answer).
+- **THE CAMOUFLAGE FUNCTION (sealed):** when Kael's element declares as LIGHTNING (reserved Part II beat), the world reads it as mundane paternal inheritance — a herder's quirk of blood, nothing to see. The mundane inheritance hides the true one: the Kynemir line runs silently through the mother. The empire's own bloodline doctrine does the concealing for them.
+- **THE COORDINATED LEASH (sealed nuance):** the parents coordinated the smallness across both schools — her magic curriculum rationed in drops (the leash on the blood), his combat school kept weapons-only until declaration. When combat-magic braiding begins (mid-Part II, post-declaration), Vask's proficiency surfaces to Kael as if newly relevant; it was always waiting, by design.
+- **Style rhyme:** Kael's mature fighting style — small, exact, fast lightning threaded into bladework — is literally both parents in one motion: father's economy of motion through mother's economy of power, now in one discipline.
+- **NERIS's elemental proficiency: AIR** (new canon; her Kynemir inheritance sits beneath it, unchanged — air is her declared/elemental art). **VASK: LIGHTNING** (sealed session 7) — now **revealed to Kael verbally on the declaration evening (Ch. 11)**, amending the session-7 staging (braid training with the father still comes later, Ch. 12+; the reveal moved up, the surfacing-in-training remains).
+- The reveal is itself the coordinated leash's masterstroke (unmarked): telling the boy "lightning, mine as well" on the night of his declaration cements the camouflage inside Kael himself, out of love. Rationing intact: one tool given whole, the hundred questions deferred ("You will not ask the next hundred questions tonight").
+
+### The chest, the throw, the arsenal
+- **The locked chest beneath the floorboards holds VASK'S OLD SWORD and NERIS'S OLD DAGGER** — the weapons of their service, from before the island. Not keepsakes: the tools of what they were. The chest is the single largest object of program archaeology in the house, and it sits under the floor of the one room the boy has lived in his whole life.
+- This completes two standing clauses rather than adding to them. 07 §Standing Rules already reads *"steel is banked — the Temple's, or the fire's"*; the chest IS the fire's steel. §KAEL'S ENDGAME KIT already reads *"Steel banked; wasters rule the present; the daggers arrive when the story earns them"*; the chest is how they arrive.
+- At the raid the parents open the chest. "THE PARENTS UNSHEATHED" ceases to be a figure of speech: the chest opening is the visible signal that the at-capacity ceiling is off, and the reader will understand it before anyone says a word.
+- **In his last hour Vask throws his own sword to Kael.** This is how the steel passes — not a bequest, not a ceremony: a dying man arming his son.
+- Neris's dagger travels a different road: she is extracted with the master and the newborn, and how her blade reaches Kael is OPEN.
+- Dual daggers remain THE doctrine-defying silhouette. The wider arsenal: **dual daggers · throwing knives · a longsword.**
+- **Neris's dagger becomes one of the dual-dagger pair**; its mate arrives later.
+- OPEN (not sealed): whether the longsword IS Vask's sword or a later blade. The inference is natural and available; it has not been ratified.
+- Dual daggers, both hands full — the doctrine-defying silhouette of a low-capacity technician whose magic RIDES THE STEEL (lightning threaded through the blades; the sealed style-rhyme given its weapon: father's economy of motion through mother's economy of power). Sheathe-speed clause: he clears a hand faster than most mages shape a working — the "empty hand" doctrine reserves is something he produces on demand, not a boast he carries. Steel banked; wasters rule the present; the daggers arrive when the story earns them (likely braided with the declaration and the dawn combat-magic school).
+
+### THE KYNEMIR BIRTH — a violent ordeal (sealed; never explained on the page in Book One)
+- **A Kynemir delivery is dangerous to the mother.** There is always a chance the child is born EXTREMELY POTENT — the bloodline open from the first breath — and a potent birth is violent. The danger runs to the woman carrying it.
+- **This is the case with WREN** (s20: born with the bloodline OPEN, massive uncontrolled capacity, eyes permanently red). Neris's delivery is a mortal event, not a domestic one, and both parents know it.
+- **CONSEQUENCE — the family cannot leave the island before the birth.** Ch. 19 gives four reasons for sitting still: they have no hull of their own; the cold-term sea; whoever sent the tail will have watchers on the main quays; and **the pregnancy, which is the load-bearing one.** It is the only one of the four Kael is never given whole.
+- **ON-PAGE DISCIPLINE (hard):** the pregnancy itself is NOT a secret — Neris tells Kael plainly, and he reacts as a twelve-year-old who has never in his life been older than anybody. What is sealed is **why the delivery must be Severin's.** Kael gets the cover reason, which is true and is not the reason (a woman from the village is thirty women from the village by the second day; Severin is the only man on the island carrying both the Art and the medicine). The wrongness reaches the reader through VASK ALONE — he stops listening at the table, and then answers a question that was put to Neris.
+- **RIPPLES FLAGGED, NOT DESIGNED (do not resolve without a session):** beat 17's birth carries mortal risk to Neris; Severin is at the ARENA when the labour begins and must be fetched (below); his knowledge valves stay untouched.
+
+### THE BIRTH AND THE SEMIFINAL — the collision is the design (author, s26; s32)
+- The s25 birth/tournament collision is **INTENDED**, and it is now staged. **Neris goes into labour as the SEMIFINALS BEGIN** — the round the raid lands in (02: the summit is the semifinal; KAEL VS. VALERIA, interrupted, never finished).
+- **SEVERIN IS AT THE ARENA, NOT THE HOUSE.** He sits above that sand for the whole of the games because he is the only enforcement there is (02 — earth to block, nature to mend), so he is six miles away when the one delivery on this island that requires him begins. He is not in the house. **He has to be fetched.**
+- **NERIS IS LEFT ALONE IN A VIOLENT KYNEMIR BIRTH** (s22: the delivery is a mortal event and Wren is born extremely potent). The single mitigation the family built their whole winter around is absent at the exact hour it was built for — and the reason it is absent is the empire's pageant.
+- **VASK IS SPLIT THREE WAYS AND CAN HOLD TWO AT MOST:** his wife alone in the house, his son on the sand, and the one man who can save her sitting in a box above that sand. **His last hour is spent moving between them.** 04 beat 19's *"dies buying time for both his sons"* stands and is now geometrically literal — he is running the distance between them when the island burns.
+- **SEVERIN REACHES THE HOUSE (author ruling, s32 — replaces this block's do-not-resolve on that question).** He is fetched and he gets there, and **Neris gives birth with his help.** She is alone for the beginning of it and not for the end of it. **What is still true and still binding:** he was six miles away when it started, the reason he was away is the empire's pageant, and **Ch. 27 makes the lateness his own choice** — he could hold one stone and not two, so he stopped holding the sky and spent the morning walking four hundred children out of a burning arena.
+- **STILL A CONSTRAINT, and the HOW is unwritten and is the part worth writing:** Vask split three ways · the order of the three legs · whether he reaches Kael at all · and **Neris's survival of the delivery, which stays UNCONFIRMED per §The Mother.**
+
+### The mother's fate
+- Fate UNCONFIRMED as of end of Book One. Separated in the fire, extracted with the newborn by the master. A low flame under the whole series.
+
+## THE PROGRAM & THE GARDENER
+
+### The Program
 - Ancient organization within/beneath the empire; harvests children with the bloodline trait; forges instruments.
 - **Vernacular (canon):** survivors and those who fled call its collection arm "the Harvest." The program's FORMAL name is reserved — decide it when the naming system (and the Gardener's designation) is built.
 - Rebuilt in secret after the parents' rebellion. No longer loyal to the throne.
@@ -70,7 +93,14 @@
 - Thread (Option 2): program survivors/defectors seeded the coalition's cadre; its methods live on both sides of the war.
 - Held in reserve (Option 3, unconfirmed): the reborn program actively steers events on both sides.
 
-## The Big Bad: The Leader — "THE GARDENER"
+### THE SANCTUM (the program's teaching academy — name SEALED, bible-only)
+- **"The Sanctum"** = the program's teaching arm: the academy that educated its assets and instruments — where Vask was forged and Neris was schooled. Cold, ecclesiastical; rhymes darkly with "the Temple" (the empire has two schools of the person, and Kael is the only child alive shaped by both).
+- The program's own formal name remains reserved (decide with the naming system).
+
+### The tournament's hidden function
+- The Grand Tournament convenes ALL THREE imperial mage schools (02). The harvest doesn't need three nets: the empire pours all three schools into one place. Screening scope, the princess's attendance, and the island filling all follow from this. The raid strikes the empire's future officer corps in one building.
+
+### The Gardener
 - **Pattern-name (canon):** before any true name surfaces, Kael coins "the Gardener" for the pattern in events — someone who plants, prunes, and harvests on both sides of the war. The trio's (and reader's) word for the dread. In-voice for Kael: a pattern-namer, not a poet; "harvest" is the program's own vocabulary.
 - **True name (RESERVED, not sealed):** strong candidate mechanism — he KEPT HIS DESIGNATION as his name, the inverse of the parents, who shed theirs. Where they chose names to become people, he kept the number-word to declare he never needed to be one. His doctrine in a single choice; the reveal lands as characterization. Decide the designation itself when the program's naming system is built.
 - The thought-dead head of the program. The parents believed they killed him. He survived and rebuilt.
@@ -80,19 +110,17 @@
 - He likely knows the mother's fate and the brother's whereabouts.
 - To Kael, for a long time, he is not even a name — only a pattern in events that shouldn't connect.
 
-## The Raid on the Island (true causality)
-- The coalition strikes because the tournament concentrates: a royal princess (decapitation/abduction value), program officials conducting the harvest, and possibly something the program keeps/transports at the Temple.
-- The strike makes hard strategic sense with ZERO reference to Kael's family — they are collateral of the empire's own gravity.
-- AND the deeper cause is the bloodline itself. Both true at once. When Kael assembles this (books later): the island didn't burn because of HIM — but it burned because of what he IS.
-- THIRD HAND: planted in the raid's chaos, one ambiguous glimpse of something that fits neither coalition nor empire — a weapon, a word, a discipline from the far continent. Explained by nobody. Rereaders' treasure.
+### HALDEN IS THE EMPIRE — not the Sanctum, not the program (author, s21)
+- **Halden is EMPIRE.** The door logged at his introduction ("no program connection established, none excluded") is CLOSED on the program side: he is not Sanctum, not program, and has no knowledge of either.
+- **He reaches ABOVE the First Master.** An entry lodged to the games under the games' seal cannot be undone by Severin, who governs the Temple and not the tournament. This is the first time in the series the reader sees Severin fail, and it pre-tests his LIMIT (he believes education can outrun rot) a full book before the fire does.
+- **DESIGN LOAD (why this matters more than it looks):** the machinery that takes Kael is ORDINARY imperial machinery, correctly used, by a man who is not cruel and asks for nothing. This preserves the seal on the raid — the family are collateral of the empire's own gravity; the island does not burn because of Kael. Had Halden been program, the fire would quietly have become about him.
+- **NOT IN CONFLICT with 03's sealed "Corvane's man":** an imperial officer coordinating with a house serves both at once. On-page Severin reads him as "not one of the great houses, not anyone's cousin" — Severin is WRONG about that and does not know it, which is characterisation, not error. **OPEN (do not resolve without a session): which of the two Halden is actually serving, and whether he knows.**
 
-## The Village Night (Ch. 6 — design canon)
-- Perpetrators are ORDINARY — empire rot, slavers, men. NOT the Harvest, NOT the program. The coincidence would cheapen it.
-- The free rhyme (unmarked, for rereaders): Kael's first sight of the world is a child being taken — the shape of the thing that made his family, unrecognized by him.
-- The promise-death (Ch. 5 — now SPENT) is the same design inverted: the parents' curriculum destroys the parents' cover story. The cultivated inheritance eats its own tail.
-- **Staging input from Ch. 5 (canon):** the crossing happens on the DARK OF THE YEAR — the village winter feast, everyone down at the water till morning, lamps end to end. The settlement Kael finds is therefore OUTSIDE the feast — its absence from the light is itself a tell (the rot lives where the celebration doesn't reach). The feast supplies: maximum lights (the fallen stars at their fullest, the lure at its strongest), emptied paths (how a child moves unseen), and the longest night (time for the whole catastrophe before dawn).
+### THE ENTRY, AND BEAT 16 (truths; the mechanics are 04 beat 16)
+- Kael is entered by a third party, under seal, nine days before the standings closed — which means the entry was written by someone who knew where the boy would fall on the sheet before the boy did. Nobody concedes; the parents' agency is simply removed (author, s21).
+- **BEAT 16 — THE ASK AND THE REFUSAL.** Withdrawal is institutionally impossible, so the ask is an EXTRACTION MID-TOURNAMENT — and for the first time in his life **KAEL REFUSES**: he refuses to leave the island with his pregnant mother and newborn brother because he wants the tournament, and then the island burns. **His guilt architecture for the whole series, and 00-SAFE:** the refusal does not cause the raid; it only puts him at the Temple and his family still on the island. **The refusal itself remains UNSPENT** — Ch. 19 asks him nothing, and he says nothing (author, s21/s22).
 
-## MAGIC — DEEP LAYER (sealed — decided 2026-08-09)
+## MAGIC — DEEP LAYER (sealed)
 *The mechanical truth of magic. Never on-page in Part I; surfaces in fragments from Part II (Temple teaching = the empire's approximation); full truth is series-scale.*
 
 - **The particle:** matter is composed of ordinary substance AND a second, finer order of particle — the particles of magic, present in all matter, ambient in the world.
@@ -115,7 +143,24 @@
 - **Kael's profile under the model:** a small reserve spent with near-perfect economy. His low-capacity/high-control technician style is the DEEP-TRUTH-FAVORED profile in a capacity-worshipping world. His whole style is the truth of magic, hiding in plain sight.
 - **Deniable adjacency (logged, not sealed):** Neris's language pedagogy (attention, sound, "the ends of the languages") may sit near magic's grammar. Never explain. Gives the pale-making bird-word somewhere to live.
 
-## THE KYNEMIR BLOODLINE (sealed — decided 2026-08-09)
+### Minima vs. the deeper structure (sealed)
+- The world's matter has a true fine structure (atoms, in the author's frame) that this pre-scientific society has not discovered. **The minima are NOT that structure's floor: they are a constituent WITHIN matter's deeper structure** (as electrons and protons are constituents of atoms). Resonants touch the minima to change a substance's nature — the magic particle inside matter, not the smallest division of matter.
+- The Temple's "smallest grains of the world" is therefore an honest pre-scientific ERROR stacked under the existing honest errors. A substance's chemical composition and its minima composition are DIFFERENT things; the minima-stance reflects the substance's nature and can be read by feel (Ch. 10's instrument idea). Never told in Book One; Kael on-page withholds assent to the untested "smallest" claim (Ch. 10) without knowing what is under it.
+
+### Elemental command (sharpens the Kynemir fence)
+- Elemental resonance includes COMMANDING the element's own matter (an earth Resonant throws the rock; a water Resonant moves the mist): motion MEDIATED by the element's connection. Kynemir remains motion UNMEDIATED, on anything, nature unchanged. The distinction moves further from the surface; nothing on any page names it.
+
+### THE PROXIMITY LAW (sealed mechanism + page-facing rule)
+- Deep layer: infection spreads outward from one's own minima. **The farther from the body, and the more disconnected the target, the harder the infection takes.** Page-facing consequence: the Art is spent FROM the body — anywhere on it, not the hands specifically (lightning threading a whole body, flame off a shoulder: all legal); what matters is the body, not the limb. **REMOTE manifestation (fire bursting from the ground at a distance) is an ADVANCED ability.**
+- The technician's road around it (Kael, Ch. 11 duel — deniable deep-truth): a CONTINUOUS MEDIUM is a connection — the ground touching his boot touches her foot; a thread spent through his own heel runs along the packed dirt "the way sound runs along a beam." Understanding beats distance.
+
+### Kael — the many-element road (direction)
+- His small-scale command across all six elements, powered by understanding the world's own mechanisms ("the Art does what you understand," Ch. 10), is a FUTURE WEAPON: most Resonants work almost nothing outside their proficiency (proficiency = far more capacity there), so nobody fights a man who can spend threads in six elements with knowledge instead of capacity. Seeds planted Ch. 10 (the mist two roads; the garden trial; the spark that answers before he finishes asking — lightning hint, deniable).
+
+### Page vocabulary
+- The five-term Resonance system (Resonant · resonance · resonate · resonant thread · Resonance Theory), the released and retired words, and *the minima* as a COMMON word are page vocabulary owned by `02-World-Bible/lexicon.md` and `magic.md`. Older lines here that read *mage* read as *Resonant*; sealed content unchanged.
+
+## THE KYNEMIR BLOODLINE (sealed)
 - **Name:** the KYNEMIR bloodline — old, predating/outside the empire. Belongs to NO naming register — like "Neris." Deniable resonance (never explain): possibly the same origin tongue; braids into the far-continent/origin-of-magic thread.
 - **What it grants:** KINETIC magic — force and motion commanded directly, unmediated by element. It sits OUTSIDE the six-element taxonomy — living proof the known world's model of magic is incomplete. (This, not magic access, is why the program harvests them: anyone trainable can be a mage; only Kynemir can do THIS.) **Mechanism: see MAGIC — DEEP LAYER (motion, not transmutation).**
 - **The sign:** during a kinetic unleashing, the mage's eyes turn RED.
@@ -127,11 +172,42 @@
 - **Wren** carries the Kynemir blood (through Neris). Series-long door: the brother's eyes.
 - Still TBD (deliberately, for later books): whatever else the bloodline grants beyond kinetic; why kinetic is feared as world-breaking; the bloodline's true origin.
 
-## The Far Continent
-- A deeper enemy/mystery beyond the known world; clues exist from Book One (the pale-making word in Kael's "bird languages," the chart with a coastline that officially doesn't exist, the third-hand glimpse in the raid).
-- The origin/nature of magic braids into this thread. Two mysteries that turn out to be one. (Now includes: whether the elemental taxonomy is all there is; what Kynemir's particle/infection truly is; where the bloodline comes from.)
+### The absorbed state (sealed, session 5)
+- **The Kynemir surfacing is NOT a fear response. It surfaces from the ABSORBED state — calm, flow, the untying state — never from panic.** This is why the Ch. 4 knot (absorbed, mid-conversation, fingers believing) unleashed, and why the Ch. 6 beating (terror, collapse, spilling) did NOT — mortal fear finds nothing, because fear is precisely the state in which the blood is unreachable.
+- Deepens the leash logic: Neris's small-lessons pedagogy targets exactly the absorbed state — she rations the very state in which the blood wakes. The curriculum's smallness is aimed at the mechanism itself.
 
-## The Master — SEVERIN (origin now SEALED · endgame still OPEN)
+### THE UNLEASHING GATE (author, s20)
+- **The Kynemir unleashing requires BOTH: great will / focus / flow AND (magical CAPACITY *or* EXTREME CONTROL).** The absorbed-state rule (sealed session 5) is unchanged and is now the gate's first term: flow is necessary and insufficient; fear still finds nothing.
+- **Threshold, not switch — the bar scales with what is moved.** Ch. 4's knot cleared a nearly-free bar: exact address at a load-bearing lazy place costs almost nothing (deep layer), so a nine-year-old's control sufficed for one breath of red. Nothing since has been cheap enough. **AUTHOR NOTE: the knot scene stays strange. Do not rationalize it further on the page.**
+- **KAEL UNLOCKS IN BOOK TWO.** The fire is not the unleashing.
+- **THE FIRE'S FLICKER (sealed staging).** At Vask's death, **Kael's eyes FLICKER.** Never truly shown; never made clear what happened. Kael cannot see his own eyes (rule stands), so it reaches the reader only by inference — the Ch. 4 knot's technique, at maximum stakes. Rendered as him passing THROUGH terror into the cold place, never as panic (absorbed-state rule preserved). **DO NOT RESOLVE.**
+- **CONSEQUENCE — the tournament devil-eyes answer is CLOSED.** This file logged "devil-eyes before hundreds" as a tempting solution to the open recognition-vector valve at the tournament. The valve itself stays OPEN; that candidate answer is dead.
+
+## THE RAID ON THE ISLAND
+
+### True causality
+- The coalition strikes because the tournament concentrates: a royal princess (decapitation/abduction value), program officials conducting the harvest, and possibly something the program keeps/transports at the Temple.
+- The strike makes hard strategic sense with ZERO reference to Kael's family — they are collateral of the empire's own gravity.
+- AND the deeper cause is the bloodline itself. Both true at once. When Kael assembles this (books later): the island didn't burn because of HIM — but it burned because of what he IS.
+- THIRD HAND: planted in the raid's chaos, one ambiguous glimpse of something that fits neither coalition nor empire — a weapon, a word, a discipline from the far continent. Explained by nobody. Rereaders' treasure.
+
+### THE BELL, AND NOTHING AFTER IT (author, s32)
+- **The semifinal is never fought.** The third bell strikes, the judge's hand comes up, and the invasion arrives in that instant. **No exchanges, ever.** `01`'s pitch line still reads *mid-duel* and is left alone as jacket copy.
+- **The fleet comes out of a fog** that has sat on the island since the night before. Hundreds of ships, at speed, onto the beaches and the harbour. **Trebuchets, mostly**, off the ships, ranging on the arena; the Art is among them and the difference does not matter to anyone underneath it. The arena is the target because every noble child of three schools and a princess are inside one building — which is this file's own raid logic, arriving on the page without anybody stating it.
+
+### THE ISLAND IS NOT RAIDED, IT IS EMPTIED
+- The coalition kills the island: men, women and children, across the whole of it. Not a strike and not a sack — **the thing they came to do.** The village, the settlement, the roads, all of it is inside the scope.
+- **CONSEQUENCE FOR AN EXISTING VALVE, flagged not decided:** `04` §Open valves banks the settlement girl and her mother (the intelligence vector; the recognition/mercy beat) with the caution *do not foreclose them*. Ch. 27 does not go near them and forecloses nothing. **Whether they survive the island is open and is the author's to say.**
+
+### THE NOBLES' DISTRICT, AND THE GATE
+- The district itself — walled, inland, a mile up from the water, the only real wall on the island, the rally point Valeria's standing orders name — is world canon in `02-World-Bible/geography.md`.
+- **THE THING TO HIT: Valeria is admitted at that gate and Kael is not.** He has no house. He crosses the island alone to reach his parents. This is where the coat finally fails completely and it fails the other way round — **not because he is nothing to look at, but because he is nobody's.** *Kael of what?* answered at a wall, in wartime, at cost.
+
+### WHAT KAEL HEARS AT THE GATE
+- The men killing in the eastern gateway **speak the downhill language**, and **Kael understands every word.** He has heard it from two mouths in his life: his mother's, who taught it to him more carefully than anything else she ever taught him, and the master's, once, at his own table.
+- **He reaches no conclusion, and the page joins nothing up.** The parents' reaction — the word in a raider's mouth, the mother's face — is still owed and is not spent by this.
+
+## SEVERIN (origin SEALED · endgame OPEN)
 - **Name (canon):** Severin. Sits BETWEEN registers — too austere for the golden children, too lettered for the village — as he sits between worlds. On-page he is mostly "the master"; the name appears rarely, so it carries weight when it does.
 - **ORIGIN (sealed — decided 2026-08-09):** an old ENFORCER of the empire — an instrument of the empire's corrupt machinery, NOT of the program (empire man, not program man; he can plausibly not know the program's true nature, or believe it dead as the parents did). During the parents' rebellion/flight, the empire sent him to hunt them. At the decisive moment THEY had HIM — two of the most lethal people alive, every reason to finish it — and they saved his life instead. Mercy from weapons.
 - **The debt repaid:** when he later found they had escaped the Harvest, he returned the favor — led them to the island and placed them in the empire's blind spot, which he knows precisely because he was the enforcer and now runs the light. "Hiding in the empire's own shadow" is literal: HIS shadow.
@@ -142,175 +218,63 @@
 - **THE WINTER-FEAST FACT (Ch. 5 — new open valve, liar's-knot family):** the master mentions, sideways, that the village keeps the winter feast on the dark of the year — everyone at the water till morning. Six weeks later Kael crosses on exactly that night. Innocent table-talk, or the door handed over on purpose? Both readings alive, perhaps even to him. DO NOT RESOLVE. (Joins the liar's knot in Severin's sealed-room endgame.)
 - **What we STILL do not decide (the room shrinks, it does not empty):** what he does with Wren (saint's ward or long design); whether the extraction was pure rescue; whether his reform doctrine curdles under pressure; all four fire-ignition readings remain open (protection failed / compromised / died for the secret / deeper design); THE LIAR'S KNOT (Ch. 4) — innocent gift or quiet test, open valve, perhaps even to him; THE WINTER-FEAST FACT (Ch. 5) — same family, same rule.
 
-## The Brother — WREN
+### Resonant — earth and nature, and the medicine
+- **Severin is a Resonant: EARTH + NATURE dual proficiency (rare). Very powerful, very experienced.** Not made explicit on-page in early Part II — Ch. 10 shows only the fact of his art (the fern) and seeds the nature flavor deniably (the sill of green pots). Whenever the future shows him in action, earth/nature is what he mostly uses. His demonstrations stay candle-scale (the first-magic-as-spectacle reserve for the tournament is untouched); his grey's drain-reading grows louder and is STILL never confirmed.
+- **Severin has nature resonance AND trained medical knowledge** — decades of read medicine, not merely the Art. Page canon (Ch. 19, Neris): the Art on its own is worth very little; a man who can push a bone toward mending and does not know which way the bone goes will push it the wrong way. **Nature is the Art of mending; the Art does what you understand.** The two halves in one head are why he is the only person on this island who can take this delivery.
+
+## WREN
 - **Name (canon):** Wren — the mother teaches languages "for the birds"; her second son is a bird. Village-plain, tender; the *ren* sits inside "Neris"-adjacent softness and inside Kael's memory. The master will almost certainly RENAME him — so the birth name becomes a cipher only Kael carries. The one-word recognition scene is banked for the endgame.
 - Born at the end of Act One. Second carrier of the bloodline (through the mother).
 - Raised by the master (and the mother? her survival/custody status deliberately unconfirmed).
 - Series-long door: the future the Requiem saves — or the opposite number Kael faces at the end.
 
-## The Mother
-- Fate UNCONFIRMED as of end of Book One. Separated in the fire, extracted with the newborn by the master. A low flame under the whole series.
+### The eyes are permanent (author, s20)
+- Wren is born with the bloodline **OPEN**: massive capacity from birth, **uncontrolled**. **His eyes are permanently red.**
+- **NERIS CAN SWITCH HERS OFF** — new canon, and she always could. Her control-first pedagogy (the leash) reads differently in hindsight: she teaches the discipline she survives by. Never explain.
+- Dark hair (his mother's), **eyes permanently red**. Wren remains the only child of both by blood, but his eyes resolve to the BLOODLINE, not to a parent. Neither brother's eyes come from the house, for opposite reasons: Kael's grey belongs to nobody, Wren's red belongs to something older than anybody. **The paternity architecture is untouched** — still two unassemblable clues, still no third planted.
+- **CONSEQUENCES FLAGGED, NOT DESIGNED (do not resolve without a dedicated session):** a newborn with permanent devil-eyes cannot be hidden, and the folklore is already on the page (Ch. 9 legend half; Ch. 12 weld) in Kael's own hearing. Beat 17 (Kael holds him, perhaps once) now carries RECOGNITION inside the pure joy. The extraction's urgency, Severin's knowledge valves, and what he does with Wren all take load from this. None of it decided here.
 
-## The Unfinished Duel
+## THE PRINCESS — AELIANA CASSIVARA VESSANTINE
+- Escapes with Kael and Valeria. The living symbol of the empire at close range; the Trojan horse into the imperial storyline. Her long arc (reformer / pawn / tyrant / ally of the final design) undecided.
+- Naming device (canon, see 03): the name shortens as her empire recedes; "Liana"/"Ana" reserved as intimacy beats.
+
+## VALERIA & THE DUEL
 - Kael vs. Valeria. **It is never fought.** The bell strikes to begin the semifinal and the invasion arrives in the same instant; there is not one exchange between them on any page (SPENT — Ch. 27). No winner, and no fight to have had a winner.
 - **What Kael takes out of it:** he had a year to find a way to beat her and never found one, and she asked him on the sand and he told her the truth. The question is never answered, in any book.
 - Unresolved for the entire series; the rematch, whatever it means by then, is reserved for very late in the saga.
 
-## The Princess — AELIANA CASSIVARA VESSANTINE (name SEALED — stale "TBD" header corrected session 7; "Rhaenya" RELEASED, Rhaenyra collision)
-- Escapes with Kael and Valeria. The living symbol of the empire at close range; the Trojan horse into the imperial storyline. Her long arc (reformer / pawn / tyrant / ally of the final design) undecided.
-- Naming device (canon, see 03): the name shortens as her empire recedes; "Liana"/"Ana" reserved as intimacy beats.
+## ELARINE — the coat-wire (open valve)
+- Elarine Sedrane, learning WITH Kael across Part II, becomes the person most likely to breach the coat. Rule: she may notice HOW he thinks, never WHAT he already knew — the gap between those two is where her thread runs hot against the concealment thread (beat 10 onward).
+- Whether she someday notices the gap and files it silently — her own shut-door room — is a door left cracked. DO NOT RESOLVE without a dedicated session.
 
-## SESSION 8 ADDITIONS (Ch. 9 — sealed 2026-08-09)
+## CH. 6–7 SEALED TRUTHS
 
-### THE SANCTUM (the program's teaching academy — name SEALED, bible-only)
-- **"The Sanctum"** = the program's teaching arm: the academy that educated its assets and instruments — where Vask was forged and Neris was schooled. Cold, ecclesiastical; rhymes darkly with "the Temple" (the empire has two schools of the person, and Kael is the only child alive shaped by both).
-- The program's own formal name remains reserved (decide with the naming system).
+### The night (Ch. 6) — what actually happened, never on the page
+- **Every man in the settlement died.** House and yard, all of them, in the time it took — the sound that stopped mid-note, the quiet the size of several men. Doctrine, not rage: no one who has seen his son lives. Kael was conscious for none of it and could never testify to any of it (at-capacity rule preserved; no comparison frame exists between what the boy did and what the father did).
+- **VASK COMPLETED THE UNTYING.** Passing the cart with his son over his shoulder, one flick of the blade through the half-drawn line — the girl loose, not a word, not a look. The father finishes the son's first unfinished act. Rhymes with mercy-from-weapons (the Severin night): kindness done at capacity, in passing, while being the most dangerous thing in the dark. The answer to the chapter's last line ("He never learned whether the line had held") is: IT HELD, BECAUSE HIS FATHER HELD IT. Kael may learn this someday or never.
+- **The family: the woman and the girl SURVIVE.** The girl's father was dead before Kael arrived. The girl is the one meaningful living witness — she saw a boy her own size come out of the dark, and a shape that came after him. Banked, costless now: available years later as a recognition beat.
+- **THE FOLKLORE VALVE (open — replaces the closed survivor valve):** a crew of men found dead on the dark of the year, no survivors among them; a widow who saw least; a girl who saw most. The village gets a ghost story — *something came down off the mountain on the longest night* — wrong in all its details, true in its center, and pointing UP. Can travel: village talk → Temple talk → professional ears in the tournament season. Whether it ever reaches dangerous men: open, deliberately.
+- **The dead crew is missed by somebody** (buyers, partners, kin — ordinary rot has ordinary networks). Sealed only that the absence is NOTICED; who notices is part of the folklore valve. Perpetrators remain fully ORDINARY (design canon holds — not the Harvest, not the program).
+- **Neris at the rock (deniable, never resolve):** she stopped at the split rock because someone had to hold the boundary — or because ten years on the island have made the rock a wall for her too. Both readings alive.
 
-### THE GHOST-STORY DECISION (argued and sealed in principle, session 8)
+### The night (Ch. 6) — design canon
+- Perpetrators are ORDINARY — empire rot, slavers, men. NOT the Harvest, NOT the program. The coincidence would cheapen it.
+- The free rhyme (unmarked, for rereaders): Kael's first sight of the world is a child being taken — the shape of the thing that made his family, unrecognized by him.
+- The promise-death (Ch. 5 — now SPENT) is the same design inverted: the parents' curriculum destroys the parents' cover story. The cultivated inheritance eats its own tail.
+- **Staging input from Ch. 5 (canon):** the crossing happens on the DARK OF THE YEAR — the village winter feast, everyone down at the water till morning, lamps end to end. The settlement Kael finds is therefore OUTSIDE the feast — its absence from the light is itself a tell (the rot lives where the celebration doesn't reach). The feast supplies: maximum lights (the fallen stars at their fullest, the lure at its strongest), emptied paths (how a child moves unseen), and the longest night (time for the whole catastrophe before dawn).
+
+### The opening (Ch. 7)
+- **THE KNIFE (sealed):** Vask retrieved Kael's knife from the settlement yard the same night — a professional leaves nothing — cleaned it, and returned it to its place on the wall before the boy could look for it. Kael never asks; the answer on the page is the wall itself.
+- **THE PERSUASION LINE (sealed staging):** "You saved him from the empire. Who saves him from the mountain?" was spoken behind the wall, in the sealed room of the master's visit — Kael never hears it, therefore the reader never hears it in Book One. BANKED: available as a later-book reveal in someone's mouth (likely Severin's own), where its first clause detonates properly.
+- **THE HONESTY PIVOT — the bounded irony (sealed):** the parents' turn to precision after the crossing is real love and real respect — and it is BOUNDED. They give exactness in the five schools they can afford (far-counting, the standing game, what fire eats, the body, herb-lore) BECAUSE they cannot afford it in the three that matter most (their past, history, the magic school — where the leash holds and the drops stay drops). Honesty as respect where possible; the old rationing where necessary. The pivot draws a map of their secrets in negative space. Kael filed the asymmetry unknowing (Ch. 7); his conscious noticing is a reserved Part II beat.
+- **THE EMPIRICISM CONVERGENCE (sealed — series engine):** Kael's science-mindedness is not adjacent to magic — it is the deep layer's NATIVE epistemology. Magic IS mechanics (particles, economy, load-bearing lazy places); the elemental taxonomy is a classification error; the bloodline doctrine a political lie atop an honest scientific mistake. Every experiment he runs walks him, unknowing, toward the truth the far continent already holds. The golden children's mockery of his method is the empire failing to recognize its most wanted asset — the Doctrine's blindness repeating. His clash with the capacity-worshipping nobles is therefore dramatic irony against sealed canon, not flavor.
+- **THE AUDIT'S DOUBLE READING (sealed):** "The body held. We will build the rest." is Vask's correct diagnosis (operator broke, machinery worked) and his response (build the operator a bigger machine). Kael receives it as confirmation of "not enough." Both are load-bearing; neither is ever reconciled on the page until the misfile's reserved payoff (the "never seen them try" beat and beyond).
+
+### The ghost story (sealed in principle, session 8)
 - **RECOGNIZED.** When the folklore valve's Temple-side whisper arrives (mountain, longest night, dead crew), Kael RECOGNIZES his own night — unrecognized would insult his established mind and waste the valve's one Temple station.
 - **RECOGNITION WITHOUT ATTRIBUTION (design direction):** he assembles "the men died" — and refuses the last inference (the hands). The night is the one file he does not open (Ch. 6 precedent: things he "would not be able to think about"). The comparison frame stays UNASSEMBLED BY CHOICE — characterization, not contrivance; the father-glimpse ledger's spirit holds.
-- **SPEND: Ch. 10, not Ch. 9.** Staged as the hiding arc's second engine (safety braided with social cost — the world already tells stories pointing up his mountain). Exact staging (degree of assembly, the not-thinking mechanism, how the devil-eyes garble attaches to HIS night, impact on the "never seen them try" beat) = a dedicated argument at the Ch. 10 session. Ch. 9 spent only the DECOUPLED legend half (generic devil-eyes, no mountain, no date — Oss's sea-wall telling).
 - Requiem rhyme deepened: the world tells the story of him as the monster years before he chooses to become it; he will hear "its eyes were red" as the one false detail — the only true thing in the story.
 
-### THE TOURNAMENT — INTER-SCHOOL (sealed; harvest logic upgraded)
-- The Grand Tournament convenes ALL THREE imperial mage schools (02). The harvest doesn't need three nets: the empire pours all three schools into one place. Screening scope, the princess's attendance, and the island filling all follow from this. The raid strikes the empire's future officer corps in one building.
-
-### KAEL'S ENDGAME KIT (direction logged — emerges much later; see 03)
-- Dual daggers, both hands full — the doctrine-defying silhouette of a low-capacity technician whose magic RIDES THE STEEL (lightning threaded through the blades; the sealed style-rhyme given its weapon: father's economy of motion through mother's economy of power). Sheathe-speed clause: he clears a hand faster than most mages shape a working — the "empty hand" doctrine reserves is something he produces on demand, not a boast he carries. Steel banked; wasters rule the present; the daggers arrive when the story earns them (likely braided with the declaration and the dawn combat-magic school).
-
-## SESSION 9 ADDITIONS (sealed 2026-08-12 · RECONSTRUCTED session 10, 2026-08-20 — rebuilt from 05 §SESSION 9 RESOLVED + 03 pointers + session record; audit flags ratified and cleared session 11, 2026-08-20)
-
-### THE PATERNITY (sealed — the series' deepest lock; nothing on any page changes)
-- **KAEL IS NOT VASK'S BIOLOGICAL SON.** He is the program's child — bred through the program's apparatus on its finest asset. Neris carried the program's pregnancy: the conception was institutional and coercive, one more thing DONE to her (rhymes with the Doctrine — her erudition, her body, both program-made; the full weight of "she was TAKEN").
-- **THE REBELLION WAS FOR THIS CHILD** (03, verbatim pointer). The uprising's cause is now sealed: they rose while she carried him — the first thing the two of them ever did as people rather than instruments was refuse to hand this child over. Kael's existence is not incidental to the escape; it is its reason. (Deepens the sealed rhyme: their uprising as the failed first draft of his Requiem — both begin as an act of love for one person.)
-- **VASK CHOSE HIM — totally, from before the birth, permanently.** Chosen-over-given made absolute: the man with no given name, who chose his own, chose his son the same way. Every Vask beat already on the page — the tally-marks, the carved wasters, the audit, the seed-bread, the carried-across-ice hand — is retroactively load-bearing: none of it is blood; all of it is choice. HARD STAGING RULE: whenever the reveal lands (to reader or to Kael), it must land as the LARGEST proof of Vask's fatherhood, never as its undoing. It is not a twist against Vask; it is his monument.
-- **WREN is the only child of both by blood** (03 amended, session 9: the only face in the family that resolves). The asymmetry is NEVER felt inside the family on the page — for Vask there is no difference, so the book shows none.
-- **THE BIOLOGICAL FATHER: RESERVED.** Sealed constraints only: an instrument used by the program in its breeding design — unwilling (Character Law applies whenever he is built; no function, no cartoon); and **HE HAS LIGHTNING.**
-- **THE DOUBLE CAMOUFLAGE (upgrades the session-7 seal):** when Kael declares lightning, the world reads mundane paternal inheritance from Vask (camouflage function, sealed session 7) — and that reading is now wrong TWICE. The lightning is real blood inheritance, from a man nobody will ever look for; beneath both lies runs the Kynemir line through the mother. Two false floors before anyone reaches the truth. Vask's own lightning proficiency (session 7) thus serves the concealment even more perfectly than designed: the empire's doctrine confirms a paternity that does not exist.
-- **TWO UNASSEMBLABLE CLUES run from Book One** — neither sufficient alone, their sum invisible without this block: (1) **THE EYES** — Kael's grey is no one's (both parents dark-eyed; ledger ratified session 9; orphan-trait rendering rules in 03); (2) **THE ELEMENT** — the declaration's lightning "from his father" (true inheritance, wrong father). No third clue may be planted without a dedicated session.
-- **NERIS'S SILENCE: absolute, forever.** She will never speak of the conception — not to Vask (who knows, and has never needed it spoken), not to Kael, not under any pressure the series applies. If the truth ever reaches Kael, it does not come from her mouth.
-- **OPEN VALVES (flagged at seal — DO NOT RESOLVE without a dedicated session):**
-  - **(a) Who else knows.** Severin's knowledge deliberately uncommitted — he placed them in the blind spot; what he was told or guessed is a door. The Gardener's knowledge likewise open — the program bred this child; what records survived the rebellion's fire is a door.
-  - **(b) Kael's path to the truth.** Whether he ever learns, when, and from what direction (surviving records, the Gardener's mouth, the bio-father himself) — fully open. The reader-knows/Kael-doesn't gap is a designed asymmetry and may run for books.
-
-## SESSION 14 ADDITIONS (ratified 2026-08-21)
-
-### THE RESONANCE VOCABULARY REFORM (page + bible vocabulary; retro pass executed same session)
-- Five-term system (full register in 02): **Resonant** (a person capable of the Art) · **resonance** (the CONNECTION between person and minima) · **resonate** (the act of establishing it) · **resonant thread** (a controlled connection — the "spend a thread" idiom's formal term) · **Resonance Theory** (the scholarly field).
-- "Mage" retired from page vocabulary; "wright" and "channeling" RELEASED; "working" returned to ordinary labor. Older blocks in this file that read "mage" are to be read as "Resonant"; sealed content unchanged.
-- **"The minima" reclassified a COMMON word** — the world's everyday name for the fine grains in all things. Neris may use and acknowledge it (Ch. 10 on). She never handed it to Kael in Part I — vocabulary withheld is the rationing; Ch. 8's "the word was not hers" stays true.
-
-### MINIMA vs. THE DEEPER STRUCTURE (deep-layer refinement — sealed)
-- The world's matter has a true fine structure (atoms, in the author's frame) that this pre-scientific society has not discovered. **The minima are NOT that structure's floor: they are a constituent WITHIN matter's deeper structure** (as electrons and protons are constituents of atoms). Resonants touch the minima to change a substance's nature — the magic particle inside matter, not the smallest division of matter.
-- The Temple's "smallest grains of the world" is therefore an honest pre-scientific ERROR stacked under the existing honest errors. A substance's chemical composition and its minima composition are DIFFERENT things; the minima-stance reflects the substance's nature and can be read by feel (Ch. 10's instrument idea). Never told in Book One; Kael on-page withholds assent to the untested "smallest" claim (Ch. 10) without knowing what is under it.
-
-### ELEMENTAL COMMAND (clarification — sharpens the Kynemir fence)
-- Elemental resonance includes COMMANDING the element's own matter (an earth Resonant throws the rock; a water Resonant moves the mist): motion MEDIATED by the element's connection. Kynemir remains motion UNMEDIATED, on anything, nature unchanged. The distinction moves further from the surface; nothing on any page names it.
-
-### SEVERIN — RESONANT (addition to his kit)
-- **Severin is a Resonant: EARTH + NATURE dual proficiency (rare). Very powerful, very experienced.** Not made explicit on-page in early Part II — Ch. 10 shows only the fact of his art (the fern) and seeds the nature flavor deniably (the sill of green pots). Whenever the future shows him in action, earth/nature is what he mostly uses. His demonstrations stay candle-scale (the first-magic-as-spectacle reserve for the tournament is untouched); his grey's drain-reading grows louder and is STILL never confirmed.
-
-### THE PROXIMITY LAW (sealed mechanism + page-facing rule, session 14)
-- Deep layer: infection spreads outward from one's own minima. **The farther from the body, and the more disconnected the target, the harder the infection takes.** Page-facing consequence: the Art is spent FROM the body — anywhere on it, not the hands specifically (lightning threading a whole body, flame off a shoulder: all legal); what matters is the body, not the limb. **REMOTE manifestation (fire bursting from the ground at a distance) is an ADVANCED ability.**
-- The technician's road around it (Kael, Ch. 11 duel — deniable deep-truth): a CONTINUOUS MEDIUM is a connection — the ground touching his boot touches her foot; a thread spent through his own heel runs along the packed dirt "the way sound runs along a beam." Understanding beats distance.
-
-### THE PARENTS' PROFICIENCIES — REVEALED TO KAEL (ratified 2026-08-21, session 14)
-- **NERIS's elemental proficiency: AIR** (new canon; her Kynemir inheritance sits beneath it, unchanged — air is her declared/elemental art). **VASK: LIGHTNING** (sealed session 7) — now **revealed to Kael verbally on the declaration evening (Ch. 11)**, amending the session-7 staging (braid training with the father still comes later, Ch. 12+; the reveal moved up, the surfacing-in-training remains).
-- The reveal is itself the coordinated leash's masterstroke (unmarked): telling the boy "lightning, mine as well" on the night of his declaration cements the camouflage inside Kael himself, out of love. Rationing intact: one tool given whole, the hundred questions deferred ("You will not ask the next hundred questions tonight").
-
-### KAEL — THE MANY-ELEMENT ROAD (direction, session 14)
-- His small-scale command across all six elements, powered by understanding the world's own mechanisms ("the Art does what you understand," Ch. 10), is a FUTURE WEAPON: most Resonants work almost nothing outside their proficiency (proficiency = far more capacity there), so nobody fights a man who can spend threads in six elements with knowledge instead of capacity. Seeds planted Ch. 10 (the mist two roads; the garden trial; the spark that answers before he finishes asking — lightning hint, deniable).
-
-## SESSION 18 ADDITIONS (ratified 2026-08-21 — author-decided in session)
-
-### THE CHEST — CONTENTS SEALED
-- **The locked chest beneath the floorboards holds VASK'S OLD SWORD and NERIS'S OLD DAGGER** — the weapons of their service, from before the island. Not keepsakes: the tools of what they were. The chest is the single largest object of program archaeology in the house, and it sits under the floor of the one room the boy has lived in his whole life.
-- This completes two standing clauses rather than adding to them. 07 §Standing Rules already reads *"steel is banked — the Temple's, or the fire's"*; the chest IS the fire's steel. §KAEL'S ENDGAME KIT already reads *"Steel banked; wasters rule the present; the daggers arrive when the story earns them"*; the chest is how they arrive.
-
-### THE PARENTS UNSHEATHED — NOW LITERAL (beat 19)
-- At the raid the parents open the chest. "THE PARENTS UNSHEATHED" ceases to be a figure of speech: the chest opening is the visible signal that the at-capacity ceiling is off, and the reader will understand it before anyone says a word.
-
-### THE FATHER'S THROW (sealed staging)
-- **In his last hour Vask throws his own sword to Kael.** This is how the steel passes — not a bequest, not a ceremony: a dying man arming his son.
-- Neris's dagger travels a different road: she is extracted with the master and the newborn, and how her blade reaches Kael is OPEN.
-
-### KAEL'S ARSENAL — THE SIGNATURE IS NOT THE WHOLE KIT (amends §KAEL'S ENDGAME KIT by expansion, not correction)
-- Dual daggers remain THE doctrine-defying silhouette. The wider arsenal: **dual daggers · throwing knives · a longsword.**
-- **Neris's dagger becomes one of the dual-dagger pair**; its mate arrives later.
-- OPEN (not sealed): whether the longsword IS Vask's sword or a later blade. The inference is natural and available; it has not been ratified.
-
-## SESSION 20 ADDITIONS (ratified 2026-08-22 — author-decided in session)
-
-### THE UNLEASHING GATE (supersedes the fire candidate)
-- **The Kynemir unleashing requires BOTH: great will / focus / flow AND (magical CAPACITY *or* EXTREME CONTROL).** The absorbed-state rule (sealed session 5) is unchanged and is now the gate's first term: flow is necessary and insufficient; fear still finds nothing.
-- **Threshold, not switch — the bar scales with what is moved.** Ch. 4's knot cleared a nearly-free bar: exact address at a load-bearing lazy place costs almost nothing (deep layer), so a nine-year-old's control sufficed for one breath of red. Nothing since has been cheap enough. **AUTHOR NOTE: the knot scene stays strange. Do not rationalize it further on the page.**
-- **KAEL UNLOCKS IN BOOK TWO.** This SUPERSEDES §THE KYNEMIR BLOODLINE's *"The true unleashing: RESERVED — much later in Book One. Leading candidate: THE FIRE."* The fire is no longer the unleashing.
-- **THE FIRE'S FLICKER (sealed staging).** At Vask's death, **Kael's eyes FLICKER.** Never truly shown; never made clear what happened. Kael cannot see his own eyes (rule stands), so it reaches the reader only by inference — the Ch. 4 knot's technique, at maximum stakes. Rendered as him passing THROUGH terror into the cold place, never as panic (absorbed-state rule preserved). **DO NOT RESOLVE.**
-- **CONSEQUENCE — the tournament devil-eyes answer is CLOSED.** This file logged "devil-eyes before hundreds" as a tempting solution to the open recognition-vector valve at the tournament. The valve itself stays OPEN; that candidate answer is dead.
-
-### WREN — THE EYES ARE PERMANENT (amends §The Brother; ripples to 03)
-- Wren is born with the bloodline **OPEN**: massive capacity from birth, **uncontrolled**. **His eyes are permanently red.**
-- **NERIS CAN SWITCH HERS OFF** — new canon, and she always could. Her control-first pedagogy (the leash) reads differently in hindsight: she teaches the discipline she survives by. Never explain.
-- 03's "dark eyes" for Wren is corrected: dark hair (his mother's), **eyes permanently red**. The "only face in the family that resolves" line is RE-AIMED, not deleted — Wren remains the only child of both by blood, but his eyes resolve to the BLOODLINE, not to a parent. Neither brother's eyes come from the house, for opposite reasons: Kael's grey belongs to nobody, Wren's red belongs to something older than anybody. **The paternity architecture is untouched** — still two unassemblable clues, still no third planted.
-- **CONSEQUENCES FLAGGED, NOT DESIGNED (do not resolve without a dedicated session):** a newborn with permanent devil-eyes cannot be hidden, and the folklore is already on the page (Ch. 9 legend half; Ch. 12 weld) in Kael's own hearing. Beat 17 (Kael holds him, perhaps once) now carries RECOGNITION inside the pure joy. The extraction's urgency, Severin's knowledge valves, and what he does with Wren all take load from this. None of it decided here.
-
-## SESSION 21 ADDITIONS (ratified 2026-08-22 — author-decided in session)
-
-### HALDEN IS THE EMPIRE — NOT THE SANCTUM, NOT THE PROGRAM (author ruling)
-- **Halden is EMPIRE.** The door logged at his introduction ("no program connection established, none excluded") is CLOSED on the program side: he is not Sanctum, not program, and has no knowledge of either.
-- **He reaches ABOVE the First Master.** An entry lodged to the games under the games' seal cannot be undone by Severin, who governs the Temple and not the tournament. This is the first time in the series the reader sees Severin fail, and it pre-tests his LIMIT (he believes education can outrun rot) a full book before the fire does.
-- **DESIGN LOAD (why this matters more than it looks):** the machinery that takes Kael is ORDINARY imperial machinery, correctly used, by a man who is not cruel and asks for nothing. This preserves the seal on the raid — the family are collateral of the empire's own gravity; the island does not burn because of Kael. Had Halden been program, the fire would quietly have become about him.
-- **NOT IN CONFLICT with 03's sealed "Corvane's man":** an imperial officer coordinating with a house serves both at once. On-page Severin reads him as "not one of the great houses, not anyone's cousin" — Severin is WRONG about that and does not know it, which is characterisation, not error. **OPEN (do not resolve without a session): which of the two Halden is actually serving, and whether he knows.**
-
-### THE ENTRY (Ch. 18 — the concession ladder REPLACED, not climbed)
-- 04's ladder ran *prohibit → concede → withdraw-request → first refusal*. **The concede leg is dead.** Kael is entered by a third party, under seal, nine days before the standings closed — which means the entry was written by someone who knew where the boy would fall on the sheet before the boy did. Nobody concedes; the parents' agency is simply removed. The ladder no longer needs its dedicated design session.
-- **BEAT 16 RESCOPED (author-ratified):** withdrawal is institutionally impossible, so the parents' ask becomes *the baby is born, the ship is ready, come away with us and forfeit* — and Kael REFUSES. His first refusal is intact and now enormous: he refuses to leave the island with his pregnant mother and newborn brother because he wants the tournament, and then the island burns. **This is his guilt architecture for the whole series and it is 00-SAFE** — the refusal does not cause the raid; it only puts him at the Temple and his family still on the island.
-
-
-## SESSION 22 ADDITIONS (ratified 2026-08-22 — author-decided in session)
-
-### THE KYNEMIR BIRTH — A VIOLENT ORDEAL (sealed; never explained on the page in Book One)
-- **A Kynemir delivery is dangerous to the mother.** There is always a chance the child is born EXTREMELY POTENT — the bloodline open from the first breath — and a potent birth is violent. The danger runs to the woman carrying it.
-- **This is the case with WREN** (s20: born with the bloodline OPEN, massive uncontrolled capacity, eyes permanently red). Neris's delivery is a mortal event, not a domestic one, and both parents know it.
-- **CONSEQUENCE — the family cannot leave the island before the birth.** Ch. 19 gives four reasons for sitting still: they have no hull of their own; the cold-term sea; whoever sent the tail will have watchers on the main quays; and **the pregnancy, which is the load-bearing one.** It is the only one of the four Kael is never given whole.
-- **ON-PAGE DISCIPLINE (hard):** the pregnancy itself is NOT a secret — Neris tells Kael plainly, and he reacts as a twelve-year-old who has never in his life been older than anybody. What is sealed is **why the delivery must be Severin's.** Kael gets the cover reason, which is true and is not the reason (a woman from the village is thirty women from the village by the second day; Severin is the only man on the island carrying both the Art and the medicine). The wrongness reaches the reader through VASK ALONE — he stops listening at the table, and then answers a question that was put to Neris.
-- **RIPPLES FLAGGED, NOT DESIGNED (do not resolve without a session):** beat 17's birth now carries mortal risk to Neris; **[SUPERSEDED s26 → §THE BIRTH AND THE SEMIFINAL]** *Severin has an in-story reason to be in that house when the raid comes, which takes load off the extraction's improbability* — **he is at the ARENA when the labour begins and must be fetched**; his knowledge valves stay untouched.
-
-### SEVERIN — THE ART *AND* THE MEDICINE (amends §SEVERIN — RESONANT, s14)
-- **Severin has nature resonance AND trained medical knowledge** — decades of read medicine, not merely the Art. Page canon (Ch. 19, Neris): the Art on its own is worth very little; a man who can push a bone toward mending and does not know which way the bone goes will push it the wrong way. **Nature is the Art of mending; the Art does what you understand.** The two halves in one head are why he is the only person on this island who can take this delivery.
-
-### BEAT 16 — THE ASK IS NOT *DO NOT ENTER* (refines s21's rescope)
-- The entry is sealed, and a boy written down under seal who does not appear is a question asked out loud in a room the family cannot see into. **So he competes.** The parents' plan, stated in front of Kael in Ch. 19 and never once asked of him: *he appears, he goes as far as he goes, and on the day the boat is ready they take him off that field and down to the water — whatever day it falls on, and whatever he is standing in the middle of.*
-- **Beat 16's ask is therefore an EXTRACTION MID-TOURNAMENT, not a withdrawal**, and the first refusal is correspondingly larger: he is asked to walk off the field in the middle of the thing he is winning, in front of the empire. **The refusal itself remains UNSPENT** — Ch. 19 asks him nothing, and he says nothing.
-
-### BEAT 18 — THE CROWD SPLITS (sharpening of an existing beat)
-- At the games Kael is an unknown boy with no house and a style nobody has seen. **The people love him; the nobles do not.** The empire sees him, and **the PRINCESS takes an active interest** (upgraded from "watches"). It runs to the summit — KAEL VS. VALERIA — and the raid lands exactly as that confrontation is about to begin.
-
-## SESSION 26 ADDITIONS (ratified 2026-08-22 — author-decided in session)
-
-### THE BIRTH AND THE SEMIFINAL — THE COLLISION IS THE DESIGN (author ruling)
-- The s25 birth/tournament collision is **INTENDED**, and it is now staged. **Neris goes into labour as the SEMIFINALS BEGIN** — the round the raid lands in (02: the summit is the semifinal; KAEL VS. VALERIA, interrupted, never finished).
-- **SEVERIN IS AT THE ARENA, NOT THE HOUSE.** The tournament wins the two-places-at-once problem outright: he sits above that sand for the whole of the games because he is the only enforcement there is (02 s25, earth to block and nature to mend), so he is six miles away when the one delivery on this island that requires him begins. **This SUPERSEDES §THE KYNEMIR BIRTH's ripple note (s22)** that he *"has an in-story reason to be in that house when the raid comes, which takes load off the extraction's improbability."* He is not in the house. **He has to be fetched.**
-- **NERIS IS LEFT ALONE IN A VIOLENT KYNEMIR BIRTH** (s22: the delivery is a mortal event and Wren is born extremely potent). The single mitigation the family built their whole winter around is absent at the exact hour it was built for — and the reason it is absent is the empire's pageant.
-- **VASK IS SPLIT THREE WAYS AND CAN HOLD TWO AT MOST:** his wife alone in the house, his son on the sand, and the one man who can save her sitting in a box above that sand. **His last hour is spent moving between them.** 04 beat 19's *"dies buying time for both his sons"* stands and is now geometrically literal — he is running the distance between them when the island burns.
-- **WHY IT HOLDS: every load-bearing piece was planted before it was needed.** The plan stated in front of Kael in Ch. 19 — *they take him off that field whatever day it falls on and whatever he is standing in the middle of* — must now be executed by a man who cannot be in two places. The four reasons the family could not sail (s22) were all built around Severin being available. And the thing holding Severin away is the First Master's chair: the empire's answer to a rule it could not enforce.
-- **SEVERIN REACHES THE HOUSE (author ruling, s32 — replaces this block's do-not-resolve on that question).** He is fetched and he gets there, and **Neris gives birth with his help.** She is alone for the beginning of it and not for the end of it. **What is still true and still binding:** he was six miles away when it started, the reason he was away is the empire's pageant, and **Ch. 27 makes the lateness his own choice** — he could hold one stone and not two, so he stopped holding the sky and spent the morning walking four hundred children out of a burning arena.
-- **STILL A CONSTRAINT, and the HOW is unwritten and is the part worth writing:** Vask split three ways · the order of the three legs · whether he reaches Kael at all · and **Neris's survival of the delivery, which stays UNCONFIRMED per §The Mother.**
-
-## SESSION 32 (2026-08-24 — author-decided in session)
-
-### THE BELL, AND NOTHING AFTER IT
-- **The semifinal is never fought.** The third bell strikes, the judge's hand comes up, and the invasion arrives in that instant. **No exchanges, ever.** This retires *interrupted mid-fight* wherever it stood (§The Unfinished Duel; 04 beat 19). `01`'s pitch line still reads *mid-duel* and is left alone as jacket copy.
-- **The fleet comes out of a fog** that has sat on the island since the night before. Hundreds of ships, at speed, onto the beaches and the harbour. **Trebuchets, mostly**, off the ships, ranging on the arena; the Art is among them and the difference does not matter to anyone underneath it. The arena is the target because every noble child of three schools and a princess are inside one building — which is this file's own raid logic, arriving on the page without anybody stating it.
-
-### THE ISLAND IS NOT RAIDED, IT IS EMPTIED
-- The coalition kills the island: men, women and children, across the whole of it. Not a strike and not a sack — **the thing they came to do.** The village, the settlement, the roads, all of it is inside the scope.
-- **CONSEQUENCE FOR AN EXISTING VALVE, flagged not decided:** `04` §Open valves banks the settlement girl and her mother (the intelligence vector; the recognition/mercy beat) with the caution *do not foreclose them*. Ch. 27 does not go near them and forecloses nothing. **Whether they survive the island is open and is the author's to say.**
-
-### THE NOBLES' DISTRICT, AND THE GATE
-- A walled quarter **inland**, a mile up from the water — the only real wall on the island, and the rally point Valeria's standing orders name. Reaching it from the arena means crossing the populated middle of the island on foot, which is the point: they see all of it.
-- **THE THING TO HIT: Valeria is admitted at that gate and Kael is not.** He has no house. He crosses the island alone to reach his parents. This is where the coat finally fails completely and it fails the other way round — **not because he is nothing to look at, but because he is nobody's.** *Kael of what?* answered at a wall, in wartime, at cost.
-
-### WHAT KAEL HEARS AT THE GATE
-- The men killing in the eastern gateway **speak the downhill language**, and **Kael understands every word.** He has heard it from two mouths in his life: his mother's, who taught it to him more carefully than anything else she ever taught him, and the master's, once, at his own table.
-- **He reaches no conclusion, and the page joins nothing up.** The parents' reaction — the word in a raider's mouth, the mother's face — is still owed and is not spent by this.
+## THE FAR CONTINENT
+- A deeper enemy/mystery beyond the known world; clues exist from Book One (the pale-making word in Kael's "bird languages," the chart with a coastline that officially doesn't exist, the third-hand glimpse in the raid).
+- The origin/nature of magic braids into this thread. Two mysteries that turn out to be one. (Now includes: whether the elemental taxonomy is all there is; what Kynemir's particle/infection truly is; where the bloodline comes from.)

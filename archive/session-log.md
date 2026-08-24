@@ -1979,3 +1979,95 @@ s28 (2026-08-23) — Ch. 23 "The Ghost" committed. `chapter-records.md`: Ch. 23 
 - **s32 (2026-08-24), Ch. 27 close.** `chapter-records` — Ch. 27 "The Fog" record written (and Ch. 26's count corrected 5,088 → 5,078 earlier the same session). `timeline` — Ch. 27 row: day 3 of 6, the semifinals, **and the games die here with half the printed programme unspent**. `planted-clues` — **eight rows added, 166 → 174**: the language in the raiders' mouths · *it had a school* · Severin's earth spent and limited · the freeze · Oss found and lost · the flinch spent · the nobles' district and its gate · the answer he never found. `protected-phrasings` — Ch. 27 block plus seven deliberate echoes. `established-facts` — **Marun** (village register, spent once, do not reuse) and **the nobles' district** with its controlled term. `index` — counts refreshed.
 - **s33 (2026-08-24).** `magic-snapshot.md` — the body-marks line carries the s33 split: mark register PURE QUARTZ WHITE, Vessantine silver explicitly NOT a mark.
 
+
+
+---
+
+## 00 ROLL-OFF (s36) — lines cut or reworded at the re-filing by subject, VERBATIM, with the reason. Pre-refile 00: git 87fd212.
+
+- (old line 6; HISTORY (header)) **APPEND-ONLY IS DROPPED (author ruling, s32).** The rule was worthless and counterproductive: it forced superseded lines to stay readable, which is exactly how three law-core files came to carry dead canon (s26). **00 is edited in place like every other file** — wrong lines are corrected, dead lines are cut, and `git log` is the update history. Nothing needs a `[SUPERSEDED]` tag any more; existing tags are historical and may be cleared as they are touched.
+- (old line 8; HISTORY (header)) **EVICTION PASS — RUN (s33).** 00's first eviction. **To `06` §Staging rules evicted from 00, VERBATIM:** the Sanctum's bible-only rule · Severin's fern flex · the *Mine as well* protection · the chest's on-page discipline · the Ch. 4 *unsheathed* pre-echo · the father's throw staged under the paternity rule · Severin's atonement left unremarked. **To the archive, CUT:** two `[SUPERSEDED s20]` blocks and the append-only parenthetical — dead bookkeeping, replaced by §THE UNLEASHING GATE. **DELIBERATELY NOT TOUCHED, and owed to a session with the author:** bullets that weld a TRUTH to a staging clause in one sentence — §THE FIRE'S FLICKER, §ON-PAGE DISCIPLINE (the pregnancy), the knot's *do not rationalize* note, and the *never explain* clauses on Neris's eyes, her language pedagogy and the name. Splitting those rewrites 00's prose and is the author's call, not mine. **ALSO OUT OF SCOPE:** the `## SESSION N ADDITIONS` headers are append-only scaffolding and the file is now half subject-organised and half session-organised; reorganising it by subject is a separate operation. **A constraint recorded as a constraint STAYS** — every *DO NOT RESOLVE* and open valve is untouched.
+- (old line 10; SCAFFOLD (old header)) ## Vask's Lightning (sealed — decided session 7)
+- (old line 16; SCAFFOLD (old header)) ## The Elarine Coat-Wire (open valve — logged session 7)
+- (old line 20; SCAFFOLD (old header)) ## The Opening — Sealed Truths (Ch. 7)
+- (old line 27; SCAFFOLD (old header)) ## The Night — What Actually Happened (Ch. 6 — sealed truths, never on the page)
+- (old line 35; SCAFFOLD (old header)) ## Kynemir — The Absorbed-State Rationale (sealed, session 5)
+- (old line 39; SCAFFOLD (old header)) ## The Ending (series destination)
+- (old line 45; SCAFFOLD (old header)) ## The Parents' True History
+- (old line 56; SCAFFOLD (old header)) ## The Doctrine of Cultivated Inheritance (sealed)
+- (old line 64; SCAFFOLD (old header)) ## The Program
+- (old line 73; SCAFFOLD (old header)) ## The Big Bad: The Leader — "THE GARDENER"
+- (old line 83; SCAFFOLD (old header)) ## The Raid on the Island (true causality)
+- (old line 89; SCAFFOLD (old header)) ## The Village Night (Ch. 6 — design canon)
+- (old line 95; SCAFFOLD (old header)) ## MAGIC — DEEP LAYER (sealed — decided 2026-08-09)
+- (old line 118; SCAFFOLD (old header)) ## THE KYNEMIR BLOODLINE (sealed — decided 2026-08-09)
+- (old line 130; SCAFFOLD (old header)) ## The Far Continent
+- (old line 134; SCAFFOLD (old header)) ## The Master — SEVERIN (origin now SEALED · endgame still OPEN)
+- (old line 145; SCAFFOLD (old header)) ## The Brother — WREN
+- (old line 151; SCAFFOLD (old header)) ## The Mother
+- (old line 154; SCAFFOLD (old header)) ## The Unfinished Duel
+- (old line 159; SCAFFOLD (old header)) ## The Princess — AELIANA CASSIVARA VESSANTINE (name SEALED — stale "TBD" header corrected session 7; "Rhaenya" RELEASED, Rhaenyra collision)
+- (old line 163; SCAFFOLD (old header)) ## SESSION 8 ADDITIONS (Ch. 9 — sealed 2026-08-09)
+- (old line 165; SCAFFOLD (old header)) ### THE SANCTUM (the program's teaching academy — name SEALED, bible-only)
+- (old line 169; SCAFFOLD (old header)) ### THE GHOST-STORY DECISION (argued and sealed in principle, session 8)
+- (old line 172; SPENT STAGING (07 owns the spend state)) - **SPEND: Ch. 10, not Ch. 9.** Staged as the hiding arc's second engine (safety braided with social cost — the world already tells stories pointing up his mountain). Exact staging (degree of assembly, the not-thinking mechanism, how the devil-eyes garble attaches to HIS night, impact on the "never seen them try" beat) = a dedicated argument at the Ch. 10 session. Ch. 9 spent only the DECOUPLED legend half (generic devil-eyes, no mountain, no date — Oss's sea-wall telling).
+- (old line 175; SCAFFOLD (old header)) ### THE TOURNAMENT — INTER-SCHOOL (sealed; harvest logic upgraded)
+- (old line 178; SCAFFOLD (old header)) ### KAEL'S ENDGAME KIT (direction logged — emerges much later; see 03)
+- (old line 181; SCAFFOLD (old header)) ## SESSION 9 ADDITIONS (sealed 2026-08-12 · RECONSTRUCTED session 10, 2026-08-20 — rebuilt from 05 §SESSION 9 RESOLVED + 03 pointers + session record; audit flags ratified and cleared session 11, 2026-08-20)
+- (old line 183; SCAFFOLD (old header)) ### THE PATERNITY (sealed — the series' deepest lock; nothing on any page changes)
+- (old line 196; SCAFFOLD (old header)) ## SESSION 14 ADDITIONS (ratified 2026-08-21)
+- (old line 198; SCAFFOLD (old header)) ### THE RESONANCE VOCABULARY REFORM (page + bible vocabulary; retro pass executed same session)
+- (old line 199; POINTER replaces copy (02/lexicon owns it)) - Five-term system (full register in 02): **Resonant** (a person capable of the Art) · **resonance** (the CONNECTION between person and minima) · **resonate** (the act of establishing it) · **resonant thread** (a controlled connection — the "spend a thread" idiom's formal term) · **Resonance Theory** (the scholarly field).
+- (old line 200; POINTER replaces copy (02/lexicon owns it)) - "Mage" retired from page vocabulary; "wright" and "channeling" RELEASED; "working" returned to ordinary labor. Older blocks in this file that read "mage" are to be read as "Resonant"; sealed content unchanged.
+- (old line 201; POINTER replaces copy (02/lexicon owns it)) - **"The minima" reclassified a COMMON word** — the world's everyday name for the fine grains in all things. Neris may use and acknowledge it (Ch. 10 on). She never handed it to Kael in Part I — vocabulary withheld is the rationing; Ch. 8's "the word was not hers" stays true.
+- (old line 203; SCAFFOLD (old header)) ### MINIMA vs. THE DEEPER STRUCTURE (deep-layer refinement — sealed)
+- (old line 207; SCAFFOLD (old header)) ### ELEMENTAL COMMAND (clarification — sharpens the Kynemir fence)
+- (old line 210; SCAFFOLD (old header)) ### SEVERIN — RESONANT (addition to his kit)
+- (old line 213; SCAFFOLD (old header)) ### THE PROXIMITY LAW (sealed mechanism + page-facing rule, session 14)
+- (old line 217; SCAFFOLD (old header)) ### THE PARENTS' PROFICIENCIES — REVEALED TO KAEL (ratified 2026-08-21, session 14)
+- (old line 221; SCAFFOLD (old header)) ### KAEL — THE MANY-ELEMENT ROAD (direction, session 14)
+- (old line 224; SCAFFOLD (old header)) ## SESSION 18 ADDITIONS (ratified 2026-08-21 — author-decided in session)
+- (old line 226; SCAFFOLD (old header)) ### THE CHEST — CONTENTS SEALED
+- (old line 230; SCAFFOLD (old header)) ### THE PARENTS UNSHEATHED — NOW LITERAL (beat 19)
+- (old line 233; SCAFFOLD (old header)) ### THE FATHER'S THROW (sealed staging)
+- (old line 237; SCAFFOLD (old header)) ### KAEL'S ARSENAL — THE SIGNATURE IS NOT THE WHOLE KIT (amends §KAEL'S ENDGAME KIT by expansion, not correction)
+- (old line 242; SCAFFOLD (old header)) ## SESSION 20 ADDITIONS (ratified 2026-08-22 — author-decided in session)
+- (old line 244; SCAFFOLD (old header)) ### THE UNLEASHING GATE (supersedes the fire candidate)
+- (old line 247; REWORDED (old line rolled)) - **KAEL UNLOCKS IN BOOK TWO.** This SUPERSEDES §THE KYNEMIR BLOODLINE's *"The true unleashing: RESERVED — much later in Book One. Leading candidate: THE FIRE."* The fire is no longer the unleashing.
+- (old line 251; SCAFFOLD (old header)) ### WREN — THE EYES ARE PERMANENT (amends §The Brother; ripples to 03)
+- (old line 254; REWORDED (old line rolled)) - 03's "dark eyes" for Wren is corrected: dark hair (his mother's), **eyes permanently red**. The "only face in the family that resolves" line is RE-AIMED, not deleted — Wren remains the only child of both by blood, but his eyes resolve to the BLOODLINE, not to a parent. Neither brother's eyes come from the house, for opposite reasons: Kael's grey belongs to nobody, Wren's red belongs to something older than anybody. **The paternity architecture is untouched** — still two unassemblable clues, still no third planted.
+- (old line 257; SCAFFOLD (old header)) ## SESSION 21 ADDITIONS (ratified 2026-08-22 — author-decided in session)
+- (old line 259; SCAFFOLD (old header)) ### HALDEN IS THE EMPIRE — NOT THE SANCTUM, NOT THE PROGRAM (author ruling)
+- (old line 265; SCAFFOLD (old header)) ### THE ENTRY (Ch. 18 — the concession ladder REPLACED, not climbed)
+- (old line 266; REWORDED (old line rolled)) - 04's ladder ran *prohibit → concede → withdraw-request → first refusal*. **The concede leg is dead.** Kael is entered by a third party, under seal, nine days before the standings closed — which means the entry was written by someone who knew where the boy would fall on the sheet before the boy did. Nobody concedes; the parents' agency is simply removed. The ladder no longer needs its dedicated design session.
+- (old line 267; REWORDED — merged with old 283–284 (rolled)) - **BEAT 16 RESCOPED (author-ratified):** withdrawal is institutionally impossible, so the parents' ask becomes *the baby is born, the ship is ready, come away with us and forfeit* — and Kael REFUSES. His first refusal is intact and now enormous: he refuses to leave the island with his pregnant mother and newborn brother because he wants the tournament, and then the island burns. **This is his guilt architecture for the whole series and it is 00-SAFE** — the refusal does not cause the raid; it only puts him at the Temple and his family still on the island.
+- (old line 270; SCAFFOLD (old header)) ## SESSION 22 ADDITIONS (ratified 2026-08-22 — author-decided in session)
+- (old line 272; SCAFFOLD (old header)) ### THE KYNEMIR BIRTH — A VIOLENT ORDEAL (sealed; never explained on the page in Book One)
+- (old line 277; REWORDED (old line rolled)) - **RIPPLES FLAGGED, NOT DESIGNED (do not resolve without a session):** beat 17's birth now carries mortal risk to Neris; **[SUPERSEDED s26 → §THE BIRTH AND THE SEMIFINAL]** *Severin has an in-story reason to be in that house when the raid comes, which takes load off the extraction's improbability* — **he is at the ARENA when the labour begins and must be fetched**; his knowledge valves stay untouched.
+- (old line 279; SCAFFOLD (old header)) ### SEVERIN — THE ART *AND* THE MEDICINE (amends §SEVERIN — RESONANT, s14)
+- (old line 282; SCAFFOLD (old header)) ### BEAT 16 — THE ASK IS NOT *DO NOT ENTER* (refines s21's rescope)
+- (old line 283; MERGED into the beat-16 truth above (04 owns the mechanics)) - The entry is sealed, and a boy written down under seal who does not appear is a question asked out loud in a room the family cannot see into. **So he competes.** The parents' plan, stated in front of Kael in Ch. 19 and never once asked of him: *he appears, he goes as far as he goes, and on the day the boat is ready they take him off that field and down to the water — whatever day it falls on, and whatever he is standing in the middle of.*
+- (old line 284; MERGED into the beat-16 truth above (04 owns the mechanics)) - **Beat 16's ask is therefore an EXTRACTION MID-TOURNAMENT, not a withdrawal**, and the first refusal is correspondingly larger: he is asked to walk off the field in the middle of the thing he is winning, in front of the empire. **The refusal itself remains UNSPENT** — Ch. 19 asks him nothing, and he says nothing.
+- (old line 286; SPENT (Ch. 22–27; state in 07/03)) ### BEAT 18 — THE CROWD SPLITS (sharpening of an existing beat)
+- (old line 287; SPENT (Ch. 22–27; state in 07/03)) - At the games Kael is an unknown boy with no house and a style nobody has seen. **The people love him; the nobles do not.** The empire sees him, and **the PRINCESS takes an active interest** (upgraded from "watches"). It runs to the summit — KAEL VS. VALERIA — and the raid lands exactly as that confrontation is about to begin.
+- (old line 289; SCAFFOLD (old header)) ## SESSION 26 ADDITIONS (ratified 2026-08-22 — author-decided in session)
+- (old line 291; SCAFFOLD (old header)) ### THE BIRTH AND THE SEMIFINAL — THE COLLISION IS THE DESIGN (author ruling)
+- (old line 293; REWORDED (old line rolled)) - **SEVERIN IS AT THE ARENA, NOT THE HOUSE.** The tournament wins the two-places-at-once problem outright: he sits above that sand for the whole of the games because he is the only enforcement there is (02 s25, earth to block and nature to mend), so he is six miles away when the one delivery on this island that requires him begins. **This SUPERSEDES §THE KYNEMIR BIRTH's ripple note (s22)** that he *"has an in-story reason to be in that house when the raid comes, which takes load off the extraction's improbability."* He is not in the house. **He has to be fetched.**
+- (old line 296; ARGUMENT (why it holds)) - **WHY IT HOLDS: every load-bearing piece was planted before it was needed.** The plan stated in front of Kael in Ch. 19 — *they take him off that field whatever day it falls on and whatever he is standing in the middle of* — must now be executed by a man who cannot be in two places. The four reasons the family could not sail (s22) were all built around Severin being available. And the thing holding Severin away is the First Master's chair: the empire's answer to a rule it could not enforce.
+- (old line 300; SCAFFOLD (old header)) ## SESSION 32 (2026-08-24 — author-decided in session)
+- (old line 302; SCAFFOLD (old header)) ### THE BELL, AND NOTHING AFTER IT
+- (old line 303; REWORDED (old line rolled)) - **The semifinal is never fought.** The third bell strikes, the judge's hand comes up, and the invasion arrives in that instant. **No exchanges, ever.** This retires *interrupted mid-fight* wherever it stood (§The Unfinished Duel; 04 beat 19). `01`'s pitch line still reads *mid-duel* and is left alone as jacket copy.
+- (old line 306; SCAFFOLD (old header)) ### THE ISLAND IS NOT RAIDED, IT IS EMPTIED
+- (old line 310; SCAFFOLD (old header)) ### THE NOBLES' DISTRICT, AND THE GATE
+- (old line 311; POINTER replaces copy (02/geography owns it)) - A walled quarter **inland**, a mile up from the water — the only real wall on the island, and the rally point Valeria's standing orders name. Reaching it from the arena means crossing the populated middle of the island on foot, which is the point: they see all of it.
+- (old line 314; SCAFFOLD (old header)) ### WHAT KAEL HEARS AT THE GATE
+
+
+---
+
+## SESSION 36 — ADDENDUM 2 (2026-08-24): ITEMS 2–4 AND THE 00 RE-FILING (author-approved: *2-4; 1 after*)
+
+- **The full-chapter read is tiered by session type** (CLAUDE.md §Open): drafting → the last two chapters in full; revising → the chapter in hand and its neighbours. The cadence rule is unchanged; it just stops charging a revision session for chapters it will not touch.
+- **`verify.sh` runs the phantom audit.** One command at the open: clean tree, baselines, `PHANTOMS: 0`.
+- **The three `changelog.md` files are retired** (8,841 words, never cold-read; the per-session obligation was already gone). Rolled verbatim to §S36 ROLL-OFFS (3), deleted, the concept dropped from CLAUDE.md and the three indexes. `git log` and these records carry what changed and why.
+- **00 RE-FILED BY SUBJECT (author-approved).** The eight `## SESSION N ADDITIONS` blocks dissolved into fourteen subject sections (THE ENDING · THE PARENTS · THE PROGRAM & THE GARDENER · MAGIC — DEEP LAYER · THE KYNEMIR BLOODLINE · THE RAID · SEVERIN · WREN · THE PRINCESS · VALERIA & THE DUEL · ELARINE · CH. 6–7 SEALED TRUTHS · THE FAR CONTINENT). **Method: line moves, verbatim** — every old non-empty line is in the new 00 or in §00 ROLL-OFF (76 rolled lines: 44 old headers/scaffold, the two header paragraphs of history, the *WHY IT HOLDS* argument, the spent ghost-story staging, the spent *crowd splits* beat, the Resonance-vocabulary copy and the district's geography copy replaced by pointers to 02, and eight lines reworded — the old form of each rolled: the *SUPERSEDES* clauses in the unleashing gate, the birth ripple and the arena ruling; Wren's eyes without its correction story; the ladder history off the entry; beat 16's two blocks merged into one truth that points at 04; the bell without its retirement note). **10,201 → 9,087.** The three headers other files point at — THE PATERNITY, THE PROXIMITY LAW, THE NOBLES' DISTRICT, AND THE GATE — kept by name. No sealed truth reworded; no DO-NOT-RESOLVE touched; the deep-layer mechanics untouched. **Still owed, the author's call, not touched:** the welded truth-plus-staging bullets s33 listed (§THE FIRE'S FLICKER, the pregnancy's ON-PAGE DISCIPLINE, the knot's *do not rationalize*, the *never explain* clauses on Neris's eyes, her pedagogy and the name). 05's 00 baseline: 10,201 → 9,087. Pre-refile 00: git 87fd212.
