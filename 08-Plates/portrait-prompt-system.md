@@ -319,7 +319,9 @@ olive. No ornament, no buckle, no badge.
 
 ### Neris
 
-**NOT YET RUN.** Uses the **Neris AGE block** and **the HAIR line**. File as `images/neris.png` — no age suffix, same reason as Vask.
+**ADOPTED:** `images/neris.png` — **the first adult portrait in the library, and the adult AGE block is proven by it.** Uses the **Neris AGE block** and **the HAIR line**. No age suffix, per the unpinned-age rule.
+
+**WHAT THE REVISION PROVED, on three separate counts.** (1) **The age fix works, and the fix is to forbid the skin.** Naming a younger number did nothing on its own the first time; what moved the render a decade was the explicit list of what the face may not do — no mouth lines, no forehead, no hollowing, smooth neck — with the watching relocated to the eyes. (2) **A negation stack beats a positive instruction on styling.** *Fastened plainly for work* produced a bun; *not pinned, not bound, not braided, not tied — nothing holding it anywhere* produced loose hair on the first try. (3) **LOCAL CONTRAST WORKS, first run** — it was written untested, and the eyes carry a picture whose subject is a woman with dark hair and dark eyes and no colour anywhere. **The fifth mechanism is real.**
 
 ```
 SUBJECT — cool pale parchment ground.
@@ -371,7 +373,7 @@ oatmeal, worn soft and much mended. No ornament of any kind.
 - **Saturation** — Valeria's green, Aeliana's blue, Aurelian's amber: the most saturated point in an otherwise desaturated image.
 - **Lightest value** — Kael's near-white grey, which is almost colourless and cannot win on saturation at all.
 - ~~**Darkest value**~~ — proposed for Elarine's near-black and **it does not work, s34.** She has ink-dark hair (page canon, Ch. 9), so the darkest mass in the picture is her own head and the eyes cannot beat it by a margin. **A dark eye can only win on value against pale or mid hair.**
-- **Local contrast** — Neris. Her hair is dark and her eyes are dark, which is Elarine's dead end exactly; but an eye can win without being the extreme of the picture if it carries **the picture's widest value jump packed into its smallest area** — a dark iris against a clean light sclera, with the whole surrounding face held mid. It reads as *open*, which for her is the entire character.
+- **Local contrast** — Neris, and **CONFIRMED on her first run**. Her hair is dark and her eyes are dark, which is Elarine's dead end exactly; but an eye can win without being the extreme of the picture if it carries **the picture's widest value jump packed into its smallest area** — a dark iris against a clean light sclera, with the whole surrounding face held mid. It reads as *open*, which for her is the entire character.
 - **Finish** — what Elarine's run actually did, and it is the better mechanism for her anyway. In a picture that is loose everywhere, the eyes are the only fully resolved thing: rendered tight and exact, sharp-edged, one clean catchlight, while the rest is suggestion. She wins by being **the only part of the image that has been worked out** — which is the character, exactly.
 
 **Check the eye against the HAIR before choosing a mechanism.** Both failures found so far are the same failure: the eye competing with something large and adjacent that shares its property. Amber against warm skin; near-black against near-black hair. **Saturation, value and finish are four different axes and the eye must own one of them outright.**
