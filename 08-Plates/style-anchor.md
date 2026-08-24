@@ -71,3 +71,17 @@ Everything above falls out of committed canon. The **medium** does not, and is p
 Reasoning: it serves *strong silhouettes readable at distance* and *no heightened palette* natively, and it makes the colour law structural rather than a rule to be remembered — in a near-monochrome book, the first red the reader ever sees is the bloodline, and it lands like a struck match.
 
 Overrule freely. Everything downstream inherits this, so it is worth one deliberate decision now rather than discovering it by accident in plate 1.
+
+---
+
+## PROMPT CRAFT (house rules — learned at the tool, s33)
+
+**The template is STRUCTURED FIELDS plus an explicit negative list** (author's format, s33 — it outperformed flowing prose and is now the house standard):
+
+*Subject and framing · Build · Pose · Face · Hair · Hands · Weapons · Clothing · Lighting · Medium · Negative prompt*
+
+- **AGE.** State an age slightly above the character's and enforce youth through PROPORTION instead — *child proportions, large head relative to frame, unlengthened limbs, no adult body*. Naming a low age directly tends to fail at ChatGPT, and generators weight proportion over the stated number anyway.
+- **PROMPTS MUST STAND ALONE.** ChatGPT refuses image-to-image when the source depicts a person, illustration or not. Do not build a workflow that depends on chaining a reference.
+- **VERIFIED (s33): the verbal medium block is self-sufficient.** Kael v1 and Valeria v1 were generated independently, cold, with no shared reference image, and the medium matched. Style consistency across the book does not depend on image chaining. Keep the medium sentence VERBATIM in every prompt: *desaturated ink and wash on paper, near-monochrome, deep blacks in the darks, grey washes, visible dry-brush texture and paper grain, broken irregular edges rather than clean linework.*
+- **TOOL SPLIT.** ChatGPT for standalone generation; Gemini where a reference image is genuinely needed.
+- **THE MATERIAL-CULTURE PRIOR IS STRONG AND HOSTILE.** Two anchors in a row returned East Asian dress and fittings unprompted. Whatever the culture fork is ruled, the answer must be stated positively in every prompt and negated explicitly in the negative list — the generator will not infer it from a Latin-Byzantine name.
