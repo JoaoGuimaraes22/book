@@ -650,7 +650,9 @@ Use an **anchor** only when continuity within a specific image matters — multi
 
 ---
 
-## Open question
+## Closed — do not re-raise
+
+**Valeria's costume doesn't signal her station. SETTLED (author ruling, s37): the plainness stands; nothing is owed.** The note is kept below as the record of the reasoning, not as an open item.
 
 **Valeria's costume doesn't signal her station.** She's a royal guard of noble lineage, currently dressed in plain heavy wrapped cloth with no ornament — the plainest garment in the set. Kael's rags say village, Aeliana's filigree says noble, Valeria's cloth says neither. Either design her something (uniform, house mark, proper scabbard) or decide the plainness is deliberate — off-duty, disguised, estranged. Her garment line appears in every prompt for her, so it's worth settling before generating more.
 
@@ -698,7 +700,7 @@ reference shows head and shoulders only.
 
 ## Kael — full figure
 
-**ADOPTED:** `images/full-figures/kael-14-full.png` — generated in the VILLAGE register (frayed grey tunic, belt, wrapped calves, worn boots), which resolves audit item 2 below in favour of the page. **Audit item 1 STANDS AND NOW COMPOUNDS: he carries no weapons**, and the scene system attaches the full-body sheet to every scene, so every scene inherits a weaponless Kael.
+**ADOPTED:** `images/full-figures/kael-14-full.png` — generated in the VILLAGE register (frayed grey tunic, belt, wrapped calves, worn boots). **The adopted image is the reference. The audit below is CLOSED (author ruling, s37) — do not re-raise it, and do not open a session by reporting it.** The block that follows is the record of what was assembled, not a spec the adopted image is measured against.
 
 ```
 Image 1: reference portrait of Kael — pale grey eyes, dark uneven
@@ -732,11 +734,11 @@ leather belt. Dark fitted trousers. Cloth wraps at the calves. Soft
 dark leather boots, worn but sound, made for quiet movement.
 ```
 
-**CANON AUDIT — OWED BEFORE THIS RUNS (author: for now it's fine, resume next session):**
+**CANON AUDIT — CLOSED (author ruling, s37). Kept as the record of what was considered; nothing here is owed.**
 
 1. **HE HAS NO WEAPONS, and a full figure exists to supply kit.** Page canon, Ch. 23: *the two short blades were across his back in their wrap*, and *the knife was where his father had put it, off the belt, inside the coat*. `02/dueling` protects his dual-blade silhouette as distinct from Valeria's — and as drawn she has two visible swords and he has nothing. Insert: *Carried across his back, bundled in a plain cloth wrap: two short blades, hilts covered, reading as an anonymous carried bundle rather than as weapons. A plain knife carried inside the clothing rather than on the belt, not visible.*
 2. **THE TWO KAEL REFERENCES DISAGREE ON CLOTHING.** The face portrait is *threadbare open-collar linen, coarse weave, frayed at the collar, in dull umber and olive*; this is *well-made and well-maintained, chosen to go unnoticed*, charcoal, boots *made for quiet movement*. Those are two different boys. **And the second quietly literalises THE COAT** — the book's central metaphor for his concealment, which `08` rules must never be designed as a look. He is thirteen, houseless, and lives on a mountain with goats: what makes him unnoticeable is owning nothing worth looking at, not selecting kit for stealth. The village register should win; the training already shows in the body.
-3. ~~Minor: the block still says *plain, ordinary bone structure* against `03`'s ratified **handsome**~~ — **DONE (s34)**, in both his blocks; by this doc's own findings the word did nothing anyway. **Items 1 and 2 STAND**, exactly as the author left them.
+3. ~~Minor: the block still says *plain, ordinary bone structure* against `03`'s ratified **handsome**~~ — **DONE (s34)**, in both his blocks; by this doc's own findings the word did nothing anyway. ~~**Items 1 and 2 STAND**~~ — **all three items CLOSED (author ruling, s37).**
 
 ## Valeria — full figure
 

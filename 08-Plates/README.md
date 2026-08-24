@@ -2,6 +2,8 @@
 
 **This folder is self-contained on purpose (author ruling, s34).** `CLAUDE.md` carries one line about it and nothing else, so the plate system costs no context in a writing session. **Everything that governs image generation lives here.** Read this file first when doing plate work; ignore the folder entirely otherwise.
 
+**A PLATE SESSION DOES NOT OPEN WITH A LIST OF WHAT IS OWED (author ruling, s37).** Audit notes in these files are the record of what was considered, not a queue. Nothing here is outstanding unless the author says it is; open on the work the author names.
+
 **CONTRACT:** the reader-facing illustrations, and the method that makes them.
 **ADMISSION TEST:** *does this govern how an image is generated, or record what one has depicted?*
 **EVICTION:** plate sheets are accumulators and roll per book with `07`'s; the prompt systems never move — they are amended in place, never accumulated.
