@@ -292,7 +292,7 @@ nothing on her that does not work.
 
 ### Vask
 
-**NOT YET RUN.** Uses the **Vask AGE block** and **the HAIR line** (his crop is cut by somebody not being careful). File as `images/vask.png` — **no age suffix: his age is unpinned in `03` and a number in a filename gets read as canon by the next session.**
+**ADOPTED:** `images/vask.png` — run 2. Uses the **Vask AGE block** and **the HAIR line**. No age suffix, per the unpinned-age rule. **The block below is the order that ran: the length line BEFORE the demotion paragraph**, which is the reverse of how it was drafted and is how it worked.
 
 ```
 SUBJECT — cool pale parchment ground.
@@ -300,6 +300,10 @@ A grown man of a mountain village, a herder by every appearance.
 Eyes iron-dark, near black — the DARKEST VALUE in the picture, and
 the sharpest step from light to dark anywhere in the image happens
 inside the eye itself, at the edge of the iris.
+Iron-dark hair of MEDIUM LENGTH — long enough to cover the ears
+and reach the jaw, roughly cut a long time ago by somebody who was
+not being careful and grown out since. Falling where it falls,
+pushed back off the forehead.
 The hair is dark but never a solid mass: rendered as fine ink
 strands and open transparent washes with bare paper left through
 it, soft wash-bled edges, no hard-edged black and no hard-edged
@@ -307,10 +311,6 @@ white anywhere in it. The grey lives in that openness — scattered
 pale strands and bare paper among the dark, thickest at the
 temples, salt through iron. Never a streak, never a seam, never a
 blaze or band or shape of white anywhere in the hair.
-Iron-dark hair of MEDIUM LENGTH — long enough to cover the ears
-and reach the jaw, roughly cut a long time ago by somebody who was
-not being careful and grown out since. Falling where it falls,
-pushed back off the forehead.
 Weathered hard — wind, sun and salt worked deep into the skin, the
 whole face used. The weathering is on the surface and the face
 under it is not old.
@@ -330,6 +330,10 @@ olive. No ornament, no buckle, no badge.
 **REVISED TWICE — before the first run off Neris's findings, and after it off its own.**
 
 **WHAT RUN 1 PROVED, and the first item is the important one.** **The hair-demotion paragraph killed the drain-mark by construction.** No streak, no seam, no shape of white anywhere — the grey arrived as scattered pale strands in an open mass, exactly as specified. **Forbidding the shape had failed to be reliable; removing the material the shape is made of worked.** Also confirmed: **darkest value works on him** (the eyes are the darkest thing and the sharpest step), and the empty expression landed — *nothing in them that was anything*, without tipping into menace.
+
+**WHAT RUN 2 SETTLED.** **The weather/age distinction is confirmed** — he lands at forty-odd with every weathering instruction intact, which is the whole claim. The eyes win on darkest value with the sharpest step at the iris; the expression holds *nothing in them that was anything* without leaking menace; and he reads unmistakably as Kael's father while staying clearly separate from him — the son's crop is hacked short, the father's is medium and grown out.
+
+**ONE THING RUN 2 LOST, and it is worth knowing rather than glossing: the grey is much less visible than in run 1.** Pulling him younger took most of the salt out with the age, and `03` says *iron-dark hair greying at the temples*. What survives is a few pale strands rather than the visible scatter run 1 had. **Adopted as-is — subtle greying at forty is defensible** — but if a later image wants the temples to read grey at a glance, that instruction has to be strengthened separately, because the age block is now pulling against it.
 
 **WHAT RUN 1 GOT WRONG — HE CAME BACK FIFTY-FIVE, AND THE FIX IS A DISTINCTION.** `03` says *a face like used tools, weathered past its years*, and the block turned that into structural age: sunken temple, scored forehead, coarsened thickened skin. **Those are what read as decades. WEATHER AND AGE ARE DIFFERENT THINGS AND THE BLOCK MUST SAY SO** — weather is what sun and wind do to the *surface*, age is what time does to the *structure*. Vask is heavy on the first and light on the second, and the revised block says it in as many words: *the wear on him is WEATHER, not AGE — sun and wind and salt worked hard into the surface of a face whose structure underneath is still young and hard.* **This is the general lever for anybody the book wants weathered but not old**, and it is the third form of the age counterweight: Neris forbids youth, Vask forbids depletion, and now Vask also forbids age-as-structure while keeping every bit of the weather.
 
