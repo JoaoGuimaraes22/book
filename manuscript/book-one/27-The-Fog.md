@@ -70,7 +70,7 @@ He heard the arena before he saw it.
 
 He came up the last of the rise and the building arrived out of the grey all at once, close enough to touch, full to the top rail, the sound of it standing straight up into the fog like smoke off a fire in still weather.
 
-Half the field was gone in two days. Every seat in that place had somebody in it.
+Two days had taken twelve of the sixteen. Every seat in that place had somebody in it.
 
 He went in under the seating and stood in the cold with his back against the new timber, listening to eleven thousand people spend the last of the waiting on the two names they had left.
 

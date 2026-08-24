@@ -1,5 +1,5 @@
 ## NERIS (the mother)
-**Glance:** Kael's mother; teacher of the mind · ex-asset of the program — bearer of the Kynemir bloodline (00) · age unpinned · **the child is hours or days away, as of Ch. 27 — *"He has come down. There is nothing left to work out about it."*** ; the danger admission given; the birth collides with the games — she goes into labour as the semifinals begin (00 s26).
+**Glance:** Kael's mother; teacher of the mind · ex-asset of the program — bearer of the Kynemir bloodline (00) · age unpinned, **and the same as Vask's (author, s34)** · **the child is hours or days away, as of Ch. 27 — *"He has come down. There is nothing left to work out about it."*** ; the danger admission given; the birth collides with the games — she goes into labour as the semifinals begin (00 s26).
 
 ### STATIC
 - **Name:** Chosen, not given (00). Belongs to no naming register; villagers assume it foreign; its true nature is sealed — never explain on the page.

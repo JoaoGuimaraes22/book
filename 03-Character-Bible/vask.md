@@ -1,5 +1,5 @@
 ## VASK (the father)
-**Glance:** Kael's father; teacher of the body · ex-instrument of the program, hidden · age unpinned · alive, as of Ch. 27; the school now on LIVE EDGES; the extraction plan his mouth · **his twin-shorts prohibition was broken mid-bout and Kael told him; what he does about it is owed and unwritten.**
+**Glance:** Kael's father; teacher of the body · ex-instrument of the program, hidden · age unpinned, **and the same as Neris's (author, s34)** · alive, as of Ch. 27; the school now on LIVE EDGES; the extraction plan his mouth · **his twin-shorts prohibition was broken mid-bout and Kael told him; what he does about it is owed and unwritten.**
 
 ### STATIC
 - **Name:** Chosen, not given (00). One closed syllable, a tool being set down; worn the way soldiers' names get worn.
@@ -8,7 +8,7 @@
 - **Flaw:** Loves through preparation; teaches survival, not people. Not a perfect parent.
 - **Abilities:** LIGHTNING Resonant, forged soldier (00). Revealed to Kael at the declaration — "Mine as well." plus one palm-crack; he never claims blood inheritance in words (00 staging rule). RULE: the reader never sees him fight until the fire — then the most terrifying display of skill in Book One. At the settlement: total kill, doctrine not rage; he completed the untying (00).
 - **Teaching signature:** beside Kael, always longer, always better; corrections one stroke; release only on his word; harshness without softening — and the trust inside it (the tap-sign honored instantly, always).
-- **Appearance:** Broad through the shoulders and no further — an instrument's economy, not bulk; fills a doorway by carriage. Iron-dark hair greying at the temples; iron-dark eyes (both parents dark-eyed — Kael's grey is no one's). A face like used tools, weathered past its years. Scars on-page: the long seam, the through-wound pair, the tally-like forearm marks ("A bad employer"). Hands permanently half-curled, as if around something set down. Moves exactly as much as required.
+- **Appearance:** Broad through the shoulders and no further — an instrument's economy, not bulk; fills a doorway by carriage. Iron-dark hair **greying early** at the temples — ahead of his age, the *past its years* of the face carried by the hair; iron-dark eyes (both parents dark-eyed — Kael's grey is no one's). A face like used tools, weathered past its years. Scars on-page: the long seam, the through-wound pair, the tally-like forearm marks ("A bad employer"). Hands permanently half-curled, as if around something set down. Moves exactly as much as required.
 
 ### DYNAMIC
 - **LAST SEEN AT THE BLOCK IN THE FOG (Ch. 27).** *"Off the water… It will burn off by the third bell, or it will sit on us all day." / "Which?" / "Both are common."* He let his son stop the telling the night before and said one word about the bout — *"Good"* — and did not ask for the rest.
