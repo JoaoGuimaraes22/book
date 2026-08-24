@@ -2,7 +2,7 @@
 **Contract:** LIVE STATE — what will be false in ten sessions. Pointer-style: the record lives where the pointer says. Protocol: `CLAUDE.md` · law: `07-Story-Ledger/` · plan: `04-Outline.md` · history: `archive/session-log.md`.
 
 ## STATUS (cap: 2 blocks, ≤4 lines each — the record is `archive/session-log.md` §SESSION N)
-- **s36 (2026-08-24) — THE COLD-READ CUT.** No prose. The doc system cut to roughly half per session open: CLAUDE.md rewritten rule-only with a three-tier cold read; 05/04/06/07/TOOLS stripped of history; 02 and 03 rewritten to current state; chapter-records for Parts I–III rolled to `07/chapter-records-parts-1-3.md`; protected-phrasings out of the cold read (script-parsed); `scripts/clues.sh` added. 00 untouched — a priced reorganisation proposal is in the session record.
+- **s36 (2026-08-24) — THE COLD-READ CUT.** No prose. The every-session read cut 104,062 → 52,600 words (−49%): CLAUDE.md rewritten rule-only with a three-tier cold read; 05/04/06/07/TOOLS stripped of history; 02 and 03 rewritten to current state; chapter-records for Parts I–III rolled to `07/chapter-records-parts-1-3.md`; protected-phrasings out of the cold read (script-parsed); `scripts/clues.sh` added. 00 untouched — a priced reorganisation proposal is in the session record.
 - **s35 (2026-08-24) — THE OVERHEAD PASS.** No prose; one clause of Ch. 27 corrected, held flat. ONE FACT, ONE HOME ratified; five duplicate ledgers cut; freckles ruled for Kael and Aeliana (unspent).
 - s34 and older: `archive/session-log.md`.
 

@@ -1297,3 +1297,62 @@ Protocol is in CLAUDE.md and auto-loads, including the TIERED COLD READ: all bib
 
 ### 03/appearance-ledger.md (history clause struck)
 - Entries were built session 8 and ratified session 9, decided cold, spent gradually; spend-state is tracked inside each entry.
+
+
+---
+
+## SESSION 36 — 2026-08-24 (THE COLD-READ CUT, author-directed. No prose; no design. Run unattended after the brief, with a parallel plate session on the same tree)
+
+**What it was.** The author opened with: *clean up system docs, make our work as easy and efficient as possible, make session opens only read what is needed … a lot of verbosity is in some info files, claude.md, bibles, etc. … I want these as efficient as possible so as not to clog up context and confuse you when writing. You have time. Be thorough.* Every doc-system file was read in full (the accumulators and the archive sampled structurally), then cut.
+
+**THE DIAGNOSIS.** The every-session read cost **104,062 words (~138k tokens)**. The verbosity had one shape almost everywhere: **history and argument sitting where rules and state should be** — three generations of a ruling in one bullet (*s25 clause → s28 refinement → s30 supersession → do not re-flag*); PAID-chains in 05 going back seven sessions; 05's opener restating its own NEXT TARGET line for line; 900 words of chapter-history hung off the baseline numbers; 03 DYNAMIC sections that had become chapter retellings against 03's own contract; and two files read whole every session that a script serves better — `07/planted-clues` (14.5k) and `07/protected-phrasings` (7.3k).
+
+**THE CUT — every-session read, before → after (words):**
+
+| file | before | after |
+|---|---|---|
+| CLAUDE.md | 1,774 | 1,059 |
+| 00 (untouched — author-ratified only) | 10,201 | 10,201 |
+| 01 | 792 | 777 |
+| 02 topic files | 9,227 | 7,339 |
+| 03 sheets | 15,413 | 12,287 |
+| 04 | 2,496 | 1,852 |
+| 05 | 6,243 | 963 |
+| 06 | 2,468 | 2,242 |
+| 07 law core (five files) | 3,216 | 3,138 |
+| 07 planted-clues | 14,562 | 0 — design-time, via `scripts/clues.sh` |
+| 07 chapter-records, minus the two chapters read in full | 20,641 | 3,118 — current Part only |
+| 07 protected-phrasings | 7,295 | 0 — script-parsed, never cold-read |
+| Ch. 26 + Ch. 27 in full | 9,734 | 9,734 |
+| **TOTAL** | **104,062** | **52,600 (−49%; ~70k tokens)** |
+
+**WHAT CHANGED, BY FILE.**
+- **CLAUDE.md** — rewritten rule-only: the same contracts, tests, hard rules and protocol, without the session citations, evidence arguments and lists of retired things. **New: a THREE-TIER COLD READ** — every session / design-time (a new chapter: `clues.sh`, planted-clues whole only at a Part boundary) / on demand. **New: `07/chapter-records` rolls PER PART** (Ch. 1–22 → `chapter-records-parts-1-3.md`), not only per book. **New: protected-phrasings leaves the cold read** — `check-echoes.sh` reads it. Three standing author preferences that lived only in Claude's memory were written into §Standing rules (destinations not chapter numbers · taste notes are not rules · price a hard-rule collision, never refuse or widen) so they survive a session with no memory.
+- **05** — §STATUS to two pointer blocks; §NEXT TARGET and the OPENER merged into one; §HOLDS & OWED and §ARC STATE gone (every hold re-homed: 03 sheets, 02/magic, 07/standing-rules — three orphans given a home in `07/standing-rules`: the two author-decided *do not fix* lines and the Ch. 24 guard who resolves nothing); baselines reduced to the numbers `verify.sh` reads. 6,243 → 963.
+- **04** — beats 15/16/17/19 and the purpose thread reduced to what is unspent; struck entries (the chest, the ladder) removed; a one-line clock under Part IV. `outline-archive.md` points at the roll-off.
+- **06** — the s33 *evicted from 00* section folded into §Hard Rules (its dangling *§THE PATERNITY, above* now points at 00); the pan-away, dialogue-mix and model-tic bullets stripped of their audit narratives; the fight-chapter craft law and the per-section and/1k check (both carried in 05 for three sessions) written where they belong.
+- **07** — `standing-rules` DEPARTURE LEDGER trimmed of the tally story; `index.md` now states the tiers; the superseded Ch. 10 design record rolled out of chapter-records.
+- **02** — terse current-state rewrite by a fork of this session (temple 3,057 → ~2,000; magic 2,356 → ~1,860; lexicon 1,159 → 960). Four stale states corrected, not just compressed: the prize was still *TBD*; Severin's Art still *unspent*; Meloran still *available* as a round-of-8 body; the spectacle beat still reserved. An independent adversarial review then restored two real losses — the houseless provision's page-canon rationale (*written so the empire never loses a boy off a farm whose father cannot write*, Ch. 18) and *anchor*→*plate* in dueling.md, which had collided with `08-Plates/canon-brief.md` — and six nuances.
+- **03** — DYNAMIC rewritten to standing state on every sheet by a second fork; STATIC kept whole. Stale clauses corrected against 00/07: halden.md's *no program connection excluded* (00 s21 closed it); severin.md's *earth unspent* (spent Ch. 27); valeria.md's *beat 14 untouched* and *lag still unspent* (spent Ch. 20; de-listed s32). New homes: kael.md carries *line-reinforcement — not twice in a day (s24)*; halden.md carries *neither parent will ever recognise him*. `appearance-ledger` now lists the Ch. 26 burn beside the two scars. Independent adversarial review: no invented facts, no altered quotes, one HIGH — Kael's *has not said it twice* had turned a Ch. 20 scene fact into a standing one that contradicted the public *Val* three lines up, and lost the live *does not know whether that was permission*; fixed. Also fixed: four Glances carrying *off the page since Ch. N* (03's own no-stamp rule; 05 owns it); Aeliana's guard dying in the invasion sitting in DYNAMIC as present tense (moved to FORWARD); *pointedly* restored to Halden; *not a cheer and not a roar* restored to the radius rule; *the many-element road's second proof* restored to line-reinforcement. Two silent cuts the review found defensible and this record declares: valeria.md STATIC *Unbeaten* (contradicted by DYNAMIC since Ch. 16) and severin.md *Demonstrations stay candle-scale* (dead since Ch. 26–27).
+- **TOOLS.md** — `clues.sh` added; the check-quotes case history reduced to its doctrine; two dangling pointers (*CLAUDE.md §Instruments*, *05 §READER-COPY INSTRUMENT*) removed. **01** — the hand-typed *last updated* stamp cut.
+
+**VERIFIED, NOT ASSERTED.** Every roll-off (05, 04, 06, 07, TOOLS, 02, 03) line-checked into `archive/session-log.md` §S36 ROLL-OFFS (0 missing each); every old line of 05 and `07/standing-rules` found verbatim in the new file or the roll-off; `check-quotes` **0** before, after every step, and at close (spans 1,095 → 1,031, the delta entirely inside cut history); `check-echoes` full-manuscript parity **26, unchanged**; `verify.sh` baselines match; all 15 sheets carry STATIC/DYNAMIC/FORWARD on their own lines; `clues.sh` smoke-tested (174/6/4/10, headers = rows). Pre-cut versions of every file: git `532703c`.
+
+**THE PARALLEL SESSION.** A plate session ran on the same tree throughout. Its `add -A` at 18:49 swept this session's in-progress 05 into *Take the frailty out of Severin* (fe4f06f) — nothing lost, wrong message. Its other commits touched only `08-Plates/`. This session staged by path only. The memory note it left (*never `git add -A` here*) stands.
+
+**ASSUMPTIONS MADE UNATTENDED (the author can reverse any of them; each is one revert).** (1) The protocol changes in CLAUDE.md — the tiers, the per-Part roll, protected-phrasings out of the read — were taken as inside the brief *make session opens only read what is needed*. (2) 02 and 03 were rewritten, not merely re-filed, because the brief named the bibles; the ZERO-LOSS rule was honoured by verbatim roll-offs of every cut ruling and two adversarial reviews rather than by verbatim moves. (3) 00 was not touched. (4) The three memory-only standing rules were promoted into CLAUDE.md.
+
+**NOT DONE, AND WHY.** 00 (10,201 words, the largest remaining item in the read) is author-ratified only; the proposal below is priced and waiting. `02/03/07 changelog.md` (8.7k words, not cold-read) left alone. `08-Plates/` left alone (self-contained; the other session's).
+
+### 00 — REORGANISATION PROPOSAL (NOT EXECUTED; author-ratified only)
+
+**What it is now.** 10,201 words, read in full every session. Its own header says it is *half subject-organised and half session-organised*: twenty subject sections, then eight `## SESSION N ADDITIONS` blocks (s8, s9, s14, s18, s20, s21, s22, s26, s32) whose contents belong to subjects that already have a section. To learn what is sealed about the birth you read §The Mother, §Wren, s20 §WREN — THE EYES, s22 §THE KYNEMIR BIRTH, s26 §THE BIRTH AND THE SEMIFINAL and 04 beat 17.
+
+**The proposal — one session, author present, three moves:**
+1. **Re-file by subject, verbatim.** Fourteen subject sections; every session-block paragraph moves under its subject unchanged: THE ENDING · THE PARENTS (history, paternity, names, proficiencies, the chest, the throw, the birth) · THE PROGRAM & THE GARDENER (the Sanctum, the doctrine, the harvest, the tournament's function, Halden = empire) · MAGIC — DEEP LAYER (particle, minima, infection, drain and the three hair registers, proximity, elemental command, the many-element road) · THE KYNEMIR BLOODLINE (mechanism, sign, gate, folklore) · THE RAID (causality, the bell, the emptied island, the district and the gate, what Kael hears, the third hand, the flicker) · SEVERIN · WREN · THE MOTHER · THE PRINCESS · VALERIA & THE DUEL · ELARINE (coat-wire) · CH. 6–7 SEALED TRUTHS · THE FAR CONTINENT. The `## SESSION N` scaffolding disappears; the `(author, sN)` tags stay as pointers to the archive record.
+2. **Cut the history.** Header paragraphs 2–3 (the append-only ruling and the s33 eviction-pass record, ~250w) → archive. The `[SUPERSEDED s26 →]` note inside s22 (~60w). s26's *WHY IT HOLDS* argument (~90w). The spent staging notes — the ghost-story *SPEND: Ch. 10, not Ch. 9*, the Ch. 5 *tail eaten* enactment, s22 §BEAT 18 *the crowd splits* (spent Ch. 23–27), the *(sealed — decided session 7)* wrappers (~300w) → 07 owns the spend state already.
+3. **Point instead of copy.** s14's Resonance vocabulary reform is page vocabulary and 02/lexicon owns it — one line stays (*older blocks that read "mage" read as "Resonant"*, or the word is simply corrected in place). s21/s22 §BEAT 16 restates 04 beat 16 — 00 keeps the truth (Kael refuses; his guilt architecture; the refusal does not cause the raid) in three lines and points at 04 for the mechanics. §The Unfinished Duel's *(SPENT — Ch. 27)* is state; 07/open-threads carries it.
+
+**Estimated result:** ~7,000 words (−30%), and every sealed fact about one subject in one place. **Cost:** 00's prose is the author's voice in places; a re-filing moves paragraphs and merges nothing, so the voice survives; the cuts in (2) and (3) each need a yes. **Verification:** every old line verbatim in the new 00 or in the archive roll-off; the author reads the diff. **Owed with it, the same session:** the welded bullets s33 left — §THE FIRE'S FLICKER, §ON-PAGE DISCIPLINE (the pregnancy), the knot's *do not rationalize*, the *never explain* clauses on Neris's eyes, her pedagogy and the name — where a truth and its staging clause sit in one sentence; the author decides each split.
+
+**Not proposed:** rewriting any sealed truth; touching any DO NOT RESOLVE; shortening the deep-layer mechanics.
