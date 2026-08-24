@@ -26,6 +26,7 @@ This mirrors what the prose already does. The book tracks eye colour obsessively
 - **RED** is the Kynemir mark. It stays the loud one because of what it is, not because it is the only colour available.
 - **WHITE HAIR IS DATA, NEVER STYLING.** 02/magic: drain whitens permanently, *proportional to depth*; an old Resonant's hair is a readable ledger. Whitening a head makes a claim about that person's magical history. Never add white for drama, age, or contrast.
   - **Ruthen** carries one seam and the page fixes it: "one clean seam of it, like quartz through rock." One seam through dark hair — not a streak, not distributed grey.
+  - **SILVER IS NOT WHITE (s33).** The Vessantine hereditary silver is a house colouring; the drain-mark is PURE QUARTZ WHITE. A plate keeps them visually distinct — Aeliana silver-fair and warm-toned, a drained head cold and quartz-hard.
   - **Severin** is fully grey and the drain-reading is *never confirmed*. Render grey. Never seamed, never white. The ambiguity is load-bearing and one stroke can destroy it.
 
 **SUPERSEDED (s33):** the original law read *near-monochrome by law, red reserved, never colour at eye-scale on a face except the bloodline*. It was over-derived. `03/appearance-ledger` says *no heightened palette* about **how the cast is described** — it does not say the world is colourless, and collapsing those two was an error.
