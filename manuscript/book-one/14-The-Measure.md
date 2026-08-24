@@ -24,7 +24,7 @@ The Temple received the advance party formally, cohorts drawn up in the roll's o
 
 She stepped out from among the grey travel cloaks, and Kael's eye priced her before the name finished landing.
 
-Lean. Exact. Built the way a tool is built when eleven generations have asked it the same question — a strong, working build, nothing spare on her anywhere, nothing worn for anyone's eye. Black hair to her shoulders, kept clear of ornament. She stood in front of six hundred of the empire's children with a stillness Kael had spent his life learning to see, and it was nothing like his. His stillness was built to disappear. Hers was built the other way. It stood in the court like a drawn blade stands in a room, and the court gave it space without knowing it was giving anything.
+Lean. Exact. Built the way a tool is built when eleven generations have asked it the same question — a strong, working build, nothing spare on her anywhere, nothing worn for anyone's eye. Black hair well past her shoulders, kept clear of ornament. She stood in front of six hundred of the empire's children with a stillness Kael had spent his life learning to see, and it was nothing like his. His stillness was built to disappear. Hers was built the other way. It stood in the court like a drawn blade stands in a room, and the court gave it space without knowing it was giving anything.
 
 Her eyes went along the ranks once, without hurry, and the strangest thing about her arrived last: she was bored. Plainly, evenly bored, the way you are bored by weather you have already had. Six hundred children of the houses, the island's whole gathered gold, and her eyes moved across them the way his mother's moved across a basket with no good caps in it.
 
