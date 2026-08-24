@@ -102,17 +102,20 @@ not been worn. The age is in the eyes and nowhere else at all.
 **Severin — old, and worn to what mattered** *(the third adult block, and the only genuinely elderly one)*:
 
 ```
-Age: an old man of about seventy, and genuinely old — not a
-vigorous fifty. Eyes set well above the vertical midpoint of the
-head. The face reduced to its structure: the cheek hollowed, the
-temple hollowed, the jaw and brow and the bones around the eye all
-clearly readable under the skin. Deep lines everywhere — from the
-nose to the mouth, across the forehead, at the outer corners of
-the eyes. Skin thinned, slackened along the jaw and the throat,
-the neck lean and corded. WORN TO WHAT MATTERED: everything
-inessential gone out of the face and nothing essential gone with
-it. Not frail, not sick, not soft, not kindly-grandfatherly. Old,
-and entirely sound.
+Age: an old man of about sixty-five — old, and physically
+formidable. Eyes set well above the vertical midpoint of the head.
+Deep lines cut from the nose to the mouth, across the forehead and
+at the outer corners of the eyes; the skin coarse, dry and
+weathered, drawn tight over the bone. The face pared down to its
+structure, the brow and cheekbone and jaw all hard and clearly
+readable. LEAN, NOT WASTED — dry hard flesh over heavy bone,
+nothing soft left on him and nothing missing either. The neck
+thick and corded, the jaw heavy, the head sitting solid on the
+shoulders. NO hollow cheeks, NO sunken temples, NO thin or scrawny
+neck, NO slackness or sagging anywhere. WORN TO WHAT MATTERED:
+everything inessential gone and every essential thing still there.
+Not frail, not gaunt, not sick, not wispy, not
+kindly-grandfatherly. A powerful old man whose body still works.
 ```
 
 **The original, still correct for Kael, Valeria and Aeliana:**
@@ -447,15 +450,17 @@ of the iris. His hair is the lightest mass in the frame and his
 eyes are the darkest point in it, and that opposition is the whole
 picture.
 Hair FULLY GREY — the entire head, evenly and completely, a true
-neutral grey that is neither warm silver nor cold white. Worn to
-about the collar, thinning and dry, unstyled. The grey is uniform
-everywhere: no streak, no seam, no band, no patch, nothing
-gathered or shaped anywhere in it, and no part of it lighter or
-colder than any other part.
-Tall and gone lean — long in the bone, the flesh reduced, and
-still broad across the shoulder in a way the robes do not
-disguise. Heavy thick wrists, too thick for a man whose work is
-paper.
+neutral grey that is neither warm silver nor cold white. A FULL
+THICK HEAD OF IT, coarse and dry, worn to about the collar,
+unstyled. Not thinning, not wispy, not receding, no scalp showing.
+The grey is uniform everywhere: no streak, no seam, no band, no
+patch, nothing gathered or shaped anywhere in it, and no part of
+it lighter or colder than any other part.
+Tall and heavy-framed — long in the bone and broad and thick
+across the shoulder, and the robes do not disguise it: the frame
+reads straight through the cloth. Heavy thick wrists, too thick
+for a man whose work is paper. A big old man who is still strong,
+not a thin one.
 A scholar's stoop that does not sit naturally on him: the head
 carried forward, the shoulders rounded, and the frame underneath
 plainly not built for it.
@@ -469,6 +474,12 @@ metal with real weight in it, dull and unpolished, no gems and no
 ornament of any kind. In deep charcoal and cold grey-brown, the
 chain in tarnished bronze.
 ```
+
+**REVISED AFTER RUN 1 — HE CAME BACK FRAIL, AND IT IS THE SAME MISTAKE FOR THE THIRD TIME THIS SESSION.** The block stacked positive depletion — *the flesh reduced · skin thinned, slackened along the jaw and the throat · the cheek hollowed, the temple hollowed · thinning* — and set one negation against it, *not frail*. **The negation lost, exactly as `no freckles` lost and exactly as the five white-bans lost Vask's grey.** It also said *genuinely old — not a vigorous fifty*, which pushed the same way.
+
+**THE RULE, NOW STATED THREE TIMES OVER AND WORTH LEARNING: SEPARATE THE QUALITY YOU WANT FROM THE ADJACENT QUALITY THAT READS AS DECLINE, AND NAME BOTH.** Vask needed *weather, not age*. Severin needs **LEAN, NOT WASTED** — dry hard flesh over heavy bone, nothing soft left on him and nothing missing either — plus an explicit list of the frailty markers that are forbidden (hollow cheeks, sunken temples, scrawny neck, slackness, thinning hair), plus a positive body: *a big old man who is still strong, not a thin one.* **One negation cannot hold a line against six positive instructions pointing the other way.**
+
+**AND THE PAGE BACKS THE CORRECTION.** This is a man who *came over the front of the host's box, dropped the height of a man, and went into the north curve against the flow* (Ch. 27), and who crossed the whole width of an arena at a walk (Ch. 26), and whose sheet reads **an enforcer's frame under a master's robes.** *Old the way the split rock is old* is not fragility — **a split rock is what is left when everything soft has gone, and it is the hardest thing on the mountain.**
 
 **THE GREY IS THE WHOLE PROBLEM, AND THE BLOCK ANSWERS IT WITH FRAMING.** `03` says *hair fully grey — the second reading never confirmed*, and that reading is a valve `00` protects: **is his grey age, or is it drain?** The book refuses to say, and s30 has the tournament's six days *deepening* it. **An image cannot decline to answer**, so the portrait renders the AMBIGUITY rather than resolving it, which is what the hard rule means by framing:
 
@@ -529,6 +540,7 @@ Use an **anchor** only when continuity within a specific image matters — multi
 - ~~**Ears run hot.**~~ **SUPERSEDED s34 — the whole clause is cut.** `Most colour in the cheeks, nose and ears` was taken literally and the ears came out pink, which was a nuisance; the real fault was the *cheeks*. High cheek colour competes with the eye for the one saturated point the picture is allowed — fatal to a warm eye, expensive for a dark one. Cut from the fixed block. Ears still warm slightly without it, and that is fine.
 - **Edit passes cost texture.** Two maximum. Granulation softens and the palette warms with each one. If a third is needed, regenerate with the change written into the SUBJECT block instead.
 - **Traits propagate silently.** Freckles once ended up on all three characters because the line got copied between prompts. Same risk with expression — identical affect across a cast flattens them. Decide per character.
+- **A LONE NEGATION CANNOT HOLD A LINE AGAINST A STACK OF POSITIVES (s34, and this one cost three runs).** Severin came back frail against *not frail*, because six separate instructions around it said *reduced, thinned, slackened, hollowed, thinning*. **The fix is never a stronger negation — it is to separate the quality you want from the adjacent quality that reads as decline, name BOTH, and add a positive body.** *Weather, not age* (Vask). *Lean, not wasted* (Severin). *Fully grown, and nothing has been taken out of her* (Neris). Then list the specific forbidden markers by name. **This and the entry below are the same defect seen from two sides: a negation is only ever as strong as what surrounds it.**
 - **NEGATION STACKS OVERSHOOT — THE GENERAL FORM (s34, two independent cases).** Point several negations at one feature and the tool removes the feature rather than its bad form. `no freckles` did not suppress freckles; **five bans on white-in-the-hair suppressed Vask's grey entirely**, which is the opposite of what they were for. **The reliable shape is ONE ban on the bad form plus a POSITIVE quantity of the good one** — *one strand in six, scattered evenly, plainly visible at a glance; scattered, never gathered.* Ban the shape, count the thing.
 - **`no freckles` DOES NOT SUPPRESS FRECKLES — AND IT DOES NOT MATTER (author ruling, s34).** Elarine's prompt said `clear and unmarked, no freckles` and she came back freckled across the nose and cheek. **This is not trait contamination, it is the medium:** the fixed block asks for `pigment granulation`, the tool renders granulation on skin as speckling, and negating a trait cannot beat an instruction to granulate. **The ruling is to stop fighting it.** Granulation freckles are TEXTURE, not a mark — so **freckles do not distinguish anybody in this system**, and the `no freckles` lines in the blocks are advisory rather than load-bearing. Kael's and Aeliana's freckles are now sheet canon and stay in their blocks; they simply stop being a thing an image separates people by. *(Corrected s35: this line read* their sheet canon and their prose detail *and neither was true — freckles were in these two SUBJECT blocks and nowhere else in the doc system or the manuscript, so a block's invention had been cited back as the sheet's, which is the one thing this file's own binding rule forbids. Resolved in the sheets' favour at the author's word: `03/kael` and `03/aeliana` now carry them, unspent on any page.)* *(The lever exists if a future image ever truly needs bare skin — attack the rendering, not the trait: `skin rendered as a single flat unbroken wash — no speckling, no stippling, no granulation anywhere on the face`. Untested.)*
 
