@@ -20,7 +20,9 @@
   - `images/scene-tests/` — multi-figure method tests. **References, not pages** — which is what makes Kael's unspent grey legal in them.
   - **Naming: bare `<character>[-full]` where `03` leaves the age unpinned** (s34: a number in a filename gets read as canon by the next session, and Vask's, Neris's and Severin's ages are deliberately open).
 - `prompts/` — **GENERATED, never hand-edited.** Paste-ready `.txt` of every stored prompt, built from the markdown above by `scripts/build-prompts.sh` and laid out to mirror `images/` (`portraits/`, `full-figures/`, `scene-tests/`). See `prompts/README.md` for the provenance of each — which ones actually produced the adopted image and which are current-system reassemblies.
-- `plates/` — one sheet per chapter plate. Not yet started.
+- `plates/` — the plate work itself.
+  - `candidates.md` — the shortlist: moments worth drawing, chapter by chapter, before anything is composed. A rejected candidate stays on the page so the next session does not re-propose it.
+  - `ch<NN>.md` — one sheet per chapter, carrying that chapter's plate prompts in fenced blocks under `### PLATE: <slug>` headings, plus what each is anchored on and what it must not show. **These are the source; `prompts/plates/` is generated from them.**
 
 ---
 

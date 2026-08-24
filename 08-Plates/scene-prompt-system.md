@@ -253,6 +253,24 @@ Two items recur because the system inherits them rather than inventing them, and
 
 **KAEL IS UNARMED IN EVERY SCENE.** His full-body sheet carries no weapons, the scene system attaches that sheet, and so every scene inherits a weaponless boy. Predicted when the sheet was adopted; demonstrated every time since. Page canon puts *two short blades across his back in a cloth wrap* and a knife inside the clothing. Until the sheet is redone, write the wrap into the scene prompt by hand whenever the moment would carry it.
 
+## Plates — what changes
+
+A plate is a moment, not a person, so it takes neither the portrait system's fixed head-and-shoulders `Composition` nor its `Eyes: the focal point` line. **The plate prompt writes its own composition, lighting and framing every time.**
+
+What it inherits is the house look and nothing else: the **Medium** and **Colour** paragraphs of the portrait system's fixed STYLE block. `scripts/build-prompts.sh` slices those two paragraphs out of that block and prepends them — there is no second copy of that text to drift.
+
+**Plate prompts live in the chapter's sheet in `plates/`, one fenced block under a `### PLATE: <slug>` heading**, and build to `prompts/plates/<sheet>-<slug>.txt`. The prompt systems are the rule and are amended in place; plate sheets accumulate.
+
+**Three things a plate must state that a portrait never has to:**
+
+- **Where the light is.** The portrait block's soft directional light is gone. Say the source, say it is the only one, and say what it leaves dark.
+- **Who is NOT in the frame.** An unattended run puts a person in an empty room and a watcher in a solitary moment. Name the absence.
+- **Which faces are not visible, and that it is deliberate.** This is how a plate obeys THE PLATE FOLLOWS THE PAGE without inventing anything — and it is the only way Kael appears in a plate at all while his grey is unspent. Say *no eyes are visible anywhere in the picture* and say *do not turn the head toward the viewer*, or the run will helpfully fix it.
+
+**The inherited Colour paragraph is written for faces, and a plate must often override it.** It ends *the warmth belongs to the skin alone, not the paper or the cloth* — true of a portrait, where the face is the only warm thing in the frame. A plate lit by a fire, a lamp or a town has its warmth landing on cloth, timber, stone and water, and a plate with no people in it has no skin at all. **Say where the warmth actually lands, inside the plate block.** Do not edit the fixed STYLE block to suit one picture.
+
+**Anchoring cost, stated per plate.** Scenes want full-body sheets. Plates rarely get them: a plate of a child, of a parent, or of an empty room is anchored on a head-and-shoulders portrait or on nothing at all, and everything below the collar is then authored in the prompt and anchored to nothing — it will not repeat in the next plate. That is not a reason to skip the plate; it is a reason to write the cost on the sheet, so the next session knows which pictures share a body and which only share a face.
+
 ## Standing limitation
 
 These models pattern-match rather than model objects. Overlapping limbs, occlusion, and held objects at odd angles are where that breaks — which is exactly what an action scene is.

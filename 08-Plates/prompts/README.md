@@ -18,6 +18,8 @@ Each file is complete and paste-ready in order: **STYLE · AGE · HAIR (where us
 
 **NO STORED PROMPT, and it cannot be recovered.** `kael-17`, `valeria-17`, `aeliana-18`. Those age progressions were made by running the same SUBJECT block with a changed age line and the exact wording was never written down. Re-cutting them means writing a new age block.
 
+**NOT YET RUN.** `plates/ch01-fallen-stars` · `plates/ch01-the-catch` · `plates/ch01-room-of-true-things`.
+
 ## Layout
 
 Mirrors `../images/`:
@@ -25,3 +27,4 @@ Mirrors `../images/`:
 - `portraits/` — single figure, face reference. `<character>-<age>.txt`, bare name where `03` leaves the age unpinned.
 - `full-figures/` — anchored to an adopted portrait; extends a face to a standing figure.
 - `scene-tests/` — multi-figure, anchored to the full-body sheets.
+- `plates/` — chapter plates, `<sheet>-<slug>.txt`, built from the `### PLATE:` blocks in `../plates/ch<NN>.md`. Each is the house Medium and Colour paragraphs (sliced from the fixed STYLE block) plus the plate's own block, which carries its own composition, lighting and framing.

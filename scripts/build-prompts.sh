@@ -16,7 +16,7 @@ OUT="08-Plates/prompts"
 if [[ "${1:-}" == "--check" ]]; then OUT="$(mktemp -d)/prompts"; fi
 
 python3 - "$OUT" <<'PY'
-import io, os, re, sys
+import glob, io, os, re, sys
 
 out = sys.argv[1]
 port = io.open("08-Plates/portrait-prompt-system.md", encoding="utf-8").read()
@@ -80,6 +80,19 @@ for name, head in FULL_FIGURES:
 
 write(f"{out}/scene-tests/quartet-conversation.txt", fenced(scene, "### Four figures — the quartet prompt, as run"))
 n += 1
+
+# Plates. A plate takes the house look — the Medium and Colour paragraphs of the
+# fixed STYLE block — and nothing else; it writes its own composition, lighting
+# and framing. Sliced, not copied, so that text keeps one home.
+PLATE_STYLE = STYLE.split("\n\nEyes:")[0].strip("\n")
+
+for sheet in sorted(glob.glob("08-Plates/plates/*.md")):
+    stem = os.path.splitext(os.path.basename(sheet))[0]
+    text = io.open(sheet, encoding="utf-8").read()
+    for slug in re.findall(r"^### PLATE: (\S+)\s*$", text, flags=re.M):
+        block = fenced(text, "### PLATE: %s\n" % slug)
+        write(f"{out}/plates/{stem}-{slug}.txt", PLATE_STYLE + "\n\n" + block)
+        n += 1
 
 print(f"built {n} prompt files into {out}/")
 PY
