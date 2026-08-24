@@ -12,7 +12,11 @@
 - `canon-brief.md` — **paste at the top of any prompting conversation.** A per-character sheet of the appearance facts that may not be violated. Written because prompts are authored in a tool that cannot see `00`, `02` or `03`, which is the single blind spot that produced every canon error of s33 and none of the craft ones. **It is a SUMMARY, not canon** — if it disagrees with a sheet, the sheet wins and the brief is the bug.
 - `portrait-prompt-system.md` — the RULE for single figures: the fixed STYLE block, the per-character AGE and HAIR blocks, the SUBJECT blocks, the full-figure BASE block, and the generation method.
 - `scene-prompt-system.md` — the RULE for multi-figure scenes, action, contact and aftermath.
-- `images/` — adopted portraits and full figures, named `<character>-<age>[-full]`. **Bare `<character>[-full]` where `03` leaves the age unpinned** (s34: a number in a filename gets read as canon by the next session, and Vask's and Neris's ages are deliberately open). `images/scene-tests/` holds method tests, which are references and not pages.
+- `images/` — split by kind (s34), because the library outgrew one flat folder:
+  - `images/portraits/` — head-and-shoulders references, `<character>-<age>.png`.
+  - `images/full-figures/` — standing figures, `<character>-<age>-full.png`. **The `-full` suffix is kept even though the folder already says so**, so a filename stays unambiguous wherever it is pasted or cited and no two files share a name across folders.
+  - `images/scene-tests/` — multi-figure method tests. **References, not pages** — which is what makes Kael's unspent grey legal in them.
+  - **Naming: bare `<character>[-full]` where `03` leaves the age unpinned** (s34: a number in a filename gets read as canon by the next session, and Vask's, Neris's and Severin's ages are deliberately open).
 - `plates/` — one sheet per chapter plate. Not yet started.
 
 ---

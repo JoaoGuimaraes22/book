@@ -225,7 +225,7 @@ no plate, no metalwork of any kind.
 
 ### Aurelian
 
-**ADOPTED:** `images/aurelian-14.png`. Uses the **Aurelian AGE block** and **no HAIR line**.
+**ADOPTED:** `images/portraits/aurelian-14.png`. Uses the **Aurelian AGE block** and **no HAIR line**.
 
 ```
 SUBJECT — cool pale parchment ground.
@@ -262,7 +262,7 @@ cloth.
 
 ### Elarine
 
-**ADOPTED:** `images/elarine-14.png`. Uses the **Elarine AGE block** and **no HAIR line** — bound-severe hair and `naturally settled rather than combed` cannot both win. Below is the block **as it ran**.
+**ADOPTED:** `images/portraits/elarine-14.png`. Uses the **Elarine AGE block** and **no HAIR line** — bound-severe hair and `naturally settled rather than combed` cannot both win. Below is the block **as it ran**.
 
 **WHAT THE RUN PROVED, AND ONE LINE OF IT IS A LIE.** The hair, the collar and the build all came through hard, and **the costume is the best this system has produced** — high buttoned collar, close, exactly made, no ornament, *nothing on her that does not work* rendered instead of stated, and it puts real distance between her and Valeria's wrapped charcoal. The expression held too: level, appraising, still, **no verdict reached.**
 
@@ -311,7 +311,7 @@ nothing on her that does not work.
 
 ### Vask
 
-**ADOPTED, AND THE TWO DEPARTURES BELOW ARE ACCEPTED (author, s34) — no further run owed.** `images/vask.png`, run 3. **The age is right** (thirty-five, matching Neris) and the hair length, eyes, expression and cloth are all right. **Two things are not, both the cost of the youth instruction winning, and both were ruled acceptable rather than fixed. `03` DOES NOT MOVE:** it still says *greying early at the temples* and *a face like used tools*, those remain prose canon, and this portrait simply does not carry them. **A rendering that under-delivers a sheet is not a licence to edit the sheet.** The corrected block is below if anyone ever regenerates him.
+**ADOPTED, AND THE TWO DEPARTURES BELOW ARE ACCEPTED (author, s34) — no further run owed.** `images/portraits/vask.png`, run 3. **The age is right** (thirty-five, matching Neris) and the hair length, eyes, expression and cloth are all right. **Two things are not, both the cost of the youth instruction winning, and both were ruled acceptable rather than fixed. `03` DOES NOT MOVE:** it still says *greying early at the temples* and *a face like used tools*, those remain prose canon, and this portrait simply does not carry them. **A rendering that under-delivers a sheet is not a licence to edit the sheet.** The corrected block is below if anyone ever regenerates him.
 
 1. **THERE IS NO VISIBLE GREY AT ALL, AND THE FENCE ATE IT.** Diagnosed, not guessed: the block aimed **five separate negations at light values in the hair** — *no hard-edged white*, *never a streak, never a seam, never a blaze or band or shape of white* — and the tool resolved the pile-up the cheapest way available, by putting **no light in the hair whatever.** Same overshoot as `no freckles`: a negation stack aimed at a feature suppresses the feature, not just its bad form. **The fix, now in the block, is one shape ban plus a positive COUNT:** *roughly one strand in six is grey, scattered evenly right through the mass and thickest at the temples, and the grey must be plainly visible at a glance. It is SCATTERED, never GATHERED — no streak, no seam, no patch.* Untested.
 2. **THE FACE IS NO LONGER *A FACE LIKE USED TOOLS*.** `03`'s phrase survived at forty and did not survive the trip to thirty-five; this reads as a weathered handsome man rather than a used one. **The weather/age split is still correct, but the weather itself came down with the age** and needs restating on its own, the same lesson as the grey.
@@ -381,7 +381,7 @@ olive. No ornament, no buckle, no badge.
 
 ### Neris
 
-**ADOPTED:** `images/neris.png` — **the first adult portrait in the library, and the adult AGE block is proven by it.** Uses the **Neris AGE block** and **the HAIR line**. No age suffix, per the unpinned-age rule.
+**ADOPTED:** `images/portraits/neris.png` — **the first adult portrait in the library, and the adult AGE block is proven by it.** Uses the **Neris AGE block** and **the HAIR line**. No age suffix, per the unpinned-age rule.
 
 **WHAT THE REVISION PROVED, on three separate counts.** (1) **The age fix works, and the fix is to forbid the skin.** Naming a younger number did nothing on its own the first time; what moved the render a decade was the explicit list of what the face may not do — no mouth lines, no forehead, no hollowing, smooth neck — with the watching relocated to the eyes. (2) **Loose hair needed a light touch, not a heavy one.** *Fastened plainly for work* produced a bun; *unstyled and naturally settled… not arranged, not severe, not styled for anything* produced loose hair. **A four-item negation stack was drafted and never run** — the run used the light version and did not need it. *(Recorded wrong at first: this file briefly claimed the stack was what worked. It was not run. **Do not credit a technique to a prompt that was not the one used.**)* (3) **LOCAL CONTRAST WORKS — AND IT IS A TWO-PART INSTRUCTION, which is the finding.** Describing how the eye wins is not enough; the competing dark mass has to be demoted in the same breath. The paragraph that did it — *the hair is dark but never solid: fine ink strands and open transparent washes with bare paper left through the mass, soft wash-bled edges, no hard-edged black anywhere in it*, then *the sharpest step from light to dark in the whole picture happens inside the eye itself, at the edge of the iris* — **demotes the rival, then sites the winner.** The eyes carry a picture of a woman with dark hair, dark eyes and no colour anywhere in the frame. **The fifth mechanism is real, and it needs both halves.**
 
@@ -438,7 +438,7 @@ oatmeal, worn soft and much mended. No ornament of any kind.
 
 ### Severin
 
-**NOT YET RUN.** Uses the **Severin AGE block** and **the HAIR line**. File as `images/severin.png` — no age suffix; `03` says *old*, not a number, same rule as the parents.
+**NOT YET RUN.** Uses the **Severin AGE block** and **the HAIR line**. File as `images/portraits/severin.png` — no age suffix; `03` says *old*, not a number, same rule as the parents.
 
 ```
 SUBJECT — cool pale parchment ground.
@@ -594,7 +594,7 @@ reference shows head and shoulders only.
 
 ## Kael — full figure
 
-**ADOPTED:** `images/kael-14-full.png` — generated in the VILLAGE register (frayed grey tunic, belt, wrapped calves, worn boots), which resolves audit item 2 below in favour of the page. **Audit item 1 STANDS AND NOW COMPOUNDS: he carries no weapons**, and the scene system attaches the full-body sheet to every scene, so every scene inherits a weaponless Kael.
+**ADOPTED:** `images/full-figures/kael-14-full.png` — generated in the VILLAGE register (frayed grey tunic, belt, wrapped calves, worn boots), which resolves audit item 2 below in favour of the page. **Audit item 1 STANDS AND NOW COMPOUNDS: he carries no weapons**, and the scene system attaches the full-body sheet to every scene, so every scene inherits a weaponless Kael.
 
 ```
 Image 1: reference portrait of Kael — pale grey eyes, dark uneven
@@ -636,7 +636,7 @@ dark leather boots, worn but sound, made for quiet movement.
 
 ## Valeria — full figure
 
-**ADOPTED:** `images/valeria-14-full.png`
+**ADOPTED:** `images/full-figures/valeria-14-full.png`
 
 ```
 Image 1: reference portrait of Valeria — green eyes, long straight
@@ -675,7 +675,7 @@ and well-kept.
 
 ## Aeliana — full figure
 
-**ADOPTED:** `images/aeliana-15-full.png`
+**ADOPTED:** `images/full-figures/aeliana-15-full.png`
 
 ```
 Image 1: reference portrait of Aeliana — pale blue eyes, silver-white
