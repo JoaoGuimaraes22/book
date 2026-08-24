@@ -13,7 +13,7 @@
 - `portrait-prompt-system.md` — the RULE for single figures: the fixed STYLE block, the per-character AGE and HAIR blocks, the SUBJECT blocks, the full-figure BASE block, and the generation method.
 - `scene-prompt-system.md` — the RULE for multi-figure scenes, action, contact and aftermath.
 - `images/` — split by kind (s34), because the library outgrew one flat folder:
-  - `images/portraits/` — head-and-shoulders references, `<character>-<age>.png`.
+  - `images/portraits/` — face references, `<character>-<age>.png`. Head-and-shoulders by default; **half-figure (waist-up, forearms in frame) where the character's build is part of the reference** — Severin's is the first.
   - `images/full-figures/` — standing figures, `<character>-<age>-full.png`. **The `-full` suffix is kept even though the folder already says so**, so a filename stays unambiguous wherever it is pasted or cited and no two files share a name across folders.
   - `images/scene-tests/` — multi-figure method tests. **References, not pages** — which is what makes Kael's unspent grey legal in them.
   - **Naming: bare `<character>[-full]` where `03` leaves the age unpinned** (s34: a number in a filename gets read as canon by the next session, and Vask's, Neris's and Severin's ages are deliberately open).

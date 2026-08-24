@@ -102,21 +102,17 @@ not been worn. The age is in the eyes and nowhere else at all.
 **Severin — old, and worn to what mattered** *(the third adult block, and the only genuinely elderly one)*:
 
 ```
-Age: an old man of about sixty-five — old, and POWERFULLY BUILT.
-Eyes set well above the vertical midpoint of the head. Deep lines
-cut from the nose to the mouth, across the forehead and at the
-outer corners of the eyes; the skin coarse, dry and weathered,
-drawn tight over the bone. The face pared down to its structure,
-brow and cheekbone and jaw all hard and clearly readable.
-POWERFUL, NOT WASTED — a big heavy frame with hard muscle still on
-it, wide square shoulders, a thick corded neck, a heavy jaw, the
-head sitting solid and square on the body. NO hollow cheeks, NO
-sunken temples, NO thin or scrawny neck, NO slackness or sagging
-anywhere, NO frailty of any kind. WORN TO WHAT MATTERED:
-everything inessential gone and every essential thing still there.
-Not frail, not gaunt, not sick, not wispy, not
-kindly-grandfatherly. An old man who is plainly still dangerous
-and completely at ease about it.
+Age: an old man of about sixty-five. Eyes set well above the
+vertical midpoint of the head. Deep lines cut from the nose to the
+mouth, across the forehead and at the outer corners of the eyes;
+the skin coarse, dry and weathered, drawn tight over the bone. The
+face pared down to its structure, brow and cheekbone hard and
+clearly readable. NO hollow cheeks, NO sunken temples, NO thin or
+scrawny neck, NO slackness or sagging anywhere, NO frailty of any
+kind. WORN TO WHAT MATTERED: everything inessential gone and every
+essential thing still there. Not frail, not gaunt, not sick, not
+wispy. An old man who is plainly still dangerous and completely at
+ease about it.
 ```
 
 **The original, still correct for Kael, Valeria and Aeliana:**
@@ -137,6 +133,20 @@ edges, naturally settled rather than combed.
 ```
 
 **Include it for loose or unkempt hair** — Kael's hacked crop, Valeria's and Aeliana's loose lengths. **Omit it for any groomed or bound head**: it fights `groomed, not tousled` (Aurelian) and `bound tight at the nape, not one strand loose` (Elarine), and the SUBJECT block loses.
+
+## COMPOSITION override — half figure
+
+The fixed block's Composition line gives head-and-shoulders. **Replace it with this when the character's BUILD is part of the reference** (Severin, s34 — the first):
+
+```
+Composition: half figure, cut at roughly the waist, the shoulders
+and chest and both forearms in frame. Three-quarter view with the
+body angled away from the viewer, the head turned back so the face
+is visible, gaze returning to the viewer. Empty parchment ground,
+no setting, no background elements.
+```
+
+A third format between the portrait and the full figure: it carries a face AND a physique, without the legs and feet that make full figures expensive. **The file still belongs in `images/portraits/`** — it is a face reference at a wider crop.
 
 ## SUBJECT block — template
 
@@ -439,7 +449,19 @@ oatmeal, worn soft and much mended. No ornament of any kind.
 
 ### Severin
 
-**NOT YET RUN.** Uses the **Severin AGE block** and **the HAIR line**. File as `images/portraits/severin.png` — no age suffix; `03` says *old*, not a number, same rule as the parents.
+**ADOPTED:** `images/portraits/severin.png`. No age suffix; `03` says *old*, not a number, same rule as the parents. **The author revised the block before running it and every change is kept below** — four of them are method, not taste, and they generalise.
+
+**(1) A NEW CROP: THE HALF FIGURE.** *Half figure, cut at roughly the waist, the shoulders and chest and both forearms in frame. Three-quarter view with the body angled away, the head turned back.* **A third format between the portrait and the full figure** — it carries a face reference AND a build, which is exactly what a character whose body is the point needs. It lives in `portraits/` because it is the face reference; the folder holds face references at whatever crop the block calls for.
+
+**(2) AGE DOES AGE; SUBJECT DOES BODY.** The build was cut out of the AGE block and moved wholesale into the SUBJECT. **Cleaner and correct** — the AGE block is anatomy-of-years and nothing else, and mixing a physique into it was making both instructions weaker.
+
+**(3) THE BROWS MUST BE TOLD NOT TO MATCH.** The fixed STYLE block says *framed by dark lashes and dark brows*, which fights a fully grey head, and the tool will harmonise them if left alone. The fix is to state the mismatch as intended: ***The brows stay dark while the hair and beard are fully grey — they do not match, and that is correct.*** **Applies to anyone the book greys.**
+
+**(4) LIGHT HAIR ON LIGHT GROUND MUST BE DEFINED, NOT DEMOTED — and this is the INVERSE of the demotion technique.** Neris and Vask needed their dark hair broken up so it would stop competing with the eyes. Severin's hair is the LIGHTEST mass sitting on a PALE ground, so the same treatment would have dissolved it into the paper. The counter-instruction: ***the hair and beard hold their shape as defined ink strands and clear drawn edges against the pale ground — never dissolving into the paper, never lost against it.*** **The rule underneath both: name what the hair is competing with, then push it the other way.** Dark hair against dark eyes → demote. Light hair against light paper → define.
+
+**(5) A BEARD COSTS THE MOUTH, so the expression has to move.** *The beard covers the mouth and jaw, so the whole expression lives in the eyes and brows* — and the negation list grew to match, ending **not a wizard, not a sage, not a kindly old mentor of any kind**, which attacks the archetype prior directly rather than the affect. Adding facial hair to any character removes an instrument; relocate the expression when you do.
+
+**RUN CLEAN ON EVERY CANON ITEM:** neutral grey and not white · no seam, streak or patch anywhere · dark brows against grey hair · dark eyes the darkest point · robes open over the undertunic with the chain across both shoulders · and he does not read as a kindly old mentor.
 
 ```
 SUBJECT — cool pale parchment ground.
@@ -447,14 +469,18 @@ An old man, the head of a school.
 Eyes very dark brown, near black — the DARKEST VALUE in the
 picture by a wide margin, and the sharpest step from light to dark
 anywhere in the image happens inside the eye itself, at the edge
-of the iris. His hair is the lightest mass in the frame and his
-eyes are the darkest point in it, and that opposition is the whole
-picture.
+of the iris. His hair and beard are the lightest mass in the frame
+and his eyes are the darkest point in it, and that opposition is
+the whole picture. The brows stay dark while the hair and beard
+are fully grey — they do not match, and that is correct.
 Hair FULLY GREY — the entire head, evenly and completely, a true
 neutral grey that is neither warm silver nor cold white. A FULL
 THICK HEAD OF IT, coarse and heavy, worn LONG — swept back off the
 forehead and falling past the collar to the shoulders. Not
-thinning, not wispy, not receding, no scalp showing.
+thinning, not wispy, not receding, no scalp showing. The hair and
+beard hold their shape as defined ink strands and clear drawn
+edges against the pale ground — never dissolving into the paper,
+never lost against it.
 A full grey beard and moustache, close-cropped and neatly kept,
 the same neutral grey as the hair.
 The grey is uniform everywhere: no streak, no seam, no band, no
@@ -462,26 +488,30 @@ patch, nothing gathered or shaped anywhere in it, and no part of
 it lighter or colder than any other part.
 A big powerful old man — tall, long in the bone, wide and thick
 across the shoulders and deep through the chest, with visible hard
-muscle across the shoulders and upper back. Heavy thick wrists and
-forearms, far too thick for a man whose work is paper. The robes
-do not disguise any of it: the frame reads straight through the
-cloth.
+muscle across the shoulders and upper back, a thick corded neck,
+and heavy thick wrists and forearms far too thick for a man whose
+work is paper. The robes do not disguise any of it: the frame
+reads straight through the cloth.
 A scholar's stoop laid over the top of that body and not fitting
 it — the head carried a little forward, the shoulders rounded, and
 the powerful frame underneath plainly not built for the posture.
 The stoop is a habit worn badly over a fighter's body, and both
 must be visible at once.
-Expression: courteous, unhurried, attentive, and giving out
-nothing. Mouth closed and relaxed, the gaze level and patient — a
-face that has already priced whatever it is looking at. Not warm,
-not kindly, not stern, not sad, not tired.
+Expression: the beard covers the mouth and jaw, so the whole
+expression lives in the eyes and brows. The gaze level, direct,
+unhurried and patient, the brows unmoved and completely relaxed,
+the eyes steady and giving out nothing at all — a face that has
+already priced whatever it is looking at. Courteous and attentive
+and entirely unreadable. Not warm, not kindly, not stern, not sad,
+not tired, not twinkling, not amused, not benign — and not a
+wizard, not a sage, not a kindly old mentor of any kind.
 Dark master's robes, heavy and plain, worn loose and open at the
 front over a plain undertunic so the chest and shoulders read
 through rather than being swallowed by cloth, with a broad chain
-of office lying across both shoulders — plain linked
-metal with real weight in it, dull and unpolished, no gems and no
-ornament of any kind. In deep charcoal and cold grey-brown, the
-chain in tarnished bronze.
+of office lying across both shoulders — plain linked metal with
+real weight in it, dull and unpolished, no gems and no ornament of
+any kind. In deep charcoal and cold grey-brown, the chain in
+tarnished bronze.
 ```
 
 **THE AUTHOR'S REFERENCE IS SILVERS RAYLEIGH (s34)** — *One Piece*, the old swordsman: long swept-back grey hair, a cropped beard, a big powerful body still obviously capable, and complete ease about it. **Taken from it:** the body, the bearing, the long swept-back hair, and the beard. **The stoop is what makes the borrowing exact rather than a compromise** — `03` reads *an enforcer's frame under a master's robes*, and Ch. 4 has the scholar's stoop *sitting on him the way a borrowed tool sits in the hand.* **So: Rayleigh's body, with the page's badly-worn stoop laid over it.** The stoop is the disguise and the frame underneath is the man, and both must be visible at once. That is the character, not a concession to it.
@@ -556,6 +586,10 @@ Use an **anchor** only when continuity within a specific image matters — multi
 - ~~**Ears run hot.**~~ **SUPERSEDED s34 — the whole clause is cut.** `Most colour in the cheeks, nose and ears` was taken literally and the ears came out pink, which was a nuisance; the real fault was the *cheeks*. High cheek colour competes with the eye for the one saturated point the picture is allowed — fatal to a warm eye, expensive for a dark one. Cut from the fixed block. Ears still warm slightly without it, and that is fine.
 - **Edit passes cost texture.** Two maximum. Granulation softens and the palette warms with each one. If a third is needed, regenerate with the change written into the SUBJECT block instead.
 - **Traits propagate silently.** Freckles once ended up on all three characters because the line got copied between prompts. Same risk with expression — identical affect across a cast flattens them. Decide per character.
+- **NAME WHAT THE HAIR IS COMPETING WITH, THEN PUSH IT THE OTHER WAY (s34).** Hair is the largest mass in a portrait and it is always in a contest with something. **Dark hair against a dark eye → DEMOTE it** (fine ink strands, open washes, bare paper through the mass, no hard-edged black) so the eye can win — Neris, Vask. **Light hair against a pale ground → DEFINE it** (*defined ink strands and clear drawn edges against the pale ground, never dissolving into the paper*) or it disappears — Severin. Applying the wrong one is worse than applying neither.
+- **GREY HAIR NEEDS THE BROWS TOLD NOT TO MATCH (s34).** The fixed STYLE block asks for *dark lashes and dark brows*; a fully grey head fights it and the tool will harmonise the two on its own. State the mismatch as intentional — *the brows stay dark while the hair and beard are fully grey — they do not match, and that is correct.*
+- **FACIAL HAIR COSTS AN INSTRUMENT (s34).** A beard covers the mouth and jaw, so every expression instruction pointed at the mouth is dead weight. Relocate the whole expression to the eyes and brows and say why.
+- **ATTACK THE ARCHETYPE, NOT ONLY THE AFFECT (s34).** *Not warm, not kindly, not stern* left an old grey man drifting toward the sage anyway. **Not a wizard, not a sage, not a kindly old mentor of any kind** names the prior the tool is actually reaching for. Same move as *not vulnerable, not wistful, not searching* on the gaze.
 - **A LONE NEGATION CANNOT HOLD A LINE AGAINST A STACK OF POSITIVES (s34, and this one cost three runs).** Severin came back frail against *not frail*, because six separate instructions around it said *reduced, thinned, slackened, hollowed, thinning*. **The fix is never a stronger negation — it is to separate the quality you want from the adjacent quality that reads as decline, name BOTH, and add a positive body.** *Weather, not age* (Vask). *Lean, not wasted* (Severin). *Fully grown, and nothing has been taken out of her* (Neris). Then list the specific forbidden markers by name. **This and the entry below are the same defect seen from two sides: a negation is only ever as strong as what surrounds it.**
 - **NEGATION STACKS OVERSHOOT — THE GENERAL FORM (s34, two independent cases).** Point several negations at one feature and the tool removes the feature rather than its bad form. `no freckles` did not suppress freckles; **five bans on white-in-the-hair suppressed Vask's grey entirely**, which is the opposite of what they were for. **The reliable shape is ONE ban on the bad form plus a POSITIVE quantity of the good one** — *one strand in six, scattered evenly, plainly visible at a glance; scattered, never gathered.* Ban the shape, count the thing.
 - **`no freckles` DOES NOT SUPPRESS FRECKLES — AND IT DOES NOT MATTER (author ruling, s34).** Elarine's prompt said `clear and unmarked, no freckles` and she came back freckled across the nose and cheek. **This is not trait contamination, it is the medium:** the fixed block asks for `pigment granulation`, the tool renders granulation on skin as speckling, and negating a trait cannot beat an instruction to granulate. **The ruling is to stop fighting it.** Granulation freckles are TEXTURE, not a mark — so **freckles do not distinguish anybody in this system**, and the `no freckles` lines in the blocks are advisory rather than load-bearing. Kael's and Aeliana's freckles are now sheet canon and stay in their blocks; they simply stop being a thing an image separates people by. *(Corrected s35: this line read* their sheet canon and their prose detail *and neither was true — freckles were in these two SUBJECT blocks and nowhere else in the doc system or the manuscript, so a block's invention had been cited back as the sheet's, which is the one thing this file's own binding rule forbids. Resolved in the sheets' favour at the author's word: `03/kael` and `03/aeliana` now carry them, unspent on any page.)* *(The lever exists if a future image ever truly needs bare skin — attack the rendering, not the trait: `skin rendered as a single flat unbroken wash — no speckling, no stippling, no granulation anywhere on the face`. Untested.)*
