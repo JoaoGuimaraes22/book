@@ -1356,3 +1356,489 @@ Protocol is in CLAUDE.md and auto-loads, including the TIERED COLD READ: all bib
 **Estimated result:** ~7,000 words (−30%), and every sealed fact about one subject in one place. **Cost:** 00's prose is the author's voice in places; a re-filing moves paragraphs and merges nothing, so the voice survives; the cuts in (2) and (3) each need a yes. **Verification:** every old line verbatim in the new 00 or in the archive roll-off; the author reads the diff. **Owed with it, the same session:** the welded bullets s33 left — §THE FIRE'S FLICKER, §ON-PAGE DISCIPLINE (the pregnancy), the knot's *do not rationalize*, the *never explain* clauses on Neris's eyes, her pedagogy and the name — where a truth and its staging clause sit in one sentence; the author decides each split.
 
 **Not proposed:** rewriting any sealed truth; touching any DO NOT RESOLVE; shortening the deep-layer mechanics.
+
+
+---
+
+## S36 ROLL-OFFS (2) — CHAPTER RECORDS REDUCED TO SUMMARY + FACTS (author ruling, s36: design rulings, drafting history, session provenance and tic metrics do not belong in a chapter record). Every fragment not carried verbatim into the new record, per chapter; pre-pass records: git e9332d2.
+
+## CHAPTER-RECORDS ROLL-OFF, Ch. 1–11 (s36) — passages cut or reworded when the records were reduced to summary + FACTS. Verbatim fragments of the pre-pass records (git 77bca7b); the live summary keeps every page fact and quote. Types: PROVENANCE (committed/decided/ratified sN) · BOOKKEEPING (outline beat N — SPENT) · METRICS (word counts, tic passes) · DRAFT-HISTORY (session revisions, author cuts) · CORRECTION-STORY (what the record used to say wrongly).
+
+### Ch. 1
+- Mother sings to birds — "his mother speaks bird" (PROTECTED PHRASING; load-bearing for Wren's name + bird-languages thread).
+- Kael begins waiting; tests the ice every winter. ~1,250 words.
+
+### Ch. 2
+- Kael falls asleep proud, hoping the boat returns: "ready to be nothing for as long as it took." QUIET SEEDS in the games list (audit-recovered): "the herb game" (pre-seeds Ch. 3's mushroom curriculum) and the sing-a-bird-wrong-on-purpose game (extends "his mother speaks bird"); also the questions-engine ("his mother would answer until his head was full" — pre-seeds curiosity canon). ~1,600 words (all counts approximate).
+
+### Ch. 3
+- - **Ch. 3 — "Chores" (Kael = 8).** The double curriculum (outline beat 3 — SPENT) as one braided ordinary day, dawn to loft; three elapsed years implied, never narrated.
+- CURIOSITY CANONIZED as defining trait: "his questions had questions"; the ITCH that cannot be out-waited — the one urge stillness training can't defeat (engine of the beat-5 transgression, in his own imagery).
+- THE WRIST CATCH — blade skates toward Kael's wrist, Vask's hand there first (THIRD father-glimpse; ties to Ch. 1 slate)
+- Kael's normalization: other children must learn the same, "how else would anyone live to be big?" LOFT: the list in fragments; close redirected DOWNHILL — the unknown lives down the mountain ("the dark past a lamp"); final button: "Everyone he loved had made sure of it." ~2,100 words.
+- **FACTS (unique remainder after the session-18 merge — overlaps with the summary deduplicated):** four languages by age 8 (bird, stone-click/"Traders", the downhill one, one unspecified); the Temple carries history education (Part II); curriculum subject names canon (see 02);
+
+### Ch. 4
+- That was the wrongness." ARRANGED ABSENCES canon: "You were on the mountain" — he counts back and understands the books always came from the master, on days built around his not being there; the wrongness passes him "like something small running the treeline." The master: old "the way the split rock was old"; greets NERIS IN THE DOWNHILL LANGUAGE (planted — the strict language is shared with him);
+- THE FLICKER: mid-sentence, his fingers stop believing the knot; he finds "the one loop that carried all the others, the lazy place"; it opens *a whole breath before his fingers could have reached the loop they pulled* (the page; the record carried a shortened form)
+- Watch the way your fingers watched"); her empty palm "carrying"; first chapter ending that OPENS: "Now we begin." NO father-glimpses (ledger holds at 3). ~2,150 words.
+- **FACTS (unique remainder after the session-18 merge — overlaps with the summary deduplicated):** the good seed-bread = feast/visit tell; the blade previously unknown to Kael.
+
+### Ch. 5
+- - **Ch. 5 — "The Year" (Kael = 9, spanning the year; crossing at midwinter).** Outline beat 5 — SPENT.
+- "each school inside the other." THE PROMISE DIES (silent design): "what fire eats" arrives as APPETITE-lore — fire the picky eater, cold the other mouth, SALT THE KEEPER; the two-pail frost lesson; her sentence "the more salt the water carries, the deeper the cold must bite to hold it" — a Tuesday to her.
+- NEW OPEN VALVE (liar's-knot family): innocent table-talk or the door handed over — never resolve.
+- **SESSION 13 REVISION:** the HAND-TO-HAND SCHOOL added on-page (movement II): the school with no first day (arm-snare play before memory → work, no line crossed); every lesson begins with him CAUGHT — the one lesson "Get loose" (escape-facing curriculum, unexplained; points at the Harvest by inference only); the tap-sign drill dramatized (two taps, weight off instantly;
+- Now 3,164 words.
+- **FACTS (unique remainder after the session-18 merge — overlaps with the summary deduplicated):** the village winter feast = dark of the year, everyone at the water till morning (canon;
+
+### Ch. 6
+- - **Ch. 6 — "The Night" (Kael = 9; the feast night, continuous from Ch. 5's crossing).** Outline beat 6 — SPENT.
+- Opens BELOW the rock (Ch. 5 spent the departure; not re-narrated).
+- Movement IV — THE UNTYING AND THE FIGHT: the girl tied to the cartwheel; the knot involuntarily assessed as GOOD ("the same nameless hating, aimed now at a knot"); her silence (she chooses not to cry out — cost noted by the one forward-reaching narrator line, kept);
+- Last whole thing: one of them laughing, "his body hating it, all the way down." Movement V — THE FRAGMENTS (ledger-compliant, glimpse-by-inference only): sound stopped mid-note; weight gone;
+- **SESSION 13 REVISION:** the spotting now carries the men's DIALOGUE (inside the count-intact window only; post-break stays wordless): "What is it." / "A boy… At the wheel." / "Whose is he?" / "Nobody's.
+- "They were not afraid" = deliberate Ch. 4 echo, valence inverted.
+- The curse clarified ("a word that needed no knowing" — vocabulary gap, no language barrier).
+- Laughter now runs the night in three strikes (the spotting, their own man down, "someone was laughing still").
+- Now 3,318 words.
+- **FACTS (unique remainder after the session-18 merge — overlaps with the summary deduplicated):** the window camera on comprehension, never her body;
+- Neris at the split rock — deniable reading sealed in 00; the one forward-reaching narrator line kept ("later, much later" — first of its kind, deliberate); the curse: no language barrier — the men speak Kael's tongue throughout.
+
+### Ch. 7
+- PART I CLOSES).** Outline beat 7 — SPENT.
+- — "the father built the things they were going to fight each other with by the same fire." II — THE AUDIT (design c executed): the exploit reviewed as work — the door ("Show me";
+- It is not everything there is." (amended session 13 — the "taught you everything" overclaim removed; the commitment ongoing, the boundary admitted);
+- "Kael of what?" — FIRST STRIKE SPENT (nothing to put there); rock passed lawfully, hand on the stone, "The mountain did not notice." *(the second sentence, It had not noticed the first time, was cut in the s13 pass and is not on any page)* (road echo SPENT);
+- "Come along, charity case," not unkindly. ~2,950 words.
+- **FACTS (unique remainder after the session-18 merge — overlaps with the summary deduplicated):** no punishment ever given for the crossing (canon — the eeriest choice); the doubled watch permanent until further notice; the persuasion line sealed in 00, banked for later books;
+- "Kael of what?" first strike = Severin at the rock (beat 8 keeps only the public performance);
+
+### Ch. 8
+- And tell me." — questions running uphill for the first time; she listens "with her whole body" — **corrected s29: the record welded two chapters.
+- The page has "she listened with her whole body" here;
+- "the way she listened to birds" is CH. 10's ("She looked at him the way she listened to birds, all of her").
+- The welded form was never on any page); the stopped-and-restarted question ("what the other children —" → "what the masters were called"); the loom-glance misfiled ("they are checking I did it correctly");
+- THE CARRIED-ACROSS-ICE HAND; the third school opens ("Bring the slate"); the routine coda — dawn/daylight/lamplight, the brutal day unremarked; close: the two voices from the loft, "trading the day back and forth — his day," sleep "near a fire, in the winter, when the door is holding." ~3,050 words.
+- **FACTS (unique remainder after the session-18 merge — overlaps with the summary deduplicated):** one first day + routine coda = structural rhyme with Ch. 3 (deliberate); the cover's content matches Ch. 7's rehearsal verbatim ("Kael of what?" NOT respent); cohorts by age, fixed rooms; drain-lore NOT yet taught; the spiral armed, not spun; group laughter fired twice (tells only, unlabeled); the evening school = curriculum continued + daily audit of the Temple (deniable);
+
+### Ch. 9
+- DRAIN DOCTRINE delivered (spending → pain → the whitening → "The body kept the receipt" → death past the bottom); the forty-child collective not-looking at the seam — the Ch. 8 image retroactively legible ("this too had been taught, without one word spent on it").
+- "nobody warns furniture";
+- Oss the fixture + the herald's warning ("it's Drusane who works... watch the pointing, not the laughing");
+- THE SPAR — the unanswered salute ("Nobody on the mountain saluted the weather"), the puzzle-win (priced back foot, two fingers of push at the ankle), "Luck," and the second offense ("nothing the charity case had done had a name... no language at all");
+- Priscian's coin-look + tic-echo ("The mist has never heard of them," repeated slow); her stillness going IN, the pricing still running;
+- V — THE HOMECOMING (resonance evening): the candle audit (her close exact questions; stillness changing TWICE at the reach-for-the-carrying; no relief-tell);
+- THE RE-HUNG DOOR (her way: long feeling, then "the smallest thing you can do.
+- The ones who spend small learn what things are."); the LOFT TRIAL built ("ask twice, with one thing changed" aimed at magic;
+- "his questions growing hands"); the wool-crackle micro-crumb; the NOT-SUPPER VOICES below; close *at winter's turn, when the door was holding* (cut in the s13 pass) ~4,000 words (heaviest chapter — design load; compression pass run).
+- **SESSION 13 REVISION (author pass + ratified additions):** THE PURSE PARAGRAPH added (Kael's own arithmetic after Ruthen's: six backs, one voice — command valued as a second purse no eye sees into; his own social purse filed empty — the Aurelian valued-not-hand-waved rule [06] on-page).
+- THE SPAR REBUILT (learn-not-dominate): Lucan's form first read as waste → recognized as a SYSTEM ("Waste wanders.
+- Kael learns it while it spends and wins off the lane, at the decision the form never defends; keep-beat added (the form = a second body-language — "the first words of theirs"; the no-language verdict's irony sharpened).
+- CANDLE AUDIT converted to mostly dialogue (opens cold on her line "From the beginning… Who taught?"; the re-hung door ENACTED as spoken instruction; the unasked why kept; stillness-twice-same-place kept).
+- AUTHOR CUTS: "nobody warns furniture" retired;
+- Priscian's coin simile (the coin now Elarine-only); the trial-building + closing paragraph (chapter ends on the wool crackle; the trial's construction lives in Ch. 10's opening — the stitch inverts and holds); not-supper voices UNSPENT (banked); bruises-clause cut; assorted de-simile trims;
+- Oss's Drusane line clarified (Lucan works AND points).
+- Dash pass 15.0→12.7/1k.
+- Now 4,659 words.
+- **FACTS (unique remainder after the session-18 merge — overlaps with the summary deduplicated):** the close precedes the spring-exam events (deliberate; logged); cost before craft; the boards twice yearly (midwinter + spring); the slate landed — cost real, official, unfought (he knew how the accusation would travel); the devil-eyes legend DECOUPLED (no mountain, no date, no crew-night specifics beyond the legend's own "whole crews" spine); group laughter fired (the candle-bench crop — tells only).
+
+### Ch. 10
+- - **Ch. 10 — "The Asking" (Kael 10; turn toward spring → summer's turn, first Temple year; committed session 14 — the redo, new mission "the science year").** Opens on the minima paragraph (register turn: Priscian's doctrine kept only as far as hands can test — the "smallest grains" claim shelved untested) + the resonance vocabulary's reader-refresher (connection/resonating/Resonants).
+- "Can a resonance be too small to see?" → THE FERN (Severin = Resonant, on-page; worked from his chair across the room — retroactive mastery under the distance law; never remark) + "Smaller than that, I cannot show you indoors";
+- "Who taught you the thread?" / "No one."; his finger returning to the nature column "the way a tongue comes back to a tooth." 2,773 words.
+- **FACTS (unique remainder after the session-18 merge — overlaps with the summary deduplicated):** the "smallest grains" claim shelved — deep refinement in 00;
+- NO private magic jargon (the "ask" idiolect retired unspent this same session); father-glimpse ledger untouched; relief-tell untouched.
+
+### Ch. 11
+- - **Ch. 11 — "The Dish" (Kael = 11, pinned; second autumn → the cold term; committed session 14).** Three movements.
+- I — THE CEREMONY: the proficiency dish (empiric declaration instrument — new canon;
+- THE HOME REVEAL: "Mine as well," Vask — lightning, one palm-crack demonstration (no blood-claim in words, 00 staging rule);
+- Oss: "Oh no"); her fight shown, not told (fans of flame swept off her palm, walking his lanes — *hand-borne fans* was this record's own invention and stood four sessions; the page has *"a flat fan of flame sweeping from her palm"*, and she carries no instrument, corrected s30; the standing palm-flame burning on nothing in the rain; the pre-turned line against his Drusane slide; the baited gap);
+- Close: the wall and the hall, both things real. 3,971 words.
+- **FACTS (unique remainder after the session-18 merge — overlaps with the summary deduplicated):** ceremony mechanics: the dish + half-ring of media, one grain each, the clerk enters the element in the roll, held when a cohort's oldest reach the window;
+- Elarine's Ch. 9 exactness retroactively discipline, not smallness; the palm-crack not a father-glimpse (thread-scale demo, ledger untouched); both hurt (her cheek scald "ever so slightly" + the fall); multi-element small-scale use now PUBLIC (session-11 control-concealment ruling superseded by "displayed early" — what stays hidden is the mountain: the training, the science, the depth; the yard reads tricks + a tiny purse);
+- THE STEAM-AT-THE-FACE vs.
+- RULE ONE ("nothing above the shoulders"): DELIBERATE, author-ruled session 15 — Kael fights to win, not honorably; the letter-bend stays unmarked on the page (no acknowledging clause, Ruthen's silence stands); do not re-flag.
+
+## CHAPTER-RECORDS ROLL-OFF — Ch. 12–22 (s36 summary-only pass). Every fragment of the old record that is not carried verbatim in the new one, VERBATIM (a superset of the true cuts: rewordings appear here too, so nothing is lost). Types: RULING · PROVENANCE · DRAFT-HISTORY · CORRECTION-STORY · METRICS · OWNED-ELSEWHERE.
+
+
+### Ch. 12
+- storm-weeks of the second cold term → the turn toward spring;
+- committed session 15).** Six movements.
+- RECOGNITION-WITHOUT-ATTRIBUTION executed per 00
+- rooms already furnished), the new fact THE MEN DIED, the refusal rendered whole as "Kael went on eating." (chapter-wide rule HELD: no clause anywhere joins the quiet and his father);
+- THE TRUNK DEMO (deliberate demonstration: lightning threaded through his own hand, the hand through the trunk *as if the wood was wool*
+- licensed by the session-15 06 amendment;
+- THE PAN-AWAY (FIRST sanctioned POV departure
+- executed per 06;
+- adult-cold camera, "The boy was asleep"): Severin nine days after his own announcement;
+- close: the sleeping boy, "the three people who had carried him this far moved the world by inches around his bed." 4,586 words.
+- **FACTS (unique remainder after the session-18 merge
+- overlaps with the summary deduplicated):** Kael COMPLIES devastated (beat 16's "first time Kael refuses" protected);
+- THE TRUNK DEMO = deliberate teaching demonstration under the 06 session-15 amendment, NOT a reflex glimpse
+- the father-glimpse ledger holds at three-plus-fragments;
+- "never seen them try" re-scoped to contest/effort, still never witnessed;
+
+
+### Ch. 13
+- the training year, announcement-spring → the following cold term;
+- committed session 16;
+- title reclaimed from the deleted session-11 draft
+- design record only, no content shared).** Six sections.
+- the want "given nothing to eat." THE BRAID'S PRICE (new page-facing canon
+- THE BURST): a lightning thread that loses exactness under impact does not die, it BURSTS back into its source;
+- Vask does not help him up (harshness rule held).
+- the level-warmth wrongness filed in a shut drawer (WHAT/WHY split load-bearing);
+- **FACTS (unique remainder after the session-18 merge
+- overlaps with the summary deduplicated):** Halden's truth = bible-side only, on-page unconnected;
+- AURELIAN: Character Law held
+- rule consciously held);
+- "the charity case" holds;
+- probes clean (archive/probes/ch-13-pre-commit.md).
+- RULING (author, session 17): **"riding steel" stands AS WRITTEN
+- do not re-flag.**
+
+
+### Ch. 14
+- committed session 17;
+- NO father comparison, per author ruling 1b);
+- close: "He was afraid of what it had eaten." CUT AT THE YARD (no lamp scene
+- the mountain fallout owed to Ch.
+- **FACTS (unique remainder after the session-18 merge
+- overlaps with the summary deduplicated):** appearance ledger SEALED in 03;
+- TWIN WASTERS canon = the Vel heresy (internal art frees both hands, 02);
+- INTERNAL REINFORCEMENT (02 canon);
+- BEAT-12 AMENDMENTS (supersede the old design as written): first words = declaration, not a challenge at Kael;
+- the slash = trained instinct under STRAIN, NOT the absorbed state (no Kynemir anywhere;
+- rule consciously held
+- *heaviest hits of his life* with NO father comparison (author ruling 1b
+- the never-seen-them-try rule untouched;
+- the parents' knowledge state re the flash UNSPENT, owed to Ch.
+- 15 (do not resolve offstage);
+- probes clean on all five axes (archive/probes/ch-14-pre-commit.md).
+
+
+### Ch. 15
+- 14's yard → the spring's steel → midsummer → the weeks of the watching;
+- committed session 19).** Five sections.
+- THE LAMP (the Ch.
+- 14 debt paid, on-page, Kael-POV;
+- no pan-away spent): the road home fought eleven more times;
+- **NO PROHIBITION** (author ruling session 19: a ban would contradict the braid school's purpose and Ch.
+- 11's public-thread canon;
+- the coat hides the mountain, not that he uses the Art): one fault named, and it is wrist discipline ("You put a live thread into a blade and then went to look at what it had done"), then "The rest was correct." The approval that arrives and is worse
+- **THE MEDIUM LAW discovered on the page** (02)
+- THE BRUTALITY SCALED (author direction): hours run backward into the night and KAEL ASKS FOR IT;
+- THE TEMPLE'S STEEL (midsummer, 203w): issue blades by cohort, racked and numbered;
+- **he does NOT sandbag** (03 rule)
+- **THE MISREAD:** "*Nobody stands beside her*"
+- and never once notice that the only reason he had a word for the difference at all was that he had been made by people who did." 5,479 words.
+- **FACTS:** the parents' knowledge state re the flash is now SPENT
+- they know, in full, from Kael's own mouth (05's "do not resolve offstage" satisfied);
+- NO pan-away spent (departure ledger holds at 1);
+- the CHEST is untouched and still banked (07 §Weapons School, ratified session 19);
+- "ash" retired as a word for the wasters, retroactively (Ch.
+- 7, 9, 14 + 02/07);
+- Severin and Halden do NOT appear (both cut with the rivalry tail
+- Severin's read of the flash is still owed);
+- the rivalry itself (beat 13's losing seasons) is NOT on the page and rolls forward.
+- **CUT AT THE WATCHING**
+- the drafted tail (her asking for him in the yard, the losing season, the drawer shut deliberately, the judge, the First Master, the gorse catch
+- 2,079w) was cut at the author's direction for redesign;
+- it survives only in git b482ced and is NOT a plan.
+
+
+### Ch. 16
+- 15's watching → eleven weeks into the turn;
+- committed session 20).** Beat 13 opens.
+- THE CATCH: the onset of her spending is too small to see from ninety strides, so the itch walks him down onto her stones during her private quarter-hour, in which she is drilling THE GROUND-SENSE (new canon, 02).
+- **SHE IS READING THE FLOOR**
+- (**Corrected s24:** this record carried *the single most expensive thing anyone did for him that year* as an on-page quote;
+- it was never on any page.) IV
+- and **CANNOT ANSWER IT**: the floor can only report what the floor is doing.
+- You have beaten me with a floor." **The first thing he ever took from her.** Close: he has been nothing to look at his whole life and thought that the safest condition available, and a girl with her back to a door has told him that in a room where everything talks, the silent thing is the loudest thing in it
+- "Yet." 3,882 words.
+- 1 (author direction: Temple-only);
+- echo run clean (zero protected phrases).
+- CORRECTED s24: this record carried a KNOWN OPEN ruling that *and did not ask again, then or ever* at the end of movement I *lost its antecedent question in the author's pass and stands as written.* The line is not on the page and never was
+- the pass cut it whole.
+- "Find out."* The ruling is retired, not transferred.
+
+
+### Ch. 17
+- committed session 20).** I
+- WHAT IT COSTS HER: he watches her fail at nine strides, drained, **and does not tell her to stop
+- it does not once occur to him.** He asks how far down it goes, and sends her to find the bottom tomorrow where he can watch.
+- she is sick behind the column and comes back and says "Ask the rest of them." "At no point in the morning did it occur to either of them that this was an unusual way for two children to spend one." **He writes her numbers in the blank book**
+- **THE THREADING SHOWN** in the sixth week (spent ON her, never handed over
+- **THE BIND DECLINED** a second time, in a bind with her, with the third objection named at last: a girl's forearm opening in a spring yard.
+- Different thing." **AMMARETH** (new canon, 02) from Aurelian's brother's letter
+- **KAEL'S QUESTION: "Who lives in it."** Aurelian answers without one grain of contempt (you take the top off and put a new top on) and shrugs about the old top;
+- **VALERIA REFUSES THE CYNICISM**
+- **and every one of them answered with a *because*, and Kael goes looking for his and finds the work standing where the because should have been.** "I'm not enrolling." / "Why?" / "It isn't for me." Elarine hears the summer's shape a second time and says NOTHING.
+- looks at him three seconds and walks out into the rain **without asking**.
+- "It had never once been a list with his name off it." 4,777 words.
+- Severin's read of the flash and Halden's fuse both still owed and untouched;
+- beat 15 partially spent (04);
+
+
+### Ch. 18
+- committed session 21).** Four movements, one day.
+- Vel, Corvane, two seniors, Sedrane, and four lines down **KAEL**.
+- He reads it three times, thumb under the line (her method for holding a column of figures still), **and for one breath he is happy**
+- and **THE BLANK COLUMN IS PAID**: the space closed with a line at ten years old ("Empty is true") is not empty.
+- **The name was Halden.** Aurelian's undefended grin ("You *lied* to me") collapses on "I don't know who it was"
+- **JURISDICTION canon (02):** the Temple is Severin's, the games are the empire's;
+- the entry is sealed, lodged in the capital, and **lodged NINE DAYS AGO
+- before the standings closed**, so whoever wrote it knew where the boy would fall before the boy did.
+- I cannot refuse you the games." **THE OWED FLASH-READ PAID AS CAUSE, NOT AUDIT:** "I have not asked you what it was.
+- I am not going to ask you now… I am telling you that somebody in that colonnade did not need an easy answer." Then **"He is the empire, Kael.
+- Not a house."**
+- **THE PROTECTION PROMISE** given unqualified and slightly too warm (serves all four of 00's fire-ignition readings).
+- **he is WRONG and does not know it** (03's sealed Corvane truth;
+- characterisation, not error).
+- **"What a pity it would be, not to showcase the empire's finest."** He asks for NOTHING and pointedly **does not ask who forbade the boy**.
+- THE ROAD: he makes the tail by habit (never turned a corner without buying the corner first), tests it with **her** method
+- **THE SPLIT (author-ratified register):** first half very nearly joy
+- **"This house lives because it is not looked at."** The losing takes four minutes and costs him nothing, which is the part he cannot get over: he is an expert and it shows.
+- **"He had not been sent to follow a boy who could do this.
+- Nobody had told him there was one."** No badge, no colour, no face (the insignia stays reserved for the fire);
+- The stillness game ends **on his own word for the first time in his life** ("being finished was not the same as being sure"), then home the wrong way, forty minutes added.
+- Close: he beat a grown man without hurrying and enjoyed it a long way down, and now has to say all of it aloud **to the two people who built the part of him that enjoyed it.** 4,653 words.
+- **no father-glimpse** (ledger holds at three-plus-fragments);
+- 6 school line, "This house lives because it is not looked at") plus "ask twice, with one thing changed";
+- **OPEN DEBT: the minor names "Amerien" and "a Kaeth" (Halden's yard line) are flagged
+- Amerien breaks 02's -ANE convention and Kaeth is a royal-guard lineage whose presence in the second cohort dilutes Valeria;
+
+
+### Ch. 19
+- committed session 22).** One room, five movements, the parents back on-page after three chapters.
+- **DESIGNED FROM ZERO**
+- the session-21 movement plan was reopened by author ruling and a draft written straight off it is PARKED at git `a9905f3`, NOT A PLAN.
+- **The first sentence out of Kael's mouth is "I was followed"
+- before the list**, because that is eleven years of drill and it is not optional.
+- **Vask prices the man from the inside** and gives three readings (*bad at the work · not alone · never meant to be hidden from you at all*)
+- **HALDEN'S NAME LANDS ON NOTHING**
+- **THE HOLE HOLDS:** asked who the man is, Kael answers *"A judge of the games"*
+- Severin's owed flash-read reported whole, and it is what turns the room.
+- **VASK'S THREE RATIFIED SENTENCES, verbatim**
+- **THE FIRST DISAGREEMENT OF KAEL'S LIFE:** *"It may not be them." / "It is them."*
+- the empire looks at children and has built a school on this island for the purpose, and that is not the same animal as the one they have watched the sea for, and **neither of them can prove which it is** (00's both-true-at-once as an argument between professionals with no data).
+- **THE SEVERIN NON-ANSWER:** "Why not him?"
+- Truly."* Two old reasons laid side by side, neither explained and neither refused (**corrected s24:** the second half was recorded as *"That is not why."*, which was never on the page
+- it is a supplement, not a contradiction);
+- WHY THEY CANNOT GO: **FOUR REASONS** (00 s22)
+- **the watched quays, supplied by Kael himself** off the man who followed him;
+- Then the wall: *"Then we can go now." / "No."* / **"Because I am carrying a child."** **THE PREGNANCY IS TOLD, NOT DEDUCED** (author ruling): plain, since the summer, about three months.
+- **Kael reacts as a boy**
+- the reaction 00 s22 asks for, **landed by the page and never stated by the narrator** (s23: the line *there had never in his life been anybody he was older than* was recorded here as page text, was never in any commit, and is FALSE as an absolute claim about his life;
+- struck, do not re-mint
+- *"Will I be allowed to hold it"* and *"I know about heads."* pay it whole).
+- **SEALED: why it must be Severin**
+- **THE MID-TOURNAMENT EXTRACTION** stated in front of him and never asked of him: he appears, he goes as far as he goes, and on the day the boat is ready they take him off that field *whatever day it falls on and whatever he is standing in the middle of*
+- and **Kael says nothing**, the best coat-work of his life, done on the two people who cut it.
+- **THE CHEST PLANTED LOCKED**
+- **THE ROAD KEPT:** Vask wants him off the hill;
+- **Neris overrules him** (warmth spent exactly once all night, and on the head of an unborn child)
+- **THE KNIFE:** Vask takes Kael's own off the wall and gives it hilt first
+- **no father-glimpse** (ledger holds at three-plus-fragments
+- **beat 16's refusal PROTECTED
+- nobody asks Kael anything and he refuses nothing**;
+- the purpose thread stays out by author ruling;
+- neither parent recognises Halden and never will.
+- Echo run: 5 protected phrases, all deliberate.
+- Author-ruled in session: the pregnancy is TOLD not deduced;
+- "you will stop" cut;
+- Kael never proposes flight and never cues a scene (three device-lines removed
+- *"So we go"*, *"And the master"*, and the Ch.
+- 18 morning-contrast paragraph cut to two lines).
+
+
+### Ch. 20
+- 19's night → seven weeks on, the end of the cold term;
+- committed session 24).** Beat 14.
+- THE ROAD, SMALL (413w): the new discipline rendered as routine and priced by what it COSTS.
+- **THE ATTENTION AT A THOUSAND, and its plant:** he turned everything up in ten minutes and cannot work out how to turn it back down.
+- ELARINE (1,396w): four questions on the entry, answered flat, and the finding is **NOTHING**
+- 18's "all done correctly" arrives from a second direction, in her words, **not respent**.
+- Then **SHE NAMES IT: "You are my friend.
+- It is not a complicated word."**
+- she had been using it privately since the summer and did not say it because she could see what he would do with it, and **he does exactly that**: takes the word apart to see what it is made of, and finds he does not have it.
+- **KAEL NEVER SAYS IT BACK** (03's collegial register constraint holds on his side;
+- **Corvane**, absurdly, and he cannot find the day;
+- And behind the laugh, **OSS**: the word runs off the end of the row into a boy three tables away.
+- **The coercion stays off-page and Kael reaches nothing;
+- Elarine is kept entirely out of the beat** (an earlier draft had her diagnose it and was cut
+- she has no way to know what Oss cannot afford).
+- VALERIA (2,448w): **KAEL MIMICS INTERNAL REINFORCEMENT** after seven weeks and eleven distinct failures.
+- **Her answer is not possession but degree**
+- THE HONEST HOUR, on the stones, neither of them standing: **Kael goes first with the sleeplessness** (planted Ch.
+- **She answers with the cold**
+- if you make it into the other thing I will stop.* Then she makes him say the thing he has carried since the summer, and **HE SAYS THE CH.
+- 15 MISREAD ALOUD**
+- and **SHE REFUSES IT AND DEFENDS HER FATHER, WITHOUT ONE WORD AGAINST HIM**, and the defence is the wound: no word for any of this in her house;
+- the autumn letter about the arm, and **she was pleased with her answer**;
+- Her verdict, which reframes the entire rivalry as the only closeness her house has built her to take: **"Then do not stand beside me.
+- It is worth more."** Kael cannot tell whether he was corrected or whether he put something into her that will not come out, and there is no way of finding out, and he has spent his whole life being able to find out.
+- **"Val." FIRST USE, SPENT.** She does not answer it;
+- Then: **"Nobody has ever called me anything,"** and she goes, and does not say his name either.
+- and **he stays out past *Evening* for the first time in his life**, on a night with a man on that road.
+- the reinforcement is elemental earth, transmutation-mediated, rendered as seven weeks of effortful strain and never as absorbed flow (the unleashing gate consciously held);
+- **nobody asks Kael for anything
+- beat 16's first refusal is protected by absence**;
+- her first-exchange lag STILL UNSPENT;
+- **NEW CANON:** internal reinforcement is not a Vel possession (02, author-ruled s24) and **Kael's line-reinforcement is permanent kit**.
+- Metrics: dialogue 38%, narration 2,599 (leanest in Part III), 28.3 w/para, 3.5 dashes/1k, 40.2 and/1k, 4.5 similes/1k.
+- Echo run: ONE protected hit ("Everything heavy is lazy"), deliberate;
+- six further deliberate echoes the script cannot match are logged in protected-phrasings.
+
+
+### Ch. 21
+- 20's cold-term close;
+- committed session 25).** THE TIMESKIP, CARRIED BY RE-RUNNING THE ROUTINE at the top of its development
+- DAWN: **the blades have edges on them**, announced by nothing (Ch.
+- **KAEL'S DUAL-DAGGER EXPERIMENT**
+- Vask's refutation is his own school: he declines the exchange entirely, comes in past both points, and **"Get loose"**
+- **"Then you have eight weeks of finding out how it fails, which is not nothing, and it is not the same as having it."** The prohibition: keep them, but nowhere near a man trying to hurt you until I say.
+- THE DOUBLE BURST and **VASK TEACHES THE THREADING**: he surges a blade hilt to point without faltering, and Kael says *"The problem isn't capacity"*
+- **the gap is CONTROL, not purse** (author ruling: a Sanctum-forged elite out-controls a gifted child;
+- capacity only means his errors are free, and he isn't making any).
+- **THE ROUTE, in his mouth:** shoulder → arm → hand → steel, fast and tight the whole way, nothing coming off it between
+- *"You do not know where your own elbow is when your hands are full."* **THE PEDAGOGY:** put the blades down, thread with both bare hands, take the steel up only when both hold and the feet are still known.
+- **THE FATAL MORNINGS:** the edge stops across his throat
+- and the hilt goes into his chest, and Kael works out mid-morning that his father will never strike the throat, because a bruise on a neck is a question at a Temple gate, **and that the arithmetic was done inside a killing stroke with nothing showing.** Heart, stomach, kidney, the inside of the thigh.
+- **Trust and margin both true:** he has never once been afraid of his father, *and* the whole arrangement stands on that and nothing else.
+- **Aurelian's overdrive** (taking bruises off a seventeen-year-old spear four days a week on purpose);
+- **THE WAR PRE-SEEDS, in dialogue and never as narration**
+- **LEDRON** (one of Ch.
+- **TAVRIAN** gone in the cold term on a reason Elarine believed at the time;
+- **NIGHT: THE REGISTER RISES.** Neris has built him an INSTRUMENT before he arrives (tow on a splinter) and nine materials in a row;
+- **wet oak a great deal**;
+- **CONDUCTIVITY, and it is neither the village's nor the Temple's**, and he knows every word the Temple has.
+- **He stands near the shut door and does not knock**, because he has made her do exactly that for four years.
+- *"A great many more, and I am going to give them to you quickly, and I am not going to slow down."* / *"Why."* / **"It is true, and it is not the reason.
+- Ask me in a year."** **(CORRECTED s29
+- the record carried the first half as I am going to go faster, which `git log -S` puts in no commit ever;
+- the page is now quoted)** The pregnancy is FOREGROUND: she is side-on to the table, reaching with one arm, having rearranged the whole surface a week early so nobody would watch her need it.
+- Closes on **VASK IN THE DOORWAY** watching his wife reach for a cup she could have asked for
+- **METRICS:** dialogue 25%;
+- 21.2 words/paragraph (the lightest in the book);
+- **ECHO RUN:** 3 script hits
+- *the family trade* (deliberate: not asking where the blades came from), and *the standing game* + *what fire eats* inside Neris retiring the child-words, which is the beat itself.
+- Plus **"Get loose"** (Ch.
+- 5, two words
+- the script cannot match it) and the Ch.
+- 12 off-hand drill, both deliberate.
+- rule consciously held);
+- **father-glimpse ledger UNTOUCHED**
+- **02 §Curriculum amended (Part IV
+- the register rises)** and *capacity* enters page vocabulary for the first time in the book, in Kael's mouth, against Vask's *purse*, unremarked.
+
+
+### Ch. 22
+- committed session 25).** THE ISLAND FILLS AND THE GAMES OPEN.
+- hulls he has no names for, barges unloading seats, the village letting rooms it has never let, **and then the soldiers, who do not stop**
+- **Nobody asks Kael for anything**
+- **His hand goes to the knife and finds it**
+- **THE FIELD:** the north curve is four hundred Temple children, most bound for the Silver league;
+- the other two schools sent **nobody who was not going to fight**
+- **SEVERIN IN THE HOST'S BOX**
+- **AELIANA CASSIVARA VESSANTINE ARRIVES** (appearance block SPENT
+- **none of them Vel**
+- the script cannot match the fragment).
+- Then her: **the scale has nowhere to put her**;
+- **THE RULES, AND WHAT ENFORCES THEM:** *"Arms as carried.
+- **What protects anybody is the old man in the box**, six days above the sand with earth in one hand and nature in the other.
+- And Kael is not frightened, because he has fought a girl with live steel every afternoon for a year with nobody's hand near either of them: **this was the first time in his life that anyone had ever stood over it.** V
+- **THE CALL.** *Lucan, of the House Drusane, of the Temple of the Southern Isles.* Then **the pause**
+- and Kael's eyes go up before he sends them and **the First Master is already looking at him**, has been through the whole arrival, because there are two people in eleven thousand who know what that pause is and the other one stood over the pen and told the clerk to leave the space as it was.
+- **"Kael," the herald read out, "of the Island."** He walks out;
+- **It had begun.** 2,331 words.
+- **METRICS:** dialogue 3%
+- **quiet ON PURPOSE, not drift**: it is the chapter in which Kael is surrounded by more people than he has ever seen and speaks to nobody;
+- **no magic anywhere on the page** (00 s8's first-magic-as-spectacle is intact and belongs to the bouts);
+- **beat 16's ask and refusal UNSPENT**
+- nobody asks Kael anything, and he is never once written as reluctant.
+
+## 07 CHAPTER-RECORDS ROLL-OFF — Ch. 23–27 (s36; every old fragment not carried verbatim into the summary+FACTS record — a superset of the true cuts)
+
+### Ch. 23
+- 22's call — the spring; committed session 28).** Four movements, one bout and the hour after it.
+- **DESIGN RULING THAT GOVERNED IT (author, s28, after the s27 draft was discarded as BORING):** in a fight chapter the thinking happens BEFORE the first exchange and AFTER the last; the fight itself is bodies.
+- I — THE MEASURE: the draw read off the colonnade at first light (the shape and the field only — **not the collision**, 02 s28); Oss one clause in the north curve, found in a second and a half, *the finding cost him nothing and was not free*; the Drusane system read in one pass — guard, straight back, the doctrine's empty off-hand — and **all of it needs a distance**.
+- **KAEL DOES NOT DRAW.** The knife stays inside the coat; **the two short blades stay across his back in their wrap, and they are LIVE STEEL** (s28 correction — "blunted" was never on any page).
+- **Lucan's AIR COLUMNS are the first unfenced art in the book** (00 s8's reserve
+- **OPENED, NOT SPENT** — author ruling s28: the spectacle belongs to the top-tier bouts; Lucan is disciplined and mid-tier, and the danger comes from the LAW, not the boy).
+- III — THE END, AND IT IS BRUTAL (author-directed): Lucan pinned, **reaching for an Art that is not there** — his body stops him at the floor of his emptied capacity.
+- **4,211 words.**
+- **POV DEPARTURES: five external-camera micro-cuts counted as ONE pan-away spend** (Elarine, Valeria, Halden, Severin, the princess) — observables only, no interiority, **roman not italic**, because 06 reserves block-italic for the slips.
+- **AUTHOR CUTS IN THE PASS (worth carrying):** both forward-reaching narrator lines were removed — *the part of it the island talked about for a year afterward* and *he took it away whole and carried it for the rest of his life* — **and the two-noises framing went with them.** The device is expensive; it was cut twice in one chapter, and the nobles now land entirely on *half that arena watched a fight.*
+- **METRICS:** dialogue 3% (a fight chapter, quiet on purpose — 06 permits it; second such chapter running after Ch.
+- 22's 3%), 30.9 w/para, dashes 2.8/1k, and 51.0/1k (concentrated in the fight as chosen cadence; every other section at the book's norm), similes 4.4/1k, not-buts 0.
+- Echo run: **one** protected hit, *"Everything heavy is lazy"*, deliberate; two further deliberate echoes the script structurally cannot match (*"There's a form to it"*, stored inside a longer Ch.
+
+### Ch. 24
+- 23's corridor — the spring; committed session 29).** THE PRINCESS'S AUDIENCE AND THE CISTERN FOUR.
+- Two movements; the parents scene originally drafted as a third was MOVED at the author's direction to open Ch.
+- 25 (verbatim; 261/261 non-empty lines verified across the split).
+- **THE ROOM AS SENSORY ASSAULT** (author direction): perfume, charcoal, three joints, grilled fish, out-of-season fruit going over, cut flowers wilting in the heat of four braziers burning coals in spring, gold on the plate and nailed along a screen standing in front of nothing, glass, and
+- 9 canon arriving in a princess's room; phrase NOT re-minted).
+- II — THE CISTERN FOUR (relationship time, author-directed: light, warm, dialogue, no tactics): Temple supper on a cloth on the brick.
+- **AURELIAN LOST TO MELORAN** (decided s29 off Ch.
+- 21's own page — he asked for the seventeen-year-old spear four days a week to be pulled apart by the best available, drew him, and got precisely that): he tells it well and spares himself nothing, *"moved about the floor like furniture, by a man being polite about it"*, and **"being correct about it in advance does not do one single thing for you at the time."*
+- **THE CRUSH VALVE HELD:** the only interior line on it is *there was something happening in her face that Kael could see with total clarity and could not read at all.* Nothing labelled; needling, jealousy and simple enjoyment of his clumsiness all stay live (03 still reads *his side only, unknowing* — unruled, see FACTS).
+- I want you."* 4,442 words.
+- **METRICS:** dialogue 31%; 22.8 w/para; dashes 2.9/1k; **and 42.3/1k** — the first draft came in at **51.3, uniform across every section**, which is drift and not cadence, and two trim passes brought it to the book's norm with the excess left only inside the 294-word sensory-overwhelm block (74.8 there).
+- Similes 3.9/1k; not-buts 0.
+- Echo run: zero script hits.
+- **AUTHOR EDITS IN SESSION:** the count-fails paragraph cut whole (the count now lands straight on *Nobody was eating*, and it is better); *glass is a thing you make with fire and lose half of* cut; the ice speech shortened; **"You may go" replaced by "Kneel.
+- And leave afterwards."**; *fifteen mornings* → *many mornings* (author-ruled: a year of daily sparring has passed since Ch.
+- 15's treeline, so the count is no longer fifteen).
+- **CORRECTED BEFORE COMMIT:** *four months ago on a stone in the rain* — Ch.
+- 20's "Val" beat is on the **sea court, cold stones, nearly dark**, the rain belongs to a different movement in a different court, and the interval is ~two months; and *eleven months* → *a year* in three places (Ch.
+- 21 says eleven and then runs eight more weeks to the games).
+
+### Ch. 25
+- 25 — "The Door" (Kael = 13; the night of day 1 into the morning of day 2 — the spring; committed session 30.
+- Title was "The Third Bell" until the bout was split out to Ch.
+- 26.)** THE LAST ORDINARY NIGHT.
+- 19's *Severin must take the delivery*, both on the page, so 00 s26's collision lands in the reader's head two days before it lands in the story.
+- **1,326 words — the shortest chapter in the book, and deliberately: it is the held breath.**
+- 20 set it).
+- **Corrected s30:** the bundles were dated *the second day of the games* on a night that is day 1 — re-dated to the morning the games opened.
+
+### Ch. 26
+- 26 — "The Third Bell" (Kael = 13; the morning of day 2 of the games — the spring; committed session 30).** THE ROUND OF 8: KAEL vs ELARINE SEDRANE.
+- He reads the painted bedsheet going away: **two words, in whitewash, on somebody's bed linen.** He walks the last of the hill *with his ears hot and a narrow cold sitting under his breastbone, and could not have said which of the two was bigger* — the crowd-loves-him half of 00 s22 arriving as a gift and as a threat in the same paragraph, against Ch.
+- **THE THREADING CUTS FIRE (new page mechanic, author-ruled s30):** the threaded blade goes up through the middle of a fan and *the fire came apart on it — it did not go out.
+- **THE TREASURY OPENS — 00 s8's first-magic-as-spectacle is SPENT, not merely opened:** she puts the sword down, takes her hand off the grip, and spends all of it; **the sand beside her turns to glass**; the fire comes up out of the whole white length of the arena and eleven thousand people stand.
+- **THE SMILE:** *He was smiling… the face of a boy doing the only thing in the world he had never had to be taught to want*, with blood on his teeth.
+- **Author ruling s30: he IS aware of it this time** — when a fight turns critical he simply follows instinct, and that is the truth about him.
+- **IV — THE MENDING, IN PUBLIC (Severin's NATURE SPENT AT SCALE for the first time in the book; his EARTH still wholly unspent).** He comes DOWN out of the host's box and crosses the floor at a walk and **goes to Elarine first.** *Nothing showed… No light.
+- **HER BECAUSE (author-ratified s30):** *"My house chooses the school and the seat and the man.
+- **VI — THE HILL.** The whitening priced against himself for the first time (*any more spent, and his hair would surely have turned as white as the clouds above him*); the because-shaped hole at its widest — everybody he knows has a *because* standing under theirs and he went down that hill with nothing at all under his, **and won**; then the house, both bundles still by the door, **and he tells his parents all of it, including the blades.** **5,078 words** (canonical `wc -w`; this record carried **5,088** — the pre-correction Python count — for two sessions after s31 corrected the same number in 05, because s31 fixed the copy it was looking at).
+- **METRICS:** dialogue 9%, 22.9 w/para, dashes 2.9/1k, and 46.6/1k (concentrated in the fight; the quiet close at the book's norm), similes low, not-buts 0.
+- Echo run: **zero script hits**; deliberate echoes logged in `protected-phrasings`.
+- **PAN-AWAY = ONE SPEND** (Valeria standing in the north curve; the princess forward in her chair — observables only, no interiority, roman not italic); no first-person slip; the chest, the insignia, Halden and Severin's knowledge valves all untouched;
+- **THE COLLISION IS ANNOUNCED (author ruling s30, SUPERSEDING s28):** Elarine's exit line — *"Come and find me tomorrow.
+- 02 §Tournament Structure and 04 beat 18 corrected.
+
+### Ch. 27
+- 27 — "The Fog" (Kael = 13, not re-pinned; the night of day 2 into the morning of day 3 — the spring; committed session 32).**
+- **THE SEMIFINAL THAT IS NEVER FOUGHT.**
+- **DESIGN RULING THAT GOVERNED IT (author, s32): NO FIGHTING.
+- The bell strikes to begin and the invasion arrives in the same instant** — the book spends twenty-six chapters teaching the reader to read a bout, then puts these two on the sand and never lets them fight.
+- **THE DOWNHILL LANGUAGE IN THE RAIDERS' MOUTHS (author ruling, s32):** they call to each other and **he understands every word** — *Two more on the left* and *We are behind* — and *in his whole life Kael had heard that language come out of exactly two mouths*: the one that taught it to him on a flat rock, going slower in it than in anything else, and the one that used it once at his own table to say hello (Ch.
+- **THE NOBLES' DISTRICT (new world canon, 02):** *"It is a mile up from the water and it is walled and it is the only wall on this island that was built to be a wall.
+- He had worked that out before he took the first step, and he took it anyway.*** **4,656 words.**
+- **METRICS:** dialogue 7%, 26.3 w/para, dashes 3.4/1k (nearly all of it cut-off speech), similes 4.3/1k, not-buts 0, **and 41.9/1k** — the first draft ran **52.5 uniform**, which is drift and not cadence, and two trim passes put the quiet sections at 33–41 with the excess concentrated on the bombardment (45) and the gate/freeze (57), the Ch.
+- 23 shape.
+- Echo run: **one script hit**, *"Two at once"*, deliberate; seven further deliberate echoes logged in `protected-phrasings`.
+- Full-manuscript parity 23 → **24**, that hit being the only addition.
+- **AUTHOR EDITS IN SESSION:** *"Have you got it?"* → **"So.
+- Figured me out?"**; *it is not the same shouting* → **"It is not the same"**; *"Now count something"* → **"There," she said.
+- "I need you."** plus the be-sure exchange and Kael steadying his breath; Valeria's close expanded to **regroup with the army… they'll help you to the mountain afterwards, I'm sure of it**; the trebuchet interior stripped of its qualifiers; and the *watched the thing his father had spent eleven years teaching him to avoid being inside of* clause cut.
+- **CORRECTED BEFORE COMMIT:** a missing vocative comma (*"I need you to be sure Kael"*) and **the district's name, which appeared as both *quarter* and *district* in one scene** — normalised to **district**, the author's own word, per 02's controlled-vocabulary rule.
+

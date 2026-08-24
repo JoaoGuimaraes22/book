@@ -11,5 +11,5 @@
 - **THE MENTOR THREAD (opened Ch. 7 — develop gradually).** Kael–Severin now has a private channel (the walk down): the rehearsal (teaching concealment as curriculum — the family trade in a third teacher's hands, never labeled), question-doors, the one-inch doctrine tell ("Hold that. It is the only thing I am worried you'll lose."). Severin's register: doors with nothing written on them; kindness in valve-form (the fish-and-mutton line — an exit given without acknowledging a door). Grow by inches across Part II; the valve family (liar's knot, winter-feast fact) never tips.
 
 - **THE RELIEF-TELL IS SPENT** (Ch. 5, deniably) — do not respend. The Part I magic-register ceiling that governed it is a rule, in 06.
-- **AUTHOR-DECIDED LINES — do not "fix" silently:** Ch. 16's opening comma/fragment chain stands (s21); Ch. 15's *"He'd spend two weeks looking"* stands (s20).
+- **AUTHOR-DECIDED LINES — do not "fix" silently:** Ch. 16's opening comma/fragment chain stands (s21); Ch. 15's *"He'd spend two weeks looking"* stands (s20); Ch. 13's *riding steel* stands as written (s17).
 - **RESOLVES NOTHING:** the guard who read Kael's knife at the audience (Ch. 24) — no badge, no follow, no consequence (s29).
