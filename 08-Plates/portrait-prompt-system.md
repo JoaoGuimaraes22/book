@@ -99,6 +99,22 @@ not been worn. The age is in the eyes and nowhere else at all.
 
 **AND THE CLAUSE THAT MAKES IT WORK IS THE ONE THAT FORBIDS YOUTH:** *Not girlish, not unformed — a fully adult face that has simply not been worn.* An age block that only strikes out lines resolves *no lines* into *young*, and hands back a girl. **For an unworn adult you must forbid both ends** — the wear and the youth — and the positive term is the middle: *fully grown, and nothing has been taken out of her face yet.* This is the reusable half of the adult age block and it will matter for anyone the book wants grown but undepleted.
 
+**Severin — old, and worn to what mattered** *(the third adult block, and the only genuinely elderly one)*:
+
+```
+Age: an old man of about seventy, and genuinely old — not a
+vigorous fifty. Eyes set well above the vertical midpoint of the
+head. The face reduced to its structure: the cheek hollowed, the
+temple hollowed, the jaw and brow and the bones around the eye all
+clearly readable under the skin. Deep lines everywhere — from the
+nose to the mouth, across the forehead, at the outer corners of
+the eyes. Skin thinned, slackened along the jaw and the throat,
+the neck lean and corded. WORN TO WHAT MATTERED: everything
+inessential gone out of the face and nothing essential gone with
+it. Not frail, not sick, not soft, not kindly-grandfatherly. Old,
+and entirely sound.
+```
+
 **The original, still correct for Kael, Valeria and Aeliana:**
 
 ```
@@ -136,7 +152,7 @@ OR darkest value].
 
 ---
 
-## The seven characters
+## The eight characters
 
 ### Kael
 
@@ -416,6 +432,57 @@ oatmeal, worn soft and much mended. No ornament of any kind.
 **HER PLATE IS ALREADY COMPOSED, BY CH. 4:** *His mother sat at the window in the dark with her back straight and her face to the sea, and across her knees, unsheathed, lay a blade he had never been shown, long and thin and older than the tools on the wall, and her hands rested on it the way her hands rested on bread dough, at home.* Back, window, sea, blade, hands. Nothing needs designing.
 
 **AND SHE IS EIGHT OR NINE MONTHS PREGNANT** through the whole of the tournament season. Invisible at head-and-shoulders; unavoidable in a full figure or any Part III/IV scene. Decide it deliberately rather than by default.
+
+### Severin
+
+**NOT YET RUN.** Uses the **Severin AGE block** and **the HAIR line**. File as `images/severin.png` — no age suffix; `03` says *old*, not a number, same rule as the parents.
+
+```
+SUBJECT — cool pale parchment ground.
+An old man, the head of a school.
+Eyes very dark brown, near black — the DARKEST VALUE in the
+picture by a wide margin, and the sharpest step from light to dark
+anywhere in the image happens inside the eye itself, at the edge
+of the iris. His hair is the lightest mass in the frame and his
+eyes are the darkest point in it, and that opposition is the whole
+picture.
+Hair FULLY GREY — the entire head, evenly and completely, a true
+neutral grey that is neither warm silver nor cold white. Worn to
+about the collar, thinning and dry, unstyled. The grey is uniform
+everywhere: no streak, no seam, no band, no patch, nothing
+gathered or shaped anywhere in it, and no part of it lighter or
+colder than any other part.
+Tall and gone lean — long in the bone, the flesh reduced, and
+still broad across the shoulder in a way the robes do not
+disguise. Heavy thick wrists, too thick for a man whose work is
+paper.
+A scholar's stoop that does not sit naturally on him: the head
+carried forward, the shoulders rounded, and the frame underneath
+plainly not built for it.
+Expression: courteous, unhurried, attentive, and giving out
+nothing. Mouth closed and relaxed, the gaze level and patient — a
+face that has already priced whatever it is looking at. Not warm,
+not kindly, not stern, not sad, not tired.
+Dark master's robes, heavy and plain, high at the throat, with a
+broad chain of office lying across both shoulders — plain linked
+metal with real weight in it, dull and unpolished, no gems and no
+ornament of any kind. In deep charcoal and cold grey-brown, the
+chain in tarnished bronze.
+```
+
+**THE GREY IS THE WHOLE PROBLEM, AND THE BLOCK ANSWERS IT WITH FRAMING.** `03` says *hair fully grey — the second reading never confirmed*, and that reading is a valve `00` protects: **is his grey age, or is it drain?** The book refuses to say, and s30 has the tournament's six days *deepening* it. **An image cannot decline to answer**, so the portrait renders the AMBIGUITY rather than resolving it, which is what the hard rule means by framing:
+
+- **Not the drain register.** `02` names the drain-mark **pure quartz white — cold and hard**, and Ruthen wears it on the page as *a streak of white through his dark hair, one clean seam of it, like quartz through rock.* A cold white Severin, or any seam at all, **confirms the drain and spends the valve.**
+- **Not comfortable old age either.** Warm silver quietly kills the second reading, which is just as much a spend in the other direction.
+- **So: a true neutral grey, complete and even, nothing gathered anywhere.** *No part of it lighter or colder than any other part* is the operative line — it forbids the seam and the quartz register in one clause.
+
+**PAGE CANON, and most of this portrait is already written (Ch. 4):** *old the way the split rock was old — worn to what mattered. Tall, gone lean, grey all the way through… He walked with a scholar's stoop that sat on him the way a borrowed tool sits in the hand, and the wrists coming out of the sleeves were too thick for a man whose work was paper.* **The stoop is borrowed and the wrists are the tell** — the enforcer's frame under the scholar, which `03` makes the point of his body. Both are in the block and neither is invention.
+
+**EYES DARK, NEAR-BLACK (author ruling, s34)** — unruled in 00, 02, 03 and on every page, the same gap Aurelian's amber filled. Fed to `03/severin`. **Mechanically it is the best case in the library:** a fully grey head is a light mass, so a dark eye wins on darkest value outright — the exact conditions Elarine never had. And it does the character, which is why it was chosen: the one dark unreadable thing in a face gone entirely pale.
+
+**COSTUME: ROBES AND THE CHAIN (author ruling, s34).** Page canon twice — Ch. 22's *robes Kael had no name for, with a chain across his shoulders that plainly had weight in it*, and Ch. 26's *an old man in robes and a chain crossing the whole width of that white floor at a walk.* **The metal is unnamed on the page and tarnished bronze is a block choice, not canon.** His other register — Ch. 4's *coat too plain to be a villager's and too well-made to be a villager's* — is the mountain-house and fire costume and is **available as a second file** if a scene ever needs it.
+
+**SILHOUETTE WATCH — TWO LIGHTEST MASSES.** Aeliana's silver and Severin's grey are both written as *the lightest mass in the picture*, and Kael's mechanism is *the lightest value in the frame*. Separately fine; **in any shared frame one of the three has to yield**, and the rule is that the scene's subject keeps its mechanism and the others are demoted by the same technique that demotes hair.
 
 ---
 

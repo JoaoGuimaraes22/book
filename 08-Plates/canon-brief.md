@@ -97,6 +97,15 @@ The prompts are written where `00`, `02` and `03` cannot be seen. Every canon er
 - **EIGHT OR NINE MONTHS PREGNANT** through the tournament season. Invisible at head-and-shoulders, unavoidable below it — decide it, never default it.
 - **Her plate is already composed, by Ch. 4:** *sat at the window in the dark with her back straight and her face to the sea, and across her knees, unsheathed, lay a blade he had never been shown.* Back, window, sea, blade, hands.
 
+## SEVERIN — the First Master
+
+- **Old the way the split rock is old — WORN TO WHAT MATTERED.** Page canon, Ch. 4. Everything inessential gone out of the face and nothing essential gone with it. **Not frail, not kindly-grandfatherly:** he came over the front of the host's box, dropped the height of a man, and crossed an arena at a walk.
+- **TALL, GONE LEAN**, and still broad across the shoulder. **THE WRISTS ARE THE TELL** — *too thick for a man whose work was paper.* **The scholar's stoop is BORROWED**: *it sat on him the way a borrowed tool sits in the hand.* The enforcer's frame under the master's robes is the point of his body and it must be visible.
+- **HAIR FULLY GREY — the whole head, page canon (*grey all the way through*, Ch. 4) — AND THE SECOND READING IS NEVER CONFIRMED.** Is it age, or is it drain? `00` protects the valve, so **an image must render the AMBIGUITY, not resolve it.** A **true neutral grey**, complete and even. **NOT the drain register** (pure quartz white, cold and hard) and **NOT a warm comfortable silver**, either of which spends the valve. **NO SEAM, no streak, no patch, nothing gathered** — a seam is Ruthen's mark, and it would confirm the drain outright.
+- **EYES DARK, NEAR BLACK** (ruled s34; unspent on any page).
+- **COSTUME, TWO REGISTERS, both page canon:** **robes and the chain** at the Temple and the games (*a chain across his shoulders that plainly had weight in it*) — the metal is unnamed and free; and **the plain coat** on the mountain, *too plain to be a villager's and too well-made to be a villager's.*
+- **His face gives out nothing it has not priced.** Courteous, unhurried, attentive. **Not warm, not kindly, not stern.** Kindness in valve-form is his manner, never his expression.
+
 ---
 
 ## The rule that outranks everything here
