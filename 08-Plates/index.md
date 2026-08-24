@@ -8,6 +8,7 @@
 - `style-anchor.md` — medium, colour law, composition doctrine, generator countermeasures
 
 ## ANCHORS (reference images — reused as generation sources; timestamped)
+- `anchors/aeliana-14.md` — Aeliana, age 14 · **ADOPTED** `images/anchors/aeliana-14.png`
 - `anchors/valeria-13.md` — Valeria Vel, age 13 · v1 generated, **NOT ADOPTED** (culture fork open)
 - `anchors/kael-13.md` — Kael, age 13, valid Ch. 22 → current · **v1 ADOPTED** `images/anchors/kael-13.png`
 
