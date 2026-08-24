@@ -4,10 +4,11 @@
 # The clue ledger is the largest law-core file and is NOT read whole at a
 # session open. When designing a chapter, ask it what the target owes:
 #
-#   scripts/clues.sh                 -> section counts + every PLANNED and VALVE row
-#   scripts/clues.sh fire            -> rows whose "Pays off in" or "Handling" mentions "fire"
-#   scripts/clues.sh 'Ch\. 19'       -> rows planted in Ch. 19 (regex, case-insensitive)
-#   scripts/clues.sh -a Halden       -> match against the whole row, not just payoff/handling
+#   scripts/clues.sh                      -> section counts + every PLANNED and VALVE row
+#   scripts/clues.sh fire                 -> rows whose "Pays off in" or "Handling" mentions "fire"
+#   scripts/clues.sh fire Vask Halden     -> rows matching ANY term, each printed ONCE, tagged [fire] [Vask] ...
+#   scripts/clues.sh 'Ch\. 19'            -> terms are case-insensitive regexes
+#   scripts/clues.sh -a Halden            -> match against the whole row, not just payoff/handling
 #
 # Detection only: the row text is the law; judgment stays human.
 set -euo pipefail
@@ -20,7 +21,7 @@ args = sys.argv[1:]
 whole = False
 if args and args[0] == "-a":
     whole = True; args = args[1:]
-pattern = re.compile(args[0], re.I) if args else None
+patterns = [(a, re.compile(a, re.I)) for a in args]
 
 text = open("07-Story-Ledger/planted-clues.md").read()
 sections = re.split(r"^### ", text, flags=re.M)[1:]
@@ -44,13 +45,19 @@ for block in sections:
     title = block.split("\n", 1)[0].strip()
     rs = rows(block)
     state = title.split(" ")[0]
-    if pattern is None:
+    if not patterns:
         print(f"{title}  [{len(rs)} rows]")
         if state in ("PLANNED", "VALVE"):
             for r in rs: show(r)
         continue
-    hits = [r for r in rs if pattern.search(" | ".join(r) if whole else (r[2] + " | " + r[3]))]
+    hits = []
+    for r in rs:                      # each row once, whichever terms hit it
+        hay = " | ".join(r) if whole else (r[2] + " | " + r[3])
+        tags = [a for a, rx in patterns if rx.search(hay)]
+        if tags: hits.append((tags, r))
     if hits:
         print(f"{title}  [{len(hits)}/{len(rs)} rows match]")
-        for r in hits: show(r)
+        for tags, r in hits:
+            print("  " + " ".join(f"[{a}]" for a in tags))
+            show(r)
 EOF
