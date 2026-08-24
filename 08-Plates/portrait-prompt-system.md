@@ -62,7 +62,7 @@ frame; nothing about her has caught up with her yet except the
 eyes.
 ```
 
-**Vask — grown and worn down** *(the first ADULT age block; the adolescent anatomy has to go entirely, not be softened)*:
+**Vask — grown and worn down** *(the adolescent anatomy has to go entirely, not be softened)*:
 
 ```
 Age: a man of about forty who reads older than that. Eyes set
@@ -72,8 +72,11 @@ deep hollow beneath the cheekbone, the temple a little sunken.
 Deep lines cut from the nose to the mouth and at the outer corners
 of the eyes, the forehead scored across. Skin thickened and
 coarsened, weathered past its years. Neck thick, the tendons
-standing. Nothing soft left anywhere in the face. Fully grown and
-worn down — not elderly, not frail.
+standing. Nothing soft left anywhere in the face. Heavily worn,
+and nothing has been taken out of him — the body still entirely
+sound, the strength all still there. Not elderly, not frail, not
+diminished, not ill. And nothing on display: a man who has worked
+outdoors for forty years, and no more than that.
 ```
 
 **Neris — grown, and the age is in the eyes:**
@@ -291,14 +294,18 @@ nothing on her that does not work.
 ```
 SUBJECT — cool pale parchment ground.
 A grown man of a mountain village, a herder by every appearance.
-Eyes iron-dark, near black — the DARKEST VALUE in the picture. His
-hair is greying, so nothing else in the frame is as dark as they
-are; they are the one place the ink goes fully solid.
-Iron-dark hair gone grey at the temples, cut short and plain by
-somebody who was not being careful. The grey is diffuse and
-scattered, salt through the dark, thickest at the temples — never
-a streak, never a seam, never a blaze or band of white anywhere in
-the hair.
+Eyes iron-dark, near black — the DARKEST VALUE in the picture, and
+the sharpest step from light to dark anywhere in the image happens
+inside the eye itself, at the edge of the iris.
+The hair is dark but never a solid mass: rendered as fine ink
+strands and open transparent washes with bare paper left through
+it, soft wash-bled edges, no hard-edged black and no hard-edged
+white anywhere in it. The grey lives in that openness — scattered
+pale strands and bare paper among the dark, thickest at the
+temples, salt through iron. Never a streak, never a seam, never a
+blaze or band or shape of white anywhere in the hair.
+Iron-dark hair cut short and plain by somebody who was not being
+careful.
 Weathered far past his years — wind, sun and salt worked deep into
 the skin, coarsened and thickened, the pores open, the whole face
 used.
@@ -314,6 +321,12 @@ Coarse undyed working cloth, heavy weave, a plain collar closed to
 the base of the throat, much mended, in dull grey-brown and dead
 olive. No ornament, no buckle, no badge.
 ```
+
+**REVISED s34, BEFORE ITS FIRST RUN, off what Neris's run taught.** Two changes, both load-bearing.
+
+**(1) THE HAIR-DEMOTION PARAGRAPH DOES TWO JOBS HERE AT ONCE.** It was found on Neris as the enforcement half of the local-contrast mechanism — demote the rival dark mass, then site the sharpest step inside the iris. On Vask it also **makes the drain-mark impossible by construction:** hair rendered as fine ink strands and open washes with bare paper through it, with *no hard-edged white* and *never a shape*, **cannot resolve into a seam.** A solid mass can carry a streak; an open one cannot. This is a better fence than the negation alone, because it removes the material the error would be made of.
+
+**(2) THE AGE BLOCK NEEDED A POSITIVE MIDDLE TERM, and his is the opposite of Neris's.** Hers forbade wear and had to forbid youth as well, or *no lines* resolves into *a girl*. His piles on wear and had to forbid **depletion**, or *weathered past his years* resolves into *an old man* — and Vask is the man who delivers the most terrifying display of skill in Book One. *Heavily worn, and nothing has been taken out of him.* **Then the second half, which is the concealment:** *and nothing on display: a man who has worked outdoors for forty years, and no more than that.* **He must not read as dangerous.** The reader never sees him fight until the fire; a portrait that leaks menace spends the whole design.
 
 **CANON NOTES.** **The grey is the dangerous instruction in this block.** `02` has exactly two body-marks of magic and one of them is **white hair — the drain-mark, meaning this person went to the bottom of their reserve and nearly died.** Ruthen arrives on the page as *the master with the seam of white through his dark hair*, and Ch. 9 spends a whole paragraph on forty children not looking at it. **An image cannot tell greying-at-forty from a seam of white**, so the block forbids the shape and permits only the scatter. Check every run for a defined streak; if one appears, it is not a stylistic quibble, it is a magic system claim.
 
