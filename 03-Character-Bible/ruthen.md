@@ -11,7 +11,7 @@
 
 ### DYNAMIC
 - Has repeatedly underwritten Kael's way of winning in public without ever praising the boy; called *"Match. Vel."* — the first match ever called at Kael. Still says "the charity case."
-- **The one-breath look is SPENT AT LAST (Ch. 23), and he gave it out loud.** He bound Kael's arm at the competitors' gate, named the mistake (*you went inside the second column instead of the fourth*), told him Sedrane was tomorrow at the third bell — and then looked at him one breath longer than he needed to, which he had done once before, four years ago, from beside a well, and said **"That was not anything I have a name for."** *"No," Kael said. "Good," said the yard-master,* and went to stand somebody else's bout. **The mentor door is open by exactly one inch. Do not fling it.**
+- **The one-breath look is SPENT (Ch. 23), and he gave it out loud** — binding Kael's arm at the competitors' gate, he named the mistake, then looked at him one breath longer than he needed to, as he had once before from beside a well, and said **"That was not anything I have a name for."** **The mentor door is open by exactly one inch. Do not fling it.**
 
 ### FORWARD
 - **Door (unspent):** the one adult at the Temple who saw what the yard refused to, pre-Valeria; mentor-adjacent.
