@@ -14,7 +14,7 @@ The prompts are written where `00`, `02` and `03` cannot be seen. Every canon er
 - **Two visual registers.** The **island** keeps its own material culture; the **capital and imperial houses** are Latin-Byzantine. A character reads by where they are and what they are doing, not by their house.
 - **NEVER DESIGN "THE COAT."** It is the book's central metaphor for Kael's concealment — Ch. 13 is titled for it — not a garment to style. Literalising it flattens the image.
 - The empire's honourable arms are **longsword, rapier, spear**, bought from paid fencing-masters and carried as posture.
-- **Book One ages: Kael 13 · Valeria 13 · Aeliana 14.** She reads one year ABOVE the other two, never below.
+- **Book One ages: Kael 13 · Valeria 13 · Aurelian ~13 · Elarine ~13 · Aeliana 14.** Aeliana reads one year ABOVE the rest, never below. Aurelian is the same age as the cohort and **is built a year ahead of it** — that is body, not birthday.
 
 ---
 
@@ -52,6 +52,28 @@ The prompts are written where `00`, `02` and `03` cannot be seen. Every canon er
 - **The Ch. 24 audience:** she is **SEATED in a chair**, in **a lighter dress with less of it** — not the arrival gown — and **her hair is down.**
 - **HER HANDS DO NOTHING.** Unoccupied, holding nothing, at rest. Kael looks for what her hands do and gets nothing back; it is the detail that defeats him.
 - **Her beauty may never arrive as a verdict.** A portrait PLATE of her is illegal. It arrives two ways only: **THE RADIUS** (what a room does in her presence) or **KAEL'S INSTRUMENTS FAILING.** Anchors and portraits are exempt — they are references, not pages.
+
+## AURELIAN CORVANE
+
+- **Beautiful, and he knows to the grain what it buys him** — the bench moves when he walks past it. He is the cohort's presumptive best and looks it.
+- **Tall for his cohort and BUILT A YEAR AHEAD OF HIS AGE.** Broad, heavy through the shoulder, the frame already going toward a man's. High carriage.
+- **DARK-GOLD hair** (page canon, Ch. 8). **AMBER / GOLD-BROWN eyes** — ruled s34; unspent on any page, free to use.
+- **Fire's warmth lives in his colouring and is never stated.** It sits in the hair and the eyes. **His ground stays COOL** — warm parchment is Aeliana's alone.
+- **Clear, well-fed skin with sun on it.** A great-house child who *chooses* the yard: sun yes, weathering never, grime never, freckles never.
+- **NOT A STRAWMAN, and this is the whole of his face.** *Unspent strength, carried high, the stand of a boy who had never once been put on the ground by anything.* Pleasant, open, easy, genuinely charming — **never sneering, never smug, never cruel.** His cruelty is doctrine, not sadism, which is worse and does not show in a face.
+- **NO INSIGNIA, no badge, no house colour, no chain.** Good cloth well cut; the quality is the station. (`07/planted-clues` reserves the insignia for the Part IV fire.)
+- **Available and not yet drawn:** Ch. 9's candle — *the fire lit Aurelian's face from below, and it was the face from the roller morning with the world put right again.* That is the best image of him in the book and it needs light from below, which breaks the portrait system's fixed lighting. **It is a PLATE, not a portrait.**
+
+## ELARINE SEDRANE
+
+- **Small, and neat, and never spent.** Finely built, narrow, economical — **nothing on her that does not work** (page canon, Ch. 9, and it governs her costume as well as her body).
+- **INK-DARK hair, BOUND SEVERE** — page canon in Ch. 9 and again in Ch. 26. **Never loose.** A flat neutral black with no blue in it, so she does not read as Valeria.
+- **DARK eyes — very dark brown, near black.** They win the picture on **darkness**, not on saturation or lightness: the one place the ink goes fully solid. **The page has never said what colour they are and must not** — Ch. 14 and Ch. 15 both stop at *her eyes did what her eyes did*, and that is the better version. A portrait may show them; a plate may not name them.
+- **Pale untouched indoor skin.** No freckles.
+- **Her face is ASSESSMENT IN PROGRESS, not aloofness.** Attention fully engaged and giving nothing back; no verdict reached. *Her face gave out nothing it had not priced, and the pricing was still running.* **Not cold, not haughty, not bored, not tired** — Valeria owns unimpressed-and-tired and two characters cannot share an affect.
+- **Forgettable at a glance and unforgettable the third time you notice she hasn't moved.** Stillness, not display.
+- **Plain dark clothing of very good quality** — exactly made, close, buttoned high. **No ornament of any kind**, and the plainness is the station, not the absence of it. Keep her distinct from Valeria: Elarine reads *scholar*, Valeria reads *uniform*.
+- **HER ONE TELL IS A STATE, NOT A FEATURE: spots of colour high on her cheeks** (Ch. 13, Ch. 17), which fire only when something is about to be said properly or when she is being spent in public. **Keep it out of the canonical portrait.** It is available to a plate of either of those two moments and nowhere else.
 
 ---
 

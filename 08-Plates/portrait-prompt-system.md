@@ -46,7 +46,8 @@ edges, naturally settled rather than combed.
 ```
 SUBJECT — [cool pale / warm aged] parchment ground.
 [Age and one-line identity.]
-Eyes [colour] — [how they win: most saturated point, OR lightest value].
+Eyes [colour] — [how they win: most saturated point, OR lightest value,
+OR darkest value].
 [Hair colour, length, any styling.]
 [Skin condition.]
 [Facial structure notes.]
@@ -56,7 +57,7 @@ Eyes [colour] — [how they win: most saturated point, OR lightest value].
 
 ---
 
-## The three characters
+## The five characters
 
 ### Kael
 
@@ -72,7 +73,7 @@ Sun-weathered and wind-chapped from work at altitude, freckles
 across the nose, cool grey soot and dust along one cheekbone and in
 the creases of the neck — the grime stays cool grey, never warm
 brown.
-Plain, ordinary bone structure, faintly asymmetrical — one brow set
+Handsome, with faintly asymmetrical features — one brow set
 slightly higher, nose a fraction off centre. Narrow neck, no facial
 hair.
 Expression still and level, mouth closed and relaxed, gaze flat and
@@ -117,24 +118,89 @@ Pale untouched skin, freckles across the nose and cheeks.
 Face slightly rounded rather than elongated, small rounded chin,
 straight nose, short philtrum, slender neck.
 Expression quiet and slightly unguarded, lips closed and soft.
-Dark embroidered high-collar garment with ornate fitted pauldron,
-scrollwork filigree, the metalwork in tarnished bronze against deep
-charcoal, in cool grey-blues and dull umbers.
+Dark embroidered high-collar court garment — scrollwork filigree
+worked into the cloth itself at the collar and over the shoulder, in
+tarnished gold thread against deep charcoal, the cloth in cool
+grey-blues and dull umbers. Embroidery only: no armour, no pauldron,
+no plate, no metalwork of any kind.
+```
+
+### Aurelian
+
+```
+SUBJECT — cool pale parchment ground.
+A fifteen-year-old boy of a great house.
+Eyes warm amber, gold-brown — the most saturated point in the
+picture, luminous against the muted palette. The skin immediately
+around the eye stays pale and cool-shadowed so the amber does not
+merge into the warmth of the face; the eye is the one warm
+saturated point in the picture and the cheeks stay quieter than it.
+Dark-gold hair, thick and heavy, well cut and well kept, pushed
+back off the forehead.
+Clear well-fed skin with sun on it from working outdoors — no
+weathering, no chapping, no grime, no freckles.
+Broader through the shoulders and longer in the limb than the age
+would give, the frame already settling toward a man's — a boy built
+a year ahead of himself. Neck already thicker than a boy's.
+Strong even bone structure, straight nose, a broad jaw still soft
+at the edge.
+Expression open, easy and pleasant, mouth closed with a faint
+readiness to smile at one corner, chin carried high, gaze direct
+and entirely unguarded — the face of someone who has never once
+been put on the ground by anything. Not smug, not sneering, not
+cruel, not haughty.
+Good dark wool, well made and well fitted, an open collar over a
+clean undershirt, in deep umber and warm charcoal. No ornament, no
+insignia, no chain, no badge — the quality is in the cut and the
+cloth.
+```
+
+### Elarine
+
+```
+SUBJECT — cool pale parchment ground.
+A fifteen-year-old girl of a great house.
+Eyes very dark brown, near black — the DARKEST VALUE in the
+picture, not the most saturated. The only place in the image where
+the ink goes fully solid: two small absolute darks in a face made
+otherwise of pale washes. Small, steady, precisely drawn.
+Ink-dark hair, a flat neutral black with no blue in it, drawn back
+severely off the face and bound tight at the nape, not one strand
+loose, the whole mass smooth and close to the skull.
+Pale untouched indoor skin, clear and unmarked, no freckles; the
+skin's warmth low and even across the whole face.
+Small and finely built — narrow shoulders, a small head, a slender
+neck, a small face with fine economical features, nothing
+exaggerated anywhere.
+Expression: attention fully engaged and giving nothing back. Eyes
+level and fixed on the viewer, mouth closed and still, brows
+unmoved. She is in the middle of working something out and has
+arrived at no verdict. Not cold, not haughty, not bored, not
+amused, not tired.
+Plain dark clothing of very good quality, close-fitting and exactly
+made, a high buttoned collar to the throat, in ink-black and dark
+olive. No jewellery, no embroidery, no ornament of any kind —
+nothing on her that does not work.
 ```
 
 ---
 
 ## How the system works
 
-**Two eye mechanisms.** Saturated eyes (Valeria's green, Aeliana's blue) win by being the most saturated point in a muted picture. Kael's near-colourless grey can't win that way, so it wins on *value* instead — the lightest thing in the frame. This is why the shared STYLE line says only "focal point" and each SUBJECT block states its own mechanism.
+**Three eye mechanisms.** The STYLE line says only "focal point"; each SUBJECT block states how its own eyes win, because in a muted picture there are three different ways to be the focus and a colour can only use one of them.
+- **Saturation** — Valeria's green, Aeliana's blue, Aurelian's amber: the most saturated point in an otherwise desaturated image.
+- **Lightest value** — Kael's near-white grey, which is almost colourless and cannot win on saturation at all.
+- **Darkest value** — Elarine's near-black, which can win on neither: it is the one place the ink goes fully solid in a picture made of tints.
 
-**Ground temperature is per-character.** Kael and Valeria cool, Aeliana warm. Hers went warm because pale silver hair needs something to sit against; it's the one deliberate inconsistency in the set.
+**Amber is the fragile one.** A warm eye sits in a face the STYLE block has already made warm, which is the same disappearance that eats Kael's grime. Aurelian's block therefore fences the eye specifically — `the skin immediately around the eye stays pale and cool-shadowed` — and demotes the cheeks so the eye is the only warm saturated point. Check that first if his portrait comes back flat.
+
+**Ground temperature is per-character.** Kael, Valeria and Elarine cool, Aeliana warm. Hers went warm because pale silver hair needs something to sit against; it stays **the one deliberate inconsistency in the set**. Aurelian was the test of that and stayed cool: dark-gold hair does not need a ground to sit against, and his warmth belongs in the skin and the hair, where the STYLE block already localises it. Warm ground remains Aeliana's alone and means something because it is.
 
 **Warmth must be localised.** Any warm instruction spreads to the whole image unless you name what stays cool. `The warmth belongs to the skin alone, not the paper or the cloth` is what confines it. Kael needs the extra `the grime stays cool grey, never warm brown` — warm grime on warm skin disappears entirely.
 
 **Age is written as anatomy, not adjectives.** Age words alone get ignored. What works: eyes at the vertical midpoint of the head, jaw softly defined but not sharp, remaining cheek fullness, narrow neck. For an older version of a character, change the SUBJECT age line *and* delete `Adolescent, not grown` plus `some remaining fullness in the cheeks` from the STYLE block, or they'll fight the older read.
 
-**Complexion encodes station.** Kael weathered → Valeria mid → Aeliana pale. Discovered by accident, kept on purpose: three characters, three visibly different lives, none of it stated in text.
+**Complexion encodes station.** Kael weathered → Valeria mid → Aurelian clear with sun on it → Elarine pale indoor → Aeliana pale untouched. Discovered by accident on the first three, kept on purpose: five characters, five visibly different lives, none of it stated in text. Aurelian added the point the scale was missing — a great-house child who *chooses* the yard, so the sun is on him and the weather never is.
 
 ---
 
@@ -228,7 +294,7 @@ Dark hair, unstyled, cut short and uneven, falling over the
 forehead.
 Weathered and wind-chapped from conditioning outdoors at altitude,
 skin clean, no dirt or grime.
-Plain, ordinary bone structure, faintly asymmetrical — one brow set
+Handsome, with faintly asymmetrical features — one brow set
 slightly higher, nose a fraction off centre.
 Posture: standing straight and perfectly balanced, weight evenly
 settled, shoulders level and relaxed, hands loose and open at his
@@ -247,7 +313,7 @@ dark leather boots, worn but sound, made for quiet movement.
 
 1. **HE HAS NO WEAPONS, and a full figure exists to supply kit.** Page canon, Ch. 23: *the two short blades were across his back in their wrap*, and *the knife was where his father had put it, off the belt, inside the coat*. `02/dueling` protects his dual-blade silhouette as distinct from Valeria's — and as drawn she has two visible swords and he has nothing. Insert: *Carried across his back, bundled in a plain cloth wrap: two short blades, hilts covered, reading as an anonymous carried bundle rather than as weapons. A plain knife carried inside the clothing rather than on the belt, not visible.*
 2. **THE TWO KAEL REFERENCES DISAGREE ON CLOTHING.** The face portrait is *threadbare open-collar linen, coarse weave, frayed at the collar, in dull umber and olive*; this is *well-made and well-maintained, chosen to go unnoticed*, charcoal, boots *made for quiet movement*. Those are two different boys. **And the second quietly literalises THE COAT** — the book's central metaphor for his concealment, which `08` rules must never be designed as a look. He is thirteen, houseless, and lives on a mountain with goats: what makes him unnoticeable is owning nothing worth looking at, not selecting kit for stealth. The village register should win; the training already shows in the body.
-3. Minor: the block still says *plain, ordinary bone structure* against `03`'s ratified **handsome** — and by this doc's own findings the word does nothing anyway.
+3. ~~Minor: the block still says *plain, ordinary bone structure* against `03`'s ratified **handsome**~~ — **DONE (s34)**, in both his blocks; by this doc's own findings the word did nothing anyway. **Items 1 and 2 STAND**, exactly as the author left them.
 
 ## Valeria — full figure
 
@@ -328,4 +394,8 @@ hem.
 
 ## Canon that binds every block
 
-`00`, `02` and `03` are canon; a SUBJECT block is not. A block that disagrees with a sheet is a bug in the block. Live items: Aeliana's silver is a **Vessantine house trait, never the drain-mark** (the mark is pure quartz white); **Kael is handsome and filthy, not plain**, and his grey is **unspent on the page** — anchors may show it, plates may not until a chapter spends it; **never design the coat**.
+`00`, `02` and `03` are canon; a SUBJECT block is not. A block that disagrees with a sheet is a bug in the block. Live items: Aeliana's silver is a **Vessantine house trait, never the drain-mark** (the mark is pure quartz white); **Kael is handsome and filthy, not plain**, and his grey is **unspent on the page** — anchors may show it, plates may not until a chapter spends it; **never design the coat**; **Aeliana wears NO ARMOUR in Book One** — court dress only, and the pauldron that reached the adopted `aeliana-15.png` is the error this rule exists to stop; **no insignia, badge or house colour on Aurelian or Elarine**, because `07/planted-clues` reserves *Insignia the father recognizes with horror* for the Part IV fire and Valeria's collar already spends it once.
+
+**AURELIAN'S AMBER IS NEW CANON (author ruling, s34)** — his eye colour was unruled in 00, 02, 03 and on every page, and the portrait system cannot write a block without one. Fed to `03/aurelian` and the canon brief. **Elarine's dark eyes are sheet canon and deliberately unspent on the page** — Ch. 14 and Ch. 15 both decline to say what colour they are (*her eyes did what her eyes did*), which is the better version and must survive: a portrait may show them, a plate may not name them.
+
+**KNOWN AND UNFIXED:** the adopted `aeliana-15.png` carries the forbidden pauldron. The block is corrected; the image is adopted-but-flagged pending a regeneration run the author has not yet chosen to spend.
