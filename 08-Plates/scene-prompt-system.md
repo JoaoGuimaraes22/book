@@ -145,6 +145,17 @@ The goat's shoulder is at about the child's chest.
 
 The portrait system's eye-line ladder does the same job for a face; this is its body equivalent, and the two are independent.
 
+### Altitude is a camera position, not a setting (s37)
+
+A picture meant to look down a mountain at the sea came back as a shoreline at sea level, with the boat close inshore. The prompt had the altitude — *a high mountain smallholding, the ground falling away to a wide flat sea far below* — and then staged the frame as *read the picture left to right: the boy, the man, the boat.* **Staging beats intent, and left-to-right is a flat stage.**
+
+Two fixes, and they generalise to any picture with real depth:
+
+- **Say where the viewer is standing, first, before the setting.** *The viewer is high on a mountain, looking out and steeply down* — and say what must therefore be absent: *there is no beach, no shoreline and no water's edge anywhere near the figures.*
+- **Stack the frame explicitly.** Name what occupies the bottom, middle and top third. A vertical stack is a staging instruction, so it competes on the terms the renderer actually obeys.
+
+Then pin the depth with **scale-by-measurement**, which is what proves it worked: *the entire boat is smaller than the boy's head in this frame; if the boat is bigger than that, the viewpoint is wrong.*
+
 ### Contact hands render, including under a crossing arm (s37)
 
 Worth stating because the opposite was briefly written here and was wrong. In the pasture scene **both contact hands came through**: a hand flat on a child's upper back with the arm crossing behind him, and a hand buried in a goat's coat. **Author ruling: the hands are fine in that image.**
