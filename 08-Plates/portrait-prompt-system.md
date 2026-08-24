@@ -329,10 +329,11 @@ colour: a dark iris against a clean, light, clearly drawn sclera,
 the widest jump from light to dark anywhere in the image packed
 into the smallest area, while the whole face around them is held
 at a quiet middle value. The eyes read wide open and awake.
-Dark hair worn LONG AND LOOSE, falling well past the shoulders,
-unstyled and unarranged, a little disordered from work and
-weather. Not pinned, not bound, not braided, not tied — nothing
-holding it anywhere.
+Dark brown hair — warm rather than cool, dark but plainly brown
+and not black, no blue anywhere in it — worn LONG AND LOOSE,
+falling well past the shoulders, unstyled and unarranged, a little
+disordered from work and weather. Not pinned, not bound, not
+braided, not tied — nothing holding it anywhere.
 Skin with weather and sun on it but not coarsened — she has worked
 outdoors for years and it has not got into her the way it gets
 into the others.
@@ -350,7 +351,9 @@ oatmeal, worn soft and much mended. No ornament of any kind.
 
 **HAIR: LONG AND LOOSE (author ruling, s34), and it was free.** Checked before changing it, because Valeria's length turned out to be page canon at s33 and cost a prose edit: **Neris's hair appears nowhere in the manuscript and nowhere in `03` beyond *dark-haired*.** No prose moves. The first run read *fastened plainly for work* as a bun, so the block now kills every fastening by name — negating the shape is what the tool actually responds to.
 
-**SILHOUETTE WATCH:** long loose dark hair puts her within reach of Valeria. They separate on everything else and it holds — **grown woman vs thirteen, village overdress vs uniform and steel, stillness vs a body that reads as function at rest.** Per the README's separation method: provenance and bearing first, never the face.
+**COLOUR: DARK BROWN, AND IT COSTS NOTHING (author ruling, s34).** Checked before changing: **Kael's hair colour is not on any page either** — the manuscript never names it, and *dark hair, his mother's* lives only in `03/kael`, `03/wren` and `03/appearance-ledger`. **`03`'s *dark-haired* already admits dark brown**, so no sheet moves, the maternal inheritance stays true, and no adopted image is invalidated. **Do not re-raise this.** A *mid*-brown would have been a different question — it would have had to reach Kael and Wren or break the one feature Kael visibly gets from either parent.
+
+**SILHOUETTE WATCH:** long loose dark hair puts her within reach of Valeria. The brown helps — **Valeria's is blue-black and Neris's is warm**, so they now separate on temperature as well. They separate on everything else and it holds — **grown woman vs thirteen, village overdress vs uniform and steel, stillness vs a body that reads as function at rest.** Per the README's separation method: provenance and bearing first, never the face.
 
 **CANON NOTES.** **Her eyes are dark by author ruling (s34) and that is what she looks like every day of her life.** She can switch them off (00 s20) and always could; the Kynemir red is the truth underneath and is **not** what a canonical reference shows. A switched-on variant stays available as a deliberate second file for a moment the book actually spends. **Do not put red in this one.**
 
