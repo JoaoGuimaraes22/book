@@ -12,7 +12,7 @@ Every entry was checked against **THE PLATE FOLLOWS THE PAGE** when it was writt
 
 ## Ch. 1 — The Stars That Fell
 
-1. ★ **The fallen stars.** Night at the flat rock: Neris standing with Kael wrapped in the big wool, her hand turning his chin down — and far below, the town in a heap of warm light where the land meets the sea, doubled and moving in the black water. From behind and below, the two of them shapes against the spill. Her hands are in frame and occupied, which her sheet requires of any full figure; the whole chapter is in the direction of that hand. *The book's first image.*
+1. ★ **The fallen stars.** — **BUILT AND ADOPTED (s37): `images/plates/ch01-fallen-stars.png`; sheet `ch01.md`.** Night at the flat rock: Neris standing with Kael wrapped in the big wool, her hand turning his chin down — and far below, the town in a heap of warm light where the land meets the sea, doubled and moving in the black water. From behind and below, the two of them shapes against the spill. Her hands are in frame and occupied, which her sheet requires of any full figure; the whole chapter is in the direction of that hand. *The book's first image.*
 2. **The catch.** Vask's hand up without looking, the slate already in it, his face turned away and still talking to the goat. The eye goes to the hand; the face is elsewhere — the honest way to draw a man whose eyes have nothing in them.
 3. **The room of true things.** The one room from the loft's height: the fire small and orange in its hole, the table, the chest, the wall where every tool hangs in its place. No figures, or one hand crossing to straighten one. The house as a set of rules before the book has any people in it.
 

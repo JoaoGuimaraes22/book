@@ -89,9 +89,12 @@ PLATE_STYLE = STYLE.split("\n\nEyes:")[0].strip("\n")
 for sheet in sorted(glob.glob("08-Plates/plates/*.md")):
     stem = os.path.splitext(os.path.basename(sheet))[0]
     text = io.open(sheet, encoding="utf-8").read()
-    for slug in re.findall(r"^### PLATE: (\S+)\s*$", text, flags=re.M):
-        block = fenced(text, "### PLATE: %s\n" % slug)
-        write(f"{out}/plates/{stem}-{slug}.txt", PLATE_STYLE + "\n\n" + block)
+    for kind, slug in re.findall(r"^### (PLATE|PLATE-VERBATIM): (\S+)\s*$", text, flags=re.M):
+        block = fenced(text, "### %s: %s\n" % (kind, slug))
+        # PLATE-VERBATIM is the exact text as run and already carries its own
+        # style header: emit it untouched. Never reassemble a prompt that ran.
+        body = block if kind == "PLATE-VERBATIM" else PLATE_STYLE + "\n\n" + block
+        write(f"{out}/plates/{stem}-{slug}.txt", body)
         n += 1
 
 print(f"built {n} prompt files into {out}/")

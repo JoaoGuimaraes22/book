@@ -18,7 +18,9 @@ Each file is complete and paste-ready in order: **STYLE · AGE · HAIR (where us
 
 **NO STORED PROMPT, and it cannot be recovered.** `kael-17`, `valeria-17`, `aeliana-18`. Those age progressions were made by running the same SUBJECT block with a changed age line and the exact wording was never written down. Re-cutting them means writing a new age block.
 
-**NOT YET RUN.** `plates/ch01-fallen-stars` · `plates/ch01-the-catch` · `plates/ch01-room-of-true-things`.
+**NOT YET RUN.** `plates/ch01-the-catch` · `plates/ch01-room-of-true-things`.
+
+**VERBATIM AS RUN, and the sheet says so (s37).** `plates/ch01-fallen-stars` — the author's revision, which is what produced the adopted plate. It is emitted untouched from a `### PLATE-VERBATIM:` heading, with no style header prepended, because the text carries its own. The block this sheet originally generated was rewritten before it ever ran and is not recoverable.
 
 ## Layout
 

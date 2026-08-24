@@ -17,6 +17,7 @@
 - `images/` — split by kind (s34), because the library outgrew one flat folder:
   - `images/portraits/` — face references, `<character>-<age>.png`. Head-and-shoulders by default; **half-figure (waist-up, forearms in frame) where the character's build is part of the reference** — Severin's is the first.
   - `images/full-figures/` — standing figures, `<character>-<age>-full.png`. **The `-full` suffix is kept even though the folder already says so**, so a filename stays unambiguous wherever it is pasted or cited and no two files share a name across folders.
+  - `images/plates/` — the adopted plates themselves, `ch<NN>-<slug>.png`. **These are pages**, so THE PLATE FOLLOWS THE PAGE binds every one of them; the other three folders are references and it does not.
   - `images/scene-tests/` — multi-figure method tests. **References, not pages** — which is what makes Kael's unspent grey legal in them.
   - **Naming: bare `<character>[-full]` where `03` leaves the age unpinned** (s34: a number in a filename gets read as canon by the next session, and Vask's, Neris's and Severin's ages are deliberately open).
 - `prompts/` — **GENERATED, never hand-edited.** Paste-ready `.txt` of every stored prompt, built from the markdown above by `scripts/build-prompts.sh` and laid out to mirror `images/` (`portraits/`, `full-figures/`, `scene-tests/`). See `prompts/README.md` for the provenance of each — which ones actually produced the adopted image and which are current-system reassemblies.
