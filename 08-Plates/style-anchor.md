@@ -114,15 +114,28 @@ One plate per chapter, portrait, full-page proportion. Additional plates allowed
 
 ---
 
-## THE ONE DECISION NOT DERIVED FROM CANON — **AUTHOR RATIFICATION OWED**
+## THE SHARED STYLE BLOCK — **FINAL (author, s33). Paste verbatim into every prompt.**
 
-Everything above falls out of committed canon. The **medium** does not, and is proposed here rather than assumed:
+*Sepia-grey watercolour and ink portrait on rough cold-press paper, visible paper tooth and pigment granulation, loose expressive wash with scratchy fine ink linework, soft wash blooms bleeding into the background with hard irregular edges and bare unpainted paper showing through.*
 
-> **Ink and wash — desaturated, near-monochrome, strong blacks, visible dry-brush texture, no line-art cleanliness.**
+*Three-quarter view with the head turned away from the viewer, head and shoulders, visible shoulder and collar anchoring the lower frame.*
 
-Reasoning: it serves *strong silhouettes readable at distance* and *no heightened palette* natively, and it makes the colour law structural rather than a rule to be remembered — in a near-monochrome book, the first red the reader ever sees is the bloodline, and it lands like a struck match.
+*Soft directional light, gentle shadow beneath the cheekbone and along the jaw, most of the face held in light values. Textured, painterly, loose — the ink sits in the paper grain, edges broken and unfinished rather than cleanly rendered. Mid-tones and lights dominate.*
 
-Overrule freely. Everything downstream inherits this, so it is worth one deliberate decision now rather than discovering it by accident in plate 1.
+**SUPERSEDES** the first medium (*desaturated ink and wash, near-monochrome, deep blacks in the darks, dry-brush*), and the six anchors cut in it — kept at `images/anchors/superseded/`, prompts recoverable from git.
+
+### THE GROUND CARRIES THE REGISTER (s33) — doctrine, and it arrived by itself
+
+Nothing in the prompts asked for this and all three did it: **the paper's tone separates island from capital.**
+
+- **ISLAND — Kael, Valeria:** *cool neutral tone, pale parchment ground, the paper reading pale and cool rather than tea-stained.* Kael adds *warm cast in the paper ground only, figure held in neutral grey*, which keeps him colourless inside a sepia book.
+- **CAPITAL — Aeliana:** *warm aged parchment ground, tea-stained and softly foxed.*
+
+The imperial figure sits on a gilded ground and the island pair sit on cold stone. It is `02/geography`'s two visual registers rendered in the paper itself, at no cost.
+
+### THE LOCAL DARK (s33) — how an iris survives a light-dominant image
+
+Mid-tones and lights dominate this medium, so a bright iris has no global darks to push against. **Build a local one:** heavy dark lashes and strong dark brows immediately around the eye, so the colour reads sharp against its own surround. Valeria's green is the proof. Aeliana is the hardest case — pale blue on pale skin under near-white hair has almost no local dark available, and her lashes and brows carry it alone.
 
 ---
 
@@ -134,7 +147,7 @@ Overrule freely. Everything downstream inherits this, so it is worth one deliber
 
 - **AGE.** State an age slightly above the character's and enforce youth through PROPORTION instead — *child proportions, large head relative to frame, unlengthened limbs, no adult body*. Naming a low age directly tends to fail at ChatGPT, and generators weight proportion over the stated number anyway.
 - **PROMPTS MUST STAND ALONE.** ChatGPT refuses image-to-image when the source depicts a person, illustration or not. Do not build a workflow that depends on chaining a reference.
-- **VERIFIED (s33): the verbal medium block is self-sufficient.** Kael v1 and Valeria v1 were generated independently, cold, with no shared reference image, and the medium matched. Style consistency across the book does not depend on image chaining. Keep the medium sentence VERBATIM in every prompt: *desaturated ink and wash on paper, near-monochrome, deep blacks in the darks, grey washes, visible dry-brush texture and paper grain, broken irregular edges rather than clean linework.*
+- **VERIFIED (s33): the verbal medium block is self-sufficient.** Kael v1 and Valeria v1 were generated independently, cold, with no shared reference image, and the medium matched. Style consistency across the book does not depend on image chaining. Paste **THE SHARED STYLE BLOCK** verbatim into every prompt, plus the character's ground modifier.
 - **EACH PANEL OWNS A JOB (s33).** An anchor's **full figure owns the gown, the kit, the silhouette and the bearing**; its **close-up owns the face**. A plate takes each from its owner and never the other way round. This is what makes a panel disagreement survivable rather than fatal — and they will disagree, because two generations of the same character drift on age even when nothing else does.
 - **AGE IS CONTROLLED BY THE SKULL, NOT THE NUMBER (author, s33) — the master technique.** Describing facial PROPORTION lands an age where naming one does not, and it is what fixed the drift between Kael's two panels and between Aeliana's. The levers, in rough order of power:
   - **where the eyes sit on the head** — at the vertical midpoint reads adult; lower reads child (the cranium is proportionally larger)

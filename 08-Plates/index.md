@@ -5,15 +5,16 @@
 **EVICTION:** the sheets are accumulators — they roll per book alongside 07's accumulators. `style-anchor.md` never moves.
 
 ## RULE
-- `style-anchor.md` — medium, colour law, composition doctrine, generator countermeasures
+- `style-anchor.md` — the shared style block, the ground registers, the colour law, composition doctrine, prompt craft
 
-## ANCHORS (reference images — reused as generation sources; timestamped)
-- `anchors/aeliana-14.md` — Aeliana, age 14 · **ADOPTED** `images/anchors/aeliana-14.png`
-- `anchors/valeria-13.md` — Valeria Vel, age 13 · **ADOPTED** `images/anchors/valeria-13-v2.jpg` + face `images/anchors/valeria-13-face.png`
-- `anchors/kael-13.md` — Kael, age 13, valid Ch. 22 → current · **ADOPTED** `images/anchors/kael-13.png` + reading-distance panel `images/anchors/kael-13-face.png`
+## ANCHORS (reference images — timestamped; each panel owns a job)
+- `anchors/kael-13.md` — Kael, 13 · face **ADOPTED** `images/anchors/kael-face.png` · full figure OWED · re-cut owed (reads too old)
+- `anchors/valeria-13.md` — Valeria Vel, 13 · face **ADOPTED** `images/anchors/valeria-face.png` · full figure OWED · hair-length mismatch open
+- `anchors/aeliana-14.md` — Aeliana, 14 · face **ADOPTED** `images/anchors/aeliana-face.png` · full figure OWED · panel garment NOT canon
 
 ## PLATES (one sheet per chapter plate)
 - *(none yet — the moment-selection pass is unstarted)*
 
 ## IMAGES
-- `images/anchors/` · `images/plates/` — chosen outputs only, committed
+- `images/anchors/` — the live cuts · `images/anchors/superseded/` — the first style, kept
+- `images/plates/`

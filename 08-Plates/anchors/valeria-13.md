@@ -1,58 +1,36 @@
 # ANCHOR — VALERIA VEL, age 13 (valid Ch. 22 → current)
 
-**ADOPTED.** full figure `../images/anchors/valeria-13-v2.jpg` · face `../images/anchors/valeria-13-face.png`
-(v1, before the green, kept at `../images/anchors/valeria-13-v1.png`.)
-**Panel jobs:** the full figure owns kit and silhouette; the face panel owns the face.
+**ADOPTED — face panel:** `../images/anchors/valeria-face.png`
+**FULL FIGURE OWED.** None exists in the current style — no reference for her kit, her twin blades or her silhouette.
 Canon lives in `03/valeria.md`. Rules live in `../style-anchor.md`. This sheet holds the prompts.
 
 ## CONSTRAINTS — a re-cut may not break these
 
-- **The green is rendered in colour**, deep emerald, with a limbal ring. Her sheet spends it *at reading distance only*, so the face panel is the canon view.
-- **Her stillness WARNS — nothing like his.** In a close-up it lives entirely in the gaze: level, flat, appraising.
+- **The green is the brightest thing in the image**, and it survives a light-dominant medium only by THE LOCAL DARK — heavy dark lashes and strong dark brows immediately around the eye. Her sheet spends the green *at reading distance only*, so the face panel is the canon view.
+- **Her stillness WARNS — nothing like his.** In a close-up it lives entirely in the gaze: level, flat, appraising. The author's formulation: *unimpressed and faintly tired. Not vulnerable, not wistful, not searching.*
 - **She must stay distinct from Kael at thumbnail size** — separators table in `../style-anchor.md`. Separate on provenance and bearing, never on the face.
-- **Shade:** the adopted image came out pale sage against the sheet's *emerald*. Left as drawn — pushing saturation would make her eyes the loudest thing in the book.
 - **Island training kit, not Vel livery.** She has lived on the island a year. In Vel colours or at the capital she wears the imperial register (02/geography).
 
-## PROMPT — full figure (author's, as run)
+## OPEN — ONE CANON MISMATCH
 
-The author's structured-field format, which outperformed flowing prose and became the house template.
+**Her hair falls well past the shoulders in the adopted panel.** `03/valeria` reads *black shoulder-length hair, no ornament*. Either the sheet is amended or the re-cut shortens it — **unresolved, and it should not stay that way**, since the superseded anchor had it at the shoulders.
 
-*Standing figure study, single subject, three-quarter view, full body. A girl, roughly 15 years old, child proportions — large head relative to frame, unlengthened limbs, no adult body.*
+## PROMPT — face panel (author's, as run)
 
-*Build: lean and wiry, visible functional muscle in the shoulders, forearms and thighs. Trained. Athletic without bulk.*
+Prepend **THE SHARED STYLE BLOCK** (`../style-anchor.md`), then:
 
-*Pose: standing still, feet under hips, weight settled evenly and low. Shoulders level and dropped. Spine straight without being braced. Chin level, gaze directly forward and flat, past the viewer rather than at them. Arms hanging relaxed at her sides. Nothing tensed, nothing slack — a body at rest that is one movement from not being at rest.*
+*+ cool neutral tone, pale parchment ground, restrained and desaturated, the paper reading pale and cool rather than tea-stained*
 
-*Face: plain, still, unsmiling. Mouth closed and neutral. Expression is disinterest, not hostility. Eyes rendered in dark value only, no iris colour.*
+*Subject: a sixteen-year-old girl.*
 
-*Hair: black, straight, to the shoulders, unstyled, no ornament.*
+*Clear vivid green eyes — the only colour in the image and the brightest thing in it. Irises luminous and light in value, ringed by a dark limbal ring, set against heavy dark lashes and strong dark brows so the green reads sharp against the surrounding darks.*
 
-*Hands: a plain straight blade held low in each hand, points angled toward the ground, both arms down. Heavy calluses across the palms and finger joints. Knuckles thickened and worn. Faded pale scar lines along both forearms, a few of them fresher.*
+*Long straight dark hair falling loose past the shoulders, rendered as irregular clumps and locks of varying thickness — some sections falling together, others separating, uneven edges, naturally settled rather than combed. Soft grey-black washes rather than dense solid ink, individual strands catching light.*
 
-*Blades: matched pair, plain steel, no engraving, no crossguard decoration, well-maintained edges, plain wrapped grips. Utilitarian, of good make.*
+*Skin clear and unmarked, fine granulated texture where the pigment settles into the paper tooth.*
 
-*Clothing: plain dark tunic and trousers, close-fitting, well-tailored, undyed or muted, no insignia, no armour, no belt hardware beyond function.*
+*Slightly rounded face, jaw softly defined but not sharp, faint hollow beneath the cheekbone, small chin, straight nose, narrow neck.*
 
-*Lighting: flat, even, overcast daylight. No cast shadow of note. Empty pale ground, no horizon, no background.*
+*Expression: chin level, gaze flat and direct into the viewer, mouth closed and still. Unimpressed and faintly tired. Not vulnerable, not wistful, not searching.*
 
-*Medium: desaturated ink and wash on paper. Near-monochrome, deep blacks in the darks, grey washes, visible dry-brush texture and paper grain, broken irregular edges rather than clean linework.*
-
-*Negative prompt: colour, saturation, rim light, glow, bloom, lens flare, anime, manga, chibi, smiling, blushing, makeup, jewellery, cape, armour, heraldry, particles, sparks, magic effects, dynamic pose, fighting stance, adult body, elongated limbs, background scenery, clean vector lines*
-
-## PROMPT — the green (edit; produced v2, the live full figure)
-
-*Same image, unchanged in every other respect — same face, same pose, same clothing, same ink-and-wash medium, same near-monochrome palette and paper grain.*
-
-*One change only: her irises are emerald green. The green is the only colour in the image; everything else stays desaturated greyscale wash.*
-
-## PROMPT — face panel (as issued; produced the adopted image)
-
-*Same image, same medium, same face, same hair, same greyscale-with-colour-only-in-the-eyes discipline.*
-
-*Now a close portrait: head and shoulders only, face filling most of the frame, three-quarter view, eye level.*
-
-*Her eyes are the focal point — deep emerald green irises with a distinct dark limbal ring and a small dark pupil, vivid and unmistakable. They are the only colour anywhere in the frame; everything else stays greyscale wash.*
-
-*Black hair to the shoulders, unstyled, no ornament.*
-
-*Expression plain, still, unsmiling — disinterest rather than hostility. The gaze is direct, flat and appraising: she is looking at you the way you look at a problem.*
+*Dark wrapped garment, plain heavy fabric, no ornament, rendered in mid-tone washes rather than solid black.*

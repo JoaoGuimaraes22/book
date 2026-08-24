@@ -1,54 +1,40 @@
 # ANCHOR — KAEL, age 13 (valid Ch. 22 → current)
 
-**ADOPTED.** full figure `../images/anchors/kael-13.png` · face `../images/anchors/kael-13-face.png`
-**Panel jobs:** the full figure owns kit and silhouette; the face panel owns the face.
+**ADOPTED — face panel:** `../images/anchors/kael-face.png`
+**FULL FIGURE OWED.** None exists in the current style. Until one is cut, **no plate has a reference for his kit, his blades or his silhouette** — do not improvise them from the face panel.
 Canon lives in `03/kael.md`. Rules live in `../style-anchor.md`. This sheet holds the prompts.
 
 ## CONSTRAINTS — a re-cut may not break these
 
-- **THE GREY IS UNSPENT ON THE PAGE.** An anchor may show it. **No PLATE published before the page spends it may show his eyes** — frame them out.
+- **THE GREY IS UNSPENT ON THE PAGE.** An anchor may show it. **No PLATE published before the page spends it may show his eyes.**
+- **He is cool inside a warm book.** Ground modifier: *warm cast in the paper ground only, figure held in neutral grey.* He is the one figure that stays colourless — grey is achromatic and he sits outside the colour system by design.
 - **Marks:** blade scar on the LEFT forearm (Ch. 6) · long shallow scar outside the LEFT arm above the elbow (Ch. 23) · burn on the LEFT forearm, wrist to elbow (Ch. 24).
 - **Handsome and filthy** — village grime, weather, hair cut by somebody not being careful. **Not the ornate royal register**; that is Aeliana's.
 - **Never design the coat** (style-anchor). He wears none.
 - Two short blades, out of a shed, answering to no seller (02/dueling).
-- **The full figure's age is RATIFIED AS DRAWN** (author). That face is the reference — plates match it and do not drift younger.
 
-## PROMPT — full figure (as issued; produced the adopted image)
+## OPEN — RE-CUT OWED
 
-> **SUPERSEDED CLAUSE:** this prompt asks for *a plain face … a boy you would not pick out of a group of forty.* The author has since ruled him **handsome**. Replace that clause before re-running.
+**He renders too old** (author's own note). He also reads older than Valeria, who is the same age in canon. The fix is the skull levers in `../style-anchor.md`, not a number — here his eyes sit at the vertical midpoint and the jaw angle is fully visible, which are the two strongest adult signals.
 
-*A standing reference study of a 13-year-old boy. Three-quarter view, plain flat daylight, neutral empty ground. No scene, no background incident, no story — this is a character reference sheet.*
+## PROMPT — face panel (author's, as run)
 
-*Build: wiry, narrow, light through the shoulders. He is trained, but the training does not show — an unremarkable body at rest, nothing to look at. Not muscular, not frail, not heroic. Dark hair, ordinary cut, no styling. A plain face with ordinary bone structure and no symmetry — a boy you would not pick out of a group of forty. He is standing completely still, and the stillness is total.*
+**CAVEATS, author's:** the adopted image is **two edit passes past this prompt** (cooling, then warming the ground only). **A clean run lands warmer overall.**
 
-*Eyes downcast and in shadow. Iris colour is not resolved and not lit.*
+Prepend **THE SHARED STYLE BLOCK** (`../style-anchor.md`), then:
 
-*Marks, rendered quietly and without emphasis: a blade scar along the left forearm; a long shallow scar on the outside of the left arm above the elbow; a burn covering one forearm from wrist to elbow.*
+*+ cool neutral tone, pale parchment ground, the paper reading pale and cool rather than tea-stained; warm cast in the paper ground only, figure held in neutral grey*
 
-*Clothing: working cloth, undyed, undecorated, period-plausible, worn. Two short blades carried across the back.*
+*Subject: a fifteen-year-old mountain village boy.*
 
-*Rendering: desaturated ink and wash. Near-monochrome, strong blacks, visible dry-brush texture, no clean line-art. No colour beyond the wash.*
+*Pale near-white grey eyes — the lightest thing in the picture, cool and colourless, ringed by a distinct dark limbal ring with a small dark pupil, framed by dark lashes and dark brows. They read as striking through value contrast alone, not through colour.*
 
-*Avoid: heightened saturation, rim lighting, glamour lighting, bloom or glow, lens flare, an attractive-by-default face, heroic stance or low heroic camera, ornamented fantasy costume, floating particles or embers, any visible magic, adult proportions.*
+*Dark unstyled hair, unwashed and matted in places, cut unevenly by hand, falling over the forehead in irregular clumps with uneven edges and scratchy ink strands. Soft grey-black washes rather than dense solid ink.*
 
-## PROMPT — face panel, first cut (author's, as run)
+*Weathered from outdoor work at altitude: skin wind-chapped and roughened, grey dust and soot smeared along one cheekbone and under the jaw, grime at the hairline and in the creases of the neck. Light freckles beneath the dirt. Dirt rendered in cool grey washes, not warm brown.*
 
-*Close portrait of a boy's face, head and shoulders only, three-quarter view, eye level, face filling most of the frame.*
+*Plain, ordinary bone structure. Faintly asymmetrical, one brow set slightly higher, nose a fraction off centre. Unfinished jawline, soft cheek, narrow neck, no facial hair.*
 
-*The eyes are the focal point and the lightest thing in the picture: irises a pale, near-white neutral grey, clearly lighter in value than the skin around them, ringed by a distinct dark limbal ring, with a small dark pupil at the centre. Dark lashes and dark brows frame them. The pale irises read as striking purely through contrast against the dark hair, dark lashes and mid-grey skin.*
+*Expression still and level, mouth closed and relaxed, gaze flat and direct. Neither hostile nor sad.*
 
-*About fifteen years old. Unfinished jawline, soft cheek, smooth high brow, narrow neck, no facial hair. Plain, ordinary bone structure, faintly uneven — one brow set slightly higher, nose a fraction off centre. Dark hair, unstyled.*
-
-*Expression still and level. Mouth closed and relaxed. Gaze direct, flat, neither hostile nor sad.*
-
-*Flat, even, overcast light, no directional key, no shadow of note. Empty pale paper ground behind him, nothing else in frame.*
-
-*Greyscale image, entirely without hue. Ink and wash on paper: deep blacks in the darks, translucent grey washes in the mid-tones, bare paper in the lights, visible dry-brush texture, paper grain, broken irregular edges rather than clean linework.*
-
-## PROMPT — face panel, younger re-cut (author's, as run; **this is the adopted image**)
-
-The first cut came back a young man several years above the full-figure study; this edit fixed the two-anchor drift.
-
-*Same image, same medium, same greyscale, same face, same eyes — the pale near-white grey irises with the dark limbal ring are correct and must not change.*
-
-*Make him much younger, of thirteen or fourteen, he is scrappy and unwashed. Village dirt on the skin, weather on the face, hair unkempt and cut by someone who was not being careful. Clean features under grime.*
+*Threadbare open-collar linen shirt, coarse weave, frayed at the collar edge, rendered pale with bare paper showing through.*
