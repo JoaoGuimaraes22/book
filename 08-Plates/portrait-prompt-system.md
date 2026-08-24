@@ -102,20 +102,21 @@ not been worn. The age is in the eyes and nowhere else at all.
 **Severin — old, and worn to what mattered** *(the third adult block, and the only genuinely elderly one)*:
 
 ```
-Age: an old man of about sixty-five — old, and physically
-formidable. Eyes set well above the vertical midpoint of the head.
-Deep lines cut from the nose to the mouth, across the forehead and
-at the outer corners of the eyes; the skin coarse, dry and
-weathered, drawn tight over the bone. The face pared down to its
-structure, the brow and cheekbone and jaw all hard and clearly
-readable. LEAN, NOT WASTED — dry hard flesh over heavy bone,
-nothing soft left on him and nothing missing either. The neck
-thick and corded, the jaw heavy, the head sitting solid on the
-shoulders. NO hollow cheeks, NO sunken temples, NO thin or scrawny
-neck, NO slackness or sagging anywhere. WORN TO WHAT MATTERED:
+Age: an old man of about sixty-five — old, and POWERFULLY BUILT.
+Eyes set well above the vertical midpoint of the head. Deep lines
+cut from the nose to the mouth, across the forehead and at the
+outer corners of the eyes; the skin coarse, dry and weathered,
+drawn tight over the bone. The face pared down to its structure,
+brow and cheekbone and jaw all hard and clearly readable.
+POWERFUL, NOT WASTED — a big heavy frame with hard muscle still on
+it, wide square shoulders, a thick corded neck, a heavy jaw, the
+head sitting solid and square on the body. NO hollow cheeks, NO
+sunken temples, NO thin or scrawny neck, NO slackness or sagging
+anywhere, NO frailty of any kind. WORN TO WHAT MATTERED:
 everything inessential gone and every essential thing still there.
 Not frail, not gaunt, not sick, not wispy, not
-kindly-grandfatherly. A powerful old man whose body still works.
+kindly-grandfatherly. An old man who is plainly still dangerous
+and completely at ease about it.
 ```
 
 **The original, still correct for Kael, Valeria and Aeliana:**
@@ -451,29 +452,44 @@ eyes are the darkest point in it, and that opposition is the whole
 picture.
 Hair FULLY GREY — the entire head, evenly and completely, a true
 neutral grey that is neither warm silver nor cold white. A FULL
-THICK HEAD OF IT, coarse and dry, worn to about the collar,
-unstyled. Not thinning, not wispy, not receding, no scalp showing.
+THICK HEAD OF IT, coarse and heavy, worn LONG — swept back off the
+forehead and falling past the collar to the shoulders. Not
+thinning, not wispy, not receding, no scalp showing.
+A full grey beard and moustache, close-cropped and neatly kept,
+the same neutral grey as the hair.
 The grey is uniform everywhere: no streak, no seam, no band, no
 patch, nothing gathered or shaped anywhere in it, and no part of
 it lighter or colder than any other part.
-Tall and heavy-framed — long in the bone and broad and thick
-across the shoulder, and the robes do not disguise it: the frame
-reads straight through the cloth. Heavy thick wrists, too thick
-for a man whose work is paper. A big old man who is still strong,
-not a thin one.
-A scholar's stoop that does not sit naturally on him: the head
-carried forward, the shoulders rounded, and the frame underneath
-plainly not built for it.
+A big powerful old man — tall, long in the bone, wide and thick
+across the shoulders and deep through the chest, with visible hard
+muscle across the shoulders and upper back. Heavy thick wrists and
+forearms, far too thick for a man whose work is paper. The robes
+do not disguise any of it: the frame reads straight through the
+cloth.
+A scholar's stoop laid over the top of that body and not fitting
+it — the head carried a little forward, the shoulders rounded, and
+the powerful frame underneath plainly not built for the posture.
+The stoop is a habit worn badly over a fighter's body, and both
+must be visible at once.
 Expression: courteous, unhurried, attentive, and giving out
 nothing. Mouth closed and relaxed, the gaze level and patient — a
 face that has already priced whatever it is looking at. Not warm,
 not kindly, not stern, not sad, not tired.
-Dark master's robes, heavy and plain, high at the throat, with a
-broad chain of office lying across both shoulders — plain linked
+Dark master's robes, heavy and plain, worn loose and open at the
+front over a plain undertunic so the chest and shoulders read
+through rather than being swallowed by cloth, with a broad chain
+of office lying across both shoulders — plain linked
 metal with real weight in it, dull and unpolished, no gems and no
 ornament of any kind. In deep charcoal and cold grey-brown, the
 chain in tarnished bronze.
 ```
+
+**THE AUTHOR'S REFERENCE IS SILVERS RAYLEIGH (s34)** — *One Piece*, the old swordsman: long swept-back grey hair, a cropped beard, a big powerful body still obviously capable, and complete ease about it. **Taken from it:** the body, the bearing, the long swept-back hair, and the beard. **The stoop is what makes the borrowing exact rather than a compromise** — `03` reads *an enforcer's frame under a master's robes*, and Ch. 4 has the scholar's stoop *sitting on him the way a borrowed tool sits in the hand.* **So: Rayleigh's body, with the page's badly-worn stoop laid over it.** The stoop is the disguise and the frame underneath is the man, and both must be visible at once. That is the character, not a concession to it.
+
+**NOT TAKEN, and each for a reason:**
+- **THE WHITE.** Rayleigh reads silver-white. **Severin must stay a TRUE NEUTRAL GREY** — cold white is the drain-mark's own register (*pure quartz white*, `02`) and would confirm the valve `00` protects. This is the one hard no in the borrowing.
+- **THE GLASSES.** **No eyewear exists anywhere in this world** — not on a page, not in `02`, not in `03` — and `03/priscian` has *a squint from a life at close text*, which is precisely the detail that would not be there if spectacles were available. Adding them is a `02` worldbuilding ruling that costs Priscian's squint, not a plate decision. **Ask before drawing them.**
+- **THE OPEN CHEST AND THE MANTLE.** He wears robes and a chain, page canon twice. What the block does instead is wear the robes **loose and open at the front** so the chest and shoulders read through — the Rayleigh silhouette inside the costume the book actually gave him.
 
 **REVISED AFTER RUN 1 — HE CAME BACK FRAIL, AND IT IS THE SAME MISTAKE FOR THE THIRD TIME THIS SESSION.** The block stacked positive depletion — *the flesh reduced · skin thinned, slackened along the jaw and the throat · the cheek hollowed, the temple hollowed · thinning* — and set one negation against it, *not frail*. **The negation lost, exactly as `no freckles` lost and exactly as the five white-bans lost Vask's grey.** It also said *genuinely old — not a vigorous fifty*, which pushed the same way.
 
