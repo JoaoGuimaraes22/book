@@ -16,6 +16,15 @@ Consequence, stated plainly: **an image cannot decline to answer.** Prose can wi
 
 ---
 
+## ANCHORS SHOW THE PERSON. PLATES SHOW THE MOMENT. (s33)
+
+Promoted to a rule after deciding the same question three times — Kael's blade wrap, Aeliana's rendering rule, Aeliana's hair.
+
+- An **ANCHOR** is a reference study. It shows what someone IS: the objects themselves, the hair itself, the body itself. It depicts no scene, so scene state does not bind it.
+- A **PLATE** is a moment, and THE PLATE FOLLOWS THE PAGE binds it completely.
+
+Worked examples, all three ruled this way: Kael's two blades are *across his back in their wrap* on the day of Ch. 23 — the anchor shows the blades. Aeliana's hair is *up off the neck in a construction that took more than one person more than an hour* at the tournament — the anchor shows it long and loose, and **her Ch. 22 plate must put it up.** Her sheet's hard rendering rule forbids a narrator verdict on her beauty, which makes a portrait PLATE illegal and an anchor legal.
+
 ## THE COLOUR LAW — **AMENDED s33: COLOUR LIVES IN THE EYES**
 
 **Standing rule for character anchors: the plate is greyscale wash, and the eyes are the only place pigment appears.** Demonstrated on Valeria v2 — the green reads at full-figure scale, it is the sole colour in the frame, and it pulls the eye to the face.
