@@ -1,43 +1,70 @@
 # ANCHOR — AELIANA CASSIVARA VESSANTINE, age 14 (valid Ch. 22 → current)
 
-**Status: ADOPTED.** `../images/anchors/aeliana-14.png`
+**ADOPTED.** full figure `../images/anchors/aeliana-14.png` · face `../images/anchors/aeliana-14-face.png`
+**Panel jobs:** the full figure owns the gown, silhouette and bearing; the face panel owns the face.
+Canon lives in `03/aeliana.md`. Rules live in `../style-anchor.md`. This sheet holds the prompts.
 
-Anchors show the person; plates show the moment (style-anchor, s33). This study is legal even though a portrait PLATE of her is not — her sheet's hard rendering rule forbids a narrator verdict on her beauty, and a plate would deliver one.
+## CONSTRAINTS — a re-cut may not break these
 
----
+- **A portrait PLATE of her is illegal.** Her sheet's hard rendering rule forbids a narrator verdict on her beauty; a plate would deliver one. The ANCHOR is legal because anchors show the person. Her chapter plates arrive through THE RADIUS (what a room does) or through Kael's instruments failing.
+- **Her hands do nothing.** Kael's and Valeria's hands are load-bearing; her sheet has him looking for *where the hands go unoccupied* and getting nothing. Idle, holding nothing.
+- **The light must rake.** Her blue is *so dark it reads black until the light moves on it* — flat light makes it permanently black and kills the trick. She is the only anchor that requires directional light, and canon forces it.
+- **The generator's glamour bias is an ASSET here — the only character where it is.** Even so, describe construction and presentation rather than attractiveness: her beauty is *the kind that is also a uniform*, and it keeps a fourteen-year-old clean.
+- **Silver is warm and bright, never cold or ashen** — it must stay visibly distant from the drain-mark's pure quartz white (00).
+- **Hair loose by default.** The pinned construction is TOURNAMENT state: a Ch. 22 plate puts it up off the neck.
+- **THE PANELS DISAGREE ON AGE** — full figure reads late teens, face panel reads twelve or thirteen, and she currently reads younger than Kael when canon has her a year above him. Contained by the panel-job split. **Any plate carrying her and Kael together must state her age explicitly.**
+- **The face panel is softer than her sheet.** It lacks *the arrogance of someone who has never once been contradicted*; a plate of the Ch. 24 audience needs that half.
 
-## CANON EXTRACT (03/aeliana.md → STATIC → Appearance)
+## PROMPT — full figure (as issued; produced the base image)
 
-- **Unmatched, radiant, royal beauty.** The most beautiful person in the book, never in competition for it — the exception the plain cast exists to frame.
-- Not tall. 14, one year above Kael and Valeria.
-- **Long SILVER hair — Vessantine house trait, not a drain-mark** (00, s33). Loose by default; the tournament's pinned construction is scene state.
-- **Pale blue eyes** (s33).
-- Blue so dark it reads black until the light moves on it; gold at shoulder and hem in a quantity with no function except to be a quantity.
-- **Both halves are true at once:** genuinely radiant AND built from the ground up to be looked at by exactly that many people at exactly that distance. *The kind of beautiful that is also a uniform.*
+*Formal standing portrait study, single subject, three-quarter view, full body. A girl of roughly sixteen, adolescent proportions, not tall, slight of frame. No adult body, no elongation.*
 
-## WHAT THIS ANCHOR INVERTS, AND WHY
+*Pose: standing composed and completely still, facing forward, weight even. Her hands are entirely unoccupied — hanging at rest, holding nothing, doing nothing. Nothing about her is working.*
 
-- **Her hands do nothing.** Kael's and Valeria's hands are load-bearing; her sheet has him looking for *where the hands go unoccupied* and getting nothing. Idle hands are the canon detail that defeats him, so the anchor renders them at rest, holding nothing.
-- **The light must move.** Every other anchor uses flat overcast light. Her blue is *so dark it reads black until the light moves on it* — flat light makes it permanently black and kills the trick. She is the one figure that requires raking directional light, and canon forces it, not style.
-- **The generator's glamour bias is an ASSET here** — the only character where it is. But the prompt describes construction and presentation rather than attractiveness, which is truer to the sheet and keeps a fourteen-year-old clean.
+*Face: composed, cool, unreadable, unsmiling. The expression of someone who has never been contradicted and does not know that is unusual. Not warm, not inviting, not coy. Eyes rendered in dark value only, no iris colour.*
 
-## RULINGS CARRIED
+*Hair: worn up and entirely off the neck, in an elaborate constructed arrangement that clearly took several people a long time to build. Precise, formal, immaculate, ceremonial.*
 
-- **THE PALETTE TEST PASSED ON THIS IMAGE.** Greyscale wash plus the gown's blue and gold reads as unmistakably the same book as Kael and Valeria. **Scene plates get colour** — the restrained-palette approach is proven, not assumed.
-- **Silver spends no colour.** It is achromatic, so the gown and her eyes remain the only chroma. The eyes-only law survives intact.
-- **Expression ruled: radiant, not grim.** v1 came back severe because the prompt asked only for the cold half. Both halves are true at once — serene and luminous, and entirely unbothered by being looked at.
+*Dress: a formal court gown in a blue so dark it reads as black until the light catches it. Gold at the shoulder and along the hem — a conspicuous quantity of gold, purely ornamental, serving no function except to be a quantity. The garment is ceremonial and immaculate, and reads as something assembled by other people rather than chosen.*
 
-## READING-DISTANCE PANEL — ADOPTED (s33)
+*Lighting: directional raking light across the figure, so the dark blue of the gown catches and turns from black to blue where the light crosses it. This shift is the point of the image.*
 
-`../images/anchors/aeliana-14-face.png`. **The best eyes in the set.** Pale blue on pale skin under silver hair has nothing to push against, and the **limbal ring** is what keeps them from dissolving into the face. Silver reads warm rather than ashen — correctly distant from quartz-white.
+*Palette: the entire image is desaturated greyscale wash EXCEPT the gown — the dark blue and the gold are the only colour anywhere in the frame. Background, skin, hair and ground remain greyscale.*
 
-**PANEL JOBS (and this is how the age problem is contained):** the full figure owns the gown, the silhouette and the bearing; **this panel owns her face.** A plate takes each from its owner.
+*Medium: desaturated ink and wash on paper. Near-monochrome, deep blacks in the darks, grey washes, visible dry-brush texture and paper grain, broken irregular edges rather than clean linework.*
 
-**Age disagreement, logged not fixed:** the full figure reads late teens, this panel reads twelve or thirteen, and she currently reads YOUNGER than Kael's face panel when canon has her a year above him. Neither image is re-cut — the panel-job split makes it survivable — but **a plate carrying her and Kael together must be told her age explicitly.**
+*Background: empty pale ground, no horizon, no scenery, no throne, no crowd.*
 
-**Softer than her sheet.** This face is sweet and slightly wide-eyed; the sheet gives *the arrogance of someone who has never once been contradicted* alongside the radiance. Not blocking for a reference, but a plate of the audience scene (Ch. 24) needs the other half.
+*Negative prompt: smiling, coy expression, sensuality, adult body, elongated limbs, anime, manga, chibi, crown, tiara, jewellery beyond the gown's gold, saturation elsewhere in the frame, rim light, glow, bloom, particles, magic effects, background scenery, clean vector lines*
 
-## AUDIT — ONE FORWARD NOTE
+## PROMPT — silver, loose, radiant (edit; **produced the adopted full figure**)
 
-- **She reads older than fourteen, and older RELATIVE to the other two.** Kael and Valeria both come out young; she reads several years above them rather than one. Nothing on the page moves — but **the trio share a boat at the end of Book One**, and a group plate would show the gap wrong. Fix at the next cut if it matters there; harmless until then.
-- **Silver vs quartz-white:** this render sits on the warm side of white, which is correct — the two registers are *meant* to be adjacent and garbled by folk talk. The discipline lands on the other side: when a drained head is first drawn, it must be visibly colder and harder than this.
+The base image came back grim because the prompt above asked only for the cold half. Her sheet says both halves are true at once.
+
+*Same figure, same gown, same pose, same medium, same palette discipline — greyscale wash with colour only where noted.*
+
+*Three changes:*
+
+*Hair: long and worn LOOSE, falling past the shoulders — silver-fair, a pale luminous near-white silver that is warm and bright rather than cold or ashen. Not pinned, not braided, not styled up. Simply long, loose and immaculate.*
+
+*Eyes: pale blue irises, clearly legible.*
+
+*Expression: she is radiant, not grim. Serene, luminous, composed, entirely untroubled — the face of someone accustomed to being looked at by very large numbers of people and finding it unremarkable. Still unsmiling, still cool, but not severe, not sad, not stern.*
+
+*The only colour anywhere in the frame remains the gown's dark blue, its gold, and the pale blue of the eyes.*
+
+## PROMPT — face panel (author's, as run)
+
+The age line was **removed** to pass the content filter — and describing structure produced a younger result than naming a number would have.
+
+*Same image, same medium, same face, same hair, same greyscale-with-colour-only-in-the-eyes discipline.*
+
+*Now a close portrait: head and shoulders only, face filling most of the frame, three-quarter view, eye level.*
+
+*Her eyes are the focal point — pale luminous blue irises with a distinct dark limbal ring and a small dark pupil, vivid and unmistakable. They are the only colour anywhere in the frame; everything else stays greyscale wash.*
+
+*Long loose silver-fair hair, pale and luminous, warm rather than ashen.*
+
+*Softer jaw, rounder cheek.*
+
+*Expression serene, luminous, composed, unsmiling.*

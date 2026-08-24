@@ -25,11 +25,36 @@ Promoted to a rule after deciding the same question three times — Kael's blade
 
 Worked examples, all three ruled this way: Kael's two blades are *across his back in their wrap* on the day of Ch. 23 — the anchor shows the blades. Aeliana's hair is *up off the neck in a construction that took more than one person more than an hour* at the tournament — the anchor shows it long and loose, and **her Ch. 22 plate must put it up.** Her sheet's hard rendering rule forbids a narrator verdict on her beauty, which makes a portrait PLATE illegal and an anchor legal.
 
+## NEVER DESIGN THE COAT (s33)
+
+**THE COAT IS A METAPHOR.** Ch. 13 is titled for it and it is Kael's concealment persona — *he wore the coat over it, and none of it showed.* A literal coat also exists by Ch. 23, holding the knife off the belt. **A plate must never design the coat as a look**; literalising it flattens the book's central image. Kael's anchors correctly wear none.
+
+## ANCHORS ARE TIMESTAMPED (s33)
+
+An anchor is valid for a span of chapters and is **re-cut, never edited, when the body changes on the page** — scars accumulate as a record (03/appearance-ledger) and the old cut is kept. A plate uses the anchor valid at *its* chapter.
+
+## SILHOUETTE SEPARATION IS A PRODUCTION RULE (s33)
+
+02/dueling protects Kael's dual-blade silhouette as *distinct* from Valeria's. Both are thirteen, dark-haired and carrying two blades, so the separation is carried by everything else — and this is the worked method for any two characters who threaten to converge:
+
+| | Kael | Valeria |
+|---|---|---|
+| build | hides its training | reads as function even at rest |
+| stillness | invisible — trained not to move | **it warns** |
+| hair | short, ordinary | to the shoulders |
+| blades | bundled on the back | one in each hand |
+| cloth | undyed, light | dark |
+| provenance | out of a shed, unsold | eleven generations of service |
+
+**Tested at thumbnail size and it holds.** When two anchors threaten to converge, separate them on provenance and bearing before touching the face.
+
 ## THE COLOUR LAW — **AMENDED s33: COLOUR LIVES IN THE EYES**
 
 **Standing rule for character anchors: the plate is greyscale wash, and the eyes are the only place pigment appears.** Demonstrated on Valeria v2 — the green reads at full-figure scale, it is the sole colour in the frame, and it pulls the eye to the face.
 
 This mirrors what the prose already does. The book tracks eye colour obsessively and almost nothing else about a face: Kael's grey belonging to no one in the house, Wren's red resolving to the bloodline, Valeria's green worn plain and bored as display.
+
+**SILVER SPENDS NO COLOUR (s33).** Aeliana's silver hair is achromatic, so it costs nothing against the law — her gown and her eyes remain the only chroma in her frames. Applies to any near-white or grey the book adds.
 
 **CALIBRATION (s33): THE IRISES POP.** If the eyes carry the only colour in the book, they carry it loudly — vivid, saturated, unmistakable at reading distance and still legible at full-figure scale. A timid iris wastes the one place pigment is allowed.
 
@@ -46,14 +71,16 @@ This mirrors what the prose already does. The book tracks eye colour obsessively
 
 **SUPERSEDED (s33):** the original law read *near-monochrome by law, red reserved, never colour at eye-scale on a face except the bloodline*. It was over-derived. `03/appearance-ledger` says *no heightened palette* about **how the cast is described** — it does not say the world is colourless, and collapsing those two was an error.
 
-## THE SCENE PALETTE IS OPEN — decision deferred to the first scene plate
+## THE SCENE PALETTE — SETTLED (s33): RESTRAINED, NOT ABSENT
 
-The eyes-only rule is settled for **character anchors**. It does NOT settle **chapter plates**, and the difference is not academic:
+**The test passed on Aeliana's anchor.** Greyscale wash plus the gown's dark blue and gold reads as unmistakably the same book as Kael's and Valeria's anchors — same ink, same paper, same pale ground. **Scene plates get colour**, rationed and named explicitly in the prompt the way the medium is.
+
+This is why it mattered:
 
 - **Aeliana** is given as *blue so dark it reads black until the light moves on it; gold at shoulder and hem in a quantity with no function except to be a quantity.* The light moving on the blue is the whole trick. In greyscale she is a dark dress, and she is the exception the plainness exists to frame.
 - **Elarine's fire**, and *the sand beside her turned to glass*, have the same problem.
 
-Candidate for that decision when it arrives: a **restrained palette rather than an absent one** — sea grey, wet stone, undyed cloth, weathered timber, bone — so the loud things land because the surroundings are disciplined, not because everything else was deleted. Consistency risk is managed the way the medium is: name the palette with specific repeatable colour words in every prompt.
+**RULED: a restrained palette rather than an absent one** — sea grey, wet stone, undyed cloth, weathered timber, bone — so the loud things land because the surroundings are disciplined, not because everything else was deleted. Consistency risk is managed the way the medium is: name the palette with specific repeatable colour words in every prompt.
 
 ## COMPOSITION DOCTRINE (derived — 03/appearance-ledger rendering rule)
 

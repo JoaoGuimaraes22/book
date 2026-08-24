@@ -1,78 +1,58 @@
 # ANCHOR — VALERIA VEL, age 13 (valid Ch. 22 → current)
 
-**Status: ADOPTED, both panels.** Full figure `../images/anchors/valeria-13-v2.jpg` (owns kit, silhouette, bearing) · face `../images/anchors/valeria-13-face.png` (owns the face). **Previously:** v2 is the live cut — `../images/anchors/valeria-13-v2.jpg` (v1 kept at `valeria-13-v1.png`). Everything is settled except the visual-culture fork below, which is the only thing holding adoption.
+**ADOPTED.** full figure `../images/anchors/valeria-13-v2.jpg` · face `../images/anchors/valeria-13-face.png`
+(v1, before the green, kept at `../images/anchors/valeria-13-v1.png`.)
+**Panel jobs:** the full figure owns kit and silhouette; the face panel owns the face.
+Canon lives in `03/valeria.md`. Rules live in `../style-anchor.md`. This sheet holds the prompts.
 
-Anchors are timestamped reference studies, not plates. A plate uses the anchor valid at *its* chapter.
+## CONSTRAINTS — a re-cut may not break these
 
----
+- **The green is rendered in colour**, deep emerald, with a limbal ring. Her sheet spends it *at reading distance only*, so the face panel is the canon view.
+- **Her stillness WARNS — nothing like his.** In a close-up it lives entirely in the gaze: level, flat, appraising.
+- **She must stay distinct from Kael at thumbnail size** — separators table in `../style-anchor.md`. Separate on provenance and bearing, never on the face.
+- **Shade:** the adopted image came out pale sage against the sheet's *emerald*. Left as drawn — pushing saturation would make her eyes the loudest thing in the book.
+- **Island training kit, not Vel livery.** She has lived on the island a year. In Vel colours or at the capital she wears the imperial register (02/geography).
 
-## CANON EXTRACT (03/valeria.md → STATIC → Appearance; DYNAMIC → Body)
+## PROMPT — full figure (author's, as run)
 
-- Lean, strong, athletic — a working build that reads as function even at rest.
-- Black shoulder-length hair, no ornament.
-- **Emerald green eyes — colour spent at READING DISTANCE ONLY.** Worn plain and bored as display.
-- **Her stillness WARNS — nothing like his.** The single line that separates her silhouette from Kael's.
-- Knuckles older than her face; guard-lineage calluses.
-- Old white lines on the forearms and four new ones.
-- Twin blades, both hands full — the one-handed empire's heresy (02/dueling).
-- 13, Kael's age. Line of Vel: eleven generations serving the royal lineage.
+The author's structured-field format, which outperformed flowing prose and became the house template.
 
-## THE GREEN — AUTHOR RULED IT IN (s33), and the law changed with it
+*Standing figure study, single subject, three-quarter view, full body. A girl, roughly 15 years old, child proportions — large head relative to frame, unlengthened limbs, no adult body.*
 
-**Her irises are green on the plate.** v1's value-only rendering was my call and the author overruled it; v2 carries the colour.
+*Build: lean and wiry, visible functional muscle in the shoulders, forearms and thighs. Trained. Athletic without bulk.*
 
-It proved the better rule. The green reads even at full-figure scale, it is the only pigment in the frame, and it pulls the eye to her face. `style-anchor` now reads **COLOUR LIVES IN THE EYES** — greyscale wash, pigment in the irises only — which mirrors the prose, since eye colour is close to the only facial fact the book tracks.
+*Pose: standing still, feet under hips, weight settled evenly and low. Shoulders level and dropped. Spine straight without being braced. Chin level, gaze directly forward and flat, past the viewer rather than at them. Arms hanging relaxed at her sides. Nothing tensed, nothing slack — a body at rest that is one movement from not being at rest.*
 
-**Consequence for Kael, and it improves him:** his plates still keep the eyes shadowed, but that now reads as the one face in the book withholding colour, in a book where eyes are the only colour there is. A better reason than the one the anchor was written with.
+*Face: plain, still, unsmiling. Mouth closed and neutral. Expression is disinterest, not hostility. Eyes rendered in dark value only, no iris colour.*
 
-**Shade note:** v2 came out pale sage against the sheet's *emerald*. Left as drawn — pushing saturation would make her eyes the loudest thing in the book.
+*Hair: black, straight, to the shoulders, unstyled, no ornament.*
 
-## SILHOUETTE SEPARATION FROM KAEL (02/dueling: his dual-blade silhouette is *distinct and protected*)
+*Hands: a plain straight blade held low in each hand, points angled toward the ground, both arms down. Heavy calluses across the palms and finger joints. Knuckles thickened and worn. Faded pale scar lines along both forearms, a few of them fresher.*
 
-Both are 13, dark-haired, and carry two blades, so the separation must be carried by everything else. v1 achieves it:
+*Blades: matched pair, plain steel, no engraving, no crossguard decoration, well-maintained edges, plain wrapped grips. Utilitarian, of good make.*
 
-| | Kael | Valeria |
-|---|---|---|
-| build | hides its training | reads as function even at rest |
-| stillness | invisible — trained not to move | it warns |
-| hair | short, ordinary | black, to the shoulders |
-| blades | bundled on the back | one in each hand |
-| cloth | undyed, light | dark |
-| provenance | out of a shed, unsold | eleven generations of service |
+*Clothing: plain dark tunic and trousers, close-fitting, well-tailored, undyed or muted, no insignia, no armour, no belt hardware beyond function.*
 
-**Test result: PASSES at thumbnail size.**
+*Lighting: flat, even, overcast daylight. No cast shadow of note. Empty pale ground, no horizon, no background.*
 
----
+*Medium: desaturated ink and wash on paper. Near-monochrome, deep blacks in the darks, grey washes, visible dry-brush texture and paper grain, broken irregular edges rather than clean linework.*
 
-## READING-DISTANCE PANEL — ADOPTED (s33)
+*Negative prompt: colour, saturation, rim light, glow, bloom, lens flare, anime, manga, chibi, smiling, blushing, makeup, jewellery, cape, armour, heraldry, particles, sparks, magic effects, dynamic pose, fighting stance, adult body, elongated limbs, background scenery, clean vector lines*
 
-`../images/anchors/valeria-13-face.png`. **Canon-exact:** her sheet spends the green *at reading distance only*, so this panel is literally the view the book describes. Deep emerald, limbal ring, the only colour in the frame.
+## PROMPT — the green (edit; produced v2, the live full figure)
 
-**The best expression in the anchor set.** *Her stillness WARNS — nothing like his* is the one line separating her silhouette from Kael's, and in a close-up the only place it can live is the gaze. It lands: level, flat, appraising, looking at the viewer the way you look at a problem. Age agrees with her full figure — no drift to contain.
+*Same image, unchanged in every other respect — same face, same pose, same clothing, same ink-and-wash medium, same near-monochrome palette and paper grain.*
 
-## THE VISUAL CULTURE FORK — RULED (s33): OPTION 3, THE SPLIT
+*One change only: her irises are emerald green. The green is the only colour in the image; everything else stays desaturated greyscale wash.*
 
+## PROMPT — face panel (as issued; produced the adopted image)
 
+*Same image, same medium, same face, same hair, same greyscale-with-colour-only-in-the-eyes discipline.*
 
-Both anchors returned East Asian material culture unprompted — Kael in a wrapped sash with disc-guard fittings, Valeria in a cross-over gi with an obi-style belt and bound calves. The generator has a strong prior and it is winning against the prose.
+*Now a close portrait: head and shoulders only, face filling most of the frame, three-quarter view, eye level.*
 
-The doc system says otherwise. 02/naming: the noble/imperial register is **Latin-Byzantine** — Vessantine, Cassivara, and the -ANE house sound. 02/dueling arms the empire with longsword, rapier and spear, sold by paid fencing-masters.
+*Her eyes are the focal point — deep emerald green irises with a distinct dark limbal ring and a small dark pupil, vivid and unmistakable. They are the only colour anywhere in the frame; everything else stays greyscale wash.*
 
-**RULED: the island keeps its own material culture; the capital is Latin-Byzantine.** 02 already rules that a conquered city keeps its OWN tongue's name and that the empire does not rename what it takes, calling the survival of somebody else's name a small political fact. Dress carries the same fact.
+*Black hair to the shoulders, unstyled, no ornament.*
 
-**The evidence ruled it, not a preference.** Three anchors were generated with nothing steering material culture either way: Kael and Valeria came back East Asian, Aeliana came back Byzantine. The generator split the island from the capital unprompted, along exactly the seam 02 already believes in.
-
-**The objection that this would strand Valeria dissolves.** She is Line of Vel and should read imperial — but she has been resident on the island for a year, training on the old sea court, and her anchor shows her in **TRAINING KIT, not house livery.** No conflict, no re-cut. **Forward rule:** when Valeria appears in Vel colours or at the capital, she wears the imperial register, not the island's.
-
-**RECORDED BY DEFAULT, REVERSIBLE IN ONE EDIT.** The author did not rule this explicitly; it is written in because the plates had established a state the world files did not carry, and an undocumented state is the thing the doc system exists to prevent.
-
-## v1 AUDIT — MINOR (none blocking)
-
-- **Melancholy, not warning.** Her sheet gives *her stillness WARNS*; v1 reads closer to tired or sad. Sharpen on the next cut.
-- **The build is hidden** under the tunic; *reads as function even at rest* is not delivered.
-- **Freckles** — not in canon, harmless, but they become canon-by-precedent on adoption.
-- Passes: medium, age register, hair, plain unsmiling face, calluses and worn knuckles, forearm scar lines, matched maintained blades, eyes in value.
-
-## ITCH FOUND WHILE READING THE SHEET — FIX OWED IN 03
-
-`03/valeria.md` STATIC calls the microscopic flinch *unspent — banked*, while DYNAMIC records **THE FLINCH IS SPENT (Ch. 27)**. The DYNAMIC refresh landed; the STATIC parenthetical did not move with it. Stale spend-state in a STATIC block risks being read as live and spent twice.
+*Expression plain, still, unsmiling — disinterest rather than hostility. The gaze is direct, flat and appraising: she is looking at you the way you look at a problem.*
