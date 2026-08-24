@@ -207,7 +207,13 @@ collar edge, in dull umber and olive.
 
 ### Kael at four
 
-**NOT YET RUN.** Uses the **child AGE block** and **the HAIR line**. File as `images/portraits/kael-4.png`. **Ch. 1 canon:** *Kael lay in the loft with his hands behind his head, four years old, rich with certainty, waiting for the sea to freeze.*
+**ADOPTED:** `images/portraits/kael-4.png` — first run. Uses the **child AGE block** and **the HAIR line**. **Ch. 1 canon:** *Kael lay in the loft with his hands behind his head, four years old, rich with certainty, waiting for the sea to freeze.*
+
+**THE CHILD BLOCK WORKS, AND THE EYE-LINE LADDER IS CONFIRMED.** *Eyes BELOW the vertical midpoint of the head, not at it and not above it* did the whole job — large round cranium, the face set low in it, real fat in the cheeks, no jaw. **The ladder is now proven end to end: below the midpoint (child) · at it (adolescent) · above it (adult).** One line carries an age range of sixty years, and it is the only age instruction that has ever worked on its own.
+
+**AND THE BAN ON THE SYSTEM'S OWN KAEL HELD.** *NOT flat, NOT still, NOT level, NOT guarded* — he came back open, direct and wholly present, which no other Kael in this library is. Worth keeping in view as a general move: **when a character has a strong established default in the system, an image of them BEFORE that default has to name it and forbid it**, or the block inherits it silently.
+
+**The grey wins at child scale too** — large, pale and the lightest value in the frame, in a face where everything else is small.
 
 ```
 SUBJECT — cool pale parchment ground.
