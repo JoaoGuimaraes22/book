@@ -2,11 +2,13 @@
 
 Tinted wash character portraits. Tool: ChatGPT image generation — no negative prompts, describe what you want rather than what you don't.
 
-**How it works:** one fixed STYLE block, identical across every character, followed by a short SUBJECT block that changes. Generate unanchored — no reference image attached.
+**How it works:** a fixed STYLE block, then a per-character AGE block, then an optional HAIR line, then a short SUBJECT block. Generate unanchored — no reference image attached.
+
+**The three-part split is new at s34 and it was forced by a successful run.** The STYLE block was written as *identical across every character* and never actually was: the doc's own age note already told you to edit it for an older version of a character, and Aurelian's run needed an age paragraph written for a boy whose body is ahead of his face. **Age anatomy is per-character by nature — it is the one thing a shared block cannot carry.** So it is a block of its own now, and the fixed part is genuinely fixed.
 
 ---
 
-## STYLE block
+## STYLE block — fixed
 
 Paste verbatim, every time, for every character.
 
@@ -19,9 +21,8 @@ unpainted paper.
 Colour: restrained transparent washes laid over a dominant ink
 drawing. Muted, desaturated, earthy. The ink linework remains the
 strongest element; colour tints rather than fills. Large areas left
-as bare paper. Warm living skin, soft ochre in the mid-tones, most
-colour in the cheeks, nose and ears — the warmth belongs to the
-skin alone, not the paper or the cloth.
+as bare paper. Warm living skin, soft ochre in the mid-tones — the
+warmth belongs to the skin alone, not the paper or the cloth.
 
 Eyes: the focal point of the picture, framed by dark lashes and
 dark brows.
@@ -32,16 +33,57 @@ visible shoulder and collar anchoring the lower frame.
 
 Lighting: soft directional light, gentle shadow beneath the
 cheekbone and along the jaw, most of the face held in light values.
+```
 
+**CUT AT s34, and it stays cut:** the colour paragraph used to end `soft ochre in the mid-tones, most colour in the cheeks, nose and ears`. The ears ran hot from the first run and it was logged as a nuisance; Aurelian made it a fault. **A hot cheek competes with the eye**, which is fatal to a warm eye (his amber) and expensive for a dark one (Elarine's near-black). Cutting it is what let the amber win, and no character has ever needed it.
+
+## AGE block — per character
+
+Paste one, under the STYLE block. This is where the age lives; **age words in the SUBJECT block alone get ignored, and always have.**
+
+**Aurelian — the body ahead of the face** *(the version that ran)*:
+
+```
+Age: eyes set at the vertical midpoint of the head. Fifteen — the
+body is ahead of the face. Jaw softly defined but not sharp, cheeks
+still full and unhollowed beneath the cheekbone, chin small, skin
+smooth with no hardness anywhere in it. Adolescent face on a frame
+that has outgrown it.
+```
+
+**Elarine — small, and nothing caught up yet:**
+
+```
+Age: eyes set at the vertical midpoint of the head. Fifteen, and
+small for it. Jaw softly defined but not sharp, cheeks still full
+and unhollowed beneath the cheekbone, chin small, neck slender,
+skin smooth with no hardness anywhere in it. A small unfinished
+frame; nothing about her has caught up with her yet except the
+eyes.
+```
+
+**The original, still correct for Kael, Valeria and Aeliana:**
+
+```
 Age: eyes set at the vertical midpoint of the head, jaw softly
 defined but not sharp, some remaining fullness in the cheeks.
 Adolescent, not grown.
+```
 
+For an older version of a character, rewrite this block — do not just change the SUBJECT age line, and drop `Adolescent, not grown` plus the cheek fullness or they will fight the older read.
+
+## HAIR line — optional
+
+```
 Hair: irregular clumps and locks of varying thickness, uneven
 edges, naturally settled rather than combed.
 ```
 
+**Include it for loose or unkempt hair** — Kael's hacked crop, Valeria's and Aeliana's loose lengths. **Omit it for any groomed or bound head**: it fights `groomed, not tousled` (Aurelian) and `bound tight at the nape, not one strand loose` (Elarine), and the SUBJECT block loses.
+
 ## SUBJECT block — template
+
+The age words here do almost nothing on their own — **the AGE block above is what carries it.** Keep the identity line anyway; it sets station and sex.
 
 ```
 SUBJECT — [cool pale / warm aged] parchment ground.
@@ -127,6 +169,8 @@ no plate, no metalwork of any kind.
 
 ### Aurelian
 
+**ADOPTED:** `images/aurelian-14.png`. Uses the **Aurelian AGE block** and **no HAIR line**.
+
 ```
 SUBJECT — cool pale parchment ground.
 A fifteen-year-old boy of a great house.
@@ -136,14 +180,15 @@ around the eye stays pale and cool-shadowed so the amber does not
 merge into the warmth of the face; the eye is the one warm
 saturated point in the picture and the cheeks stay quieter than it.
 Dark-gold hair, thick and heavy, well cut and well kept, pushed
-back off the forehead.
-Clear well-fed skin with sun on it from working outdoors — no
+back off the forehead — groomed, not tousled.
+Clear well-fed skin with sun on it from riding and hunting — no
 weathering, no chapping, no grime, no freckles.
 Broader through the shoulders and longer in the limb than the age
 would give, the frame already settling toward a man's — a boy built
-a year ahead of himself. Neck already thicker than a boy's.
-Strong even bone structure, straight nose, a broad jaw still soft
-at the edge.
+a year ahead of himself.
+Strong even bone structure, straight nose. The jaw broad but not
+yet set, the cheek still soft, the face several years behind the
+shoulders.
 Expression open, easy and pleasant, mouth closed with a faint
 readiness to smile at one corner, chin carried high, gaze direct
 and entirely unguarded — the face of someone who has never once
@@ -155,7 +200,13 @@ insignia, no chain, no badge — the quality is in the cut and the
 cloth.
 ```
 
+**CANON NOTE — *riding and hunting* IS A RENDERING STEER, NOT CANON.** It is the phrase that bought the well-fed nobleman's colouring instead of a labourer's, and it earned its place in the block. **It is true of nobody in `03`:** Aurelian's sun comes off the yard, four days a week, on purpose, taking bruises from a seventeen-year-old spear. **Do not let it migrate into `03` or onto a page** — it is a prompt-side lever and it stays inside this file. If a future run wants the sheet's own version, *sun on it from training outdoors every day by choice* is the swap to try.
+
+**WHAT THE RUN PROVED.** The amber fence works — the eyes are the one saturated point and they win a picture with a lot of warm hair in it — but **it works because the cheeks were demoted in two places at once**, the fixed block's cheek clause cut and the SUBJECT's `the cheeks stay quieter than it` added. Do not remove either half and expect the other to hold. **The two-sentence facial structure also outperformed one clause:** *Strong even bone structure, straight nose.* then the age sentence separately. Bone and age fight if they share a sentence.
+
 ### Elarine
+
+**NOT YET RUN.** Uses the **Elarine AGE block** and **no HAIR line** — bound-severe hair and `naturally settled rather than combed` cannot both win. Revised off Aurelian's run: the facial structure split into two sentences, and the cheek guard kept even though the fixed block's cheek clause is now cut, because her flush is a tell and must not be spent here.
 
 ```
 SUBJECT — cool pale parchment ground.
@@ -163,15 +214,19 @@ A fifteen-year-old girl of a great house.
 Eyes very dark brown, near black — the DARKEST VALUE in the
 picture, not the most saturated. The only place in the image where
 the ink goes fully solid: two small absolute darks in a face made
-otherwise of pale washes. Small, steady, precisely drawn.
+otherwise of pale washes. Small, steady, precisely drawn, and the
+darkest thing in the frame by a clear margin.
 Ink-dark hair, a flat neutral black with no blue in it, drawn back
 severely off the face and bound tight at the nape, not one strand
 loose, the whole mass smooth and close to the skull.
-Pale untouched indoor skin, clear and unmarked, no freckles; the
-skin's warmth low and even across the whole face.
+Pale untouched indoor skin, clear and unmarked, no freckles. The
+skin's warmth stays low and even across the whole face; no high
+colour in the cheeks.
 Small and finely built — narrow shoulders, a small head, a slender
-neck, a small face with fine economical features, nothing
-exaggerated anywhere.
+neck.
+Fine economical features, nothing exaggerated anywhere. The face
+small and still unfinished, the cheek soft, nothing about her yet
+grown into itself.
 Expression: attention fully engaged and giving nothing back. Eyes
 level and fixed on the viewer, mouth closed and still, brows
 unmoved. She is in the middle of working something out and has
@@ -192,7 +247,7 @@ nothing on her that does not work.
 - **Lightest value** — Kael's near-white grey, which is almost colourless and cannot win on saturation at all.
 - **Darkest value** — Elarine's near-black, which can win on neither: it is the one place the ink goes fully solid in a picture made of tints.
 
-**Amber is the fragile one.** A warm eye sits in a face the STYLE block has already made warm, which is the same disappearance that eats Kael's grime. Aurelian's block therefore fences the eye specifically — `the skin immediately around the eye stays pale and cool-shadowed` — and demotes the cheeks so the eye is the only warm saturated point. Check that first if his portrait comes back flat.
+**Amber is the fragile one.** A warm eye sits in a face the STYLE block has already made warm, which is the same disappearance that eats Kael's grime. Aurelian's block therefore fences the eye specifically — `the skin immediately around the eye stays pale and cool-shadowed` — and demotes the cheeks so the eye is the only warm saturated point. Check that first if his portrait comes back flat. **CONFIRMED s34:** the fence held and the amber won a frame carrying a great deal of warm hair. It needed BOTH halves — the fixed block's cheek clause cut, and the SUBJECT's `the cheeks stay quieter than it` added.
 
 **Ground temperature is per-character.** Kael, Valeria and Elarine cool, Aeliana warm. Hers went warm because pale silver hair needs something to sit against; it stays **the one deliberate inconsistency in the set**. Aurelian was the test of that and stayed cool: dark-gold hair does not need a ground to sit against, and his warmth belongs in the skin and the hair, where the STYLE block already localises it. Warm ground remains Aeliana's alone and means something because it is.
 
@@ -221,7 +276,7 @@ Use an **anchor** only when continuity within a specific image matters — multi
 - **Run-to-run variance is real.** One Valeria run came back watery — flat washes, sparse linework — and the identical prompt on the next run was correct. Rerun before changing anything. If it persists, add `dense scratchy ink hatching throughout, ink dominant over wash in the clothing and hair`.
 - **"Plain" and "not handsome" don't work.** The attractiveness prior overrides them. Dirt, weathering, hacked hair and frayed clothing do the job instead. Off-centre features described as present things (*a nose broken once and set slightly crooked*) survive where absences of beauty don't.
 - **Negations fix gaze drift.** The default pull is toward a wistful upward gaze. `Not vulnerable, not wistful, not searching` corrected it in one pass where positive description alone kept failing.
-- **Ears run hot.** `Most colour in the cheeks, nose and ears` is taken fairly literally and ears come out pink. Drop `and ears` if it bothers you.
+- ~~**Ears run hot.**~~ **SUPERSEDED s34 — the whole clause is cut.** `Most colour in the cheeks, nose and ears` was taken literally and the ears came out pink, which was a nuisance; the real fault was the *cheeks*. High cheek colour competes with the eye for the one saturated point the picture is allowed — fatal to a warm eye, expensive for a dark one. Cut from the fixed block. Ears still warm slightly without it, and that is fine.
 - **Edit passes cost texture.** Two maximum. Granulation softens and the palette warms with each one. If a third is needed, regenerate with the change written into the SUBJECT block instead.
 - **Traits propagate silently.** Freckles once ended up on all three characters because the line got copied between prompts. Same risk with expression — identical affect across a cast flattens them. Decide per character.
 
