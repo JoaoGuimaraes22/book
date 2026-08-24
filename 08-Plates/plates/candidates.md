@@ -27,7 +27,7 @@ Every entry was checked against **THE PLATE FOLLOWS THE PAGE** when it was writt
 
 ## Ch. 2 — Part of the Mountain
 
-1. ★ **The long game.** One wide picture with three things in it: the boy at the foot of the fence post, knees to chest, hands quiet; the boat on the water with its oars folded up like a beetle's legs; and — hardest to find, which is the point — the shape by the woodpile that the eye slides off. The reader should have to look twice for the father. Distance solves the eyes entirely.
+1. ★ **The long game.** — **BUILT AND ADOPTED (s37): `images/plates/ch02-long-game.png`; sheet `ch02.md`. The father was cut from it by author ruling; the woodpile stands empty instead.** One wide picture with three things in it: the boy at the foot of the fence post, knees to chest, hands quiet; the boat on the water with its oars folded up like a beetle's legs; and — hardest to find, which is the point — the shape by the woodpile that the eye slides off. The reader should have to look twice for the father. Distance solves the eyes entirely.
 2. **The doorframe.** Neris in the door, one hand up on the frame, the knuckles pale. She has been there some part of the afternoon. From the door you can see the pens, the woodpile and the sea. Her hands are where the book keeps her, and this is the first time they give her away.
 3. **Done.** Dusk, the first bat out and stitching over the pens; a boy getting up in pieces the way the newborn goats get up, and a man standing close enough to catch him and not catching him.
 
