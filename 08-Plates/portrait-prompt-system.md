@@ -209,7 +209,7 @@ reference shows head and shoulders only.
 
 ## Kael — full figure
 
-**NOT YET GENERATED.** Two canon items are owed before it runs; see the audit note below.
+**ADOPTED:** `images/kael-14-full.png` — generated in the VILLAGE register (frayed grey tunic, belt, wrapped calves, worn boots), which resolves audit item 2 below in favour of the page. **Audit item 1 STANDS AND NOW COMPOUNDS: he carries no weapons**, and the scene system attaches the full-body sheet to every scene, so every scene inherits a weaponless Kael.
 
 ```
 Image 1: reference portrait of Kael — pale grey eyes, dark uneven
