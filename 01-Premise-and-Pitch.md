@@ -1,6 +1,6 @@
 # 01 — Premise & Pitch
 **Working Title:** TBD
-**Status:** Foundation document — rarely changes. Last updated: 2026-08-20, session 12 (POV section amended — single POV now default-not-absolute; strict information rule scoped; full doctrine in 06 §POV). Prior: 2026-08-09.
+**Status:** Foundation document — rarely changes; `git log` dates it. Full POV doctrine: 06 §POV.
 
 ## Logline
 

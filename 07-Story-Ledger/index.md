@@ -1,22 +1,19 @@
 # 07 — Story Ledger (index)
-**Status:** THE LAW of the story — do-not-contradict canon. Pure TOC, no facts. "Read 07" = read every file in this folder. Changes only when canon changes (a chapter commits, a rule is ratified). Live session state: 05. Session history: ../archive/session-log.md. Changelog: ./changelog.md
+**Status:** THE LAW of the story — do-not-contradict canon. Pure TOC, no facts. Changes only when canon changes. Live state: `../05-Continuity-Log.md` · history: `../archive/session-log.md` · changelog: `./changelog.md` (written only when a change's reason will not survive in the file it changed).
 
-**Split axis = growth behaviour** (session-18 addendum 6). The LAW CORE is stable and asymptotic — read it in full, every session. The two ACCUMULATORS grow with every chapter (~728w and ~157w per chapter) and carry the eviction rule 07 previously lacked:
+## LAW CORE — read at every session open
+- [timeline.md](timeline.md) — part/age structure and every age pinned on the page.
+- [standing-rules.md](standing-rules.md) — author-ratified story-side state: what is spent, fixed, or may not be contradicted.
+- [magic-snapshot.md](magic-snapshot.md) — canon snapshot; deep layer in 00, public layer in 02.
+- [open-threads.md](open-threads.md) — end-of-Book-One state of the live threads.
+- [established-facts.md](established-facts.md) — facts no single chapter owns; names in use, blocked and available.
 
-- **PER-BOOK ROLL (standing rule):** at each book boundary the accumulators roll to `chapter-records-book-N.md` / `protected-phrasings-book-N.md` and leave the every-session read. The law core never moves.
-- **NO WORD COUNTS HERE.** `wc -w 07-Story-Ledger/*.md` prints them. One fact, one home.
-- **TIERING (cold read):** skip a chapter's entry in `chapter-records.md` when that chapter is being read in full from `manuscript/` — the record exists to substitute for the chapter, not to double it.
+## DESIGN-TIME — read when designing a chapter, not at every open
+- [planted-clues.md](planted-clues.md) — the clue ledger: what was planted, where, and what it is owed. `scripts/clues.sh <keyword>` answers what a target owes; read it whole only at a Part boundary.
 
----
+## ACCUMULATORS
+- [chapter-records.md](chapter-records.md) — one canonical record per committed chapter of the CURRENT PART (summary + FACTS tail). Read at every open, skipping chapters read in full from `manuscript/`. **Per-Part roll:** when a Part closes, its records move to the parts file.
+- [chapter-records-parts-1-3.md](chapter-records-parts-1-3.md) — Ch. 1–22. Spot-read on demand; continuity for these chapters is carried by the law core, the 03 sheets and the clue ledger.
+- [protected-phrasings.md](protected-phrasings.md) — on-page coined phrasing; parsed by `scripts/check-echoes.sh`. **Not cold-read** — run the script on every new or revised chapter instead.
 
-## LAW CORE — read in full every session
-- [timeline.md](timeline.md) — Planned part/age structure and every age pinned on the page.
-- [standing-rules.md](standing-rules.md) — Author-ratified rules that govern how the prose is written.
-- [planted-clues.md](planted-clues.md) — The clue ledger: what was planted, where, and what it is owed.
-- [magic-snapshot.md](magic-snapshot.md) — Canon snapshot; deep layer in 00, public layer in 02.
-- [open-threads.md](open-threads.md) — End-of-Book-One state of the live threads.
-- [established-facts.md](established-facts.md) — Do-not-contradict facts that no single chapter owns.
-
-## ACCUMULATORS — per-book roll; tierable
-- [chapter-records.md](chapter-records.md) — One canonical record per committed chapter (summary + FACTS tail). Rolls per book.
-- [protected-phrasings.md](protected-phrasings.md) — On-page canon phrasing. Parsed by scripts/check-echoes.sh. Rolls per book. 
+Per-book roll: at the book boundary the accumulators roll to `*-book-N.md`; the law core never moves. No word counts here — `wc -w` prints them.
