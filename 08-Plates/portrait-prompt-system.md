@@ -65,18 +65,21 @@ eyes.
 **Vask — grown and worn down** *(the adolescent anatomy has to go entirely, not be softened)*:
 
 ```
-Age: a man of about forty who reads older than that. Eyes set
-slightly above the vertical midpoint of the head. The jaw fully
-set and hard at the edge, no fullness anywhere in the cheek, a
-deep hollow beneath the cheekbone, the temple a little sunken.
-Deep lines cut from the nose to the mouth and at the outer corners
-of the eyes, the forehead scored across. Skin thickened and
-coarsened, weathered past its years. Neck thick, the tendons
-standing. Nothing soft left anywhere in the face. Heavily worn,
-and nothing has been taken out of him — the body still entirely
-sound, the strength all still there. Not elderly, not frail, not
-diminished, not ill. And nothing on display: a man who has worked
-outdoors for forty years, and no more than that.
+Age: a man of about forty, and he must read forty — not fifty and
+not sixty. Eyes set slightly above the vertical midpoint of the
+head. The jaw fully set and hard at the edge, no fullness anywhere
+in the cheek, a shallow hollow beneath the cheekbone. Lines cut
+from the nose to the mouth and at the outer corners of the eyes,
+and nowhere else: no scoring across the forehead, no sunken
+temple, no loosening or sagging anywhere in the skin. THE WEAR ON
+HIM IS WEATHER, NOT AGE — sun and wind and salt worked hard into
+the surface of a face whose structure underneath is still young
+and hard. Neck thick, the tendons standing. Nothing soft left
+anywhere in him. Heavily weathered, and nothing has been taken out
+of him — the body sound, the strength all still there. Not
+elderly, not frail, not diminished, not ill. And nothing on
+display: a man who has worked outdoors for twenty-five years, and
+no more than that.
 ```
 
 **Neris — grown, and the age is in the eyes:**
@@ -304,11 +307,13 @@ white anywhere in it. The grey lives in that openness — scattered
 pale strands and bare paper among the dark, thickest at the
 temples, salt through iron. Never a streak, never a seam, never a
 blaze or band or shape of white anywhere in the hair.
-Iron-dark hair cut short and plain by somebody who was not being
-careful.
-Weathered far past his years — wind, sun and salt worked deep into
-the skin, coarsened and thickened, the pores open, the whole face
-used.
+Iron-dark hair of MEDIUM LENGTH — long enough to cover the ears
+and reach the jaw, roughly cut a long time ago by somebody who was
+not being careful and grown out since. Falling where it falls,
+pushed back off the forehead.
+Weathered hard — wind, sun and salt worked deep into the skin, the
+whole face used. The weathering is on the surface and the face
+under it is not old.
 Broad through the shoulders and no further: heavy across the top
 of the back and the neck, nothing wasted below it, an economy
 rather than a bulk.
@@ -322,7 +327,17 @@ the base of the throat, much mended, in dull grey-brown and dead
 olive. No ornament, no buckle, no badge.
 ```
 
-**REVISED s34, BEFORE ITS FIRST RUN, off what Neris's run taught.** Two changes, both load-bearing.
+**REVISED TWICE — before the first run off Neris's findings, and after it off its own.**
+
+**WHAT RUN 1 PROVED, and the first item is the important one.** **The hair-demotion paragraph killed the drain-mark by construction.** No streak, no seam, no shape of white anywhere — the grey arrived as scattered pale strands in an open mass, exactly as specified. **Forbidding the shape had failed to be reliable; removing the material the shape is made of worked.** Also confirmed: **darkest value works on him** (the eyes are the darkest thing and the sharpest step), and the empty expression landed — *nothing in them that was anything*, without tipping into menace.
+
+**WHAT RUN 1 GOT WRONG — HE CAME BACK FIFTY-FIVE, AND THE FIX IS A DISTINCTION.** `03` says *a face like used tools, weathered past its years*, and the block turned that into structural age: sunken temple, scored forehead, coarsened thickened skin. **Those are what read as decades. WEATHER AND AGE ARE DIFFERENT THINGS AND THE BLOCK MUST SAY SO** — weather is what sun and wind do to the *surface*, age is what time does to the *structure*. Vask is heavy on the first and light on the second, and the revised block says it in as many words: *the wear on him is WEATHER, not AGE — sun and wind and salt worked hard into the surface of a face whose structure underneath is still young and hard.* **This is the general lever for anybody the book wants weathered but not old**, and it is the third form of the age counterweight: Neris forbids youth, Vask forbids depletion, and now Vask also forbids age-as-structure while keeping every bit of the weather.
+
+**HAIR: MEDIUM LENGTH (author ruling, s34), and it was free** — Vask's hair length appears on no page and in no sheet. It also separates him from his son, whose crop is *hacked short and uneven by hand*.
+
+**UNRULED AND ADOPTED BY DEFAULT: he has stubble.** The block says nothing about facial hair and run 1 supplied it. Kael's block says *no facial hair* explicitly; Vask's says nothing, so this is a decision the tool made and nobody has ratified. Rule it or leave it, but know it is not canon.
+
+**AND THE PRE-RUN REVISION, off what Neris's run taught.** Two changes, both load-bearing.
 
 **(1) THE HAIR-DEMOTION PARAGRAPH DOES TWO JOBS HERE AT ONCE.** It was found on Neris as the enforcement half of the local-contrast mechanism — demote the rival dark mass, then site the sharpest step inside the iris. On Vask it also **makes the drain-mark impossible by construction:** hair rendered as fine ink strands and open washes with bare paper through it, with *no hard-edged white* and *never a shape*, **cannot resolve into a seam.** A solid mass can carry a streak; an open one cannot. This is a better fence than the negation alone, because it removes the material the error would be made of.
 
