@@ -973,3 +973,21 @@ The author stated the principle plainly — *if it isn't on the manuscripts, it 
 **THE STRUCTURAL LESSON OF THE DAY.** The prompts are written in a separate tool that **cannot see 00, 02 or 03**. Every canon error of the session came from that one blind spot and none from craft: pale blonde when silver had been ruled that morning, a pauldron on a girl the book calls *a symbol learning to boil water*, hair against a sheet, a single longsword on the girl whose entire martial identity is the twin-blade heresy, a collar insignia against a clue banked for the fire. The division of labour is sound — that side does style, this side does canon compliance — but it needs an instrument. **A CANON BRIEF IS OWED:** a short paste-able per-character sheet of the appearance facts that may not be violated.
 
 **OWED INTO SESSION 34.** Kael's full figure (prompt written, audit attached — he carries no weapons, and his two references disagree on clothing in a way that quietly literalises THE COAT). The canon brief. And, still, **the 00 EVICTION PASS**, owed since s32 and untouched.
+
+
+## 00 EVICTION PASS — dead superseded blocks (cut VERBATIM at the s33 close)
+
+*Append-only was dropped at s32: wrong lines are corrected and dead lines are cut, with git as the update history. These two carried only supersession bookkeeping; the canon that replaced them lives in 00 §THE UNLEASHING GATE.*
+
+- **[SUPERSEDED s20 → §THE UNLEASHING GATE]** Protects the reserved true unleashing (the fire remains the leading candidate: there he will be past panic, into something else). *The absorbed-state rule itself STANDS and is the gate's first term; only the fire-as-candidate clause is dead.*
+- **[SUPERSEDED s20 → §THE UNLEASHING GATE]** **The true unleashing: RESERVED — much later in Book One.** Leading candidate: THE FIRE. Logged, undecided: it is also a tempting answer to the open recognition-vector valve at the tournament (devil-eyes before hundreds) — but this reshapes the flight's chemistry; decide in a dedicated session. Kael does not learn what it was for a long time; the NAME "Kynemir" possibly not until Book Two+.
+
+### SESSION 33 ADDENDUM — the canon brief, and 00's first eviction pass (same day, post-close)
+
+**`08-Plates/canon-brief.md`.** A paste-able per-character sheet of the appearance facts that may not be violated, written because the prompts are authored in a tool that cannot see 00, 02 or 03 — the single blind spot that produced every canon error of the session and none of the craft ones.
+
+**THE 00 EVICTION PASS — RUN, and it is the file's first.** Owed since s32, when the author narrowed 00's test to truths and things to hit and dropped append-only. **Seven PURE-staging bullets moved VERBATIM to `06`:** the Sanctum's bible-only rule · Severin's fern flex · the *Mine as well* protection · the chest's on-page discipline · the Ch. 4 *unsheathed* pre-echo · the father's throw staged under the paternity rule · Severin's atonement left unremarked. **Two dead `[SUPERSEDED s20]` blocks and the append-only parenthetical CUT to the archive**, per the ruling that dead lines are cut and git is the update history; one live clause inside the second block was preserved rather than travelling with it. **A constraint recorded as a constraint STAYS** — every *DO NOT RESOLVE* and open valve untouched, since 00's own test admits them.
+
+**ZERO-LOSS VERIFIED, NOT ASSERTED:** 261 old non-empty lines checked against the new 00 plus 06 plus the archive; **2 differences, both intentional** — the OWED note, replaced by a DONE pin naming exactly what left and where, and the append-only parenthetical whose host line otherwise survives verbatim. 00: 10,508 → 10,201w, baseline fed.
+
+**WHAT WAS DELIBERATELY NOT DONE, and why.** Bullets that weld a TRUTH to a staging clause inside one sentence — §THE FIRE'S FLICKER, the pregnancy's on-page discipline, the knot's *do not rationalize* note, and the *never explain* clauses on Neris's eyes, her language pedagogy and her name. Splitting those means rewriting 00's prose, and 00 is author-ratified. **Also out of scope:** the `## SESSION N ADDITIONS` headers are append-only scaffolding, so the file is now half subject-organised and half session-organised; reorganising it by subject is a separate operation and a larger one.

@@ -5,7 +5,7 @@
 
 **APPEND-ONLY IS DROPPED (author ruling, s32).** The rule was worthless and counterproductive: it forced superseded lines to stay readable, which is exactly how three law-core files came to carry dead canon (s26). **00 is edited in place like every other file** — wrong lines are corrected, dead lines are cut, and `git log` is the update history. Nothing needs a `[SUPERSEDED]` tag any more; existing tags are historical and may be cleared as they are touched.
 
-**OWED, NOT YET DONE (s32):** 00 has never had an eviction path and has accumulated staging rules, ordering and do-not-resolve instructions that its own test now excludes. **A one-session eviction pass is owed** — verbatim, zero-loss, the s26 `protected-phrasings` operation — moving rules to 06, state to 07, and dead design notes to the archive. Until it runs, read anything instruction-shaped here as advisory, not binding.
+**EVICTION PASS — RUN (s33).** 00's first eviction. **To `06` §Staging rules evicted from 00, VERBATIM:** the Sanctum's bible-only rule · Severin's fern flex · the *Mine as well* protection · the chest's on-page discipline · the Ch. 4 *unsheathed* pre-echo · the father's throw staged under the paternity rule · Severin's atonement left unremarked. **To the archive, CUT:** two `[SUPERSEDED s20]` blocks and the append-only parenthetical — dead bookkeeping, replaced by §THE UNLEASHING GATE. **DELIBERATELY NOT TOUCHED, and owed to a session with the author:** bullets that weld a TRUTH to a staging clause in one sentence — §THE FIRE'S FLICKER, §ON-PAGE DISCIPLINE (the pregnancy), the knot's *do not rationalize* note, and the *never explain* clauses on Neris's eyes, her language pedagogy and the name. Splitting those rewrites 00's prose and is the author's call, not mine. **ALSO OUT OF SCOPE:** the `## SESSION N ADDITIONS` headers are append-only scaffolding and the file is now half subject-organised and half session-organised; reorganising it by subject is a separate operation. **A constraint recorded as a constraint STAYS** — every *DO NOT RESOLVE* and open valve is untouched.
 
 ## Vask's Lightning (sealed — decided session 7)
 - **VASK HAS LIGHTNING PROFICIENCY** — the program forged its instruments as educated soldier-mages (Doctrine of Cultivated Inheritance applies to instruments too). His magic is never shown in Part I–II early (concealment as resting state; the fire remains the only full answer).
@@ -34,7 +34,6 @@
 
 ## Kynemir — The Absorbed-State Rationale (sealed, session 5)
 - **The Kynemir surfacing is NOT a fear response. It surfaces from the ABSORBED state — calm, flow, the untying state — never from panic.** This is why the Ch. 4 knot (absorbed, mid-conversation, fingers believing) unleashed, and why the Ch. 6 beating (terror, collapse, spilling) did NOT — mortal fear finds nothing, because fear is precisely the state in which the blood is unreachable.
-- **[SUPERSEDED s20 → §THE UNLEASHING GATE]** Protects the reserved true unleashing (the fire remains the leading candidate: there he will be past panic, into something else). *The absorbed-state rule itself STANDS and is the gate's first term; only the fire-as-candidate clause is dead.*
 - Deepens the leash logic: Neris's small-lessons pedagogy targets exactly the absorbed state — she rations the very state in which the blood wakes. The curriculum's smallness is aimed at the mechanism itself.
 
 ## The Ending (series destination)
@@ -123,7 +122,7 @@
 - **The folklore split:** the populace knows the LEGEND, not the LINEAGE — "the eyes of the devil," known to bring great destruction and death wherever seen. Folk memory of historical Kynemir unleashings; the name and truth lost/suppressed. Seedable cheaply on-page (village talk, Temple ghost stories) long before it means anything.
 - **The knot (Ch. 4) = the first unleashing.** His first-ever act of magic surfaced the blood's raw primal form — kinetic — before any training had shaped him. HIS EYES REDDENED FOR A BREATH: seen by all three adults, unseeable by Kael (one cannot see one's own eyes), therefore POV-silent — the reader receives nothing. The room's stillness, the mother's flat hand, the master's undrunk cup, the drill-voiced argument that night: the true subject is THE BLOOD IS AWAKE. "He unties things" = the master naming the kinetic signature aloud while saying nothing of what he saw.
 - **Suppression by pedagogy:** Neris's control-first curriculum is also a LEASH — channeling Kael into the elemental frame so the kinetic never surfaces raw again. Control as concealment; she hides him from himself, out of love. (Rhymes with concealment-as-resting-state and the Doctrine.) **Ch. 5 enactment (SPENT, deniable):** her relief lands on his FAILURE days — a lesson that stays small is a lesson that never touches the blood; Kael misfiles it as "manners." Spent twice-as-once (the failure-day loosening; the hand-on-head at "the moon is lazy").
-- **[SUPERSEDED s20 → §THE UNLEASHING GATE]** **The true unleashing: RESERVED — much later in Book One.** Leading candidate: THE FIRE. Logged, undecided: it is also a tempting answer to the open recognition-vector valve at the tournament (devil-eyes before hundreds) — but this reshapes the flight's chemistry; decide in a dedicated session. Kael does not learn what it was for a long time; the NAME "Kynemir" possibly not until Book Two+.
+- Kael does not learn what the knot was for a long time; the NAME "Kynemir" possibly not until Book Two+.
 - **Requiem rhyme (sealed):** the saga's end — Kael deliberately becoming the final enemy of the world — is him CHOOSING to become what the world always said his eyes meant. The folklore becomes prophecy, fulfilled voluntarily, as the final act of love. No destiny; just a boy, a lie about his blood, and a decision.
 - **Wren** carries the Kynemir blood (through Neris). Series-long door: the brother's eyes.
 - Still TBD (deliberately, for later books): whatever else the bloodline grants beyond kinetic; why kinetic is feared as world-breaking; the bloodline's true origin.
@@ -165,7 +164,6 @@
 
 ### THE SANCTUM (the program's teaching academy — name SEALED, bible-only)
 - **"The Sanctum"** = the program's teaching arm: the academy that educated its assets and instruments — where Vask was forged and Neris was schooled. Cold, ecclesiastical; rhymes darkly with "the Temple" (the empire has two schools of the person, and Kael is the only child alive shaped by both).
-- **HARD RULE:** bible-level term ONLY. It never appears in Book One; the parents can never say it. Their version of magic and combat arrives on the page as METHOD, never as sourced doctrine (backstory is inherited, never told). The diaspora between the Temple's teaching and the mountain's is SHOWN (Ch. 9's two-schools-one-candle beat is its first on-page rendering); the word behind it lives here.
 - The program's own formal name remains reserved (decide with the naming system).
 
 ### THE GHOST-STORY DECISION (argued and sealed in principle, session 8)
@@ -215,11 +213,9 @@
 ### THE PROXIMITY LAW (sealed mechanism + page-facing rule, session 14)
 - Deep layer: infection spreads outward from one's own minima. **The farther from the body, and the more disconnected the target, the harder the infection takes.** Page-facing consequence: the Art is spent FROM the body — anywhere on it, not the hands specifically (lightning threading a whole body, flame off a shoulder: all legal); what matters is the body, not the limb. **REMOTE manifestation (fire bursting from the ground at a distance) is an ADVANCED ability.**
 - The technician's road around it (Kael, Ch. 11 duel — deniable deep-truth): a CONTINUOUS MEDIUM is a connection — the ground touching his boot touches her foot; a thread spent through his own heel runs along the packed dirt "the way sound runs along a beam." Understanding beats distance.
-- Retroactive quiet flex: Severin's fern (Ch. 10) was worked from his chair across the room — mastery on display for any reader who later holds this law. Never remark on it.
 
 ### THE PARENTS' PROFICIENCIES — REVEALED TO KAEL (ratified 2026-08-21, session 14)
 - **NERIS's elemental proficiency: AIR** (new canon; her Kynemir inheritance sits beneath it, unchanged — air is her declared/elemental art). **VASK: LIGHTNING** (sealed session 7) — now **revealed to Kael verbally on the declaration evening (Ch. 11)**, amending the session-7 staging (braid training with the father still comes later, Ch. 12+; the reveal moved up, the surfacing-in-training remains).
-- **STAGING RULE (protect):** Vask says only "Mine as well." — he NEVER claims blood inheritance in words; Kael, the Temple, and the world infer it. The false paternity floor is built without the father laying one false word — preserving the sealed rule that the eventual reveal lands as his monument, never his lie.
 - The reveal is itself the coordinated leash's masterstroke (unmarked): telling the boy "lightning, mine as well" on the night of his declaration cements the camouflage inside Kael himself, out of love. Rationing intact: one tool given whole, the hundred questions deferred ("You will not ask the next hundred questions tonight").
 
 ### KAEL — THE MANY-ELEMENT ROAD (direction, session 14)
@@ -230,15 +226,12 @@
 ### THE CHEST — CONTENTS SEALED
 - **The locked chest beneath the floorboards holds VASK'S OLD SWORD and NERIS'S OLD DAGGER** — the weapons of their service, from before the island. Not keepsakes: the tools of what they were. The chest is the single largest object of program archaeology in the house, and it sits under the floor of the one room the boy has lived in his whole life.
 - This completes two standing clauses rather than adding to them. 07 §Standing Rules already reads *"steel is banked — the Temple's, or the fire's"*; the chest IS the fire's steel. §KAEL'S ENDGAME KIT already reads *"Steel banked; wasters rule the present; the daggers arrive when the story earns them"*; the chest is how they arrive.
-- **On-page discipline:** the chest may be planted as a locked chest. Its CONTENTS stay sealed until the fire opens it. This is the purest instance of 06's rule that the parents' backstory is never told, only inherited — the archaeology object made literal.
 
 ### THE PARENTS UNSHEATHED — NOW LITERAL (beat 19)
 - At the raid the parents open the chest. "THE PARENTS UNSHEATHED" ceases to be a figure of speech: the chest opening is the visible signal that the at-capacity ceiling is off, and the reader will understand it before anyone says a word.
-- Ch. 4 pre-echoes the word: the mother's night-watch blade lies *"unsheathed"* across her knees. Deliberate; do not remark on it.
 
 ### THE FATHER'S THROW (sealed staging)
 - **In his last hour Vask throws his own sword to Kael.** This is how the steel passes — not a bequest, not a ceremony: a dying man arming his son.
-- **STAGING IS GOVERNED BY THE PATERNITY RULE (§THE PATERNITY, above): whenever the reveal lands, it must land as the LARGEST proof of Vask's fatherhood, never as its undoing.** The throw is that proof in object form — the man who is not the boy's blood hands him the weapon of the self he buried, in the last seconds he has. Every earlier Vask beat (the tally-marks, the carved wasters, the audit, the seed-bread, the carried-across-ice hand) points here. Stage it as the monument.
 - Neris's dagger travels a different road: she is extracted with the master and the newborn, and how her blade reaches Kael is OPEN.
 
 ### KAEL'S ARSENAL — THE SIGNATURE IS NOT THE WHOLE KIT (amends §KAEL'S ENDGAME KIT by expansion, not correction)
@@ -251,7 +244,7 @@
 ### THE UNLEASHING GATE (supersedes the fire candidate)
 - **The Kynemir unleashing requires BOTH: great will / focus / flow AND (magical CAPACITY *or* EXTREME CONTROL).** The absorbed-state rule (sealed session 5) is unchanged and is now the gate's first term: flow is necessary and insufficient; fear still finds nothing.
 - **Threshold, not switch — the bar scales with what is moved.** Ch. 4's knot cleared a nearly-free bar: exact address at a load-bearing lazy place costs almost nothing (deep layer), so a nine-year-old's control sufficed for one breath of red. Nothing since has been cheap enough. **AUTHOR NOTE: the knot scene stays strange. Do not rationalize it further on the page.**
-- **KAEL UNLOCKS IN BOOK TWO.** This SUPERSEDES §THE KYNEMIR BLOODLINE's *"The true unleashing: RESERVED — much later in Book One. Leading candidate: THE FIRE."* The fire is no longer the unleashing. (Append-only file: the superseded line stands above as history; this block governs.)
+- **KAEL UNLOCKS IN BOOK TWO.** This SUPERSEDES §THE KYNEMIR BLOODLINE's *"The true unleashing: RESERVED — much later in Book One. Leading candidate: THE FIRE."* The fire is no longer the unleashing.
 - **THE FIRE'S FLICKER (sealed staging).** At Vask's death, **Kael's eyes FLICKER.** Never truly shown; never made clear what happened. Kael cannot see his own eyes (rule stands), so it reaches the reader only by inference — the Ch. 4 knot's technique, at maximum stakes. Rendered as him passing THROUGH terror into the cold place, never as panic (absorbed-state rule preserved). **DO NOT RESOLVE.**
 - **CONSEQUENCE — the tournament devil-eyes answer is CLOSED.** This file logged "devil-eyes before hundreds" as a tempting solution to the open recognition-vector valve at the tournament. The valve itself stays OPEN; that candidate answer is dead.
 
@@ -285,7 +278,6 @@
 
 ### SEVERIN — THE ART *AND* THE MEDICINE (amends §SEVERIN — RESONANT, s14)
 - **Severin has nature resonance AND trained medical knowledge** — decades of read medicine, not merely the Art. Page canon (Ch. 19, Neris): the Art on its own is worth very little; a man who can push a bone toward mending and does not know which way the bone goes will push it the wrong way. **Nature is the Art of mending; the Art does what you understand.** The two halves in one head are why he is the only person on this island who can take this delivery.
-- Deepens the atonement doctrine without stating it: the old enforcer went and learned to mend. Never remark on it.
 
 ### BEAT 16 — THE ASK IS NOT *DO NOT ENTER* (refines s21's rescope)
 - The entry is sealed, and a boy written down under seal who does not appear is a question asked out loud in a room the family cannot see into. **So he competes.** The parents' plan, stated in front of Kael in Ch. 19 and never once asked of him: *he appears, he goes as far as he goes, and on the day the boat is ready they take him off that field and down to the water — whatever day it falls on, and whatever he is standing in the middle of.*
