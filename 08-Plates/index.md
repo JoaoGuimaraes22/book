@@ -8,7 +8,7 @@
 - `style-anchor.md` — medium, colour law, composition doctrine, generator countermeasures
 
 ## ANCHORS (reference images — reused as generation sources; timestamped)
-- `anchors/kael-13.md` — Kael, age 13, valid Ch. 22 → current
+- `anchors/kael-13.md` — Kael, age 13, valid Ch. 22 → current · **v1 ADOPTED** `images/anchors/kael-13.png`
 
 ## PLATES (one sheet per chapter plate)
 - *(none yet)*

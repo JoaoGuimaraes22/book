@@ -1,3 +1,4 @@
 # 08-Plates — changelog (hygiene record of what moved; not canon)
 
 - **s33** — folder created. Reader-facing chapter plates ratified by the author. `style-anchor.md` written from committed canon (03/appearance-ledger, 02/magic); first subject anchor cut for Kael at 13. Medium (ink and wash) proposed, author ratification owed. No images generated yet.
+- **s33** — Kael-13 anchor v1 generated and ADOPTED (`images/anchors/kael-13.png`). Author overruled the audit on all three findings: age, blades, burn placement — recorded with consequences in the anchor sheet. Audit's wrap objection withdrawn as wrong in kind (anchor is a reference study, not a scene). Coat question closed: the coat is a metaphor, never to be designed as a look. Two rulings OWED: the build amendment to 03/kael Appearance, and a 02/dueling line on Kael's blade register.
