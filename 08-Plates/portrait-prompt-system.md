@@ -292,7 +292,14 @@ nothing on her that does not work.
 
 ### Vask
 
-**ADOPTED-BUT-FLAGGED:** `images/vask.png` — run 2, which reads about forty-two against a block that now says **thirty-five**. Re-run owed; the image stands until then. **THE PARENTS ARE THE SAME AGE (author ruling, s34)** — a relative fact only; both remain *age unpinned* in `03` and their files stay bare-named. Uses the **Vask AGE block** and **the HAIR line**. No age suffix, per the unpinned-age rule. **The block below is the order that ran: the length line BEFORE the demotion paragraph**, which is the reverse of how it was drafted and is how it worked.
+**ADOPTED-BUT-FLAGGED:** `images/vask.png` — run 3. **The age is right at last** (thirty-five, matching Neris) and the hair length, eyes, expression and cloth are all right. **Two things are not, and both are the cost of the youth instruction winning:**
+
+1. **THERE IS NO VISIBLE GREY AT ALL, AND THE FENCE ATE IT.** Diagnosed, not guessed: the block aimed **five separate negations at light values in the hair** — *no hard-edged white*, *never a streak, never a seam, never a blaze or band or shape of white* — and the tool resolved the pile-up the cheapest way available, by putting **no light in the hair whatever.** Same overshoot as `no freckles`: a negation stack aimed at a feature suppresses the feature, not just its bad form. **The fix, now in the block, is one shape ban plus a positive COUNT:** *roughly one strand in six is grey, scattered evenly right through the mass and thickest at the temples, and the grey must be plainly visible at a glance. It is SCATTERED, never GATHERED — no streak, no seam, no patch.* Untested.
+2. **THE FACE IS NO LONGER *A FACE LIKE USED TOOLS*.** `03`'s phrase survived at forty and did not survive the trip to thirty-five; this reads as a weathered handsome man rather than a used one. **The weather/age split is still correct, but the weather itself came down with the age** and needs restating on its own, the same lesson as the grey.
+
+**Both are block bugs, not sheet bugs** — `03` is unchanged and right. Re-run owed; the image stands until then.
+
+**THE PARENTS ARE THE SAME AGE (author ruling, s34)** — a relative fact only; both remain *age unpinned* in `03` and their files stay bare-named. Uses the **Vask AGE block** and **the HAIR line**. No age suffix, per the unpinned-age rule. **The block below is the order that ran: the length line BEFORE the demotion paragraph**, which is the reverse of how it was drafted and is how it worked.
 
 ```
 SUBJECT — cool pale parchment ground.
@@ -308,11 +315,11 @@ The hair is dark but never a solid mass: rendered as fine ink
 strands and open transparent washes with bare paper left through
 it, soft wash-bled edges, no hard-edged black and no hard-edged
 white anywhere in it. The grey lives in that openness — scattered
-pale strands and bare paper among the dark, thickest at the
-temples, salt through iron. HE IS GREYING EARLY, ahead of his age,
-and it must be visible — a young man's face under a head that has
-already started to go. Never a streak, never a seam, never a blaze
-or band or shape of white anywhere in the hair.
+pale strands among the dark. HE IS GREYING EARLY, ahead of his
+age: roughly one strand in six is grey, scattered evenly right
+through the mass and thickest at the temples, and the grey must be
+plainly visible at a glance. It is SCATTERED, never GATHERED — no
+streak, no seam, no patch.
 Weathered hard — wind, sun and salt worked deep into the skin, the
 whole face used. The weathering is on the surface and the face
 under it is not old.
@@ -455,6 +462,7 @@ Use an **anchor** only when continuity within a specific image matters — multi
 - ~~**Ears run hot.**~~ **SUPERSEDED s34 — the whole clause is cut.** `Most colour in the cheeks, nose and ears` was taken literally and the ears came out pink, which was a nuisance; the real fault was the *cheeks*. High cheek colour competes with the eye for the one saturated point the picture is allowed — fatal to a warm eye, expensive for a dark one. Cut from the fixed block. Ears still warm slightly without it, and that is fine.
 - **Edit passes cost texture.** Two maximum. Granulation softens and the palette warms with each one. If a third is needed, regenerate with the change written into the SUBJECT block instead.
 - **Traits propagate silently.** Freckles once ended up on all three characters because the line got copied between prompts. Same risk with expression — identical affect across a cast flattens them. Decide per character.
+- **NEGATION STACKS OVERSHOOT — THE GENERAL FORM (s34, two independent cases).** Point several negations at one feature and the tool removes the feature rather than its bad form. `no freckles` did not suppress freckles; **five bans on white-in-the-hair suppressed Vask's grey entirely**, which is the opposite of what they were for. **The reliable shape is ONE ban on the bad form plus a POSITIVE quantity of the good one** — *one strand in six, scattered evenly, plainly visible at a glance; scattered, never gathered.* Ban the shape, count the thing.
 - **`no freckles` DOES NOT SUPPRESS FRECKLES — AND IT DOES NOT MATTER (author ruling, s34).** Elarine's prompt said `clear and unmarked, no freckles` and she came back freckled across the nose and cheek. **This is not trait contamination, it is the medium:** the fixed block asks for `pigment granulation`, the tool renders granulation on skin as speckling, and negating a trait cannot beat an instruction to granulate. **The ruling is to stop fighting it.** Granulation freckles are TEXTURE, not a mark — so **freckles do not distinguish anybody in this system**, and the `no freckles` lines in the blocks are advisory rather than load-bearing. Kael's and Aeliana's freckles are now sheet canon and stay in their blocks; they simply stop being a thing an image separates people by. *(Corrected s35: this line read* their sheet canon and their prose detail *and neither was true — freckles were in these two SUBJECT blocks and nowhere else in the doc system or the manuscript, so a block's invention had been cited back as the sheet's, which is the one thing this file's own binding rule forbids. Resolved in the sheets' favour at the author's word: `03/kael` and `03/aeliana` now carry them, unspent on any page.)* *(The lever exists if a future image ever truly needs bare skin — attack the rendering, not the trait: `skin rendered as a single flat unbroken wash — no speckling, no stippling, no granulation anywhere on the face`. Untested.)*
 
 ---
