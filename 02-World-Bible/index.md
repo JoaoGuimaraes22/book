@@ -1,9 +1,8 @@
 # 02 — World Bible (index)
-**Status:** New canon lands in its topic file at chapter commit. Changelog: ./changelog.md — written only when a change's reason will not survive in the file it changed; no per-session obligation.
+**Status:** New canon lands in its topic file at chapter commit. History: `git log` and `../archive/session-log.md`.
 
 ---
 
-- [Changelog](changelog.md)
 - [The Vessantine Empire · the Coalition · the Program](factions.md)
 - [The Bloodline (public layer)](bloodline.md)
 - [Magic (system canon)](magic.md)

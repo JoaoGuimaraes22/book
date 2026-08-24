@@ -1,5 +1,5 @@
 # 03 — Character Bible (index)
-**Status:** Sheet format: Glance / STATIC / DYNAMIC / FORWARD, appearance inline. Refresh DYNAMIC for every character a chapter touches, at each close. Changelog: ./changelog.md — **written only when a change's reason will not survive in the file it changed (s35); no per-session obligation.**
+**Status:** Sheet format: Glance / STATIC / DYNAMIC / FORWARD, appearance inline. Refresh DYNAMIC for every character a chapter touches, at each close. History: `git log` and `../archive/session-log.md`.
 
 **THE GLANCE CARRIES NO CHAPTER STAMP.** It states what is true now; nothing dates it. `git log` says whether a sheet is current.
 
@@ -8,7 +8,6 @@ Sheet structure (session 18 addendum): **Glance** line (Role · Faction · Age �
 
 ---
 
-- [Changelog](changelog.md)
 - [KAEL (protagonist)](kael.md)
 - [VALERIA VEL](valeria.md)
 - [VASK (the father)](vask.md)

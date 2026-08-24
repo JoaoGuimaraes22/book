@@ -18,14 +18,14 @@ Every file has a CONTRACT, an ADMISSION TEST and an EVICTION PATH; content that 
 - `manuscript/book-one/NN-Title.md` — the chapters.
 - `TOOLS.md` — the scripts and `nlm`.
 
-Not cold-read: `index.md` (TOC), `changelog.md` (written only when a change's reason will not survive in the file it changed), the archive, 08.
+Not cold-read: `index.md` (TOC), the archive, 08. There are no changelogs: `git log` and the session records carry what changed and why.
 
 ## Session
 
 **Open**
-1. `scripts/verify.sh` (clean tree; baselines) and `scripts/check-quotes.sh` (must read 0). Anything unexplained: stop and report before reading further.
+1. `scripts/verify.sh` — clean tree, baselines, and the phantom audit (0 quoted spans off the page). Anything unexplained: stop and report before reading further.
 2. Cold read — flag anything that itches BEFORE working; it is a free continuity audit.
-   - **Every session:** CLAUDE.md · 05 · 04 · 06 · 00 · 01 · every 02 topic file · every 03 sheet · the 07 law core · the last two chapters in full from `manuscript/` · `07/chapter-records.md`, skipping the chapters read in full.
+   - **Every session:** CLAUDE.md · 05 · 04 · 06 · 00 · 01 · every 02 topic file · every 03 sheet · the 07 law core · **when drafting:** the last two chapters in full from `manuscript/` (cadence is calibrated locally; no summary carries it) · **when revising:** the chapter in hand and its neighbours in full · `07/chapter-records.md`, skipping the chapters read in full.
    - **Design-time (a new chapter):** `scripts/clues.sh <keyword>` for what the target owes; `07/planted-clues.md` whole only at a Part boundary; spot-read any older chapter or record the design rhymes against.
    - **On demand:** `07/chapter-records-parts-1-3.md`, the archive, `TOOLS.md`, 08.
 3. The target is 05 §NEXT TARGET. Never improvise one unless asked.

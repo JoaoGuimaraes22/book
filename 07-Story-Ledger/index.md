@@ -1,5 +1,5 @@
 # 07 — Story Ledger (index)
-**Status:** THE LAW of the story — do-not-contradict canon. Pure TOC, no facts. Changes only when canon changes. Live state: `../05-Continuity-Log.md` · history: `../archive/session-log.md` · changelog: `./changelog.md` (written only when a change's reason will not survive in the file it changed).
+**Status:** THE LAW of the story — do-not-contradict canon. Pure TOC, no facts. Changes only when canon changes. Live state: `../05-Continuity-Log.md` · history: `../archive/session-log.md`.
 
 ## LAW CORE — read at every session open
 - [timeline.md](timeline.md) — part/age structure and every age pinned on the page.

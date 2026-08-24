@@ -1,7 +1,7 @@
 # Tools
 
 ## Repo scripts (`scripts/`)
-- `verify.sh` — session-open check: git tree clean + `wc -w` vs the canonical baselines in 05.
+- `verify.sh` — the one session-open command: git tree clean + `wc -w` vs the canonical baselines in 05 + the phantom audit (`check-quotes.sh` must report 0). Prints OK or FAILED.
 - `check-quotes.sh [minwords]` — **phantom audit.** Every double-quoted span in 02/03/04/05/07 is checked against the committed manuscript; it reports what is on no page. Tolerates one interruption per span, so split speech tags do not false-positive. A hit is a PHANTOM or text that should be unquoted (CLAUDE.md §THE LEDGER FOLLOWS THE PAGE). Detects only: confirm with `git log -S '<text>' -- manuscript/` before calling it a phantom — the line may have been cut from a chapter that once held it. **A phantom with an instruction built on it is a real bug**, because the instruction outlives the sentence — chase the rules, not the mismatches. Blind by construction to an invented fact that was never quoted (the hand-borne fans, s30; the freckles, s34).
 - `check-echoes.sh [files]` — protected-phrasing scan against `07/protected-phrasings.md`. With a draft: every protected phrase it contains (each must be deliberate). Without args: phrases appearing in more than one chapter. Detects only.
 - `clues.sh [-a] [term ...]` — design-time reader for `07/planted-clues.md`. No args: section counts plus every PLANNED and VALVE row. With terms (case-insensitive regexes): the rows whose payoff or handling match ANY term, each row printed once and tagged with the terms that hit it — so query several angles in one call (`clues.sh fire Vask Halden`) rather than one at a time. `-a` matches the whole row. This replaces reading the ledger whole at a session open.
