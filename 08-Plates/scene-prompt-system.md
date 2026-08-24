@@ -145,9 +145,11 @@ The goat's shoulder is at about the child's chest.
 
 The portrait system's eye-line ladder does the same job for a face; this is its body equivalent, and the two are independent.
 
-### Contact hands under an arm do not survive (s37, two runs)
+### Contact hands render, including under a crossing arm (s37)
 
-A hand resting on a back, and a hand at a jaw with the arm crossing the body, both failed to read — in the second case the picture's only point of contact went missing and took the warmth with it. **A touch that matters must be staged where nothing overlaps it**: the hand on the outside of the silhouette, against a contrasting value, with the arm's whole line visible. If the contact cannot be given clear air, it is not going to render, and the picture should carry its meaning some other way.
+Worth stating because the opposite was briefly written here and was wrong. In the pasture scene **both contact hands came through**: a hand flat on a child's upper back with the arm crossing behind him, and a hand buried in a goat's coat. **Author ruling: the hands are fine in that image.**
+
+The retracted claim generalised from a single unconfirmed reading of `ch01-fallen-stars`, where the hand at the jaw looked to me half-lost. One picture, judged by eye, is not a failure mode. **Do not prompt around contact hands as though they were fragile** — nothing here has shown they are.
 
 ### Negative inventory works on animals too (s37)
 
