@@ -16,6 +16,8 @@ Every entry was checked against **THE PLATE FOLLOWS THE PAGE** when it was writt
 2. **The catch.** Vask's hand up without looking, the slate already in it, his face turned away and still talking to the goat. The eye goes to the hand; the face is elsewhere — the honest way to draw a man whose eyes have nothing in them.
 3. **The room of true things.** The one room from the loft's height: the fire small and orange in its hole, the table, the chest, the wall where every tool hangs in its place. No figures, or one hand crossing to straighten one. The house as a set of rules before the book has any people in it.
 
+4. **Telling the goat** *(author-requested, s37; built on the `ch01.md` sheet).* Winter yard, three subjects left to right: the father at the block at the top of one stroke, a very small boy walking away toward the pen with the news, and the goat, who does not care. All three are on the page in one continuous moment, and the boy's back is turned for a staged reason rather than a stated absence.
+
 *Alternate:* Kael at the pail, holding the broken ice up to the sun, testing whether the world is freezing yet.
 
 ---
