@@ -1,5 +1,5 @@
 ## AURELIAN CORVANE (the ringleader — pride that breaks)
-**Glance:** the cohort's presumptive best; ringleader → training ally · House Corvane · ~13, as of Ch. 24 · **out of the games in the round of 16, beaten by MELORAN** · cistern-court ally.
+**Glance:** the cohort's presumptive best; ringleader → training ally · House Corvane · ~13 · **out of the games in the round of 16, beaten by MELORAN** · cistern-court ally.
 
 ### STATIC
 - **Role:** The cohort's best before Kael arrives; capacity-worship made flesh; the face of the science-vs-pride engine. Sealed irony (00): his mockery of Kael's method is the empire failing to recognize its most wanted asset.

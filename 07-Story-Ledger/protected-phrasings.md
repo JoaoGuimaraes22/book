@@ -1,6 +1,8 @@
 ## Protected Phrasings — On-page canon phrasing (protect; echo deliberately or not at all)
 **ACCUMULATOR.** COINED LANGUAGE that is on the page. Parsed by scripts/check-echoes.sh. Rolls per book.
 
+**WHAT THIS FILE IS NOT** *(moved here from `05` §STATUS at s35 — it is this file's own meaning, so it lives in this file)*. Protected phrases are never *required* to reappear. Most are said once and never again, and that is the healthy case: this is a repeat-**DETECTOR** — *echo deliberately or not at all* — never a must-use list. **A chapter that hits one protected phrase is not thin.**
+
 **ADMISSION TEST (author-ratified, session 26): would you recognise this as this book's if you met it in someone else's?**
 - Ordinary words, important moment → it is a **BEAT**. `chapter-records.md` owns it. *(Do not admit it here because the moment mattered — the moment is not the phrasing.)*
 - States how the world works → it is **DOCTRINE**. `../02-World-Bible/` owns it.

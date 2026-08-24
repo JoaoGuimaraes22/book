@@ -1,5 +1,5 @@
 ## SEVERIN (the master)
-**Glance:** head of the Temple — THE FIRST MASTER; the family's secret savior and patron · empire past, his own man now · old, the way the split rock is old · **as of Ch. 27: BOTH HALVES ARE NOW ON THE PAGE — the mending at Ch. 26, the EARTH at Ch. 27, where he held one stone off four hundred children and could not hold two.**
+**Glance:** head of the Temple — THE FIRST MASTER; the family's secret savior and patron · empire past, his own man now · old, the way the split rock is old · **BOTH HALVES ARE NOW ON THE PAGE — the mending at Ch. 26, the EARTH at Ch. 27, where he held one stone off four hundred children and could not hold two.**
 
 ### STATIC
 - **Name:** Severin — on-page mostly "the master"; spend the name sparingly so it carries weight.

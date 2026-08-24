@@ -1,5 +1,5 @@
 ## OSTRIAN "OSS" VESSALINE (the almost-friend — warmth that fails)
-**Glance:** the almost-friend; the reader's guide to the Temple · House Vessaline (merchant; a bought name) · ~13, as of Ch. 27 · estranged from Kael — "It was just a seat." · **last seen in the north curve as it went over, and nothing is resolved.**
+**Glance:** the almost-friend; the reader's guide to the Temple · House Vessaline (merchant; a bought name) · ~13 · estranged from Kael — "It was just a seat." · **last seen in the north curve as it went over, and nothing is resolved.**
 
 ### STATIC
 - **Role:** Youngest son of an archipelago merchant house that bought its way into the register — new money wearing old ornament; every old-blood child hears the reach in "Vessaline." The first to reach Kael; Temple names, houses, and ranks delivered as characterization.

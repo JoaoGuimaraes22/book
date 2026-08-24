@@ -1,5 +1,5 @@
 ## ELARINE SEDRANE (the watcher — pride that learns)
-**Glance:** the cohort's real mind; collegial ally · House Sedrane · ~13, as of Ch. 26 · **beaten by Kael in the round of 8, and out of the games** · cistern-court alliance standing; the fiction held over the flash.
+**Glance:** the cohort's real mind; collegial ally · House Sedrane · ~13 · **beaten by Kael in the round of 8, and out of the games** · cistern-court alliance standing; the fiction held over the flash.
 
 ### STATIC
 - **Role:** Considers herself the cohort's real MIND (Aurelian its capacity, its name, its noise) — and she is right. With Aurelian: the two responses to being out-thought — his world breaks, hers gets bigger. Proof the golden children are not a monolith.
