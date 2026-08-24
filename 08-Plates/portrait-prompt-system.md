@@ -206,7 +206,22 @@ cloth.
 
 ### Elarine
 
-**NOT YET RUN.** Uses the **Elarine AGE block** and **no HAIR line** — bound-severe hair and `naturally settled rather than combed` cannot both win. Revised off Aurelian's run: the facial structure split into two sentences, and the cheek guard kept even though the fixed block's cheek clause is now cut, because her flush is a tell and must not be spent here.
+**ADOPTED:** `images/elarine-14.png`. Uses the **Elarine AGE block** and **no HAIR line** — bound-severe hair and `naturally settled rather than combed` cannot both win. Below is the block **as it ran**.
+
+**WHAT THE RUN PROVED, AND ONE LINE OF IT IS A LIE.** The hair, the collar and the build all came through hard, and **the costume is the best this system has produced** — high buttoned collar, close, exactly made, no ornament, *nothing on her that does not work* rendered instead of stated, and it puts real distance between her and Valeria's wrapped charcoal. The expression held too: level, appraising, still, **no verdict reached.**
+
+**But `the DARKEST VALUE in the picture` did not happen and could not have.** She has ink-dark hair by page canon, so the darkest mass in the frame is her own head at twenty times the area. **The eyes won on FINISH instead** — the only fully resolved thing in a loose picture. **If she is ever regenerated, swap the eye clause for what actually happened:**
+
+```
+Eyes very dark brown, near black — the MOST FINISHED thing in the
+picture. Everywhere else the drawing is loose and suggestive; the
+eyes alone are rendered tight and exact, sharp-edged, fully worked
+out, with one clean catchlight. Not the most saturated and not the
+darkest — her hair is as dark — they win by being the only part of
+the image that has been finished.
+```
+
+**Her flush was not spent** — the cheek guard held, and the *spots of colour high on her cheeks* stay available to a plate of Ch. 13 or Ch. 17.
 
 ```
 SUBJECT — cool pale parchment ground.
@@ -245,7 +260,10 @@ nothing on her that does not work.
 **Three eye mechanisms.** The STYLE line says only "focal point"; each SUBJECT block states how its own eyes win, because in a muted picture there are three different ways to be the focus and a colour can only use one of them.
 - **Saturation** — Valeria's green, Aeliana's blue, Aurelian's amber: the most saturated point in an otherwise desaturated image.
 - **Lightest value** — Kael's near-white grey, which is almost colourless and cannot win on saturation at all.
-- **Darkest value** — Elarine's near-black, which can win on neither: it is the one place the ink goes fully solid in a picture made of tints.
+- ~~**Darkest value**~~ — proposed for Elarine's near-black and **it does not work, s34.** She has ink-dark hair (page canon, Ch. 9), so the darkest mass in the picture is her own head and the eyes cannot beat it by a margin. **A dark eye can only win on value against pale or mid hair.**
+- **Finish** — what Elarine's run actually did, and it is the better mechanism for her anyway. In a picture that is loose everywhere, the eyes are the only fully resolved thing: rendered tight and exact, sharp-edged, one clean catchlight, while the rest is suggestion. She wins by being **the only part of the image that has been worked out** — which is the character, exactly.
+
+**Check the eye against the HAIR before choosing a mechanism.** Both failures found so far are the same failure: the eye competing with something large and adjacent that shares its property. Amber against warm skin; near-black against near-black hair. **Saturation, value and finish are four different axes and the eye must own one of them outright.**
 
 **Amber is the fragile one.** A warm eye sits in a face the STYLE block has already made warm, which is the same disappearance that eats Kael's grime. Aurelian's block therefore fences the eye specifically — `the skin immediately around the eye stays pale and cool-shadowed` — and demotes the cheeks so the eye is the only warm saturated point. Check that first if his portrait comes back flat. **CONFIRMED s34:** the fence held and the amber won a frame carrying a great deal of warm hair. It needed BOTH halves — the fixed block's cheek clause cut, and the SUBJECT's `the cheeks stay quieter than it` added.
 
@@ -255,7 +273,7 @@ nothing on her that does not work.
 
 **Age is written as anatomy, not adjectives.** Age words alone get ignored. What works: eyes at the vertical midpoint of the head, jaw softly defined but not sharp, remaining cheek fullness, narrow neck. For an older version of a character, change the SUBJECT age line *and* delete `Adolescent, not grown` plus `some remaining fullness in the cheeks` from the STYLE block, or they'll fight the older read.
 
-**Complexion encodes station.** Kael weathered → Valeria mid → Aurelian clear with sun on it → Elarine pale indoor → Aeliana pale untouched. Discovered by accident on the first three, kept on purpose: five characters, five visibly different lives, none of it stated in text. Aurelian added the point the scale was missing — a great-house child who *chooses* the yard, so the sun is on him and the weather never is.
+**Complexion encodes station.** Kael weathered → Valeria mid → Aurelian clear with sun on it → Elarine pale indoor → Aeliana pale untouched. Discovered by accident on the first three, kept on purpose: five characters, five visibly different lives, none of it stated in text. Aurelian added the point the scale was missing — a great-house child who *chooses* the yard, so the sun is on him and the weather never is. **The scale runs on VALUE AND WEATHERING, never on speckle** — see the freckle ruling under §Known behaviours; granulation puts freckles on everybody and they distinguish nobody.
 
 ---
 
@@ -279,6 +297,7 @@ Use an **anchor** only when continuity within a specific image matters — multi
 - ~~**Ears run hot.**~~ **SUPERSEDED s34 — the whole clause is cut.** `Most colour in the cheeks, nose and ears` was taken literally and the ears came out pink, which was a nuisance; the real fault was the *cheeks*. High cheek colour competes with the eye for the one saturated point the picture is allowed — fatal to a warm eye, expensive for a dark one. Cut from the fixed block. Ears still warm slightly without it, and that is fine.
 - **Edit passes cost texture.** Two maximum. Granulation softens and the palette warms with each one. If a third is needed, regenerate with the change written into the SUBJECT block instead.
 - **Traits propagate silently.** Freckles once ended up on all three characters because the line got copied between prompts. Same risk with expression — identical affect across a cast flattens them. Decide per character.
+- **`no freckles` DOES NOT SUPPRESS FRECKLES — AND IT DOES NOT MATTER (author ruling, s34).** Elarine's prompt said `clear and unmarked, no freckles` and she came back freckled across the nose and cheek. **This is not trait contamination, it is the medium:** the fixed block asks for `pigment granulation`, the tool renders granulation on skin as speckling, and negating a trait cannot beat an instruction to granulate. **The ruling is to stop fighting it.** Granulation freckles are TEXTURE, not a mark — so **freckles do not distinguish anybody in this system**, and the `no freckles` lines in the blocks are advisory rather than load-bearing. Kael's and Aeliana's freckles remain their sheet canon and their prose detail; they simply stop being a thing an image separates people by. *(The lever exists if a future image ever truly needs bare skin — attack the rendering, not the trait: `skin rendered as a single flat unbroken wash — no speckling, no stippling, no granulation anywhere on the face`. Untested.)*
 
 ---
 
