@@ -126,7 +126,32 @@ Bare parchment ground (no setting) is the character-sheet convention. Using it f
 4. **Physical contact (embrace)** — worked; costume detail drifts out of position when arms are in unusual places.
 5. **Kneeling with eye contact, full body** — worked, needed the contradiction line.
 6. **Two-figure fight** — hardest. Six attempts, never fully clean at full body; acceptable at chest-up.
-7. **Four-figure conversation, waist-up (s34)** — worked, and it raises the tested ceiling from three. Four figures all in dark clothing and **not one garment bled**, which is the costume-ownership rule holding under the most pressure it has had.
+7. **Three figures and an animal, FULL BODY, feet included (s37)** — worked first try, and it is the first full-body group in the library that came out clean. What made it work was **scale stated as measurement** (below), not the crop rule, which it breaks.
+8. **Four-figure conversation, waist-up (s34)** — worked, and it raises the tested ceiling from three. Four figures all in dark clothing and **not one garment bled**, which is the costume-ownership rule holding under the most pressure it has had.
+
+### Scale between figures — STATE IT AS MEASUREMENT (s37)
+
+**This is the most useful thing the scene system has learned, and it overturns an earlier finding.** A child rendered several years too old was blamed on the attached face reference outvoting the words. That was wrong. **Adjectives lose; ratios win**, and the reference is not the problem:
+
+```
+SCALE — the child is FOUR YEARS OLD and must read four:
+The top of his head reaches roughly the man's hip.
+His head is large for his body, roughly a fifth of his total height.
+Short limbs, a round torso, no waist, no length in him anywhere.
+The goat's shoulder is at about the child's chest.
+```
+
+*Very small · the head large in proportion · a toddler, not a boy of seven* had failed. **Every one of those is a comparison to nothing.** Naming the fraction of the frame, the fraction of the body, and one landmark on a third subject fixed it in a single run with the face reference still attached. **Do this for any figure whose age or size is load-bearing** — and note it also anchors the animal, which is why the goat came out the right size.
+
+The portrait system's eye-line ladder does the same job for a face; this is its body equivalent, and the two are independent.
+
+### Contact hands under an arm do not survive (s37, two runs)
+
+A hand resting on a back, and a hand at a jaw with the arm crossing the body, both failed to read — in the second case the picture's only point of contact went missing and took the warmth with it. **A touch that matters must be staged where nothing overlaps it**: the hand on the outside of the silhouette, against a contrasting value, with the arm's whole line visible. If the contact cannot be given clear air, it is not going to render, and the picture should carry its meaning some other way.
+
+### Negative inventory works on animals too (s37)
+
+*ONE GOAT, and only one — no second goat, no herd on the slope behind, no dog, no bird, no other animal anywhere in the picture* held completely. Same shape as the hand inventory and the costume ownership rule: **name the absences, not just the presence.**
 
 ### Four figures
 
@@ -252,6 +277,114 @@ Two items recur because the system inherits them rather than inventing them, and
 **KAEL'S GREY.** It is unspent on the page and **no published plate may show it** until a chapter spends it — anchors, portraits and scene TESTS are exempt, because they are references and not pages. The quartet test names it twice (`Pale near-white grey eyes, the lightest point in his face`, then again in the summary line) and renders it clearly. **That is legal in `images/scene-tests/` and illegal the moment the same composition is proposed as a plate.** A plate answers with FRAMING — distance, angle, occlusion — never by inventing a different colour.
 
 **KAEL IS UNARMED IN EVERY SCENE.** His full-body sheet carries no weapons, the scene system attaches that sheet, and so every scene inherits a weaponless boy. Predicted when the sheet was adopted; demonstrated every time since. Page canon puts *two short blades across his back in a cloth wrap* and a knife inside the clothing. Until the sheet is redone, write the wrap into the scene prompt by hand whenever the moment would carry it.
+
+### Three figures and an animal — the pasture prompt, as run
+
+**Produced `images/scene-tests/vask-kael-goat.png` (s37), first run.** Author-written. Full body with feet in frame, which the crop rule advises against, and it came out clean — the scale block is why.
+
+```
+Image 1: reference portrait of Vask.
+Image 2: reference portrait of Kael, aged four.
+
+Same medium and style as the reference images: loose watercolour and
+ink on rough cold-press paper, scratchy ink linework, wash blooms,
+bare paper in the lights.
+
+Setting: high mountain pasture as loose wash suggestion — thin grass
+and bare rock underfoot in dry-brush, the ground falling away behind
+them, a distant ridgeline in pale flat grey wash, the sky left as
+bare paper. Low side light, late in the day, long soft shadow.
+The man, the child and the goat are all grounded on the same ground
+plane.
+
+Composition: full figure, all three in frame, head to feet, feet
+included. The man standing, the child beside him and slightly
+forward, the goat on the child's far side.
+
+SCALE — the child is FOUR YEARS OLD and must read four:
+The top of his head reaches roughly the man's hip.
+His head is large for his body, roughly a fifth of his total height.
+Short limbs, a round torso, no waist, no length in him anywhere.
+The goat's shoulder is at about the child's chest.
+
+WHAT IS IN EACH HAND:
+Vask's right hand rests flat on the child's upper back, between the
+shoulder blades — resting only, not gripping, not pulling him in.
+Vask's left hand hangs empty and open at his side.
+Kael's right hand is flat against the goat's shoulder, fingers buried
+in the coat.
+Kael's left hand hangs empty at his side.
+Four hands, nothing held in any of them. No crook, no staff, no rope,
+no lead, no pail, no bell and no tool of any kind anywhere in the
+frame.
+
+ONE GOAT, and only one — a shaggy mountain milch goat, curved horns,
+standing square on all four feet, side-on to the viewer. No second
+goat, no herd on the slope behind, no dog, no bird, no other animal
+anywhere in the picture.
+
+NOTHING IS HAPPENING. This is an ordinary afternoon on the hill. No
+threat, no event, no drama, nothing approaching, nobody reacting.
+
+THE ATTENTION RUNS IN ONE DIRECTION AND IT IS THE SUBJECT OF THE
+IMAGE. The man is looking down at the child. The child is not looking
+back — he is looking at the goat. The goat is looking out of the
+frame. Three separate lines of sight and no two of them meet.
+
+VASK: standing still and square, weight even, shoulders level,
+nothing braced and nothing on display. Perfectly still — a man who
+moves exactly as much as is required and is not moving now. Broad
+across the top of the back and the neck, nothing wasted below it, an
+economy rather than a bulk. His head is tipped down toward the child,
+chin lowered, the face angled down but still turned enough that it is
+fully visible in three-quarter view; he is looking at the boy and
+only at the boy. Iron-dark hair to the jaw, roughly cut long ago and
+grown out, greying early: pale strands scattered evenly right through
+the dark mass, thickest at the temples, plainly visible at a glance —
+scattered, never gathered, no streak, no seam, no patch. Weathered
+hard, the wear on the surface and the face under it young. Coarse
+undyed working cloth, heavy weave, much mended, in dull grey-brown
+and dead olive. The collar is closed to the base of his throat and
+BOTH SLEEVES ARE FULL LENGTH AND DOWN TO THE WRIST — no skin showing
+on the forearm, nothing rolled or pushed up.
+
+THE CONTRADICTION, AND IT MUST SURVIVE: he is looking at his son and
+his face is giving nothing away. The attention is entirely on the
+child; the expression is not. Level, mouth closed, brows unmoved,
+completely unreadable — NOT fond, NOT warm, NOT tender, NOT proud,
+NOT sad, NOT worried, not smiling, not softening. A man looking at
+something he is simply keeping account of. Do not resolve this into
+an affectionate father looking down at his son.
+
+KAEL: standing easily, weight on both feet, leaning very slightly
+into the goat. His head is turned down and out toward the animal,
+chin lowered, the face angled away from the man but still visible in
+three-quarter view from the front; he is looking at the goat's head
+and nowhere else. Expression OPEN and entirely unguarded, absorbed in
+the animal, wholly present, nothing withheld and nothing watchful — a
+child who has never once had a reason to conceal anything. Mouth
+closed and relaxed. NOT flat, NOT still, NOT level, NOT guarded, NOT
+wary, not sad, not solemn. Eyes near-white neutral grey, cool and
+colourless, large and wide open in a small face. Dark hair, fine and
+soft, cut short and uneven at home by somebody who was not being
+careful. High colour across the cheeks and nose from the cold; cool
+grey dust on the skin and in the creases of the neck — the grime
+stays cool grey, never warm brown. A child's skin under it, no
+weathering and no hardness anywhere in it. Plain undyed wool, coarse
+and much mended and visibly too big for him, sleeves swallowing his
+wrists, in dull oatmeal and dead olive.
+
+Do not mix their clothing. Both wear undyed mended village cloth, and
+the difference is fit and closure only: the man's is heavy, sized to
+him and closed at the throat; the boy's is thin, loose and too large.
+Neither wears any ornament, buckle, badge or metal of any kind.
+
+Preserve both faces exactly as shown in the reference images — bone
+structure, hair, colouring and apparent age. The references show head
+and shoulders only; extend both to full standing figures. Kael's eyes
+near-white grey, Vask's iron-dark near black. Do not blend their
+features.
+```
 
 ## Plates — what changes
 

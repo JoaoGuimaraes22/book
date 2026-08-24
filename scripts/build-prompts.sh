@@ -80,6 +80,8 @@ for name, head in FULL_FIGURES:
 
 write(f"{out}/scene-tests/quartet-conversation.txt", fenced(scene, "### Four figures — the quartet prompt, as run"))
 n += 1
+write(f"{out}/scene-tests/vask-kael-goat.txt", fenced(scene, "### Three figures and an animal — the pasture prompt, as run"))
+n += 1
 
 # Plates. A plate takes the house look — the Medium and Colour paragraphs of the
 # fixed STYLE block — and nothing else; it writes its own composition, lighting
