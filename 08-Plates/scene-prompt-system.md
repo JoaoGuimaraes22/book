@@ -126,6 +126,19 @@ Bare parchment ground (no setting) is the character-sheet convention. Using it f
 4. **Physical contact (embrace)** — worked; costume detail drifts out of position when arms are in unusual places.
 5. **Kneeling with eye contact, full body** — worked, needed the contradiction line.
 6. **Two-figure fight** — hardest. Six attempts, never fully clean at full body; acceptable at chest-up.
+7. **Four-figure conversation, waist-up (s34)** — worked, and it raises the tested ceiling from three. Four figures all in dark clothing and **not one garment bled**, which is the costume-ownership rule holding under the most pressure it has had.
+
+### Four figures
+
+**Depth is what makes four work.** Three sit in a shallow arc; four in an arc becomes a lineup. The instruction that worked was *two loose pairs at slightly different depths, all turned in toward each other* — the stagger gives the group a front and a back without turning anyone away.
+
+**But the physical arrangement beats the social one, every time.** The same prompt asked for `two loose pairs` and, in caps, for `ALL FOUR ARE ENGAGED IN THE SAME CONVERSATION`. It got two pairs having two conversations. **When a grouping instruction and a staging instruction contradict each other, the staging wins** — it is the one a renderer can draw. To bind four figures into one conversation, name a **single speaker the other three are attending to**, and stagger the depth for the rest.
+
+**Two people talking at once is worth having and it renders.** *Aurelian mid-sentence, mouth open* plus *Kael mouth open mid-word — answering him, overlapping, cutting in* both came through, and the overlap is what stops four standing figures reading as a portrait group.
+
+**Negative ownership per character works as well as positive.** *Elarine and Kael wear no ornament, no metal and no white at all* held across the whole frame — no stray collar, no borrowed steel. State the absences by name, not just the possessions.
+
+**THE COST, AND IT IS THE REAL FINDING: two of the four had no full-figure sheet.** Aurelian and Elarine were anchored on their **portraits**, which carry a face and nothing below the collar — so everything they are wearing in that image was authored in the prompt and is anchored to nothing. **It will not repeat in the next scene.** The rule at the top of this file says scenes take the full-body sheets for exactly this reason. Their sheets are owed.
 
 ### Three-figure arrangement
 
@@ -158,6 +171,14 @@ Wound-detail vocabulary — raw, split, edges open — appears to be what causes
 **Must be written every time:** body proportions in unusual poses, posture, what each hand is doing, everything below the collar, framing, lighting across a whole body, and **all clothing** when more than one character is present.
 
 ---
+
+## Canon the scene system keeps breaking
+
+Two items recur because the system inherits them rather than inventing them, and both are in `../08-Plates/canon-brief.md`:
+
+**KAEL'S GREY.** It is unspent on the page and **no published plate may show it** until a chapter spends it — anchors, portraits and scene TESTS are exempt, because they are references and not pages. The quartet test names it twice (`Pale near-white grey eyes, the lightest point in his face`, then again in the summary line) and renders it clearly. **That is legal in `images/scene-tests/` and illegal the moment the same composition is proposed as a plate.** A plate answers with FRAMING — distance, angle, occlusion — never by inventing a different colour.
+
+**KAEL IS UNARMED IN EVERY SCENE.** His full-body sheet carries no weapons, the scene system attaches that sheet, and so every scene inherits a weaponless boy. Predicted when the sheet was adopted; demonstrated every time since. Page canon puts *two short blades across his back in a cloth wrap* and a knife inside the clothing. Until the sheet is redone, write the wrap into the scene prompt by hand whenever the moment would carry it.
 
 ## Standing limitation
 
