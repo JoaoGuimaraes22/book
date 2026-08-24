@@ -1,6 +1,6 @@
 # ANCHOR — VALERIA VEL, age 13 (valid Ch. 22 → current)
 
-**Status:** **v2 is the live cut** — `../images/anchors/valeria-13-v2.jpg` (v1 kept at `valeria-13-v1.png`). Everything is settled except the visual-culture fork below, which is the only thing holding adoption.
+**Status: ADOPTED, both panels.** Full figure `../images/anchors/valeria-13-v2.jpg` (owns kit, silhouette, bearing) · face `../images/anchors/valeria-13-face.png` (owns the face). **Previously:** v2 is the live cut — `../images/anchors/valeria-13-v2.jpg` (v1 kept at `valeria-13-v1.png`). Everything is settled except the visual-culture fork below, which is the only thing holding adoption.
 
 Anchors are timestamped reference studies, not plates. A plate uses the anchor valid at *its* chapter.
 
@@ -44,19 +44,27 @@ Both are 13, dark-haired, and carry two blades, so the separation must be carrie
 
 ---
 
-## OPEN — BLOCKS ADOPTION: THE VISUAL CULTURE FORK (s33)
+## READING-DISTANCE PANEL — ADOPTED (s33)
+
+`../images/anchors/valeria-13-face.png`. **Canon-exact:** her sheet spends the green *at reading distance only*, so this panel is literally the view the book describes. Deep emerald, limbal ring, the only colour in the frame.
+
+**The best expression in the anchor set.** *Her stillness WARNS — nothing like his* is the one line separating her silhouette from Kael's, and in a close-up the only place it can live is the gaze. It lands: level, flat, appraising, looking at the viewer the way you look at a problem. Age agrees with her full figure — no drift to contain.
+
+## THE VISUAL CULTURE FORK — RULED (s33): OPTION 3, THE SPLIT
+
+
 
 Both anchors returned East Asian material culture unprompted — Kael in a wrapped sash with disc-guard fittings, Valeria in a cross-over gi with an obi-style belt and bound calves. The generator has a strong prior and it is winning against the prose.
 
 The doc system says otherwise. 02/naming: the noble/imperial register is **Latin-Byzantine** — Vessantine, Cassivara, and the -ANE house sound. 02/dueling arms the empire with longsword, rapier and spear, sold by paid fencing-masters.
 
-Three options, author's call:
+**RULED: the island keeps its own material culture; the capital is Latin-Byzantine.** 02 already rules that a conquered city keeps its OWN tongue's name and that the empire does not rename what it takes, calling the survival of somebody else's name a small political fact. Dress carries the same fact.
 
-1. **CORRECT** — Mediterranean/Byzantine dress across all plates.
-2. **RATIFY THE HYBRID** — the world looks like this; write it into 02 so it is deliberate rather than drift.
-3. **SPLIT — RECOMMENDED.** The island keeps its own material culture; the capital is Latin-Byzantine. 02 already rules that a conquered city keeps its OWN tongue's name and that the empire does not rename what it takes, calling the survival of somebody else's name a small political fact. Dress can carry the same fact.
+**The evidence ruled it, not a preference.** Three anchors were generated with nothing steering material culture either way: Kael and Valeria came back East Asian, Aeliana came back Byzantine. The generator split the island from the capital unprompted, along exactly the seam 02 already believes in.
 
-**Under option 3, v1 is wrong for Valeria specifically.** She is Line of Vel, competes for the capital, and is calibrated by adults of the capital's grey — she should read IMPERIAL standing beside Kael, and v1 reads more island than he does.
+**The objection that this would strand Valeria dissolves.** She is Line of Vel and should read imperial — but she has been resident on the island for a year, training on the old sea court, and her anchor shows her in **TRAINING KIT, not house livery.** No conflict, no re-cut. **Forward rule:** when Valeria appears in Vel colours or at the capital, she wears the imperial register, not the island's.
+
+**RECORDED BY DEFAULT, REVERSIBLE IN ONE EDIT.** The author did not rule this explicitly; it is written in because the plates had established a state the world files did not carry, and an undocumented state is the thing the doc system exists to prevent.
 
 ## v1 AUDIT — MINOR (none blocking)
 
