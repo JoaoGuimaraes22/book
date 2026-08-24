@@ -11,6 +11,8 @@
 - **Temple cast** (sheets in `../03-Character-Bible/`): Ostrian "Oss" Vessaline (merchant house) · Aurelian Corvane · Elarine Sedrane · LUCAN DRUSANE (house Drusane) · RUTHEN (the yard-master) · Priscian.
 - **Minor names SPENT on the page — do not re-coin, do not reuse** (logged s26; no sheets, none owed one): **MELORAN** (Ch. 21 — seventeen, entered, a spear; takes Aurelian's hour four days a week. **Decided s26: he is the Temple six's surviving senior-cohort entrant** — line 4 of Ch. 18's sheet; 02 §Temple Six) · **LEDRON** (Ch. 18 sheet, gone Ch. 21) · **TAVRIAN** (gone in the cold term, Ch. 21) · **TALRANE** and **ISCANE** (Ch. 18, Halden's yard line — houses, -ANE register).
 - **"THE GHOST"** — the crowd's name for Kael, minted in the standing ground at Ch. 23 and round the arena inside a minute. The people's word only (register in `../02-World-Bible/lexicon.md`). He has a name from the world now, and it is about an absence.
+- **MARUN** (Ch. 27 — village register; a name a woman shouts nine times in the crush and nothing else. No sheet, none owed; do not reuse).
+- **THE NOBLES' DISTRICT** — the island's walled noble quarter, named on the page Ch. 27 in Valeria's mouth (*"It is the only wall on this island that was built to be a wall"*). **Controlled term: DISTRICT, never *quarter*** — geography in `../02-World-Bible/geography.md`.
 - **THE COLLEGIUM** — the CAPITAL's Resonant school, named on the page at Ch. 22 (*"Five from the capital's Collegium, in red and black"*). The northwest school's name is still unminted.
 
 ### Naming law

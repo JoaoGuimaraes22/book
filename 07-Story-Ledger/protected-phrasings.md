@@ -522,3 +522,28 @@ Two classes are admitted that are not "good lines", and both are explicitly mark
 - waiting to see whether she would get up (Ch. 23) — the question his father's school asks about anybody, asked a second time
 - the arm turned to the light with a thumb well below the cut — Ruthen (Ch. 23), Vask (Ch. 25), Severin (Ch. 26): three men, one trade, unremarked
 - a *because* standing under theirs (Ch. 17) — the hole at its widest, and he wins anyway
+
+**Ch. 27 — The Fog**
+- "wanting it was not information"
+- "Both are common." — Vask
+- "It is the only thing on this island I have been unwilling to guess at." — Valeria · protect absolutely
+- "the sound it made going in was not loud"
+- "as though the correct number of repetitions had simply not been reached yet" — protect absolutely
+- "It had a school. Somebody had taught them, one stroke at a time, beside them, longer." — protect absolutely · RULE-CARRYING (the father's teaching signature arriving in the enemy's hands; never explain it, and never let anybody on the page draw the line)
+- "He stood on the sand and heard thirty men use it to organize a morning's work." — protect absolutely
+- "It is the only wall on this island that was built to be a wall."
+- "Every school he had was running perfectly. None of them was producing an instruction." — protect absolutely · RULE-CARRYING (the freeze is a surplus of correct answers, never fear — do not later render it as panic)
+- "there was nothing to do first — that every single thing was first" / "a thing with no order in it cannot be started" — protect absolutely · RULE-CARRYING
+- "He heard it as furniture."
+- "It was the wrong direction. He had worked that out before he took the first step, and he took it anyway." — the closing line · protect absolutely
+- *NOT ADMITTED per the admission test — ordinary words at important moments, so the beats are `chapter-records`': "What was that?"; "BOATS!"; "Marun. MARUN."; "So. Figured me out?"; "I need you."; "My mother's on the mountain." And the two words the raiders say are rendered in italics because they are a translation, not a quotation — the page never prints the language itself.*
+
+**Ch. 27 — deliberate echoes**
+- "It will be there in the morning" (Ch. 25, hers) — one night later, and this time it is HE who stops; she gives him back the sentence she used to stop herself
+- "Two at once" (Ch. 26) — the only script hit; he is recounting his own bout at his own table
+- Oss found *in about a second and a half* (Ch. 23) — the identical measurement, and this time the crowd takes him
+- *beside them, longer* (Ch. 2's teaching register) — deliberately re-run in the enemy's gateway; nobody remarks on it
+- "Nothing had shown. No light. No sound." (Ch. 26's mending) — the same man, the same absence of display, the opposite purpose
+- the hand going to the knife inside the coat (Ch. 7 → Ch. 22) — third use, now involuntary and twice in one road
+- the downhill language (Ch. 3 / Ch. 4) — not re-minted; what returns is the language itself, in other mouths
+- **INCIDENTAL, NOT AN ECHO — logged so a later session does not "discover" it:** the man behind Kael says *"What was that?"*, four ordinary words that collide with Lucan's Ch. 9 sneer (*"What was that? That wasn't anything."*) where the script stores it inside a longer protected line. **Not deliberate, not deep, and the prose stands** — it is the last ordinary sentence anybody speaks in the book. Full-manuscript parity moved 24 → 26 on this and on *"It will be there in the morning"*, and both are accounted for here.

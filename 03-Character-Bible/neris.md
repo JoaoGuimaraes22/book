@@ -1,5 +1,5 @@
 ## NERIS (the mother)
-**Glance:** Kael's mother; teacher of the mind · ex-asset of the program — bearer of the Kynemir bloodline (00) · age unpinned · **the child is days or a week away, as of Ch. 25**; the danger admission given; the birth collides with the games — she goes into labour as the semifinals begin (00 s26).
+**Glance:** Kael's mother; teacher of the mind · ex-asset of the program — bearer of the Kynemir bloodline (00) · age unpinned · **the child is hours or days away, as of Ch. 27 — *"He has come down. There is nothing left to work out about it."*** ; the danger admission given; the birth collides with the games — she goes into labour as the semifinals begin (00 s26).
 
 ### STATIC
 - **Name:** Chosen, not given (00). Belongs to no naming register; villagers assume it foreign; its true nature is sealed — never explain on the page.
@@ -11,6 +11,9 @@
 - **Appearance:** Dark-haired, dark-eyed; passes as village until she is still — then the stillness has a quality the village doesn't make. Fine bones under worked hands; the hands know too many trades — the lie's weak point. Handsome and unremarkable in the same breath, with ages of watching in the face.
 
 ### DYNAMIC
+- **HOURS OR DAYS (Ch. 27).** *"Tonight. Tomorrow. This week."* — said the way she says the result of a trial, which is the only way she has ever said anything. She got up to take a plate **in two parts, with a hand flat on the table in the middle**, and stood behind her chair instead of sitting back down in it, and nobody said anything about either.
+- **SHE HANDED HIM BACK HER OWN SENTENCE.** Kael stopped his own telling for the first time in eleven years, and she gave him *"It will be there in the morning"* — the line she used on herself the night before.
+- **SHE WAS NOT AT THE DOOR.** For the first time in the book she does not come to it when he leaves. *Kael registered that, and set it down, and went.*
 - **DAYS, OR A WEEK (Ch. 25).** *"He has been sideways since the turn and last night he was not, so he has decided something."* Her hand goes on top of it in front of Kael, which she has never done. *"You keep saying he." / "I do. I have no evidence whatever. Do not write it down."*
 - **SHE STOPPED (Ch. 25), AND THE STOPPING IS THE BEAT.** Handed the largest operational event of the year — a royal summons on her son, alone — **she asked three questions and closed the file**: where the guards stood, whether anyone wrote anything down, and what exactly the woman behind the chair was wearing. Then *"That is enough of that for tonight… There is always more. It will be there in the morning."* She has never once stopped. **Kael cannot work out what has just happened to him, and nobody explains it.** The love is in the stopping and is stated by no one.
 - **EIGHT OR NINE MONTHS PREGNANT and teaching harder than she ever has.** She works past her hour, which she has never done; she sits side-on to the table and reaches with one arm, having rearranged its whole surface a week before she needed to so that nobody would watch her need it.

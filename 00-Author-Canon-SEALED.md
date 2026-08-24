@@ -1,5 +1,11 @@
 # 00 — Author Canon (SEALED — spoilers for the entire series)
-**Status:** SEALED. Truths of the story that are NOT yet revealed on the page. Test: *is this true but not yet tellable?* **Never contradict; reveal slowly.** Additions are dated, append-only blocks; nothing leaves 00; never edit without explicit author ratification. **A block that overrides an earlier one names it, and the overridden line is tagged `[SUPERSEDED sNN → §BLOCK]` in place** — the file holds live canon and its own history at once, so an untagged line reads as live. **Update history: `git log`** (the embedded chain was rolled to `archive/session-log.md` at session 26).
+**Status:** SEALED — spoilers, not instructions. **Truths of the story, and the things the author wants to hit**, that are NOT yet revealed on the page.
+
+**TEST (author ruling, s32 — narrowed):** *is this a truth of the story, or a thing I want to hit?* **Destinations, events, ideas.** **NOT how, NOT when, NOT in what order** — unless the author fixed it deliberately, and those stay. Staging rules belong in `06`; do-not-contradict state belongs in `07`. A constraint may be recorded as a constraint; **the HOW is the part we write, and it is not decided here.**
+
+**APPEND-ONLY IS DROPPED (author ruling, s32).** The rule was worthless and counterproductive: it forced superseded lines to stay readable, which is exactly how three law-core files came to carry dead canon (s26). **00 is edited in place like every other file** — wrong lines are corrected, dead lines are cut, and `git log` is the update history. Nothing needs a `[SUPERSEDED]` tag any more; existing tags are historical and may be cleared as they are touched.
+
+**OWED, NOT YET DONE (s32):** 00 has never had an eviction path and has accumulated staging rules, ordering and do-not-resolve instructions that its own test now excludes. **A one-session eviction pass is owed** — verbatim, zero-loss, the s26 `protected-phrasings` operation — moving rules to 06, state to 07, and dead design notes to the archive. Until it runs, read anything instruction-shaped here as advisory, not binding.
 
 ## Vask's Lightning (sealed — decided session 7)
 - **VASK HAS LIGHTNING PROFICIENCY** — the program forged its instruments as educated soldier-mages (Doctrine of Cultivated Inheritance applies to instruments too). His magic is never shown in Part I–II early (concealment as resting state; the fire remains the only full answer).
@@ -147,7 +153,9 @@
 - Fate UNCONFIRMED as of end of Book One. Separated in the fire, extracted with the newborn by the master. A low flame under the whole series.
 
 ## The Unfinished Duel
-- Kael vs. Valeria, interrupted mid-fight by the raid. No winner. Unresolved for the entire series; the rematch (whatever it means by then) is reserved for very late in the saga.
+- Kael vs. Valeria. **It is never fought.** The bell strikes to begin the semifinal and the invasion arrives in the same instant; there is not one exchange between them on any page (SPENT — Ch. 27). No winner, and no fight to have had a winner.
+- **What Kael takes out of it:** he had a year to find a way to beat her and never found one, and she asked him on the sand and he told her the truth. The question is never answered, in any book.
+- Unresolved for the entire series; the rematch, whatever it means by then, is reserved for very late in the saga.
 
 ## The Princess — AELIANA CASSIVARA VESSANTINE (name SEALED — stale "TBD" header corrected session 7; "Rhaenya" RELEASED, Rhaenyra collision)
 - Escapes with Kael and Valeria. The living symbol of the empire at close range; the Trojan horse into the imperial storyline. Her long arc (reformer / pawn / tyrant / ally of the final design) undecided.
@@ -294,4 +302,23 @@
 - **NERIS IS LEFT ALONE IN A VIOLENT KYNEMIR BIRTH** (s22: the delivery is a mortal event and Wren is born extremely potent). The single mitigation the family built their whole winter around is absent at the exact hour it was built for — and the reason it is absent is the empire's pageant.
 - **VASK IS SPLIT THREE WAYS AND CAN HOLD TWO AT MOST:** his wife alone in the house, his son on the sand, and the one man who can save her sitting in a box above that sand. **His last hour is spent moving between them.** 04 beat 19's *"dies buying time for both his sons"* stands and is now geometrically literal — he is running the distance between them when the island burns.
 - **WHY IT HOLDS: every load-bearing piece was planted before it was needed.** The plan stated in front of Kael in Ch. 19 — *they take him off that field whatever day it falls on and whatever he is standing in the middle of* — must now be executed by a man who cannot be in two places. The four reasons the family could not sail (s22) were all built around Severin being available. And the thing holding Severin away is the First Master's chair: the empire's answer to a rule it could not enforce.
-- **DO NOT RESOLVE without a dedicated session:** whether Severin reaches the house in time · whether Vask reaches Kael at all · the ORDER of the three legs · and **Neris's own survival of the delivery, which stays UNCONFIRMED per §The Mother.** The extraction still happens (04 beat 19); how late, and at what cost, is open.
+- **SEVERIN REACHES THE HOUSE (author ruling, s32 — replaces this block's do-not-resolve on that question).** He is fetched and he gets there, and **Neris gives birth with his help.** She is alone for the beginning of it and not for the end of it. **What is still true and still binding:** he was six miles away when it started, the reason he was away is the empire's pageant, and **Ch. 27 makes the lateness his own choice** — he could hold one stone and not two, so he stopped holding the sky and spent the morning walking four hundred children out of a burning arena.
+- **STILL A CONSTRAINT, and the HOW is unwritten and is the part worth writing:** Vask split three ways · the order of the three legs · whether he reaches Kael at all · and **Neris's survival of the delivery, which stays UNCONFIRMED per §The Mother.**
+
+## SESSION 32 (2026-08-24 — author-decided in session)
+
+### THE BELL, AND NOTHING AFTER IT
+- **The semifinal is never fought.** The third bell strikes, the judge's hand comes up, and the invasion arrives in that instant. **No exchanges, ever.** This retires *interrupted mid-fight* wherever it stood (§The Unfinished Duel; 04 beat 19). `01`'s pitch line still reads *mid-duel* and is left alone as jacket copy.
+- **The fleet comes out of a fog** that has sat on the island since the night before. Hundreds of ships, at speed, onto the beaches and the harbour. **Trebuchets, mostly**, off the ships, ranging on the arena; the Art is among them and the difference does not matter to anyone underneath it. The arena is the target because every noble child of three schools and a princess are inside one building — which is this file's own raid logic, arriving on the page without anybody stating it.
+
+### THE ISLAND IS NOT RAIDED, IT IS EMPTIED
+- The coalition kills the island: men, women and children, across the whole of it. Not a strike and not a sack — **the thing they came to do.** The village, the settlement, the roads, all of it is inside the scope.
+- **CONSEQUENCE FOR AN EXISTING VALVE, flagged not decided:** `04` §Open valves banks the settlement girl and her mother (the intelligence vector; the recognition/mercy beat) with the caution *do not foreclose them*. Ch. 27 does not go near them and forecloses nothing. **Whether they survive the island is open and is the author's to say.**
+
+### THE NOBLES' DISTRICT, AND THE GATE
+- A walled quarter **inland**, a mile up from the water — the only real wall on the island, and the rally point Valeria's standing orders name. Reaching it from the arena means crossing the populated middle of the island on foot, which is the point: they see all of it.
+- **THE THING TO HIT: Valeria is admitted at that gate and Kael is not.** He has no house. He crosses the island alone to reach his parents. This is where the coat finally fails completely and it fails the other way round — **not because he is nothing to look at, but because he is nobody's.** *Kael of what?* answered at a wall, in wartime, at cost.
+
+### WHAT KAEL HEARS AT THE GATE
+- The men killing in the eastern gateway **speak the downhill language**, and **Kael understands every word.** He has heard it from two mouths in his life: his mother's, who taught it to him more carefully than anything else she ever taught him, and the master's, once, at his own table.
+- **He reaches no conclusion, and the page joins nothing up.** The parents' reaction — the word in a raider's mouth, the mother's face — is still owed and is not spent by this.

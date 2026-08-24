@@ -1,5 +1,5 @@
 ## VASK (the father)
-**Glance:** Kael's father; teacher of the body · ex-instrument of the program, hidden · age unpinned · alive, as of Ch. 26; the school now on LIVE EDGES; the extraction plan his mouth · **his twin-shorts prohibition was broken mid-bout and Kael told him; what he does about it is owed and unwritten.**
+**Glance:** Kael's father; teacher of the body · ex-instrument of the program, hidden · age unpinned · alive, as of Ch. 27; the school now on LIVE EDGES; the extraction plan his mouth · **his twin-shorts prohibition was broken mid-bout and Kael told him; what he does about it is owed and unwritten.**
 
 ### STATIC
 - **Name:** Chosen, not given (00). One closed syllable, a tool being set down; worn the way soldiers' names get worn.
@@ -11,6 +11,7 @@
 - **Appearance:** Broad through the shoulders and no further — an instrument's economy, not bulk; fills a doorway by carriage. Iron-dark hair greying at the temples; iron-dark eyes (both parents dark-eyed — Kael's grey is no one's). A face like used tools, weathered past its years. Scars on-page: the long seam, the through-wound pair, the tally-like forearm marks ("A bad employer"). Hands permanently half-curled, as if around something set down. Moves exactly as much as required.
 
 ### DYNAMIC
+- **LAST SEEN AT THE BLOCK IN THE FOG (Ch. 27).** *"Off the water… It will burn off by the third bell, or it will sit on us all day." / "Which?" / "Both are common."* He let his son stop the telling the night before and said one word about the bout — *"Good"* — and did not ask for the rest.
 - **HIS PROHIBITION WAS BROKEN, AND HE WAS TOLD (Ch. 26).** The twin-shorts fence (*do not take them anywhere near a man who is trying to hurt you until I say*) came off his son mid-bout in front of eleven thousand people, and Kael walked up the hill and **told his parents all of it, blades included.** What Vask does with that is unwritten and owed.
 - **HE WAS SITTING DOWN (Ch. 25).** In eleven years he has not once been sitting when his son came in. He says almost nothing all night, pours the mint, and answers his wife over the boy's head — *"He beat a house today." / "He did."* At the door in the morning, with both of them out on the step, he re-dresses the arm and asks the only tactical question of the whole night: **"She has been reading you twice a week for two years… What has she not got?"** Pride delivered entirely as behaviour; never once stated.
 - **Training is now lethal.** Live edges; he stops the stroke and says *Dead.* and converts it to the hilt, five and six times a morning, and the only mechanism preventing his son's death is his own decision. **He will not strike the throat** — a mark on a neck is a question at a Temple gate — and the arithmetic runs inside the killing stroke without showing.
