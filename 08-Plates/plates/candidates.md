@@ -18,7 +18,8 @@ Every entry was checked against **THE PLATE FOLLOWS THE PAGE** when it was writt
 
 4. **Telling the goat** *(author-requested, s37; built on the `ch01.md` sheet).* Winter yard, three subjects left to right: the father at the block at the top of one stroke, a very small boy walking away toward the pen with the news, and the goat, who does not care. All three are on the page in one continuous moment, and the boy's back is turned for a staged reason rather than a stated absence.
 
-5. **Talking the goat down** *(author-requested, s37; built on the `ch01.md` sheet).* The storm: the father folded down on one knee in the mud at the animal's level, hand flat on its neck, mid-word — and the goat has stopped being frightened. The boy tucked in against his shoulder, holding a fold of his sleeve. **The warm one**, and the warmth is entirely in the staging, because his face is forbidden to do it.
+5. **Vask, Kael and the goat** *(author-requested, s37).* — **BUILT AND ADOPTED: `images/plates/ch01-vask-kael-goat.png`; sheet `ch01.md`.** High pasture, late light: the man, the boy at four, and the goat, standing together with three lines of sight and no two of them meeting.
+6. **Talking the goat down** *(author-requested, s37; built on the `ch01.md` sheet).* The storm: the father folded down on one knee in the mud at the animal's level, hand flat on its neck, mid-word — and the goat has stopped being frightened. The boy tucked in against his shoulder, holding a fold of his sleeve. **The warm one**, and the warmth is entirely in the staging, because his face is forbidden to do it.
 
 *Alternate:* Kael at the pail, holding the broken ice up to the sun, testing whether the world is freezing yet.
 
