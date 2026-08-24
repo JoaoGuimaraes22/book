@@ -42,6 +42,12 @@ The anchor therefore **does not resolve iris colour** — eyes in shadow or down
 
 ---
 
+## THE GREY — CONFIRMED STANDING (author, s33)
+
+Raised because a plate note called them dark eyes. **They are pale grey and it holds.** `03/kael`: *a pale grey belonging to no one in the house*. The appearance ledger decides it as a cross-cast set — *both parents dark-eyed — Kael's grey is no one's* — against Wren's red resolving to the bloodline, closing on *neither brother's eyes come from the house, for opposite reasons.* Dark eyes would put him back inside the house, kill the symmetry with his brother, and retire a clue 00 is holding.
+
+**Still UNSPENT on the page.** A close-up ANCHOR of him is legal (anchors show the person), but **no PLATE published before the page spends the grey may show his eyes.** Keep that straight.
+
 ## GENERATION LOG
 
 - **v1 — ADOPTED AS THE ANCHOR.** `../images/anchors/kael-13.png`. Ink and wash, near-monochrome, dry-brush, neutral ground; eyes downcast and unresolved; plain face; total stillness. Generated from the prompt above.

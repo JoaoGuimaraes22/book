@@ -31,6 +31,12 @@ Worked examples, all three ruled this way: Kael's two blades are *across his bac
 
 This mirrors what the prose already does. The book tracks eye colour obsessively and almost nothing else about a face: Kael's grey belonging to no one in the house, Wren's red resolving to the bloodline, Valeria's green worn plain and bored as display.
 
+**CALIBRATION (s33): THE IRISES POP.** If the eyes carry the only colour in the book, they carry it loudly — vivid, saturated, unmistakable at reading distance and still legible at full-figure scale. A timid iris wastes the one place pigment is allowed.
+
+**KAEL IS THE EXCEPTION, AND IT IS THE BEST THING THE COLOUR LAW DOES.** Grey is achromatic. His eyes cannot pop the way Aeliana's blue and Valeria's green do, and they never will — so in a book where eyes are the only colour, the protagonist's are not a colour at all. *Belonging to no one in the house*, rendered as a property of the palette itself: Aeliana blue, Valeria green, Wren red, and Kael outside the system. His loudness comes from paleness and clarity against dark hair, never from chroma. **Grey CONFIRMED standing, author, s33.**
+
+**READING-DISTANCE PANEL (s33).** An anchor may carry a second panel — head and shoulders, close, where the iris lands. For Valeria this is canon-exact: her sheet spends the green *at reading distance only*, so the close panel IS the view the book describes.
+
 **The two body-marks still govern, but by MEANING rather than by scarcity:**
 - **RED** is the Kynemir mark. It stays the loud one because of what it is, not because it is the only colour available.
 - **WHITE HAIR IS DATA, NEVER STYLING.** 02/magic: drain whitens permanently, *proportional to depth*; an old Resonant's hair is a readable ledger. Whitening a head makes a claim about that person's magical history. Never add white for drama, age, or contrast.
