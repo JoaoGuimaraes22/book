@@ -170,11 +170,11 @@ He was not sure at first. Then he was, because of the sleeve. A boy of about six
 
 He was under the wall on the left. There was a great deal of blood.
 
-Kael avoided his eyes from staying too long on that thing no longer the shape of a boy, and moved past him.
+Kael kept his eyes from staying too long on that thing no longer the shape of a boy, and moved past him.
 
 ---
 
-They came up out of the lane into the wider part where the wells were. There were between fifteen and twenty of them working the houses on both sides. 
+They came up out of the lane into the wider part where the wells were. There were between fifteen and twenty of them working the houses on both sides.
 
 "There's no way around this. Kael, are you ready?" Valeria said.
 
@@ -184,7 +184,7 @@ He went with her.
 
 Here is what the next part was, and there is no arrangement of it that makes it into anything.
 
-Valeria took the right and the middle. Kael took her left, the wall, the doorways. 
+Valeria took the right and the middle. Kael took her left, the wall, the doorways.
 
 One of them saw them come out of the lane and did not stop what he was doing.
 
@@ -224,7 +224,7 @@ He was on the stones. There was a boot coming, and behind the boot a second man 
 
 He put earth into his own forearm along a line about two fingers wide, and let the hook come down on it.
 
-It went through his sleeve, pierced the skin but did not go into the bone. 
+It went through his sleeve, pierced the skin but did not go into the bone.
 
 The man looked at his hook. Then at the arm. Then at Kael's face.
 
@@ -344,7 +344,7 @@ Then the weight went off his arm and down, and Kael got his hand back and stood 
 
 He turned round.
 
-Everything was where it had been. The well, the slab, the girl, the fifteen or twenty who were now nine or ten. No time had passed. The whole of it — the scream, the weight, the arithmetic he would be doing for the rest of his life — had cost about six seconds, and the world had not waited even that long. Two of them were coming down the lane at Valeria's back and she had her hands full.
+Everything was where it had been. The well, the slab, Valeria, the fifteen who were now nine or ten. No time had passed. The whole of it — the scream, the weight, the arithmetic he would be doing for the rest of his life — had cost about six seconds, and the world had not waited even that long. Two of them were coming down the lane at her back and she had her hands full.
 
 He went.
 
