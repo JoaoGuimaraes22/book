@@ -243,12 +243,16 @@ The rule above says redundancy competes. **The stronger claim, and it is now evi
 
 ### Name both temperatures (s41)
 
-**Whichever temperature a plate does not name is the one that disappears.** Two plates in this folder have failed on colour and they failed identically, from opposite ends:
+**Whichever temperature a plate does not name is the one that disappears — and BANNING one does not name the other.** Three plates in this folder have failed on colour, and the two mechanisms are the same:
 
 - `plates/ch05.md`, the two pails — a cold picture that banned warm colour and named no hues positively. **It came back greyscale.**
 - `plates/ch08.md`, the hand over the face — a warm picture lit by one lamp, with everything else held *dark and loose* and no colour named for the dark. **It came back one uniform brown, with no bare paper anywhere and the ink softened into the wash.**
 
-**A picture needs both, and the one you leave unstated collapses into the other.** So say where the warm stops and what colour the dark is:
+- `plates/ch08.md`, the one who did not laugh — a cold picture that said *no warm colour anywhere* and **came back a warm brown-grey anyway.** The ban was obeyed as a mood and ignored as a fact, because nothing positive stood behind it.
+
+**So a temperature ban is worthless in either direction. Only hues named positively and sited on named objects have ever worked** — *the slate a blue-black, the stone walls a cool pale grey, the benches a grey timber with no warmth in it, and the only warm thing in the picture is skin.* Name the objects, not the mood.
+
+**A picture needs both temperatures, and the one you leave unstated collapses into the other.** So say where the warm stops and what colour the dark is:
 
 > *The warm light stops where it stops, and everything beyond it is cool grey and grey-blue, with no brown and no warm colour anywhere outside the lamp's reach.*
 
