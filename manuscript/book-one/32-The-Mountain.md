@@ -28,7 +28,7 @@ They went on up, Kael's head against his father's shoulder. He could not have li
 
 Kael did not answer, because he was working out what had been asked him.
 
-It was not a question anybody could do anything with. It did not price a thing or set a thing or fix a thing. His father had asked him a great many questions in thirteen years and every single one of them had been for something, and he went back through them while the wall line went past, and he could not find one that was like this.
+It was not a question anybody could do anything with. It did not price a thing or set a thing or fix a thing.
 
 "I don't know," he said.
 
@@ -36,11 +36,11 @@ It was not a question anybody could do anything with. It did not price a thing o
 
 They came up out of the last of the trees and the wind found them, and Kael turned his face into the coat and got it out anyway.
 
-"Is she by herself."
+"Is mother by herself."
 
 "Yes."
 
-He waited for the rest of it. There was not any rest of it. So he did what he had done with every gap his parents had ever left in front of him, which was to fill it with the thing that made it survivable. *When it starts, the master comes.* That had been decided in the autumn and paid for over a winter and had never once needed discussing. It was the one piece of the whole arrangement that had never needed discussing.
+He waited for the rest of it. There was not any rest of it.
 
 "Father."
 
@@ -130,15 +130,11 @@ It was not clean. That was the thing he had nowhere to put. He had stood eleven 
 
 This showed.
 
-His mother's breath was going in short through her teeth. There was sweat standing out along her hairline that had not been there when she knelt down, and her hands were shaking on him, and she went on anyway, slowly and badly, the way you do a thing with the wrong tool because it is the tool you have.
+His mother's breath was going in short through her teeth. There was sweat standing out along her hairline that had not been there when she knelt down, and her hands were shaking on him, and she went on anyway, slowly and badly, the way you do a thing with the wrong tool because it is the only tool you have.
 
-"Air," he said. It came out with no shape on it. "You're air."
+"Mother," he said. It came out with no shape on it.
 
-"Yes."
-
-"You can't—"
-
-"I know what I am," his mother said. "Be quiet. I am counting."
+"Be quiet," his mother said. "I am counting."
 
 There was a piece of her hair hanging down beside his face. He had been looking at it because it was what there was to look at from where he was lying, dark and thick and coming loose out of the wrist she had pushed it back with, swinging a little every time she leaned.
 
