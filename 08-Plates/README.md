@@ -2,11 +2,13 @@
 
 **This folder is self-contained on purpose (author ruling, s34).** `CLAUDE.md` carries one line about it and nothing else, so the plate system costs no context in a writing session. **Everything that governs image generation lives here.** Read this file first when doing plate work; ignore the folder entirely otherwise.
 
-**CHAPTERS 1–9 ALL HAVE TWO PLATES OR MORE (s42).** The programme below names the target and nothing else needs to: **the first chapter in sequence without two.** Candidates are on `plates/candidates.md`.
+**CHAPTERS 1–10 ALL HAVE TWO PLATES OR MORE (s43).** The programme below names the target and nothing else needs to: **the first chapter in sequence without two.** Candidates are on `plates/candidates.md`.
 
 **LIGHT FROM BELOW IS PROVEN (s42).** `ch05/the-fact-lands` put a faint out-of-frame source under a face and lit it properly, so **the gate the Ch. 8 doorway was holding on Aurelian's candle is open** and the candle no longer waits on it. `ch01-fallen-stars` had shown only that an in-frame source throws nothing; the two findings are different and both stand.
 
 **THE PLATES WANT PEOPLE AND EXPRESSIONS (author, s42).** Ruled on the two pails — a still life that rendered correctly and was not what the book wants illustrating. **An object-only plate is not a preferred plate**, however well the objects come out; prefer the candidate with faces in it. `ch01/room-of-true-things`, `ch04/the-knot`, `ch05/the-two-pails` and `ch08/the-roll` are all faceless by design, and that is now a cost each one has to be worth.
+
+**AND NOT OBLIGATORY (author, s43): *faces in them is not obligatory.*** The preference above stands and stops being a gate: **a faceless candidate is priced, not disqualified.** It changed nothing about Ch. 10's pair, which went two faces and one face on other grounds, and it is recorded because the s42 wording read stronger than the author meant it.
 
 **THE PROGRAMME IS CHAPTER ORDER, TWO PLATES PER CHAPTER (author, s42).** Work the chapters in sequence and take two each; do not skip ahead to whatever is unblocked. **This corrected a drift** — Ch. 9's candle was built because a lighting proof had freed it, not because it was next, while Ch. 6 had none. **The first gap in the sequence is the target**, and it needs no naming beyond that.
 
@@ -21,6 +23,8 @@
 - **What did NOT move:** every other spend-state, and **Aeliana's rendering rule in particular** — her beauty may never arrive as a narrator verdict, so a close-up portrait *plate* of her stays illegal however much the programme now wants faces.
 
 
+
+**WHAT s43 DID WITH THE FINISH QUESTION, WHICH IS NOT THE SAME AS THE AUTHOR SETTLING IT.** Asked to choose, the session took **the drawn half of the controlled pair only** — bare paper reserved by name, and the ink protected from a general softening — and left hue per picture, on the ground that **only two of that pair's three clauses are about finish** and the third is colour, which the s42 ruling adjusts by looking at the picture. Both Ch. 10 blocks carry the two clauses. **New blocks should carry them; the set-wide question below is still the author's and has not been put to them again.**
 
 **ONE DECISION THE AUTHOR HAS NOT MADE:** the plate set is not yet consistent in finish — the doorframe is glossier than the long game, the knot and the wrist tighter than the pasture. Fine one at a time, visible in one book. Easier settled now than at forty.
 
@@ -39,7 +43,7 @@
 - `portrait-prompt-system.md` — the RULE for single figures: the fixed STYLE block, the per-character AGE and HAIR blocks, the SUBJECT blocks, the full-figure BASE block, and the generation method.
 - `scene-prompt-system.md` — the RULE for multi-figure scenes, action, contact and aftermath.
 - `images/` — split by kind (s34), because the library outgrew one flat folder:
-  - `images/portraits/` — face references, `<character>-<age>.png`. Head-and-shoulders by default; **half-figure (waist-up, forearms in frame) where the character's build is part of the reference** — Severin's is the first. **A deliberate second face for the same character takes a state suffix** — `kael-9-still` is the first: same boy, same age, only the expression moved, cut because a plate needed a face its reference would not hold and no wording could override (`scene-prompt-system.md` §What the reference carries).
+  - `images/portraits/` — face references, `<character>-<age>.png`. Head-and-shoulders by default; **half-figure (waist-up, forearms in frame) where the character's build is part of the reference** — Severin's is the first. **A deliberate second face for the same character takes a state suffix** — `kael-9-still` is the first: same boy, same age, only the expression moved, cut because a plate needed a face its reference would not hold and no wording could override (`scene-prompt-system.md` §What the reference carries). **The prompt exists and the run does not** — `prompts/portraits/kael-9-still.txt` (s42), nothing in `images/`. The naming convention is established; the file is not. s43 made it less urgent by showing that moving the eyes onto an object does what the override could not.
   - `images/full-figures/` — standing figures, `<character>-<age>-full.png`. **The `-full` suffix is kept even though the folder already says so**, so a filename stays unambiguous wherever it is pasted or cited and no two files share a name across folders.
   - `images/plates/` — the adopted plates themselves, `ch<NN>-<slug>.png`. **These are pages**, so THE PLATE FOLLOWS THE PAGE binds every one of them; the other three folders are references and it does not.
   - `images/scene-tests/` — multi-figure method tests. **References, not pages.**
