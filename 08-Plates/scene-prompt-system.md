@@ -458,6 +458,8 @@ Wound-detail vocabulary — raw, split, edges open — appears to be what causes
 
 **So: when a plate needs a face in a state its reference does not hold, cut a second reference. Do not write a longer override.** Naming the conflict does not resolve it; it just puts two arguments in the frame and the picture is only ever one of them.
 
+**AND TRY THE POSE BEFORE THE SECOND REFERENCE (s43, one instance).** Both failures above argued with the reference in words while leaving the head where the reference put it. `plates/ch10.md`, the honey and the bread, moved the boy's eyes down onto an object instead and wrote no override at all, and `kael-9`'s asking face did not arrive — **a reference has no downcast version of itself to supply.** Changing what the body is doing costs one clause where a new reference costs a run, so it is worth trying first. One run; the sheet carries it.
+
 **Must be written every time:** body proportions in unusual poses, posture, what each hand is doing, everything below the collar, framing, lighting across a whole body, and **all clothing** when more than one character is present.
 
 ---
