@@ -122,3 +122,75 @@ Every entry was checked against **THE PLATE FOLLOWS THE PAGE** when it was writt
 6. **Neris in the doorway.** — **REJECTED (s43).** *One hand on the frame, and she looked at him a moment longer than the doorway needed, and what was in her face was pride, whole, and under the pride, folding itself away as he came near, something else.* A fine moment and a near-duplicate composition of the adopted `ch02-the-doorframe.png`, which is the same woman, the same door and the same hand. **Recorded so it is not proposed again**; if the beat is ever wanted it has to be found somewhere other than the doorway.
 
 *Alternate:* the empty book open to its first blank page. *Full books answer. Empty ones ask.* **The honey jar left this entry at s43** and is candidate 4.
+
+---
+
+## Ch. 11 — The Dish
+
+*Kael is eleven, pinned at the ceremony. Elarine is eleven here and her anchor is a fourteen-year-old — `ch08.md` records that putting her age in the reference line alone got ignored, so a close crop of her needs the age written into the block body.*
+
+1. ★ **The white stitch.** The dish, close: his hand just off the copper rod on its cloth, one thin stitch of light a hand's width across, and his face above it looking at his own hand. *It came off his fingers and went to the copper rod like a thing going home.* The chapter's title beat and the moment his element says its name. **The stitch is reserved as bare paper, not painted** — the folder has never had a subject so exactly suited to its own instrument, and the picture is a grey morning, iron, and one white thing.
+2. **The father's palm.** The lamp, the cupped hand, and the twin crack stitching itself across the hollow of it, with the mended strap set aside on the bench beside him. The chapter's largest fact — *"Mine as well," his father said. "Lightning."* — and a deliberate rhyme with 1: **the same spark in two hands, grey public iron against a dark private room.** *Collision to price: it would put Vask in back-to-back plates after `ch10/the-waterer`.*
+3. **Elarine's fan in the rain.** The duel: *a handspan of flame burning on nothing at all — no wick, no wood, rain falling past it.* Her open palm, her face above it, her breathing unchanged since the salute. Her whole character in one image and there is nothing like fire-standing-in-rain anywhere in the set. **Her cheek-tell must stay out** — `../canon-brief.md` reserves it for Ch. 13 and Ch. 17, and the red bloom she takes here is a scald, not the tell.
+
+*Alternates, both recorded so they are not re-proposed:* her declaration at the dish — *one straight governed column as tall as her forearm* — which is `ch09-aurelians-candle` again, a child and candle-fire near a face; and the healer's bench, which is the honey plate's gaze structure one chapter later, one looking and the other watching them look.
+
+---
+
+## Ch. 12 — The Telling
+
+1. ★ **Furniture.** The long hall at midday: the kitchen boy's tray still on his hip, the middle tables turned and working the story, and at the bench-end a boy eating bread with his face at the room's temperature. *Kael was at the bench-end, being furniture, and furniture hears everything.* **The coat, drawn** — the only picture in the book where the reader knows something every other face in the frame does not. Four resolved figures at most, the rest summary shapes (§Four figures).
+2. **The hole through the tree.** *He threaded the lightning through his own hand, and put the hand through the trunk of a tree, wrist-deep, as if the wood were wool, and drew it out. The tree stood there with a hole through it.* The hand withdrawn, the hole, frost — and the boy reading *the holding, not the hole.* **Same Vask collision as Ch. 11's candidate 2**; one of the two, not both.
+3. **The law on the table.** The lamp, both parents, and *"You will not enter it."* His hands go flat on the boards because hers go flat when a thing matters. Three faces and a fire eating what it is given, and the answer arriving faster than any answer that house has ever given.
+
+*Alternate:* the barred door — iron into stone, the sound the house made when it meant held — with the three of them behind it and the boy asleep above.
+
+---
+
+## Ch. 13 — The Coat
+
+1. ★ **The receipts.** Close on the wrist and the back of the hand: *Little white-pink speckles came up on the wrist and the back of the hand, the Art writing its own receipts.* Three hundred and twenty of them that spring, counted. Frost, a dropped waster, no face needed — **the chapter's title made visible on a body**, and the price of the whole dawn school in one crop.
+2. **The spots of colour.** The hall joke: Oss up on the bench-end doing her flat voice, the crop of laughter, and at the far table Elarine straight as a mast with spots of colour high on her cheeks. **This is one of only two chapters where that tell is legal** (`../canon-brief.md`: Ch. 13 and Ch. 17, nowhere else), and it is the better of the two because here she is being spent in public without having chosen it.
+3. **Oss's face after the laugh crests.** *the performer's smile holding its line while the eyes went somewhere else entirely, the way a man's eyes go along a wall when he is standing in a place he has chosen not to leave.* One face, close, and the end of the book's first friendship inside it — a thing Kael reads whole and cannot read one word of.
+
+*Alternates:* the judge at the trough, talking to the yard and not to Kael, his warmth running level whatever is answered — Halden's first appearance and worth planting; and Aurelian's apology, stopped at a distance measured to the inch, close enough to speak low and far enough to be refused.
+
+---
+
+## Ch. 14 — The Measure
+
+1. ★ **One finger.** On his back in the drawn measure, her point one finger from his face, not touching, and neither the point nor anything behind it wavering. *She had all of it in hand.* The chapter's whole argument in one frame, and the first time in his life the word *match* is called at him.
+2. **Both hands full.** Valeria at the racks taking two wasters, one for each hand, and the yard swallowing its own sound — *It read as ignorance, or as insult, and nothing else about her read as either.* Her defining trait, and the picture the silhouette-separation table in `../README.md` exists to protect.
+3. **The blood in the measure.** A hand above the wrist, blood standing along the cut, bright and undeniable — and behind her the First Master already risen on the steps with the word in his mouth, and her not looking at either of them. *"No." Valeria Vel did not look at him.*
+
+*Alternate:* the name entered — *"What are you called?"* — a boy's name going into a ledger eleven generations deep and sitting there.
+
+---
+
+## Ch. 15 — The Hours
+
+1. ★ **The son's back.** The loft, dressing with his back to the ladder, the summer's marks coming up black and going yellow — *in a whole summer of it his father never once put a mark anywhere above the collar or below the wrist.* **The deliberate rhyme with `ch03-the-back.png`:** the father's scars read like goat paths, the son's stop exactly where the shirt does. Everything the Temple would see, left alone.
+2. **Two blades on the block.** Before dawn, on the block by the woodpile: two blades *plain as spoons, blunted along both edges and rounded at the points.* Not new. A hand giving one over hilt first, and no explanation anywhere in the frame. **The single quietest object in the book's whole armoury.**
+3. **Nobody stands beside her.** The end of a morning at the sea court: the grey coats going up toward the town together, talking, and Valeria the other way, alone, winding her wrists with the case under her arm. The chapter's misread drawn as the chapter states it — and the reader gets to make it too.
+
+*Alternate:* the father not moving — standing over a boy on his hands and knees in the wet with the blade at his side, *looking at him. Not at the mistake. At him.*
+
+---
+
+## Ch. 16 — The Terms
+
+1. ★ **The ear on the brick.** The cistern court: the heir of House Corvane face down on wet brick with his cheek in a puddle and his hair full of moss, Elarine on the wall with a coin of flame standing unmoved on her palm, and Kael mid-circuit. *"I can feel where you are with my face. That is revolting. Do it again."* **The only comic plate the book has**, and the trio working at the same time.
+2. **Nine strides.** The gorse above the old sea court: a boy standing up out of it with his hands where she can see them, and forty feet away a girl alone in the middle of the flagstones who has not turned around. *"You are too light to be one of mine,"*
+3. **The hand on the door.** A palm flat on the wood, the corridor empty behind it, nothing coming through. Eleven weeks in one object, no face in the frame — and the latch about to lift under the hand.
+
+*Alternate:* sitting on the floor of her room with his head back against the wall, waiting, because she finishes her own sentences.
+
+---
+
+## Ch. 17 — The List
+
+1. ★ **Who lives in it.** The cistern court in the last of the light, all four of them: the fleet, the house, the Line, and the boy whose question — *"What happens to them?"* — goes up into the air and finds nothing anywhere to land on. **The first frame that holds all four principals**, and the tested ceiling is exactly four (§Four figures).
+2. **The bottom of the purse.** Valeria on the steps of the sea court with her head hanging, and Kael crouched in front of her asking the next question. *"Ask the rest of them."* Two children spending a morning finding out where the floor of a person is, and neither of them thinking it strange.
+3. **Not enrolling.** The dark court, the three of them turned to him in the ordinary way of a circle going round, and a boy on a bench who has known for a year. *It had never once been a list with his name off it.*
+
+*Alternate, and a deliberate non-choice:* Elarine's cheek-tell is legal here as well as in Ch. 13 — *there was a colour high on her cheeks that Kael had seen twice before* — and it is **spent at Ch. 13 instead**, where she is being spent in public without having chosen it. Two plates of one tell is one too many; recorded so the next session does not re-propose it here.

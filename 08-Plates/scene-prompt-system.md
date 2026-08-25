@@ -500,6 +500,8 @@ What it inherits is the house look and nothing else: the **Medium** and **Colour
 
 **The inherited Colour paragraph is written for faces, and a plate must often override it.** It ends *the warmth belongs to the skin alone, not the paper or the cloth* — true of a portrait, where the face is the only warm thing in the frame. A plate lit by a fire, a lamp or a town has its warmth landing on cloth, timber, stone and water, and a plate with no people in it has no skin at all. **Say where the warmth actually lands, inside the plate block.** Do not edit the fixed STYLE block to suit one picture.
 
+**WHICH reference a plate anchors on is settled: the fourteen-year-old set, for every chapter (author ruling, s44 — `../08-Plates/README.md`).** The cost of that, and the instruments for writing an age the anchor does not carry, are there.
+
 **Anchoring cost, stated per plate.** Scenes want full-body sheets. Plates rarely get them: a plate of a child, of a parent, or of an empty room is anchored on a head-and-shoulders portrait or on nothing at all, and everything below the collar is then authored in the prompt and anchored to nothing — it will not repeat in the next plate. That is not a reason to skip the plate; it is a reason to write the cost on the sheet, so the next session knows which pictures share a body and which only share a face.
 
 ## What a warm source will and will not light (s42)

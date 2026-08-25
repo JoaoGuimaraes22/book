@@ -16,6 +16,12 @@
 
 **AND CLOSE UP (author, s42): the best of these are faces and expressions, near.** Prefer the tight crop on a face doing something over the wide staging of a moment. **A close-up plate is a portrait of a MOMENT, not of a person** — it takes the chapter's own light and the chapter's own expression, and it is legal only where that chapter puts that face in that state. That is what keeps it a plate and not a second portrait: `REFERENCES SHOW THE PERSON. PLATES SHOW THE MOMENT.` still binds it. Ch. 9's `Aurelian's candle` is the named example and is exactly this shape.
 
+**EVERY PLATE ANCHORS ON THE FOURTEEN-YEAR-OLD REFERENCES FROM HERE (author ruling, s44): *I'm gonna use the 14 for all from now on.*** `kael-14`, `elarine-14`, `valeria-14`, `aurelian-14` and `aeliana-15` are the anchors for a plate of **any** chapter. The parents' and Severin's files carry no age suffix and are unaffected. **`kael-4` and `kael-9` stay in the library and stop being the default** — a reference is never deleted, it simply stops being reached for because a chapter is early.
+
+**What it costs, said plainly so no session is surprised by it:** a plate of a boy of eleven now inherits a fourteen-year-old face, so **age has to be written into the block or the picture will be fourteen.** The instruments are `portrait-prompt-system.md`'s eye-line rung and `scene-prompt-system.md` §Scale between figures, whose whole finding is that proportions stated as measurement beat adjectives. This makes §A close-up plate and the age line a live question rather than a dormant one.
+
+**And it is the same instinct three times.** `ch09/aurelians-candle`'s face was ruled correct against this folder's reading that it was years too old, `ch09/the-roller-alone`'s drift was recorded and not corrected, and `vask.png` was ruled Vask against the brief's own temple-grey. **The standing bias is one consistent face across the book, over age-accuracy in any single picture.** `kael-9-still` is moot as a plate anchor and stays where it is: a prompt, unrun, recording why a second face was cut.
+
 **THE GREY IS SPENT FOR PLATES (author ruling, s42). A plate may show Kael's eyes.** This is the folder's ruling and the other files point at it.
 
 - **What moved:** plates only. **The PAGE staging is unchanged** — `03` still spends the grey through other mouths, never a mirror and never self-description, and the parents still never remark on it.
