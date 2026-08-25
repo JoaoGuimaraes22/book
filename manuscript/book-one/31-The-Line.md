@@ -1,6 +1,7 @@
 # Chapter Thirty-One — The Line
 
 The street was lit.
+
 Behind her the bar went across.
 
 The judge let go of her arm. She got her feet properly under her. She put the blade away. The street had a gutter running down one side of it, and a bay tree in a pot outside somebody's door.
@@ -308,6 +309,7 @@ It had been going for four hours. Somewhere out there under it were the people w
 It was because there had been nothing to say. They were not in the arithmetic. They had never been. A house stands for its own, and the sums are done in houses, and it is not possible to be cruel to a quantity you have never once had occasion to write down.
 
 She had been angry since the middle of the morning, and had been holding it down all afternoon with both hands.
+
 It had never once been about *them*.
 
 The party was made in front of her.
@@ -334,7 +336,7 @@ It was not an order, and nobody phrased it as one. The captain of the twelve cam
 
 "You will walk on Her Serene Highness's left from the gate," he said, "and you will give your life for the princess."
 
-"Understood, sir," Valeria responded.
+"Understood," Valeria answered.
 
 It was her purpose. A Vel walks on the royal left. There is not a word in the language of her house for wanting to be somewhere else. And she did not want to be somewhere else.
 
@@ -370,7 +372,7 @@ Elarine said it back. All of it, in order, without a word out of place, because 
 
 "That is not a good argument."
 
-"Yes. It is not a very good one. I taught that to you."
+"No," her mother agreed. "It is not. And I am not going to give you a better one."
 
 Something moved in Elarine's face and did not get anywhere.
 
