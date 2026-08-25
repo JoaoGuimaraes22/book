@@ -90,6 +90,12 @@ Describe what the garment DOES instead: how long it falls, how it closes, what t
 
 Then pin it with §Scale between figures, as always: *as wide as the candle is wide, standing as tall as the distance from his chin to his eyebrows.*
 
+**AND THE TRAP ON THE OTHER SIDE OF IT: A CORRECTION CAN BURY THE THING IT WAS CORRECTING FOR (s41).** Killing a default takes several clauses, and those clauses crowd out the feature the object is actually named for.
+
+`plates/ch06.md` fixed a rock that rendered as a menhir by writing five clauses of *irregular, weathered, broader at the base, no straight edges, nothing shaped by hands* — and put the fracture sixth. `plates/ch07.md` ran it: **the menhir was gone and so was the split**, on a rock whose name is the split rock.
+
+**Say the defining feature FIRST, with a measurement, then correct the shape.** The order is the instruction. A renderer builds what it reads first and spends what is left on the qualifiers.
+
 ### A close-up plate and the age line — RAISED, NOT CONFIRMED (s41)
 
 **Logged as an open question, not a finding, because the evidence was overturned.**
