@@ -140,6 +140,19 @@ Proven twice, in two different domains:
 
 **The reusable shape is two clauses: hold the rival at quiet middle values with no hard edges, then site the sharpest step from light to dark on the winner.** It was recorded as an eye technique. It is a picture technique.
 
+### A prompt is an instruction, not an explanation (s37)
+
+**The single biggest source of waste in this folder's prompts, and it is a writing habit rather than a technique.** Prompts get drafted like documentation — each idea in its own capitalised paragraph, with the reasoning attached — and the reasoning is addressed to a person who is not going to read it. The author cut roughly a third of the Ch. 3 back prompt without removing one instruction, and the result was better. What came out:
+
+- **Rationale.** *This low viewpoint is deliberate and it is what tells you who is watching* · *and they are the reason for the picture* · *the absence is deliberate.* **Keep the priority, cut the justification.** *X is the subject of the image* is a priority instruction and works; *and here is why X matters* is a note to a colleague.
+- **One fact stated three times.** *His face is not in this picture* in the reference line, `NO FACE AND NO HEAD FEATURES ARE VISIBLE` in the composition, and *he is not turning and not looking back* after it. Say it once.
+- **Negations with no pull** — *no wound, nothing fresh, nothing red and no blood* on a body described as long healed; *no cloth, no soap, no bucket, no tool.* The rule already exists in this file and it applies to inline lines, not only to boilerplate paragraphs.
+- **Numbers doing no work.** *At the eye height of a child of eight* → *at the eye height of a child.* The number was for the author's benefit.
+
+**And structure: one capitalised paragraph per idea destroys the emphasis it is spending.** Fifteen shouted headers means nothing is prioritised. Merge related instructions into a few dense blocks and reserve caps for the two or three things that will actually fail.
+
+**Test before adding a line: could a renderer draw something different because of it?** If not, it is for the sheet's prose, not the prompt.
+
 ### Scale between figures — STATE IT AS MEASUREMENT (s37)
 
 **This is the most useful thing the scene system has learned, and it overturns an earlier finding.** A child rendered several years too old was blamed on the attached face reference outvoting the words. That was wrong. **Adjectives lose; ratios win**, and the reference is not the problem:
