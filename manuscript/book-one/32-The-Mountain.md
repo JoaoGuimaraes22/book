@@ -230,7 +230,7 @@ He had been at the door for some while. He stood in it the way he stood at the b
 
 "How long," he said, without turning round.
 
-"Hours. Three, four. It could be one." Kael put his head back on the fleece. "The gaps are nowhere near eighty seconds yet. Under eighty and it is close."
+"Hours. Three, four. It could be one." Kael put his head back on the fleece.
 
 "Can she be moved."
 
@@ -240,49 +240,18 @@ His father took that. He came back into the middle of the room and stood there w
 
 "Then we hold this house," he said.
 
-He said it the way he said *the wood wants splitting.*
+He said it the way people say their own name.
 
-"They came off the boats onto every beach on the west and the south. They have worked inland all day. They took the village. They took the district road. What went past us on the east this evening was going over toward the goat ground. They will not have stopped for the dark. Men who intend to hold ground stop for the dark. Men who intend to clear it do not." He put one hand flat on the table. "There is no road off this mountain tonight that we can carry her down. So it happens here. We hold this house until she is finished. Then we go over the shoulder and down the far side to the water, and we put her and the child in that boat. I do not care what we walk through to do it."
-
-Nobody had asked Kael anything.
-
-Nobody ever had. He had been thirteen years old in the autumn and had stood at that table while a plan was made about his life in front of him in complete detail, and he had said nothing, because saying nothing was the shape of the room and he had never once found the edge of it.
-
-He found it now, lying on his back on a fleece, looking at the beams.
-
-"There's nothing on that water," he said.
-
-His father turned round.
-
-"There is a line of ships in the bay off Kellis' landing from one headland to the other and there were men coming off them at the last of the light and working up. There is a second line behind that one. I saw it twice, four hours apart, from two different heights, and the second time there was more of it than the first." He got it out level and did not stop in the middle of it, because stopping in the middle would have made it a thing that needed help. "Whatever is in that cut is either burned or it has got somebody else's men in it by now. The eastern water is not empty. It has not been empty since noon."
-
-The fire moved. His mother turned her head.
-
-His father stood in the middle of his own house and looked at his son for what felt like a long time and was probably three seconds.
-
-"You are sure."
-
-"I am sure of the ships. I am not sure of the cut, because I never got high enough to see into it."
-
-"Good," his father said. "That is the right answer."
-
-And that was all. No part of him changed. He went back to the door and stood in it side-on and looked at the sky over the path, and Kael lay on the floor with his heart going and understood that he had taken the last thing his family had, and put it on the table, and been thanked for it.
-
-His mother said, from the fleece, in the voice she used for a result she did not like, "It was a good plan for a spring with nothing in it."
-
-"It was," said Vask.
+"They came off the boats onto every beach on the west and the south. They have worked inland all day. They took the village. They took the district road. What went past us on the east this evening was going over toward the goat ground. They will not have stopped for the dark. Men who intend to hold ground stop for the dark. Men who intend to clear it do not." He put one hand flat on the table. "Moving her in this state, would be dangerous itself. So it happens here. We hold this house until she is finished. Then we go over the shoulder and down the far side to the water, and we put her and the child in that boat. I do not care what we walk through to do it."
 
 Then he went out into the yard.
 
 He came back with two short blades.
-
-He did not say where they had come from. He had done this once before, on a wet morning at the top of the yard one year out: into the shed, back with two, nothing said. Kael had spent a certain amount of that winter wondering, and had never asked.
+He did not say where they had come from. 
 
 These two did not match at all. One had a straight guard and the other had none. The grips were wrapped in two different colours of cord, both worn shiny, and the shorter one had a nick out of the edge two inches from the point that had been dressed out by somebody who knew how.
 
 His father crouched down and put them on the boards beside his son's right hand where he could reach them lying down.
-
-There was a thing Kael had been carrying since the round of eight. He had pulled the wrap off in front of eleven thousand people and drawn both blades against a standing instruction, because a girl at the other end of that sand was going to beat him. He had walked up the hill afterwards and told his parents every part of it, including that part. His father had heard the whole of it. He had said nothing about it that night. He had said nothing the next morning. He had now seen what his son did with two blades in his hands for an entire day.
 
 He put them down where the boy could reach them, and stood up, and went back to the door.
 
@@ -292,15 +261,19 @@ Kael did not say thank you, because it would have made it a smaller thing.
 
 The noise came up the path a little after that.
 
-His father was off the frame and out into the yard before Kael's own body had finished telling him about it. Kael got his legs under him for the first time since the wall of a byre, and went after him with a blade in each hand and his ribs sitting inside his chest like a stack of plates.
+His father was off the frame and out into the yard before Kael's own body had finished telling him about it. Kael got up and went after him with a blade in each hand and his ribs sitting inside his chest like a stack of plates.
 
 Outside, the dark was full of wind and orange cloud. The pens went down the slope in front of them, grey and empty. And on the path below the pens, coming up in a line, were people.
 
-A great many people.
+Two lamps, badly held. Kael got to the shoulder of the yard, gave it four seconds, and had the number.
 
-Two lamps, badly held, one near the front, one somewhere back in the middle. The line moved the way a rope moves when it is dragged. It was long. Kael got to the shoulder of the yard, gave it four seconds, and had it: more than fifty, less than seventy, moving at the speed of the slowest thing in it, no order to it at all past the first ten.
+Fifteen. Two of the grey coats were being held up between other people's shoulders.
 
-The first ten had order.
+The second lamp was at the back of them, which is where the second lamp goes. There was nothing behind it.
+
+You do not put a lamp at the back of fifteen people.
+
+The first eight had order.
 
 His father did not move. He stood in his own yard with his hands empty at his sides and let them come up.
 
@@ -332,17 +305,13 @@ Kael stood in the yard with his sentence still in his mouth, and put it away.
 
 They came up past him into his yard, and he stood at the shoulder of it and read them going by because reading them was the only thing he had ever known how to do with people.
 
-Twelve in dark grey, no colour on any of them, and they did not bunch. They came up the last of the path and put themselves out across the yard without one word being said, each of them standing where a thing would have to come from, and the small one in the middle of them never had more than two feet of open ground on any side of her.
+Eight in dark grey, no colour on any of them, and they did not bunch. They came up the last of the path and put themselves out across the yard without one word being said, each of them standing where a thing would have to come from, and the small one in the middle of them never had more than two feet of open ground on any side of her.
 
 She was in the same shoes she had worn on a raised floor in a room with ice in a silver bowl. Somebody had put a soldier's cloak over a gown with gold along the hem. The hem was ruined to the knee. Her hair had been up in a construction that took more than one person more than an hour, and it was down now on one side. She was fourteen years old, she had walked six miles up a mountain in those shoes, and Kael watched her come into his yard and stand where they put her.
 
 She did not look at the house. She looked at the cloud over it, and at the orange in it, and she went on looking at that.
 
-Behind the guard, the rest.
-
-Four in Temple grey he did not know. A girl with her arm through another girl's. Two men of some house's colours carrying a third between them. A big man in Corvane grey walking with a child on his back.
-
-And then, up out of the dark at the bad end of the line, the ones he did know.
+Behind the guard, at the bad end of the line, the rest of it, and there was nobody in the rest of it he did not know.
 
 Elarine Sedrane came up that path with her hands empty and her hair still bound severely and every part of her emptied out. She had been mended in front of the empire two mornings ago and had had nothing left in her then. She got to the top and stopped. She saw him standing there with two blades and blood dried to his elbows, and said nothing whatsoever. He could not read her face at all. That was so exactly the ordinary state of things between them that something in him turned over.
 
@@ -402,13 +371,13 @@ She did not ask now either.
 
 The argument happened in the yard, in front of everybody, and it took about four minutes.
 
-The captain of the twelve was a grey-headed man with a countryman's face and he did not raise his voice once.
+The captain was a grey-headed man with a countryman's face and he did not raise his voice once.
 
 "First Master. We do not stop here."
 
 "We stop here."
 
-"There is a woman in that house who cannot walk. That is very hard. I am sorry for it. It is not a thing I am able to weigh." He said it without any cruelty in it at all, which made it worse. "I have Her Serene Highness on an open mountain with fifty-odd civilians strung out behind her and a lamp at both ends of them. Every hour we are standing still is an hour somebody uses. Give me the road to the boat and we will go. You may follow when you are able."
+"There is a woman in that house who cannot walk. That is very hard. I am sorry for it. It is not a thing I am able to weigh." He said it without any cruelty in it at all, which made it worse. "I came off that wall with twelve. I have eight, and I have six children behind them who are not soldiers, and I have lost every one of the rest between here and the far gate. Every hour we are standing still is an hour somebody uses. Give me the road to the boat and we will go. You may follow when you are able."
 
 "No."
 
@@ -444,7 +413,7 @@ Nobody said anything for a moment.
 
 ---
 
-They put the children in the house and against the north wall of it, and the four men of some house's colours on the woodpile end, and the guard round the princess in the angle where the wall of the house met the wall of the store, which was the only corner of that yard that could not be come at from two sides at once.
+They put the children against the north wall of the house, and the guard round the princess in the angle where the wall of the house met the wall of the store, which was the only corner of that yard that could not be come at from two sides at once.
 
 The captain began laying out the rest of it off what he could see, which was the path, the pens, the open ground above the yard. He did it well and quickly. He got it wrong. Kael stood four feet away and listened to him get it wrong with his mouth shut, because he was thirteen and this was a man who had spent his life doing this.
 
@@ -474,9 +443,9 @@ He stopped.
 
 The wind went across the yard. Somewhere down in the house his mother made a sound through the wall and he registered the time it happened and put it in the count without any part of his face doing anything about it.
 
-The captain of the twelve looked at him for two full seconds.
+The captain looked at him for two full seconds.
 
-"Second bend and the lower pen corner," he said. "Six of mine to the bend, the four house men with them. I want the two heaviest at the front of it, stood at the narrow. Everybody else on the corner of that pen." He was already moving. "You. Boy. Stay where I can find you."
+"Second bend and the lower pen corner," he said. "Four of mine to the bend. I want the two heaviest at the front of it, stood at the narrow. Three on the corner of that pen. One stays on Her Serene Highness with the Vel." He was already moving. "You. Boy. Stay where I can find you."
 
 Nobody argued with any of it, because Vask had not argued with any of it, and every man in that yard had watched him not argue.
 
