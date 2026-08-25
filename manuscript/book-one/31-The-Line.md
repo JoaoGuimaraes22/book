@@ -1,9 +1,6 @@
 # Chapter Thirty-One — The Line
 
 The street was lit.
-
-That was the first thing she had of the inside, and for a moment it would not resolve into anything: lamps burning in their brackets along a garden wall in the middle of the morning, because somebody had lit them before dawn and nobody had been sent round since to put them out.
-
 Behind her the bar went across.
 
 The judge let go of her arm. She got her feet properly under her. She put the blade away. The street had a gutter running down one side of it, and a bay tree in a pot outside somebody's door.
@@ -28,7 +25,7 @@ There were not four hundred.
 
 She counted while she crossed the yard, because counting was faster than asking, and she had ninety-one before the tables ran out. Some of those were on the tables.
 
-"Vel."
+"Val."
 
 Aurelian Corvane was sitting on the edge of a horse trough with his left arm held against his body in a way she had watched him hold it for four days. He got up when she came over, which he did for her now and could not seem to stop doing, and it cost him something this time.
 
@@ -38,25 +35,35 @@ Aurelian Corvane was sitting on the edge of a horse trough with his left arm hel
 
 "Your arm has been not all right since Meloran, and you have used it today. Sit down."
 
-He sat down. Elarine Sedrane was on the trough beside him with her back against the stone and her hands loose in her lap, palms up, which was not a thing Elarine did. There was a burn along her jaw that nobody had looked at yet. She had been mended in front of eleven thousand people the previous morning. There was nothing left in her. It showed in her mouth.
+He sat down. Elarine Sedrane was on the trough beside him with her back against the stone and her hands loose in her lap, palms up, which was not a thing Elarine did. There was a burn along her jaw that nobody had looked at yet. She had been mended in front of eleven thousand people the previous morning. There was nothing left in her. It showed.
 
 "You came up the road," Elarine said.
 
 "Yes."
 
-"Then you know more than anybody in this district."
+"Then you know more about what is outside this wall than anybody standing inside it."
 
-"Who is holding it?"
+"Probably." Valeria looked back down the length of the street, at the sets of colours moving about in front of the gate. "Who is holding the wall?"
 
-"The houses are holding it."
+"The houses are holding the wall."
 
-"Which of them."
+"Which of them?"
 
-"All of them," said Elarine. "That is the problem."
+"All of them."
 
-Valeria looked back at the gate end of the street, at the different sets of colours, and put a mark against it.
+"All of them how?"
 
-"What word is there," she said. "Who they are, and why."
+Elarine turned her head far enough to look at her properly, which cost her something she could not entirely keep off her face.
+
+"Every house has its own men on its own stretch," she said. "Every house is giving its own men its own orders. There is nobody standing over the top of it. My mother has been at them since the second hour to put one man in charge of the whole wall, and they will not do it, because the moment they do, whoever is chosen is standing over everybody else's men. No house in this district is going to be the one that agrees to that today."
+
+Valeria had read it off the street on the way in and had been hoping to be wrong about it.
+
+"How many stretches?"
+
+"Seven. Perhaps eight. Nobody has a list."
+
+"What word is there," Valeria said. "Who they are, and why."
 
 Aurelian answered, because Aurelian always answered. "Eastern. The colours are eastern, somebody said that at the wall. There's a count going round that says nine thousand off the boats and another that says thirty. My uncle's man says the garrison is coming up from the south and will be here by the afternoon."
 
