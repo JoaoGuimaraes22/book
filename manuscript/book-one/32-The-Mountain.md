@@ -263,23 +263,27 @@ The noise came up the path a little after that.
 
 His father was off the frame and out into the yard before Kael's own body had finished telling him about it. Kael got up and went after him with a blade in each hand and his ribs sitting inside his chest like a stack of plates.
 
-Outside, the dark was full of wind and orange cloud. The pens went down the slope in front of them, grey and empty. And on the path below the pens, coming up in a line, were people.
+His father took the longsword off the wall on the way through the door and did not break stride doing it.
 
-Two lamps, badly held. Kael got to the shoulder of the yard, gave it four seconds, and had the number.
+Outside, the dark was full of wind and orange cloud. The pens went down the slope in front of them, grey and empty. And on the path below them, coming up in a line, were people.
 
-Fifteen. Two of the grey coats were being held up between other people's shoulders.
+Neither of them said one word about where to go.
 
-The second lamp was at the back of them, which is where the second lamp goes. There was nothing behind it.
+Kael went right, off the corner of the yard where the ground fell away, because a man coming up that path could not see anything standing there until he was past it. His father went out into the middle of the open and stopped, square, between the path and his own door.
 
-You do not put a lamp at the back of fifteen people.
+Two lamps, badly held.
 
-The first eight had order.
+Kael put his back on the stone and counted, and it came out as a target list, because that is what a count is on a path that has never in its life carried more than three people at once. Fifteen. Two of them being held up between other people's shoulders. The first eight had order in them. The rest did not.
 
-His father did not move. He stood in his own yard with his hands empty at his sides and let them come up.
+His right hand had finished setting itself on the grip. He had not asked it to.
 
-At the front of it, out ahead of the lamp, climbing that path at the pace of a man who has been walking since noon and has decided not to stop, was the First Master of the Temple.
+Then the front of the line came up far enough for the light off the house to reach it, and it was the First Master of the Temple.
 
-He was hatless. The robe was gone; he was in a coat somebody had given him, and it did not fit. He came up the last of the pens and stopped in front of Vask. Kael, standing four feet off with a blade in each hand, saw his face come out of the dark into the light off the house, and had to look at it twice.
+Kael heard his father breathe out.
+
+It was one breath and it was not loud, and the point of the longsword came down about two feet and stopped there. Kael had never heard him do that.
+
+He was hatless. The robe was gone; he was in a coat somebody had given him, and it did not fit. He came up the last of the pens at the pace of a man who has been walking since noon and has decided not to stop, and stopped in front of Vask, and Kael saw the face properly for the first time and had to look at it twice.
 
 Kael had the sentence ready. He had been carrying it since a gap eighteen inches wide in a wall at the wrong end of the island, where he had spent it whole on a man it did not reach: *he said I was not standing in it by myself, not me and not my house.* He had it in his mouth complete and he had had it in his mouth for nine hours and he opened it to put it down in front of the old man at last.
 
@@ -304,6 +308,8 @@ Kael stood in the yard with his sentence still in his mouth, and put it away.
 ---
 
 They came up past him into his yard, and he stood at the shoulder of it and read them going by because reading them was the only thing he had ever known how to do with people.
+
+The second lamp was at the back of them, which is where the second lamp goes. There was nothing behind it. You do not put a lamp at the back of fifteen people.
 
 Eight in dark grey, no colour on any of them, and they did not bunch. They came up the last of the path and put themselves out across the yard without one word being said, each of them standing where a thing would have to come from, and the small one in the middle of them never had more than two feet of open ground on any side of her.
 
