@@ -55,7 +55,7 @@ Every entry was checked against **THE PLATE FOLLOWS THE PAGE** when it was writt
 
 ## Ch. 5 — The Year
 
-1. ★ **Past the split rock.** Night, the end of the path, a hand coming off the stone — and far below, in the corner where the land meets the sea, the whole heap of fallen stars burning end to end on the longest night, doubled and trembling in the black water. From behind, from above the boy's shoulder. **The deliberate bookend to Ch. 1's flat rock:** same lights, same child, and this time nobody turned his chin.
+1. ★ **Past the split rock.** — *built on the `ch05.md` sheet, unrun; the author's named target (s40). **That sheet fixes the split rock as a man-high upright stone with one cleft** — it recurs in Ch. 6 and Ch. 7.* Night, the end of the path, a hand coming off the stone — and far below, in the corner where the land meets the sea, the whole heap of fallen stars burning end to end on the longest night, doubled and trembling in the black water. From behind, from above the boy's shoulder. **The deliberate bookend to Ch. 1's flat rock:** same lights, same child, and this time nobody turned his chin.
 2. **The two pails.** A hard-frost morning, a bench, two pails found together: one wearing its lid of ice, one dark and unfrozen and moving when it is rocked. Two objects, no people. *The more salt the water carries, the deeper the cold must bite to hold it.* This is the picture that kills the promise.
 3. **The tap.** Ground level, frost on the cheek, a boy folded under the patient mass of his father — and the free hand flat on the frost, tapping twice. *The hand talks.*
 
@@ -67,7 +67,7 @@ Every entry was checked against **THE PLATE FOLLOWS THE PAGE** when it was writt
 
 1. ★ **The door that does not hold.** On the night of all lamps, one cluster of roofs sitting in its own dark, and a door standing open, swinging a little when the sea-wind finds it, knocking softly against its own frame. All Kael's life a door is a thing that holds. Draw the door; leave what lies in the spilled dark to the reader, or out of frame entirely.
 2. **The wheel.** The girl against the cart wheel in the yard's dark, knees up, wrists tied behind her and finished low where her hands cannot follow — and a boy's fingers already reading the knot. Her eyes have found him and her mouth has closed again. *The tie, never the violence.*
-3. **Carried past the rock.** The climb home: the father with the boy in his arms, the split rock standing up out of the dark, and the mother waiting at the end of the path, straight and still, her hand arriving on Kael's head and riding there the whole way up. Nobody says anything the entire climb.
+3. **Carried past the rock.** The climb home: the father with the boy in his arms, the split rock standing up out of the dark (size fixed by `ch05.md`), and the mother waiting at the end of the path, straight and still, her hand arriving on Kael's head and riding there the whole way up. Nobody says anything the entire climb.
 
 *Alternate:* the last paragraph as a landscape — the feast burning end to end along the water, and one cluster of roofs dark in the middle of it, looking from up here exactly as it always has.
 
@@ -76,7 +76,7 @@ Every entry was checked against **THE PLATE FOLLOWS THE PAGE** when it was writt
 ## Ch. 7 — The Opening
 
 1. ★ **The Temple from the road.** The last shoulder of the coast, and the thing that has been a pale shape his whole life turning out to be full: walls out of the headland, courts inside the walls, the tower with the morning sun on its face, and children crossing the outer court in twos and threes at the pace of belonging there. A small boy on the road with his hand on the strap of a bag, near where the knife is not.
-2. **Kael of what?** The master waiting on the near side of the split rock, leaning on a stick he does not need. **Plant this one deliberately** — the same question is answered at a wall, in wartime, later in the book, and the two pictures should rhyme on purpose.
+2. **Kael of what?** The master waiting on the near side of the split rock (size fixed by `ch05.md`), leaning on a stick he does not need. **Plant this one deliberately** — the same question is answered at a wall, in wartime, later in the book, and the two pictures should rhyme on purpose.
 3. **The wasters.** Winter evening, the drawknife, shavings coming off in whispers, one waster held out level on two fingers to see where it wants to tip — and across the room a boy healing by the same fire. The father building the things they are going to fight each other with. *Heavier at the tip than steel.*
 
 *Alternate:* the knife back on the wall, cleaned, in its place in the order of tools. *We know everything, and here is your knife.*
