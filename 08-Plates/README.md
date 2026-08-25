@@ -8,6 +8,8 @@
 
 **THE PLATES WANT PEOPLE AND EXPRESSIONS (author, s41).** Ruled on the two pails — a still life that rendered correctly and was not what the book wants illustrating. **An object-only plate is not a preferred plate**, however well the objects come out; prefer the candidate with faces in it. `ch01/room-of-true-things`, `ch04/the-knot`, `ch05/the-two-pails` and `ch08/the-roll` are all faceless by design, and that is now a cost each one has to be worth.
 
+**THE PROGRAMME IS CHAPTER ORDER, TWO PLATES PER CHAPTER (author, s41).** Work the chapters in sequence and take two each; do not skip ahead to whatever is unblocked. **This corrected a drift** — Ch. 9's candle was built because a lighting proof had freed it, not because it was next, while Ch. 6 had none. **The first gap in the sequence is the target**, and it needs no naming beyond that.
+
 **AND CLOSE UP (author, s41): the best of these are faces and expressions, near.** Prefer the tight crop on a face doing something over the wide staging of a moment. **A close-up plate is a portrait of a MOMENT, not of a person** — it takes the chapter's own light and the chapter's own expression, and it is legal only where that chapter puts that face in that state. That is what keeps it a plate and not a second portrait: `REFERENCES SHOW THE PERSON. PLATES SHOW THE MOMENT.` still binds it. Ch. 9's `Aurelian's candle` is the named example and is exactly this shape.
 
 **THE GREY IS SPENT FOR PLATES (author ruling, s41). A plate may show Kael's eyes.** This is the folder's ruling and the other files point at it.
