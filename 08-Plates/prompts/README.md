@@ -12,7 +12,7 @@ Each file is complete and paste-ready in order: **STYLE · AGE · HAIR (where us
 ## Provenance — which of these actually produced the adopted image
 
 **VERBATIM AS RUN (s34).** These are the prompts that made the images now in `../images/`:
-`portraits/aurelian-14` · `portraits/elarine-14` · `portraits/neris` · `portraits/vask` · `portraits/severin` · `scene-tests/quartet-conversation` · `portraits/kael-4` (s36, first run, adopted)
+`portraits/kael-9` (s37, author-revised, first run) · `portraits/aurelian-14` · `portraits/elarine-14` · `portraits/neris` · `portraits/vask` · `portraits/severin` · `scene-tests/quartet-conversation` · `portraits/kael-4` (s36, first run, adopted)
 
 **ASSEMBLED, NOT AS-RUN (the s33 set).** `portraits/kael-14` · `portraits/valeria-14` · `portraits/aeliana-15` and all three `full-figures/`. The SUBJECT blocks are exactly what ran, but **the fixed block changed at s34** — the old one carried the cheek clause, an inline age paragraph and the hair line, and it was split into STYLE / AGE / HAIR. **Re-running these will not reproduce the adopted images.** They are the current-system version of those characters, which is what a fresh run should use.
 

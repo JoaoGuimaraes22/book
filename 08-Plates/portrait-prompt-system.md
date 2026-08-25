@@ -261,7 +261,17 @@ him, in dull oatmeal and dead olive.
 
 ### Kael at nine
 
-**NOT YET RUN.** The library's largest gap: there is no Kael between four and fourteen, and Ch. 3 to Ch. 8 all want his face. **Nine covers Ch. 4, Ch. 5 and Ch. 6 exactly and is close enough for Ch. 3 (eight) and Ch. 7 (ten)** — five chapters from one portrait, including the night.
+**ADOPTED:** `images/portraits/kael-9.png`, first run. **The block below is the author's revision and is what ran** — three additions, and one of them matters to every image in the folder.
+
+**1. THE INTERMEDIATE RUNG WORKS. THE LADDER IS A DIAL.** *Eyes JUST BELOW the vertical midpoint — closer to that midpoint than a small child's, and still clearly below it* came back reading nine: not four, not twelve, no snapping to a neighbouring stop. **So the eye line is a continuous control, not three settings**, and any in-between age the book needs is now cheap. This is the second thing the eye line has carried on its own and it remains the only age instruction that works unaided.
+
+**2. `THE INK CARRIES THE CLOTH` IS THE FINISH FIX, and it is general.** Author-added: *dense scratchy linework in the seams, the patches, the mended places and the coarse weave at the collar, ink dominant over wash throughout the garment.* The set had been drifting toward glossy rendering — `plates/ch02.md` records the doorframe coming back more finished than the plates it has to sit beside. **This clause is the counterweight, and it belongs on anything wearing worked cloth.** The fixed STYLE block asserts *the ink linework remains the strongest element* as a global claim; this proves the claim needs re-stating locally, on the garment, to actually happen.
+
+**3. HE CAME BACK FRECKLED, UNBIDDEN.** The block deliberately says nothing about freckles and the run put them across the nose and cheeks anyway. **This is the s34 granulation ruling confirming itself** — the medium speckles every face, it is texture and not a mark, and it cannot be prevented by silence. So the *no freckles for set consistency* reasoning above is moot: the medium supplies them regardless, and `03`'s ruled freckles are not spent by an artefact. **Do not add a negation stack to fight it.**
+
+**ONE DEPARTURE, ACCEPTED:** the block says *cool pale parchment ground* and the run put a village and a mountain behind him. Every other portrait in the library is on bare ground. **Not corrected — the image is adopted as it stands** — but a re-cut should expect to state the empty ground harder.
+
+The library's largest gap, now closed: there is no Kael between four and fourteen, and Ch. 3 to Ch. 8 all want his face. **Nine covers Ch. 4, Ch. 5 and Ch. 6 exactly and is close enough for Ch. 3 (eight) and Ch. 7 (ten)** — five chapters from one portrait, including the night.
 
 **IT SITS BETWEEN TWO LADDERS, WHICH IS THE WHOLE DESIGN.**
 
@@ -287,6 +297,8 @@ light to dark in the whole picture happens inside the eye itself,
 at the edge of the iris.
 Dark hair, cut short and uneven at home by somebody who was not
 being careful, falling over the forehead.
+Handsome, with faintly asymmetrical features — one brow set
+slightly higher, nose a fraction off centre.
 Outdoors at altitude his whole life: wind-chapped, high colour
 across the cheeks and the nose, cool grey dust and dirt on the skin
 and in the creases of the neck, the grime staying cool grey and
@@ -294,12 +306,16 @@ never warm brown. A CHILD'S skin under it — nothing worked deep, no
 roughness, no hardness anywhere in it.
 No scars and no marks anywhere on him.
 Expression ALERT AND DIRECT, wholly present, meeting the viewer
-head-on with open unhurried attention — a boy in the middle of
-asking something. Interested, unguarded, unafraid. Mouth closed and
-relaxed. NOT flat, NOT blank, NOT level, NOT guarded, NOT wary, not
-sullen, not sad, not solemn, not smiling.
+head-on with open unhurried attention. Brows slightly raised, eyes
+wide and fully open, lips closed but not pressed — a boy in the
+middle of asking something. Interested, unguarded, unafraid. NOT
+flat, NOT blank, NOT level, NOT guarded, NOT wary, not sullen, not
+sad, not solemn, not smiling.
 Plain undyed wool, coarse and much mended, in dull oatmeal and dead
-olive, the collar loose at the throat.
+olive, the collar loose at the throat. The ink carries the cloth —
+dense scratchy linework in the seams, the patches, the mended
+places and the coarse weave at the collar, ink dominant over wash
+throughout the garment.
 ```
 
 ### Valeria

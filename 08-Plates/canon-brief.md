@@ -10,6 +10,7 @@ The prompts are written where `00`, `02` and `03` cannot be seen. Every canon er
 
 - **The world has exactly two body-marks of magic: RED EYES** (the Kynemir bloodline) **and WHITE HAIR** (drain — the mark of having gone too far down). **White hair is DATA, never styling.** It says this person went to the bottom of their reserve and nearly died, and it never reverses. Do not whiten a head for drama, age or contrast.
 - **Aeliana's silver is a VESSANTINE HOUSE TRAIT and is NOT the drain-mark.** The drain-mark's register is **pure quartz white** — cold and hard. Her silver is **warm and bright.** Keep them visibly distinct.
+- **The medium speckles every face and it is TEXTURE, NOT A MARK** (author ruling, s34; confirmed s37 when a block that said nothing about freckles came back freckled). Do not read it as canon on anybody and do not write negations to fight it.
 - **Colour lives in the eyes.** Everything else muted and earthy. Saturated eyes win on saturation; **Kael's grey cannot and wins on value instead** — the lightest point in the face.
 - **Two visual registers.** The **island** keeps its own material culture; the **capital and imperial houses** are Latin-Byzantine. A character reads by where they are and what they are doing, not by their house.
 - **NEVER DESIGN "THE COAT."** It is the book's central metaphor for Kael's concealment — Ch. 13 is titled for it — not a garment to style. Literalising it flattens the image.
