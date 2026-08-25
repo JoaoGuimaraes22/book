@@ -104,7 +104,7 @@ Every entry was checked against **THE PLATE FOLLOWS THE PAGE** when it was writt
 ## Ch. 9 — The Ledger
 
 1. ★ **Aurelian's candle.** — **BUILT AND ADOPTED (s41): `images/plates/ch09-aurelians-candle.png`; sheet `ch09.md`.** The wax caught — a fistful of fire standing off the bench, the boy beside him going backward off his heels — and for one breath **the fire lighting Aurelian's face from below.** His sheet already names this as the best image of him in the book, and as a plate rather than a portrait, because it breaks the portrait system's fixed lighting. This is where it gets made.
-2. **The roller, alone.** Forty children and a drum of grey stone the length of a man, walked across the yard in stiff little tips and shoves by one boy with a pry-bar and a chock. The seven who did it first are still getting their breath back. *Again. Alone.*
+2. **The roller, alone.** — *built on the `ch09.md` sheet, unrun.* Forty children and a drum of grey stone the length of a man, walked across the yard in stiff little tips and shoves by one boy with a pry-bar and a chock. The seven who did it first are still getting their breath back. *Again. Alone.*
 3. **The hand over the slate.** An emptying room, and at the end of a bench a stylus coming down — five words' worth of moving — and a hand laid flat over what it wrote, the way you put your hand over a coin on a table. **Keep the cheek-colour out; that tell belongs to Ch. 13 and Ch. 17, not here.**
 
 *Alternate:* the standings nailed to the colonnade — a column of names with three parts each, and four lines from the top one plain short name, like a nail among rings.
