@@ -405,6 +405,20 @@ A shallow arc — all three angled toward each other but every face visible — 
 
 ---
 
+## Lettering renders, under conditions (s41)
+
+The folder had assumed text was not worth attempting. **One clean instance now says otherwise:** `plates/ch08.md` put `MINIMA` on a lecture-room slate and it came back correctly spelled in even chalk capitals at the stated size.
+
+**The conditions it was given, all of which are cheap to repeat:**
+
+- **One short word.** Not a phrase, not a sentence.
+- **All capitals**, which have no ambiguous letterforms to invent.
+- **Named exactly**, in the prompt, as the string to write.
+- **Declared the only thing written on the surface** — *nothing else is written on it* — so there is no second inscription for the renderer to improvise.
+- **A size relative to something in the frame** (*letters a hand high*), not a point size.
+
+**Do not extrapolate past this.** One word on a slate is not a page of a ledger, and `plates/ch08.md`'s own ★ — the roll, a book the size of a door with a column of names in it — is a different and much harder ask.
+
 ## Damage, injury and aftermath
 
 **What renders without difficulty:** healed scars, bruising, grime and soot, torn clothing, exhaustion, dirt worked into skin.
