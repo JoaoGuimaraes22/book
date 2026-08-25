@@ -22,7 +22,9 @@
 
 
 
-**ONE DECISION THE AUTHOR HAS NOT MADE:** the plate set is not yet consistent in finish — the doorframe is glossier than the long game, the knot and the wrist tighter than the pasture. Fine one at a time, visible in one book. `THE INK CARRIES THE CLOTH` looks like the lever. Easier settled at eight plates than at forty.
+**ONE DECISION THE AUTHOR HAS NOT MADE:** the plate set is not yet consistent in finish — the doorframe is glossier than the long game, the knot and the wrist tighter than the pasture. Fine one at a time, visible in one book. Easier settled now than at forty.
+
+**AND THERE IS NOW A CONTROLLED PAIR TO SETTLE IT AGAINST (s41):** `ch08-the-one-who-did-not-laugh` and `ch08-the-one-who-did-not-laugh-cold` are **the same frame rendered warm-and-washed and cold-and-drawn**, both adopted, with the three-clause difference written on `plates/ch08.md`. **The lever is not one clause.** `THE INK CARRIES THE CLOTH` was the earlier guess and it reaches only garments; what separates that pair is hues named on named objects, bare paper reserved by name, and the ink protected from a general softening — and the softening scoped to what it was written for.
 
 **A PLATE SESSION DOES NOT OPEN WITH A LIST OF WHAT IS OWED (author ruling, s40).** Audit notes in these files are the record of what was considered, not a queue. Nothing here is outstanding unless the author says it is; open on the work the author names.
 
