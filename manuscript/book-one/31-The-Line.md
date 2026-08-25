@@ -12,7 +12,13 @@ There were six men on the inside of the gate with their hands on the timber. Bey
 
 She stood and let all of it arrive and did not move for the length of about eight breaths.
 
-Then she put it away and went to work, because standing in a street being angry was not a thing a Vel did, and the eight breaths had already been a failure she would account for later.
+What she wanted was to turn round and put both blades through the bar.
+
+She priced it, because everything got priced. The bar was oak and iron and she could probably do it. Six men were standing on the inside of that gate and two of them would have to go down before she reached the timber, and they were her own side. Past the timber were thirty thousand people who would be through it inside a minute.
+
+Which meant that if she did it, the wall fell at noon, and the judge had been right in front of every house on this island.
+
+She put it away and went to work. Standing in a street being angry was not a thing a Vel did, and the eight breaths were already a failure she would account for later.
 
 The district was one long spine of a street with the houses off it. It was full without being crowded, because the households were inside their own walls. What moved in the open was sworn men, in six or seven different sets of colours, none of them under one officer that she could see. That was the first real thing she learned. It was a bad one.
 
@@ -94,6 +100,10 @@ Aurelian was looking at the flagstones between his boots. He said, in the voice 
 
 He said it well. He spared himself nothing, which was the thing about him, and it was worth nothing at all.
 
+There was a place in the middle of it where she came very close to telling him what she thought of his family's men, and of the wall, and of him.
+
+She did not. She had done that once already today, at a gap eighteen inches wide, at the top of her voice, with her name and her orders and everything eleven generations had put in her behind it. It had moved a grown man's hand not one inch. She had gone up a lit street backwards like a chair being dragged across a floor, in front of forty people, and the last thing she had managed was his name.
+
 Valeria thought about the eighteen inches. The boy's hand on the edge of the leaf. *My mother is on the mountain.* She had spent her name at that gap, and her orders, and herself, and had been answered correctly at every rung.
 
 She did not tell them any of it.
@@ -131,6 +141,8 @@ Then she priced the girl inside it. It took about four seconds. It was not a thi
 That was all the princess of the Vessantine Empire was to her, standing in that doorway, and it did not once occur to her that there was anything else to have.
 
 The judge was against the far wall with his hands folded, broad and comfortable, saying nothing. He had come in ahead of her and had not looked at her since.
+
+She looked at him long enough to fix where he was standing and what was inside the reach of his hands, which is what you do with everybody in a room. Then she stopped looking at him, and went on not looking at him for the next two hours, and it was the hardest work she did that day.
 
 And the First Master was in the middle of the room with his sleeves down and his hands behind him, being spoken to by three men at once.
 
@@ -262,6 +274,12 @@ Valeria had watched two thousand people be moved by better speeches than that at
 
 The old man was not a house. The judge was. He had a warrant, a name, and business he did for people in that room. When he said the thing they had already worked out for themselves, it stopped being a schoolmaster's fright and became information.
 
+Severin had said all of it first. He had said it better, and with the numbers, and he had been standing in front of them for two hours saying it.
+
+The same voice had said *come through, please* to her this morning, and *he does not*, and had been correct then as well.
+
+She stood against the stone with her hands where her hands went, and got through it.
+
 Severin knew it too. She was watching him when Halden finished, and there was nothing on his face at all, and she thought that a man who has just been agreed with does not usually look like that.
 
 ---
@@ -285,6 +303,10 @@ It had been going for four hours. Somewhere out there under it were the people w
 It was because there had been nothing to say. They were not in the arithmetic. They had never been in the arithmetic. A house stands for its own, and the sums are done in houses, and it is not possible to be cruel to a quantity you have never once had occasion to write down.
 
 She thought all of that in about the time it takes to think it, and drew no conclusion from it, and went back to reading exits.
+
+She had been angry since the middle of the morning, and had been holding it down all afternoon with both hands.
+
+It had never once been about them.
 
 The party was made in front of her.
 
