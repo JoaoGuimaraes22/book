@@ -129,6 +129,17 @@ Bare parchment ground (no setting) is the character-sheet convention. Using it f
 7. **Three figures and an animal, FULL BODY, feet included (s37)** — worked first try, and it is the first full-body group in the library that came out clean. What made it work was **scale stated as measurement** (below), not the crop rule, which it breaks.
 8. **Four-figure conversation, waist-up (s34)** — worked, and it raises the tested ceiling from three. Four figures all in dark clothing and **not one garment bled**, which is the costume-ownership rule holding under the most pressure it has had.
 
+### Name the winner AND demote the rival (s37)
+
+**Whatever you want to win the picture, say what loses to it in the same breath.** Stating that a thing is the brightest, palest or most finished element does not make it so — the renderer will honour the description and still finish the face better, because faces are what it finishes.
+
+Proven twice, in two different domains:
+
+- **Eyes against hair** (`../portrait-prompt-system.md` §Neris): the eyes only won once the hair was demoted to *fine ink strands and open transparent washes with bare paper left through the mass, no hard-edged black anywhere in it*, followed by *the sharpest step from light to dark in the whole picture happens inside the eye itself.*
+- **A hand against a face** (`plates/ch02.md`, the doorframe): the knuckles were named as the palest and most finished thing and lost to an undemoted face.
+
+**The reusable shape is two clauses: hold the rival at quiet middle values with no hard edges, then site the sharpest step from light to dark on the winner.** It was recorded as an eye technique. It is a picture technique.
+
 ### Scale between figures — STATE IT AS MEASUREMENT (s37)
 
 **This is the most useful thing the scene system has learned, and it overturns an earlier finding.** A child rendered several years too old was blamed on the attached face reference outvoting the words. That was wrong. **Adjectives lose; ratios win**, and the reference is not the problem:
