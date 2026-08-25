@@ -153,6 +153,13 @@ Proven twice, in two different domains:
 
 **Test before adding a line: could a renderer draw something different because of it?** If not, it is for the sheet's prose, not the prompt.
 
+**THE RULE LIVES HERE AND NOWHERE ELSE.** `scripts/check-prompts.sh` reports against the block below and holds no thresholds and no wordlist of its own — it reads them from this file, the way `build-prompts.sh` reads the prompts. **To change what counts as bloat, edit this block.** Both numbers are arbitrary and were set from the prompts that worked; the wordlist is clauses addressed to a person. *X is the subject of the image* is deliberately absent — that is a priority instruction and it works.
+
+```
+BUDGET: 550 words · 6 capitalised openings
+RATIONALE: is deliberate · are deliberate · was deliberate · that is why · which is why · which is what tells · the reason for · the whole point · on purpose · in order to · this matters
+```
+
 ### Scale between figures — STATE IT AS MEASUREMENT (s37)
 
 **This is the most useful thing the scene system has learned, and it overturns an earlier finding.** A child rendered several years too old was blamed on the attached face reference outvoting the words. That was wrong. **Adjectives lose; ratios win**, and the reference is not the problem:

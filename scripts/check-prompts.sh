@@ -1,54 +1,49 @@
 #!/usr/bin/env bash
-# Prompt economy audit — "A PROMPT IS AN INSTRUCTION, NOT AN EXPLANATION".
+# Prompt economy audit — measures, never legislates.
 #
-# Reports, per generated prompt: length, how much emphasis it is spending, and
-# any clause whose audience is a person rather than a renderer. Detection only;
-# judgment stays human, the same way scripts/check-quotes.sh works. A flag is a
-# question, not a failure — some rationale is load-bearing.
+# THE RULE LIVES IN 08-Plates/scene-prompt-system.md, section
+# "A prompt is an instruction, not an explanation", in the fenced BUDGET /
+# RATIONALE block. This script reads its thresholds and its wordlist from
+# there and holds none of its own — the same way build-prompts.sh reads the
+# prompts from the markdown. To change what counts as bloat, edit that block.
 #
-# The rule it enforces, from 08-Plates/scene-prompt-system.md:
-#   could a renderer draw something different because of this line?
-#   If not, it belongs in the plate sheet's prose, not in the prompt.
-#
-#   scripts/check-prompts.sh          -> report every generated prompt
+# Detection only; judgment stays human, like scripts/check-quotes.sh.
 #
 # ADOPTED PROMPTS ARE RECORDS AND ARE NOT BUGS. A flag on a prompt that has
-# already produced an adopted image is history, not a defect — do not edit it to
-# quiet this report. The audit is for what has not been run yet.
+# already produced an adopted image is history — do not edit it to quiet this
+# report. The audit is for what has not been run yet.
+#
+#   scripts/check-prompts.sh          -> report every generated prompt
 set -euo pipefail
 cd "$(dirname "$0")/.."
 
 python3 - <<'PY'
-import glob, io, re
+import glob, io, re, sys
 
-# Clauses addressed to a reader. "X is the subject of the image" is NOT here:
-# that is a priority instruction and is documented as working.
-RATIONALE = [
-    r"\bis deliberate\b", r"\bare deliberate\b", r"\bwas deliberate\b",
-    r"\bthat is why\b", r"\bwhich is why\b", r"\bwhich is what tells\b",
-    r"\bthe reason for\b", r"\bthe whole point\b", r"\bon purpose\b",
-    r"\bin order to\b", r"\bso that the reader\b", r"\bthis matters\b",
-]
-BUDGET = 550   # words, including the ~100-word style header
+doc = io.open("08-Plates/scene-prompt-system.md", encoding="utf-8").read()
+m = re.search(r"```\nBUDGET: (\d+) words · (\d+) capitalised openings\nRATIONALE: (.+?)\n```", doc, re.S)
+if not m:
+    sys.exit("check-prompts: no BUDGET/RATIONALE block in scene-prompt-system.md "
+             "§A prompt is an instruction, not an explanation — the rule lives there, "
+             "and this script will not guess it.")
+BUDGET, MAXCAPS = int(m.group(1)), int(m.group(2))
+RATIONALE = [p.strip() for p in m.group(3).split("·") if p.strip()]
 
 rows, flagged = [], 0
 for path in sorted(glob.glob("08-Plates/prompts/**/*.txt", recursive=True)):
     text = io.open(path, encoding="utf-8").read()
     words = len(text.split())
-    # paragraphs that open with a run of two or more SHOUTED words
     caps = sum(1 for p in text.split("\n\n") if re.match(r"[A-Z][A-Z'’]+ [A-Z][A-Z'’]+", p.strip()))
-    hits = [m.group(0) for rx in RATIONALE for m in re.finditer(rx, text, re.I)]
-    rows.append((path.split("prompts/")[1], words, caps, hits))
-    if words > BUDGET or caps > 6 or hits:
-        flagged += 1
+    hits = sorted({p for p in RATIONALE if re.search(r"\b%s\b" % re.escape(p), text, re.I)})
+    bad = words > BUDGET or caps > MAXCAPS or hits
+    rows.append((path.split("prompts/")[1], words, caps, hits, bad))
+    flagged += bool(bad)
 
 w = max(len(r[0]) for r in rows)
-print(f"{'prompt'.ljust(w)}  words  caps  rationale")
-for name, words, caps, hits in rows:
-    mark = "!" if (words > BUDGET or caps > 6 or hits) else " "
-    print(f"{mark}{name.ljust(w)} {words:6} {caps:5}  {', '.join(sorted(set(hits))) or '-'}")
-print(f"\n{len(rows)} prompts, {flagged} flagged."
-      f"  Budget {BUDGET} words, {6} capitalised openings.")
-print("A flag is a question, not a failure: could a renderer draw something\n"
-      "different because of that line? If not, it belongs in the sheet's prose.")
+print(f" {'prompt'.ljust(w)}  words  caps  rationale")
+for name, words, caps, hits, bad in rows:
+    print(f"{'!' if bad else ' '}{name.ljust(w)} {words:6} {caps:5}  {', '.join(hits) or '-'}")
+print(f"\n{len(rows)} prompts, {flagged} flagged. "
+      f"Budget {BUDGET} words / {MAXCAPS} capitalised openings, read from the markdown.")
+print("A flag is a question, not a failure, and an adopted prompt's flag is history.")
 PY
