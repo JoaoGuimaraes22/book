@@ -241,40 +241,15 @@ The rule above says redundancy competes. **The stronger claim, and it is now evi
 
 **The test before cutting a repetition: name what the clause forbids, then find where else that thing is forbidden.** If nowhere, it is not a repetition and it stays. Compression is measured in channels covered, never in words.
 
-### Name both temperatures (s41)
+### Colour is adjusted per picture, NOT by rule (author ruling, s41)
 
-**Whichever temperature a plate does not name is the one that disappears — and BANNING one does not name the other.** Three plates in this folder have failed on colour, and the two mechanisms are the same:
+**This file had two colour rules and the author removed them: *no need to be a rule — case by case we do adjust.*** What follows is the evidence, kept because it is what happened, and explicitly not a procedure to apply in advance.
 
-- `plates/ch05.md`, the two pails — a cold picture that banned warm colour and named no hues positively. **It came back greyscale.**
-- `plates/ch08.md`, the hand over the face — a warm picture lit by one lamp, with everything else held *dark and loose* and no colour named for the dark. **It came back one uniform brown, with no bare paper anywhere and the ink softened into the wash.**
+- `plates/ch05.md`, the two pails — banned warm colour, named no hues positively, **came back greyscale.**
+- `plates/ch08.md`, the hand over the face — named a warm lamp and left the dark uncoloured, **came back one uniform brown**; naming the dark as cool grey-blue, reserving two objects as bare paper and protecting the ink fixed it with no change to the staging.
+- `plates/ch08.md`, the one who did not laugh — said *no warm colour anywhere*, came back warm brown-grey, **and the author judged it the best of the set anyway and kept it.** The same corrections that rescued the supper plate were applied to it and were not wanted.
 
-- `plates/ch08.md`, the one who did not laugh — a cold picture that said *no warm colour anywhere* and **came back a warm brown-grey anyway.** The ban was obeyed as a mood and ignored as a fact, because nothing positive stood behind it.
-
-**So a temperature ban is worthless in either direction. Only hues named positively and sited on named objects have ever worked** — *the slate a blue-black, the stone walls a cool pale grey, the benches a grey timber with no warmth in it, and the only warm thing in the picture is skin.* Name the objects, not the mood.
-
-**A picture needs both temperatures, and the one you leave unstated collapses into the other.** So say where the warm stops and what colour the dark is:
-
-> *The warm light stops where it stops, and everything beyond it is cool grey and grey-blue, with no brown and no warm colour anywhere outside the lamp's reach.*
-
-**Two supports that go with it**, both drawn from the plates that did not go muddy:
-
-- **Reserve something as bare paper and say what.** The fixed STYLE block asks for *generous bare unpainted paper* and a night interior will honour none of it unless two or three specific objects are named — a flame, a cut loaf, a window, frost.
-- **Protect the ink.** *Held dark and loose with no hard edges* softens the linework along with everything else, and the ink is what the house look is made of. Say the ink stays the strongest element in the quiet areas.
-
-**The adopted counter-examples both name the cool by hand:** `ch01-fallen-stars` — *everything above them is cold: rock, cloth, hair, sky*; `ch09-aurelians-candle` — *everything behind him stays cold, and no warm colour touches any of it.*
-
-### A colour ban is read as a saturation ban (s41)
-
-**Never ban a hue. Ban the source that would produce it, and require the hue you want by name.**
-
-`plates/ch05.md`, the two pails — a grey-dawn picture with no fire, no lamp and no skin in it. A dawn pulls hard toward gold, so the block banned it four ways: *no warm colour anywhere in the picture — not in the sky, not on the frost, not in the water, not in the timber.* It then named the palette positively, in the same paragraph: *cold greys, dull green-greys and bare paper.*
-
-**The run came back effectively greyscale.** The positive naming lost outright to the ban standing in front of it, and *warm* was read as *saturated*. The house style is muted and desaturated, never colourless, so the picture missed the look while obeying every clause in it.
-
-- **Ban the source, not the hue:** *no sun disc and no glow anywhere in the sky* is drawable and costs nothing.
-- **Then require the colour as a positive with a landmark**, the way §Name the winner does: name the two or three hues that must be present and site them on objects — *the timber a dull green-grey, the water a cold blue-black, the frost bare paper.*
-
-**The general shape: a negation and a positive competing for the same channel is a contradiction, and the negation wins.** Same failure family as §Over-writing contradicts, arriving from the other direction.
+**Which is the whole reason this is not a rule.** The third case had the same symptom as the second and the right answer was to leave it alone. **Look at the picture.**
 
 ### Scale between figures — STATE IT AS MEASUREMENT (s40)
 

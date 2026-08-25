@@ -10,6 +10,8 @@
 
 **THE PROGRAMME IS CHAPTER ORDER, TWO PLATES PER CHAPTER (author, s41).** Work the chapters in sequence and take two each; do not skip ahead to whatever is unblocked. **This corrected a drift** — Ch. 9's candle was built because a lighting proof had freed it, not because it was next, while Ch. 6 had none. **The first gap in the sequence is the target**, and it needs no naming beyond that.
 
+**FINDINGS ARE NOT AUTOMATICALLY RULES (author, s41).** *No need to be a rule — case by case we do adjust.* Ruled after two colour rules were written off three runs and the third run's "fault" turned out to be the best picture of the set. **Record what happened on the plate sheet; promote it into a prompt system only when it has failed the same way with the same cause more than once and the correction has been wanted every time.** The same instinct killed a linter's negation checks and it is the folder's standing bias: the systems are for what reliably repeats, and the pictures are judged by looking at them.
+
 **AND CLOSE UP (author, s41): the best of these are faces and expressions, near.** Prefer the tight crop on a face doing something over the wide staging of a moment. **A close-up plate is a portrait of a MOMENT, not of a person** — it takes the chapter's own light and the chapter's own expression, and it is legal only where that chapter puts that face in that state. That is what keeps it a plate and not a second portrait: `REFERENCES SHOW THE PERSON. PLATES SHOW THE MOMENT.` still binds it. Ch. 9's `Aurelian's candle` is the named example and is exactly this shape.
 
 **THE GREY IS SPENT FOR PLATES (author ruling, s41). A plate may show Kael's eyes.** This is the folder's ruling and the other files point at it.
