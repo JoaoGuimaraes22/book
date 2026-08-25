@@ -66,9 +66,36 @@ Also: state hands that are deliberately **out of frame**, or the model may inclu
 
 **Weapon size by comparison to the body, never by name.** "Dagger" rendered as a near-longsword. This worked: *roughly the length of his forearm, noticeably shorter than her longswords.*
 
-**AND THE SAME FOR GARMENTS — NAME A GARMENT BY CONSTRUCTION, NEVER BY ITS NAME (s41).** *A plain dark coat, well cut and well kept* produced a nineteenth-century frock coat over a waistcoat over a winged collar (`plates/ch04.md`, the master arrives) — Dickensian, and neither of `02/geography`'s two registers. **Every garment word in English carries a costume-history default**, and the renderer reaches for it exactly as it reached for a longsword when told *dagger*. *Coat* was page canon and was still the wrong instruction.
+**AND THE SAME FOR GARMENTS — NAME A GARMENT BY CONSTRUCTION, NEVER BY ITS NAME (s41).** *(Generalised below: it is not about garments.)* *A plain dark coat, well cut and well kept* produced a nineteenth-century frock coat over a waistcoat over a winged collar (`plates/ch04.md`, the master arrives) — Dickensian, and neither of `02/geography`'s two registers. **Every garment word in English carries a costume-history default**, and the renderer reaches for it exactly as it reached for a longsword when told *dagger*. *Coat* was page canon and was still the wrong instruction.
 
 Describe what the garment DOES instead: how long it falls, how it closes, what the collar does, how the sleeve ends, what it is made of. *A long straight undyed overgarment falling to mid-calf, closed edge to edge at the front with no lapel and no button placket, standing collar to the base of the throat, plain full sleeves ending at the wrist* has no century in it. **The test: could a costumier from three different centuries all draw this from the words? Then it is construction. Could only one? Then it is a name.**
+
+### Name a thing by construction — the general rule (s41)
+
+**It is not about weapons and it is not about garments. It is about NOUNS.** Three instances now, in three unrelated domains, all identical in shape:
+
+| written | arrived |
+|---|---|
+| *dagger*, with a length given | a near-longsword |
+| *a plain dark coat, well cut* | a Victorian frock coat and waistcoat |
+| *a soft sheet of orange flame standing off the top of a tallow candle* | an ordinary candle burning at the wick |
+
+**A concrete noun arrives with a default picture attached, and the default beats every adjective you hang on it.** The third case is the clearest, because the page's whole beat is that this is *not* the default — *Not the wick — the wax* — and the prompt still lost to the word `candle`.
+
+**So when the thing you want is NOT the standard instance of its noun, the noun is working against you.** Two moves, and use both:
+
+1. **Describe the construction** — what surface, what extent, what shape, what it is made of. *The whole top surface of the candle is alight, edge to edge, a pool of burning fat the full width of the candle.*
+2. **Kill the default by name** — the negative has a real pull behind it, which is exactly when §Negative inventory says it earns its place. *There is no wick-flame, no single point of flame, no teardrop shape, no wick visible anywhere.*
+
+Then pin it with §Scale between figures, as always: *as wide as the candle is wide, standing as tall as the distance from his chin to his eyebrows.*
+
+### A close-up plate needs the age line (s41)
+
+`../portrait-prompt-system.md` §AGE block: **age words in the SUBJECT block alone get ignored, and always have.** The instrument that works is the eye-line rung, and it lives in the AGE block.
+
+**§Plates says a plate inherits only the Medium and Colour paragraphs. That is right for a wide shot and wrong for a face.** `plates/ch09.md` put *thirteen years old... the face still soft and unfinished, the jaw not yet come in* in the body of a head-and-shoulders block and got a seventeen-year-old — the exact failure the portrait system documented years of runs ago.
+
+**So: any plate cropped close enough to be a portrait takes the AGE block's eye-line rung with it**, written into the plate block by hand. The eye line is a continuous dial, not three settings (`kael-9` proved the intermediate rung), so state the fraction: *eyes at the vertical midpoint · a fraction below it · clearly below it.*
 
 **Contact points, not trajectories.** "Sweeping toward his ribs" produced a blade aimed at empty floor twice. *The edge inches from his ribs, the blade in front of his body and clearly aimed at him* worked.
 
