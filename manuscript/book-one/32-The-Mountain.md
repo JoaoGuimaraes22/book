@@ -72,7 +72,7 @@ He had seen his mother pleased. He had seen her satisfied, and once or twice, wh
 
 He had never seen this. She made a sound that had no word anywhere in it.
 
-Then she went white round the mouth and got her weight forward onto her arms, and her chin went down, and she was not in the room any more.
+Then a pain took her. She went white round the mouth and got her weight forward onto her arms, and her chin went down, and she was not in the room any more.
 
 Kael watched his mother go somewhere he could not follow, and stay there, for a count of forty.
 
@@ -196,7 +196,7 @@ There was a silence with a lot of breathing in it.
 
 "Say that again," his mother said.
 
-"From the end of the last one to the start of that one. Two hundred and forty seconds. That one lasted a hundred and two. The one before it lasted a hundred and six." He had started the count the first time her hand tightened in his hair and had not put it down since. "It is one gap and two lengths. One gap is not anything. Give me an hour and it will be."
+"Between your pains. Two hundred and forty seconds from the end of the one before to the start of the one that has just had you." He had started the count the first time her hand tightened in his hair and had not put it down since. "The pains themselves ran a hundred and six and a hundred and two. That is two pains and one gap, and one gap is not anything. Give me an hour and it will be."
 
 "How are you counting."
 
@@ -434,7 +434,7 @@ The captain stood in the yard and looked at the old man for a while.
 
 Every head in that yard came round.
 
-"Three hours at the outside. It may be one. The gap between them was two hundred and forty seconds when I started counting and the last two were a hundred and sixty and a hundred and fifty. It has come down every time I have had two to put beside each other. Under eighty and it is close." He heard his own voice arrive in the middle of a yard full of the empire's people and kept going, because his mother had told him not to soften anything. "It is a number off five gaps. Do not build anything on it that will not hold if I am wrong."
+"Three hours at the outside. It may be one. The gap between her pains was two hundred and forty seconds when I started counting and the last two were a hundred and sixty and a hundred and fifty. It has come down every time I have had two to put beside each other. Under eighty and it is close." He heard his own voice arrive in the middle of a yard full of the empire's people and kept going, because his mother had told him not to soften anything. "It is a number off five gaps. Do not build anything on it that will not hold if I am wrong."
 
 Nobody said anything for a moment.
 
