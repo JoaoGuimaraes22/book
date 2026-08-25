@@ -47,6 +47,7 @@ The itch sat up.
 "Nobody tells that story twice the same. Which you noticed." He looked at Kael. "You've been quiet."
 
 "I'm listening," Kael said, which was true, and was also the smallest part of what he was doing.
+
 He wanted to see it. All of her. He wanted it the way he wanted the far side of the sea.
 
 "Mind the stating," Elarine said. "Both of you."

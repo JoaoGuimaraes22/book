@@ -13,6 +13,7 @@ Kael was at the bench-end, being furniture, and furniture hears everything.
 The arithmetic ran before he could decline it. Two winters gone — he had been nine years and a winter old. The houses down past the boat-sheds. The one night everyone was at the water. The sums arrived into rooms that were already furnished, the date and the place each walking to its chair and sitting down, the fact he had never had, two years of never having it: *the men died.* All of them. Dead where they sat, said a boy with a tray, at midday, over bread. The end of his own night, arriving by cart.
 
 Kael went on eating.
+
 The middle tables, meanwhile, had begun to work.
 
 The raider theory stood up first and fell first: raiders mark what they touch and take what they come for, and this had done neither. Fever went down slower — somebody's father had once ridden past a fever port, and the telling of that took its own while — but fever did not empty a crew between supper and morning and leave the village standing around it. Somebody said bad fish, and got what he had asked for, a crop of laughter, quick and glad to be let off the strangeness, and it went over the dead men and was gone, and Kael's hands stayed quiet on the bread, and none of it showed.

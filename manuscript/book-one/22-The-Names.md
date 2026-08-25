@@ -39,6 +39,7 @@ Five from the capital's Collegium, in red and black, standing. Five from the nor
 In the Gold league the Temple was six lines out of sixteen, and he was one of the six.
 
 The host's box stood on the western curve, and the First Master was in it.
+
 Here he was in robes Kael had no name for, with a chain across his shoulders that plainly had weight in it, sitting very still in a seat that had been built to be looked at, at the top of an island that had been taken apart and rebuilt around a thing he had asked for. *Four years ago, when I thought I understood what I was asking for.* He had said that himself, in the autumn, to a boy, without being asked to.
 
 Then the horns went, and the noise came down like a lid, and everybody stood up.
