@@ -2,7 +2,7 @@
 
 He went off the high ground on the north side, where the terraces started, and he went over the first wall at the corner.
 
-The corners were bonded. The middles were dry-laid and would come apart under a boot and put the noise of it a quarter of a mile out in every direction. He went over flat, on his front, and came down in the dead grass on the other side and stayed there for a count of thirty with his cheek against the ground.
+He went over flat, on his front, and came down in the dead grass on the other side and stayed there for a count of thirty with his cheek against the ground.
 
 Wind in the scrub. A goat bell somewhere north, still working.
 
@@ -16,19 +16,11 @@ The track ran along the shoulder from the corner of the district and joined the 
 
 The other way went north first. Away. Up the field walls in the wrong direction for the better part of a mile, then east under the olive line where the terraces gave a man a shadow to be in, then down into the runnel that came off the shoulder and up the bed of it. Three miles for one. Two of the three under something.
 
-His legs wanted the track. His legs had wanted a great many things that morning.
-
 He took the walls.
 
-There was a trough at the corner of the second field with the rim gone green, fed off a pipe out of the bank. He stopped, filled the skin, drank until he could not hold any more, filled it again. It cost him a minute and forty seconds. It was not a decision. A rule that has been in a body since it was five years old does not stand up and ask to be discussed; it simply happens, at the trough, while the part of him that wanted to run stood by and waited for it to be finished.
+There was a trough at the corner of the second field with the rim gone green, fed off a pipe out of the bank. He put his head down and drank until he could not hold any more, and then stood over it and made himself drink again.
 
-He set his pace at the one he could hold for four hours.
-
-Not the one that felt like moving. The one that felt like moving would have him on his hands at the olive line, and there were four miles of this and a mountain on the end of them.
-
-Twice in the first mile he looked to his left before he did anything.
-
-There was nothing on his left. There had not been anything on his left since the gate. He noticed the second time and stopped noticing after that.
+He set his pace.
 
 ---
 
@@ -98,17 +90,13 @@ The ground with the houses on it began at the top of the runnel and went for a m
 
 He lay on the lip of the bed and read it and it was bad.
 
-Thirty-odd holdings scattered across the shoulder, each with its yard and its wall and its two or three roofs, strung along the tracks the way houses go where the water is. Between them, open. Terraces, stubble, vine ground, the odd row of almonds. And on the field walls, in ones and twos, at the corners where two walls met and a man could see down both of them, there were men standing.
+Thirty-odd holdings scattered across the shoulder. Between them, open. Terraces, stubble, vine ground, the odd row of almonds. And on the field walls, in ones and twos, at the corners where two walls met and a man could see down both of them, there were men standing.
 
 They were not searching. They were posted. Somebody had put them there.
 
-He gave it four minutes and it did not improve. There was no line across that open ground that was not under somebody's eye for at least a hundred strides, and a hundred strides is eleven seconds if you are fresh, and he was not fresh.
+He gave it four minutes and it did not improve. There was no line across that open ground that was not under somebody's eye for at least a hundred strides, and a hundred strides is eleven seconds if you are fresh, and he was not.
 
 Which left the houses.
-
-The houses had walls, doorways, dark rooms, roofs you could get onto off a yard wall. The men were in them. That was the whole of the arithmetic: the only cover on that shoulder was the cover the enemy was standing inside.
-
-He went down off the lip and into the first yard.
 
 ---
 
@@ -122,17 +110,17 @@ Boots in the yard.
 
 Two men. One of them said something and the other one did not answer. Then one set of boots came across the yard toward the door and the other set went away round the side of the house.
 
-A shape came in and stood in its own light with its head turning, waiting for its eyes, which is what a man does.
+A shape came in and stood in its own light with its head turning.
 
-Kael did not wait for his eyes.
+Kael did not wait for their eyes to meet.
 
-He came off the wall behind him, put his left hand flat over the mouth, pulled the head back, put the knife in under the jaw on the near side and turned it out. The whole of it made about as much noise as a boot in gravel. The man went rigid the way they do. Kael went down with him, holding him, riding the weight so that it did not arrive on the floor as one sound, and knelt in somebody's kitchen with a stranger against his chest, a hand over the stranger's mouth, and felt the arms stop.
+He came off the wall behind him, put his left hand flat over the mouth, pulled the head back, put the knife in under the jaw on the near side and turned it out. The whole of it made about as much noise as a boot in gravel. The man went rigid. Kael went down with him, holding him, riding the weight so that it did not arrive on the floor as one sound, and knelt in somebody's kitchen with a stranger against his chest, a hand over the stranger's mouth, and felt the arms stop.
 
 He waited eleven seconds. Nothing came.
 
-Then he got the body by the collar and dragged it backward into the black part of the room, because a shape in a lit doorway brings the next one at a run and a room with nothing in it brings nobody.
+Then he got the body by the collar and dragged it backward into the black part of the room.
 
-His arms were not right. He had gone down that lane before noon, up a hill, across three miles of walls. Dragging twelve stone of dead man four feet took him longer than it had any business taking. He had to stop halfway and get a better hold.
+His arms were sluggish. He had gone down that lane before noon, up a hill, across three miles of walls. Dragging twelve stone of dead man four feet took him longer than it had any business taking.
 
 He went out the back of the house through the store and over the yard wall.
 
@@ -154,11 +142,7 @@ They were three feet away. He could hear one of them shift his weight.
 
 *So don't drink it.*
 
-*I am telling you why I am not drinking it.*
-
-His mother's language. Every word of it, laid down the way she laid words down, the ends of them where she put the ends of them, coming over a dry-stone wall in the mouths of two tired men complaining about their feet and a dog in a cistern.
-
-Kael lay in the vine rows with a knife in his hand and did not move and did not think anything at all about it, because there was no room in him to put a thing that size and he had a wall to get over.
+One of his mother's languages. Every word of it.
 
 They went. He counted to sixty and got up.
 
@@ -166,15 +150,15 @@ They went. He counted to sixty and got up.
 
 The third was a stair.
 
-He came in low through a window that had never had glass in it and got up the inside stair with his back against the wall and his weight on the outside of each tread, and a man came down it toward him with a lamp he did not need.
+He came in low through a window and got up the inside stair with his back against the wall, and a man came down it toward him with a lamp he did not need.
 
 There is very little to say about that one. Six feet of stair, no room to either side, and the man had a lamp in the hand he needed.
 
-Kael took him off the stair sideways into the wall, killed him there, caught the lamp before it landed, set it upright on the tread, still burning. A lamp that goes out is a thing that has happened. A lamp that is burning is a lamp.
+Kael took him off the stair sideways into the wall, killed him there, caught the lamp before it landed, set it upright on the tread, still burning.
 
 *Two.*
 
-He stood on the stair with his heart going and made himself breathe out longer than he breathed in, four times, which took eleven seconds he could feel.
+He stood on the stair with his heart going and made himself breathe out longer than he breathed in, four times.
 
 Then up, and out through the roof hatch, and flat on the tiles.
 
@@ -182,13 +166,17 @@ Then up, and out through the roof hatch, and flat on the tiles.
 
 The roofs were the best of it.
 
-Nobody looks up. He had known it in a general way for years the way you know things that have never cost you anything, and up there on the tiles with his cheek in the moss and four men in the yard below him it stopped being general. They came out of the house and stood about. One of them went to the wall and looked out along the terrace for a long time, and Kael lay eight feet above his head watching the back of his neck, close enough to count the man's hair.
+Nobody looks up. He had known it for years. They came out of the house and stood about. One of them went to the wall and looked out along the terrace for a long time, and Kael lay eight feet above his head watching the back of his neck, close enough to count the man's hair.
 
 He went along that roof-line and got onto the next one off a wall that touched it. Then a wall-top for thirty strides, on his hands and the balls of his feet. Then a stock pen, out the far side of it, up the bank.
 
 He was moving well.
 
-That was the part that started to frighten him, somewhere in the middle of that mile, and it was not the killing, because the killing had stopped having a size at all. He was moving well. His hands went where he sent them. He did not have to decide anything. There was a boy going through somebody's home in the dark with a knife who was doing every single thing correctly and there was another one somewhere further back watching him do it, and the second one was getting quieter.
+That was the part that started to frighten him, somewhere in the middle of that mile. His hands went where he sent them. He did not have to decide anything. There was a boy going through somebody's home in the dark with a knife who was doing every single thing correctly, and there was another one somewhere further back watching him do it, and the second one was getting quieter.
+
+It was not that the killing had stopped costing him. He knew exactly what it was costing. He had put it down — the first one and every one since — the way you put down a thing you cannot carry and work at the same time, and it had stayed where he put it, and it had not once asked him anything.
+
+That was the frightening part. Not that it was light. That he could set it down at all.
 
 He put a man down in a doorway with the short blade because there was no time for the knife.
 
@@ -210,63 +198,33 @@ He had a foot on a roof edge and a hand on a beam-end and there was a tile out o
 
 He got off the roof on the blind side, into the almond row, along it doubled over with his lungs on fire, into the dry ditch at the end of it. He lay there with his mouth open in the dirt for the better part of a minute while six men went along the wall above him at a run.
 
-He was slow. He knew exactly how slow, because he always knew, and the number was worse than the last time he had asked.
-
-He went up the ditch on his elbows.
-
 ---
 
-At the top of the shoulder the ground opened into a big walled yard with a threshing floor in it. Kael came onto the wall of it flat and looked down. There were twenty men in that yard, and one of them was the point.
+At the top of the shoulder the last of the holdings sat across his line, and past it the ground broke into scrub, and the scrub went up into the goat ground, and that was the end of the houses.
 
-He knew it inside four seconds and he could not afterwards say which of the four it was.
+He could see it from the wall. Two hundred strides of stubble, and then nothing on it but gorse and stone all the way up.
 
-The men at the gate turned when he moved. The two on the far wall were not watching the ground, they were watching him. A runner came in off the track, went to him and to nobody else, stood at the correct distance, waited to be looked at. Everything in that yard was arranged around one man the way iron filings arrange around the thing you cannot see.
+He had been reading ground since first light and he knew his reading had got slower in the last hour, because he always knew by how much. He gave that yard ninety seconds instead of four minutes. There were men in it and men on the track beyond it, and there was a line along the north side that put two buildings between him and both of them, and it was a good line, and he took it.
 
-He was big, and it was not the size. Kael had priced big men all his life. He was fifty, or near it, in a plain coat with nothing on it, and he was standing on the threshing floor with his hands behind his back looking at a piece of ground the way a farmer looks at a piece of ground, and when he moved to say something to the runner he moved light. All of him at once, no shuffle, no settling. A man who had never in his life had to think about where his own weight was.
+He went over the wall at the end of the byre.
 
-Kael lay on the wall in the smoke and read him, and the reading came back complete.
+His right thigh had been asked for one thing too many since the third bell, and it picked that wall to stop answering. He got the top of it. He did not get the drop. He came down on the far side with nothing under him on that side and went over onto his shoulder, in the open, in daylight, four feet short of the corner.
 
-*Take that one out and the hillside stops.*
+It was not a large sound. It did not need to be.
 
-It arrived the way findings arrived, whole, with nothing left over. The posts on the walls were his. The line coming up out of the village was going to arrive here and be told where to go, and it was going to be told by him. Everything on this shoulder ran through one man standing in the open on a threshing floor. There was a roof at the north end of that yard, eleven feet above him and behind him. Kael had two blades, a knife, and a way onto that roof off the stock wall.
+The fire came before he was back on his feet.
 
-He should not have been able to do it. He knew that too. He knew the count of men in that yard and the distance to the wall and what any of it meant if it went wrong, and none of that was the thing that made the decision. The thing that made the decision was that his mother was up that mountain and this man was the reason the mountain had men on it.
+He got out of the line of it by going on falling. It went past his back close enough to move his coat, and it took a section of the byre wall out behind him and laid it across the yard as gravel.
 
-He went round.
+Then he was up, on the one leg that was working, with his back against stone, looking to see what had thrown it.
 
-The stock wall took him nine minutes because he did it properly.
+He was standing on the threshing floor with his hands down at his sides.
 
-He got onto the roof at the north end and went up the pitch on his belly, an inch at a time. The tiles were warm. One course from the top he stopped and looked down over the ridge.
+He was big, and it was not the size. Kael had priced big men all his life. He was forty, or near it, in a plain coat with nothing on it, and he had been standing there looking at a piece of ground the way a farmer looks at his produce, and when he came off his heel he moved light. All of him at once. No shuffle, no settling. A man who had never in his life had to think about where his own weight was.
 
-The man was there. Eleven feet below, four to the left, standing with his back to the north end of his own yard, still looking at the ground.
+Kael went for the corner, because the corner was the only part of that yard that was not open.
 
-Kael got his knees under him.
-
-He put his right hand on the ridge tile.
-
-And his leg went.
-
-It was not fear and it was not a mistake of judgement. He had been on his feet since the third bell, he had fought fifteen men in a lane, he had climbed four miles of wall, and there was a muscle in his right thigh that had been asked for one thing too many and it simply stopped answering, halfway to standing, and his knee came down on the tile.
-
-The sound was very small.
-
-It was enough.
-
-The man did not turn round and look up, which is what a man does. He stepped one pace to his left, which put a beam between himself and the roof, and *then* he looked up, and by that time his right hand was already out.
-
-Kael saw it come.
-
-He saw the whole of it, exactly the way he saw everything — the hand coming up open, the fire arriving in the palm from nowhere at all with no wind-up and no shape to it, the wrist turning over — and the seeing did him no good whatsoever, because his body had already told him what it thought of being asked for things.
-
-He went off the roof.
-
-He went off it badly, sideways, with no push in the leg. The fire came through the space where his chest had been. It took the ridge and two feet of the roof with it and put burning tile out over the yard, and Kael landed on the flat of his back in the stubble on the far side of the wall with all the air gone out of him.
-
-He got up. He did not know how. There was a wall in front of him and he was on the wrong side of it and there were feet coming round both ends.
-
-He went along the wall, round it, into the yard, because the yard was the only place with anything in it to be behind. He came out onto the edge of the threshing floor and stopped.
-
-The man was already standing there, facing him, and there was nothing to be done about it.
+The man was standing in it. He had not hurried to get there.
 
 They looked at each other across about fifteen feet.
 
@@ -274,11 +232,11 @@ Kael watched him take it in. The blades, the coat, the blood to the elbow, the h
 
 Something went across the man's own face and stayed there. Kael had spent his whole life failing to read faces. He read this one without any trouble at all, and wished immediately that he had not.
 
-*I am sorry, little one,* the man said. *But all of you have to go.*
+*I'm sorry, little one,* the man said. *But all of you must go.*
 
 He said it in the downhill language.
 
-He said it gently, the way you say a thing to a child in a doorway when you have brought bad news to the house, with the ends of the words where Kael's mother put the ends of her words. Kael understood every syllable of it. It went into him and lodged somewhere and stayed.
+He said it gently, the way you say a thing to a child in a doorway when you have brought bad news to the house, with the ends of the words where Kael's mother put the ends of her words. It went into him and lodged somewhere and stayed.
 
 Then he came.
 
@@ -312,23 +270,21 @@ The threading took the boot.
 
 It broke the fire off the front of it. It cut two inches into the leather, and into the shin behind the leather. It did not stop the boot. The boot weighed eighteen stone and it was moving, and Kael went backwards across that threshing floor, off the edge of it, into the wall a second time.
 
-He heard something in his own chest do something.
+He heard something in his own chest break.
 
 The purse was empty. Not low. Empty, the way it had been in front of eleven thousand people, and the bottom of it was right there, and he could feel exactly where the next grain would have to come from and what it would cost him to take it.
 
 He tried to get up and his arms took his weight and then did not.
 
-Boots on the threshing floor, coming, unhurried.
+Boots on the threshing floor, coming, unhurried, his face against the stone of somebody's yard, his parents six miles up a mountain, both blades gone, nothing at all left in him. He opened his mouth and screamed.
 
-And Kael, thirteen years old, with his face against the stone of somebody's yard, his mother six miles up a mountain, both blades gone, nothing at all left in him, opened his mouth and screamed for help.
-
-There was no craft in it. There was nothing in it that had been taught to him. It went up out of that yard and over the roofs and out across the whole of that shoulder — *help — please — PLEASE* — a boy calling in the plain flat words of the village, over and over, to nobody, because there was nobody, because there had not been anybody since the gate.
+There was no craft in it. There was nothing in it that had been taught to him. It went up out of that yard and over the roofs and out across the whole of that shoulder — *help — please — PLEASE* — a boy, a child, calling in the plain flat words of the village, over and over, to nobody, because there was nobody, because there had not been anybody since the gate.
 
 The boots stopped.
 
 Kael got his head round.
 
-The man was standing over him, and he had not raised his hand, and he was looking down at him, and there was something on him that Kael had no filing place for at all. He was not enjoying it. He was not angry. He looked like a man doing an errand he had been dreading since he woke up.
+The man was standing over him, and he had not raised his hand, and he was looking down at him, and there was something on him that Kael had no filing place for at all. He was not enjoying it. He was not angry. He looked like a man doing an errand he had been dreading to do.
 
 *I know,* he said. *I know.*
 
@@ -338,23 +294,19 @@ He raised his hand.
 
 The men at the gate end of the yard stopped being where they were.
 
-That was the first of it, and Kael got it in the wrong order, the way you get things when your head is on a stone: the sound came after. Four men were standing at the mouth of that yard. Then the mouth of the yard was empty and something was going through it. Then the noise arrived, and it was not shouting.
+That was the first of it, and Kael got it in the wrong order, the way you get things when your head is on a stone: the sound came after. Four men were standing at the mouth of that yard. Then the mouth of the yard was empty and something was going through it. Then the noise arrived.
 
 Then there was white in the yard.
 
-Not on a blade. Everywhere. It came in through the gate at the height of a man. It did not travel the way a working travels. It travelled the way a thing runs. Kael, lying on his side on somebody's threshing floor with his ribs broken, saw it clearly for perhaps a second and a half, understood what he was looking at, and would have given a great deal not to.
+Not on a blade. Everywhere. It came in through the gate at the height of a man. Kael, lying on his side on somebody's threshing floor with his ribs broken, saw it clearly for perhaps a second and a half, understood half of what he was looking at, and would have given a great deal to understand all of it.
 
 It was a man.
 
-It was a man with lightning in him. Not in his hand. Not down a blade. In the whole of him. Down both arms, across the shoulders, through the chest, into the ground at every step. Held in. Running the length of every part of him at once and *not coming off* — not sparking, not spilling, not one thread of it going anywhere it had not been told to go. He carried a longsword in his right hand with the same white standing the whole length of the blade, and the sword was the least of it.
+It was a man with lightning in him. Not only in his hand. Not only down a blade. In the whole of him. Down both arms, across the shoulders, through the chest, into the ground at every step. Held in. Running the length of every part of him at once and *not coming off* — not sparking, not spilling, not one thread of it going anywhere it had not been told to go. He carried a longsword in his right hand with the same white standing the whole length of the blade, and the sword was the least of it.
 
-Kael knew what it cost to hold that in one hand. He had spent a winter learning to carry it from a shoulder to a hand without losing it at the knock, and he knew, the way he knew the weight of things, that this was not more of that.
+Kael knew what it cost to hold that in one hand. He had spent a winter learning to carry it from a shoulder to a hand without losing it at the knock, and he knew, the way he knew the weight of things, that this was much more of that.
 
 It was not going along him. It was going *into* him.
-
-He had watched a girl spend her art inward until a flagstone split under one step. She was earth. It was one leg of her, and it made her hard, and it made her fast.
-
-This was the same shape in the wrong element, in the whole of a body at once, and it was not making him hard.
 
 Three men came at him out of the corner.
 
@@ -370,11 +322,11 @@ Kael's father stood eight feet from his son, in his own working coat, with his s
 
 He was breathing hard.
 
-The big man had not moved. He was standing where he had been standing with his hands loose at his sides, and he was looking at Vask, and he was looking at him the way a man looks at a bird he has not seen in twenty years.
+The big man had not moved. He was standing where he had been standing with his hands loose at his sides, and he was looking at Vask, and he was looking at him the way a man looks at an exotic animal in the wild.
 
 Then he did something that made no sense at all. He put his head very slightly on one side.
 
-*Well,* he said. *They called you the Phantom.*
+*Well,* he said. *The Phantom.*
 
 Nothing came back.
 
@@ -388,19 +340,15 @@ Four exchanges. Perhaps five. Neither of them gave any ground at all and neither
 
 Then they were fifteen feet apart again. The big man stood with his weight square and his hands open. He was not smiling. He was not hurrying either. There was blood coming down the outside of his sleeve.
 
-His father was not even any more.
-
-That was the thing Kael saw and could not stop seeing. The white had been one steady quantity in the whole of him when he came through that gate, held the way you hold a full cup, and it was not that now. It came up and went down. It went dim across the chest and came back. Whatever was underneath it was spending something to keep it there, and it had been spending it for less than a minute, and the man in front of him had not sat down.
-
 And there were men coming in over the far wall. Six of them. Then more behind those.
 
-Vask did not look at them. He did not look at the man in front of him either. He turned round, came across the threshing floor, and got Kael off the stones with one arm under his back and one under his knees, the way you pick up a thing that has been dropped. Kael's head went against his father's shoulder and stayed there, because there was nothing left in his neck to hold it anywhere else.
+Vask did not look at them. He did not look at the man in front of him either. He turned round, came across the threshing floor, and got Kael off the stones with one arm under his back and one under his knees, the way you pick up a thing that has been dropped. Kael's head went against his father's shoulder and stayed there.
 
 He got one thing out. It cost him everything he had.
 
 "Mother—"
 
-"I know."
+"The baby. It's coming. I'm sorry I couldn't find you sooner. I... We must go."
 
 The yard went.
 
