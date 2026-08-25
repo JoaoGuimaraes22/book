@@ -33,7 +33,7 @@
 - `portrait-prompt-system.md` — the RULE for single figures: the fixed STYLE block, the per-character AGE and HAIR blocks, the SUBJECT blocks, the full-figure BASE block, and the generation method.
 - `scene-prompt-system.md` — the RULE for multi-figure scenes, action, contact and aftermath.
 - `images/` — split by kind (s34), because the library outgrew one flat folder:
-  - `images/portraits/` — face references, `<character>-<age>.png`. Head-and-shoulders by default; **half-figure (waist-up, forearms in frame) where the character's build is part of the reference** — Severin's is the first.
+  - `images/portraits/` — face references, `<character>-<age>.png`. Head-and-shoulders by default; **half-figure (waist-up, forearms in frame) where the character's build is part of the reference** — Severin's is the first. **A deliberate second face for the same character takes a state suffix** — `kael-9-still` is the first: same boy, same age, only the expression moved, cut because a plate needed a face its reference would not hold and no wording could override (`scene-prompt-system.md` §What the reference carries).
   - `images/full-figures/` — standing figures, `<character>-<age>-full.png`. **The `-full` suffix is kept even though the folder already says so**, so a filename stays unambiguous wherever it is pasted or cited and no two files share a name across folders.
   - `images/plates/` — the adopted plates themselves, `ch<NN>-<slug>.png`. **These are pages**, so THE PLATE FOLLOWS THE PAGE binds every one of them; the other three folders are references and it does not.
   - `images/scene-tests/` — multi-figure method tests. **References, not pages** — which is what makes Kael's unspent grey legal in them.

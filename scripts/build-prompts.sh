@@ -47,6 +47,7 @@ AGE = {
 PORTRAITS = [
     ("kael-4",      "### Kael at four",  "child",      True,  None),
     ("kael-9",      "### Kael at nine",  "kael9",      True,  None),
+    ("kael-9-still", "### Kael at nine — the withheld variant", "kael9", True, None),
     ("kael-14",     "### Kael",          "adolescent", True,  None),
     ("valeria-14",  "### Valeria",       "adolescent", True,  None),
     ("aeliana-15",  "### Aeliana",       "adolescent", True,  None),

@@ -318,6 +318,55 @@ places and the coarse weave at the collar, ink dominant over wash
 throughout the garment.
 ```
 
+### Kael at nine — the withheld variant
+
+**NOT RUN. Cut because a prompt could not beat a reference.** `kael-9` is the canonical nine and is deliberately *alert and direct... a boy in the middle of asking something*; the note under it reserved a withheld, still variant *if a plate of the game or of Ch. 6 ever needs one*. `plates/ch05.md` needed one and tried to get it with words — an override in the reference line, in priority position, in caps — **and the run returned the reference's asking face anyway** (`../08-Plates/scene-prompt-system.md` §What the reference carries). **This file is the fix: a second face, so a plate has something to anchor on instead of something to argue with.**
+
+**IT IS THE SAME BOY, AND ONLY THE FACE MOVES.** Age, hair, skin, grime, cloth and the eye mechanism are `kael-9`'s, unchanged and deliberately so — two references that disagree about bone structure would be worse than the problem being solved. **What changes is the mouth, the lids and the brows**, which is where the asking lives.
+
+**AND THE GREY IS SITED AGAINST A LANDMARK THIS TIME.** `kael-9` says *near-white neutral grey, cool and colourless* and the Ch. 5 plate still came back blue. **A colour word drags its own saturation in**, so *colourless* is restated as a comparison a renderer can measure — no more colour in the iris than in the whites around it.
+
+**THIS IS THE FACE FOR THE STILLNESS.** The standing game is years old by nine and he is good at it; what `kael-9` shows is the boy who has not needed it yet. Use `kael-9` for a chapter that asks and this one for a chapter that closes — Ch. 5's loft, Ch. 6, and any plate of the game itself.
+
+```
+SUBJECT — cool pale parchment ground, entirely empty. No landscape,
+no building, no horizon, nothing behind him.
+A nine-year-old boy of a mountain village.
+Eyes near-white neutral grey, cool and COLOURLESS — no more colour
+in the iris than there is in the whites around it, and no blue in it
+anywhere. The LIGHTEST VALUE in the picture, winning on value and
+never on saturation. Distinct dark limbal ring, small dark pupil.
+The hair is dark but never a solid mass: fine ink strands and open
+transparent washes with bare paper left through it, soft wash-bled
+edges, no hard-edged black anywhere in it. The sharpest step from
+light to dark in the whole picture happens inside the eye itself,
+at the edge of the iris.
+Dark hair, cut short and uneven at home by somebody who was not
+being careful, falling over the forehead.
+Handsome, with faintly asymmetrical features — one brow set
+slightly higher, nose a fraction off centre.
+Outdoors at altitude his whole life: wind-chapped, high colour
+across the cheeks and the nose, cool grey dust and dirt on the skin
+and in the creases of the neck, the grime staying cool grey and
+never warm brown. A CHILD'S skin under it — nothing worked deep, no
+roughness, no hardness anywhere in it.
+No scars and no marks anywhere on him.
+Expression WITHHELD AND COMPLETELY STILL. The lids sit a fraction
+low over the eyes, not wide and not narrowed. The brows are level
+and do not move. The mouth is CLOSED, the lips together and
+relaxed, not pressed and not parted. The face is at rest and gives
+nothing back — a boy who has just finished working something out
+and is not going to say what. NOT asking, NOT curious, NOT eager,
+NOT wide-eyed, NOT wondering, NOT hopeful, and equally NOT sad, NOT
+sullen, NOT wary, NOT frightened, not smiling, not blank and not
+sleepy. He is thinking, and none of it is on the surface.
+Plain undyed wool, coarse and much mended, in dull oatmeal and dead
+olive, the collar loose at the throat. The ink carries the cloth —
+dense scratchy linework in the seams, the patches, the mended
+places and the coarse weave at the collar, ink dominant over wash
+throughout the garment.
+```
+
 ### Valeria
 
 ```

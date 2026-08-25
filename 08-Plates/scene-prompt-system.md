@@ -370,6 +370,13 @@ Wound-detail vocabulary — raw, split, edges open — appears to be what causes
 
 **Carried by the reference (can be cut):** face, bone structure, eye colour, hair colour, skin tone, apparent age, style, palette, paper.
 
+**AND CARRIED WHETHER YOU WANT IT OR NOT: THE EXPRESSION (s41).** A reference does not only supply a face, it supplies that face's **mood**, and in a close crop it wins against the prompt. Twice now:
+
+- `plates/ch01.md`, fallen stars — *neither face is visible* lost to a reference that knew what a carried child does.
+- `plates/ch05.md`, the fact lands — the block opened with `THE REFERENCE SHOWS HIM ALERT AND ASKING. THIS PICTURE IS THE OPPOSITE, AND THE EXPRESSION DESCRIBED BELOW OVERRIDES THE REFERENCE COMPLETELY`, in priority position, and the run returned the reference's own wide-eyed asking face anyway.
+
+**So: when a plate needs a face in a state its reference does not hold, cut a second reference. Do not write a longer override.** Naming the conflict does not resolve it; it just puts two arguments in the frame and the picture is only ever one of them.
+
 **Must be written every time:** body proportions in unusual poses, posture, what each hand is doing, everything below the collar, framing, lighting across a whole body, and **all clothing** when more than one character is present.
 
 ---
