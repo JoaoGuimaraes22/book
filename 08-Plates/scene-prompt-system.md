@@ -66,11 +66,11 @@ Also: state hands that are deliberately **out of frame**, or the model may inclu
 
 **Weapon size by comparison to the body, never by name.** "Dagger" rendered as a near-longsword. This worked: *roughly the length of his forearm, noticeably shorter than her longswords.*
 
-**AND THE SAME FOR GARMENTS — NAME A GARMENT BY CONSTRUCTION, NEVER BY ITS NAME (s41).** *(Generalised below: it is not about garments.)* *A plain dark coat, well cut and well kept* produced a nineteenth-century frock coat over a waistcoat over a winged collar (`plates/ch04.md`, the master arrives) — Dickensian, and neither of `02/geography`'s two registers. **Every garment word in English carries a costume-history default**, and the renderer reaches for it exactly as it reached for a longsword when told *dagger*. *Coat* was page canon and was still the wrong instruction.
+**AND THE SAME FOR GARMENTS — NAME A GARMENT BY CONSTRUCTION, NEVER BY ITS NAME (s42).** *(Generalised below: it is not about garments.)* *A plain dark coat, well cut and well kept* produced a nineteenth-century frock coat over a waistcoat over a winged collar (`plates/ch04.md`, the master arrives) — Dickensian, and neither of `02/geography`'s two registers. **Every garment word in English carries a costume-history default**, and the renderer reaches for it exactly as it reached for a longsword when told *dagger*. *Coat* was page canon and was still the wrong instruction.
 
 Describe what the garment DOES instead: how long it falls, how it closes, what the collar does, how the sleeve ends, what it is made of. *A long straight undyed overgarment falling to mid-calf, closed edge to edge at the front with no lapel and no button placket, standing collar to the base of the throat, plain full sleeves ending at the wrist* has no century in it. **The test: could a costumier from three different centuries all draw this from the words? Then it is construction. Could only one? Then it is a name.**
 
-### Name a thing by construction — the general rule (s41)
+### Name a thing by construction — the general rule (s42)
 
 **It is not about weapons and it is not about garments. It is about NOUNS.** Three instances now, in three unrelated domains, all identical in shape:
 
@@ -90,17 +90,17 @@ Describe what the garment DOES instead: how long it falls, how it closes, what t
 
 Then pin it with §Scale between figures, as always: *as wide as the candle is wide, standing as tall as the distance from his chin to his eyebrows.*
 
-**AND THE TRAP ON THE OTHER SIDE OF IT: A CORRECTION CAN BURY THE THING IT WAS CORRECTING FOR (s41).** Killing a default takes several clauses, and those clauses crowd out the feature the object is actually named for.
+**AND THE TRAP ON THE OTHER SIDE OF IT: A CORRECTION CAN BURY THE THING IT WAS CORRECTING FOR (s42).** Killing a default takes several clauses, and those clauses crowd out the feature the object is actually named for.
 
 `plates/ch06.md` fixed a rock that rendered as a menhir by writing five clauses of *irregular, weathered, broader at the base, no straight edges, nothing shaped by hands* — and put the fracture sixth. `plates/ch07.md` ran it: **the menhir was gone and so was the split**, on a rock whose name is the split rock.
 
 **Say the defining feature FIRST, with a measurement, then correct the shape.** The order is the instruction. A renderer builds what it reads first and spends what is left on the qualifiers.
 
-**AND THE THIRD FACE OF THE SAME PROBLEM: NEGATING A NOUN'S FEATURES LEAVES YOU WITH NONE OF THEM (s41).** `plates/ch07.md`, the wasters: *one wooden sword, plain and unfinished, no guard and no ornament* returned a flat batten with a taper — no grip, no section, nothing a hand would hold. The guard and the ornament were the only things marking it as a sword, and banning them took the sword with them.
+**AND THE THIRD FACE OF THE SAME PROBLEM: NEGATING A NOUN'S FEATURES LEAVES YOU WITH NONE OF THEM (s42).** `plates/ch07.md`, the wasters: *one wooden sword, plain and unfinished, no guard and no ornament* returned a flat batten with a taper — no grip, no section, nothing a hand would hold. The guard and the ornament were the only things marking it as a sword, and banning them took the sword with them.
 
 **So the noun rule has two failure directions and one answer.** Name the thing and you get its default. Ban the default's features and you get nothing at all. **Describe the construction either way** — *a round grip long enough for a hand and a half, then a blade section lens-shaped in cross-section, thicker down its centre than at its edges, tapering to a blunt squared tip* — and let the negations trim what is left over, not what the object is made of.
 
-### A close-up plate and the age line — RAISED, NOT CONFIRMED (s41)
+### A close-up plate and the age line — RAISED, NOT CONFIRMED (s42)
 
 **Logged as an open question, not a finding, because the evidence was overturned.**
 
@@ -180,18 +180,18 @@ Proven twice, in two different domains:
 
 **The reusable shape is two clauses: hold the rival at quiet middle values with no hard edges, then site the sharpest step from light to dark on the winner.** It was recorded as an eye technique. It is a picture technique.
 
-**AND ITS LIMIT: THE WINNER MUST BE BIG ENOUGH IN THE FRAME TO WIN (s41).** Priority is not magnification. Twice now a small anatomical tell has been named as the most finished thing in a picture and lost anyway, not to a rival but to its own size:
+**AND ITS LIMIT: THE WINNER MUST BE BIG ENOUGH IN THE FRAME TO WIN (s42).** Priority is not magnification. Twice now a small anatomical tell has been named as the most finished thing in a picture and lost anyway, not to a rival but to its own size:
 
 - `plates/ch04.md`, the knot — hand size by comparison *moved it and did not solve it.*
 - `plates/ch04.md`, the master arrives — *the wrists are the most precisely drawn thing in the picture*, at full length, came back as ordinary wrists in cuffs. The wrists are the whole point of his body.
 
 **Below roughly the size of a hand in frame, a detail cannot carry finish, and no amount of emphasis changes that. The fix is the crop.** Pick the framing that makes the tell large, or accept the tell is decoration in this picture and let something else win. This is the production argument for close work: a close-up is not a stylistic preference, it is the only way some facts render at all.
 
-### The pre-flight is a script now (s41)
+### The pre-flight is a script now (s42)
 
 **`scripts/check-prompt-bloat.sh`. Run it on a built prompt before handing the prompt over.**
 
-**AND THE AUTHOR'S RULING ON IT (s41), which matters more than the script: THE SCRIPT IS A BACKSTOP, NOT THE METHOD.** *Not sure a script is the way to do it — I'd like you to just be better at knowing what a good prompt is.* **Do not write a bloated block and then lint it down.** Know what the block should be while writing it; run the check afterwards to catch what slipped, never to do the thinking. A session that treats a clean lint as proof the prompt is good has already lost the point — the tool cannot see the judgement that matters, which is why its negation checks had to be removed.
+**AND THE AUTHOR'S RULING ON IT (s42), which matters more than the script: THE SCRIPT IS A BACKSTOP, NOT THE METHOD.** *Not sure a script is the way to do it — I'd like you to just be better at knowing what a good prompt is.* **Do not write a bloated block and then lint it down.** Know what the block should be while writing it; run the check afterwards to catch what slipped, never to do the thinking. A session that treats a clean lint as proof the prompt is good has already lost the point — the tool cannot see the judgement that matters, which is why its negation checks had to be removed.
 
 Every rule in this file was written the same way: a run came back wrong, the cause was found, the finding was written down. **All of it is retrospective, and nothing applied any of it to the next block before that block shipped** — so the same bloat kept arriving, session after session, from someone who had just finished writing the rule against it. The rules were not the gap. The procedure was.
 
@@ -221,7 +221,7 @@ Every rule in this file was written the same way: a run came back wrong, the cau
 
 **The worked example is the Ch. 3 back** (`plates/ch03.md`): the author's compression cut roughly a third of a drafted prompt without losing a single instruction, and the result was better. That diff is what this section is written from.
 
-### Over-writing contradicts — it does not merely dilute (s41)
+### Over-writing contradicts — it does not merely dilute (s42)
 
 The rule above says redundancy competes. **The stronger claim, and it is now evidenced: a prompt long enough to restate itself is long enough to disagree with itself, and the renderer splits the difference.**
 
@@ -241,7 +241,7 @@ The rule above says redundancy competes. **The stronger claim, and it is now evi
 
 **The test before cutting a repetition: name what the clause forbids, then find where else that thing is forbidden.** If nowhere, it is not a repetition and it stays. Compression is measured in channels covered, never in words.
 
-### Colour is adjusted per picture, NOT by rule (author ruling, s41)
+### Colour is adjusted per picture, NOT by rule (author ruling, s42)
 
 **This file had two colour rules and the author removed them: *no need to be a rule — case by case we do adjust.*** What follows is the evidence, kept because it is what happened, and explicitly not a procedure to apply in advance.
 
@@ -278,7 +278,7 @@ Two fixes, and they generalise to any picture with real depth:
 
 Then pin the depth with **scale-by-measurement**, which is what proves it worked: *the entire boat is smaller than the boy's head in this frame; if the boat is bigger than that, the viewpoint is wrong.*
 
-**AND THE SAME FOR LOW ANGLES — NAME WHAT THE VIEWER CAN SEE, NOT WHERE THE VIEWER IS (s41).** *THE VIEWER IS LOW, at the eye height of a boy of nine, so the man is seen slightly from below* failed twice on the same picture (`plates/ch04.md`, the master arrives), returning a level adult viewpoint both times. **A camera height is an abstraction; a renderer draws surfaces.** State the surfaces the angle exposes and the landmark it moves:
+**AND THE SAME FOR LOW ANGLES — NAME WHAT THE VIEWER CAN SEE, NOT WHERE THE VIEWER IS (s42).** *THE VIEWER IS LOW, at the eye height of a boy of nine, so the man is seen slightly from below* failed twice on the same picture (`plates/ch04.md`, the master arrives), returning a level adult viewpoint both times. **A camera height is an abstraction; a renderer draws surfaces.** State the surfaces the angle exposes and the landmark it moves:
 
 - *The underside of his jaw and the underside of the chin are visible.*
 - *The bundle is seen from below and its underside shows.*
@@ -402,7 +402,7 @@ A shallow arc — all three angled toward each other but every face visible — 
 
 ---
 
-## Lettering renders, under conditions (s41)
+## Lettering renders, under conditions (s42)
 
 The folder had assumed text was not worth attempting. **One clean instance now says otherwise:** `plates/ch08.md` put `MINIMA` on a lecture-room slate and it came back correctly spelled in even chalk capitals at the stated size.
 
@@ -430,7 +430,7 @@ A fresh cut across his cheekbone. Several on his forearm and torso.
 
 Wound-detail vocabulary — raw, split, edges open — appears to be what causes refusals, not the injury itself. Two data points only, so hold this loosely; location may also matter.
 
-### A negation puts the word in the prompt (s41)
+### A negation puts the word in the prompt (s42)
 
 **Banning a thing requires naming it, and the name is what a filter reads.** This is a cost of negation that has nothing to do with dilution, and it was invisible until a six-word exclusion killed a run.
 
@@ -451,7 +451,7 @@ Wound-detail vocabulary — raw, split, edges open — appears to be what causes
 
 **Carried by the reference (can be cut):** face, bone structure, eye colour, hair colour, skin tone, apparent age, style, palette, paper.
 
-**AND CARRIED WHETHER YOU WANT IT OR NOT: THE EXPRESSION (s41).** A reference does not only supply a face, it supplies that face's **mood**, and in a close crop it wins against the prompt. Twice now:
+**AND CARRIED WHETHER YOU WANT IT OR NOT: THE EXPRESSION (s42).** A reference does not only supply a face, it supplies that face's **mood**, and in a close crop it wins against the prompt. Twice now:
 
 - `plates/ch01.md`, fallen stars — *neither face is visible* lost to a reference that knew what a carried child does.
 - `plates/ch05.md`, the fact lands — the block opened with `THE REFERENCE SHOWS HIM ALERT AND ASKING. THIS PICTURE IS THE OPPOSITE, AND THE EXPRESSION DESCRIBED BELOW OVERRIDES THE REFERENCE COMPLETELY`, in priority position, and the run returned the reference's own wide-eyed asking face anyway.
@@ -466,7 +466,7 @@ Wound-detail vocabulary — raw, split, edges open — appears to be what causes
 
 Two items recur because the system inherits them rather than inventing them, and both are in `../08-Plates/canon-brief.md`:
 
-**KAEL'S GREY — NO LONGER AN IMAGE CONSTRAINT (author ruling, s41; `../08-Plates/README.md`).** Plates may show it, at full strength, exactly as the portraits and scene tests always could. The rule this section used to carry — *frame it out, answer with distance and occlusion* — is retired, and every Part I plate built under it stands as drawn. It remains unspent on the PAGE, which is a prose rule and binds no image.
+**KAEL'S GREY — NO LONGER AN IMAGE CONSTRAINT (author ruling, s42; `../08-Plates/README.md`).** Plates may show it, at full strength, exactly as the portraits and scene tests always could. The rule this section used to carry — *frame it out, answer with distance and occlusion* — is retired, and every Part I plate built under it stands as drawn. It remains unspent on the PAGE, which is a prose rule and binds no image.
 
 **KAEL IS UNARMED IN EVERY SCENE.** His full-body sheet carries no weapons, the scene system attaches that sheet, and so every scene inherits a weaponless boy. Predicted when the sheet was adopted; demonstrated every time since. Page canon puts *two short blades across his back in a cloth wrap* and a knife inside the clothing. Until the sheet is redone, write the wrap into the scene prompt by hand whenever the moment would carry it.
 
@@ -488,13 +488,13 @@ What it inherits is the house look and nothing else: the **Medium** and **Colour
 
 - **Where the light is.** The portrait block's soft directional light is gone. Say the source, say it is the only one, and say what it leaves dark.
 - **Who is NOT in the frame.** An unattended run puts a person in an empty room and a watcher in a solitary moment. Name the absence.
-- **Which faces are not visible, and that it is deliberate.** Where a plate hides a face for its own compositional reasons, say *no eyes are visible anywhere in the picture* and say *do not turn the head toward the viewer*, or the run will helpfully fix it — **and count the channels before trimming either** (§Over-writing contradicts). This is no longer forced by Kael's grey, which s41 freed for plates.
+- **Which faces are not visible, and that it is deliberate.** Where a plate hides a face for its own compositional reasons, say *no eyes are visible anywhere in the picture* and say *do not turn the head toward the viewer*, or the run will helpfully fix it — **and count the channels before trimming either** (§Over-writing contradicts). This is no longer forced by Kael's grey, which s42 freed for plates.
 
 **The inherited Colour paragraph is written for faces, and a plate must often override it.** It ends *the warmth belongs to the skin alone, not the paper or the cloth* — true of a portrait, where the face is the only warm thing in the frame. A plate lit by a fire, a lamp or a town has its warmth landing on cloth, timber, stone and water, and a plate with no people in it has no skin at all. **Say where the warmth actually lands, inside the plate block.** Do not edit the fixed STYLE block to suit one picture.
 
 **Anchoring cost, stated per plate.** Scenes want full-body sheets. Plates rarely get them: a plate of a child, of a parent, or of an empty room is anchored on a head-and-shoulders portrait or on nothing at all, and everything below the collar is then authored in the prompt and anchored to nothing — it will not repeat in the next plate. That is not a reason to skip the plate; it is a reason to write the cost on the sheet, so the next session knows which pictures share a body and which only share a face.
 
-## What a warm source will and will not light (s41)
+## What a warm source will and will not light (s42)
 
 **A warm source lights a face only when it is CLOSE to it. Whether the source is in frame has nothing to do with it.** The folder carried this as an in-frame/out-of-frame rule for a whole session, from a single run, and it was the wrong axis. Four runs settle it:
 
@@ -509,7 +509,7 @@ What it inherits is the house look and nothing else: the **Medium** and **Colour
 
 **And the general lesson, which is the more useful one: a renderer will refuse an instruction that is physically false, and it is right to.** Two runs were spent asking distant lights to behave like near ones. Check the physics before writing the lighting.
 
-## Some moments are undrawable (s41)
+## Some moments are undrawable (s42)
 
 **THE PLATE FOLLOWS THE PAGE assumes the only thing that can stop a plate is spend-state. It is not.** A moment can be page-legal, canon-clean, well-composed and still impossible, because the instrument refuses it.
 
