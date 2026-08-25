@@ -4,7 +4,7 @@
 
 **NAMED NEXT (author, s40): CH. 5.** Its pick, *past the split rock*, is the deliberate bookend to the adopted `ch01-fallen-stars` — same lights, same child, same place, and this time nobody turns his chin down. Candidates are on `plates/candidates.md`; the sheet is not written yet.
 
-**READY TO FIRE, no work needed:** seven built prompts have never been run — `ch01` the-catch · room-of-true-things · telling-the-goat · talking-the-goat-down · `ch02` done · `ch04` the-master-arrives · `ch08` seeing-about-the-goat. **Take the Ch. 8 doorway early:** it is the light-from-below rematch, and it gates Aurelian's candle in Ch. 9, which his sheet calls the best image of him in the book.
+**LIGHT FROM BELOW IS PROVEN (s41).** `ch05/the-fact-lands` put a faint out-of-frame source under a face and lit it properly, so **the gate the Ch. 8 doorway was holding on Aurelian's candle is open** and the candle no longer waits on it. `ch01-fallen-stars` had shown only that an in-frame source throws nothing; the two findings are different and both stand.
 
 **THE PLATES WANT PEOPLE AND EXPRESSIONS (author, s41).** Ruled on the two pails — a still life that rendered correctly and was not what the book wants illustrating. **An object-only plate is not a preferred plate**, however well the objects come out; prefer the candidate with faces in it. `ch01/room-of-true-things`, `ch04/the-knot`, `ch05/the-two-pails` and `ch08/the-roll` are all faceless by design, and that is now a cost each one has to be worth.
 
