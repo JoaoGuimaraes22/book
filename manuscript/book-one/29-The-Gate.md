@@ -64,12 +64,6 @@ Twice he lost her and found her by the sound of the crowd rearranging itself.
 
 Twice a woman asked him something and he had gone eight strides before he understood it had been a question.
 
-Halfway up, a girl of about four was standing on her own in a pocket behind a barrow with her hands at her sides, not crying, looking at the legs going past her, and Kael went by her and got six strides and stopped and could not make his feet do the next one. He went back and picked her up under the arms and held her over his head where she could be seen, and shouted, and kept shouting, and a woman came out of that crowd with her hands already up, making a sound Kael had no file for at all.
-
-It cost about a minute.
-
-He did not tell Valeria what it had cost, and she did not ask, and she had waited, and she had not liked waiting.
-
 Two hundred strides short of the wall the crowd stopped being a crowd and became a face of people, packed hard, pressed against the last of the open ground and not going anywhere, because the last of the open ground was where the men on the wall had put a line of spears and told everybody to stand back.
 
 The wall went up out of it, cut stone, higher than the arena rail, with men on the top of it standing in the ordinary bored way men stand on walls.
@@ -86,7 +80,7 @@ It had been shut for some time. You could see that from how the people at the fr
 
 "I heard you."
 
-They got to the spear line the way he had got them everywhere else, and then the spear line was the end of it, because a spear line is not terrain.
+They got to the spear line the way he had got them everywhere else, and then the spear line was the end of it.
 
 Valeria did not argue with the man in front of her. She stepped out of the press into the strip of open ground where nobody was allowed to be, which took a certain amount of doing, and she stood in it, and she let herself be seen.
 
@@ -94,7 +88,7 @@ She was thirteen years old and covered to the elbows and her hair was out of its
 
 It took about four seconds.
 
-"On the left. *On the left* — that's a Vel."
+"On the left. *On the left* — that's Valeria Vel."
 
 Somebody up on the wall said something to somebody else. A head went away and came back. The crowd behind them heard the word go along the top of the wall and did what a crowd does with a rumour of a door opening, which is lean.
 
@@ -110,7 +104,7 @@ He was exactly as he had been in a corridor at the Temple two springs ago and in
 
 "Valeria Vel," he said. "Come through, please."
 
-"There is a boy with me."
+"There is a boy with me. It's Kael. He studies at Temple too."
 
 "I know. Come through."
 
@@ -168,7 +162,7 @@ There were men putting their shoulders into the leaf and a girl of the Line of V
 
 "I know," he said.
 
-"She's having a child. Today. It's today." Kael heard his own voice climb and could not get underneath it. "Four miles. The road on the other side is four miles to the mountain road and I can run it. I'm not asking to stay. I'll go straight through and out the other side and you can put a man on me the whole way, I don't care, I'll—"
+"She's having a child." Kael heard his own voice climb and could not get underneath it. "Four miles. The road on the other side is four miles to the mountain road and I can run it. I'm not asking to stay. I'll go straight through and out the other side and you can put a man on me the whole way, I don't care, I'll—"
 
 "Kael."
 
@@ -194,15 +188,11 @@ Something went across the judge's face and did not stay.
 
 "Then *wait*—"
 
-"Kael," said Halden, and there was nothing after the name. He did not say *of the Island.* He did not say the other thing either. He had never in two years put anything after it, and Kael had never once noticed until a man said it to him through an eighteen-inch gap with the whole weight of a hillside coming up behind him. "I have nothing to give you. I am not going to pretend I am sorry in a way that costs me nothing, and I am not going to ask you for anything. Get off the road before they reach it. Go high and go east and do not be on any road at all."
+"Kael." Halden took a breath. "I have nothing to give you. I am not going to pretend I am sorry in a way that costs me nothing, and I am not going to ask you for anything. Get off the road before they reach it. Go high and go east and do not be on any road at all."
 
 "*Please.*"
 
-"Take your hand off the leaf."
-
-He took his hand off the leaf.
-
-The gate shut. The bar went across on the other side of it, and it was a completely ordinary sound, the sound of a barn being closed for the night.
+The gate shut. The bar went across on the other side of it, and it was it.
 
 ---
 
@@ -210,9 +200,7 @@ He stood in front of it for a while.
 
 Then he looked up, because there were people on the wall and one of them might be somebody, and that is what a boy does.
 
-There were about forty men on that stretch. Behind them, back from the edge where you stand when nobody has told you to stand anywhere, a line of heads. Some of them were small. The Temple had four hundred children. The ones with houses on this island had houses in there.
-
-He saw Elarine Sedrane.
+There were about forty men on that stretch. Behind them, he spotted some of his fellow students. And among them, Elarine Sedrane.
 
 He saw her for about as long as it takes to see somebody. She was three heads along from a boy taller than the men beside him, with dark-gold hair. Both of them were looking down into thirty thousand people the way you look into thirty thousand people, which is at all of it and none of it.
 
@@ -220,49 +208,39 @@ Then one of them stopped.
 
 Kael could not see her face. He was a hundred and forty strides out and below, with smoke coming across from the west, and he could not have told you at that distance whether her eyes were open. He knew it was her. She knew it was him. That was the whole of the information and there was not going to be any more of it, because the crowd came forward against the spears again, the man beside Kael went sideways into him and took him four strides down the hill, and when he got his feet back the piece of wall he had been looking at had different people on it.
 
-He did not look for her again.
+He tried to look for them, and failed.
 
 They were in and he was out.
 
 That was all he had, and he took it, and what he built out of it was finished before he had gone twenty strides.
 
-Four years of a cistern court and a sea wall and a girl who taught him fire twice a week since they were eleven, and a boy who let him use his capacity as a magnifying glass and stood up when Valeria came into a room. He had thought about them as people he had been measured against and had not lost to. He had been at the top of a board with their names under his. He had beaten one of them in front of eleven thousand people the day before yesterday and she had knelt on the sand and told him not to be kind to her.
+Whatever there had been between the three of them, it was weaker than that gate.
 
-None of that was a thing. It had never been a thing. The board was a piece of paper, and the sand was a show, and the actual arrangement — the one that had been running underneath all four years of it without anybody having to say a word — was cut stone, and it was high, and it opened for them.
+It was weaker than those walls.
 
 He was glad they were alive. He found that out about himself in the middle of it and it did not change anything else.
-
-He sat down.
-
-He had not sat down in a morning that had included the arena, the fog, the eastern gate, the road, the village, the wells and a lane, and he did not decide to do it now. His legs did it. He went down onto the stones with his back against somebody's ditch wall and his arms across his knees, in the middle of an enormous number of people, and none of them knew who he was.
 
 ---
 
 Nobody at the wall had said a number, so he made one.
 
-He did it because he could not not do it. He took a section of the near ground where he could see the edges of it — from the ditch to the second olive terrace, about forty strides by thirty — and he counted a strip of it properly, multiplied, and checked the multiplication against a second strip because his mother had made him check every number he had ever produced in his life. Then he ran it back down the road and out over the shoulder of the hill by eye, allowing for the ground he could not see and being honest about it.
+He took a section of the near ground where he could see the edges of it — from the ditch to the second olive terrace, about forty strides by thirty — and he counted a strip of it properly, multiplied, and checked the multiplication against a second strip because his mother had made him check every number he had ever produced in his life. Then he ran it back down the road and out over the shoulder of the hill by eye, allowing for the ground he could not see and being honest about it.
 
 It came out between thirty-one and thirty-six thousand.
 
-The number had come back. He noticed that. It had gone off in his hands at the top of this same rise inside the hour, and now it worked, and he understood without any particular feeling about it that what had been broken was not the count.
-
-Then he did the other one, because the first one is never the one.
+Then he continued.
 
 Twenty minutes to the flat, which was now perhaps twelve. The road came up onto the shoulder in one place. The crowd began two hundred strides short of the wall and ran back down the hill for a quarter of a mile. There was no third gate. The terraces went up to the north and ended against the district's own wall; the ditches to the south went down into the olive ground and the olive ground went down to the cliff path and the cliff path went to the water, where there were ships.
 
-He worked it four times.
+He came to the answer he wanted to find the least.
 
-He worked it the way his mother had taught him to work a problem that will not open — from the answer backwards, and from the sides, and then by throwing out the thing you have assumed without noticing you assumed it. He threw out the wall. He threw out the road. He gave himself a hundred men who would do what they were told, and then five hundred, and then he gave himself the whole of the empire's garrison and eight hours, which he did not have.
-
-There was nothing there.
-
-That was the finding, and it arrived complete, the way findings did. Not *it will be difficult* and not *many will not get out.* There was no arrangement of that ground, those numbers and that much time that got thirty-one thousand people off this hill, and there never had been, and the wall had not made it so — the wall had only made it visible.
+He had found it, and it arrived complete, the way findings did to him. Not *it will be difficult* and not *many will not get out.* There was no arrangement of that ground, those numbers and that much time that got thirty-one thousand people off this hill, and there never had been.
 
 He was the only person sitting on that hillside who knew it.
 
 He looked at what was around him while the knowledge sat there being useless. A man with a bandaged hand had gone to sleep against his own knees. Two women were arguing quietly about whether a third woman should be made to drink something. Somebody's grandmother was being fanned with a hat. Further up, four men had got a plank out of a fence and were carrying somebody on it. They had been at it for an hour, and were going to go on, because putting him down was not a thing they were going to do.
 
-None of them were doing anything wrong. That was the part. They were doing the correct things. They were queuing at a gate, and looking after each other, and waiting to be let in, which is what you do at a wall in your own country.
+None of them were doing anything wrong. That was the part. They were doing the correct things. They were queuing at a gate, and looking after each other, and waiting to be let in, which is what you do at a wall your own side built.
 
 "You're bleeding, love."
 
@@ -288,13 +266,25 @@ That was the thing he could not put anywhere. There was no house in it, no name 
 
 "Well." She patted his knee and got up. "You want to get on, then."
 
+He got up too. It came out of him with no shape on it at all, because he had spent the last quarter of an hour establishing that there was nothing to be done and had not once thought of saying any of it out loud.
+
+"They're coming up the road. They'll be on this hill in ten minutes and that gate is not going to open again. Go down the ditch on the south side, get into the olive ground, keep going, and don't stop at the cliff path."
+
+She looked at him for a moment with the bottle still in her hand.
+
+"That's kind of you, love," she said.
+
+Then she put the bottle away in the bundle, worked her way four steps back into the press, to the place where she had been standing before, and stood in it.
+
+He watched her do it. He had given her the only thing he owned that was worth anything, correct to the minute and checked twice, and she had thanked him for it the way you thank a child, and gone back to her place, because the gate was at the front of it.
+
 ---
 
 He went east.
 
-He went the way Halden had told him to go, which he thought about for one stride and then stopped thinking about, because it was also the way he would have gone.
+He went the way Halden had told him to go.
 
-Getting out of that crowd was easier than getting into it. Everything was pointed at the gate; nothing was pointed away from it, and a body moving against a stationary mass is not fighting anything. He went down the ditch on the southern side with his hands out on the bank, and up onto the second terrace where the olive ground began and the ground was too broken to stand thirty thousand people on, and after two hundred strides there was nobody near him at all.
+Getting out of that crowd was easier than getting into it. Everything was pointed at the gate; nothing was pointed away from it, and a body moving against a stationary mass is not fighting anything.
 
 He got up onto the high ground and the whole of it was underneath him.
 
@@ -302,19 +292,43 @@ The wall. The road up from the village with its two dry-stone sides. The crowd, 
 
 And on the road, coming up out of the village onto the flat, small and unhurried and in no formation at all, the front of it.
 
-He stood on the terrace wall with his hands hanging and looked at it.
+Then he turned the other way, to look at what he was walking into.
 
-There was a faculty somewhere at the back of him that nobody in his family had ever built, or trained, or mentioned once in eleven years, and it put out a hand.
+The ground east of the district went up in terraces to the olive line, broke into scrub and goat ground, and beyond that, standing in the haze with its top in cloud, was the mountain.
 
-He knew every one of the arguments. He had made them all sitting against the ditch wall and they were all correct. He could not fight three hundred men. He could not move thirty-one thousand people. He could not open a gate that four hundred years of masons had built specifically so that boys could not open it. Nothing he did on that hill changed one single thing that was going to happen on it, and his mother was six miles away with a child coming down, and a man who had never told him a lie had told him to get off the road.
+It was not empty.
+
+He counted eleven fires, and then stopped counting them and began reading them instead, because a fire out there was a house, and nobody puts a house down at random. The low ones stood where the water stood. The ones going up the shoulder stood along a track. Eleven houses, spread across four miles of ground that had perhaps thirty on it, which meant they had been at it for about an hour and were working from the water inland.
+
+And between the fires, in ones and twos and fours, going along the field walls the way water goes along a gutter, there were men.
+
+They were not marching. They had finished marching. They were doing the thing he had watched thirty of them do in a gateway before the third bell and fifteen of them do around a well since, at the unhurried working pace of people who expect to be at it until dark.
+
+On the eastern water there were more boats coming in.
+
+He stood on the terrace wall with his hands hanging and read the ground between himself and his mother, because reading ground was what he did, and it read the same the whole way to the haze.
+
+Everything from here on was through them. There was no line to take that was not through them. He looked for one for a long time, because looking for one was also what he did, and the ground did not offer him anything, and he was going to go anyway.
+
+Behind him, the faculty nobody in his family had ever built or trained or mentioned once in eleven years put out a hand.
+
+He knew every one of the arguments. He had made them all sitting against that ditch wall and every one of them was correct. He could not fight three hundred men. He could not move thirty-one thousand people. He could not open a gate that four hundred years of masons had built specifically so that boys could not open it. Nothing he did on this hill changed one single thing that was going to happen on it, his mother was six miles off with a child coming down, and a woman with a third of a pint of water had listened to him and gone back to her place in the queue.
 
 All of it was true. He turned it over twice looking for the flaw, and there was no flaw in it, and he went anyway with the thing still holding on to his sleeve.
 
-He turned east, and put the mountain in front of him, and started.
+He put the mountain in front of him and started.
 
 The sound behind him changed about four minutes later.
 
-He did not turn round. He had known what it was going to sound like since the ditch wall; he had done that arithmetic too, without being asked, the way he did all of them.
+He did not turn round. He had known since the ditch wall what it was going to sound like, because he had done that arithmetic too, unasked, the way he did all of them.
+
+What he had not done, having never in his life held the information required for it, was work out how long it would go on.
+
+It went on.
+
+It was still going when he came down off the high ground into the first of the olive terraces. It was still going when he put himself flat behind a wall and let four men pass on the track below him, close enough that he could hear one of them was out of breath. It was still going when he got up afterwards and went on.
+
+It did not arrive in a piece. It came the way rain comes onto a roof, with no part of it being the loud part, and every so often something came up over the top of it that had one person inside it.
 
 And the cold voice, which had counted two in a settlement yard when he was nine and five in a lane before noon and did not care in the slightest what it was counting, started on the hillside behind him.
 
