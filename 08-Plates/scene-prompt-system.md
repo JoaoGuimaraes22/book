@@ -100,7 +100,7 @@ Then pin it with §Scale between figures, as always: *as wide as the candle is w
 
 **So the noun rule has two failure directions and one answer.** Name the thing and you get its default. Ban the default's features and you get nothing at all. **Describe the construction either way** — *a round grip long enough for a hand and a half, then a blade section lens-shaped in cross-section, thicker down its centre than at its edges, tapering to a blunt squared tip* — and let the negations trim what is left over, not what the object is made of.
 
-### A close-up plate and the age line — ANSWERED (s44): THE RUNG NEEDS A RATIO BESIDE IT
+### A close-up plate and the age line — PART-ANSWERED (s44): THE RATIO MUST BE STAGEABLE
 
 **One controlled pair settles what three soft readings could not.** `plates/ch11.md` ran two close-up plates in one session, both under the fourteen-year-old anchor ruling, **both carrying the same eye-line rung in the same words**, both in the same treatment. The white stitch came back eleven or twelve. The fan in the rain came back a young woman — **past her own anchor, not short of it.**
 
@@ -108,7 +108,11 @@ Then pin it with §Scale between figures, as always: *as wide as the candle is w
 
 **Which is §Scale between figures, arriving in a close crop:** adjectives lose, ratios win, and the eye-line rung is a ratio *inside the head* that apparently cannot carry a face on its own once a plate is anchored three years above its chapter. **Write the rung AND one measurable relationship to something else in the frame.** A hand against an object, a head against a doorway, a fist against a grip — anything a renderer can compare.
 
-**The confound, stated so nobody over-reads this:** two characters, two references, two crops. One controlled pair, not a proof. But it is the first evidence in the right direction and it agrees with the folder's oldest scale finding.
+**AND A THIRD RUN THE SAME SESSION WALKED IT BACK TO THIS SHAPE.** `plates/ch12.md`'s furniture carried the rung **and** a ratio and still came back fourteen or fifteen. The ratio it carried was a hand in the foreground against a hand in the far middle distance — **a comparison the picture cannot perform.** The stitch's worked because the hand and the copper bar were side by side, same depth, same crop.
+
+**So the rule is not "add a ratio". It is: stage a comparison the frame can actually make.** Both terms in the crop, at comparable depth and comparable size, near enough to read against each other. A ratio written across a room is the same failure as a tell written under a sleeve (§Name the winner, occlusion) — the fact is in the block and out of the picture.
+
+**The confound, stated so nobody over-reads any of this:** three runs, three characters, three crops. Directional evidence, not a proof.
 
 **The history, kept because it is why this took three sessions.** `../portrait-prompt-system.md` §AGE block states that age words in the SUBJECT block alone get ignored, and §Plates has a plate inherit only the Medium and Colour paragraphs, so a plate never gets the rung. The first datum was overturned by the author (`plates/ch09.md` read years too old to this folder and correct to the author); the second was `plates/ch08.md`'s Elarine reading adolescent among eleven-year-olds with her age in the reference line only.
 
