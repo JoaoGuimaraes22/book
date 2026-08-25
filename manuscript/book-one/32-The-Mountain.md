@@ -283,25 +283,45 @@ Kael heard his father breathe out.
 
 It was one breath and it was not loud, and the point of the longsword came down about two feet and stopped there. Kael had never heard him do that.
 
-He was hatless. The robe was gone; he was in a coat somebody had given him, and it did not fit. He came up the last of the pens at the pace of a man who has been walking since noon and has decided not to stop, and stopped in front of Vask, and Kael saw the face properly for the first time and had to look at it twice.
+His robe was gone; he was in a coat somebody had given him, and it did not fit. He came up the last of the pens at the pace of a man who has been walking since noon and has decided not to stop, and stopped in front of Vask, and Kael saw the face properly for the first time and had to look at it twice.
 
-Kael had the sentence ready. He had been carrying it since a gap eighteen inches wide in a wall at the wrong end of the island, where he had spent it whole on a man it did not reach: *he said I was not standing in it by myself, not me and not my house.* He had it in his mouth complete and he had had it in his mouth for nine hours and he opened it to put it down in front of the old man at last.
+Then the old man's eyes went past him and found the boy at the corner of the yard with a blade in each hand and blood dried to both elbows.
 
-"Where is she," Severin said.
+"Kael."
 
-"Inside."
+He said it the way you say a name you have already decided you are not going to get an answer to.
 
-"How long has she been at it."
+Kael had the sentence ready. He had had it in his mouth since a man shut a gate on him at the wrong end of the island: *he said I was not alone.* He opened his mouth to put it down in front of the old man at last.
 
-"Since the third bell."
+"I looked for you," Severin said. "In the north arch, and after it. I want you to know that I looked."
 
-Something happened in the old man's face and did not stay.
+The sentence went out of him. He could not have got it back if he had tried.
 
-"Alone?"
+"I got out," Kael said. It was the whole of what he had.
 
-"Yes," said Vask.
+"So I see." The old man's eyes went down the front of him and came back up and stopped nowhere and priced all of it. "You are hurt."
 
-Severin looked at him for one beat. Then he went past both of them and into the house without another word, pulling his sleeves back as he went through the door, and by the time he crossed the threshold he was already saying his mother's name, and it was not the way anybody else said it.
+"Not now I'm not."
+
+"What is this," said Vask.
+
+He said it at the line of people still coming up his path.
+
+"The district is holding and it will not hold. We are crossing to the eastern water tonight, and there is a boat, and I did not have another road to bring them along." Severin did not soften any of it. "I have brought all of this onto your mountain. I know what that is."
+
+"Then it is done." Vask did not look at the line at all. "Neris started at the third bell."
+
+Everything in the old man stopped at once.
+
+"The third bell."
+
+"Yes."
+
+"And she has been—"
+
+"Yes."
+
+Severin was already moving. He went past both of them and in through the door pulling his sleeves back as he went, and by the time he crossed the threshold he was saying her name, and it was not the way anybody else said it.
 
 Kael stood in the yard with his sentence still in his mouth, and put it away.
 
