@@ -139,15 +139,13 @@ The princess was seated at the far end, and she was the only person seated.
 
 Then she priced her. It took about four seconds. It was not a thing she could have explained to anybody who had not been raised to do it. Height, weight, reach. Whether she could run, how far, in what. The answer was that she was fourteen years old, had never carried anything, and wore the shoes of somebody who had never once had to run. If it came to it she would have to be carried. She would have to be carried by somebody who was not also fighting.
 
-She had been pricing bodies like that since she was six. She had never once done it to this one, because there had never been one of these in a room with her.
+She had been pricing bodies like that since she was six.
 
-Eleven generations of her house had stood in front of that girl's house, and the best of them stood over the king, and being the best one meant that and nothing besides. She had known what she was for since before she could read. She had gone thirteen years without coming nearer to it than the width of an arena.
+Eleven generations of her house had stood in front of that girl's house, and the best of them stood over the king, and being the best one meant that and nothing besides. She had known what she was for since before she could read.
 
-She was inside twenty feet of it now.
+If that girl had to be taken off this island, Valeria would take her off it, or she would be lying somewhere behind her having failed to. There was no third arrangement and there never had been one.
 
-Something went through her that she had not authorised, and she stood in that doorway with blood dried to her forearms and let it go through and did not move, and none of it arrived on her face.
-
-If that girl had to be taken off this island, Valeria would take her off it, or she would be lying somewhere behind her having failed to. There was no third arrangement and there never had been one. It had been put in her on purpose, by people who were right to put it there, and she had never once wished they had not.
+She wanted to stand in front of her. She had wanted it her whole life, and nobody had ever had to ask.
 
 The judge was against the far wall with his hands folded, broad and comfortable, saying nothing. He had come in ahead of her and had not looked at her since.
 
