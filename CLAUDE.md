@@ -34,11 +34,10 @@ Not cold-read: `index.md` (TOC), the archive, 08. There are no changelogs: `git 
 4. New chapter: design argument → chapter shape → WAIT for approval → draft.
 5. Revision: chapter by chapter, interactively — observations and trim candidates for the chapter in hand, the author's own edits, then the next; never bulk all-chapter tables. Flat-or-leaner against 05's baselines. `scripts/check-echoes.sh` on every new or revised chapter (every hit deliberate); tic counts per 06 §Model-Tic.
 6. Draft → **commit the draft at once** (local; the push waits for the close) → react/revise while hot → approve → write every decision into the files. Committing first means the author's edits arrive as `git diff` instead of a re-read — and a diff catches an edit that silently drops a planted beat, which a re-read does not. Discussion is not an edit: when the author raises a question about drafted prose, propose wording in chat and wait for the ruling.
-7. Ceiling: two chapters of new prose per session (three only if structurally simple); heavy-canon chapters get a session of their own.
 
 **Close**
-8. Commit (short imperative subject) + push. Update 05's baselines after any prose change; `scripts/sync-reader-notebook.sh` after prose changes.
-9. Hygiene: 05 back to its caps; newly spent 04 beats to pins; 03 DYNAMIC refreshed for touched characters (standing state only); a session record appended to `archive/session-log.md`. After any bullet-append in a bible, confirm the following header survived.
+7. Commit (short imperative subject) + push. Update 05's baselines after any prose change; `scripts/sync-reader-notebook.sh` after prose changes.
+8. Hygiene: 05 back to its caps; newly spent 04 beats to pins; 03 DYNAMIC refreshed for touched characters (standing state only); a session record appended to `archive/session-log.md`. After any bullet-append in a bible, confirm the following header survived.
 
 ## Hard rules (author ratification to change)
 - **00 is author-ratified only** (above).
