@@ -66,6 +66,10 @@ Also: state hands that are deliberately **out of frame**, or the model may inclu
 
 **Weapon size by comparison to the body, never by name.** "Dagger" rendered as a near-longsword. This worked: *roughly the length of his forearm, noticeably shorter than her longswords.*
 
+**AND THE SAME FOR GARMENTS — NAME A GARMENT BY CONSTRUCTION, NEVER BY ITS NAME (s41).** *A plain dark coat, well cut and well kept* produced a nineteenth-century frock coat over a waistcoat over a winged collar (`plates/ch04.md`, the master arrives) — Dickensian, and neither of `02/geography`'s two registers. **Every garment word in English carries a costume-history default**, and the renderer reaches for it exactly as it reached for a longsword when told *dagger*. *Coat* was page canon and was still the wrong instruction.
+
+Describe what the garment DOES instead: how long it falls, how it closes, what the collar does, how the sleeve ends, what it is made of. *A long straight undyed overgarment falling to mid-calf, closed edge to edge at the front with no lapel and no button placket, standing collar to the base of the throat, plain full sleeves ending at the wrist* has no century in it. **The test: could a costumier from three different centuries all draw this from the words? Then it is construction. Could only one? Then it is a name.**
+
 **Contact points, not trajectories.** "Sweeping toward his ribs" produced a blade aimed at empty floor twice. *The edge inches from his ribs, the blade in front of his body and clearly aimed at him* worked.
 
 ---
@@ -139,6 +143,13 @@ Proven twice, in two different domains:
 - **A hand against a face** (`plates/ch02.md`, the doorframe): the knuckles were named as the palest and most finished thing and lost to an undemoted face.
 
 **The reusable shape is two clauses: hold the rival at quiet middle values with no hard edges, then site the sharpest step from light to dark on the winner.** It was recorded as an eye technique. It is a picture technique.
+
+**AND ITS LIMIT: THE WINNER MUST BE BIG ENOUGH IN THE FRAME TO WIN (s41).** Priority is not magnification. Twice now a small anatomical tell has been named as the most finished thing in a picture and lost anyway, not to a rival but to its own size:
+
+- `plates/ch04.md`, the knot — hand size by comparison *moved it and did not solve it.*
+- `plates/ch04.md`, the master arrives — *the wrists are the most precisely drawn thing in the picture*, at full length, came back as ordinary wrists in cuffs. The wrists are the whole point of his body.
+
+**Below roughly the size of a hand in frame, a detail cannot carry finish, and no amount of emphasis changes that. The fix is the crop.** Pick the framing that makes the tell large, or accept the tell is decoration in this picture and let something else win. This is the production argument for close work: a close-up is not a stylistic preference, it is the only way some facts render at all.
 
 ### Write for an image generator, not for a reader (s40)
 
