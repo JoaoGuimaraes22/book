@@ -62,7 +62,7 @@ Under eighty and it was close.
 
 The first one over the pen wall into the open was the one that mattered.
 
-He came up out of the runnel in a place Kael had not told them about because there was no place — he simply came up the face of it, hand over hand, on stone that Kael would not have gone up in daylight. He got a leg over the top of the wall and he was inside the yard, forty feet from the door, behind everything, exactly as Kael had said a man would be.
+He came up out of the runnel in a place Kael had not told them about because there was no place — he simply came up the face of it, hand over hand, on stone that Kael would not have gone up in daylight. He got a leg over the top of the wall. Then he was inside the yard, forty feet from the door, behind everything, exactly where Kael had said a man would be.
 
 There were three royal guard on that corner and all three were down in the pens with the ones who had come up the sane way.
 
@@ -72,17 +72,19 @@ He was not going to get there. He knew it at the eighth stride with the arithmet
 
 And a column of air came out of the dark by the north wall of the house and took the man off his feet and put him into the stones of the store hard enough that the sound came back off the mountain.
 
-It was a good working. It was a beautiful working. It was thrown off a squared front with a straight back and a proper guard, exactly the way a paid fencing-master out of the capital had spent four years putting it into a boy who worked, and it was worth every hour of the four years, and it killed him.
+It was a good working. It was a beautiful working. It was thrown off a squared front with a straight back and a proper guard, exactly the way a paid fencing-master out of the capital had spent four years putting it into a boy who worked. It was worth every hour of the four years.
+
+It killed him.
 
 Because to throw it he had to stand still, and he stood still.
 
-The second man came over the wall six feet from where the first had, in the dark, and crossed the open ground while Lucan Drusane was still in the follow-through with his weight forward and his front foot planted, and put a spear in under his arm and out the other side of him.
+The second man came over the wall six feet from where the first had. He crossed the open ground while Lucan Drusane was still in the follow-through, weight forward, front foot planted, and put a spear in under his arm and out the other side of him.
 
 Lucan went down onto his knees with his back straight.
 
 He looked, Kael thought, extremely surprised.
 
-Kael arrived. He came in past the spearman's shaft-hand and took the wrist and turned it and went up the shaft the way you go up a shaft, and put the short blade in through the throat and out, and the man sat down in the trodden dirt of his own yard.
+Kael arrived. He came in past the spearman's shaft-hand, took the wrist, turned it, went up the shaft the way you go up a shaft, and put the short blade in through the throat and out. The man sat down in the trodden dirt of the yard.
 
 Then he knelt in front of Lucan Drusane and got a hand under his jaw and looked at it.
 
@@ -92,11 +94,13 @@ Lucan's eyes came round and found him, and stayed on him, and did not do anythin
 
 "You did it right," Kael said.
 
-He did not know why he said it. It was true. He put the boy down on his side because that was what you did, and he took his hand back, and he stood up and went to the pen corner, and while he was going the thing he had read arranged itself and filed itself without asking him: *the form needs a straight line off a squared front, so it needs a man who will stand still, and there is a place in the world where standing still is not survivable, and nobody who taught him that form has ever once been in it.*
+He did not know why he said it. It was true.
+
+He put the boy down on his side, because that was what you did, and took his hand back, and stood up, and went to the pen corner. While he was going, the thing he had read arranged itself and filed itself without asking him: *the form needs a straight line off a squared front. So it needs a man who will stand still. There is a place in the world where standing still is not survivable, and nobody who taught him that form has ever once been in it.*
 
 He put that down where he put things.
 
-Elarine Sedrane was on her knees beside the body inside four seconds and Aurelian Corvane was behind her, and Kael had no time at all to look at either of their faces, and did not look.
+Elarine Sedrane was on her knees beside the body inside four seconds. Aurelian Corvane was behind her. Kael had no time at all to look at either of their faces, and did not look.
 
 ---
 
@@ -156,17 +160,25 @@ Nobody had ever told the princess to say anything.
 
 Then there was light on the yard, and there was nowhere to be.
 
-It came up off the flat above the upper pen all at once, a sheet of it the width of the whole open ground, standing up out of nothing to twice the height of a man, and it did not go anywhere and it did not go out. It stood there and burned, and everything on that mountain had an edge on it and a shadow behind it, and the dark that Kael had been living inside for an hour and a half was gone.
+It came up off the flat above the upper pen all at once: a sheet of it the width of the whole open ground, standing out of nothing to twice the height of a man. It did not go anywhere. It did not go out. It stood there and burned. Everything on that mountain had an edge on it now, and a shadow behind it, and the dark Kael had been living inside for an hour and a half was gone.
 
 He was flat behind the pen wall with his face against stone before he had decided anything.
 
-Then the pens went. The whole line of them, dry wood and old thorn packed into dry-laid walls, took at once from one end to the other, and the woodpile went up beside them with the green wood in it screaming, and Kael came off that wall and out into the open because there was no longer any wall to be behind.
+Then the pens went. The whole line of them, dry wood and old thorn packed into dry-laid walls, took at once from one end to the other. The woodpile went up beside them with the green wood in it screaming. Kael came off that wall and out into the open, because there was no longer any wall to be behind.
 
 There were four of them coming up the path.
 
-He read them the way he read anything. The first was enormous through the shoulders and moved slowly and did not look at the fire he had just made, and the fire came off him again as he walked, in sheets, casually, the way a man scatters feed. The second was small and neat and old and walked with his hands behind his back and put nothing anywhere at all. The third was a woman, dark, quick, with her sleeves rolled, and she had a line of fire about the thickness of a finger running from her right hand and lying along the ground behind her as she came, and it did not spread and it did not die. The fourth was young and thin and never once stopped moving.
+He read them the way he read anything.
 
-They came up onto Kael's father's ground and the men already on it went out of their way for them without being told to, and that was how he knew.
+The first was enormous through the shoulders. He moved slowly. He did not look at the fire he had just made, and more of it came off him as he walked, in sheets, casually, the way a man scatters feed.
+
+The second was small and neat and old, and walked with his hands behind his back, and put nothing anywhere at all.
+
+The third was a woman, dark, quick, sleeves rolled. She carried a line of fire about the thickness of a finger, running out of her right hand and lying along the ground behind her as she came. It did not spread. It did not die.
+
+The fourth was young and thin and never once stopped moving.
+
+They came up onto Kael's father's ground, and the men already on it went out of their way for them without being told to. That was how he knew.
 
 "Gallos," said the small old one, "put it out. I cannot see through it."
 
@@ -176,7 +188,9 @@ They came up onto Kael's father's ground and the men already on it went out of t
 
 The sheet went out. The pens went on burning because the pens were their own business now.
 
-Kael understood every word of it. His mother had taught him that language more carefully than she had ever taught him anything, going slower in it than she went in anything else, and he stood on his own ground in his own yard and listened to four people use it to talk about how to take his house, and it was worth precisely nothing to him.
+Kael understood every word of it. His mother had taught him that language more carefully than she ever taught him anything, going slower in it than she went in anything else. He stood in his own yard and listened to four people use it to arrange the taking of his house.
+
+It was worth precisely nothing to him.
 
 "Where is he," said the woman.
 
@@ -194,31 +208,33 @@ Kael had watched his father hold that path since the first sack going over, in p
 
 He had been holding it for an hour and forty minutes.
 
-It was still the most frightening thing Kael had ever seen and it had stopped being beautiful some time ago. The white was in the whole of him and it had not come off once, not for a second, in an hour and forty minutes, and it had gone thin. It was still there in his arms and his chest and going into the ground at every step, and it was not the same thickness it had been when he came in through a farm gate at the height of a man, and his father was breathing like a man on a hill.
+It was still the most frightening thing Kael had ever seen and it had stopped being beautiful some time ago. The white was in the whole of him. It had not come off once, not for a second, in an hour and forty minutes, and it had gone thin. It was still in his arms, still in his chest, still going into the ground at every step. It was not the thickness it had been when he came in through a farm gate at the height of a man.
+
+His father was breathing like a man on a hill.
 
 He came down between the path and his own door and stopped, square, where he had been standing all night, with the longsword down along his leg.
 
 The one they had called Pellan came up onto the flat after him.
 
-Kael had seen this man look at a piece of ground the way a farmer looks at his produce. He had heard him say *I'm sorry, little one* in a doorway voice. He was forty or near it and he moved light, all of him at once, and he came up onto that flat and did not hurry and did not stop.
+Kael had seen this man look at a piece of ground the way a farmer looks at his produce. He had heard him say *I'm sorry, little one* in a doorway voice. He was forty or near it. He moved light, all of him at once. He came up onto that flat and did not hurry and did not stop.
 
 They went at each other in the open in front of the house.
 
-Kael could not follow it. He got pieces. He got the fire coming off the man's knee and heel and knuckle at the instant of every blow and no earlier, so that the instant was the only warning there was, and he got his father taking two of them on the flat of the sword and the light going along it and off it and away, and he got a moment where they were both inside each other's arms and neither of them was using a weapon at all.
+Kael could not follow it. He got pieces. He got the fire coming off the man's knee and heel and knuckle at the instant of every blow and no earlier, so the instant was the only warning there was. He got his father taking two of them on the flat of the sword, the light going along it and off it and away. He got a moment where the two of them were inside each other's arms with nothing in either pair of hands.
 
 He got the sound. That was the part he had no shelf for. It was not like the yard at the Temple and it was not like a lane full of men. It was two people, in the dark, moving very fast, and it sounded like somebody breaking up a shed.
 
-His father put the longsword through the man's guard and into the top of his thigh and it stopped against something, and the man burst all of it out at once through the point of contact and blew them apart, and they both went down and both got up.
+His father put the longsword through the man's guard and into the top of his thigh, and it stopped against something. The man burst all of it out at once through the point of contact and blew them apart. They both went down. They both got up.
 
 His father got up first.
 
-He got up first, and he came forward, and Pellan went back two steps for the first time all night, and Kael, thirty feet away with a dead man's blood drying on the back of his hand, felt something go up through him that he was ashamed of before it had finished arriving.
+He got up first. He came forward. Pellan went back two steps for the first time all night, and Kael, thirty feet away with a dead man's blood drying on the back of his hand, felt something go up through him that he was ashamed of before it had finished arriving.
 
 His father set his feet.
 
 And then the small old one, Dunmar, who had not put anything anywhere all night, walked out onto the flat between the yard and the upper pen with his hands behind his back and put his fire into the ground.
 
-It did not go up. It went in. The whole flat, thirty strides of it, the one piece of open ground on that mountain wide enough for numbers to spread out on, went from being ground to being something else. The dirt on it went grey and then went white and the stones in it cracked and settled and the air over it stood up and bent everything behind it, and it made almost no noise doing it.
+It did not go up. It went in. The whole flat, thirty strides of it, the one piece of open ground on that mountain wide enough for numbers to spread out on, went from being ground to being something else. The dirt on it went grey, then white. The stones in it cracked and settled. The air over it stood up and bent everything behind it. It made almost no noise doing any of it.
 
 Nobody was going to cross that. Not tonight, and not in the morning.
 
@@ -230,19 +246,19 @@ Kael's whole mountain had one flank now.
 
 The line came in.
 
-It came in from the path and along under the burning pens and up out of the runnel, all at once, in numbers, because there was nowhere left for anybody to be except against the front of the house.
+It came in from the path, along under the burning pens, up out of the runnel, all at once, in numbers. There was nowhere left for anybody to be except against the front of the house.
 
 Kael went backwards with the rest of them. He did not fight it. Ground you cannot hold is not ground.
 
-He killed a man on the way. He was not sure afterwards how. He came up under a spear and did something with the light blade and went past and the man was down behind him, and there was a woman's line of fire on the ground somewhere off to his left travelling faster than anything on that mountain had any business travelling, and he was still going backwards.
+He killed a man on the way. He was not sure afterwards how. He came up under a spear, did something with the light blade, went past, and the man was down behind him. Somewhere off to his left a woman's line of fire ran along the ground faster than anything on that mountain had any business travelling. He was still going backwards.
 
 Aurelian Corvane came off the wall of the house and stood up straight in front of eleven men and spent everything he had.
 
-It was enormous. It was genuinely enormous. It came up off his one good hand and went out across the front of the yard in a wall the height of the door and the width of the house, and for about two seconds it was the biggest thing in the world and the eleven men stopped.
+It was enormous. It was genuinely enormous. It came up off his one good hand and went out across the front of the yard in a wall the height of the door and the width of the house. For about two seconds it was the biggest thing in the world, and the eleven men stopped.
 
 The woman put her hand out sideways as she walked and took it apart.
 
-She did not put it out. She went into it with the line she was carrying and drew across it once, and it came off its feet and folded down onto the stones and lay there in pieces, burning nothing, and she stepped through the middle of it without breaking her stride.
+She did not put it out. She went into it with the line she was carrying and drew across it once. It came off its feet, folded down onto the stones, and lay there in pieces, burning nothing. She stepped through the middle of it without breaking her stride.
 
 Aurelian went down on his knees. Elarine got him under the arms and dragged him backwards along the wall with her heels skidding.
 
@@ -250,13 +266,13 @@ Then the last five of the royal guard died.
 
 They died at the door, in a line, doing their work, and there was no wound on any of them.
 
-Kael saw it happen and got nothing at all. The thin young one, Thiro, came up onto the yard and stopped ten feet short and did something that had no visible part to it whatsoever, and the air over the door went the way air goes over a hot stone in summer, and the five men in front of that door put their hands to their collars, all five at once, in the same half second.
+Kael saw it happen and got nothing at all. The thin young one, Thiro, came up onto the yard, stopped ten feet short, and did something that had no visible part to it whatsoever. The air over the door went the way air goes over a hot stone in summer. The five men in front of that door put their hands to their collars, all five at once, in the same half second.
 
-One of them got his gorget open. It made no difference. They went down where they stood, in order, from the left, and the captain with the countryman's face was the last of the five and he was still trying to get his sword up when he went.
+One of them got his gorget open. It made no difference. They went down where they stood, in order, from the left. The captain with the countryman's face was the last of the five, and he was still trying to get his sword up when he went.
 
-Kael's instruments gave him a complete answer. The answer was that there was nothing there to read, and no reach to price, and no distance that was safe, and it was the wall's arithmetic again in a body.
+Kael's instruments gave him a complete answer. There was nothing there to read. No reach to price. No distance that was safe. It was the wall's arithmetic again, in a body.
 
-Valeria Vel came out of the doorway over the top of the dead men and put both blades through the thin young one's forearm and shoulder before he had finished turning round, and the air over the door went ordinary again, and he went backwards off the step and away into the dark with his people closing over the top of him.
+Valeria Vel came out of the doorway over the top of the dead men and put both blades through the thin young one's forearm and shoulder before he had finished turning round. The air over the door went ordinary again. He went backwards off the step and away into the dark with his people closing over the top of him.
 
 She was back in the doorway before Kael had got his own feet under him.
 
@@ -288,25 +304,31 @@ Then the old man turned round and went back to his mother.
 
 Kael stood in the middle of the room holding his brother.
 
-He was almost nothing. That was the first thing and it went through Kael like cold water: he weighed about as much as a lamb, less, he weighed nothing, and he was hot, and he was moving, and there was a hand out of the cloth no bigger than the top joint of Kael's thumb and it had a fingernail on it. It had a fingernail. Kael looked at the fingernail and something opened in his chest that had never once been opened, and the yard and the fire and the men and the whole of his life went out of the room like water out of a pulled bath, and he stood in his mother's house and was, for about four seconds, completely and unspeakably happy.
+He was almost nothing. He weighed about as much as a lamb. Less. He weighed nothing. He was hot, and he was moving, and there was a hand out of the cloth no bigger than the top joint of Kael's thumb.
+
+It had a fingernail on it.
+
+Kael looked at the fingernail, and something opened in his chest that had never once been opened. The yard went out of the room. The fire went, and the men, and the whole of his life, the way water goes out of a pulled bath. He stood in his mother's house and was, for about four seconds, completely and unspeakably happy.
 
 The baby stopped moving and opened his eyes and looked at him.
 
 They were red.
 
-All the way through, edge to edge, the colour of the fire in the hole, and they were not looking at anything, the way a newborn's eyes are not looking at anything, and they were red.
+All the way through, edge to edge, the colour of the fire in the hole. They were not looking at anything, the way a newborn's eyes are not looking at anything.
+
+They were red.
 
 Kael's whole mind arrived at once and put nothing anywhere.
 
 He looked up.
 
-His mother was watching him from the fleece. She was watching his face and not the child's, and there was nothing on hers at all: not fear, not warning, not surprise, not the smallest fraction of surprise, and she did not say one word.
+His mother was watching him from the fleece. She was watching his face and not the child's. There was nothing on hers. Not fear. Not warning. Not surprise, not the smallest fraction of surprise. She did not say one word.
 
-Severin had both hands on her and did not look up either, and had not looked up, and was working, and had gone on working through the whole of it.
+Severin had both hands on her and did not look up either. He had not looked up once. He had gone on working through the whole of it.
 
 Nobody in that room had been surprised by anything.
 
-Kael stood in the middle of it holding his brother, and understood exactly one thing, which was that both of the people in this room had known this was coming, and had known it for months, and that his mother had made him a promise every winter of his life that she had never once broken and had not told him this.
+Kael stood in the middle of it holding his brother and understood exactly one thing. Both of the people in that room had known this was coming. They had known it for months. And his mother, who had never in his life broken a promise to him, had not told him.
 
 "Kael," said his mother.
 
@@ -418,21 +440,21 @@ Severin got up off his knee. He got up slowly and he got up crooked and there wa
 
 They went.
 
-Elarine Sedrane and Aurelian Corvane came out of that house with Kael's mother between them, Elarine under one arm and Aurelian under the other with his good side, and his mother walked. She walked with her son not ten minutes old held against her chest inside her coat and the white in her hair, and she went down off the edge of the yard onto the broken ground, and she did not look back at the man on the flat.
+Elarine Sedrane and Aurelian Corvane came out of that house with Kael's mother between them, Elarine under one arm and Aurelian under the other with his good side, and his mother walked. She walked with her son not ten minutes old held against her chest inside her coat and the white in her hair. She went down off the edge of the yard onto the broken ground. She did not look back at the man on the flat.
 
 Valeria Vel came out of the door with the princess of the empire over her shoulder like a roll of cloth, one arm behind the knees, the other hand full of blade, and she went past Kael at a dead run and never slowed for the drop.
 
 And Ostrian Vessaline stopped at the top of the slot.
 
-There were men on the near lip of it, thirty of them, who had been standing on the yard side of the mountain when it went and were still alive because of it, and they had worked out faster than anybody what the slot was, and they were coming across the top of the yard to shut it.
+There were men on the near lip of it, thirty of them, who had been standing on the yard side of the mountain when it went and were alive because of it. They had worked out what the slot was faster than anybody. They were coming across the top of the yard to shut it.
 
 Oss stopped, and turned round, and put his hands out, and pulled a wall of earth up out of the lip of that slot.
 
-It was four feet high and it was eleven strides long and it was the only working Kael had ever seen him do that was worth anything at all. It came up in front of the thirty men and it stopped them the way a wall stops men, which is for as long as it takes them to go round it.
+It was four feet high and eleven strides long. It was the only working Kael had ever seen him do that was worth anything at all. It came up in front of the thirty men and stopped them the way a wall stops men, which is for as long as it takes them to go round it.
 
 It held for four seconds. Everybody on that ground got through the gap in four seconds.
 
-Then they went round it, and the first two of them reached him, and Kael, going past forty feet below with a sword in both hands, turned and started back up the slope and got three strides and was picked up off his feet by the front of the coat.
+Then they went round it. The first two reached him. Kael, going past forty feet below with a sword in both hands, turned and started back up the slope, and got three strides, and was picked up off his feet by the front of the coat.
 
 "No," said Severin.
 
@@ -440,7 +462,9 @@ Oss was on his knees on the lip. He had his hands up in front of his face, which
 
 He looked down the slope. His face was wide open and there was everything in the world on it.
 
-Then somebody put a spear through him from behind and he went off the lip and down into the broken ground, and Kael saw him go and there was no word of any kind between them and there never had been, not on any day of the last year, and now there was not going to be.
+Then somebody put a spear through him from behind, and he went off the lip and down into the broken ground.
+
+Kael saw him go. There had been no word of any kind between them, not on any day of the last year, and now there was not going to be one.
 
 ---
 
@@ -448,23 +472,33 @@ Kael's father was in the middle of the flat with four hundred men around him and
 
 The white came up in him again.
 
-Kael, hanging off the ground in an old man's fist, watched his father put everything that was left in him into his own body at once, and it was not the same as any of it had been: it was more, and it was too much, and it came out of him in threads that went nowhere, off his shoulders, off his fingers, spilling, wasting, because a man who has nothing left cannot hold it exact and he was not trying to any more.
+Kael, hanging off the ground in an old man's fist, watched his father put everything that was left in him into his own body at once.
+
+It was not the same as any of it had been. It was more. It was too much. It came off him in threads that went nowhere, off his shoulders, off his fingers, spilling, wasting. A man with nothing left cannot hold it exact.
+
+He was not trying to.
 
 He went into them with his hands.
 
-He took the woman first. She got a line of fire up between them and it went out on his forearm as though it had never been paid for, and he came through it and took her by the throat and put her into the ground with an arm that had lightning going into it, and she did not get up.
+He took the woman first. She got a line of fire up between them and it went out on his forearm as though nobody had paid for it. He came through it, took her by the throat, and put her into the ground with an arm that had lightning going into it. She did not get up.
 
-The huge one, Gallos, put a sheet of it over the both of them and his father came out of the sheet burning and went through the man's guard and broke something enormous in him with the heel of his hand, and the huge one went down onto all fours and stayed there.
+Gallos put a sheet of it over the both of them. His father came out of the sheet burning. He went through the huge man's guard and broke something enormous in him with the heel of his hand, and the huge man went down onto all fours and stayed there.
 
-And Pellan came in off the side on his ruined leg, and Vask turned into him and hit him four times in about a second, in the throat and under the arm twice and in the side of the head, with the last of what was in him coming off his knuckles in white, and the man's neck went and he was dead before he came off his feet.
+Then Pellan came in off the side on his ruined leg. Vask turned into him and hit him four times in about a second: the throat, under the arm twice, the side of the head, the last of what was in him coming off his knuckles in white. The man's neck went. He was dead before he came off his feet.
 
-Kael's father stood in the middle of his own yard, over three of them, with his hands hanging, and there was nothing left in him at all, and the white went out.
+Kael's father stood in the middle of his own yard, over three of them, with his hands hanging. There was nothing left in him.
+
+The white went out.
 
 Dunmar walked round the edge of the grey flat and killed him.
 
-The old man did not do anything clever. He came in from the side while Vask's arms were still down, and put his hand flat on Vask's chest, and the fire went in and came out through his back, and Vask went down onto his knees; and the small old one took a sword out of a dead man's hand beside him and swung it once, level, at the height of the shoulders, and Kael's father's head came off.
+The old man did not do anything clever. He came in from the side while Vask's arms were still down and put his hand flat on Vask's chest. The fire went in and came out through his back. Vask went down onto his knees.
 
-It went about six feet. Then it rolled, and stopped, and it was on the ground of the yard, and it was on its side, facing the house.
+Then the small old one took a sword out of a dead man's hand beside him and swung it once, level, at the height of the shoulders.
+
+Kael's father's head came off.
+
+It went about six feet. It rolled. It stopped on its side, on the ground of the yard, facing the house.
 
 *People ask me what my father was. I have never had an answer that was any use to anybody. Everything I know how to do I do with his hands. I have never once been as good at it as he was, and I have had a very long time to try.*
 
@@ -474,46 +508,54 @@ He knew afterwards that he had made one, because his throat was ruined for two d
 
 He went for his father's head.
 
-He was not thinking about the men. He had a whole and complete count of the men and of the ground and of the distances, and it lay in his head as pure information with nothing attached to it, and he went straight up the slope into it with a sword in both hands because his father's head was on the ground and it was going to be picked up.
+He was not thinking about the men. He had a whole and complete count of the men, of the ground, of the distances, and it lay in his head as pure information with nothing attached to it. He went straight up the slope into it with a sword in both hands, because his father's head was on the ground and somebody was going to pick it up.
 
-Severin got him round the chest from behind and lifted him off the mountain, and Kael took the old man's forearm in both hands and pulled and got nothing, and hit backwards with his elbow into ribs and got nothing, and Severin put his heels down and the ground took him, and holding Kael was to that old man exactly what holding a lamb is to a man.
+Severin got him round the chest from behind and lifted him off the mountain. Kael took the old man's forearm in both hands and pulled. Nothing. He hit backwards with his elbow, into ribs, hard. Nothing. Severin put his heels down and the ground took him. Holding Kael was to that old man what holding a lamb is to a man.
 
 "No," Severin said, into his ear. "No, boy. No. No."
 
 And Kael stopped.
 
-It went out of him all at once, everything, the screaming and the pulling and the noise, and what came in behind it was very quiet and very cold and extremely exact. His hands went still. His breathing went long. He looked up the slope at the four hundred men standing between him and a piece of his father, and the whole of it arranged itself, every distance, every weight, every place a man was lazy, and it stopped being a great many things and became one thing, and it was not difficult at all, and he began to reach for it.
+It went out of him all at once. The screaming, the pulling, the noise. What came in behind it was very quiet and very cold and extremely exact.
+
+His hands went still. His breathing went long.
+
+He looked up the slope at four hundred men standing between him and a piece of his father, and the whole of it arranged itself: every distance, every weight, every place a man was lazy. It stopped being a great many things and became one thing. It was not difficult at all.
+
+He began to reach for it.
 
 Severin turned him round.
 
-The old man had him by the front of the coat with both fists and he turned him bodily round, off his feet, so that the yard was behind him, and put his face six inches from the boy's face and looked into it.
+The old man had him by the front of the coat with both fists. He turned him bodily round, off his feet, so the yard was behind him. He put his face six inches from the boy's face and looked into it.
 
 And whatever the First Master of the Temple saw in Kael's eyes on that mountainside, he did not say a word about it, then or ever.
 
-Something went out of him. Kael felt it arrive: it came in through the front of his coat and up his chest and behind his eyes, warm and slow and absolutely irresistible, the mending art turned round the other way, and the exact thing he had been reaching for went out of his hands like water out of a fist.
+Something went out of him. Kael felt it arrive. It came in through the front of his coat, up his chest, in behind his eyes: warm, slow, absolutely irresistible, the mending art turned round the other way.
+
+The exact thing he had been reaching for went out of his hands like water out of a fist.
 
 His legs stopped being his.
 
 "I am sorry," Severin said. "I am so very sorry."
 
-Then the old man got him up over one shoulder, and took the sword out of his hands and put it through his own belt, and went down the mountain with him.
+Then the old man got him up over one shoulder. He took the sword out of the boy's hands and put it through his own belt, and went down the mountain with him.
 
 ---
 
 Kael did not go under. That was the last cruelty of it, and it was nobody's fault.
 
-He hung down his back, awake, with his arms swinging and no strength in them anywhere and the ground going past under an old man's boots, and he could still see, and he was facing the wrong way, which is to say he was facing the yard.
+He hung down the old man's back, awake, with his arms swinging and no strength anywhere in them and the ground going past under somebody else's boots. He could still see. And he was facing the wrong way, which is to say he was facing the yard.
 
 He watched it go.
 
-He watched the fire in the pens, and the grey flat, and the house with its door standing open and light coming out of it onto the stones. He watched the men on the flat gather in toward the middle of it and start doing something he could not see. He watched the roof of the only house he had ever lived in take at one corner and go up.
+He watched the fire in the pens. He watched the grey flat. He watched the house with its door standing open and light coming out of it onto the stones. He watched the men on the flat gather in toward the middle of it and begin doing something he could not see. He watched the roof of the only house he had ever lived in take at one corner and go up.
 
-He watched all of it get smaller and slide sideways as they went down into the slot, and the shoulder of his own mountain came up between him and it, patiently, the way ground does, and took it away one piece at a time: first the yard, then the pens, then the roof, then the light out of the door.
+He watched all of it get smaller and slide sideways as they went down into the slot. The shoulder of his own mountain came up between him and it, patiently, the way ground does, and took it away one piece at a time. The yard. The pens. The roof. The light out of the door.
 
 Then there was only the orange in the cloud, and the shaking of the old man underneath him, and the noise of six people running on broken stone in the dark.
 
-He was still counting. It had not stopped. It had never once stopped in his life and it did not stop now, and it gave him what it always gave him, which was a number.
+He was still counting. It had not stopped. It never stopped, and it gave him what it always gave him, which was a number.
 
-Six.
+He had counted fifteen coming up that path.
 
-There were six of them going down that mountain, and his mother, and his brother, and none of it added up to what had come up the path, and it never would again.
+He counted six going down it, and his mother, and his brother, and one of the six was carrying him.
