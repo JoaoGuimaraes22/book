@@ -173,6 +173,18 @@ Worth stating because the opposite was briefly written here and was wrong. In th
 
 The retracted claim generalised from a single unconfirmed reading of `ch01-fallen-stars`, where the hand at the jaw looked to me half-lost. One picture, judged by eye, is not a failure mode. **Do not prompt around contact hands as though they were fragile** — nothing here has shown they are.
 
+### Describe a limb as a chain, not as separate facts (s37)
+
+The hand inventory's own format caused this one. A prompt listed *the boy's right hand holds one short knife* and, four lines later, *the man's hand is closed around the boy's right wrist* — the same arm, split into two entries. **The renderer resolved them independently and laid the knife on the ground**, keeping the grip and losing the causality the picture existed for.
+
+**When two instructions describe one limb, say so and give the order along it:** *knife, hand, wrist, grip — one continuous limb, in that order*, plus the explicit negative with a pull behind it: *the knife is never lying on the stone.*
+
+The hand inventory remains right for independent objects in independent hands. It is wrong for a sequence down a single arm, which is what most contact moments actually are.
+
+### Size contrast must be stated per hand (s37)
+
+Same image: the man's hand against the boy's wrist read perfectly as grown-against-child, while the boy's *other* hand, described only inside a general *the boy's hands are a CHILD'S* line, came back adult-sized. **A scale instruction attaches to the pair it is written next to.** State it again wherever the contrast has to hold.
+
 ### Negative inventory works on animals too (s37)
 
 *ONE GOAT, and only one — no second goat, no herd on the slope behind, no dog, no bird, no other animal anywhere in the picture* held completely. Same shape as the hand inventory and the costume ownership rule: **name the absences, not just the presence.**

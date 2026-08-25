@@ -35,7 +35,7 @@ Every entry was checked against **THE PLATE FOLLOWS THE PAGE** when it was writt
 
 ## Ch. 3 — Chores
 
-1. ★ **The wrist.** — *built on the `ch03.md` sheet, unrun.* The hare on the flat stone, the blade skated off the breastbone — and the wrist already inside his father's hand, which nobody saw leave the woodpile. Close, hands and blade, the grey light coming up out of the sea. No faces needed.
+1. ★ **The wrist.** — **BUILT AND ADOPTED (s37): `images/plates/ch03-the-wrist.png`; sheet `ch03.md`. It reads as the stop already made rather than the catch.** The hare on the flat stone, the blade skated off the breastbone — and the wrist already inside his father's hand, which nobody saw leave the woodpile. Close, hands and blade, the grey light coming up out of the sea. No faces needed.
 2. **The back at the trough.** Vask stripped to the waist, read the way you read goat paths: the long pale seam under the left shoulder, the round puckered one with its brother on the front, the short tallies on the forearms, all the same length, all the same slant. *A bad employer.* His sheet keeps the scars out of frame unless the moment needs them — **this is the moment that needs them, and it is the only one so far.**
 3. **Choose.** Two brown caps side by side on the scrubbed boards, the pot on its hook, the onions going in, and the mother's back turned. No faces, no figure but a back. The whole chapter's cruelty is that she does not watch.
 
