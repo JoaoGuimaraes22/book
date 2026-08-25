@@ -177,6 +177,16 @@ Proven twice, in two different domains:
 
 **Below roughly the size of a hand in frame, a detail cannot carry finish, and no amount of emphasis changes that. The fix is the crop.** Pick the framing that makes the tell large, or accept the tell is decoration in this picture and let something else win. This is the production argument for close work: a close-up is not a stylistic preference, it is the only way some facts render at all.
 
+### The pre-flight is a script now (s41)
+
+**`scripts/check-prompt-bloat.sh`. Run it on a built prompt before handing the prompt over.**
+
+Every rule in this file was written the same way: a run came back wrong, the cause was found, the finding was written down. **All of it is retrospective, and nothing applied any of it to the next block before that block shipped** — so the same bloat kept arriving, session after session, from someone who had just finished writing the rule against it. The rules were not the gap. The procedure was.
+
+**What it checks, because these are mechanically decidable:** exact restatement (repeated five-grams, with the shared style header and the `Image N:` lines stripped so boilerplate is not counted), capitalised-block count against a threshold calibrated on the adopted prompts, and a short list of words that narrate rather than specify.
+
+**WHAT IT REFUSES TO CHECK IS THE MORE USEFUL HALF.** Two mechanical tests for over-negation were built and both were thrown out for flagging this folder's best work — negation *density* condemned `plates/ch01.md`'s fallen stars and `plates/ch04.md`'s blade, both adopted on the first run, and rated the author's own `vask-kael-goat` the worst file in the library; negation *runs inside a sentence* condemned `severin.txt`, whose eleven-term NOT list is the documented reason that portrait works at all. **The difference between *no lamp, no fire, no torch* and *not warm, not kindly, not stern* is semantic and no counter can see it.** That judgement stays human, and §Over-writing contradicts is how it is made: count the channel, not the sentence.
+
 ### Write for an image generator, not for a reader (s40)
 
 **A prompt is a specification.** It is read by something that turns clauses into pixels and has no use for meaning, intent, rhetoric or good prose. The habit this folder keeps falling into is writing prompts the way it writes documentation — each idea in its own paragraph, with the reasoning attached, in flowing natural language — and the reasoning is addressed to a person who is not there.
