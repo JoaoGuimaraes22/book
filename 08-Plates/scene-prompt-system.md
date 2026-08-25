@@ -182,6 +182,19 @@ The rule above says redundancy competes. **The stronger claim, and it is now evi
 
 **The test before cutting a repetition: name what the clause forbids, then find where else that thing is forbidden.** If nowhere, it is not a repetition and it stays. Compression is measured in channels covered, never in words.
 
+### A colour ban is read as a saturation ban (s41)
+
+**Never ban a hue. Ban the source that would produce it, and require the hue you want by name.**
+
+`plates/ch05.md`, the two pails — a grey-dawn picture with no fire, no lamp and no skin in it. A dawn pulls hard toward gold, so the block banned it four ways: *no warm colour anywhere in the picture — not in the sky, not on the frost, not in the water, not in the timber.* It then named the palette positively, in the same paragraph: *cold greys, dull green-greys and bare paper.*
+
+**The run came back effectively greyscale.** The positive naming lost outright to the ban standing in front of it, and *warm* was read as *saturated*. The house style is muted and desaturated, never colourless, so the picture missed the look while obeying every clause in it.
+
+- **Ban the source, not the hue:** *no sun disc and no glow anywhere in the sky* is drawable and costs nothing.
+- **Then require the colour as a positive with a landmark**, the way §Name the winner does: name the two or three hues that must be present and site them on objects — *the timber a dull green-grey, the water a cold blue-black, the frost bare paper.*
+
+**The general shape: a negation and a positive competing for the same channel is a contradiction, and the negation wins.** Same failure family as §Over-writing contradicts, arriving from the other direction.
+
 ### Scale between figures — STATE IT AS MEASUREMENT (s40)
 
 **This is the most useful thing the scene system has learned, and it overturns an earlier finding.** A child rendered several years too old was blamed on the attached face reference outvoting the words. That was wrong. **Adjectives lose; ratios win**, and the reference is not the problem:

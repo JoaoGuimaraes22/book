@@ -6,6 +6,10 @@
 
 **READY TO FIRE, no work needed:** seven built prompts have never been run — `ch01` the-catch · room-of-true-things · telling-the-goat · talking-the-goat-down · `ch02` done · `ch04` the-master-arrives · `ch08` seeing-about-the-goat. **Take the Ch. 8 doorway early:** it is the light-from-below rematch, and it gates Aurelian's candle in Ch. 9, which his sheet calls the best image of him in the book.
 
+**THE PLATES WANT PEOPLE AND EXPRESSIONS (author, s41).** Ruled on the two pails — a still life that rendered correctly and was not what the book wants illustrating. **An object-only plate is not a preferred plate**, however well the objects come out; prefer the candidate with faces in it. `ch01/room-of-true-things`, `ch04/the-knot`, `ch05/the-two-pails` and `ch08/the-roll` are all faceless by design, and that is now a cost each one has to be worth.
+
+**AND THE CONSTRAINT IT COLLIDES WITH, stated so it is not rediscovered:** Kael's grey is unspent, so **no plate in Part I may show his face at all.** Expressions in Part I therefore mean Vask's face, Neris's face or Severin's — never the boy's. The collision is real, it is not resolvable by framing, and it ends the moment a chapter spends the grey.
+
 **ONE DECISION THE AUTHOR HAS NOT MADE:** the plate set is not yet consistent in finish — the doorframe is glossier than the long game, the knot and the wrist tighter than the pasture. Fine one at a time, visible in one book. `THE INK CARRIES THE CLOTH` looks like the lever. Easier settled at eight plates than at forty.
 
 **A PLATE SESSION DOES NOT OPEN WITH A LIST OF WHAT IS OWED (author ruling, s40).** Audit notes in these files are the record of what was considered, not a queue. Nothing here is outstanding unless the author says it is; open on the work the author names.
