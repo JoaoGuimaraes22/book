@@ -372,7 +372,7 @@ Elarine said it back. All of it, in order, without a word out of place, because 
 
 "That is not a good argument."
 
-"No," her mother agreed. "It is not. And I am not going to give you a better one."
+"No," her mother agreed. "It is not, and you knew it was not before I finished saying it. That is the part I gave you."
 
 Something moved in Elarine's face and did not get anywhere.
 
