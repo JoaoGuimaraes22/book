@@ -89,15 +89,13 @@ Describe what the garment DOES instead: how long it falls, how it closes, what t
 
 Then pin it with §Scale between figures, as always: *as wide as the candle is wide, standing as tall as the distance from his chin to his eyebrows.*
 
-### A close-up plate needs the age line (s41)
+### A close-up plate and the age line — RAISED, NOT CONFIRMED (s41)
 
-`../portrait-prompt-system.md` §AGE block: **age words in the SUBJECT block alone get ignored, and always have.** The instrument that works is the eye-line rung, and it lives in the AGE block.
+**Logged as an open question, not a finding, because the evidence was overturned.**
 
-**§Plates says a plate inherits only the Medium and Colour paragraphs. That is right for a wide shot and wrong for a face.** `plates/ch09.md` put *thirteen years old... the face still soft and unfinished, the jaw not yet come in* in the body of a head-and-shoulders block and got a seventeen-year-old — the exact failure the portrait system documented years of runs ago.
+`../portrait-prompt-system.md` §AGE block states that **age words in the SUBJECT block alone get ignored, and always have** — the instrument that works is the eye-line rung, and it lives in the AGE block. **§Plates has a plate inherit only the Medium and Colour paragraphs, so a plate never gets that rung.** The reasoning says a plate cropped close enough to be a portrait ought to need it.
 
-**So: any plate cropped close enough to be a portrait takes the AGE block's eye-line rung with it**, written into the plate block by hand. The eye line is a continuous dial, not three settings (`kael-9` proved the intermediate rung), so state the fraction: *eyes at the vertical midpoint · a fraction below it · clearly below it.*
-
-**Contact points, not trajectories.** "Sweeping toward his ribs" produced a blade aimed at empty floor twice. *The edge inches from his ribs, the blade in front of his body and clearly aimed at him* worked.
+**The one time it was tested, this system was wrong.** `plates/ch09.md` carried the age as words in the block body, this file read the resulting face as several years too old, and **the author read it as correct and adopted the image.** So the mechanism is real in the portrait system and its relevance to a close-up plate is untested. **Write the rung into a close-up plate block if a face actually comes back the wrong age — do not add it pre-emptively on the strength of this section.**
 
 ---
 
