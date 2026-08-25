@@ -299,7 +299,7 @@ There was no argument about who would stay. There was no argument at all. Men an
 
 The Sedrane woman said her daughter's name when it came to her, and got most of the way through the sentence, and finished it.
 
-They loved their children. That was true, and it was the whole engine of it. Valeria, who had been raised inside a house that had never once said such a thing to her, stood against the wall and watched nineteen people arrange their own deaths around the fact of it. She did not find any part of it ridiculous.
+They loved their children. That was true, and it was the whole engine of it. Valeria, who had been raised inside a house that had never once said such a thing to her, stood against the wall and watched nineteen people put their names to a wall they had just been told would not hold. She did not find any part of it ridiculous.
 
 Beyond the closed shutter, the sound off the hill was still going.
 
@@ -344,7 +344,7 @@ The sound had stopped.
 
 She stood in the middle of the yard with the tables around her and worked out when.
 
-It had been going when the shutter was closed. It had not been going when they made the party. Somewhere in between, in a room with the shutter shut and nineteen people arranging their own deaths in an ordinary voice, thirty-one thousand people had finished. She had not been able to hear it stop. Neither had anybody else in that room. That was what the shutter was for, whether the man who closed it had known it or not.
+It had been going when the shutter was closed. It had not been going when they made the party. Somewhere in between, in a room with the shutter shut and nineteen people putting their names to a wall in an ordinary voice, thirty-one thousand people had finished. She had not been able to hear it stop. Neither had anybody else in that room. That was what the shutter was for, whether the man who closed it had known it or not.
 
 She wrote the time down in her head under the heading it belonged to and went to find Elarine.
 
@@ -352,7 +352,7 @@ She found her in the corner of the yard by the cistern head, with her mother, an
 
 The Sedrane woman had her daughter by both shoulders and was giving her instructions.
 
-That was what it was. A woman who would be dead by morning, telling a thirteen-year-old which of the factors could be trusted and which could not, and what to say to her uncle, and in what order.
+That was what it was. Instructions. Which of the factors could be trusted and which could not, and what to say to her uncle, and in what order. The woman had put her own name to that wall an hour ago and had not mentioned it once since.
 
 "Write it down tonight, on the water, while you still have it exactly. Say it back."
 
