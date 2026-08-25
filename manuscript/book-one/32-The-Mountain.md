@@ -307,7 +307,7 @@ He said it at the line of people still coming up his path.
 
 "The district is holding and it will not hold. We are crossing to the eastern water tonight, and there is a boat, and I did not have another road to bring them along." Severin did not soften any of it. "I have brought all of this onto your mountain. I know what that is."
 
-"Then it is done." Vask did not look at the line at all. "Neris is inside Severin. You came at a good time."
+"Then it is done." Vask did not look at the line at all. "Neris is inside, Severin. You came at a good time."
 
 A deep breath.
 
@@ -315,7 +315,7 @@ A deep breath.
 
 Everything in the old man stopped at once.
 
-"Vask. Perhaps something good will come off this night then. I'll go check on her, do take care of these children behind me. They've been to too much already tonight."
+"Vask. Perhaps something good will come off this night then. I'll go check on her, do take care of these children behind me. They've been through too much already tonight."
 
 "Yes, I will. Thank you."
 
@@ -371,13 +371,13 @@ She came up off the path at the back of the whole column with her twin blades on
 
 "Yes."
 
-"I'm sorry Kael. For everything. I hope you will let us stay by you know."
+"I'm sorry, Kael. For everything. I hope you will let us stay by you, you know."
 
-"Yes, well. It is not my decision to make. But I'm glad your fine too Valeria."
+"Yes, well. It is not my decision to make. But I'm glad you're fine too, Valeria."
 
 She was quiet for a moment. Then she looked past him, at the house.
 
-It was a small house. One room, a loft, a door that held. There were fleeces in the yard, a woodpile, a block with an axe standing in it, a line of pens going down the slope with nothing in them. It had a fire going too big in it and light coming out of the doorway onto the stones. It looked nothing like every other house on that island. It did not look like anything at all.
+It was a small house. One room, a loft, a door that held. There were fleeces in the yard, a woodpile, a block with an axe standing in it, a line of pens going down the slope with nothing in them. It had a fire going too big in it and light coming out of the doorway onto the stones. It looked nothing like every other house on that island. It was his.
 
 Valeria Vel stood in front of it and looked at it for a long moment.
 
@@ -399,11 +399,9 @@ The captain was a grey-headed man with a countryman's face and he did not raise 
 
 "First Master. We do not stop here."
 
-"We stop here."
+"We stop here." Severin did not raise his voice either. "There is a woman in that house who cannot walk. A new life is coming off her. We need to hold here until it does. I am sorry, but we must."
 
-"There is a woman in that house who cannot walk. A new life is coming off her. We need to hold here until it does. I am sorry, but we must. " He said it without any cruelty in it at all, which made it worse. 
-
-The man responded: "We came off that wall with twelve. We have eight, and of those we have six children them who are not soldiers. Every second we are standing still is a second somebody uses. Give me the road to the boat and we will go. You may follow when you are able."
+"We came off that wall with twelve. We have eight, and of those, six behind them who are not soldiers. Every second we are standing still is a second somebody uses. Give me the road to the boat and we will go. You may follow when you are able." The captain said all of it without any cruelty in it at all, which made it worse.
 
 "No."
 
