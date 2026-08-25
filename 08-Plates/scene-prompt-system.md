@@ -96,6 +96,10 @@ Then pin it with §Scale between figures, as always: *as wide as the candle is w
 
 **Say the defining feature FIRST, with a measurement, then correct the shape.** The order is the instruction. A renderer builds what it reads first and spends what is left on the qualifiers.
 
+**AND THE THIRD FACE OF THE SAME PROBLEM: NEGATING A NOUN'S FEATURES LEAVES YOU WITH NONE OF THEM (s41).** `plates/ch07.md`, the wasters: *one wooden sword, plain and unfinished, no guard and no ornament* returned a flat batten with a taper — no grip, no section, nothing a hand would hold. The guard and the ornament were the only things marking it as a sword, and banning them took the sword with them.
+
+**So the noun rule has two failure directions and one answer.** Name the thing and you get its default. Ban the default's features and you get nothing at all. **Describe the construction either way** — *a round grip long enough for a hand and a half, then a blade section lens-shaped in cross-section, thicker down its centre than at its edges, tapering to a blunt squared tip* — and let the negations trim what is left over, not what the object is made of.
+
 ### A close-up plate and the age line — RAISED, NOT CONFIRMED (s41)
 
 **Logged as an open question, not a finding, because the evidence was overturned.**
