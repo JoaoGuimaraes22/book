@@ -79,6 +79,7 @@ Describe what the garment DOES instead: how long it falls, how it closes, what t
 | *dagger*, with a length given | a near-longsword |
 | *a plain dark coat, well cut* | a Victorian frock coat and waistcoat |
 | *a soft sheet of orange flame standing off the top of a tallow candle* | an ordinary candle burning at the wick |
+| *one upright standing stone... split by a single clean cleft* | a menhir: regular sides, flat top, a cleft like a cut |
 
 **A concrete noun arrives with a default picture attached, and the default beats every adjective you hang on it.** The third case is the clearest, because the page's whole beat is that this is *not* the default — *Not the wick — the wax* — and the prompt still lost to the word `candle`.
 
