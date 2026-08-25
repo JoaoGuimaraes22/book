@@ -1,5 +1,5 @@
 ## VASK (the father)
-**Glance:** Kael's father; teacher of the body · ex-instrument of the program, hidden · age unpinned, **and the same as Neris's (author, s34)** · alive; last seen at the block in the fog · **his twin-shorts prohibition was broken mid-bout and Kael told him; what he does about it is owed and unwritten.**
+**Glance:** Kael's father; teacher of the body · ex-instrument of the program, hidden · age unpinned, **and the same as Neris's (author, s34)** · alive · **he came down off his own mountain, found his son six miles out at the end of the day, and has been seen at TRUE CAPACITY.** The coalition knows him as **THE PHANTOM** (00).
 
 ### STATIC
 - **Name:** Chosen, not given (00). One closed syllable, a tool being set down; worn the way soldiers' names get worn.
@@ -11,7 +11,13 @@
 - **Appearance:** Broad through the shoulders and no further — an instrument's economy, not bulk; fills a doorway by carriage. Iron-dark hair **greying early** at the temples — ahead of his age, the *past its years* of the face carried by the hair; iron-dark eyes (both parents dark-eyed — Kael's grey is no one's). A face like used tools, weathered past its years. Scars on-page: the long seam, the through-wound pair, the tally-like forearm marks ("A bad employer"). Hands permanently half-curled, as if around something set down. Moves exactly as much as required.
 
 ### DYNAMIC
-- **Now:** at the house, the birth hours or days off and the fog on the mountain. Let his son stop the telling the night before, said one word about the bout — *"Good"* — and did not ask for the rest. His last hour is unwritten (FORWARD).
+- **Now:** carrying his son up the mountain at the last of the light, at a speed no ground goes past at.
+- **HE HAS BEEN SEEN, AND THE RULE IS SPENT (Ch. 30).** Whole-body threading — lightning held in the entire body at once and *not coming off*, the inward art in the wrong element (02/magic); a longsword out of the chest with the same white the length of it; a speed that reaches Kael as ABSENCE rather than as motion. He was breathing hard. **He does not beat the general** — four or five exchanges, no ground given either way — he interrupts, kills the ordinary men, and takes his son out. Never let a later page explain any of it.
+- **THE COALITION'S SENIOR COMMAND KNOWS HIM ON SIGHT (Ch. 30).** *"Well. The Phantom." … "You have aged."* He answers nothing. **Kael heard it.** Never joined up on any page, by anybody, ever (00 §THE PHANTOM).
+- **HE SPENT THE LEG ON THE SON (00 s39).** Split three ways, holding two at most, he went for Kael — which means somebody else was holding the house. **The page never says so and Kael is never given the arithmetic.**
+- **He apologised to his son**, which is new, and answered the one word Kael got out with the child and not with himself: *"The baby. It's coming. I'm sorry I couldn't find you sooner."*
+- **His prohibition and the twin shorts are still unanswered** — he has now seen what his son did with them all day and has said nothing about it.
+- **Previously:** at the house, the birth hours or days off and the fog on the mountain. Let his son stop the telling the night before, said one word about the bout — *"Good"* — and did not ask for the rest. His last hour is unwritten (FORWARD).
 - **His prohibition was broken and he was told (Ch. 26):** the twin-shorts fence came off his son mid-bout in front of eleven thousand people, and Kael walked up the hill and told his parents all of it, blades included. What Vask does with that is owed and unwritten.
 - **Pride delivered entirely as behaviour, never stated:** sitting down when his son came in (Ch. 25), which in eleven years he had never once been; answering his wife over the boy's head — *"He beat a house today." / "He did."*; and at the door, the only tactical question of the night — what Valeria, reading Kael twice a week for two years, has not got.
 - **Training is lethal.** Live edges; he stops the stroke, says *Dead.*, and converts it to the hilt, five and six times a morning; the only mechanism preventing his son's death is his own decision. **He will not strike the throat** — a mark on a neck is a question at a Temple gate — and the arithmetic runs inside the killing stroke without showing.

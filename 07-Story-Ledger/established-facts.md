@@ -13,6 +13,8 @@
 - **"THE GHOST"** — the crowd's name for Kael, minted in the standing ground at Ch. 23 and round the arena inside a minute. The people's word only (register in `../02-World-Bible/lexicon.md`). He has a name from the world now, and it is about an absence.
 - **MARUN** (Ch. 27 — village register; a name a woman shouts nine times in the crush and nothing else. No sheet, none owed; do not reuse).
 - **ILVA** (Ch. 29 — village register; named once, off the page, by an unnamed woman at the district gate who is quite sure she has gone to her sister's. No sheet, none owed; do not reuse).
+- **"THE PHANTOM"** — the coalition's war-name for VASK, spoken to his face at Ch. 30 by the general and heard by Kael. Origin reserved (00 §THE PHANTOM). **PROTECTED: never joined to "the Ghost" by anybody on any page** — the rhyme is the reader's alone.
+- **KELLIS' LANDING** (Ch. 30 — village register; a landing on the eastern water, named once by a woman on a track. No sheet, none owed; do not reuse the name for anything else) · **ROLAN** and **TREMAR** (Ch. 30 — named once each inside the raiders' own talk, in the downhill language, about a dog in a cistern. No sheets, none owed; do not reuse).
 - **THE NOBLES' DISTRICT** — the island's walled noble quarter, named on the page Ch. 27 in Valeria's mouth (*"It is the only wall on this island that was built to be a wall"*). **Controlled term: DISTRICT, never *quarter*** — geography in `../02-World-Bible/geography.md`.
 - **THE COLLEGIUM** — the CAPITAL's Resonant school, named on the page at Ch. 22 (*"Five from the capital's Collegium, in red and black"*). The northwest school's name is still unminted.
 

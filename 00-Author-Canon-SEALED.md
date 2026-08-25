@@ -45,6 +45,15 @@
   - **(a) Who else knows.** Severin's knowledge deliberately uncommitted — he placed them in the blind spot; what he was told or guessed is a door. The Gardener's knowledge likewise open — the program bred this child; what records survived the rebellion's fire is a door.
   - **(b) Kael's path to the truth.** Whether he ever learns, when, and from what direction (surviving records, the Gardener's mouth, the bio-father himself) — fully open. The reader-knows/Kael-doesn't gap is a designed asymmetry and may run for books.
 
+### THE PHANTOM — Vask's war-name (author, s39)
+- **The coalition's senior command knows Vask by a war-name: THE PHANTOM.** Spoken to his face on the page (Ch. 30) by the general, who recognises him on sight, from the whole-body threading, after more than a decade — *"Well. The Phantom." … "You have aged."* Kael hears it, is half-conscious, and can do nothing with it. **It is the largest piece of his parents' archaeology he has ever been handed, and it arrives in an enemy's mouth.**
+- **WHERE IT COMES FROM IS RESERVED.** Program-era, pre-rebellion; whether the coalition learned it as an adversary, or through the alumni embedded in its own cadre (§The Program, Option 2), is OPEN and is a door.
+- **THE RHYME WITH "THE GHOST" IS THE POINT AND IS NEVER NOTICED.** The island named the son *the Ghost* out of the cheap seats (Ch. 23) knowing nothing; the world named the father *the Phantom*. **Under §THE PATERNITY this is the chosen-over-given thesis arriving early:** the boy got a version of his father's name by accident, for a thing he was taught rather than a thing he inherited. **HARD RULE: nobody joins them up — not Kael, not Vask, not the narration, not any later chapter.** The reader may. Nobody in the book ever does.
+
+### AT TRUE CAPACITY — SPENT (author, s39)
+- **06's *never at true capacity until the fire* is SPENT at Ch. 30**, and with it the *"has never once seen them try"* beat, which lands early and by force, on a boy who cannot stand up. The father-glimpse ledger closes (`07/standing-rules`). **Neris's capacity is untouched and is still owed.**
+- **THE CHEST IS ALREADY OPEN when the reader meets the steel.** Vask arrives carrying the longsword, so the chest is paid at the house as ARCHAEOLOGY rather than as signal: the board up, the hole under the floor of the one room the boy has lived in his whole life, and **two** things gone out of it. Kael works out what his mother is carrying by subtraction. The staging line lives in `06` §Staging.
+
 ### Their proficiencies
 - **VASK HAS LIGHTNING PROFICIENCY** — the program forged its instruments as educated soldier-mages (Doctrine of Cultivated Inheritance applies to instruments too). His magic is never shown in Part I–II early (concealment as resting state; the fire remains the only full answer).
 - **THE CAMOUFLAGE FUNCTION (sealed):** when Kael's element declares as LIGHTNING (reserved Part II beat), the world reads it as mundane paternal inheritance — a herder's quirk of blood, nothing to see. The mundane inheritance hides the true one: the Kynemir line runs silently through the mother. The empire's own bloodline doctrine does the concealing for them.
@@ -77,7 +86,8 @@
 - **NERIS IS LEFT ALONE IN A VIOLENT KYNEMIR BIRTH** (s22: the delivery is a mortal event and Wren is born extremely potent). The single mitigation the family built their whole winter around is absent at the exact hour it was built for — and the reason it is absent is the empire's pageant.
 - **VASK IS SPLIT THREE WAYS AND CAN HOLD TWO AT MOST:** his wife alone in the house, his son on the sand, and the one man who can save her sitting in a box above that sand. **His last hour is spent moving between them.** 04 beat 19's *"dies buying time for both his sons"* stands and is now geometrically literal — he is running the distance between them when the island burns.
 - **SEVERIN REACHES THE HOUSE (author ruling, s32 — replaces this block's do-not-resolve on that question).** He is fetched and he gets there, and **Neris gives birth with his help.** She is alone for the beginning of it and not for the end of it. **What is still true and still binding:** he was six miles away when it started, the reason he was away is the empire's pageant, and **Ch. 27 makes the lateness his own choice** — he could hold one stone and not two, so he stopped holding the sky and spent the morning walking four hundred children out of a burning arena.
-- **STILL A CONSTRAINT, and the HOW is unwritten and is the part worth writing:** Vask split three ways · the order of the three legs · whether he reaches Kael at all · and **Neris's survival of the delivery, which stays UNCONFIRMED per §The Mother.**
+- **VASK REACHES KAEL (author, s39 — resolves one of the three legs).** He comes down off the mountain and finds his son six miles out, in a farm yard east of the district, at the end of the day, and carries him home. **The consequence is not written on any page and must never be:** he spent the leg on the son, so somebody else was holding the house. 00 §s32 already has Severin fetched and arriving, and that stands. **The father chose. Nobody on any page says so, and Kael must never be given the arithmetic.**
+- **STILL A CONSTRAINT, and the HOW is unwritten and is the part worth writing:** the ORDER of the remaining legs · what it costs him to have spent this one · and **Neris's survival of the delivery, which stays UNCONFIRMED per §The Mother.**
 
 ### The mother's fate
 - Fate UNCONFIRMED as of end of Book One. Separated in the fire, extracted with the newborn by the master. A low flame under the whole series.
@@ -186,6 +196,14 @@
 - **KAEL UNLOCKS IN BOOK TWO.** The fire is not the unleashing.
 - **THE FIRE'S FLICKER (sealed staging).** At Vask's death, **Kael's eyes FLICKER.** Never truly shown; never made clear what happened. Kael cannot see his own eyes (rule stands), so it reaches the reader only by inference — the Ch. 4 knot's technique, at maximum stakes. Rendered as him passing THROUGH terror into the cold place, never as panic (absorbed-state rule preserved). **DO NOT RESOLVE.**
 - **CONSEQUENCE — the tournament devil-eyes answer is CLOSED.** This file logged "devil-eyes before hundreds" as a tempting solution to the open recognition-vector valve at the tournament. The valve itself stays OPEN; that candidate answer is dead.
+
+## THE COALITION'S GENERAL (author, s39 — unnamed on the page, and stays so)
+- **He is ONE OF THE COALITION'S FIVE GENERALS. Nothing on any page of Book One says so**, or says *general*, or gives him a name; the word does not appear in Ch. 30. Kael reads him only off what the yard does around him.
+- **Fire Resonant, as most of the coalition is** (02 §The Coalition). His art is spent at the POINT OF CONTACT — knee, heel, knuckle — a burst at the instant of the blow, and the instant is the only warning. Legal under §THE PROXIMITY LAW (the Art is spent from the body, not the hands).
+- **He is stronger than anything Kael has met**, and Kael's instruments return a complete and useless answer, which is the wall's arithmetic again in a body.
+- **CHARACTER LAW, and it is the whole of him:** he sees that he is about to kill a child and says so — *"I'm sorry, little one. But all of you must go."* — gently, in the downhill language, and does it anyway. He is not cruel and not enjoying it; he looks like a man doing an errand he had been dreading. When the boy screams for help he stops, and answers, *"I know. I know."*
+- **WHY HE FEELS IT IS RESERVED (author, s39 — a banked reveal, much later). Do not resolve, do not hint, do not seed.**
+- **HE SURVIVES CH. 30.** Vask does not beat him — he interrupts, kills the ordinary men, and extracts. Neither gives ground in four or five exchanges. **This is deliberate and it protects 04 beat 19:** a Vask who wins here makes his death a question. What he does next is OPEN.
 
 ## THE RAID ON THE ISLAND
 

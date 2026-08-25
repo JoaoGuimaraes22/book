@@ -11,6 +11,8 @@
 - Founding grievances: subjugation, exploitation, and — unrevealed — the children taken by the program's harvests.
 - Carries out the raid on the island at the end of Book One. To Kael, at first, THEY are the enemy — his first truth, written in fire; the saga slowly rotates the compass.
 - Contains good and desperate people; commits atrocities. Neither side of the war is clean.
+- **MOSTLY FIRE RESONANTS (author, s39).** The coalition's Resonants skew heavily to FIRE. Recorded as given; **why a coalition of many nations skews one element is an OPEN QUESTION** (`open-questions.md`) and is not to be explained on the page or invented here.
+- **FIVE GENERALS (author, s39) — BIBLE-ONLY.** The coalition fields five. **Nothing in Book One says so**, and the word *general* does not appear on any page; one of them is on the island and Kael meets him at Ch. 30 without a name, a rank or a number. Sheet-less by design. Full entry: `../00-Author-Canon-SEALED.md` §THE COALITION'S GENERAL.
 
 ### The Program (mostly unrevealed — 00)
 - On-page in Book One: fragments only — an insignia the father recognizes with horror; a forbidden-language word in a raider's mouth; the mother's face when she understands what has come back.
