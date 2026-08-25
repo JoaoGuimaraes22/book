@@ -181,6 +181,8 @@ Proven twice, in two different domains:
 
 **`scripts/check-prompt-bloat.sh`. Run it on a built prompt before handing the prompt over.**
 
+**AND THE AUTHOR'S RULING ON IT (s41), which matters more than the script: THE SCRIPT IS A BACKSTOP, NOT THE METHOD.** *Not sure a script is the way to do it — I'd like you to just be better at knowing what a good prompt is.* **Do not write a bloated block and then lint it down.** Know what the block should be while writing it; run the check afterwards to catch what slipped, never to do the thinking. A session that treats a clean lint as proof the prompt is good has already lost the point — the tool cannot see the judgement that matters, which is why its negation checks had to be removed.
+
 Every rule in this file was written the same way: a run came back wrong, the cause was found, the finding was written down. **All of it is retrospective, and nothing applied any of it to the next block before that block shipped** — so the same bloat kept arriving, session after session, from someone who had just finished writing the rule against it. The rules were not the gap. The procedure was.
 
 **What it checks, because these are mechanically decidable:** exact restatement (repeated five-grams, with the shared style header and the `Image N:` lines stripped so boilerplate is not counted), capitalised-block count against a threshold calibrated on the adopted prompts, and a short list of words that narrate rather than specify.
