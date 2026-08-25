@@ -175,6 +175,13 @@ The rule above says redundancy competes. **The stronger claim, and it is now evi
 
 **So the audit is cheap and it is worth doing before the run, not after:** read the block for the fact stated more than twice, then read what is sitting next to it. That is where the contradiction will be, because a padded block is written fast and pattern-filled rather than specified.
 
+**AND THE LIMIT ON IT, learned the same session by running the compression: COUNT THE CHANNEL, NOT THE SENTENCE.** A second statement that forbids a *different* thing is not a restatement, however much it looks like one. The re-cut of that same block cut two clauses as redundant and lost both jobs:
+
+- The face was forbidden four ways — a positive list of what the viewer sees, then *no feature of his face is drawn*, then *no eye appears anywhere in the picture*, then *do not turn his head toward the viewer*. Dropping the second **turned the head**, putting cheek and jaw in frame. Banning features and banning the eye are different bans.
+- The rivals were held down by *no hard edges anywhere in them* AND *nothing competing for finish*. Dropping the second brought the foreground back lighter, harder-edged and more rendered. **§Name the winner AND demote the rival is two clauses because edge and finish are two channels**; one does not imply the other.
+
+**The test before cutting a repetition: name what the clause forbids, then find where else that thing is forbidden.** If nowhere, it is not a repetition and it stays. Compression is measured in channels covered, never in words.
+
 ### Scale between figures — STATE IT AS MEASUREMENT (s40)
 
 **This is the most useful thing the scene system has learned, and it overturns an earlier finding.** A child rendered several years too old was blamed on the attached face reference outvoting the words. That was wrong. **Adjectives lose; ratios win**, and the reference is not the problem:
