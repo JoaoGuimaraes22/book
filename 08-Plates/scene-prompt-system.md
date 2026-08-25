@@ -85,7 +85,7 @@ Aeliana, the armour only to Valeria, and Kael wears neither.
 
 ## Getting expression and emotional beats
 
-- **"Nothing is happening"** stops the model importing drama into a quiet scene. Without it, two armed characters default to confrontation. **SCOPE IT (s37): that evidence came from two armed characters, and it does not generalise.** The author stripped this paragraph from essentially every plate run this session — a woman in a doorway, a boy at a fence post, a family on a hillside — and no drama arrived. **Keep it where the subject carries an implication of violence or event; drop it everywhere else.** It is two lines of dilution in a picture of somebody standing still.
+- **"Nothing is happening"** stops the model importing drama into a quiet scene. Without it, two armed characters default to confrontation. **SCOPE IT (s40): that evidence came from two armed characters, and it does not generalise.** The author stripped this paragraph from essentially every plate run this session — a woman in a doorway, a boy at a fence post, a family on a hillside — and no drama arrived. **Keep it where the subject carries an implication of violence or event; drop it everywhere else.** It is two lines of dilution in a picture of somebody standing still.
 - **Point at the mouth, not the abstraction.** *Mouth open mid-word* reads as talking; "conversing" doesn't.
 - **Warmth without breaking character.** Valeria's canon expression is unimpressed and tired; *not smiling — just not braced* got friendliness without turning her into someone else.
 - **State contradictions as contradictions.** For the kneel: *the body is deferential and the attention is not.* Without that line the model resolves it into an ordinary bow.
@@ -126,10 +126,10 @@ Bare parchment ground (no setting) is the character-sheet convention. Using it f
 4. **Physical contact (embrace)** — worked; costume detail drifts out of position when arms are in unusual places.
 5. **Kneeling with eye contact, full body** — worked, needed the contradiction line.
 6. **Two-figure fight** — hardest. Six attempts, never fully clean at full body; acceptable at chest-up.
-7. **Three figures and an animal, FULL BODY, feet included (s37)** — worked first try, and it is the first full-body group in the library that came out clean. What made it work was **scale stated as measurement** (below), not the crop rule, which it breaks.
+7. **Three figures and an animal, FULL BODY, feet included (s40)** — worked first try, and it is the first full-body group in the library that came out clean. What made it work was **scale stated as measurement** (below), not the crop rule, which it breaks.
 8. **Four-figure conversation, waist-up (s34)** — worked, and it raises the tested ceiling from three. Four figures all in dark clothing and **not one garment bled**, which is the costume-ownership rule holding under the most pressure it has had.
 
-### Name the winner AND demote the rival (s37)
+### Name the winner AND demote the rival (s40)
 
 **Whatever you want to win the picture, say what loses to it in the same breath.** Stating that a thing is the brightest, palest or most finished element does not make it so — the renderer will honour the description and still finish the face better, because faces are what it finishes.
 
@@ -140,7 +140,7 @@ Proven twice, in two different domains:
 
 **The reusable shape is two clauses: hold the rival at quiet middle values with no hard edges, then site the sharpest step from light to dark on the winner.** It was recorded as an eye technique. It is a picture technique.
 
-### Write for an image generator, not for a reader (s37)
+### Write for an image generator, not for a reader (s40)
 
 **A prompt is a specification.** It is read by something that turns clauses into pixels and has no use for meaning, intent, rhetoric or good prose. The habit this folder keeps falling into is writing prompts the way it writes documentation — each idea in its own paragraph, with the reasoning attached, in flowing natural language — and the reasoning is addressed to a person who is not there.
 
@@ -162,7 +162,7 @@ Proven twice, in two different domains:
 
 **The worked example is the Ch. 3 back** (`plates/ch03.md`): the author's compression cut roughly a third of a drafted prompt without losing a single instruction, and the result was better. That diff is what this section is written from.
 
-### Scale between figures — STATE IT AS MEASUREMENT (s37)
+### Scale between figures — STATE IT AS MEASUREMENT (s40)
 
 **This is the most useful thing the scene system has learned, and it overturns an earlier finding.** A child rendered several years too old was blamed on the attached face reference outvoting the words. That was wrong. **Adjectives lose; ratios win**, and the reference is not the problem:
 
@@ -178,7 +178,7 @@ The goat's shoulder is at about the child's chest.
 
 The portrait system's eye-line ladder does the same job for a face; this is its body equivalent, and the two are independent.
 
-### Altitude is a camera position, not a setting (s37)
+### Altitude is a camera position, not a setting (s40)
 
 A picture meant to look down a mountain at the sea came back as a shoreline at sea level, with the boat close inshore. The prompt had the altitude — *a high mountain smallholding, the ground falling away to a wide flat sea far below* — and then staged the frame as *read the picture left to right: the boy, the man, the boat.* **Staging beats intent, and left-to-right is a flat stage.**
 
@@ -189,13 +189,13 @@ Two fixes, and they generalise to any picture with real depth:
 
 Then pin the depth with **scale-by-measurement**, which is what proves it worked: *the entire boat is smaller than the boy's head in this frame; if the boat is bigger than that, the viewpoint is wrong.*
 
-### Contact hands render, including under a crossing arm (s37)
+### Contact hands render, including under a crossing arm (s40)
 
 Worth stating because the opposite was briefly written here and was wrong. In the pasture scene **both contact hands came through**: a hand flat on a child's upper back with the arm crossing behind him, and a hand buried in a goat's coat. **Author ruling: the hands are fine in that image.**
 
 The retracted claim generalised from a single unconfirmed reading of `ch01-fallen-stars`, where the hand at the jaw looked to me half-lost. One picture, judged by eye, is not a failure mode. **Do not prompt around contact hands as though they were fragile** — nothing here has shown they are.
 
-### Describe a limb as a chain, not as separate facts (s37)
+### Describe a limb as a chain, not as separate facts (s40)
 
 The hand inventory's own format caused this one. A prompt listed *the boy's right hand holds one short knife* and, four lines later, *the man's hand is closed around the boy's right wrist* — the same arm, split into two entries. **The renderer resolved them independently and laid the knife on the ground**, keeping the grip and losing the causality the picture existed for.
 
@@ -203,11 +203,11 @@ The hand inventory's own format caused this one. A prompt listed *the boy's righ
 
 The hand inventory remains right for independent objects in independent hands. It is wrong for a sequence down a single arm, which is what most contact moments actually are.
 
-### Size contrast must be stated per hand (s37)
+### Size contrast must be stated per hand (s40)
 
 Same image: the man's hand against the boy's wrist read perfectly as grown-against-child, while the boy's *other* hand, described only inside a general *the boy's hands are a CHILD'S* line, came back adult-sized. **A scale instruction attaches to the pair it is written next to.** State it again wherever the contrast has to hold.
 
-### Negative inventory works on animals too (s37)
+### Negative inventory works on animals too (s40)
 
 *ONE GOAT, and only one — no second goat, no herd on the slope behind, no dog, no bird, no other animal anywhere in the picture* held completely. Same shape as the hand inventory and the costume ownership rule: **name the absences, not just the presence.**
 
@@ -340,7 +340,7 @@ Two items recur because the system inherits them rather than inventing them, and
 
 ### Three figures and an animal — where the prompt lives
 
-**Produced `images/plates/ch01-vask-kael-goat.png` (s37), first run, author-written.** Full body with feet in frame, which the crop rule advises against, and it came out clean — the scale block above is why.
+**Produced `images/plates/ch01-vask-kael-goat.png` (s40), first run, author-written.** Full body with feet in frame, which the crop rule advises against, and it came out clean — the scale block above is why.
 
 The image was adopted as a **Ch. 1 plate**, so the prompt lives with it: `plates/ch01.md`, under `### PLATE-VERBATIM: vask-kael-goat`. It is not duplicated here.
 

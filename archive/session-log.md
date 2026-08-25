@@ -2153,3 +2153,31 @@ The s21 design load was tested rather than waved through: it warned that a progr
 **Still owed and unruled:** beat 16's ask and refusal, carried to the house and not improvised · the stray comma after *But* in the author's original wording of the general's line, not imported · *much more of that* reading as quantity where the next line turns it categorical · everything carried from s37 and s38.
 
 **Files touched:** 00 (three new blocks: the Phantom, at-true-capacity spent, the coalition's general; and the birth-block leg resolved) · 02/factions · 02/magic · 02/open-questions · 03/kael · 03/vask · 04 · 05 · 06 · 07/chapter-records (Ch. 30 record; Ch. 28 phantom struck) · 07/established-facts · 07/planted-clues (+6 rows, −1 phantom row, 185→190) · 07/standing-rules · 07/timeline · the chapter.
+
+## SESSION 40 — 2026-08-25 · THE PLATES BEGIN (08-Plates only; no prose, no canon moved). Ran in parallel with the s37–s39 drafting session on the same tree
+
+**WHAT IT WAS.** The first plate session. `08-Plates/plates/` opened, eight plates made and adopted across Ch. 1–4, one portrait cut, and the prompt system rewritten twice by the author's corrections. No chapter touched, no canon moved, and the author's parallel drafting of Ch. 28–30 was left strictly alone (staged paths only, per the parallel-session rule).
+
+**THE OPENING RULING.** Every item `08-Plates` carried as owed or open — the Kael full-figure canon audit, Valeria's costume — was ruled CLOSED by the author and marked so in place. `08-Plates/README.md` now states that **a plate session does not open with a list of what is owed**; it opens on the work the author names. 05 dropped its stale 08 line.
+
+**WHAT WAS MADE.** `plates/candidates.md` — 2–3 illustration candidates per chapter for Ch. 1–10, one starred each. Sheets for Ch. 1, 2, 3, 4 and 8. **Adopted:** `ch01-fallen-stars` · `ch01-vask-kael-goat` · `ch02-long-game` · `ch02-the-doorframe` · `ch03-the-wrist` · `ch03-the-back` · `ch04-the-knot` · `ch04-blade-across-her-knees`, plus the portrait `kael-9`, which closed the library's largest gap — there was no Kael between four and fourteen and Ch. 3–8 all want his face.
+
+**THE FINDINGS, and the first two outlive this session.**
+1. **SCALE AS MEASUREMENT.** Adjectives lose, ratios win, and the face reference is not the problem. *Head to the man's hip · head a fifth of total height · goat's shoulder at the child's chest* fixed a child reading years too old, in one run, with the reference still attached. Its strongest form is a **self-checking condition** — *if the boat is bigger than the boy's head the viewpoint is wrong and the picture has failed* — which the renderer met exactly.
+2. **A PROMPT IS A SPECIFICATION, NOT DOCUMENTATION** (author, and the correction is the session's real product). Length is not the metric; redundancy and rhetoric are. Seven rules now in `scene-prompt-system.md`. A word-budget script was written and deleted the same night: it measured a proxy, and it gave the rule a second home besides.
+3. **ALTITUDE IS A CAMERA POSITION, NOT A SETTING** — and camera *height* carries a child without drawing him.
+4. **NAME THE WINNER AND DEMOTE THE RIVAL**, proven in a second domain (a hand against a face) after eyes-against-hair. Promoted out of the portrait system into the scene system.
+5. **THE EYE-LINE LADDER IS A DIAL**, not three settings — an intermediate value returned nine cleanly.
+6. **`THE INK CARRIES THE CLOTH`** (author-added) is the counterweight to finish drift; confirmed three times.
+7. **DESCRIBE A LIMB AS A CHAIN**, not as separate facts — the hand inventory's own format put a knife on the ground.
+8. **A NEGATIVE NEEDS A PULL**; the *Nothing is happening* boilerplate was scoped to subjects that imply event, and cut everywhere else.
+
+**TWO NEGATIVES.** **Vask's grey failed a second time** with the corrected one-ban-plus-count instruction, so the negation-stack diagnosis is marked wrong or incomplete — do not run that fix a third time. And **hand size is a weak channel for age** where whole-body proportion is a strong one.
+
+**RETRACTED WITHIN THE SESSION:** a claim that contact hands fail to render. Both came through in the pasture scene; the claim had generalised from one unconfirmed reading, and a wrong rule in a system file steers every prompt after it.
+
+**AUTHOR RULINGS.** Kael's eyes not visible at plate scale in `ch01-fallen-stars` and `ch01-vask-kael-goat` — both legal, scoped to those pictures; `03` and the canon brief do not move and the grey stays unspent. The father cut from `ch02-long-game`, leaving the woodpile empty, which is the more faithful reading of *there was no father, only a shape by the woodpile that the eye slid off*. The mother's flat hand cut from `ch04-the-knot`.
+
+**ONE CANON CORRECTION.** `canon-brief.md` claimed the page had never described Vask's scars. `03/vask` says *scars on-page* and Ch. 3 describes all three. Fixed at the source: what the page withholds is what made them.
+
+**Files touched:** `08-Plates/` throughout (README, canon-brief, both prompt systems, `plates/`, `images/plates/`, `images/portraits/kael-9.png`, generated `prompts/`) · `scripts/build-prompts.sh` (plate blocks, `PLATE-VERBATIM`, the `kael-9` manifest row) · `TOOLS.md` · `05` (the stale 08 line, at the open). **No manuscript file, no `00`, no `04`, no `07`.**

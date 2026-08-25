@@ -129,7 +129,7 @@ face set yet. A very young child — not a small adolescent, not a
 miniature adult, and not one year older than four.
 ```
 
-**Kael at nine — the intermediate rung** *(s37: the ladder has only ever been asked for its three stops — below the midpoint, at it, above it. This asks for a value BETWEEN two of them. If it takes, the ladder is a dial and not three settings.)*:
+**Kael at nine — the intermediate rung** *(s40: the ladder has only ever been asked for its three stops — below the midpoint, at it, above it. This asks for a value BETWEEN two of them. If it takes, the ladder is a dial and not three settings.)*:
 
 ```
 Age: a boy of nine. The head is still a child's — the cranium large
@@ -282,7 +282,7 @@ The library's largest gap, now closed: there is no Kael between four and fourtee
 
 **NO SCARS.** The Ch. 6 blade scar arrives at the very end of nine, on the LEFT FOREARM, and would not show at head-and-shoulders in any case. The line is there so no run invents one.
 
-**THE GREY USES THE TWO-CLAUSE MECHANISM** — the hair demoted to strands and open washes, then the sharpest step from light to dark sited inside the iris. Proven for Neris, and reproven at s37 in `plates/ch02.md`.
+**THE GREY USES THE TWO-CLAUSE MECHANISM** — the hair demoted to strands and open washes, then the sharpest step from light to dark sited inside the iris. Proven for Neris, and reproven at s40 in `plates/ch02.md`.
 
 ```
 SUBJECT — cool pale parchment ground.
@@ -451,7 +451,7 @@ nothing on her that does not work.
 
 **ADOPTED, AND THE TWO DEPARTURES BELOW ARE ACCEPTED (author, s34) — no further run owed.** `images/portraits/vask.png`, run 3. **The age is right** (thirty-five, matching Neris) and the hair length, eyes, expression and cloth are all right. **Two things are not, both the cost of the youth instruction winning, and both were ruled acceptable rather than fixed. `03` DOES NOT MOVE:** it still says *greying early at the temples* and *a face like used tools*, those remain prose canon, and this portrait simply does not carry them. **A rendering that under-delivers a sheet is not a licence to edit the sheet.** The corrected block is below if anyone ever regenerates him.
 
-1. **THERE IS NO VISIBLE GREY AT ALL, AND THE FENCE ATE IT.** Diagnosed, not guessed: the block aimed **five separate negations at light values in the hair** — *no hard-edged white*, *never a streak, never a seam, never a blaze or band or shape of white* — and the tool resolved the pile-up the cheapest way available, by putting **no light in the hair whatever.** Same overshoot as `no freckles`: a negation stack aimed at a feature suppresses the feature, not just its bad form. **The fix, now in the block, is one shape ban plus a positive COUNT:** *roughly one strand in six is grey, scattered evenly right through the mass and thickest at the temples, and the grey must be plainly visible at a glance. It is SCATTERED, never GATHERED — no streak, no seam, no patch.* **TESTED AT s37 AND IT FAILED AGAIN.** The corrected instruction ran verbatim inside the pasture scene (`images/scene-tests/vask-kael-goat.png`) and the hair came back solid dark with no grey visible at any scale. **So the diagnosis was wrong, or incomplete: the negation stack was not the whole cause.** Two runs, two failures, one shape ban and a positive count in the second — **stop attributing this to the fence.** Next hypothesis worth trying: the grey is competing with the demotion paragraph that renders the hair as open washes and bare paper, which may be spending the light the grey needs. Do not re-run the same fix a third time.
+1. **THERE IS NO VISIBLE GREY AT ALL, AND THE FENCE ATE IT.** Diagnosed, not guessed: the block aimed **five separate negations at light values in the hair** — *no hard-edged white*, *never a streak, never a seam, never a blaze or band or shape of white* — and the tool resolved the pile-up the cheapest way available, by putting **no light in the hair whatever.** Same overshoot as `no freckles`: a negation stack aimed at a feature suppresses the feature, not just its bad form. **The fix, now in the block, is one shape ban plus a positive COUNT:** *roughly one strand in six is grey, scattered evenly right through the mass and thickest at the temples, and the grey must be plainly visible at a glance. It is SCATTERED, never GATHERED — no streak, no seam, no patch.* **TESTED AT s40 AND IT FAILED AGAIN.** The corrected instruction ran verbatim inside the pasture scene (`images/scene-tests/vask-kael-goat.png`) and the hair came back solid dark with no grey visible at any scale. **So the diagnosis was wrong, or incomplete: the negation stack was not the whole cause.** Two runs, two failures, one shape ban and a positive count in the second — **stop attributing this to the fence.** Next hypothesis worth trying: the grey is competing with the demotion paragraph that renders the hair as open washes and bare paper, which may be spending the light the grey needs. Do not re-run the same fix a third time.
 2. **THE FACE IS NO LONGER *A FACE LIKE USED TOOLS*.** `03`'s phrase survived at forty and did not survive the trip to thirty-five; this reads as a weathered handsome man rather than a used one. **The weather/age split is still correct, but the weather itself came down with the age** and needs restating on its own, the same lesson as the grey.
 
 **Both are block bugs, not sheet bugs** — `03` is unchanged and right.
@@ -725,7 +725,7 @@ Use an **anchor** only when continuity within a specific image matters — multi
 
 ## Closed — do not re-raise
 
-**Valeria's costume doesn't signal her station. SETTLED (author ruling, s37): the plainness stands; nothing is owed.** The note is kept below as the record of the reasoning, not as an open item.
+**Valeria's costume doesn't signal her station. SETTLED (author ruling, s40): the plainness stands; nothing is owed.** The note is kept below as the record of the reasoning, not as an open item.
 
 **Valeria's costume doesn't signal her station.** She's a royal guard of noble lineage, currently dressed in plain heavy wrapped cloth with no ornament — the plainest garment in the set. Kael's rags say village, Aeliana's filigree says noble, Valeria's cloth says neither. Either design her something (uniform, house mark, proper scabbard) or decide the plainness is deliberate — off-duty, disguised, estranged. Her garment line appears in every prompt for her, so it's worth settling before generating more.
 
@@ -773,7 +773,7 @@ reference shows head and shoulders only.
 
 ## Kael — full figure
 
-**ADOPTED:** `images/full-figures/kael-14-full.png` — generated in the VILLAGE register (frayed grey tunic, belt, wrapped calves, worn boots). **The adopted image is the reference. The audit below is CLOSED (author ruling, s37) — do not re-raise it, and do not open a session by reporting it.** The block that follows is the record of what was assembled, not a spec the adopted image is measured against.
+**ADOPTED:** `images/full-figures/kael-14-full.png` — generated in the VILLAGE register (frayed grey tunic, belt, wrapped calves, worn boots). **The adopted image is the reference. The audit below is CLOSED (author ruling, s40) — do not re-raise it, and do not open a session by reporting it.** The block that follows is the record of what was assembled, not a spec the adopted image is measured against.
 
 ```
 Image 1: reference portrait of Kael — pale grey eyes, dark uneven
@@ -807,11 +807,11 @@ leather belt. Dark fitted trousers. Cloth wraps at the calves. Soft
 dark leather boots, worn but sound, made for quiet movement.
 ```
 
-**CANON AUDIT — CLOSED (author ruling, s37). Kept as the record of what was considered; nothing here is owed.**
+**CANON AUDIT — CLOSED (author ruling, s40). Kept as the record of what was considered; nothing here is owed.**
 
 1. **HE HAS NO WEAPONS, and a full figure exists to supply kit.** Page canon, Ch. 23: *the two short blades were across his back in their wrap*, and *the knife was where his father had put it, off the belt, inside the coat*. `02/dueling` protects his dual-blade silhouette as distinct from Valeria's — and as drawn she has two visible swords and he has nothing. Insert: *Carried across his back, bundled in a plain cloth wrap: two short blades, hilts covered, reading as an anonymous carried bundle rather than as weapons. A plain knife carried inside the clothing rather than on the belt, not visible.*
 2. **THE TWO KAEL REFERENCES DISAGREE ON CLOTHING.** The face portrait is *threadbare open-collar linen, coarse weave, frayed at the collar, in dull umber and olive*; this is *well-made and well-maintained, chosen to go unnoticed*, charcoal, boots *made for quiet movement*. Those are two different boys. **And the second quietly literalises THE COAT** — the book's central metaphor for his concealment, which `08` rules must never be designed as a look. He is thirteen, houseless, and lives on a mountain with goats: what makes him unnoticeable is owning nothing worth looking at, not selecting kit for stealth. The village register should win; the training already shows in the body.
-3. ~~Minor: the block still says *plain, ordinary bone structure* against `03`'s ratified **handsome**~~ — **DONE (s34)**, in both his blocks; by this doc's own findings the word did nothing anyway. ~~**Items 1 and 2 STAND**~~ — **all three items CLOSED (author ruling, s37).**
+3. ~~Minor: the block still says *plain, ordinary bone structure* against `03`'s ratified **handsome**~~ — **DONE (s34)**, in both his blocks; by this doc's own findings the word did nothing anyway. ~~**Items 1 and 2 STAND**~~ — **all three items CLOSED (author ruling, s40).**
 
 ## Valeria — full figure
 
