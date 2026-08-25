@@ -29,4 +29,4 @@ Mirrors `../images/`:
 - `portraits/` — single figure, face reference. `<character>-<age>.txt`, bare name where `03` leaves the age unpinned.
 - `full-figures/` — anchored to an adopted portrait; extends a face to a standing figure.
 - `scene-tests/` — multi-figure, anchored to the full-body sheets.
-- `plates/` — chapter plates, `<sheet>-<slug>.txt`, built from the `### PLATE:` blocks in `../plates/ch<NN>.md`. Each is the house Medium and Colour paragraphs (sliced from the fixed STYLE block) plus the plate's own block, which carries its own composition, lighting and framing.
+- `plates/` — chapter plates, `<sheet>-<slug>.txt`, built from the `### PLATE:` blocks in `../plates/ch<NN>.md`. Each opens with the `Image N:` lines naming the reference files to attach, then the house Medium and Colour paragraphs (sliced from the fixed STYLE block), then the rest of the plate's own block, which carries its own composition, lighting and framing. A `### PLATE-VERBATIM:` block is emitted untouched and keeps whatever order it ran in.

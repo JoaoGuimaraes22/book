@@ -96,7 +96,19 @@ for sheet in sorted(glob.glob("08-Plates/plates/*.md")):
         block = fenced(text, "### %s: %s\n" % (kind, slug))
         # PLATE-VERBATIM is the exact text as run and already carries its own
         # style header: emit it untouched. Never reassemble a prompt that ran.
-        body = block if kind == "PLATE-VERBATIM" else PLATE_STYLE + "\n\n" + block
+        if kind == "PLATE-VERBATIM":
+            body = block
+        else:
+            # The Image lines name the files to attach, so they go at the very top
+            # of the paste-ready file, above the house look -- the order the scene
+            # skeleton documents. The filenames themselves live in the block.
+            # Hoist the WHOLE first paragraph, not the first line: several of
+            # these reference instructions wrap, and splitting one orphans the
+            # remainder of its own sentence in the middle of the file.
+            head, rest = "", block
+            if re.match(r"Image \d+:", block):
+                head, _, rest = block.partition("\n\n")
+            body = (head + "\n\n" if head else "") + PLATE_STYLE + "\n\n" + rest.lstrip("\n")
         write(f"{out}/plates/{stem}-{slug}.txt", body)
         n += 1
 
