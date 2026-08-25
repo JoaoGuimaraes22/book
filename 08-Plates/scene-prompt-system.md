@@ -233,6 +233,15 @@ Two fixes, and they generalise to any picture with real depth:
 
 Then pin the depth with **scale-by-measurement**, which is what proves it worked: *the entire boat is smaller than the boy's head in this frame; if the boat is bigger than that, the viewpoint is wrong.*
 
+**AND THE SAME FOR LOW ANGLES — NAME WHAT THE VIEWER CAN SEE, NOT WHERE THE VIEWER IS (s41).** *THE VIEWER IS LOW, at the eye height of a boy of nine, so the man is seen slightly from below* failed twice on the same picture (`plates/ch04.md`, the master arrives), returning a level adult viewpoint both times. **A camera height is an abstraction; a renderer draws surfaces.** State the surfaces the angle exposes and the landmark it moves:
+
+- *The underside of his jaw and the underside of the chin are visible.*
+- *The bundle is seen from below and its underside shows.*
+- *The horizon line behind him sits level with his knees, not his shoulders.*
+- *The soles of his boots are hidden and the ground plane is not visible past his feet.*
+
+Same shape as §Scale between figures: the abstraction loses, the landmark wins. **Any instruction phrased as where the camera is should be rewritten as what is therefore in frame.**
+
 ### Contact hands render, including under a crossing arm (s40)
 
 Worth stating because the opposite was briefly written here and was wrong. In the pasture scene **both contact hands came through**: a hand flat on a child's upper back with the arm crossing behind him, and a hand buried in a goat's coat. **Author ruling: the hands are fine in that image.**
