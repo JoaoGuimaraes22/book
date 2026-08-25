@@ -185,6 +185,8 @@ Proven twice, in two different domains:
 - `plates/ch04.md`, the knot — hand size by comparison *moved it and did not solve it.*
 - `plates/ch04.md`, the master arrives — *the wrists are the most precisely drawn thing in the picture*, at full length, came back as ordinary wrists in cuffs. The wrists are the whole point of his body.
 
+**AND THE SECOND FAILURE MODE IS OCCLUSION, NOT SIZE (s43).** Twice in one session a tell was named as the subject and then staged out of its own picture by a later clause in the same block: `plates/ch10.md`'s honey plate put the wrists under sleeves that the garment paragraph had ended at the wrist, and its waterer put the temple-grey behind hair in a profile crop. **Neither is a priority problem and neither would have been fixed by more emphasis.** Before shouting at a tell, read the framing, the pose and the costume back and check that the thing is actually visible in the picture you have described.
+
 **Below roughly the size of a hand in frame, a detail cannot carry finish, and no amount of emphasis changes that. The fix is the crop.** Pick the framing that makes the tell large, or accept the tell is decoration in this picture and let something else win. This is the production argument for close work: a close-up is not a stylistic preference, it is the only way some facts render at all.
 
 ### The pre-flight is a script now (s42)
