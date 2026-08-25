@@ -352,31 +352,105 @@ She found her in the corner of the yard by the cistern head, with her mother, an
 
 The Sedrane woman had her daughter by both shoulders and was giving her instructions.
 
-That was what it was. Valeria stood eight feet off and listened to a woman who would be dead by morning tell a thirteen-year-old what to do about the house, and which of the factors could be trusted and which could not, and what to say to her uncle, and in what order, and to write all of it down tonight on the water while she still had it exactly. She said it twice. She made Elarine say it back.
+That was what it was. A woman who would be dead by morning, telling a thirteen-year-old which of the factors could be trusted and which could not, and what to say to her uncle, and in what order.
 
-Elarine said it back.
+"Write it down tonight, on the water, while you still have it exactly. Say it back."
 
-Then the woman stopped, and there was a place where she plainly did not know what came next, because there was no next. She put her hand flat against the side of her daughter's head and left it there. Neither of them said anything more.
+Elarine said it back. All of it, in order, without a word out of place, because she did not repeat her work and did not ask twice and never had.
+
+"Good."
+
+"You could come," Elarine said.
+
+"No."
+
+"He said he would take four more out of the courtyard. There is room."
+
+"There is room for four children out of that courtyard." Her mother did not let go of her shoulders. "I am not a child out of that courtyard."
+
+"That is not an argument. That is a category."
+
+"Yes. It is a very good one. I taught it to you."
+
+Something moved in Elarine's face and did not get anywhere.
+
+"Listen to me now, because I am not going to be able to say it twice. You are going to be what is left of this house by the middle of next month. You are thirteen. Every man who ever did business with your father will come at you inside the year, and most of them will bring somebody kind to do the talking."
+
+"Yes."
+
+"You will beat all of them."
+
+Elarine did not answer that.
+
+"I am not encouraging you," her mother said. "Encouragement is for people who need it. I am telling you what is going to happen, because I have watched you since you were four years old and there is not one of them who can hold you."
+
+Then she put her hand flat against the side of her daughter's head and left it there, and neither of them said anything more.
 
 Valeria watched, and priced it, and got nothing.
 
-She knew what she was looking at the way you know what a foreign coin is. It was the same shape as the thing that came down the wall at her out of her father's letters, and it was not the same substance, and she could not have said where the difference lived. She had been given corrections her whole life and had understood every one of them. She stood in a courtyard at the end of the light and could not read a woman with her hand on a girl's head, and did not know it was a thing that could be read, and so did not experience it as a failure.
+She knew what she was looking at the way you know what a foreign coin is. It was the same shape as the thing that came down the wall at her out of her father's letters, and it was not the same substance, and she could not have said where the difference lived.
 
 It was going on all over the yard.
 
-Corvane had his son by the back of the neck and was talking into his ear, fast, and Aurelian kept nodding. His father let go, stepped back, looked at him, and said one more thing that Valeria did not hear. Aurelian's face did what it did at the cistern court when he had lost something and was going to tell the story well afterwards. Then his father went out toward the wall.
+Corvane had his son by the back of the neck and was talking fast into his ear. "—and you will not decorate it. He will want it plain."
 
-By the gate, Ostrian Vessaline was being held on to by two people at once and was managing none of it. He was making a sound. Neither of them tried to stop him, and every old house along that wall did the same thing at the same moment, which was to look at something else, and it was the only kindness Valeria saw an old house do all day.
+"Yes."
+
+"He will ask what I did. You will tell him I stood on the eastern stretch with our own men, and you will not make it better than that."
+
+"No."
+
+Then the man stopped. He was big and gone heavy, with his son's colouring and thirty years on top of it, and Valeria watched him go looking for something and not have it anywhere about him.
+
+"You carried that arm through two days of games and told nobody."
+
+Aurelian said nothing.
+
+"Your brother would have had it round the whole building inside the hour." Corvane's hand tightened on the back of his neck. "I have two sons. I have never once had a favourite, and I have let a great many people believe otherwise, because it was useful. It was useful to me. It was not useful to you." He let go. "That was badly done, and I am saying so now, because there is not going to be a later."
+
+Aurelian Corvane, who answered everything, did not answer that.
+
+Nearer the gate, Ostrian Vessaline was being held on to by two people at once and was managing none of it.
+
+"—and you eat, Ostrian. They will not think to tell you and you will not think of it yourself—"
+
+"Father—"
+
+"—and you keep the coat. Whatever they say about it. It is a good coat, it is warm, and I do not care in the least what it looks like—"
+
+"Father."
+
+"What."
+
+Oss could not get anything out at all.
+
+His father took him by both arms. He said nothing about houses. He did not mention the name once, the name that had cost him most of what he owned and had been the whole subject of his life, and Valeria, who had no equipment whatever for noticing a thing like that, noticed it.
+
+"You were always enough," the man told him. "You were always plenty."
+
+Every old house along that wall did the same thing at the same moment, which was to look at something else, and it was the only kindness Valeria saw an old house do all day.
 
 And at the near end, by the tables, the Drusane man stood in front of his son.
 
-Two days ago that boy had been carried out of an arena on a board in front of eleven thousand people, and his father had watched it from nine rows up with the face of a man watching an expense, and had then sat down. Valeria had seen it from the competitors' gate. She had thought at the time that she had the whole family off that one movement.
+"You will be no use to them on that road."
 
-His father took the boy's face in both hands.
+Lucan Drusane did not answer.
 
-That was all he did. Nothing was said that Valeria could hear. He held his son's head, and Lucan Drusane stood and let him, and after a while the man let go and turned round and walked out toward the wall without looking back, and the boy stayed where he was for a long time after that.
+"You have been on your back two days. You will slow them, and they will carry you, and one of them will be killed doing it." His father's hands hung at his sides. "That is what I said to the room. I said it in front of the First Master, and I said it twice."
 
-It did not make him a good father. She had watched him fail to stand up for that boy in front of a building, and a thing at the end does not go back and change a thing at the beginning; sums do not work that way. Both had happened. She set them beside each other, the way you set two readings beside each other when the instrument has given you two, and left them there.
+"I know."
+
+"They kept you in anyway."
+
+"I know."
+
+Valeria waited for the rest of it, because there is always a rest of it.
+
+"Good," said Drusane.
+
+That was all of it. Then he took his son's face in both hands and held it, and Lucan stood and let him, and after a while the man let go and turned round and walked out toward the wall without looking back, and the boy stayed where he was for a long time after that.
+
+It did not make him a good father. She had watched him fail to stand up for that boy in front of a building two days ago, with the face of a man watching an expense, and a thing at the end does not go back and change a thing at the beginning; sums do not work that way. Both had happened. She set them beside each other, the way you set two readings beside each other when the instrument has given you two, and left them there.
 
 Then she went to find the princess, because she would be walking on her left and it was time to begin.
 
