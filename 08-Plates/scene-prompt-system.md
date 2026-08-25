@@ -409,6 +409,19 @@ A fresh cut across his cheekbone. Several on his forearm and torso.
 
 Wound-detail vocabulary — raw, split, edges open — appears to be what causes refusals, not the injury itself. Two data points only, so hold this loosely; location may also matter.
 
+### A negation puts the word in the prompt (s41)
+
+**Banning a thing requires naming it, and the name is what a filter reads.** This is a cost of negation that has nothing to do with dilution, and it was invisible until a six-word exclusion killed a run.
+
+`plates/ch06.md`, the wheel: `no blood or marks on either child` was **refused**. The clause existed only to keep blood out of the picture. The same session's `carried-past-the-rock` says *Dried blood on his cheek and in his hair* about the same boy and ran without difficulty — **so it is not the word blood and it is not children. It is blood in a frame that also contains a bound child**, and the exclusion buys nothing, because a classifier reads nouns and not logic.
+
+**Two consequences:**
+
+- **Before banning something, check that naming it is safe.** A negation is not free even when it is correct.
+- **Where a loaded word can be replaced by construction, replace it.** *Her bound hands* became *her hands*; the rope's path — *goes twice around the rim and her wrists together and finishes in a knot set low behind her* — already says everything the adjective did. Same move as §Name a thing by construction, arriving from the safety side rather than the accuracy side.
+
+**And it sharpens an older finding.** `plates/ch04.md`'s blade recorded that *a positive physical description beat the scene's own pull* where the doorframe had needed the wrong reading named and banned. **Prefer describing what you do want.** It is usually the better instruction and it is always the safer one.
+
 **Stated ages plus injury causes refusals.** Removing explicit ages from the prompt resolved it — the reference images carry age anyway, and `apparent age` stays in the preserve line. Do not try to engineer around a refusal; if honest description doesn't render, that's the tool's limit.
 
 ---
