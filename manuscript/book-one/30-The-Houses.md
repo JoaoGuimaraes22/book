@@ -346,7 +346,7 @@ Vask did not look at them. He did not look at the man in front of him either. He
 
 He got one thing out. It cost him everything he had.
 
-"Mother—"
+"Mother. Is she—"
 
 "The baby. It's coming. I'm sorry I couldn't find you sooner. I... We must go."
 
