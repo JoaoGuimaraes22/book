@@ -190,7 +190,7 @@ He got that far and then he could not go any further with it, so he set it down,
 
 "Not now."
 
-He looker at her belly.
+He looked at her belly.
 
 "Two hundred and forty seconds."
 
