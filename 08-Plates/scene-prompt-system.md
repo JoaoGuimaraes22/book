@@ -162,6 +162,19 @@ Proven twice, in two different domains:
 
 **The worked example is the Ch. 3 back** (`plates/ch03.md`): the author's compression cut roughly a third of a drafted prompt without losing a single instruction, and the result was better. That diff is what this section is written from.
 
+### Over-writing contradicts — it does not merely dilute (s41)
+
+The rule above says redundancy competes. **The stronger claim, and it is now evidenced: a prompt long enough to restate itself is long enough to disagree with itself, and the renderer splits the difference.**
+
+`plates/ch05.md`, past the split rock. The block stated the altitude seven times where §Altitude prescribes three instruments, and the hidden face four times where the plate rule asks for two. Buried in that volume were two clauses that fought the picture:
+
+- `not reaching` — in a block whose subject was *an arm stretched back behind him at full reach.* The arm came back out to the side.
+- `standing still on level ground` — in a block that also said *the ground falling away steeply* and *downhill of it.* He came back on a broad level shelf with the drop displaced to one side.
+
+**Neither was a canon error or a bad instruction. Both were padding that happened to land on the subject.** The picture was adopted and the beat still moved one paragraph back on the page, from the crossing to the pause before it.
+
+**So the audit is cheap and it is worth doing before the run, not after:** read the block for the fact stated more than twice, then read what is sitting next to it. That is where the contradiction will be, because a padded block is written fast and pattern-filled rather than specified.
+
 ### Scale between figures — STATE IT AS MEASUREMENT (s40)
 
 **This is the most useful thing the scene system has learned, and it overturns an earlier finding.** A child rendered several years too old was blamed on the attached face reference outvoting the words. That was wrong. **Adjectives lose; ratios win**, and the reference is not the problem:
