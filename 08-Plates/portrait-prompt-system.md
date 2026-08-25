@@ -129,6 +129,20 @@ face set yet. A very young child — not a small adolescent, not a
 miniature adult, and not one year older than four.
 ```
 
+**Kael at nine — the intermediate rung** *(s37: the ladder has only ever been asked for its three stops — below the midpoint, at it, above it. This asks for a value BETWEEN two of them. If it takes, the ladder is a dial and not three settings.)*:
+
+```
+Age: a boy of nine. The head is still a child's — the cranium large
+and round across the top, the face set low within it — and the eyes
+sit JUST BELOW the vertical midpoint of the head: closer to that
+midpoint than a small child's are, and still clearly below it. The
+face has begun to come out of the cranium: a little definition
+arriving at the chin, the cheeks still full but no longer soft with
+infant fat, the nose still small, the neck still short. Brows fine
+but readable. NINE — not a small child of four or five, not an
+adolescent, and none of the jaw a teenager has.
+```
+
 **The original, still correct for Kael at fourteen, Valeria and Aeliana:**
 
 ```
@@ -244,6 +258,49 @@ him, in dull oatmeal and dead olive.
 **NO SCARS.** The Ch. 6 left-forearm blade scar is five years away, the Ch. 23 arm scar and the Ch. 24 burn nine. He is unmarked, and at head-and-shoulders it would not show anyway; the line is there so no run invents one.
 
 **HIS GREY IS LEGAL HERE AND ONLY HERE-ISH.** `03` keeps the grey unspent on the page and the rule is that **a portrait may show it and no published plate may** until a chapter spends it. This is a reference, so it shows.
+
+### Kael at nine
+
+**NOT YET RUN.** The library's largest gap: there is no Kael between four and fourteen, and Ch. 3 to Ch. 8 all want his face. **Nine covers Ch. 4, Ch. 5 and Ch. 6 exactly and is close enough for Ch. 3 (eight) and Ch. 7 (ten)** — five chapters from one portrait, including the night.
+
+**IT SITS BETWEEN TWO LADDERS, WHICH IS THE WHOLE DESIGN.**
+
+1. **Age.** Eyes just below the vertical midpoint — an intermediate value the ladder has never been asked for. See the AGE block above.
+2. **How closed the face is.** `kael-4` forbids the system's default Kael by name — *NOT flat, NOT still, NOT level* — because at four none of it exists. `kael-14` is the coat: *still and level, mouth closed, gaze flat and direct.* **Nine is between them and closer to four.** The stillness game is years old by nine and he is good at it, but the Temple has not happened, no hall has ever laughed at him, and Ch. 3 to Ch. 5 is a boy whose *questions had questions*. **So the canonical nine is alert and direct and asking**, and the block forbids the fourteen-year-old's flatness the way the four block does. A withheld, still variant stays available as a deliberate second file if a plate of the game or of Ch. 6 ever needs one.
+
+**NO FRECKLES, DELIBERATELY.** `03` rules freckles across the nose (s35) and keeps them unspent on any page. No other Kael in the library carries them, and adding them to this one alone would split the set — while the medium's granulation renders as speckling on every face anyway (author ruling, s34: texture, not a mark). Leave them out until the whole set is re-cut together.
+
+**NO SCARS.** The Ch. 6 blade scar arrives at the very end of nine, on the LEFT FOREARM, and would not show at head-and-shoulders in any case. The line is there so no run invents one.
+
+**THE GREY USES THE TWO-CLAUSE MECHANISM** — the hair demoted to strands and open washes, then the sharpest step from light to dark sited inside the iris. Proven for Neris, and reproven at s37 in `plates/ch02.md`.
+
+```
+SUBJECT — cool pale parchment ground.
+A nine-year-old boy of a mountain village.
+Eyes near-white neutral grey — the LIGHTEST VALUE in the picture,
+cool and colourless, not the most saturated. Distinct dark limbal
+ring, small dark pupil. Large and clear in a young face.
+The hair is dark but never a solid mass: fine ink strands and open
+transparent washes with bare paper left through it, soft wash-bled
+edges, no hard-edged black anywhere in it. The sharpest step from
+light to dark in the whole picture happens inside the eye itself,
+at the edge of the iris.
+Dark hair, cut short and uneven at home by somebody who was not
+being careful, falling over the forehead.
+Outdoors at altitude his whole life: wind-chapped, high colour
+across the cheeks and the nose, cool grey dust and dirt on the skin
+and in the creases of the neck, the grime staying cool grey and
+never warm brown. A CHILD'S skin under it — nothing worked deep, no
+roughness, no hardness anywhere in it.
+No scars and no marks anywhere on him.
+Expression ALERT AND DIRECT, wholly present, meeting the viewer
+head-on with open unhurried attention — a boy in the middle of
+asking something. Interested, unguarded, unafraid. Mouth closed and
+relaxed. NOT flat, NOT blank, NOT level, NOT guarded, NOT wary, not
+sullen, not sad, not solemn, not smiling.
+Plain undyed wool, coarse and much mended, in dull oatmeal and dead
+olive, the collar loose at the throat.
+```
 
 ### Valeria
 

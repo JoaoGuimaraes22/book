@@ -34,6 +34,7 @@ BASE    = fenced(port, "## BASE block — full figure")
 
 AGE = {
     "child":      fenced(port, "**Kael at four — the first CHILD block**"),
+    "kael9":      fenced(port, "**Kael at nine — the intermediate rung**"),
     "adolescent": fenced(port, "**The original, still correct for Kael at fourteen, Valeria and Aeliana:**"),
     "aurelian":   fenced(port, "**Aurelian — the body ahead of the face**"),
     "elarine":    fenced(port, "**Elarine — small, and nothing caught up yet:**"),
@@ -45,6 +46,7 @@ AGE = {
 # character -> (heading in the doc, age block, include HAIR, composition override)
 PORTRAITS = [
     ("kael-4",      "### Kael at four",  "child",      True,  None),
+    ("kael-9",      "### Kael at nine",  "kael9",      True,  None),
     ("kael-14",     "### Kael",          "adolescent", True,  None),
     ("valeria-14",  "### Valeria",       "adolescent", True,  None),
     ("aeliana-15",  "### Aeliana",       "adolescent", True,  None),
