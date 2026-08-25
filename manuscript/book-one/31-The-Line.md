@@ -209,8 +209,6 @@ There was a pause of the length that pause needed to be.
 
 "Because I am the First Master of this Temple," Severin said, "and I have four hundred of your children in my keeping eleven months of the year, and I would be a poor keeper of them if I had nothing at all." He let that sit for exactly as long as it took, and then he said, "You may ask me the rest of it when we are standing on the other side of that water. I will still be here to be asked."
 
-It was not an answer. Valeria knew what an answer sounded like, because she had spent her life being given them, in the flat corrected voice of people who had decided in advance exactly how much she was to have. She looked at the old man's face for the thing that ought to be on it when a man says a sentence like that in front of nineteen houses, and there was nothing on it whatsoever.
-
 She put it down as *a man in his position keeps a hull,* and moved on, because it was reasonable, and because there was nothing else in the room to put it down as.
 
 ---
@@ -259,7 +257,7 @@ Then the judge came off the wall.
 
 He said it into a gap, the way a man asks for the salt, and the room let him have it, and Valeria understood something about the room from how easily it did.
 
-"I am not a soldier," Halden said, "and I am not going to stand here and tell soldiers their business. I am a judge of these games. I have spent two days in a box a hundred and eighty feet above that sand, which makes me the man on this island with the best view of the water. I would like to give you what I saw. Then I will sit down."
+"I am not a soldier," Halden said, "and I am not going to stand here and tell soldiers their business. I am a judge. I was in a box above that sand when they came, which makes me the man on this island with the best view of the sea. I would like to give you what I saw. Then I will sit down."
 
 He had a voice like a warm room. He did not hurry.
 
@@ -307,19 +305,16 @@ Beyond the closed shutter, the sound off the hill was still going.
 
 It had been going for four hours. Somewhere out there under it were the people who had come to this wall in the morning, and had queued, and had looked after one another while they queued, and had been told there was no line for them. The nineteen people in this room had not said one word about them since she walked in. They were not going to. It was not because they were hard.
 
-It was because there had been nothing to say. They were not in the arithmetic. They had never been in the arithmetic. A house stands for its own, and the sums are done in houses, and it is not possible to be cruel to a quantity you have never once had occasion to write down.
-
-She thought all of that in about the time it takes to think it, and drew no conclusion from it, and went back to reading exits.
+It was because there had been nothing to say. They were not in the arithmetic. They had never been. A house stands for its own, and the sums are done in houses, and it is not possible to be cruel to a quantity you have never once had occasion to write down.
 
 She had been angry since the middle of the morning, and had been holding it down all afternoon with both hands.
-
-It had never once been about them.
+It had never once been about *them*.
 
 The party was made in front of her.
 
-The First Master would lead it, because he was the strongest thing they had and because the boat was his. The princess and her twelve. And the Temple children who had reached this wall with a house behind them to be counted with. That came out at seven, because seven was how many were left of the ones this room had names for.
+The First Master would lead it, because he was the strongest thing they had and because the boat was his. The princess and her twelve guards. And the Temple children who had reached this wall with a house behind them to be counted with. That came out at seven, because seven was how many were left of the ones this room had names for who could run.
 
-Valeria Vel. Elarine Sedrane. Aurelian Corvane. Lucan Drusane, who had been carried out of the arena unconscious on the first day and who would have to be carried again if the crossing broke into a run. Ostrian Vessaline, whose father's name had been bought inside living memory, going on the same boat as the rest of them. Nobody in that room remarked on that either. And two more: a Kaeth cousin, and a girl from the northwest school whose name Valeria did not have, and made a point of getting before she left the room.
+Valeria Vel. Elarine Sedrane. Aurelian Corvane. Lucan Drusane. Ostrian Vessaline. And two more: a Kaeth cousin, and a girl from the northwest school whose name Valeria did not have, and made a point of getting before she left the room.
 
 Twenty-one, with the guard. Severin said he would take four more from the courtyard and did not say which four, and nobody asked him.
 
@@ -331,33 +326,17 @@ He said it the way he had said everything else, level and without any weight on 
 
 "Corvane has men on the eastern stretch," Halden said, "and Corvane's business on this island is mine to answer for while I am on it. It would be an odd thing to answer for it from a boat."
 
-Which was true. Valeria checked it, and it was true, and it was the sort of true that costs a man everything. She felt the small movement in her chest that she had been taught to feel when somebody does a thing like that in front of her. She let herself have it, because it was correct to have it.
-
-Nobody in that room ever thought about it again.
-
 ---
 
 They put her on the princess.
 
 It was not an order, and nobody phrased it as one. The captain of the twelve came over to where she was standing, a grey-headed man with a countryman's face. He did not ask her anything about the road, or the village, or what was on her arms. He asked her how long she had been on the island, and who she trained under here. She told him. He looked at her forearms, and at how she stood.
 
-"You will walk on Her Serene Highness's left from the gate," he said, "and you will not be given anything else to do."
+"You will walk on Her Serene Highness's left from the gate," he said, "and you will give your life for the princess."
 
-"Yes."
+"Understood, sir," Valeria responded.
 
-"You have not been told that by anybody senior to you today."
-
-"No."
-
-"You are being told it now."
-
-"Yes," Valeria said.
-
-That was all of it. It took perhaps forty seconds. She had spent the whole of that morning being carried backwards through a gap by a man's hand. She had set herself against it with everything she had and everything eleven generations had put in her, and it had not mattered. Here it was again in a different shape, and this one she could not set herself against, because there was nothing in it to set against.
-
-A Vel walks on the royal left. There is not a word in the language of her house for wanting to be somewhere else.
-
-And she did not want to be somewhere else. That was the part she could not get round. She wanted to be exactly where they had put her, and she wanted to be six miles east of it, and she had never in her life wanted two things at once.
+It was her purpose. A Vel walks on the royal left. There is not a word in the language of her house for wanting to be somewhere else. And she did not want to be somewhere else.
 
 She went out into the courtyard to find the seven and count them properly. The light had gone orange along the top of the eastern wall.
 
@@ -369,6 +348,46 @@ It had been going when the shutter was closed. It had not been going when they m
 
 She wrote the time down in her head under the heading it belonged to and went to find Elarine.
 
+She found her in the corner of the yard by the cistern head, with her mother, and stopped where she was, because you do not walk into that.
+
+The Sedrane woman had her daughter by both shoulders and was giving her instructions.
+
+That was what it was. Valeria stood eight feet off and listened to a woman who would be dead by morning tell a thirteen-year-old what to do about the house, and which of the factors could be trusted and which could not, and what to say to her uncle, and in what order, and to write all of it down tonight on the water while she still had it exactly. She said it twice. She made Elarine say it back.
+
+Elarine said it back.
+
+Then the woman stopped, and there was a place where she plainly did not know what came next, because there was no next. She put her hand flat against the side of her daughter's head and left it there. Neither of them said anything more.
+
+Valeria watched, and priced it, and got nothing.
+
+She knew what she was looking at the way you know what a foreign coin is. It was the same shape as the thing that came down the wall at her out of her father's letters, and it was not the same substance, and she could not have said where the difference lived. She had been given corrections her whole life and had understood every one of them. She stood in a courtyard at the end of the light and could not read a woman with her hand on a girl's head, and did not know it was a thing that could be read, and so did not experience it as a failure.
+
+It was going on all over the yard.
+
+Corvane had his son by the back of the neck and was talking into his ear, fast, and Aurelian kept nodding. His father let go, stepped back, looked at him, and said one more thing that Valeria did not hear. Aurelian's face did what it did at the cistern court when he had lost something and was going to tell the story well afterwards. Then his father went out toward the wall.
+
+By the gate, Ostrian Vessaline was being held on to by two people at once and was managing none of it. He was making a sound. Neither of them tried to stop him, and every old house along that wall did the same thing at the same moment, which was to look at something else, and it was the only kindness Valeria saw an old house do all day.
+
+And at the near end, by the tables, the Drusane man stood in front of his son.
+
+Two days ago that boy had been carried out of an arena on a board in front of eleven thousand people, and his father had watched it from nine rows up with the face of a man watching an expense, and had then sat down. Valeria had seen it from the competitors' gate. She had thought at the time that she had the whole family off that one movement.
+
+His father took the boy's face in both hands.
+
+That was all he did. Nothing was said that Valeria could hear. He held his son's head, and Lucan Drusane stood and let him, and after a while the man let go and turned round and walked out toward the wall without looking back, and the boy stayed where he was for a long time after that.
+
+It did not make him a good father. She had watched him fail to stand up for that boy in front of a building, and a thing at the end does not go back and change a thing at the beginning; sums do not work that way. Both had happened. She set them beside each other, the way you set two readings beside each other when the instrument has given you two, and left them there.
+
+Then she went to find the princess, because she would be walking on her left and it was time to begin.
+
+Aeliana Cassivara Vessantine was standing near the arch inside her twelve, with nobody's hands on her at all. There was no one in this district to say goodbye to her. Her people were on the other side of the sea and did not know yet.
+
+Valeria looked at the yard, and then at the girl by the arch, and did the arithmetic before she could stop herself.
+
+Out of everybody going through that gate tonight, there were two that nobody had hold of.
+
+Two of them had both hands free.
+
 ---
 
 The captain took her report at the far gate at the end of the light, standing up, with a lamp held by somebody else.
@@ -377,7 +396,7 @@ She gave it in order, because that was how it was given. The arena, the seaward 
 
 He stopped her twice to make her repeat a number and she repeated both without changing them.
 
-At the wells she said *we* twice, and did not say who, and he did not ask, because a Vel of thirteen crossing six miles of an emptying island and arriving with that on her forearms is a thing that explains itself to a soldier, and there was nothing in it he needed.
+At the wells she said *we* twice, and did not say who, and he did not ask.
 
 Then she asked him the only question she had.
 
@@ -391,16 +410,10 @@ He thought about it properly, which she had expected of him by then.
 
 "That is the correct answer," said the captain, and went away up the line.
 
-She stood at the far gate with the lamp going away from her, and put the four men, the terraces and the dead ground where she kept things, beside the count and the colours and the empty garrison post, in the same order she had given them to him.
+She stood at the far gate with the lamp going away from her.
 
 Her report had been complete. She had gone over it while she gave it and there was not one thing in it she had left out, not one number softened, not one distance she was unsure of that she had not marked as unsure.
 
 There had been a boy on that road with her from the first bend to the wall. He had read the road for her when she could not read it, and had walked her through thirty thousand people who would not have moved for anybody else on this island, and had understood every word the enemy said within a hundred strides of them and had told her all of it, exactly as she had ordered him to, and had not once asked her for anything.
 
-She had not put him in.
-
-It had not been a decision. She had come to the place in the account where he was, and had gone past it, and had kept going, and had heard herself keep going. Somewhere out east of this wall, in the dark, six miles up a mountain that was on fire in eleven places, he was going home to a house she had never asked him a single question about.
-
-The Line of Vel does not keep things back. She had been raised on that in the same voice she had been raised on everything else.
-
-She turned round and went to find her place on the left.
+Somewhere out east of this wall, in the dark, six miles up a mountain that was on fire, he was going home to a house she had never asked him a single question about. And now she would have to cross that boy's mountain to get off this island, and she had left him standing outside a gate that morning.
