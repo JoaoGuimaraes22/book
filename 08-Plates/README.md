@@ -8,7 +8,15 @@
 
 **THE PLATES WANT PEOPLE AND EXPRESSIONS (author, s41).** Ruled on the two pails — a still life that rendered correctly and was not what the book wants illustrating. **An object-only plate is not a preferred plate**, however well the objects come out; prefer the candidate with faces in it. `ch01/room-of-true-things`, `ch04/the-knot`, `ch05/the-two-pails` and `ch08/the-roll` are all faceless by design, and that is now a cost each one has to be worth.
 
-**AND THE CONSTRAINT IT COLLIDES WITH, stated so it is not rediscovered:** Kael's grey is unspent, so **no plate may show his EYES** — his face is not forbidden, and every Part I plate so far has hidden the whole head only because a hidden head is the easy way to hide an iris. Vask's, Neris's and Severin's eyes are all free.
+**AND CLOSE UP (author, s41): the best of these are faces and expressions, near.** Prefer the tight crop on a face doing something over the wide staging of a moment. **A close-up plate is a portrait of a MOMENT, not of a person** — it takes the chapter's own light and the chapter's own expression, and it is legal only where that chapter puts that face in that state. That is what keeps it a plate and not a second portrait: `REFERENCES SHOW THE PERSON. PLATES SHOW THE MOMENT.` still binds it. Ch. 9's `Aurelian's candle` is the named example and is exactly this shape.
+
+**THE GREY IS SPENT FOR PLATES (author ruling, s41). A plate may show Kael's eyes.** This is the folder's ruling and the other files point at it.
+
+- **What moved:** plates only. **The PAGE staging is unchanged** — `03` still spends the grey through other mouths, never a mirror and never self-description, and the parents still never remark on it.
+- **What it costs, said plainly so no writing session is surprised by it:** for a reader who has seen the plates, the Temple mouth that was to deliver the grey now **confirms** rather than reveals. `07/planted-clues` carries that. What survives intact — arguably strengthened — is the tell that never tells: the pictures show it in every chapter and nobody in the house ever says it.
+- **What did NOT move:** every other spend-state, and **Aeliana's rendering rule in particular** — her beauty may never arrive as a narrator verdict, so a close-up portrait *plate* of her stays illegal however much the programme now wants faces.
+
+
 
 **ONE DECISION THE AUTHOR HAS NOT MADE:** the plate set is not yet consistent in finish — the doorframe is glossier than the long game, the knot and the wrist tighter than the pasture. Fine one at a time, visible in one book. `THE INK CARRIES THE CLOTH` looks like the lever. Easier settled at eight plates than at forty.
 
@@ -52,7 +60,7 @@ Promoted to a rule at s33 after the same question was decided three times, and i
 - A **REFERENCE** — a portrait, a full figure, a scene test — shows what someone IS: the face itself, the objects themselves, the body itself. It depicts no scene and is not a page, so page spend-state does not bind it.
 - A **PLATE** is a moment, and THE PLATE FOLLOWS THE PAGE binds it completely.
 
-Worked examples: **Kael's grey eyes** may appear in a portrait or a scene test and **may not appear in any published plate** until a chapter spends them. **Aeliana's hair** is long and loose in her references and **must be up off the neck in a Ch. 22 plate**, per the page. Her sheet's rendering rule forbids a narrator verdict on her beauty, which makes a portrait *plate* of her illegal and a reference legal.
+Worked examples: **Aeliana's hair** is long and loose in her references and **must be up off the neck in a Ch. 22 plate**, per the page. Her sheet's rendering rule forbids a narrator verdict on her beauty, which makes a portrait *plate* of her illegal and a reference legal.
 
 ## SILHOUETTE SEPARATION IS A PRODUCTION RULE
 

@@ -25,7 +25,7 @@ The prompts are written where `00`, `02` and `03` cannot be seen. Every canon er
 - **NOT the ornate royal register.** That is Aeliana's and is a different order of thing.
 - Dark hair, his mother's. Lean, hard, visibly fit; **strong without bulk**, the strength sitting in the forearms and the hands.
 - **What makes him invisible is STATUS and STILLNESS, not his face** — no house, no name, working cloth, a body trained not to move.
-- **EYES PALE GREY — and UNSPENT ON THE PAGE.** An anchor or portrait may show them. **No published plate may show his eyes until a chapter spends the grey.** Frame them out.
+- **EYES PALE GREY. FREE IN EVERY IMAGE, INCLUDING PLATES (author ruling, s41 — `README.md`).** Render it at full strength: near-white neutral grey, the LIGHTEST VALUE in the face, winning on value rather than saturation. **Still unspent on the PAGE** — that is a prose staging rule and no longer an image one.
 - **Marks:** blade scar on the **LEFT forearm** (Ch. 6, echoes his father's tally-marks) · long shallow scar on the **outside of the LEFT arm above the elbow** (Ch. 23) · burn on the **LEFT forearm, wrist to elbow** (Ch. 24).
 - **He is armed.** Two short blades carried **across his back in a cloth wrap**, hilts covered, reading as an anonymous bundle rather than weapons. A knife carried **off the belt, inside the clothing**, not visible. They came out of a shed and answer to no school and no seller — plain, unmatched, one heavier than the other, grips wound by an amateur.
 - **Clothing: village working cloth** — undyed, coarse, frayed, worn. **Never well-made kit "chosen to go unnoticed"** — he owns nothing worth looking at, and that phrasing literalises the coat.

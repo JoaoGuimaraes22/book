@@ -202,7 +202,7 @@ Not yet planted. **Audit every session:** if a row's Part has closed, that is a 
 
 | Clue | Planted in | Pays off in | Handling |
 |---|---|---|---|
-| THE EYES — Kael's pale grey belongs to no one in the house | 03 ledger (session 9) | the paternity (00, sealed); spend via other mouths only, no mirrors; the parents' never-remarking is the tell that never tells | ledger-planted, unspent on page |
+| THE EYES — Kael's pale grey belongs to no one in the house | 03 ledger (session 9) | the paternity (00, sealed); spend via other mouths only, no mirrors; the parents' never-remarking is the tell that never tells | ledger-planted, unspent on page; **PLATES MAY SHOW IT (s41) — the payoff mouth confirms, never reveals** |
 | Bird-language word makes a master go pale | **Part IV** (rescoped s26 — Part III closed with Ch. 22 and the row still read Part III) | far-continent thread | Temple-side, and now competing with the tournament for room |
 | Chart with coastline that doesn't exist | **Part IV** (rescoped s26 — as above) | far-continent thread | Temple-side; same competition for room |
 | Insignia the father recognizes with horror | Part IV fire | program reveal (later books) | — |

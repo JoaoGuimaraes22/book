@@ -6,7 +6,7 @@
 
 **These are candidates, not plates.** Nothing here is owed, scheduled, or promised. **★ = the one I'd make if the chapter gets one plate.**
 
-Every entry was checked against **THE PLATE FOLLOWS THE PAGE** when it was written. Where a chapter's moment collides with something unspent, the entry says how the framing answers it. The standing one, all through Part I: **Kael's grey is unspent, so no plate shows his eyes** — distance, dark, the chin turned, the face away. Every candidate below is composed so that costs nothing.
+Every entry was checked against **THE PLATE FOLLOWS THE PAGE** when it was written. Where a chapter's moment collides with something unspent, the entry says how the framing answers it. **The standing one through Part I was Kael's grey, and it was spent for plates at s41 (`../README.md`)** — so where an entry below explains how it turns his face away, that reasoning is now history, not a constraint. The compositions still stand; they are simply no longer required.
 
 ---
 

@@ -367,7 +367,7 @@ Wound-detail vocabulary — raw, split, edges open — appears to be what causes
 
 Two items recur because the system inherits them rather than inventing them, and both are in `../08-Plates/canon-brief.md`:
 
-**KAEL'S GREY.** It is unspent on the page and **no published plate may show it** until a chapter spends it — anchors, portraits and scene TESTS are exempt, because they are references and not pages. The quartet test names it twice (`Pale near-white grey eyes, the lightest point in his face`, then again in the summary line) and renders it clearly. **That is legal in `images/scene-tests/` and illegal the moment the same composition is proposed as a plate.** A plate answers with FRAMING — distance, angle, occlusion — never by inventing a different colour.
+**KAEL'S GREY — NO LONGER AN IMAGE CONSTRAINT (author ruling, s41; `../08-Plates/README.md`).** Plates may show it, at full strength, exactly as the portraits and scene tests always could. The rule this section used to carry — *frame it out, answer with distance and occlusion* — is retired, and every Part I plate built under it stands as drawn. It remains unspent on the PAGE, which is a prose rule and binds no image.
 
 **KAEL IS UNARMED IN EVERY SCENE.** His full-body sheet carries no weapons, the scene system attaches that sheet, and so every scene inherits a weaponless boy. Predicted when the sheet was adopted; demonstrated every time since. Page canon puts *two short blades across his back in a cloth wrap* and a knife inside the clothing. Until the sheet is redone, write the wrap into the scene prompt by hand whenever the moment would carry it.
 
@@ -389,7 +389,7 @@ What it inherits is the house look and nothing else: the **Medium** and **Colour
 
 - **Where the light is.** The portrait block's soft directional light is gone. Say the source, say it is the only one, and say what it leaves dark.
 - **Who is NOT in the frame.** An unattended run puts a person in an empty room and a watcher in a solitary moment. Name the absence.
-- **Which faces are not visible, and that it is deliberate.** This is how a plate obeys THE PLATE FOLLOWS THE PAGE without inventing anything — and it is the only way Kael appears in a plate at all while his grey is unspent. Say *no eyes are visible anywhere in the picture* and say *do not turn the head toward the viewer*, or the run will helpfully fix it.
+- **Which faces are not visible, and that it is deliberate.** Where a plate hides a face for its own compositional reasons, say *no eyes are visible anywhere in the picture* and say *do not turn the head toward the viewer*, or the run will helpfully fix it — **and count the channels before trimming either** (§Over-writing contradicts). This is no longer forced by Kael's grey, which s41 freed for plates.
 
 **The inherited Colour paragraph is written for faces, and a plate must often override it.** It ends *the warmth belongs to the skin alone, not the paper or the cloth* — true of a portrait, where the face is the only warm thing in the frame. A plate lit by a fire, a lamp or a town has its warmth landing on cloth, timber, stone and water, and a plate with no people in it has no skin at all. **Say where the warmth actually lands, inside the plate block.** Do not edit the fixed STYLE block to suit one picture.
 
