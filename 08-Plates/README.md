@@ -8,7 +8,7 @@
 
 **THE PLATES WANT PEOPLE AND EXPRESSIONS (author, s41).** Ruled on the two pails — a still life that rendered correctly and was not what the book wants illustrating. **An object-only plate is not a preferred plate**, however well the objects come out; prefer the candidate with faces in it. `ch01/room-of-true-things`, `ch04/the-knot`, `ch05/the-two-pails` and `ch08/the-roll` are all faceless by design, and that is now a cost each one has to be worth.
 
-**AND THE CONSTRAINT IT COLLIDES WITH, stated so it is not rediscovered:** Kael's grey is unspent, so **no plate in Part I may show his face at all.** Expressions in Part I therefore mean Vask's face, Neris's face or Severin's — never the boy's. The collision is real, it is not resolvable by framing, and it ends the moment a chapter spends the grey.
+**AND THE CONSTRAINT IT COLLIDES WITH, stated so it is not rediscovered:** Kael's grey is unspent, so **no plate may show his EYES** — his face is not forbidden, and every Part I plate so far has hidden the whole head only because a hidden head is the easy way to hide an iris. Vask's, Neris's and Severin's eyes are all free.
 
 **ONE DECISION THE AUTHOR HAS NOT MADE:** the plate set is not yet consistent in finish — the doorframe is glossier than the long game, the knot and the wrist tighter than the pasture. Fine one at a time, visible in one book. `THE INK CARRIES THE CLOTH` looks like the lever. Easier settled at eight plates than at forty.
 
