@@ -473,6 +473,21 @@ What it inherits is the house look and nothing else: the **Medium** and **Colour
 
 **Anchoring cost, stated per plate.** Scenes want full-body sheets. Plates rarely get them: a plate of a child, of a parent, or of an empty room is anchored on a head-and-shoulders portrait or on nothing at all, and everything below the collar is then authored in the prompt and anchored to nothing — it will not repeat in the next plate. That is not a reason to skip the plate; it is a reason to write the cost on the sheet, so the next session knows which pictures share a body and which only share a face.
 
+## What a warm source will and will not light (s41)
+
+**A warm source lights a face only when it is CLOSE to it. Whether the source is in frame has nothing to do with it.** The folder carried this as an in-frame/out-of-frame rule for a whole session, from a single run, and it was the wrong axis. Four runs settle it:
+
+| plate | warm source | result |
+|---|---|---|
+| `plates/ch01.md` fallen stars | in frame, far | threw nothing; figures lit by ambient sky |
+| `plates/ch05.md` the fact lands | out of frame, near | lit the face from below, cleanly |
+| `plates/ch09.md` Aurelian's candle | in frame, near | lit the face from below, cleanly |
+| `plates/ch06.md` the treeline | in frame, far | threw nothing; the face was lit from above instead |
+
+**So the question to ask of any plate is how far the light is from the skin**, and the answer is physical: a candle on the bench in front of a boy lights him, a town at the foot of a mountain does not. **Where the source is far, do not ask for a rim or an underlight — say the figure is lit by ambient sky and let the source be the only warm thing in the frame**, which is what `fallen-stars` does and why it works.
+
+**And the general lesson, which is the more useful one: a renderer will refuse an instruction that is physically false, and it is right to.** Two runs were spent asking distant lights to behave like near ones. Check the physics before writing the lighting.
+
 ## Some moments are undrawable (s41)
 
 **THE PLATE FOLLOWS THE PAGE assumes the only thing that can stop a plate is spend-state. It is not.** A moment can be page-legal, canon-clean, well-composed and still impossible, because the instrument refuses it.
