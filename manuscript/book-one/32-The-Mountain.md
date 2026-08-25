@@ -144,8 +144,6 @@ It did not go grey. Grey happens to a man over twenty years. It comes in stages.
 
 Kael knew exactly what he was looking at.
 
-He had learned it in a cold yard from a man built like old rope, standing in a line of forty children who all knew not to look at the man's head while he said it. He had learned it a second time that same afternoon off a boy on a sea wall who dealt in ghost stories and got that one right. Spending is a purse. Go far enough down it and your body keeps the receipt where anyone can read it, and it never comes back dark, and how much of it there is tells you how far down you went.
-
 "Stop," Kael said.
 
 She did not stop.
@@ -188,57 +186,17 @@ He got that far and then he could not go any further with it, so he set it down,
 
 ---
 
-The third board was standing up.
-
-It was leaning against the bottom rung of the loft ladder with its long edge to the room, and there was a line of iron along the seam of it that Kael had seen exactly once before, under his father's boot, in the autumn, while his mother was explaining why a man walking a boy home was not necessarily the past arriving.
-
-Where it had been there was a hole.
-
-From the fleece, with his head on the floor and the fire going behind him, Kael was at precisely the right height to see into it, and he could not have got there from anywhere else in that house. It was longer than it was wide. It was lined. Nothing was in it now except the shape of what had been, pressed into the cloth at the bottom the way grass keeps the shape of something that has slept on it.
-
-There were two of them.
-
-One was long. He turned his head far enough to find the longsword standing against the wall by the door, dark and plain and entirely too old for anything in that house, with a stain along the last third of it that nobody had done anything about.
-
-That accounted for one.
-
-Kael lay on the floor and did the subtraction, because there was nothing else his head knew how to do with a set of facts, and it took about a second and a half, and it could not be un-done afterwards.
-
-His mother's hand was still in his hair.
-
-He did not look for it. He did not have to. His instruments had been running since he came through the door whether he wanted them to or not; they had given him the answer some minutes ago and filed it without asking. Now he went and got it. It was on the blankets against the bed frame, an arm's length from where she had been standing when they came in. It was under a fold of cloth. The fold of cloth was the wrong shape.
-
-He had counted around that board since he was nine years old.
-
-He had walked over it twice a day for four years, going out into the dark before light and coming back up in the last of the day, and it had been under his boot every single time, and he had slept above it every night of his life since he was old enough to want the loft.
-
-Nobody explained anything. Nobody looked at the floor. His mother's hand moved once in his hair and stayed where it was.
-
-On the table, under a cloth, in the middle of everything, was the seed-bread.
-
-She had set it before the pains started, in the dark, on her own, because that was the arrangement and arrangements held: when it starts, the master comes, and there is bread on the table for him. It had risen the way it always rose. Nobody had touched it. Nobody was going to.
-
-Kael looked at it for a while.
-
-Then his mother's hand tightened, and her breath went, and he got his head round to the fire and started counting.
-
----
-
-He counted from nothing, because he had not been there for any of it, and nothing is where you start.
-
-The first one he took ran a hundred and six. The gap after it he did not have, so he threw it out. The second ran a hundred and two. The gap before it was two hundred and forty.
-
 "Mother."
 
 "Not now."
 
-"Two hundred and forty."
+"Two hundred and forty seconds."
 
 There was a silence with a lot of breathing in it.
 
 "Say that again," his mother said.
 
-"Between the last two. Two hundred and forty. The one before that ran a hundred and six, this one a hundred and two. I have only got the two, so it is not worth anything yet. It will be worth something in an hour."
+"From the end of the last one to the start of that one. Two hundred and forty seconds. That one lasted a hundred and two. The one before it lasted a hundred and six." He had started the count the first time her hand tightened in his hair and had not put it down since. "It is one gap and two lengths. One gap is not anything. Give me an hour and it will be."
 
 "How are you counting."
 
@@ -254,13 +212,13 @@ His mother lay on the fleece with the light going across the white in her hair a
 
 "I know."
 
-"You will call every one of them and you will not soften anything and you will not tell me it is going well when it is not going well."
+"You will call every one of them and you will not soften anything and you will not tell me it is going well when it is not going well. It is the gap I want, not the length. When the gap comes under eighty seconds you say so, and you say it across the room if you have to say it across a room."
 
 "No."
 
 "Say it back."
 
-"Every one, out loud, and no softening, and I tell you the number even if the number is bad."
+"Every one, out loud, and no softening. The gap and not the length. Under eighty, across the room. And I tell you the number even if the number is bad."
 
 "Good," said his mother. "That is your job. Do not put it down."
 
@@ -272,7 +230,7 @@ He had been at the door for some while. He stood in it the way he stood at the b
 
 "How long," he said, without turning round.
 
-"On what she has given me? Hours. Three, four. It could be one." Kael put his head back on the fleece. "The gaps are not short enough. When they get to about eighty it is close."
+"On what she has given me? Hours. Three, four. It could be one." Kael put his head back on the fleece. "She wants to be told when the gap is under eighty seconds. It is nowhere near eighty."
 
 "Can she be moved."
 
@@ -476,7 +434,7 @@ The captain stood in the yard and looked at the old man for a while.
 
 Every head in that yard came round.
 
-"Three hours at the outside. It may be one. Two hundred and forty between the last two. A hundred and six on the one before that, a hundred and two on the last. When the gap gets to eighty it is close. The gaps have come down twice since I started, and neither drop was small." He heard his own voice arrive in the middle of a yard full of the empire's people and kept going, because his mother had told him not to soften anything. "It is a number off two intervals. Do not build anything on it that will not hold if I am wrong."
+"Three hours at the outside. It may be one. The gap between them was two hundred and forty seconds when I started counting and the last two were a hundred and sixty and a hundred and fifty. It has come down every time I have had two to put beside each other. Under eighty and it is close." He heard his own voice arrive in the middle of a yard full of the empire's people and kept going, because his mother had told him not to soften anything. "It is a number off five gaps. Do not build anything on it that will not hold if I am wrong."
 
 Nobody said anything for a moment.
 
