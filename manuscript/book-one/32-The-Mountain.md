@@ -291,8 +291,6 @@ Then the old man's eyes went past him and found the boy at the corner of the yar
 
 He said it the way you say a name you have already decided you are not going to get an answer to.
 
-Kael had the sentence ready. He had had it in his mouth since a man shut a gate on him at the wrong end of the island: *he said I was not alone.* He opened his mouth to put it down in front of the old man at last.
-
 "I looked for you," Severin said. "In the north arch, and after it. I want you to know that I looked."
 
 The sentence went out of him. He could not have got it back if he had tried.
@@ -309,37 +307,37 @@ He said it at the line of people still coming up his path.
 
 "The district is holding and it will not hold. We are crossing to the eastern water tonight, and there is a boat, and I did not have another road to bring them along." Severin did not soften any of it. "I have brought all of this onto your mountain. I know what that is."
 
-"Then it is done." Vask did not look at the line at all. "Neris started at the third bell."
+"Then it is done." Vask did not look at the line at all. "Neris is inside Severin. You came at a good time."
+
+A deep breath.
+
+"Our child will be born soon."
 
 Everything in the old man stopped at once.
 
-"The third bell."
+"Vask. Perhaps something good will come off this night then. I'll go check on her, do take care of these children behind me. They've been to too much already tonight."
 
-"Yes."
+"Yes, I will. Thank you."
 
-"And she has been—"
-
-"Yes."
-
-Severin was already moving. He went past both of them and in through the door pulling his sleeves back as he went, and by the time he crossed the threshold he was saying her name, and it was not the way anybody else said it.
+Severin was already moving. He went past both of them and in through the door pulling his sleeves back as he went, and by the time he crossed the threshold he was saying her name.
 
 Kael stood in the yard with his sentence still in his mouth, and put it away.
 
 ---
 
-They came up past him into his yard, and he stood at the shoulder of it and read them going by because reading them was the only thing he had ever known how to do with people.
+They came up past him into his yard.
 
-The second lamp was at the back of them, which is where the second lamp goes. There was nothing behind it. You do not put a lamp at the back of fifteen people.
+The second lamp was at the back of them.
 
-Eight in dark grey, no colour on any of them, and they did not bunch. They came up the last of the path and put themselves out across the yard without one word being said, each of them standing where a thing would have to come from, and the small one in the middle of them never had more than two feet of open ground on any side of her.
+They came up the last of the path and put themselves out across the yard without one word being said, each of them standing where a thing would have to come from, and the small one in the middle of them never had more than two feet of open ground on any side of her.
 
-She was in the same shoes she had worn on a raised floor in a room with ice in a silver bowl. Somebody had put a soldier's cloak over a gown with gold along the hem. The hem was ruined to the knee. Her hair had been up in a construction that took more than one person more than an hour, and it was down now on one side. She was fourteen years old, she had walked six miles up a mountain in those shoes, and Kael watched her come into his yard and stand where they put her.
+She was in the same shoes she had worn on a raised floor in a room with ice in a silver bowl. Somebody had put a soldier's cloak over a gown with gold along the hem. The hem was ruined to the knee. Her hair had been up in a construction that took more than one person more than an hour, and it was down now on one side. She had walked six miles up a mountain in those shoes, and Kael watched her come into his yard and stand where they put her.
 
 She did not look at the house. She looked at the cloud over it, and at the orange in it, and she went on looking at that.
 
-Behind the guard, at the bad end of the line, the rest of it, and there was nobody in the rest of it he did not know.
+Behind the guard, at the end of the line, the rest of it, and there was nobody in the rest of it he did not know.
 
-Elarine Sedrane came up that path with her hands empty and her hair still bound severely and every part of her emptied out. She had been mended in front of the empire two mornings ago and had had nothing left in her then. She got to the top and stopped. She saw him standing there with two blades and blood dried to his elbows, and said nothing whatsoever. He could not read her face at all. That was so exactly the ordinary state of things between them that something in him turned over.
+Elarine Sedrane came up that path with her hands empty and her hair loose and every part of her emptied out. She got to the top and stopped. She saw him standing there with two blades and blood dried to his elbows, and said nothing whatsoever. He could not read her face at all. That was so exactly the ordinary state of things between them that something in him turned over.
 
 Aurelian Corvane came up behind her with his left arm held against his body. He looked at Kael. Then he looked at the house, at the pens, at the mountain going up behind it. Kael watched him understand where he was standing, and watched him decide not to say any of it.
 
@@ -369,17 +367,17 @@ Valeria Vel came up last, because of course she did.
 
 She came up off the path at the back of the whole column with her twin blades on and both her forearms black to the elbow, walking the way she walked, which had not changed at all. She got to the top. She looked at him — at the blades in his hands, at his chest, at how he was standing on the leg — and did the thing she did, which was to price it in about a second and give nothing back.
 
-"You are up," she said.
+"You are alive," she said.
 
 "Yes."
 
-"You were not going to be."
+"I'm sorry Kael. For everything. I hope you will let us stay by you know."
 
-"No."
+"Yes, well. It is not my decision to make. But I'm glad your fine too Valeria."
 
 She was quiet for a moment. Then she looked past him, at the house.
 
-It was a small house. One room, a loft, a door that held. There were fleeces in the yard, a woodpile, a block with an axe standing in it, a line of pens going down the slope with nothing in them. It had a fire going too big in it and light coming out of the doorway onto the stones. It looked like every other poor house on that island. It did not look like anything at all.
+It was a small house. One room, a loft, a door that held. There were fleeces in the yard, a woodpile, a block with an axe standing in it, a line of pens going down the slope with nothing in them. It had a fire going too big in it and light coming out of the doorway onto the stones. It looked nothing like every other house on that island. It did not look like anything at all.
 
 Valeria Vel stood in front of it and looked at it for a long moment.
 
@@ -403,45 +401,47 @@ The captain was a grey-headed man with a countryman's face and he did not raise 
 
 "We stop here."
 
-"There is a woman in that house who cannot walk. That is very hard. I am sorry for it. It is not a thing I am able to weigh." He said it without any cruelty in it at all, which made it worse. "I came off that wall with twelve. I have eight, and I have six children behind them who are not soldiers, and I have lost every one of the rest between here and the far gate. Every hour we are standing still is an hour somebody uses. Give me the road to the boat and we will go. You may follow when you are able."
+"There is a woman in that house who cannot walk. A new life is coming off her. We need to hold here until it does. I am sorry, but we must. " He said it without any cruelty in it at all, which made it worse. 
+
+The man responded: "We came off that wall with twelve. We have eight, and of those we have six children them who are not soldiers. Every second we are standing still is a second somebody uses. Give me the road to the boat and we will go. You may follow when you are able."
 
 "No."
 
-"Sir—"
+"Sir, the princess, please we—"
 
 "You do not know the road," Severin said. He had come into the doorway with his sleeves back and his forearms wet to the elbow, and he did not appear to be in any hurry about it. "It is not a road. It goes off the shoulder onto goat ground, off the goat ground into a runnel that is not visible from above at any hour of the day. There is a place in it where you must go down before you go up. Take the obvious line instead and you will come out four hundred feet over the water on a face nobody has ever got down. In the dark, with children, at speed. There is no describing it to you. There is no drawing it for you. I have been over that ground eleven times since the autumn. I will take you along it. I will not be sending you along it."
 
-"Then send a man who knows it."
+"Then send a man who knows it. That man over there, Vask, he'll come with us. He knows the way."
 
-"There is no such man. That was the point of it."
+"You fool. That is the last man who'll abandon this house, and the people in it."
 
 The captain stood in the yard and looked at the old man for a while.
 
 "How long."
 
-"I do not know. Hours."
+"I do not know. Minutes, hopefully."
 
 "That is not an answer I can use."
 
 "No," Severin agreed. "It is the only one there is, and I am not going to improve it for you by inventing a number."
 
-"Three hours," Kael said.
+"Thirty minutes," Kael said.
 
 Every head in that yard came round.
 
-"Three hours at the outside. It may be one. The gap between her pains was two hundred and forty seconds when I started counting and the last two were a hundred and sixty and a hundred and fifty. It has come down every time I have had two to put beside each other. Under eighty and it is close." He heard his own voice arrive in the middle of a yard full of the empire's people and kept going, because his mother had told him not to soften anything. "It is a number off five gaps. Do not build anything on it that will not hold if I am wrong."
+"It may be less. The gap between her pains was two hundred and forty seconds when I started counting and the last two were a hundred and sixty and a hundred and fifty. It has come down every time I have had two to put beside each other. Under eighty and it is close." He heard his own voice arrive in the middle of a yard full of the empire's people and kept going, because his mother had told him not to soften anything. "It is coming soon. I know it."
 
 Nobody said anything for a moment.
 
 "Who is this," said the captain.
 
-"That is the woman's son," said Severin, and went back inside.
+"You've seen him before. This is *Kael of the Island*. Maybe you'd know him as the *Ghost*. That is the woman's son," said Severin, and went back inside.
 
 ---
 
 They put the children against the north wall of the house, and the guard round the princess in the angle where the wall of the house met the wall of the store, which was the only corner of that yard that could not be come at from two sides at once.
 
-The captain began laying out the rest of it off what he could see, which was the path, the pens, the open ground above the yard. He did it well and quickly. He got it wrong. Kael stood four feet away and listened to him get it wrong with his mouth shut, because he was thirteen and this was a man who had spent his life doing this.
+The captain began laying out the rest of it off what he could see, which was the path, the pens, the open ground above the yard. He did it well and quickly. He got it wrong.
 
 "Ask my son," said Vask.
 
@@ -481,15 +481,15 @@ Nobody laughed. Elarine Sedrane, beside him, with her eyes shut, said, "Yes."
 
 ---
 
-Kael went up onto the woodpile, because it was the highest thing in the yard and he had no intention of standing on it in an hour.
+Kael went up onto the woodpile.
 
-From the top of it you could see the whole of the lower ground: the pens going down, the bend in the path, the black of the runnel cutting in from the east, and past all of it the island, and the sea beyond the island with the orange sitting on the underside of the cloud all the way out.
+From the top of it you could see the whole of the lower ground.
 
-He had stood up here his whole life. He had stood up here at four years old and looked down at the lights in their corner and been certain they were something else entirely, and he had been wrong about that, and it had taken him five years to find out.
+He had stood up here his whole life. He had stood up here at four years old and looked down at the lights in their corner and been certain they were something else entirely.
 
 There were lights on the mountain.
 
-They were below the second bend and off to the east of it. Four of them. They were not moving fast: he watched for a hundred and twenty and they went perhaps thirty strides.
+They were below the second bend and off to the east of it. Four of them. They were not moving fast: he watched for a hundred and twenty seconds and they went perhaps thirty strides.
 
 Then there were seven.
 
@@ -513,4 +513,4 @@ He had not said he had another thing.
 
 His mother turned her head and looked at him from the floor with the fire behind her and the white going all the way through her hair now, in two places, quartz-clean, and Kael stood in the doorway of the only house he had ever lived in and understood that both of the things he was counting were getting closer, at the same time, on purpose, and that he was the only person on that mountain holding both numbers.
 
-"Then we had better both be quick," said his mother.
+"Then we had better both be quick," said his mother, her gaze on her belly.
