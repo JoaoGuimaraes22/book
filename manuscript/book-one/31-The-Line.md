@@ -33,7 +33,7 @@ Aurelian Corvane was sitting on the edge of a horse trough with his left arm hel
 
 "I'm all right."
 
-"Your arm has been not all right since Meloran, and you have used it today. Sit down."
+"Your arm has been not all right since the tournament, and you have used it today. Sit down."
 
 He sat down. Elarine Sedrane was on the trough beside him with her back against the stone and her hands loose in her lap, palms up, which was not a thing Elarine did. There was a burn along her jaw that nobody had looked at yet. She had been mended in front of eleven thousand people the previous morning. There was nothing left in her. It showed.
 
@@ -59,13 +59,9 @@ Elarine turned her head far enough to look at her properly, which cost her somet
 
 Valeria had read it off the street on the way in and had been hoping to be wrong about it.
 
-"How many stretches?"
-
-"Seven. Perhaps eight. Nobody has a list."
-
 "What word is there," Valeria said. "Who they are, and why."
 
-Aurelian answered, because Aurelian always answered. "Eastern. The colours are eastern, somebody said that at the wall. There's a count going round that says nine thousand off the boats and another that says thirty. My uncle's man says the garrison is coming up from the south and will be here by the afternoon."
+Aurelian answered. "Eastern. The colours are eastern, somebody said that at the wall. There's a count going round that says nine thousand off the boats and another that says thirty. My uncle's man says the garrison is coming up from the south and will be here by the afternoon."
 
 "There is no garrison coming up from the south."
 
@@ -103,7 +99,7 @@ Aurelian was looking at the flagstones between his boots. He said, in the voice 
 
 "No."
 
-"That's all it is," Aurelian said. "There isn't a second part of it. My family's men are on that wall. If I went and stood in front of them and told them to open it, they would be very sorry. They would not open it. They would be right, because a house stands for its own, and there is nobody standing for him. That is the whole of it. I worked it out while I was standing up there and it took me about one second and then there was nothing else to do with it."
+"That's all it is," Aurelian said. "There isn't a second part of it. My family's men are on that wall. If I went and stood in front of them and told them to open it, they would be very sorry. They would not open it. They would be right, because a house stands for its own. Yes. Of course."
 
 He said it well. He spared himself nothing, which was the thing about him, and it was worth nothing at all.
 
@@ -127,7 +123,7 @@ A man in Corvane grey stopped in front of her, looked at the blood on her forear
 
 "Inside, please."
 
-That was the whole of it. She had walked six miles through the middle of the thing they were arguing about, and had killed her way up the last of it, and none of that had got her within forty feet of that door. Her house name did it in three words, at a walk, with her boots still wet.
+That was the whole of it.
 
 Her name had opened every door on this island. She thought about that for as long as it took to cross the courtyard, which was long enough.
 
@@ -137,15 +133,21 @@ She read it in the order she had been taught. Exits: two, the double doors behin
 
 Then the people.
 
-The houses had sent their heads. The heads had brought their sons. She knew perhaps half the faces from the seats above the sand and had a name for a third of them. The Drusane man was at the near end with his hands on the back of a chair. She had watched him from the competitors' gate two mornings ago while his son was being carried out on a board, and his face had not changed then, and it had not changed now.
+The houses had sent their heads. The heads had brought their sons. The Drusane man was at the near end with his hands on the back of a chair. She had watched him from the competitors' gate two mornings ago while his son was being carried out on a board.
 
 The princess was seated at the far end, and she was the only person seated.
 
-Twelve of them stood around her in dark grey with nothing on it, arranged the way they were always arranged, across the distances rather than in front of the body, each one already standing where a thing would have to come from. Valeria priced the arrangement and found it correct.
+Then she priced her. It took about four seconds. It was not a thing she could have explained to anybody who had not been raised to do it. Height, weight, reach. Whether she could run, how far, in what. The answer was that she was fourteen years old, had never carried anything, and wore the shoes of somebody who had never once had to run. If it came to it she would have to be carried. She would have to be carried by somebody who was not also fighting.
 
-Then she priced the girl inside it. It took about four seconds. It was not a thing she could have explained to anybody who had not been raised to do it. Height, weight, reach. Whether she could run, how far, in what. The answer was that she was fourteen years old, had never carried anything, and wore the shoes of somebody who had never once had to leave a building quickly. If it came to it she would have to be carried. She would have to be carried by somebody who was not also fighting.
+She had been pricing bodies like that since she was six. She had never once done it to this one, because there had never been one of these in a room with her.
 
-That was all the princess of the Vessantine Empire was to her, standing in that doorway, and it did not once occur to her that there was anything else to have.
+Eleven generations of her house had stood in front of that girl's house, and the best of them stood over the king, and being the best one meant that and nothing besides. She had known what she was for since before she could read. She had gone thirteen years without coming nearer to it than the width of an arena.
+
+She was inside twenty feet of it now.
+
+Something went through her that she had not authorised, and she stood in that doorway with blood dried to her forearms and let it go through and did not move, and none of it arrived on her face.
+
+If that girl had to be taken off this island, Valeria would take her off it, or she would be lying somewhere behind her having failed to. There was no third arrangement and there never had been one. It had been put in her on purpose, by people who were right to put it there, and she had never once wished they had not.
 
 The judge was against the far wall with his hands folded, broad and comfortable, saying nothing. He had come in ahead of her and had not looked at her since.
 
@@ -356,6 +358,8 @@ It was not an order, and nobody phrased it as one. The captain of the twelve cam
 That was all of it. It took perhaps forty seconds. She had spent the whole of that morning being carried backwards through a gap by a man's hand. She had set herself against it with everything she had and everything eleven generations had put in her, and it had not mattered. Here it was again in a different shape, and this one she could not set herself against, because there was nothing in it to set against.
 
 A Vel walks on the royal left. There is not a word in the language of her house for wanting to be somewhere else.
+
+And she did not want to be somewhere else. That was the part she could not get round. She wanted to be exactly where they had put her, and she wanted to be six miles east of it, and she had never in her life wanted two things at once.
 
 She went out into the courtyard to find the seven and count them properly. The light had gone orange along the top of the eastern wall.
 
