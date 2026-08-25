@@ -368,21 +368,21 @@ Elarine said it back. All of it, in order, without a word out of place, because 
 
 "There is room for four children out of that courtyard." Her mother did not let go of her shoulders. "I am not a child out of that courtyard."
 
-"That is not an argument. That is a category."
+"That is not a good argument."
 
-"Yes. It is a very good one. I taught it to you."
+"Yes. It is not a very good one. I taught that to you."
 
 Something moved in Elarine's face and did not get anywhere.
 
-"Listen to me now, because I am not going to be able to say it twice. You are going to be what is left of this house by the middle of next month. You are thirteen. Every man who ever did business with your father will come at you inside the year, and most of them will bring somebody kind to do the talking."
+"Listen to me now, because I am not going to be able to say it twice. If this goes the way the old man says it will, you are going to be what is left of this house. You are thirteen. Every man who ever did business with your father will come at you inside the year, and most of them will bring somebody kind to do the talking."
 
 "Yes."
 
-"You will beat all of them."
+"Not one of them is quick enough." Her mother's hands did not move on her shoulders. "Not one of them has ever been quick enough. I have known it since you were four years old, and I have never once said it to you, because you did not need saying to and I was not going to have you softened."
 
 Elarine did not answer that.
 
-"I am not encouraging you," her mother said. "Encouragement is for people who need it. I am telling you what is going to happen, because I have watched you since you were four years old and there is not one of them who can hold you."
+"I am not encouraging you. Encouragement is for people who need it. I am telling you what I have watched."
 
 Then she put her hand flat against the side of her daughter's head and left it there, and neither of them said anything more.
 
