@@ -473,6 +473,16 @@ What it inherits is the house look and nothing else: the **Medium** and **Colour
 
 **Anchoring cost, stated per plate.** Scenes want full-body sheets. Plates rarely get them: a plate of a child, of a parent, or of an empty room is anchored on a head-and-shoulders portrait or on nothing at all, and everything below the collar is then authored in the prompt and anchored to nothing — it will not repeat in the next plate. That is not a reason to skip the plate; it is a reason to write the cost on the sheet, so the next session knows which pictures share a body and which only share a face.
 
+## Some moments are undrawable (s41)
+
+**THE PLATE FOLLOWS THE PAGE assumes the only thing that can stop a plate is spend-state. It is not.** A moment can be page-legal, canon-clean, well-composed and still impossible, because the instrument refuses it.
+
+`plates/ch06.md`, the wheel — a bound child in a yard at night, which is the chapter's own beat and its most human one. Refused twice; the second refusal named the reason: *acceptable depictions of adolescents and children.* **The trigger is the restraint on a child, which is the candidate itself**, so no rewording reaches it. Replacing *bound* with the rope's construction did not move it, and neither did removing the word blood.
+
+**How to tell this apart from a prompt fault:** a prompt fault produces a wrong picture, a refusal produces no picture. **Do not iterate on a refusal.** §Damage already says it — *do not try to engineer around a refusal; if honest description doesn't render, that's the tool's limit* — and the addition here is that the limit can fall on a moment rather than on a phrasing.
+
+**What to do instead:** ask whether the moment survives a crop that removes the person — `ch04.md`'s knot is four hands and an object and depicts nobody. If it does not survive that, take a different moment from the same chapter and **record the block on the sheet**, so the next session does not spend three runs rediscovering it.
+
 ## Standing limitation
 
 These models pattern-match rather than model objects. Overlapping limbs, occlusion, and held objects at odd angles are where that breaks — which is exactly what an action scene is.

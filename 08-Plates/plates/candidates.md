@@ -68,8 +68,10 @@ Every entry was checked against **THE PLATE FOLLOWS THE PAGE** when it was writt
 **Nothing inside that room is ever drawn.** The chapter's horror is carried by what is outside the wall, and every candidate here stays outside it.
 
 1. ★ **The door that does not hold.** On the night of all lamps, one cluster of roofs sitting in its own dark, and a door standing open, swinging a little when the sea-wind finds it, knocking softly against its own frame. All Kael's life a door is a thing that holds. Draw the door; leave what lies in the spilled dark to the reader, or out of frame entirely.
-2. **The wheel.** — *built on the `ch06.md` sheet, unrun.* The girl against the cart wheel in the yard's dark, knees up, wrists tied behind her and finished low where her hands cannot follow — and a boy's fingers already reading the knot. Her eyes have found him and her mouth has closed again. *The tie, never the violence.*
+2. **The wheel.** — **BLOCKED BY THE TOOL (s41), not by canon: two refusals, the second naming depictions of children. `ch06.md` has the record; do not rebuild it.** The girl against the cart wheel in the yard's dark, knees up, wrists tied behind her and finished low where her hands cannot follow — and a boy's fingers already reading the knot. Her eyes have found him and her mouth has closed again. *The tie, never the violence.*
 3. **Carried past the rock.** — **BUILT AND ADOPTED (s41): `images/plates/ch06-carried-past-the-rock.png`; sheet `ch06.md`.** The climb home: the father with the boy in his arms, the split rock standing up out of the dark (size fixed by `ch05.md`), and the mother waiting at the end of the path, straight and still, her hand arriving on Kael's head and riding there the whole way up. Nobody says anything the entire climb.
+
+4. **The treeline** *(author-directed, s41; built on the `ch06.md` sheet).* Close on his face at the edge of the pines, lit from below by the shore of lamps, with the dark shapes of people moving among them — the body leaning toward it and the face afraid, neither winning. **The third plate of the same lights and the closest of the three.**
 
 *Alternate:* the last paragraph as a landscape — the feast burning end to end along the water, and one cluster of roofs dark in the middle of it, looking from up here exactly as it always has.
 
