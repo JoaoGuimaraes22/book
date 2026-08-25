@@ -302,7 +302,7 @@ He counted eleven fires, and then stopped counting them and began reading them i
 
 And between the fires, in ones and twos and fours, going along the field walls the way water goes along a gutter, there were men.
 
-They were not marching. They had finished marching. They were doing the thing he had watched thirty of them do in a gateway before the third bell and fifteen of them do around a well since, at the unhurried working pace of people who expect to be at it until dark.
+They were not marching. They were finishing scraps.
 
 On the eastern water there were more boats coming in.
 
@@ -312,7 +312,7 @@ Everything from here on was through them. There was no line to take that was not
 
 Behind him, the faculty nobody in his family had ever built or trained or mentioned once in eleven years put out a hand.
 
-He knew every one of the arguments. He had made them all sitting against that ditch wall and every one of them was correct. He could not fight three hundred men. He could not move thirty-one thousand people. He could not open a gate that four hundred years of masons had built specifically so that boys could not open it. Nothing he did on this hill changed one single thing that was going to happen on it, his mother was six miles off with a child coming down, and a woman with a third of a pint of water had listened to him and gone back to her place in the queue.
+He knew every one of the arguments. He had made them all sitting against that ditch wall and every one of them was correct. He could not fight three hundred men. He could not move thirty-one thousand people. He could not open a gate that masons had built specifically so that men could not open it. Nothing he did on this hill changed one single thing that was going to happen on it, his mother was six miles off with a child coming down.
 
 All of it was true. He turned it over twice looking for the flaw, and there was no flaw in it, and he went anyway with the thing still holding on to his sleeve.
 
@@ -332,6 +332,4 @@ It did not arrive in a piece. It came the way rain comes onto a roof, with no pa
 
 And the cold voice, which had counted two in a settlement yard when he was nine and five in a lane before noon and did not care in the slightest what it was counting, started on the hillside behind him.
 
-Thirty-one thousand. Thirty-six at the outside.
-
-It would be there when he stopped. It was going to have a number.
+Thirty-one thousand. Thirty-six at the outside. Gone. Forever.

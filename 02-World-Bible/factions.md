@@ -15,3 +15,4 @@
 ### The Program (mostly unrevealed — 00)
 - On-page in Book One: fragments only — an insignia the father recognizes with horror; a forbidden-language word in a raider's mouth; the mother's face when she understands what has come back.
 - Reader's takeaway at the end of Book One: the parents thought something was dead, and it isn't.
+- **HALDEN IS THE HARVEST (author, s38 — 00 owns it; nothing on any page of Book One).** The judge is the program's collection arm, post-rebellion generation, and his imperial standing is real rather than a costume — which is the market layer sheltering the harvest in one body. **At this point its business on the island is hunting VASK and NERIS**, with Kael only the road to them; it is not collecting a child. He is genuinely strong, body and Art, and that is never remarked on (`../06-Style-Sheet.md` §Staging). Sheet: `../03-Character-Bible/halden.md`.

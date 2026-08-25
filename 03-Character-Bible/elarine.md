@@ -15,7 +15,8 @@
 - **Appearance:** Ink-dark hair bound severely; pale, economical — nothing on her that doesn't work; small; dark eyes that price before they blink. Forgettable at a glance and unforgettable the third time you notice she hasn't moved. What others react to: they mostly don't — which she has noticed, and wears as neatness.
 
 ### DYNAMIC
-- **Now:** ~13; out of the games, beaten by Kael in the round of 8; last on the page at the gate of Ch. 26, helped up, announcing the collision. Her fate in the invasion is unwritten.
+- **Now:** ~13; **alive and inside the nobles' district**, seen once from the wall at Ch. 29 by a boy a hundred and forty strides out and below, through smoke. **She never had a chance to act and the page gives her no expression** — Kael got one fact out of it and built a verdict on it, and she does not know he did. Do not correct him; do not later have her account for that morning as though she could have done anything.
+- Out of the games, beaten by Kael in the round of 8; last spoken on the page at the gate of Ch. 26, helped up, announcing the collision.
 - **She lost, and she needed it (Ch. 26).** Fought the empire's doctrine properly, had Kael beaten in the open inside four minutes, knew by the fourth false arrival what he was doing and paid for the fifth anyway, spent her whole treasury in one working, and knelt from exhaustion with both their Arts gone.
 - **Her *because*, given once and never repeated (author-ratified, s30):** *"My house chooses the school and the seat and the man. But if I had won it. Perhaps I could have proved to myself that I was still able to write my own destiny."* She wanted it the way Kael did not, and he took it anyway, and she named that too.
 - **She saw his face.** Saw him smiling while he was cutting her — somebody for whom the fighting was simply the good part — and met him anyway. *She would think about it for a long time and never once say it to him.* Do not have her raise it.
