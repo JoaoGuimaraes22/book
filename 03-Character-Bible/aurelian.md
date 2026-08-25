@@ -1,5 +1,5 @@
 ## AURELIAN CORVANE (the ringleader — pride that breaks)
-**Glance:** the cohort's presumptive best; ringleader → training ally · House Corvane · ~13 · **out of the games in the round of 16, beaten by MELORAN** · cistern-court ally.
+**Glance:** the cohort's presumptive best; ringleader → training ally · House Corvane · ~13 · **alive, and in the party going out of the district for the boat**; the arm still not right · cistern-court ally.
 
 ### STATIC
 - **Role:** The cohort's best before Kael arrives; capacity-worship made flesh; the face of the science-vs-pride engine. Sealed irony (00): his mockery of Kael's method is the empire failing to recognize its most wanted asset.
@@ -11,6 +11,10 @@
 - **Appearance:** Tall for his cohort, built a year ahead of his age; dark-gold hair; **amber, gold-brown eyes — author ruling s34, unspent on any page**; high carriage; unspent strength Kael prices on sight. Beautiful and knows the exact weight of it — the bench behaves differently in his radius (render the radius, not the adjective). Fire's warmth in the coloring without stating it — it sits in the hair and the eyes together, and is never named as fire.
 
 ### DYNAMIC
+- **Now: in the escape party**, carrying the arm from Meloran through a second day and still pretending about it. Valeria made him sit down.
+- **His father said goodbye and gave him the thing he has wanted his whole life, too late.** A message to carry to the brother, and then: *"I have two sons. I have never once had a favourite, and I have let a great many people believe otherwise, because it was useful. It was useful to me. It was not useful to you… That was badly done, and I am saying so now, because there is not going to be a later."* **Aurelian, who answers everything, did not answer that.** He does not raise it afterwards.
+- **He gave Kael's exclusion as flat arithmetic and did not spare himself:** *"a house stands for its own. Yes. Of course."* He never had a chance to act; never write the morning as though he did.
+- Calls her **Val** without thinking about it.
 - **Now:** ~13; **alive and inside the nobles' district**, on the wall beside Elarine at Ch. 29 — unnamed on that page and recognised by Kael on height and dark-gold hair alone. **Houses standing for people is his native arithmetic, so he understood the whole of that gate instantly, and there was nothing on earth he could do with it.** He never had a chance to act; do not later write the morning as though he did.
 - Out of the games on day one, pulled apart in public by the seventeen-year-old spear he had asked for four days a week precisely so as to be pulled apart at the highest level available. His arm is not all right and he intends to pretend about it until Thursday. He tells the story himself, well, spares himself nothing, and covers the second and a half where it hurts immediately — pride intact; Character Law held. Off the page since the cistern (Ch. 24); his fate in the invasion is unwritten.
 - **His brother has written to him about *the eastern roads*** — and has never once written to him about a road, and he does not notice that he has noticed.

@@ -1,5 +1,5 @@
 ## HALDEN (the judge — the smiling man; introduced Ch. 13)
-**Glance:** "a judge of the games," two springs early · **THE HARVEST — the program's collection arm (00 s38; reverses the s21 empire-only ruling)**, and genuinely Corvane's man · grey at the temples · **he entered Kael in the games, and at the district gate he took Valeria through and shut it in Kael's face.**
+**Glance:** "a judge of the games," two springs early · **THE HARVEST — the program's collection arm (00 s38)**, and genuinely Corvane's man · grey at the temples · **he turned the district's council toward evacuation — and then stayed behind on the wall.**
 
 ### STATIC
 - **Public role:** A judge arrived early to walk the tournament ground; broad, comfortable, "a voice like a warm room"; a wool-town northerner risen through the empire's ladder, by his own telling. On-page mostly "the judge."
@@ -12,6 +12,9 @@
 - **Appearance:** Broad and comfortable — weight worn easy, built like good furniture; grey at the temples; nothing about him hurries. People relax around him — which is the instrument.
 
 ### DYNAMIC
+- **Now: inside the district, and STAYING.** He turned the council — his word carried where the First Master's did not, because he is a house's man and Severin is not — and then took himself out of the escape party. **His reason is true and is not the reason:** Corvane has men on the eastern stretch and Corvane's business is his to answer for. **Nobody remarks on it, then or ever.** Under 00 s38 a boat going away from the mountain is no use to him; **the page never points at it.**
+- **He sat in a room with Valeria Vel for two hours and NOTHING about him reached the page.** He gave a judge's vantage, priced the fleet honestly, and **removed himself from his own count of who could hold that wall** — deniable as modesty, readable only by somebody holding 00 s38.
+- The fuse is still unlit and the parents still do not know he ever reached their son.
 - **Now:** inside the nobles' district, having come out into an eighteen-inch gap, taken Valeria Vel through it by the arm, and shut it on Kael.
 - **He ENTERED KAEL TO THE GAMES** under the houseless provision, sealed and lodged in the capital nine days before the standings closed — so he knew where the boy would fall before the boy did — and confessed it to his face, warmly, never once cruel: explained the provision, priced his own gain openly, refused to undo it, said he would not if he could, **asked for nothing**, and pointedly did not ask who had forbidden the boy.
 - **At the gate he does the same thing with the opposite outcome, and neither is cruel and neither is personal.** He states the arithmetic out loud and it is correct — a gap the width of two lets thirty thousand through and the wall falls at noon instead of tonight. He tells Kael the far road closed at the second hour. He refuses to pretend he is sorry in a way that costs him nothing, refuses to ask him for anything, and gives him a true and useful instruction on the way out: get off the road, go high, go east.

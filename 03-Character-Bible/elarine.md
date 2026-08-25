@@ -1,5 +1,5 @@
 ## ELARINE SEDRANE (the watcher — pride that learns)
-**Glance:** the cohort's real mind; collegial ally · House Sedrane · ~13 · **beaten by Kael in the round of 8 and out of the games** · cistern-court alliance standing; the fiction held over the flash.
+**Glance:** the cohort's real mind; collegial ally · House Sedrane · ~13 · **alive, and in the party going out of the district for the boat** · cistern-court alliance standing; the fiction held over the flash.
 
 ### STATIC
 - **Role:** Considers herself the cohort's real MIND (Aurelian its capacity, its name, its noise) — and she is right. With Aurelian: the two responses to being out-thought — his world breaks, hers gets bigger. Proof the golden children are not a monolith.
@@ -15,6 +15,10 @@
 - **Appearance:** Ink-dark hair bound severely; pale, economical — nothing on her that doesn't work; small; dark eyes that price before they blink. Forgettable at a glance and unforgettable the third time you notice she hasn't moved. What others react to: they mostly don't — which she has noticed, and wears as neatness.
 
 ### DYNAMIC
+- **Now: in the escape party**, emptied — mended in public the previous morning and with nothing left in her.
+- **Her mother said goodbye to her and it was the last time.** Instructions first, in the house's only dialect; then the compliment nobody has ever paid her — *"Not one of them has ever been good enough. I have known it since you were four years old, and I have never once said it to you… I was not going to have you softened."* / *"I am not encouraging you. Encouragement is for people who need it."* **Her sheet's wound is answered by her dying mother and by nobody else.** Do not have her repeat it or quote it.
+- **She holds the district's real problem** and stated it: every house its own men and its own orders, nobody over the top, and no house willing to be the one that concedes. Her mother spent the afternoon failing to fix it.
+- **She saw Kael from the wall and gave Valeria one fact about it and no expression.** *I saw him… He was on his own.* She never had a chance to act; never write the morning as though she did.
 - **Now:** ~13; **alive and inside the nobles' district**, seen once from the wall at Ch. 29 by a boy a hundred and forty strides out and below, through smoke. **She never had a chance to act and the page gives her no expression** — Kael got one fact out of it and built a verdict on it, and she does not know he did. Do not correct him; do not later have her account for that morning as though she could have done anything.
 - Out of the games, beaten by Kael in the round of 8; last spoken on the page at the gate of Ch. 26, helped up, announcing the collision.
 - **She lost, and she needed it (Ch. 26).** Fought the empire's doctrine properly, had Kael beaten in the open inside four minutes, knew by the fourth false arrival what he was doing and paid for the fifth anyway, spent her whole treasury in one working, and knelt from exhaustion with both their Arts gone.

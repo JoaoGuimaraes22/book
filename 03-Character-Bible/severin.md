@@ -1,5 +1,5 @@
 ## SEVERIN (the master)
-**Glance:** head of the Temple — THE FIRST MASTER; the family's secret savior and patron · empire past, his own man now · old, the way the split rock is old · **both halves of his Art are on the page (mending Ch. 26, earth Ch. 27); the arena morning is behind him and he has been fetched to the birth (00 s32).**
+**Glance:** head of the Temple — THE FIRST MASTER; the family's secret savior and patron · empire past, his own man now · old, the way the split rock is old · **he walked the Temple's survivors to the district, sat the council, was given the escape party, and left for the mountain ahead of it.**
 
 ### STATIC
 - **Name:** Severin — on-page mostly "the master"; spend the name sparingly so it carries weight.
@@ -13,6 +13,11 @@
 - **Appearance:** Old the way the split rock is old; tall, gone lean, a scholar's stoop that once wasn't. Hair fully grey — the second reading never confirmed. **Eyes dark, near black (author ruling, s34; unspent on any page)** — the one unreadable dark thing in a face gone entirely pale. An enforcer's frame under a master's robes: wrists too thick for the ink they carry. A face that is courteous, unhurried, and gives out nothing it hasn't priced.
 
 ### DYNAMIC
+- **Now:** he walked what was left of four hundred students off the headland to the only wall on the island, argued the district into evacuating, was given the party, and **went on ahead of it toward the mountain without saying why.** He reaches the house at dusk, arriving with Vask and Kael (00 s32/s41).
+- **THE BOAT IS ON THE PAGE AND HE DOES NOT EXPLAIN IT.** Far side of the mountain, eastern water, *a cut below the goat ground*, takes about forty, his own, since the autumn. Asked why, he gave a true answer that answers nothing — *"You may ask me the rest of it when we are standing on the other side of that water"* — and **nobody in that room could make him.** **It is the family's hull** (03 above: *something of his own, kept dry on their side of the mountain*), and he has just committed it to the empire's children. **Nobody on any page knows this but the reader; do not let anyone say it.**
+- **He was right and it was not enough.** He argued the wall down for two hours and the room turned only when a house said it after him. **The second time the reader sees him outreached**, and there is nothing on his face.
+- **He is spent and it shows** — grey all the way through, gone thin, the scholar's stoop sitting on him as weight. The drain reading is louder and is still never confirmed.
+- **Grey all the way through:** his **dark, near-black eyes are now spent on the page** (ruled s34), read off him by Valeria as the one dark thing left in that face, giving out nothing.
 - **Now:** fetched to the mountain, the arena morning behind him — he spent it walking four hundred students toward the northern arch and not looking up again. **This is why he is not on the mountain when the labour begins, and it is his own decision, made on the page.**
 - **His EARTH is spent, and its limit was priced in the same minute (Ch. 27):** he stopped one burning stone in the air over the children — nothing showing, no light, no sound — and did not stop the next. He could hold one; he could not hold two.
 - **His MENDING is spent at scale (Ch. 26):** two bleeding children in front of the empire, Elarine first, nothing showing; his hands were not entirely steady, Kael saw it, and nobody said a word.

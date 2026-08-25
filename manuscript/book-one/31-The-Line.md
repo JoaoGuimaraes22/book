@@ -378,7 +378,7 @@ Something moved in Elarine's face and did not get anywhere.
 
 "Yes."
 
-"Not one of them is quick enough." Her mother's hands did not move on her shoulders. "Not one of them has ever been quick enough. I have known it since you were four years old, and I have never once said it to you, because you did not need saying to and I was not going to have you softened."
+"Not one of them is good enough." Her mother's hands did not move on her shoulders. "Not one of them has ever been good enough. I have known it since you were four years old, and I have never once said it to you, because you did not need saying to and I was not going to have you softened."
 
 Elarine did not answer that.
 
@@ -449,8 +449,6 @@ Valeria waited for the rest of it, because there is always a rest of it.
 "Good," said Drusane.
 
 That was all of it. Then he took his son's face in both hands and held it, and Lucan stood and let him, and after a while the man let go and turned round and walked out toward the wall without looking back, and the boy stayed where he was for a long time after that.
-
-It did not make him a good father. She had watched him fail to stand up for that boy in front of a building two days ago, with the face of a man watching an expense, and a thing at the end does not go back and change a thing at the beginning; sums do not work that way. Both had happened. She set them beside each other, the way you set two readings beside each other when the instrument has given you two, and left them there.
 
 Then she went to find the princess, because she would be walking on her left and it was time to begin.
 

@@ -549,3 +549,15 @@ Two classes are admitted that are not "good lines", and both are explicitly mark
 - the hand going to the knife inside the coat (Ch. 7 → Ch. 22) — third use, now involuntary and twice in one road
 - the downhill language (Ch. 3 / Ch. 4) — not re-minted; what returns is the language itself, in other mouths
 - **INCIDENTAL, NOT AN ECHO — logged so a later session does not "discover" it:** the man behind Kael says *"What was that?"*, four ordinary words that collide with Lucan's Ch. 9 sneer (*"What was that? That wasn't anything."*) where the script stores it inside a longer protected line. **Not deliberate, not deep, and the prose stands** — it is the last ordinary sentence anybody speaks in the book. Full-manuscript parity moved 24 → 26 on this and on *"It will be there in the morning"*, and both are accounted for here.
+
+**Ch. 31 — The Line**
+- "Two of them had both hands free."
+- "It had never once been about"
+- "it is not possible to be cruel to a quantity you have never once had occasion to write down"
+- "It reads as men clearing ground" — RULE-CARRYING: Halden's one true reading, given in the voice you would use about a field. Never warmed up, never explained, never theorised by anybody.
+- "You were always enough"
+- "You were always plenty."
+- "Encouragement is for people who need it."
+- "That was badly done, and I am saying so now, because there is not going to be a later."
+- "She wanted to stand in front of her. She had wanted it her whole life, and nobody had ever had to ask." — RULE-CARRYING: the Vel CORE from inside, with no rationalisation anywhere near it. The seam is the reader's to see and never hers.
+- "I am not a child out of that courtyard."
