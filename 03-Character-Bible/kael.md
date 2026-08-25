@@ -1,5 +1,5 @@
 ## KAEL (protagonist)
-**Glance:** POV protagonist · no house — the herald calls him **"of the Island"**, and the island calls him **THE GHOST** to his face · entered to the games by Halden · **13** · **refused at the district gate for having no house; separated from Valeria and walking east into the emptying, alone**
+**Glance:** POV protagonist · no house — the herald calls him **"of the Island"**, and the island calls him **THE GHOST** to his face · entered to the games by Halden · **13** · **carried up his own road by his father at the last of the light — ribs broken, purse empty, unable to lift his head**
 
 ### STATIC
 - **Role:** POV character; hidden son of Vask (ex-instrument) and Neris (ex-asset) of the program. Carrier of the rare KYNEMIR bloodline through his mother; kinetic affinity is dormant and leashed by training. The Ch. 4 knot is its first raw surfacing; he does not know. Surname unknown until the Temple.

@@ -1,5 +1,5 @@
 ## SEVERIN (the master)
-**Glance:** head of the Temple — THE FIRST MASTER; the family's secret savior and patron · empire past, his own man now · old, the way the split rock is old · **both halves of his Art are on the page (mending Ch. 26, earth Ch. 27); he is in the arena walking children out, six miles from the birth that needs him.**
+**Glance:** head of the Temple — THE FIRST MASTER; the family's secret savior and patron · empire past, his own man now · old, the way the split rock is old · **both halves of his Art are on the page (mending Ch. 26, earth Ch. 27); the arena morning is behind him and he has been fetched to the birth (00 s32).**
 
 ### STATIC
 - **Name:** Severin — on-page mostly "the master"; spend the name sparingly so it carries weight.
@@ -13,7 +13,7 @@
 - **Appearance:** Old the way the split rock is old; tall, gone lean, a scholar's stoop that once wasn't. Hair fully grey — the second reading never confirmed. **Eyes dark, near black (author ruling, s34; unspent on any page)** — the one unreadable dark thing in a face gone entirely pale. An enforcer's frame under a master's robes: wrists too thick for the ink they carry. A face that is courteous, unhurried, and gives out nothing it hasn't priced.
 
 ### DYNAMIC
-- **Now:** in the arena, spending the morning walking four hundred students toward the northern arch and not looking up again. **This is why he is not on the mountain when the labour begins, and it is his own decision, made on the page.**
+- **Now:** fetched to the mountain, the arena morning behind him — he spent it walking four hundred students toward the northern arch and not looking up again. **This is why he is not on the mountain when the labour begins, and it is his own decision, made on the page.**
 - **His EARTH is spent, and its limit was priced in the same minute (Ch. 27):** he stopped one burning stone in the air over the children — nothing showing, no light, no sound — and did not stop the next. He could hold one; he could not hold two.
 - **His MENDING is spent at scale (Ch. 26):** two bleeding children in front of the empire, Elarine first, nothing showing; his hands were not entirely steady, Kael saw it, and nobody said a word.
 - **He is the second mouth.** Kael has heard the downhill language from exactly two mouths — his mother's and, once, the master's at his own table (Ch. 4) — and the men at the eastern gate speak it. The page names neither and draws no line. **Never explain it.**

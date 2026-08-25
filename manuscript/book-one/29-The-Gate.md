@@ -326,8 +326,6 @@ What he had not done, having never in his life held the information required for
 
 It went on.
 
-It was still going when he came down off the high ground into the first of the olive terraces. It was still going when he put himself flat behind a wall and let four men pass on the track below him, close enough that he could hear one of them was out of breath. It was still going when he got up afterwards and went on.
-
 It did not arrive in a piece. It came the way rain comes onto a roof, with no part of it being the loud part, and every so often something came up over the top of it that had one person inside it.
 
 And the cold voice, which had counted two in a settlement yard when he was nine and five in a lane before noon and did not care in the slightest what it was counting, started on the hillside behind him.
