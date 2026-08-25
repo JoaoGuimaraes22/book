@@ -1,5 +1,5 @@
 ## SEVERIN (the master)
-**Glance:** head of the Temple — THE FIRST MASTER; the family's secret savior and patron · empire past, his own man now · old, the way the split rock is old · **he walked the Temple's survivors to the district, sat the council, was given the escape party, and left for the mountain ahead of it.**
+**Glance:** head of the Temple — THE FIRST MASTER; the family's secret savior and patron · empire past, his own man now · old, the way the split rock is old · **he has brought the escape party — and the army behind it — to the mountain house, and he is taking the delivery.**
 
 ### STATIC
 - **Name:** Severin — on-page mostly "the master"; spend the name sparingly so it carries weight.
@@ -18,7 +18,8 @@
 - **He was right and it was not enough.** He argued the wall down for two hours and the room turned only when a house said it after him. **The second time the reader sees him outreached**, and there is nothing on his face.
 - **He is spent and it shows** — grey all the way through, gone thin, the scholar's stoop sitting on him as weight. The drain reading is louder and is still never confirmed.
 - **Grey all the way through:** his **dark, near-black eyes are now spent on the page** (ruled s34), read off him by Valeria as the one dark thing left in that face, giving out nothing.
-- **Now:** fetched to the mountain, the arena morning behind him — he spent it walking four hundred students toward the northern arch and not looking up again. **This is why he is not on the mountain when the labour begins, and it is his own decision, made on the page.**
+- **NOBODY FETCHED HIM** (author, s42). He came up that mountain at the head of fifteen people, of his own accord, hours after the labour began, because the road to his hull crosses it. He spent the arena morning walking four hundred students toward the northern arch and not looking up again, which is why he was not there when it started, and it was his own decision, made on the page.
+- **He owned it out loud to Vask** — *I have brought all of this onto your mountain. I know what that is* — and got four words back.
 - **His EARTH is spent, and its limit was priced in the same minute (Ch. 27):** he stopped one burning stone in the air over the children — nothing showing, no light, no sound — and did not stop the next. He could hold one; he could not hold two.
 - **His MENDING is spent at scale (Ch. 26):** two bleeding children in front of the empire, Elarine first, nothing showing; his hands were not entirely steady, Kael saw it, and nobody said a word.
 - **He is the second mouth.** Kael has heard the downhill language from exactly two mouths — his mother's and, once, the master's at his own table (Ch. 4) — and the men at the eastern gate speak it. The page names neither and draws no line. **Never explain it.**
@@ -31,6 +32,6 @@
 - **Knowledge valves (00):** untouched.
 
 ### FORWARD
-- **THE CHAIR COSTS HIM THE DELIVERY (00 s26/s32):** he is above the sand when Neris goes into labour, because that is what the chair is for, and he must be fetched; he reaches the house, and she gives birth with his help — alone for the start of it, not the end. The old enforcer who learned to mend, held away from the one person who needs the mending by the empire's answer to a rule it could not enforce. **Never remark on it.**
+- **THE CHAIR COSTS HIM THE DELIVERY (00 s26/s32/s42):** he is above the sand when Neris goes into labour, because that is what the chair is for, and **nobody comes for him**; he arrives hours late under his own power, and she gives birth with his help — alone for the start of it, not the end. The old enforcer who learned to mend, held away from the one person who needs the mending by the empire's answer to a rule it could not enforce. **Never remark on it.**
 - **Endgame:** open (00) — what he does with Wren, the extraction's true nature, whether the doctrine curdles.
 - **Status:** extracts Neris and the newborn during the fire; vanishes with them. Fate and whereabouts unknown.

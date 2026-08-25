@@ -1,5 +1,5 @@
 ## OSTRIAN "OSS" VESSALINE (the almost-friend — warmth that fails)
-**Glance:** the almost-friend; the reader's guide to the Temple · House Vessaline (merchant; a bought name) · ~13 · estranged from Kael — "It was just a seat." · **ALIVE, inside the district, and in the party going out for the boat — and Kael does not know.**
+**Glance:** the almost-friend; the reader's guide to the Temple · House Vessaline (merchant; a bought name) · ~13 · estranged from Kael — "It was just a seat." · **ALIVE, and standing in Kael's yard — the estrangement is now face to face and neither of them has anything.**
 
 ### STATIC
 - **Role:** Youngest son of an archipelago merchant house that bought its way into the register — new money wearing old ornament; every old-blood child hears the reach in "Vessaline." The first to reach Kael; Temple names, houses, and ranks delivered as characterization.
@@ -12,7 +12,7 @@
 - **Appearance:** Soft-built, round-faced, quick-eyed; expressive hands that talk when he does, which is always. Everything he wears slightly too new — cloth that hasn't learned him yet (the bought name as wardrobe). A face built for laughing that watches carefully between laughs.
 
 ### DYNAMIC
-- **HE IS ALIVE (author, s41 — reverses the Ch. 27 *resolve nothing*).** He reached the district and is in the escape party. **KAEL DOES NOT KNOW AND IS NOT TOLD**, and the two of them leave the island in different directions. The arc is untouched: the wound he owes Kael, and the courage he will not repeat under load, are both still ahead.
+- **HE IS ALIVE, AND KAEL HAS SEEN HIM (author, s41, amended s42 — the *Kael does not know* half is retired).** He came up that path three behind Aurelian, saw Kael standing armed in his own yard, got half a step forward and was moved on by the line. **Neither of them got one word out.** The arc is untouched: the wound he owes Kael, and the courage he will not repeat under load, are both still ahead — and the story is about to ask him for it on that mountain.
 - **His father said goodbye and it was the last time.** Held on to by two people at once and managing none of it; his father spent his last words on the coat and on eating, and **did not mention the bought name once** — the name that had cost him most of what he owned and had been the whole subject of his life. *"You were always enough. You were always plenty."*
 - The old houses along that wall all looked at something else at the same moment, which was the only kindness Valeria saw an old house do that day.
 - **Now:** found and lost (Ch. 27). Three rows up in the north curve, hands going, turned the wrong way against the flow to get a smaller boy off the bench behind him — then the curve stood up as one thing and he was inside it. **RESOLVE NOTHING:** not seen dead, not seen living; the last thing he is doing on any page is the one act of courage this sheet says he cannot repeat under load.

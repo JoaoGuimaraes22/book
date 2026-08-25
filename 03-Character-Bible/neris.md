@@ -1,5 +1,5 @@
 ## NERIS (the mother)
-**Glance:** Kael's mother; teacher of the mind · ex-asset of the program — bearer of the Kynemir bloodline (00) · age unpinned, **and the same as Vask's (author, s34)** · **in labour since the third bell — alone for the start of it, not for the end (00 s26/s32).**
+**Glance:** Kael's mother; teacher of the mind · ex-asset of the program — bearer of the Kynemir bloodline (00) · age unpinned, **and the same as Vask's (author, s34)** · **in labour since the third bell, alone for the whole of it but the last; drained to the mark mending her son, and minutes from delivering.**
 
 ### STATIC
 - **Name:** Chosen, not given (00). Belongs to no naming register; villagers assume it foreign; its true nature is sealed — never explain on the page.
@@ -11,7 +11,12 @@
 - **Appearance:** Dark-haired, dark-eyed; passes as village until she is still — then the stillness has a quality the village doesn't make. Fine bones under worked hands; the hands know too many trades — the lie's weak point. Handsome and unremarkable in the same breath, with ages of watching in the face.
 
 ### DYNAMIC
-- **Now:** hours or days from delivery and her body is showing it — *"Tonight. Tomorrow. This week."*, said the way she says the result of a trial. For the first time in the book she did not come to the door when Kael left (Ch. 27); he registered it and went.
+- **Now:** minutes from delivering, on a fleece on her own floor, with a princess of the empire in her yard and a fight coming up the path.
+- **SHE IS MARKED.** She spent nature — out of her own element, in labour — on her son's broken ribs, went deep, and **her hair carries the drain-streak in two places, quartz-clean and permanent.** She was managing before he was carried in. Nobody on any page does that arithmetic.
+- **Her capacity is spent.** Whatever she does from here she does on steel and skill and nothing else.
+- **She said it plainly, once:** whatever happens in that house, her sons must live. The only time she has ever put it in words.
+- **She let her son take the count off her**, and did not soften anything for him.
+- **Previously:** hours or days from delivery and her body was showing it — *"Tonight. Tomorrow. This week."*, said the way she says the result of a trial. For the first time in the book she did not come to the door when Kael left (Ch. 27); he registered it and went.
 - **She has stopped, twice, and the stopping is the beat:** handed the royal summons (Ch. 25) she asked three questions and closed the file; when Kael stopped his own telling for the first time in eleven years (Ch. 27) she handed him back her own sentence — *"It will be there in the morning."* She had never once stopped before. The love is in the stopping and is stated by no one; Kael cannot work out what has happened to him.
 - **Eight or nine months pregnant and teaching harder than she ever has.** Works past her hour, which she has never done; rearranged the table's whole surface a week before she needed to so that nobody would watch her need it.
 - **Has moved Kael into formal scientific vocabulary on purpose** — retiring far-counting, what fire eats and the standing game to his face as the words of a child — and gives no source for the new ones: *"It is true, and it is not the reason. Ask me in a year."* The fingerprint has stopped being deniable and the seal is untouched: no name, no source, no doctrine (02/curriculum).
@@ -22,6 +27,6 @@
 - **Knows:** the escalation (via Severin); the public flash, in full — she debriefed him on it herself; the bouts and the blades, told whole. **Does not know:** the hidden contact; the bind idea; that Kael cracked her night-watch pattern; that he knows the sea never freezes; who Halden is — the name meant nothing to her.
 
 ### FORWARD
-- **The birth (00 s26/s32):** the labour begins as the semifinals begin and Severin is above the sand, so the one mitigation the family built the whole winter around is absent at the hour it was built for; he is fetched and reaches her, and she gives birth with his help. Her survival of the delivery stays UNCONFIRMED.
+- **The birth (00 s26/s32/s42):** the labour begins as the semifinals begin and Severin is above the sand, so the one mitigation the family built the whole winter around is absent at the hour it was built for; **nobody fetches him** — he arrives of his own accord, hours late, at the head of the district's escape party — and she gives birth with his help. Her survival of the delivery stays UNCONFIRMED.
 - **The chest (00):** her old dagger lies under the floorboards with Vask's sword; it becomes one of Kael's dual-dagger pair. How it reaches him is OPEN — she is extracted, so it does not pass by her hand. Whether the Ch. 4 night-watch blade IS this dagger is a VALVE: never resolve.
 - **Status:** separated in the fire; extracted with the newborn by Severin; fate unconfirmed — a low flame under the whole series. She becomes MYSTERY as Vask becomes MEMORY: Kael's archaeology of his father ends; his archaeology of his mother never does.

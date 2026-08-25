@@ -1,5 +1,5 @@
 ## AURELIAN CORVANE (the ringleader — pride that breaks)
-**Glance:** the cohort's presumptive best; ringleader → training ally · House Corvane · ~13 · **alive, and in the party going out of the district for the boat**; the arm still not right · cistern-court ally.
+**Glance:** the cohort's presumptive best; ringleader → training ally · House Corvane · ~13 · **alive, at the mountain house, the arm still not right** · cistern-court ally.
 
 ### STATIC
 - **Role:** The cohort's best before Kael arrives; capacity-worship made flesh; the face of the science-vs-pride engine. Sealed irony (00): his mockery of Kael's method is the empire failing to recognize its most wanted asset.
@@ -11,7 +11,9 @@
 - **Appearance:** Tall for his cohort, built a year ahead of his age; dark-gold hair; **amber, gold-brown eyes — author ruling s34, unspent on any page**; high carriage; unspent strength Kael prices on sight. Beautiful and knows the exact weight of it — the bench behaves differently in his radius (render the radius, not the adjective). Fire's warmth in the coloring without stating it — it sits in the hair and the eyes together, and is never named as fire.
 
 ### DYNAMIC
-- **Now: in the escape party**, carrying the arm from Meloran through a second day and still pretending about it. Valeria made him sit down.
+- **Now: at the mountain house**, sitting against the wall of it with the arm across his body — and he is the one who says out loud what the yard has just watched happen: *He has been telling us for four years that everything is measurable and we have all been extremely funny about it.* **He gets no laugh and does not want one.**
+- **He stood in the yard, saw where he was, and decided not to say any of it.**
+- **Previously: in the escape party**, carrying the arm from Meloran through a second day and still pretending about it. Valeria made him sit down.
 - **His father said goodbye and gave him the thing he has wanted his whole life, too late.** A message to carry to the brother, and then: *"I have two sons. I have never once had a favourite, and I have let a great many people believe otherwise, because it was useful. It was useful to me. It was not useful to you… That was badly done, and I am saying so now, because there is not going to be a later."* **Aurelian, who answers everything, did not answer that.** He does not raise it afterwards.
 - **He gave Kael's exclusion as flat arithmetic and did not spare himself:** *"a house stands for its own. Yes. Of course."* He never had a chance to act; never write the morning as though he did.
 - Calls her **Val** without thinking about it.

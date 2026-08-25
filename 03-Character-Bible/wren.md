@@ -1,5 +1,5 @@
 ## WREN (the brother)
-**Glance:** Kael's brother; second carrier of the Kynemir bloodline · the mountain house · not yet born — **his mother has been in labour since the third bell** · off-page.
+**Glance:** Kael's brother; second carrier of the Kynemir bloodline · the mountain house · not yet born — **minutes away**, with a fight starting in the yard · off-page.
 
 ### STATIC
 - **Name:** Wren — the mother teaches languages "for the birds"; her second son is a bird. Chosen with the full weight of the names-as-rebellion canon (00).

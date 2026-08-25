@@ -242,18 +242,17 @@ His father took that. He came back into the middle of the room and stood there w
 
 He said it the way people say their own name.
 
-"They came off the boats onto every beach on the west and the south. They have worked inland all day. They took the village. They took the district road. What went past us on the east this evening was going over toward the goat ground. They will not have stopped for the dark. Men who intend to hold ground stop for the dark. Men who intend to clear it do not." He put one hand flat on the table. "Moving her in this state, would be dangerous itself. So it happens here. We hold this house until she is finished. Then we go over the shoulder and down the far side to the water, and we put her and the child in that boat. I do not care what we walk through to do it."
+"They came off the boats onto every beach on the west and the south. They have worked inland all day. They took the village. They took the district road. What went past us on the east this evening was going over toward the goat ground. They will not have stopped for the dark. Men who intend to hold ground stop for the dark. Men who intend to clear it do not." He put one hand flat on the table. "Moving her in this state would be dangerous in itself. So it happens here. We hold this house until she is finished. Then we go over the shoulder and down the far side to the water, and we put her and the child in that boat. I do not care what we walk through to do it."
 
 Then he went out into the yard.
 
 He came back with two short blades.
-He did not say where they had come from. 
+
+He did not say where they had come from.
 
 These two did not match at all. One had a straight guard and the other had none. The grips were wrapped in two different colours of cord, both worn shiny, and the shorter one had a nick out of the edge two inches from the point that had been dressed out by somebody who knew how.
 
-His father crouched down and put them on the boards beside his son's right hand where he could reach them lying down.
-
-He put them down where the boy could reach them, and stood up, and went back to the door.
+His father crouched down and put them on the boards beside his son's right hand, where he could reach them lying down, and stood up, and went back to the door.
 
 Kael did not say thank you, because it would have made it a smaller thing.
 

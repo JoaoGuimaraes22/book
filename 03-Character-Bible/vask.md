@@ -1,5 +1,5 @@
 ## VASK (the father)
-**Glance:** Kael's father; teacher of the body · ex-instrument of the program, hidden · age unpinned, **and the same as Neris's (author, s34)** · alive · **he came down off his own mountain, found his son six miles out at the end of the day, and has been seen at TRUE CAPACITY.** The coalition knows him as **THE PHANTOM** (00).
+**Glance:** Kael's father; teacher of the body · ex-instrument of the program, hidden · age unpinned, **and the same as Neris's (author, s34)** · alive · **home, holding his own yard, with his wife delivering inside it and an army coming up the path.** The coalition knows him as **THE PHANTOM** (00).
 
 ### STATIC
 - **Name:** Chosen, not given (00). One closed syllable, a tool being set down; worn the way soldiers' names get worn.
@@ -11,7 +11,12 @@
 - **Appearance:** Broad through the shoulders and no further — an instrument's economy, not bulk; fills a doorway by carriage. Iron-dark hair **greying early** at the temples — ahead of his age, the *past its years* of the face carried by the hair; iron-dark eyes (both parents dark-eyed — Kael's grey is no one's). A face like used tools, weathered past its years. Scars on-page: the long seam, the through-wound pair, the tally-like forearm marks ("A bad employer"). Hands permanently half-curled, as if around something set down. Moves exactly as much as required.
 
 ### DYNAMIC
-- **Now:** carrying his son up the mountain at the last of the light, at a speed no ground goes past at.
+- **Now:** between the path and his own door with the longsword in his hand, running a defence he did not choose on ground he has known for thirteen years.
+- **HE ANSWERED THE TWIN-SHORTS PROHIBITION WITH AN ACTION.** Into the shed, back with two blades that do not match, put down within his son's reach, and not one word about the arena. The fence is dead because the world that needed it is dead.
+- **He handed the ground to a thirteen-year-old in front of twelve royal guardsmen** — *Ask my son* — and then did not argue with any of it, which is the only reason nobody else did.
+- **He asked his son a question with no use in it**, which he has never once done, and did not pretend otherwise when it was noticed.
+- **He let the master bring fifteen of the empire's people onto his mountain**, and spent four words on it.
+- **Previously:** carrying his son up the mountain at the last of the light, at a speed no ground goes past at.
 - **HE HAS BEEN SEEN, AND THE RULE IS SPENT (Ch. 30).** Whole-body threading — lightning held in the entire body at once and *not coming off*, the inward art in the wrong element (02/magic); a longsword out of the chest with the same white the length of it; a speed that reaches Kael as ABSENCE rather than as motion. He was breathing hard. **He does not beat the general** — four or five exchanges, no ground given either way — he interrupts, kills the ordinary men, and takes his son out. Never let a later page explain any of it.
 - **THE COALITION'S SENIOR COMMAND KNOWS HIM ON SIGHT (Ch. 30).** *"Well. The Phantom." … "You have aged."* He answers nothing. **Kael heard it.** Never joined up on any page, by anybody, ever (00 §THE PHANTOM).
 - **HE SPENT THE LEG ON THE SON (00 s39).** Split three ways, holding two at most, he went for Kael — which means somebody else was holding the house. **The page never says so and Kael is never given the arithmetic.**

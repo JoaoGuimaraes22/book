@@ -561,3 +561,12 @@ Two classes are admitted that are not "good lines", and both are explicitly mark
 - "That was badly done, and I am saying so now, because there is not going to be a later."
 - "She wanted to stand in front of her. She had wanted it her whole life, and nobody had ever had to ask." — RULE-CARRYING: the Vel CORE from inside, with no rationalisation anywhere near it. The seam is the reader's to see and never hers.
 - "I am not a child out of that courtyard."
+
+- **Ch. 32 — "The Mountain"**
+  - "Ask my son." *(Vask, handing his mountain to a thirteen-year-old in front of the empire's professionals)*
+  - "That is the woman's son." *(Severin, to the captain)*
+  - "Then we hold this house." *(Vask; said the way people say their own name)*
+  - "Whatever happens in this house tonight. You and this baby. You must live." *(Neris — RATIFIED VERBATIM, the author's own wording)*
+  - "I want you to know that I looked." *(Severin — the promise answered without either of them naming it)*
+  - "the white of the seam in a stone when you split it" *(the drain-mark's first rendering as an event)*
+  - "Men who intend to hold ground stop for the dark. Men who intend to clear it do not."
