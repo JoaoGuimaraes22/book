@@ -2,6 +2,12 @@
 
 **This folder is self-contained on purpose (author ruling, s34).** `CLAUDE.md` carries one line about it and nothing else, so the plate system costs no context in a writing session. **Everything that governs image generation lives here.** Read this file first when doing plate work; ignore the folder entirely otherwise.
 
+**NAMED NEXT (author, s40): CH. 5.** Its pick, *past the split rock*, is the deliberate bookend to the adopted `ch01-fallen-stars` — same lights, same child, same place, and this time nobody turns his chin down. Candidates are on `plates/candidates.md`; the sheet is not written yet.
+
+**READY TO FIRE, no work needed:** seven built prompts have never been run — `ch01` the-catch · room-of-true-things · telling-the-goat · talking-the-goat-down · `ch02` done · `ch04` the-master-arrives · `ch08` seeing-about-the-goat. **Take the Ch. 8 doorway early:** it is the light-from-below rematch, and it gates Aurelian's candle in Ch. 9, which his sheet calls the best image of him in the book.
+
+**ONE DECISION THE AUTHOR HAS NOT MADE:** the plate set is not yet consistent in finish — the doorframe is glossier than the long game, the knot and the wrist tighter than the pasture. Fine one at a time, visible in one book. `THE INK CARRIES THE CLOTH` looks like the lever. Easier settled at eight plates than at forty.
+
 **A PLATE SESSION DOES NOT OPEN WITH A LIST OF WHAT IS OWED (author ruling, s40).** Audit notes in these files are the record of what was considered, not a queue. Nothing here is outstanding unless the author says it is; open on the work the author names.
 
 **CONTRACT:** the reader-facing illustrations, and the method that makes them.
