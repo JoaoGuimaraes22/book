@@ -241,6 +241,24 @@ The rule above says redundancy competes. **The stronger claim, and it is now evi
 
 **The test before cutting a repetition: name what the clause forbids, then find where else that thing is forbidden.** If nowhere, it is not a repetition and it stays. Compression is measured in channels covered, never in words.
 
+### Name both temperatures (s41)
+
+**Whichever temperature a plate does not name is the one that disappears.** Two plates in this folder have failed on colour and they failed identically, from opposite ends:
+
+- `plates/ch05.md`, the two pails — a cold picture that banned warm colour and named no hues positively. **It came back greyscale.**
+- `plates/ch08.md`, the hand over the face — a warm picture lit by one lamp, with everything else held *dark and loose* and no colour named for the dark. **It came back one uniform brown, with no bare paper anywhere and the ink softened into the wash.**
+
+**A picture needs both, and the one you leave unstated collapses into the other.** So say where the warm stops and what colour the dark is:
+
+> *The warm light stops where it stops, and everything beyond it is cool grey and grey-blue, with no brown and no warm colour anywhere outside the lamp's reach.*
+
+**Two supports that go with it**, both drawn from the plates that did not go muddy:
+
+- **Reserve something as bare paper and say what.** The fixed STYLE block asks for *generous bare unpainted paper* and a night interior will honour none of it unless two or three specific objects are named — a flame, a cut loaf, a window, frost.
+- **Protect the ink.** *Held dark and loose with no hard edges* softens the linework along with everything else, and the ink is what the house look is made of. Say the ink stays the strongest element in the quiet areas.
+
+**The adopted counter-examples both name the cool by hand:** `ch01-fallen-stars` — *everything above them is cold: rock, cloth, hair, sky*; `ch09-aurelians-candle` — *everything behind him stays cold, and no warm colour touches any of it.*
+
 ### A colour ban is read as a saturation ban (s41)
 
 **Never ban a hue. Ban the source that would produce it, and require the hue you want by name.**
