@@ -190,21 +190,23 @@ He got that far and then he could not go any further with it, so he set it down,
 
 "Not now."
 
+He looker at her belly.
+
 "Two hundred and forty seconds."
 
 There was a silence with a lot of breathing in it.
 
 "Say that again," his mother said.
 
-"Between your pains. Two hundred and forty seconds from the end of the one before to the start of the one that has just had you." He had started the count the first time her hand tightened in his hair and had not put it down since. "The pains themselves ran a hundred and six and a hundred and two. That is two pains and one gap, and one gap is not anything. Give me an hour and it will be."
+"Between your pains. Two hundred and forty seconds from the end of the one before to the start of the one that has just had you." He had started the count the first time her hand tightened in his hair and had not put it down since. "The pains themselves ran a hundred and six and a hundred and two."
 
-"How are you counting."
+"What— how are you counting."
 
 "The way you taught me."
 
-"With everything else that is happening in this house."
+"With everything else that is happening around us..."
 
-"It doesn't stop," Kael said. "It has never stopped. It went on counting people this morning while I was—" He shut that one. "It doesn't stop."
+"It doesn't stop," Kael said. "It has never stopped. I went on counting people this morning while I was—" He shut that one. "It doesn't stop."
 
 His mother lay on the fleece with the light going across the white in her hair and looked at the ceiling of her own house.
 
@@ -212,13 +214,17 @@ His mother lay on the fleece with the light going across the white in her hair a
 
 "I know."
 
-"You will call every one of them and you will not soften anything and you will not tell me it is going well when it is not going well. It is the gap I want, not the length. When the gap comes under eighty seconds you say so, and you say it across the room if you have to say it across a room."
+"Then you will hold it for me. The contractions and the gaps between them, both. You will call every one of them and you will not soften anything and you will not tell me it is going well when it is not going well."
 
 "No."
 
-"Say it back."
+"It is the gaps I want. The contractions tell me nothing I do not already know. The gaps tell me when. When a gap comes under eighty seconds you say so, and you say it across the room if you have to say it across a room, because by then this baby is coming whether or not anybody in this house is ready for it."
 
-"Every one, out loud, and no softening. The gap and not the length. Under eighty, across the room. And I tell you the number even if the number is bad."
+"Yes."
+
+"Give it to me, in order."
+
+"Every contraction, out loud, and no softening. The gaps and not the lengths. Under eighty, across the room. And I tell you the number even if the number is bad."
 
 "Good," said his mother. "That is your job. Do not put it down."
 
