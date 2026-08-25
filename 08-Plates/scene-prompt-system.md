@@ -85,7 +85,7 @@ Aeliana, the armour only to Valeria, and Kael wears neither.
 
 ## Getting expression and emotional beats
 
-- **"Nothing is happening"** stops the model importing drama into a quiet scene. Without it, two armed characters default to confrontation.
+- **"Nothing is happening"** stops the model importing drama into a quiet scene. Without it, two armed characters default to confrontation. **SCOPE IT (s37): that evidence came from two armed characters, and it does not generalise.** The author stripped this paragraph from essentially every plate run this session — a woman in a doorway, a boy at a fence post, a family on a hillside — and no drama arrived. **Keep it where the subject carries an implication of violence or event; drop it everywhere else.** It is two lines of dilution in a picture of somebody standing still.
 - **Point at the mouth, not the abstraction.** *Mouth open mid-word* reads as talking; "conversing" doesn't.
 - **Warmth without breaking character.** Valeria's canon expression is unimpressed and tired; *not smiling — just not braced* got friendliness without turning her into someone else.
 - **State contradictions as contradictions.** For the kneel: *the body is deferential and the attention is not.* Without that line the model resolves it into an ordinary bow.
@@ -165,6 +165,8 @@ The retracted claim generalised from a single unconfirmed reading of `ch01-falle
 ### Negative inventory works on animals too (s37)
 
 *ONE GOAT, and only one — no second goat, no herd on the slope behind, no dog, no bird, no other animal anywhere in the picture* held completely. Same shape as the hand inventory and the costume ownership rule: **name the absences, not just the presence.**
+
+**AND THE LIMIT ON IT, learned the same session: ban what could plausibly arrive, not everything that could theoretically arrive.** *ONE GOAT and only one — no herd on the slope behind* worked because **a goat implies a herd**: the thing was already in the picture and could multiply. *No child, no man, no animals* in a portrait of a woman in a doorway bans things nothing in the prompt suggests, and the author cut those lines from every run with no strays appearing. **A negative earns its place when something in the picture pulls toward the thing being banned** — a herd behind a goat, a figure in a lit doorway, a second blade near a swordsman, a face where the framing has hidden one. Otherwise it is padding, and padding costs the instructions that matter.
 
 ### Four figures
 
