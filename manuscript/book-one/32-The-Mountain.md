@@ -210,23 +210,17 @@ There was a silence with a lot of breathing in it.
 
 His mother lay on the fleece with the light going across the white in her hair and looked at the ceiling of her own house.
 
-"I have had nobody to hold it since the third bell," she said. "I have been losing it and starting again. Losing it is worse than not having it."
-
-"I know."
-
-"Then you will hold it for me. The contractions and the gaps between them, both. You will call every one of them and you will not soften anything and you will not tell me it is going well when it is not going well."
-
-"No."
-
-"It is the gaps I want. The contractions tell me nothing I do not already know. The gaps tell me when. When a gap comes under eighty seconds you say so, and you say it across the room if you have to say it across a room, because by then this baby is coming whether or not anybody in this house is ready for it."
+"Kael."
 
 "Yes."
 
-"Give it to me, in order."
+"The baby is coming. I can feel it." Her head turned on the fleece toward him. "At the worst time."
 
-"Every contraction, out loud, and no softening. The gaps and not the lengths. Under eighty, across the room. And I tell you the number even if the number is bad."
+Kael did not have anything to put there.
 
-"Good," said his mother. "That is your job. Do not put it down."
+"I want you to know something, and I am going to say it once, because I may not get a better minute than this one." Nothing at all happened in her voice while she said it. "Whatever happens in this house tonight. You and this baby. You must live."
+
+Kael could not answer that, and she did not wait for him to.
 
 ---
 
@@ -236,7 +230,7 @@ He had been at the door for some while. He stood in it the way he stood at the b
 
 "How long," he said, without turning round.
 
-"On what she has given me? Hours. Three, four. It could be one." Kael put his head back on the fleece. "She wants to be told when the gap is under eighty seconds. It is nowhere near eighty."
+"Hours. Three, four. It could be one." Kael put his head back on the fleece. "The gaps are nowhere near eighty seconds yet. Under eighty and it is close."
 
 "Can she be moved."
 
