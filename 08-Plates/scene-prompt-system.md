@@ -140,25 +140,27 @@ Proven twice, in two different domains:
 
 **The reusable shape is two clauses: hold the rival at quiet middle values with no hard edges, then site the sharpest step from light to dark on the winner.** It was recorded as an eye technique. It is a picture technique.
 
-### A prompt is an instruction, not an explanation (s37)
+### Write for an image generator, not for a reader (s37)
 
-**The single biggest source of waste in this folder's prompts, and it is a writing habit rather than a technique.** Prompts get drafted like documentation — each idea in its own capitalised paragraph, with the reasoning attached — and the reasoning is addressed to a person who is not going to read it. The author cut roughly a third of the Ch. 3 back prompt without removing one instruction, and the result was better. What came out:
+**A prompt is a specification.** It is read by something that turns clauses into pixels and has no use for meaning, intent, rhetoric or good prose. The habit this folder keeps falling into is writing prompts the way it writes documentation — each idea in its own paragraph, with the reasoning attached, in flowing natural language — and the reasoning is addressed to a person who is not there.
 
-- **Rationale.** *This low viewpoint is deliberate and it is what tells you who is watching* · *and they are the reason for the picture* · *the absence is deliberate.* **Keep the priority, cut the justification.** *X is the subject of the image* is a priority instruction and works; *and here is why X matters* is a note to a colleague.
-- **One fact stated three times.** *His face is not in this picture* in the reference line, `NO FACE AND NO HEAD FEATURES ARE VISIBLE` in the composition, and *he is not turning and not looking back* after it. Say it once.
-- **Negations with no pull** — *no wound, nothing fresh, nothing red and no blood* on a body described as long healed; *no cloth, no soap, no bucket, no tool.* The rule already exists in this file and it applies to inline lines, not only to boilerplate paragraphs.
-- **Numbers doing no work.** *At the eye height of a child of eight* → *at the eye height of a child.* The number was for the author's benefit.
+**LENGTH IS NOT THE METRIC.** The pasture prompt runs to 959 words and every one of them is doing work. A 300-word prompt that states one fact three ways is the worse document. What gets cut is **redundancy and rhetoric**, never detail.
 
-**And structure: one capitalised paragraph per idea destroys the emphasis it is spending.** Fifteen shouted headers means nothing is prioritised. Merge related instructions into a few dense blocks and reserve caps for the two or three things that will actually fail.
+**1. Each fact once, in the place it belongs.** The Ch. 3 back draft said the face was not visible three times — in the reference line, in the composition, and again after it. Restatement does not reinforce; it competes.
 
-**Test before adding a line: could a renderer draw something different because of it?** If not, it is for the sheet's prose, not the prompt.
+**2. Every clause must be able to change a pixel.** *Could a renderer draw something different because of this line?* If not, it belongs in the plate sheet's prose. This is the whole test.
 
-**THE RULE LIVES HERE AND NOWHERE ELSE.** `scripts/check-prompts.sh` reports against the block below and holds no thresholds and no wordlist of its own — it reads them from this file, the way `build-prompts.sh` reads the prompts. **To change what counts as bloat, edit this block.** Both numbers are arbitrary and were set from the prompts that worked; the wordlist is clauses addressed to a person. *X is the subject of the image* is deliberately absent — that is a priority instruction and it works.
+**3. Specify, do not narrate.** Say where the subject is, what it is doing, what is in each hand, which values are where. Do not explain what the picture means or why a choice was made — *this low viewpoint is what tells you who is watching*, *and they are the reason for the picture*, *the absence is deliberate* are all notes to a colleague. **A priority instruction is not rhetoric:** *X is the subject of the image* is documented as working and stays.
 
-```
-BUDGET: 550 words · 6 capitalised openings
-RATIONALE: is deliberate · are deliberate · was deliberate · that is why · which is why · which is what tells · the reason for · the whole point · on purpose · in order to · this matters
-```
+**4. Concrete relationships beat adjectives.** *Very small* and *a toddler, not a boy of seven* both failed; *the top of his head reaches roughly the man's hip* worked. See §Scale between figures. The same applies to value, position and size throughout — name the landmark, the fraction, the comparison.
+
+**5. Emphasis is scarce and spends itself.** One capitalised paragraph per idea leaves nothing prioritised. Merge related instructions into dense blocks and shout only at the two or three things that will actually fail.
+
+**6. A negative needs something pulling toward it.** See §Negative inventory. *No wound, nothing fresh, nothing red* on a body already described as long healed is banning what nothing suggested.
+
+**7. Say it in the register the tool answers in.** Short declaratives, concrete nouns, no subordinate clauses carrying conditions, no asides. Where two instructions describe one object, join them (§Describe a limb as a chain).
+
+**The worked example is the Ch. 3 back** (`plates/ch03.md`): the author's compression cut roughly a third of a drafted prompt without losing a single instruction, and the result was better. That diff is what this section is written from.
 
 ### Scale between figures — STATE IT AS MEASUREMENT (s37)
 
