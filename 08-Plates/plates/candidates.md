@@ -45,9 +45,9 @@ Every entry was checked against **THE PLATE FOLLOWS THE PAGE** when it was writt
 
 ## Ch. 4 — The Visitor
 
-1. ★ **The blade across her knees.** Neris at the window in the dark, back straight, face to the sea, the unsheathed blade lying across her knees with her hands resting on it the way they rest on bread dough. **Her sheet says this plate is already composed by this chapter, and it is right.** Back, window, sea, blade, hands.
-2. **The master comes up the path.** Severin arriving in the yard, seen from a nine-year-old's height: tall, gone lean, grey all the way through, the plain coat, the wrapped bundle on its strap — and the borrowed stoop, with wrists too thick for a man whose work is paper. His first appearance, in the mountain register. The image must render the grey's **ambiguity** and never resolve it.
-3. **The knot.** The cord of dark silk on the table between them like a plate of food; a boy's fingers on it; a cup set down without being drunk from; a mother's hand come flat to the boards. Four hands and one knot, no faces at all. *He unties things.*
+1. ★ **The blade across her knees.** — *built on the `ch04.md` sheet, unrun.* Neris at the window in the dark, back straight, face to the sea, the unsheathed blade lying across her knees with her hands resting on it the way they rest on bread dough. **Her sheet says this plate is already composed by this chapter, and it is right.** Back, window, sea, blade, hands.
+2. **The master comes up the path.** — *built on the `ch04.md` sheet, unrun.* Severin arriving in the yard, seen from a nine-year-old's height: tall, gone lean, grey all the way through, the plain coat, the wrapped bundle on its strap — and the borrowed stoop, with wrists too thick for a man whose work is paper. His first appearance, in the mountain register. The image must render the grey's **ambiguity** and never resolve it.
+3. **The knot.** — *built on the `ch04.md` sheet, unrun.* The cord of dark silk on the table between them like a plate of food; a boy's fingers on it; a cup set down without being drunk from; a mother's hand come flat to the boards. Four hands and one knot, no faces at all. *He unties things.*
 
 *Alternate:* the boy in the shadow at the foot of the woodpile with the axe standing unused against the block, pointing his stillness at the wall.
 
