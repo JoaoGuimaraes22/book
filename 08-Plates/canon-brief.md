@@ -85,7 +85,7 @@ The prompts are written where `00`, `02` and `03` cannot be seen. Every canon er
 - **A face like used tools, weathered far past its years.** The most weathered face in the book.
 - **HIS EYES ARE THE CHARACTER, and they are empty.** Ch. 2: *There was nothing in them that was angry. There was nothing in them that was anything.* **Not hostile, not cold, not sad, not kind, not tired.** Level, and giving nothing.
 - **Hands permanently half-curled, as if around something set down.**
-- **Scars: OUT OF FRAME unless the moment needs them.** The **long seam is in the SHOULDER** and the **tally-marks are on the FOREARM** (*a bad employer*). The page has never described either — they are questions Kael has never been allowed to ask, and there is no reason to spend them in a reference.
+- **Scars: OUT OF FRAME unless the moment needs them.** The **long seam is under the LEFT SHOULDER**, there is a **round through-wound with a brother on the front**, and the **tally-marks are on the FOREARMS** — many, all the same length, all the same slant (*a bad employer*). **CORRECTED s37: all three ARE on the page, in Ch. 3**, described exactly as above; `03/vask` says *scars on-page* and this file said the opposite. **What the page withholds is what made them** — those are the questions Kael has never been allowed to ask. So the marks are drawable where a chapter has shown them, and there is still no reason to spend them in a reference.
 - **Village working cloth**, coarse, mended, closed at the throat. No ornament, no buckle, no badge.
 
 ## NERIS — the mother
