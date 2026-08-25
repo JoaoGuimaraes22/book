@@ -72,6 +72,12 @@ for f in files:
     if len(caps) > 8:
         flags.append("EMPHASIS: %d capitalised blocks -- adopted first-run prompts sit at 5-6" % len(caps))
 
+    # Markdown that leaked out of the sheet and into the fenced block. A prompt is
+    # plain text; asterisks and backticks reach the generator as literal characters.
+    md = re.findall(r"\*\*|`|^\s*[-*] |^#{1,6} ", raw, re.M)
+    if md:
+        flags.append("MARKDOWN LEAK: %d marker(s) in the prompt text" % len(md))
+
     abst = sorted(set(a.lower() for a in re.findall(ABSTRACT, b, re.I)))
     if abst:
         flags.append("ABSTRACTIONS: " + ", ".join(abst))

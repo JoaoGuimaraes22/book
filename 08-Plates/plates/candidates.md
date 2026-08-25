@@ -91,11 +91,13 @@ Every entry was checked against **THE PLATE FOLLOWS THE PAGE** when it was writt
 
 1. ★ **The roll.** The book the size of a door, the clerk's hand with ink on it like a renewed scar, and the pen standing patient as a heron over the long empty stretch where the other names kept going — then the small line that makes the emptiness official. *Empty is true.* Page, pen, hands; no faces. **The spine of the whole book in one object.**
 2. **Aurelian crosses the hall.** Room arriving around him where nobody moved. Dark-gold hair, tall for the cohort and built a year ahead of it, four behind him, pleasant — *never sneering.* At the table he is coming to, one boy has not moved either, and is the only still thing in the picture.
-3. **The hand over the face.** Supper at home: the father's hand up covering the lower half of his own face, thumb and knuckle, eyes gone bright and creased above it; the mother cutting bread and looking only at the bread. The one time in the book Vask laughs, and both of them are hiding it from the boy.
+3. **The hand over the face.** — *built on the `ch08.md` sheet, unrun.* Supper at home: the father's hand up covering the lower half of his own face, thumb and knuckle, eyes gone bright and creased above it; the mother cutting bread and looking only at the bread. The one time in the book Vask laughs, and both of them are hiding it from the boy.
 
 4. **Seeing about the goat** *(author-requested, s40; built on the `ch08.md` sheet).* The same beat's other half: the man walks out of the lit room into the dark yard to stand doing nothing in front of an animal that needs nothing, because he had to leave in order to have a feeling about his son. His back to us, the doorway empty behind him, and the light lying on the wet ground in a long bright rectangle with his own shadow cut into it.
 
-*Alternate:* Priscian's great slate with **the minima** written on it a hand high, the benches dozing on their fists, and two children in the room not dozing — one hungry, one pricing. Elarine's first appearance.
+5. **The one who did not laugh** *(from the alternate below, corrected to the page; built on the `ch08.md` sheet, unrun).* Priscian's room at the moment the benches laugh at Kael's answer, seen from his own bench: three children turned and laughing, and at the end of the bench a girl who has not. **Elarine's first appearance**, and she is the smallest and quietest figure in the frame and the most finished thing in it.
+
+*Alternate:* Priscian's great slate with **the minima** written on it a hand high, the benches dozing on their fists, and two children in the room not dozing — one hungry, one pricing.
 
 ---
 
