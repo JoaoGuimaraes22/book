@@ -59,6 +59,8 @@ Every entry was checked against **THE PLATE FOLLOWS THE PAGE** when it was writt
 2. **The two pails.** — *built on the `ch05.md` sheet, unrun.* A hard-frost morning, a bench, two pails found together: one wearing its lid of ice, one dark and unfrozen and moving when it is rocked. Two objects, no people. *The more salt the water carries, the deeper the cold must bite to hold it.* This is the picture that kills the promise.
 3. **The tap.** Ground level, frost on the cheek, a boy folded under the patient mass of his father — and the free hand flat on the frost, tapping twice. *The hand talks.*
 
+4. **The fact lands** *(author-requested, s41; built on the `ch05.md` sheet).* Close on his face in the dark of the loft, two nights after the pails, at the instant the promise dies — eyes open, dry, absolutely still, lit from below by the banked fire in the room beneath. **The first plate in the book to spend the grey.** Not sadness: a child who has just finished a calculation.
+
 ---
 
 ## Ch. 6 — The Night
