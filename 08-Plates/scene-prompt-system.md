@@ -100,7 +100,17 @@ Then pin it with §Scale between figures, as always: *as wide as the candle is w
 
 **So the noun rule has two failure directions and one answer.** Name the thing and you get its default. Ban the default's features and you get nothing at all. **Describe the construction either way** — *a round grip long enough for a hand and a half, then a blade section lens-shaped in cross-section, thicker down its centre than at its edges, tapering to a blunt squared tip* — and let the negations trim what is left over, not what the object is made of.
 
-### A close-up plate and the age line — RAISED, NOT CONFIRMED (s42)
+### A close-up plate and the age line — ANSWERED (s44): THE RUNG NEEDS A RATIO BESIDE IT
+
+**One controlled pair settles what three soft readings could not.** `plates/ch11.md` ran two close-up plates in one session, both under the fourteen-year-old anchor ruling, **both carrying the same eye-line rung in the same words**, both in the same treatment. The white stitch came back eleven or twelve. The fan in the rain came back a young woman — **past her own anchor, not short of it.**
+
+**The single difference was what sat beside the rung.** The stitch block gave a ratio against an object in the frame — *his hand is a child's, small and short-fingered, and the copper bar is longer than his forearm.* The fan block gave adjectives — *the jaw has not come in, the cheeks still full, the neck slender* — with nothing in the picture to measure against.
+
+**Which is §Scale between figures, arriving in a close crop:** adjectives lose, ratios win, and the eye-line rung is a ratio *inside the head* that apparently cannot carry a face on its own once a plate is anchored three years above its chapter. **Write the rung AND one measurable relationship to something else in the frame.** A hand against an object, a head against a doorway, a fist against a grip — anything a renderer can compare.
+
+**The confound, stated so nobody over-reads this:** two characters, two references, two crops. One controlled pair, not a proof. But it is the first evidence in the right direction and it agrees with the folder's oldest scale finding.
+
+**The history, kept because it is why this took three sessions.** `../portrait-prompt-system.md` §AGE block states that age words in the SUBJECT block alone get ignored, and §Plates has a plate inherit only the Medium and Colour paragraphs, so a plate never gets the rung. The first datum was overturned by the author (`plates/ch09.md` read years too old to this folder and correct to the author); the second was `plates/ch08.md`'s Elarine reading adolescent among eleven-year-olds with her age in the reference line only.
 
 **Logged as an open question, not a finding, because the evidence was overturned.**
 
