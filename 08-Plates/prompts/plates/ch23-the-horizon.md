@@ -19,8 +19,8 @@ the chest. Behind and past him, small and low in the frame, the far
 seating with a wash of standing people on it, no faces drawn, and
 then the sea, the ships and the horizon line.
 
-HIS LEFT ARM IS CUT. A long open cut runs along the outside of the
-left arm above the elbow, its edges clean, and there is blood down
+HIS LEFT ARM IS CUT. A long slash runs along the outside of the
+left arm above the elbow, its edges clean, and there is red down
 the outside of the forearm and across the back of the hand, dark and
 wet. The arm is bare and unbound and no cloth or wrapping is on it.
 His clothing is torn where the cut is and grubby with sand.
