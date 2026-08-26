@@ -2393,4 +2393,6 @@ The s21 design load was tested rather than waved through: it warned that a progr
 
 **ZERO-LOSS, verified:** all four old docs found verbatim in the archive; 37 fenced blocks, 35 live and two deliberately archive-only (the Elarine alt clause; the old scene skeleton, replaced by the template); built prompts 14 identical · 34 header swapped to the scene line · 5 header to Medium only · 3 full figures closing line added · 1 Elarine corrected · 6 new scene-test files; `build-prompts.sh --check` in sync.
 
+**THEN THE FIRST PLATE ON THE NEW REGISTER.** `ch16/the-ear-on-the-brick` rewritten under the template (built prompt 884 → 524 words: the run-1 fixes kept, the value-structure paragraph, the appearance lines and the *only light* clause cut), run once, **adopted** (*pretty nice*). Warm throughout, landscape unasked, the grin in the one face it was written into; the drift is on the sheet and none of it worth a run. Ch. 16 has its two; the target is Ch. 17.
+
 **NOT DONE, by choice:** the plate sheets (61K words, 1.7× prose to prompt, rising to 2.8× on recent chapters) — spot-read only; a later pass if wanted. No adopted plate re-run. s46 (the vault sweep, commit `cb8aa27`) has no entry in this log.
