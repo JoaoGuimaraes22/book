@@ -166,6 +166,7 @@ image.
 ```
 
 - **One-sided gaze is easier** than mutual, and often more interesting — one looking away while the other watches.
+- **AND *LEVEL* IS A DIRECTION, NOT A TEMPERAMENT (s45, one instance).** `plates/ch14.md`'s one-finger wrote *his eyes up* in the gaze paragraph and *eyes level and working* in the expression paragraph two lines below it, and **the boy came back staring into the middle distance.** This folder reaches for *level* constantly to mean unhurried and giving nothing — and a renderer reads it as horizontal. **Where a gaze is deliberately not horizontal, that word cannot appear anywhere in the block**, and the direction should be restated inside the expression paragraph rather than left to the gaze paragraph alone. Same shape as §Describe a limb as a chain: two paragraphs describing one thing get resolved independently.
 
 ---
 
