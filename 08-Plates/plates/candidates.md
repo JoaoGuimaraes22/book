@@ -251,3 +251,15 @@ Every entry was checked against **THE PLATE FOLLOWS THE PAGE** when it was writt
 5. **The doorway at the end.** The father with his shoulder against the frame, doing nothing at all, watching his wife lean forward off the back of the chair for a cup she could have asked for — **and the page names the rhyme itself**: Kael had seen his mother stand in a doorway exactly like that, at the top of the yard, while something was done to her son that she had agreed to. The one deliberate answer to `ch02-the-doorframe` in the book.
 
 *Alternate:* both hands full and face down on the wet stone in under a second — *every escape he had was built out of a hand, and he had spent both of them on being fast.* Passed over at s48: it is `ch14/one-finger`'s staging again, him down and somebody standing over him.
+
+---
+
+## Ch. 22 — The Names
+
+*Written at s48, at design time. Kael is thirteen from this chapter on.*
+
+1. ★ **The arrival.** — **BUILT (s48): sheet `ch22.md`.** Eleven thousand people standing up, and a girl of fourteen small in the middle of the ground with the gold at her shoulder and hem the only saturated colour in the frame. **The only plate in the book with a crowd in it**, and the one that spends Aeliana's Ch. 22 canon — the near-black blue, the gold, the hair up off her neck. **Her fence is kept by distance:** no face in the picture is resolved, so no verdict is delivered.
+2. ★ **Kael, of the Island.** — **BUILT (s48): sheet `ch22.md`.** The herald's pause where a house should be, and then a boy walking out onto white sand with eleven thousand people over him. *He came out into the middle of a white floor … and heard the first sound the world ever made about him, and the sound was a question.* The face is the chapter's own finding: **not frightened, and the absence of it worth a look.**
+3. **The twelve across the distances.** *They were arranged across the distances — the near ones close enough to take her weight off her feet, the far ones out at the edges of the ground, where a thing would have to come from, and every one of them was already standing where he was going to be standing before he got there.* **No separate plate needed** — twelve resolved figures is past §Four figures' ceiling, and they do their work inside candidate 1 as spread shapes, turned outward, not marching.
+4. **The pause.** The herald arriving at the place where a house goes and finding the clerk wrote what the clerk was given — and a boy's eyes going up to the western curve to find the First Master already looking at him, *from the one seat under that sky with nothing in front of it to watch but an empty floor.* **Two people in eleven thousand who know what the pause is.** Held: it is a sightline across sixty yards, which no block in the folder has yet had to build.
+5. **The hand at the gate mouth.** The noise arriving bodily from above and on all sides, and a hand going by itself to a knife and being taken away again — *at ten he had come through the Temple gate with nothing on him anywhere and his hand had gone to that same place and found nothing at all.* The whole of four years in one reflex.
