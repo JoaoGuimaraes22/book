@@ -532,6 +532,10 @@ What it inherits is the house look and nothing else: the **Medium** and **Colour
 
 **WHICH reference a plate anchors on is settled: the fourteen-year-old set, for every chapter (author ruling, s44 — `../08-Plates/README.md`).** The cost of that, and the instruments for writing an age the anchor does not carry, are there.
 
+**AND A PLATE MAY ATTACH BOTH, WHICH IS NEW (s45, one run).** `plates/ch14.md`'s both-hands-full attached `valeria-14.png` **and** `valeria-14-full.png` — the first time any plate has carried two references of one person — with one line saying they are the same girl and there is one figure in the picture. **No doubling, and the costume repeated**: the over-tunic, the vambraces, the buckled belt and the split skirt all came back off the sheet. **This is the first plate in the folder whose clothing will repeat in the next one.**
+
+**The cost, and it is a trade rather than a fault: the crop came back wider than the block asked.** Waist-up was written and the knee arrived, and with the width went the subject's eye colour, which `../08-Plates/canon-brief.md` reserves for close framing. **So the sheet buys costume continuity and appears to spend crop.** Where a plate needs a tight face, either leave the sheet off or write the crop hard enough to survive it — one run, and the confound is that the same block described a wide setting.
+
 **Anchoring cost, stated per plate.** Scenes want full-body sheets. Plates rarely get them: a plate of a child, of a parent, or of an empty room is anchored on a head-and-shoulders portrait or on nothing at all, and everything below the collar is then authored in the prompt and anchored to nothing — it will not repeat in the next plate. That is not a reason to skip the plate; it is a reason to write the cost on the sheet, so the next session knows which pictures share a body and which only share a face.
 
 ## What a warm source will and will not light (s42)
