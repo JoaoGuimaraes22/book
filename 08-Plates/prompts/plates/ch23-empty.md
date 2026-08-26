@@ -12,31 +12,35 @@ wash of small shapes with no faces, and a cold blue sky at the top of
 the frame. Bright flat winter daylight from above.
 
 Composition: a wide view along the sand, at head height. In the near
-foreground at one side, seen from behind and slightly to one side, a
-tall narrow boy stands squared at the measure: his back to the
-viewer, no part of his face visible anywhere, the front foot planted
-and the back foot turned out, a long straight sword raised into a
-formal guard and his other hand open, empty, held out to the side.
-He is in frame from the thigh up and is cut off by the edge of the
-frame. Across the open sand from him, at a distance of many times his
-own height, the dark-haired boy stands alone at his mark, facing him
-and facing the viewer, in frame from the knees up and small in the
-picture but clearly readable.
+foreground at one side, large in the frame and in frame from the hips
+up, the dark-haired boy stands at his mark, turned three-quarters
+away from the viewer toward the far side of the sand, so that his
+face is seen in three-quarter view and one shoulder and part of his
+back are toward the viewer. Across the open sand from him, at a
+distance of many times his own height, a tall narrow boy stands
+squared at the measure, small in the picture and drawn without detail
+— no feature of his face is drawn at all — with the front foot
+planted, the back foot turned out, a long straight sword raised into
+a formal guard and his other hand open, empty, held out to the side.
 
 THE DARK-HAIRED BOY HAS NOT DRAWN AND HIS HANDS ARE THE SUBJECT: both
 arms hang at his sides, the hands open and completely empty, nothing
-held in either of them and nothing raised. Across his back, over the
-shoulder, rides a long bundle wrapped in plain cloth and tied — no
-hilt, no blade and no metal shows anywhere on it, and it has not been
-touched.
+held in either of them and nothing raised. Across his back, slung over one
+shoulder on a plain cord, rides a long bundle of coarse cloth wrapped
+around something straight and tied at both ends — a plain cloth
+package, not a quiver: no arrows, no fletching, no open top, no hilt,
+no blade and no metal anywhere on it. It has not been touched.
 
 He is standing still and giving nothing: the head level, the face
 turned to the boy across the sand, the mouth closed, the whole body
 easy and unarranged. Not braced, not defiant, not afraid. He is
 looking at the other boy and not at the viewer.
 
-Undyed coarse working wool, much mended, dull oatmeal and dead olive,
-with no ornament, badge, colour or metal on him anywhere. The other
+Undyed coarse working wool in dull oatmeal and dead olive, whole and
+sound and closed at the throat, worn soft and carrying square patches
+at the elbow and the shoulder — poor working clothing kept in repair,
+not rags, not torn, not ragged at the hem, with no ornament, badge,
+colour or metal on him anywhere. He wears plain worn boots. The other
 boy's clothing is well made and carefully worn, in darker cloth.
 
 Nothing is happening yet: nobody has moved, nothing has been thrown,
