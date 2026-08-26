@@ -1,16 +1,9 @@
 Image 1: portrait reference of the boy — take his hair and colouring
 from it only. His face is barely visible in this picture.
 
-Medium: loose expressive watercolour and ink on rough cold-press
-paper, visible paper tooth and pigment granulation, scratchy fine
-ink linework, wash blooms with hard irregular edges, generous bare
-unpainted paper.
-
-Colour: restrained transparent washes laid over a dominant ink
-drawing. Muted, desaturated, earthy. The ink linework remains the
-strongest element; colour tints rather than fills. Large areas left
-as bare paper. Warm living skin, soft ochre in the mid-tones — the
-warmth belongs to the skin alone, not the paper or the cloth.
+Same medium and style as the reference images: loose watercolour and
+ink on rough cold-press paper, scratchy ink linework, wash blooms,
+bare paper in the lights.
 
 THE VIEWER IS HIGH ON A MOUNTAIN, LOOKING OUT AND STEEPLY DOWN. This
 is the first thing to establish and everything else depends on it.

@@ -1,3 +1,6 @@
+Image 1: reference portrait of Kael — pale grey eyes, dark uneven
+hair, fifteen years old.
+
 Medium: loose expressive watercolour and ink on rough cold-press
 paper, visible paper tooth and pigment granulation, scratchy fine
 ink linework, wash blooms with hard irregular edges, generous bare
@@ -19,9 +22,6 @@ the shaded side of the figure and beneath the chin.
 
 Hair: irregular clumps and locks of varying thickness, uneven
 edges, naturally settled rather than combed.
-
-Image 1: reference portrait of Kael — pale grey eyes, dark uneven
-hair, fifteen years old.
 
 SUBJECT — cool pale parchment ground.
 Age: still adolescent in frame — narrow through the shoulders
@@ -49,3 +49,7 @@ unnoticed: a close-fitting long-sleeved tunic in charcoal grey,
 sleeves pushed to the forearm, belted at the waist with a plain
 leather belt. Dark fitted trousers. Cloth wraps at the calves. Soft
 dark leather boots, worn but sound, made for quiet movement.
+
+Preserve his/her face, hair, colouring and apparent age exactly as
+shown in the reference image. Extend to a full standing figure; the
+reference shows head and shoulders only.

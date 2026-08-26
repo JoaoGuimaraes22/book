@@ -3,12 +3,6 @@ paper, visible paper tooth and pigment granulation, scratchy fine
 ink linework, wash blooms with hard irregular edges, generous bare
 unpainted paper.
 
-Colour: restrained transparent washes laid over a dominant ink
-drawing. Muted, desaturated, earthy. The ink linework remains the
-strongest element; colour tints rather than fills. Large areas left
-as bare paper. Warm living skin, soft ochre in the mid-tones — the
-warmth belongs to the skin alone, not the paper or the cloth.
-
 Setting: the scrubbed plank table of a small mountain house,
 daylight from one side, as loose wash — the room beyond falling
 into shadow, no detail.

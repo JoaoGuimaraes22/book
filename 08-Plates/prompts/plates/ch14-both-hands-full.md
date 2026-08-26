@@ -1,16 +1,9 @@
 Image 1: valeria-14.png — portrait reference of the girl.
 Image 2: valeria-14-full.png — full-figure reference of the same girl.
 
-Medium: loose expressive watercolour and ink on rough cold-press
-paper, visible paper tooth and pigment granulation, scratchy fine
-ink linework, wash blooms with hard irregular edges, generous bare
-unpainted paper.
-
-Colour: restrained transparent washes laid over a dominant ink
-drawing. Muted, desaturated, earthy. The ink linework remains the
-strongest element; colour tints rather than fills. Large areas left
-as bare paper. Warm living skin, soft ochre in the mid-tones — the
-warmth belongs to the skin alone, not the paper or the cloth.
+Same medium and style as the reference images: loose watercolour and
+ink on rough cold-press paper, scratchy ink linework, wash blooms,
+bare paper in the lights.
 
 Setting: the edge of an open flagstone training yard on a bright
 spring afternoon, as loose wash suggestion — a stone wall directly

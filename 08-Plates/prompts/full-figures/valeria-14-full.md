@@ -1,3 +1,6 @@
+Image 1: reference portrait of Valeria — green eyes, long straight
+dark hair, sixteen years old.
+
 Medium: loose expressive watercolour and ink on rough cold-press
 paper, visible paper tooth and pigment granulation, scratchy fine
 ink linework, wash blooms with hard irregular edges, generous bare
@@ -19,9 +22,6 @@ the shaded side of the figure and beneath the chin.
 
 Hair: irregular clumps and locks of varying thickness, uneven
 edges, naturally settled rather than combed.
-
-Image 1: reference portrait of Valeria — green eyes, long straight
-dark hair, sixteen years old.
 
 SUBJECT — cool pale parchment ground.
 Age: still adolescent in frame — narrow through the shoulders
@@ -50,3 +50,7 @@ longswords, one sheathed at each hip, scabbards identical, hilts
 unornamented, both blades sheathed.
 Dark fitted trousers. Black leather boots to the knee, well-worn
 and well-kept.
+
+Preserve his/her face, hair, colouring and apparent age exactly as
+shown in the reference image. Extend to a full standing figure; the
+reference shows head and shoulders only.

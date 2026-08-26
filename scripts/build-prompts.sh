@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
-# Rebuild 08-Plates/prompts/ from the prompt systems.
+# Rebuild 08-Plates/prompts/ from the prompt system and the sheets.
 #
-# The MARKDOWN IS THE SOURCE OF TRUTH. Everything under 08-Plates/prompts/ is a
-# generated, paste-ready artifact — never edit those files by hand, edit the
-# block in portrait-prompt-system.md / scene-prompt-system.md and re-run this.
-# (A hand-edited prompt file is a second home for a fact the doc already owns, which is
-# the drift that produced the s30 phantoms.)
+# THE MARKDOWN IS THE SOURCE OF TRUTH. Everything under 08-Plates/prompts/ is a
+# generated, paste-ready artifact — never edit those files by hand. Edit the block in
+# 08-Plates/prompt-system.md, 08-Plates/scene-tests.md or 08-Plates/plates/ch<NN>.md
+# and re-run this. A hand-edited prompt file is a second home for a fact the doc
+# already owns.
 #
 # Usage: scripts/build-prompts.sh [--check]
 #   --check  rebuild into a temp dir and diff; non-zero if prompts/ is stale.
@@ -19,96 +19,99 @@ python3 - "$OUT" <<'PY'
 import glob, io, os, re, sys
 
 out = sys.argv[1]
-port = io.open("08-Plates/portrait-prompt-system.md", encoding="utf-8").read()
-scene = io.open("08-Plates/scene-prompt-system.md", encoding="utf-8").read()
+sysdoc = io.open("08-Plates/prompt-system.md", encoding="utf-8").read()
+tests  = io.open("08-Plates/scene-tests.md", encoding="utf-8").read()
 
 def fenced(text, after, n=0):
     """The (n+1)th ``` block appearing after the marker `after`."""
     seg = text.split(after, 1)[1]
     return seg.split("```")[1 + 2 * n].strip("\n")
 
-STYLE   = fenced(port, "## STYLE block — fixed")
-HAIR    = fenced(port, "## HAIR line — optional")
-HALFFIG = fenced(port, "## COMPOSITION override — half figure")
-BASE    = fenced(port, "## BASE block — full figure")
+STYLE   = fenced(sysdoc, "## STYLE block — portrait")
+HAIR    = fenced(sysdoc, "## HAIR line")
+HALFFIG = fenced(sysdoc, "## COMPOSITION override — half figure")
+BASE    = fenced(sysdoc, "## BASE block — full figure")
+CLOSE   = fenced(sysdoc, "#### Closing line")
+SCENE_STYLE = fenced(sysdoc, "## Scene style line")
+MEDIUM  = STYLE.split("\n\n")[0]   # for a plate with no reference attached
 
 AGE = {
-    "child":      fenced(port, "**Kael at four — the first CHILD block**"),
-    "kael9":      fenced(port, "**Kael at nine — the intermediate rung**"),
-    "adolescent": fenced(port, "**The original, still correct for Kael at fourteen, Valeria and Aeliana:**"),
-    "aurelian":   fenced(port, "**Aurelian — the body ahead of the face**"),
-    "elarine":    fenced(port, "**Elarine — small, and nothing caught up yet:**"),
-    "vask":       fenced(port, "**Vask — grown and worn down**"),
-    "neris":      fenced(port, "**Neris — grown, and the age is in the eyes:**"),
-    "severin":    fenced(port, "**Severin — old, and worn to what mattered**"),
+    "child":      fenced(sysdoc, "#### Child — Kael at four"),
+    "kael9":      fenced(sysdoc, "#### Nine — Kael at nine"),
+    "adolescent": fenced(sysdoc, "#### Adolescent — Kael at fourteen, Valeria, Aeliana"),
+    "aurelian":   fenced(sysdoc, "#### Aurelian — the body ahead of the face"),
+    "elarine":    fenced(sysdoc, "#### Elarine — small, nothing caught up yet"),
+    "vask":       fenced(sysdoc, "#### Vask — grown and worn down"),
+    "neris":      fenced(sysdoc, "#### Neris — grown, the age in the eyes"),
+    "severin":    fenced(sysdoc, "#### Severin — old, worn to what mattered"),
 }
 
-# character -> (heading in the doc, age block, include HAIR, composition override)
+# file -> (heading in prompt-system.md, age block, include HAIR, composition override)
 PORTRAITS = [
-    ("kael-4",      "### Kael at four",  "child",      True,  None),
-    ("kael-9",      "### Kael at nine",  "kael9",      True,  None),
-    ("kael-9-still", "### Kael at nine — the withheld variant", "kael9", True, None),
-    ("kael-14",     "### Kael",          "adolescent", True,  None),
-    ("valeria-14",  "### Valeria",       "adolescent", True,  None),
-    ("aeliana-15",  "### Aeliana",       "adolescent", True,  None),
-    ("aurelian-14", "### Aurelian",      "aurelian",   False, None),
-    ("elarine-14",  "### Elarine",       "elarine",    False, None),
-    ("vask",        "### Vask",          "vask",       True,  None),
-    ("neris",       "### Neris",         "neris",      True,  None),
-    ("severin",     "### Severin",       "severin",    True,  HALFFIG),
+    ("kael-4",       "### Kael at four\n",         "child",      True,  None),
+    ("kael-9",       "### Kael at nine\n",         "kael9",      True,  None),
+    ("kael-9-still", "### Kael at nine — still\n", "kael9",      True,  None),
+    ("kael-14",      "### Kael at fourteen\n",     "adolescent", True,  None),
+    ("valeria-14",   "### Valeria\n",              "adolescent", True,  None),
+    ("aeliana-15",   "### Aeliana\n",              "adolescent", True,  None),
+    ("aurelian-14",  "### Aurelian\n",             "aurelian",   False, None),
+    ("elarine-14",   "### Elarine\n",              "elarine",    False, None),
+    ("vask",         "### Vask\n",                 "vask",       True,  None),
+    ("neris",        "### Neris\n",                "neris",      True,  None),
+    ("severin",      "### Severin\n",              "severin",    True,  HALFFIG),
 ]
 
 FULL_FIGURES = [
-    ("kael-14-full",    "## Kael — full figure"),
-    ("valeria-14-full", "## Valeria — full figure"),
-    ("aeliana-15-full", "## Aeliana — full figure"),
+    ("kael-14-full",    "### Kael — full figure\n"),
+    ("valeria-14-full", "### Valeria — full figure\n"),
+    ("aeliana-15-full", "### Aeliana — full figure\n"),
 ]
 
 def write(path, text):
     os.makedirs(os.path.dirname(path), exist_ok=True)
     io.open(path, "w", encoding="utf-8").write(text.rstrip("\n") + "\n")
 
+def split_image_lines(block):
+    """Hoist the opening `Image N:` paragraph (whole paragraph, so a wrapped line is not orphaned)."""
+    if re.match(r"Image \d+:", block):
+        head, _, rest = block.partition("\n\n")
+        return head, rest.lstrip("\n")
+    return "", block
+
 n = 0
 for name, head, age, hair, comp in PORTRAITS:
     style = STYLE
     if comp:  # swap the fixed Composition paragraph for the override
         style = re.sub(r"Composition:.*?(?=\n\nLighting:)", comp, style, flags=re.S)
-    parts = [style, AGE[age]] + ([HAIR] if hair else []) + [fenced(port, head + "\n")]
+    parts = [style, AGE[age]] + ([HAIR] if hair else []) + [fenced(sysdoc, head)]
     write(f"{out}/portraits/{name}.md", "\n\n".join(parts))
     n += 1
 
 for name, head in FULL_FIGURES:
-    write(f"{out}/full-figures/{name}.md", BASE + "\n\n" + fenced(port, head + "\n"))
+    refs, subject = split_image_lines(fenced(sysdoc, head))
+    parts = ([refs] if refs else []) + [BASE, subject, CLOSE]
+    write(f"{out}/full-figures/{name}.md", "\n\n".join(parts))
     n += 1
 
-write(f"{out}/scene-tests/quartet-conversation.md", fenced(scene, "### Four figures — the quartet prompt, as run"))
-n += 1
+# Scene tests: the first fence under each SCENE-VERBATIM heading, untouched.
+for slug in re.findall(r"^### SCENE-VERBATIM: (\S+)\s*$", tests, flags=re.M):
+    write(f"{out}/scene-tests/{slug}.md", fenced(tests, "### SCENE-VERBATIM: %s\n" % slug))
+    n += 1
 
-# Plates. A plate takes the house look — the Medium and Colour paragraphs of the
-# fixed STYLE block — and nothing else; it writes its own composition, lighting
-# and framing. Sliced, not copied, so that text keeps one home.
-PLATE_STYLE = STYLE.split("\n\nEyes:")[0].strip("\n")
-
+# Plates. The Image lines go first; then the scene style line (the references carry the
+# medium) — or, for a plate with no reference attached, the STYLE block's Medium
+# paragraph; then the plate's own block. PLATE-VERBATIM is emitted untouched.
 for sheet in sorted(glob.glob("08-Plates/plates/*.md")):
     stem = os.path.splitext(os.path.basename(sheet))[0]
     text = io.open(sheet, encoding="utf-8").read()
     for kind, slug in re.findall(r"^### (PLATE|PLATE-VERBATIM): (\S+)\s*$", text, flags=re.M):
         block = fenced(text, "### %s: %s\n" % (kind, slug))
-        # PLATE-VERBATIM is the exact text as run and already carries its own
-        # style header: emit it untouched. Never reassemble a prompt that ran.
         if kind == "PLATE-VERBATIM":
             body = block
         else:
-            # The Image lines name the files to attach, so they go at the very top
-            # of the paste-ready file, above the house look -- the order the scene
-            # skeleton documents. The filenames themselves live in the block.
-            # Hoist the WHOLE first paragraph, not the first line: several of
-            # these reference instructions wrap, and splitting one orphans the
-            # remainder of its own sentence in the middle of the file.
-            head, rest = "", block
-            if re.match(r"Image \d+:", block):
-                head, _, rest = block.partition("\n\n")
-            body = (head + "\n\n" if head else "") + PLATE_STYLE + "\n\n" + rest.lstrip("\n")
+            refs, rest = split_image_lines(block)
+            header = SCENE_STYLE if refs else MEDIUM
+            body = (refs + "\n\n" if refs else "") + header + "\n\n" + rest
         write(f"{out}/plates/{stem}-{slug}.md", body)
         n += 1
 

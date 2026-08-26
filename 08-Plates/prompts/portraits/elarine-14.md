@@ -26,9 +26,30 @@ skin smooth with no hardness anywhere in it. A small unfinished
 frame; nothing about her has caught up with her yet except the
 eyes.
 
-Eyes very dark brown, near black — the MOST FINISHED thing in the
-picture. Everywhere else the drawing is loose and suggestive; the
-eyes alone are rendered tight and exact, sharp-edged, fully worked
-out, with one clean catchlight. Not the most saturated and not the
-darkest — her hair is as dark — they win by being the only part of
-the image that has been finished.
+SUBJECT — cool pale parchment ground.
+A fifteen-year-old girl of a great house.
+Eyes very dark brown, near black — the DARKEST VALUE in the
+picture, not the most saturated. The only place in the image where
+the ink goes fully solid: two small absolute darks in a face made
+otherwise of pale washes. Small, steady, precisely drawn, and the
+darkest thing in the frame by a clear margin.
+Ink-dark hair, a flat neutral black with no blue in it, drawn back
+severely off the face and bound tight at the nape, not one strand
+loose, the whole mass smooth and close to the skull.
+Pale untouched indoor skin, clear and unmarked, no freckles. The
+skin's warmth stays low and even across the whole face; no high
+colour in the cheeks.
+Small and finely built — narrow shoulders, a small head, a slender
+neck.
+Fine economical features, nothing exaggerated anywhere. The face
+small and still unfinished, the cheek soft, nothing about her yet
+grown into itself.
+Expression: attention fully engaged and giving nothing back. Eyes
+level and fixed on the viewer, mouth closed and still, brows
+unmoved. She is in the middle of working something out and has
+arrived at no verdict. Not cold, not haughty, not bored, not
+amused, not tired.
+Plain dark clothing of very good quality, close-fitting and exactly
+made, a high buttoned collar to the throat, in ink-black and dark
+olive. No jewellery, no embroidery, no ornament of any kind —
+nothing on her that does not work.

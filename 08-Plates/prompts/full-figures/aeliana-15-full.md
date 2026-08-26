@@ -1,3 +1,6 @@
+Image 1: reference portrait of Aeliana — pale blue eyes, silver-white
+hair, sixteen years old.
+
 Medium: loose expressive watercolour and ink on rough cold-press
 paper, visible paper tooth and pigment granulation, scratchy fine
 ink linework, wash blooms with hard irregular edges, generous bare
@@ -19,9 +22,6 @@ the shaded side of the figure and beneath the chin.
 
 Hair: irregular clumps and locks of varying thickness, uneven
 edges, naturally settled rather than combed.
-
-Image 1: reference portrait of Aeliana — pale blue eyes, silver-white
-hair, sixteen years old.
 
 SUBJECT — warm aged parchment ground.
 Age: still adolescent in frame — narrow shoulders, slight build,
@@ -49,3 +49,7 @@ garment needs, the excess itself the point. Bare dark fabric
 between shoulder and hem. No armour, no pauldron, no belt, no
 visible weapon. Soft indoor slippers, barely visible beneath the
 hem.
+
+Preserve his/her face, hair, colouring and apparent age exactly as
+shown in the reference image. Extend to a full standing figure; the
+reference shows head and shoulders only.
