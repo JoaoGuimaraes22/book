@@ -6,15 +6,15 @@ Kael sat where he had been put, on the boards with his back against the side, an
 
 Valeria Vel had the forward sweep. She worked it with her right arm and her back and kept the left one where it had been all night, and every fourth stroke she was a beat late and every fourth stroke she made it up. Aurelian Corvane had the other. Between the two of them they had two good arms and they got a hull that took forty out of a hole in the rock and into open water without touching either wall.
 
-Severin sat in the stern with the tiller under his forearm and his head down. He had put his hood back. In the last of the light off the island his face was the colour of the boards.
+Severin sat in the stern with the tiller under his forearm and his head down. In the last of the light off the island his face was the colour of the boards.
 
 "Ship the sweeps," he said. "Boy. The mast."
 
 Kael got up. His leg had gone somewhere else while he was sitting, and it came back badly, and he stood on it and went forward with a hand on the side.
 
-The mast lay down the middle of the hull along its own length, with the sail furled onto it and the whole of it lashed to a pair of crutches. He had watched his father put weight where it wanted to go for as long as he had been allowed to lift anything, and he could see exactly what this wanted, and he still had to be told twice, because he had never in his life touched a boat, and the difference between knowing what a thing weighs and knowing where to stand under it turned out to be most of the job.
+The mast lay down the middle of the hull along its own length, with the sail furled onto it and the whole of it lashed to a pair of crutches.
 
-They got it up. Aurelian took the foot of it against his good shoulder and swore steadily. Elarine Sedrane, who had not opened her eyes since the cut, opened them and put both hands on a rope and hauled with the others and did not ask what she was hauling.
+They got it up. Aurelian took the foot of it against his good shoulder and swore steadily. Elarine Sedrane, who had not opened her eyes since the cut, opened them and put both hands on a rope and hauled with the others.
 
 The sail came off the spar and filled, and the boat put its shoulder down.
 
@@ -22,13 +22,13 @@ The wind was coming off the top of the mountain, cold, the way it came down the 
 
 His mother was amidships with her back against the strake and her son inside her coat. She had not moved since Severin lifted her over the side. Her eyes were open and she was watching the sail.
 
-Aeliana Cassivara Vessantine sat on the boards opposite with her ruined hands turned up in her lap, looking at them.
+Aeliana sat on the boards opposite with her ruined hands turned up in her lap, looking at them.
 
-Nobody said anything for a while. The land went slowly along on their right, black, with the top of it orange, and the smell of the burning came out over the water after them and did not stop where the rock stopped.
+Nobody said anything for a while. The land went slowly along on their right, black, with the top of it orange, and the smell of the burning came out over the water after them and did not stop.
 
 Kael's body began to report.
 
-The leg first, which he already knew about. Then the ribs, which his mother had put back together on the floor of a house that no longer existed, and which had been carrying him and a sword and a man's weight for six miles. Then his hands, which he could not entirely feel, and then his throat, which was ruined, and then everything else at once, arriving with no order to it and no urgency, the way a room tells you what is broken in it after the noise has stopped.
+The leg first, which he already knew about. Then the ribs. Then his hands, which he could not entirely feel, and then his throat, which was ruined, and then everything else at once, arriving with no order to it.
 
 He put his head back on the strake.
 
@@ -38,9 +38,11 @@ Then, because that was what he was, he looked back at the island.
 
 ---
 
-There was a light on the shelf.
+There was a light.
 
-It was small and orange and low down, and it was where the runnel came out onto the third shelf, six hundred strides up, and it had not been there when they went past it. While he was looking at it there was a second one beside it and then a third, and the three of them began to come down the rock together.
+It was small and orange and a long way up, at the mouth of the runnel, and it had not been there when they went past it. The land behind them came down to the sea in three great steps, and the runnel let out at the top of them, six hundred strides above the water.
+
+While he was looking at it there was a second one beside it and then a third, and the three of them began to come down the rock together.
 
 Kael sat up.
 
@@ -52,29 +54,29 @@ Kael sat up.
 
 Severin's head came up.
 
-"There are eleven now," Kael said. "They are on the middle shelf. They came out of the runnel one at a time and stopped, and then they came on when the rest of them were up, which means somebody up there is telling them to. Master, they are carrying torches on a hillside in the dark with our boat six hundred strides below them, and they do not care what we can see."
+"There are eleven now," Kael said. "They are halfway down. Master, they are carrying torches on a hillside in the dark with our boat six hundred strides below them, and they do not care what we can see."
 
 "Yes," said Severin.
 
-"They are not looking for us."
+"They are not following us."
 
 "No," said Severin. "They know where we are."
 
-Valeria Vel came aft along the boards without being told to. She looked at the lights coming down the shelves for about two seconds and then she looked at the sail and then at the water going past the side, and Kael watched her do the same sum he had just done and get the same answer.
+Valeria Vel came aft along the boards without being told to. She looked at the lights coming down the shore for about two seconds and then she looked at the sail and then at the water going past the side, and Kael watched her do the same sum he had just done and get the same answer.
 
 "How fast does this go," she said.
 
 "Not fast," said Severin.
 
-"Then we should get lower than the side of it."
+"We should lay low. They still have arrows and fire."
 
-"Yes," said Severin. "Everybody down."
+"Yes," said Severin. "Everybody, down."
 
 They got down. Aurelian took the princess by the shoulder and put her flat on the boards between the thwarts with a sort of enormous carefulness, and lay down beside her with his bad arm on top of him. Elarine went down where she was. Valeria did not lie down. She got onto one knee at the mast with her right hand on the wet wood of it, facing the land, and stayed there.
 
 Kael did not lie down either.
 
-He knelt on the boards with his forearms over the side and his chin on the strake and watched the lights come down the last shelf to the water, and put them in an order, and counted them again.
+He knelt on the boards with his forearms over the side and his chin on the strake and watched the lights come down the last of the rocks to the water, and put them in an order, and counted them again.
 
 Nineteen.
 
@@ -84,7 +86,7 @@ Then the first one arrived.
 
 It did not come like a thing thrown.
 
-It stood up off the shelf, all at once, wider than the boat was long, and it came out over the water without going up first and without dropping, keeping its shape the whole way, and the whole of the sea between the island and the hull went the colour of a hearth.
+It stood up off the shore, all at once, wider than the boat was long, and it came out over the water without going up first and without dropping, keeping its shape the whole way, and the whole of the sea between the island and the hull went the colour of a hearth.
 
 Kael saw the mast's shadow lie down flat across the deck and run out over the water on the far side.
 
@@ -96,11 +98,11 @@ Nobody made any sound at all.
 
 Then his mother was beside him.
 
-She had come up the boards on her knees with one arm across the front of her coat. She got the child out of it with her free hand under the head, the way she had done it on the shelf above the bowl, and she put him into Kael's arms and pushed both of Kael's hands where they had to go with her thumbs.
+She had come up the boards on her knees with one arm across the front of her coat. She got the child out of it with her free hand under the head, and she put him into Kael's arms and pushed both of Kael's hands where they had to go with her thumbs.
 
 "Do not put him down," she said. "Whatever happens on this boat, you do not put him down."
 
-"Mother—"
+"Mother, I can hel—"
 
 "Say it."
 
@@ -112,7 +114,7 @@ Kael sat back against the strake with his brother against his chest and did not 
 
 ---
 
-The second one came off the shelf twenty seconds later and it was on line.
+The second one came off the shore twenty seconds later and it was on line.
 
 It came at the boat the way the first one had, keeping its shape. It was going to arrive somewhere between the mast and the stern. Kael did the arithmetic without wanting it and got about four seconds.
 
@@ -130,13 +132,13 @@ Kael got his knees under him.
 
 He put his brother up onto his shoulder with his left hand flat on the small of the back, which was where the child had been the whole time on his mother's chest, and got his right forearm onto the strake, and looked at the island.
 
-He found the man at once.
+He found the source of it at once.
 
-He was on the lowest shelf, out on the end of it, enormous through the shoulders. There were four torches standing near him and a good deal of light on him. He had made no attempt to be anywhere else. He was standing with his weight on his back foot and his hands down. While Kael watched, he turned his head and said something to somebody behind him. The somebody handed him nothing, because there was nothing to hand him. Then he turned back, and put his weight forward, and the third one stood up off the rock.
+He was down at the water, out on the end of the rocks, enormous through the shoulders. There were four torches standing near him and a good deal of light on him. He was standing with his weight on his back foot and his hands down. While Kael watched, he turned his head and said something to somebody behind him. Then he turned back, and put his weight forward.
 
-And he did not look at it.
+And his hands came up, and forward.
 
-That was the whole of it, and Kael had the whole of it before the thing was halfway to them, because he had seen the man do it in his own yard with his father's pens burning: he made it, and it stopped being his, and he was already somewhere else with his feet.
+Kael had the whole of it before the thing was halfway to them, because he had seen the man do it in his own yard with his father's pens burning: he made it, and it stopped being his, and he was already somewhere else with his feet.
 
 "MOTHER," Kael said.
 
@@ -162,7 +164,7 @@ She took it. It went down into the sea beside them. The water came up over the s
 
 "Six," said Kael. "That is six."
 
-He had begun to hear his mother's breathing between the throws. It was not the breathing of somebody working hard. He had heard her do that on a shelf four hours ago and this was not it. This was the way a person breathes when the breath itself is a thing that has to be decided on and got through, and it was coming up from a long way down, and it was slower than it should have been.
+He had begun to hear his mother's breathing between the throws. It was not the breathing of somebody working hard. He had heard her do that above the burning bowl four hours ago and this was not it. This was the way a person breathes when the breath itself is a thing that has to be decided on and got through, and it was coming up from a long way down, and it was slower than it should have been.
 
 Then the wind came off the land in a long push and the sail went hard, and the boat leaned and began to go, properly, for the first time.
 
@@ -178,9 +180,9 @@ Then the wind came off the land in a long push and the sail went hard, and the b
 
 The woman came down onto the water's edge on the last of the rock.
 
-Kael saw her because he had been going along the shelf with his eyes since the first one, looking for the small old man, and she was not what he was looking for.
+Kael saw her because he had been going along that shore with his eyes since the first one, looking for the small old man, and she was not what he was looking for.
 
-She came down the last of the shelf alone, quickly, with her sleeves pushed back, and she stepped down onto the flat rock where the third shelf went into the sea, which was the nearest piece of the island to the boat, and she stopped there.
+She came down the last of the rocks alone, quickly, with her sleeves pushed back, and she stepped out onto the flat stone at the very edge of the water, which was the nearest piece of the island to the boat, and she stopped there.
 
 A line of fire about the thickness of a finger came out of her right hand and lay itself down along the rock behind her, and did not spread, and did not go out.
 
@@ -202,7 +204,7 @@ It was the first word she had said since the bow.
 
 "Keep counting his feet."
 
-The seventh one came off the shelf and it was the biggest thing that had come off it yet.
+The seventh one came off the shore and it was the biggest thing that had come off it yet.
 
 Kael called it left and it was left, and his mother put both hands up and took it, and this time she did not throw it anywhere. She stopped it. It stood in the air off the port bow and stayed there, held, burning, forty feet of it. It lit the whole boat and everybody lying on the boards of it. It did not come on.
 
@@ -244,7 +246,7 @@ He could not get it out, because both of his hands were full of his brother.
 
 Elarine Sedrane got up off the boards.
 
-She had nothing left in the world. She had said so on the shelf, before she spent it, the way she said everything, and Kael had watched her sit down on the stone afterwards and not get up. She came up onto her knees now with her hair stuck to her face and her mouth open and she went along the deck to the port rail on her hands and knees, and she got Kael's knife out of Kael's coat because he told her where it was, and she cut a rope. Then another one. Then she could not find the third one. Valeria came past her and found it, and took the knife off her, and cut it, and the mast went off the side of the hull into the sea.
+She had nothing left in the world. She had said so above the bowl, before she spent it, the way she said everything, and Kael had watched her sit down on the stone afterwards and not get up. She came up onto her knees now with her hair stuck to her face and her mouth open and she went along the deck to the port rail on her hands and knees, and she got Kael's knife out of Kael's coat because he told her where it was, and she cut a rope. Then another one. Then she could not find the third one. Valeria came past her and found it, and took the knife off her, and cut it, and the mast went off the side of the hull into the sea.
 
 The boat came upright.
 
@@ -258,7 +260,7 @@ They went down.
 
 Kael lay on the boards on his side with his brother between his chest and the strake. The boat went along on its own weight, slowing, with no sail on it and no mast standing and the wind going straight over the top of everything.
 
-Then the ninth one came off the shelf.
+Then the ninth one came off the shore.
 
 It fell short.
 
@@ -268,13 +270,13 @@ He heard it go into the water and he heard how far away that was without needing
 
 The tenth was shorter than the ninth.
 
-He lifted his head at the eleventh, which never came, and looked back over the strake at the island, and found that the whole of the lowest shelf had got smaller and that the light on it had begun to look like something a long way off.
+He lifted his head at the eleventh, which never came, and looked back over the strake at the island, and found that the whole of that shore had got smaller and that the light on it had begun to look like something a long way off.
 
 There were nineteen of them standing on that rock.
 
-The enormous one had stopped throwing. He had his hands down and he was looking out at the water, and even from here the shoulders on him were a shape Kael was not going to lose. The woman had put her line out. She had crouched down on the flat rock and was doing something to her own hand with the other hand.
+The enormous one had stopped throwing. He had his hands down and he was looking out at the water, and even from here the shoulders on him were a shape Kael was not going to lose. The woman had put her line out. She had crouched down at the water's edge and was doing something to her own hand with the other hand.
 
-And behind them both, back on the second shelf where the light was thinner, a small neat man stood on his own with his hands behind his back and did not move.
+And behind them both, further up, where the light was thinner, a small neat man stood on his own with his hands behind his back and did not move.
 
 He had not spent anything. He had come down six hundred strides of goat ground in the dark to the edge of the sea, and he had stood there for the whole of it, and he had not once put anything anywhere, because there was no ground out here to put it into.
 
