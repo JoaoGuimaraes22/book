@@ -17,7 +17,7 @@ A summary of `02` and `03` for a tool that cannot see them. Facts and fences onl
 
 - Handsome, and filthy with it — not plain (*plain* does not render). Dark hair, his mother's, hacked short by somebody who was not being careful. Lean, hard, strong without bulk; the strength in the forearms and hands. Invisible by status and stillness, not by his face.
 - **Eyes pale grey**, near-white, the lightest value in the face. Free in every image, plates included.
-- Marks: burn speckles **wrist to second knuckle** (Ch. 13) · blade scar on the **left forearm** (Ch. 6) · long shallow scar on the outside of the **left arm above the elbow** (Ch. 23) · burn on the **left forearm, wrist to elbow** (Ch. 24). Drawable only where the chapter has shown them.
+- Marks: burn speckles **wrist to second knuckle** (Ch. 13) · blade scar on the **left forearm** (Ch. 6) · long shallow scar on the outside of the **left arm above the elbow** (Ch. 23) · burn on the **left forearm, wrist to elbow** (Ch. 26) — **the first mark he did not spend himself**, lying over the blade scar; mended by Severin inside the chapter and pink and new by its last page. Drawable only where the chapter has shown them.
 - Armed: two short blades across his back in a cloth wrap, hilts covered, reading as a bundle — plain, unmatched, one heavier than the other. A knife inside the clothing, not visible. His full-figure sheet carries neither; write the wrap in by hand when the moment carries it.
 - Cloth: undyed, coarse, frayed village working cloth. Never "well-made kit chosen to go unnoticed."
 
