@@ -46,10 +46,12 @@ boy on the bench, her mouth closed, her brows still, giving nothing
 back. Plain close-fitting dark clothing of very good quality, a high
 buttoned collar, in ink-black and dark olive, no ornament.
 
-The long-haired girl has stopped cleaning the blade and looks at the
-boy on the bench without hurry, her face flat. Her clothing as in her
-full-figure reference: the charcoal sleeveless coat over the grey-blue
-underlayer, the steel vambraces.
+The long-haired girl has stopped cleaning the blade. Her head is
+turned to the viewer's right, toward the bench, and her eyes are on
+the seated boy across the court and nowhere else — not at the viewer.
+Her face gives nothing away. Her clothing as in her full-figure
+reference: the charcoal sleeveless coat over the grey-blue underlayer,
+the steel vambraces.
 
 Preserve all four exactly as shown in their reference images — faces,
 hair, colouring, apparent age. Do not blend their features. Do not mix
