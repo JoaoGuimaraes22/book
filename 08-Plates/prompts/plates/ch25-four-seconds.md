@@ -22,8 +22,13 @@ a small round clay pot with a handle and a pouring lip, and three
 clay cups with pale green leaves showing in them.
 
 THE BOY IS LAUGHING AND THE WHOLE FACE IS DOING IT: the mouth open,
-the head gone back a little, the cheeks lifted, the eyes creased
-nearly shut. One short laugh caught in the middle of itself.
+the cheeks lifted, the head level, and the eyes creased at the outer
+corners AND STILL OPEN, with the pale grey irises visible through the
+laugh. One short laugh caught in the middle of itself. His eyes sit
+at the vertical midpoint of his head, the jaw is defined at the edge
+and the neck is long — the laugh lifts the cheeks and does not round
+the face. His hair is dark and straight, hacked short and uneven and
+falling over the forehead.
 
 THE WOMAN HAS JUST SAID THE THING HE IS LAUGHING AT AND HER FACE HAS
 NOT MOVED WITH IT: the mouth closed and level, the brows unmoved. The
