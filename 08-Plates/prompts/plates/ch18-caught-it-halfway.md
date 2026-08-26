@@ -13,32 +13,35 @@ side, no sun and no hard shadow.
 
 Composition: chest-up, one figure. The boy is twelve years old. He
 stands sideways in the narrow gap between the pillar and the wall
-with his near shoulder wedged into it and his cheek close to the
-stone, his body turned away to the viewer's left and his head turned
-back to the right. The bottom edge crosses him at the chest, below
-the collarbone, so no hands and no arms are in the frame at all. At
-the right edge of the frame, pinned flat to the wall, two sheets of
-pale paper seen at a steep raking angle, ruled into faint vertical
-columns; the writing on them is a grey suggestion of marks and no
-word anywhere on them is legible. There is no lettering of any kind
-anywhere in the picture. At the near left edge, the dark shoulder and
+with one shoulder wedged into it and his cheek close to the stone,
+his body turned away from the wall and his head turned back along it.
+The bottom edge crosses him at the chest, below the collarbone, so no
+hands and no arms are in the frame at all. At the edge of the frame
+on the side his face is turned toward, pinned flat to the wall beside
+him and at his own depth, two sheets of pale paper seen at a steep
+raking angle, ruled into faint vertical columns; the writing on them
+is a grey suggestion of marks and no word anywhere on them is
+legible. There is no lettering of any kind anywhere in the picture.
+At the opposite edge, nearest the viewer, the dark shoulder and
 collar of a stranger standing in front of him, blurred and out of
 focus and cut off by the edge of the frame above the collar, so that
 no head and no second face appears anywhere.
 
 THE FACE IS THE SUBJECT AND IT IS AN EXPRESSION CAUGHT HALFWAY.
-Something has just started in it and been stopped: the lips have come
-a little apart, one corner of the mouth has begun to lift, the brows
-are up, the eyes are wide and bright and fixed. The rest of the face
-has not moved and is already going still again. The smile has not
-arrived — he is not smiling, not grinning, not laughing. Not
-frightened, not sad, not blank.
+Something good has just started in it and been stopped. On the face:
+the corner of the mouth nearer the paper is lifted and the cheek
+under that eye has come up with it, the lips a little apart; the
+brows are lifted and the eyes are wide, bright and fixed. The other
+side of the face has not come with it and is already going still.
+This is the beginning of a smile, arrested — not a full smile, not a
+grin, not laughter, and not a wary, startled or frightened face.
 
 His hair is wet and pushed off his forehead, the rain still on his
 face, his shoulders dark with it.
 
-He is looking at the pinned sheets at the right edge of the frame and
-nowhere else — not at the viewer, and his head does not turn toward
+He is looking at the pinned sheets and nowhere else: the paper and
+his eye-line are on the same side of the frame, and his eyes go along
+the wall to it. Not at the viewer, and his head does not turn toward
 the viewer.
 
 Undyed coarse working wool, much mended, the collar loose at the
