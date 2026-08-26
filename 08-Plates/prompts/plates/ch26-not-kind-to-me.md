@@ -39,13 +39,23 @@ shoulders down. Not proud, not ashamed, not braced.
 THE TWO ARE LOOKING DIRECTLY AT EACH OTHER, her eyes up and his down,
 and neither of them is looking at the viewer.
 
-Her hair is ink-dark and was bound severe and has come out of its
-binding down one side, hanging loose against her cheek on that side
-and still bound on the other. Her clothing is plain dark cloth of very
-good quality, close and buttoned high, torn through at the thigh, at
-one forearm and down one side, and dark-stained around each tear; the
-skin under it is whole and unbroken and there is no wound anywhere in
-the picture. Grey soot and pale sand dust on both of them.
+She is small and finely built, small for her age, with a narrow frame
+and a small face. Her hair is ink-dark, a flat neutral black, and it
+is BOUND: gathered close against the head and held in a tight severe
+knot at the back, with two or three loose strands come down at one
+temple and nothing else out of it. The mass of her hair is up and
+stays up; none of it falls loose past her shoulders.
+
+Her clothing is finely made and still reads as finely made — plain
+dark cloth of very good quality, close-cut and buttoned high to the
+throat, with no ornament of any kind. It has taken a few clean
+straight cuts in the weave, one at the thigh and one at a forearm,
+each with a dark stain around it and the cloth otherwise whole and
+holding its shape. Not ragged, not tattered, not frayed, not a
+beggar's clothing and nothing about her destitute. The skin under it
+is whole and there is no wound anywhere in the picture. She sits
+upright with her legs drawn in and folded neatly to one side. Grey
+soot and pale sand dust on both of them.
 
 His hair is dark and straight, hacked short and uneven. He wears
 undyed coarse working wool, much mended, in dull oatmeal and dead
