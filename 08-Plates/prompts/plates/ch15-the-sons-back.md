@@ -19,9 +19,8 @@ it, out of frame: the light comes up through that hole from below and
 behind him, and it is the only light in the picture.
 
 Composition: the boy stands with his back square to the viewer,
-stripped to the waist, seen from directly behind and cropped at the
-hips and just above the crown of his head, so that the back of his
-head is in frame and no part of his face is. A shirt hangs from one
+stripped to the waist, cropped at the hips and at the top of the neck
+so that no face and no head is in the frame. A shirt hangs from one
 hand at his side. He fills the frame.
 
 THE MARKS AND WHERE THEY STOP ARE THE SUBJECT OF THE IMAGE. Across the
@@ -32,16 +31,13 @@ no pattern. They are flat under the skin and the skin is not broken
 anywhere: no cuts, no blood.
 
 WHERE THEY STOP IS THE WHOLE PICTURE, AND BOTH SIDES OF THE LINE ARE
-IN FRAME. The back of his neck is completely clean and unmarked, and
-below the wrists both hands are completely clean and unmarked. Every
+IN FRAME. Above the line of a shirt collar — the back of the neck, the
+tops of the shoulders — the skin is completely clean and unmarked.
+Below the wrists, both hands are completely clean and unmarked. Every
 mark on him lies between those two lines, and the change is abrupt.
 
-HE IS TWELVE AND STRONG FOR IT, AND THE MEASUREMENT IS HIS OWN HEAD:
-his shoulders are about two of his own head-widths across, not three.
-A hard, worked, lean body with real strength in it and none of a grown
-man's depth or mass — the frame not finished, the blades and the lower
-ribs standing under the skin, the muscle flat and stringy
-rather than filled out. Dark hair cut short and uneven at home. The
+A lean, hard, worked body, strong without bulk, the strength in the
+back and the forearms. Dark hair cut short and uneven at home. The
 shirt in his hand is plain undyed working wool, coarse and much
 mended, and the ink carries it at the seams and the mended places.
 

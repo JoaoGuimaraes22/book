@@ -2,7 +2,7 @@
 
 **This folder is self-contained on purpose (author ruling, s34).** `CLAUDE.md` carries one line about it and nothing else, so the plate system costs no context in a writing session. **Everything that governs image generation lives here.** Read this file first when doing plate work; ignore the folder entirely otherwise.
 
-**CHAPTERS 1–14 ALL HAVE TWO PLATES OR MORE (s45).** The programme below names the target and nothing else needs to: **the first chapter in sequence without two.** Candidates are on `plates/candidates.md`.
+**CHAPTERS 1–15 ALL HAVE TWO PLATES OR MORE (s45).** The programme below names the target and nothing else needs to: **the first chapter in sequence without two.** Candidates are on `plates/candidates.md`.
 
 **LIGHT FROM BELOW IS PROVEN (s42).** `ch05/the-fact-lands` put a faint out-of-frame source under a face and lit it properly, so **the gate the Ch. 8 doorway was holding on Aurelian's candle is open** and the candle no longer waits on it. `ch01-fallen-stars` had shown only that an in-frame source throws nothing; the two findings are different and both stand.
 
