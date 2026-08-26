@@ -434,9 +434,7 @@ She did not take the step. She went backwards onto it.
 
 "Behind me," she said.
 
-"That's my door."
-
-"I know whose door it is," said Valeria.
+"I know."
 
 And through it, out of the room, from somewhere under all of it, came a sound that was not anybody on that mountain.
 
@@ -450,7 +448,7 @@ Everything Kael had went out of him through the soles of his feet.
 
 He went in. He did not know he was going.
 
-The room was full of steam and blood and light. His mother was on the fleece with her back against the bed frame, grey to the lips, with her hair stuck to her face and the white in it going all the way through in two places, and she was holding a thing wrapped in the cloth off their own table.
+The room was full of steam and blood and light. His mother was on the fleece with her back against the bed frame, grey to the lips, with her hair stuck to her face and the white in it going all the way through in two places, and she was holding a crying thing wrapped in the cloth off their own table.
 
 Severin took it off her and put it into Kael's arms, hard, the way you hand somebody a tool.
 
@@ -474,21 +472,21 @@ Then the baby moved his head against Kael's forearm, with nothing behind it, the
 
 It was red.
 
-All the way through, edge to edge, the colour of the fire in the hole. It was not looking at anything, the way a newborn's eye is not looking at anything.
+All the way through, edge to edge, the colour of the blood in his hands. It was not looking at anything, the way a newborn's eye is not looking at anything.
 
 It was red.
 
-Kael's whole mind arrived at once and put nothing anywhere.
+Kael's whole mind arrived at it and put nothing anywhere.
 
 He looked up.
 
-His mother was watching him from the fleece. She was watching his face and not the child's. There was nothing on hers. Not fear. Not warning. Not surprise, not the smallest fraction of surprise. She did not say one word.
+His mother was watching him from the fleece. She was watching his face and not the child's. He could see it. Fear. Warning. But not surprise, not the smallest fraction of surprise. She did not say one word.
 
 Severin had both hands on her and did not look up either. He had not looked up once. He had gone on working through the whole of it.
 
 Nobody in that room had been surprised by anything.
 
-Kael stood in the middle of it holding his brother and understood exactly one thing. Both of the people in that room had known this was coming. They had known it for months. And his mother, who had never in his life broken a promise to him, had not told him.
+Kael stood in the middle of it holding his brother and understood exactly one thing. Both of the people in that room had known whatever this was, that it was coming. They had known it for months. And his mother, who had never in his life broken a promise to him, had not told him.
 
 "Kael," said his mother.
 
@@ -536,8 +534,7 @@ His father looked at the grey flat, and at the pens, and at the top of the runne
 
 "Can you take that side of the mountain off," he said.
 
-Severin turned his head and looked east, at the ground under the olive line, at the terraces going down and away into the dark with nineteen and then a great many more of them strung along it, and at the whole face of the mountain above it that Kael had told a captain of the royal guard nothing about because there had been no reason to.
-
+Severin turned his head and looked east, at the ground under the olive line, at the terraces going down and away into the dark with nineteen and then a great many more of them strung along it, and at the whole face of the mountain above it.
 "Yes," said Severin.
 
 "How long do you need."
@@ -556,7 +553,7 @@ It was far too big. It was a grown man's war sword and it weighed what a grown m
 
 "Father—"
 
-"Both hands. It is not a knife. You will get it in a year."
+"Both hands. It is not a knife. You will grow into it in a year."
 
 "Father, *don't*—"
 
@@ -566,7 +563,7 @@ It was far too big. It was a grown man's war sword and it weighed what a grown m
 
 "Say it to me."
 
-"I have them, Vask."
+"I have them, Vask. You have my word."
 
 "Good," said Kael's father.
 
@@ -580,7 +577,7 @@ Kael felt it start under his boots.
 
 It was not a thing being lifted. Nothing on that mountain got lifted. The old man reached along the ground into the one place under that whole eastern face where all of it was already leaning, where the wet of the winter had been sitting in the rock since the cold term, waiting, and he found the lazy place and took it away.
 
-Everything heavy is lazy. Kael stood in his own yard with a sword too big for him and watched a man do it to a mountain.
+*Everything heavy is lazy.* Kael stood in his own yard with a sword too big for him and watched a man do it to a mountain.
 
 The sound came up through his feet before it came into his ears.
 
@@ -616,7 +613,7 @@ It held for four seconds. Everybody on that ground got through the gap in four s
 
 Then they went round it. The first two reached him. Kael, going past forty feet below with a sword in both hands, turned and started back up the slope, and got three strides, and was picked up off his feet by the front of the coat.
 
-"No," said Severin.
+"No!" said Severin.
 
 Oss was on his knees on the lip. He had his hands up in front of his face, which was not a guard, which was nothing, which was what a boy does who has never once been hit.
 
@@ -640,13 +637,53 @@ He was not trying to.
 
 He went into them with his hands.
 
-He took the woman first. She got a line of fire up between them and it went out on his forearm as though nobody had paid for it. He came through it, took her by the throat, and put her into the ground with an arm that had lightning going into it. She did not get up.
+The ordinary men were what stood between him and anybody worth reaching, so he went through the ordinary men. Kael watched him take a spear off one and give it straight back through the man beside him. He watched him put a fist into a helmet and watched the helmet stop being the shape a helmet is. He watched three of them go up off the ground at the same time and come down at different times.
 
-Gallos put a sheet of it over the both of them. His father came out of the sheet burning. He went through the huge man's guard and broke something enormous in him with the heel of his hand, and the huge man went down onto all fours and stayed there.
+It took about nine seconds and they stopped being anything.
 
-Then Pellan came in off the side on his ruined leg. Vask turned into him and hit him four times in about a second: the throat, under the arm twice, the side of the head, the last of what was in him coming off his knuckles in white. The man's neck went. He was dead before he came off his feet.
+Then the woman. She got a line of fire up between them and it went out on his forearm as though nobody had paid for it. He came through it, took her by the throat, and put her into the ground with an arm that had lightning going into it. She did not get up.
 
-Kael's father stood in the middle of his own yard, over three of them, with his hands hanging. There was nothing left in him.
+The first spear went into him while he was still standing over her.
+
+It came in low from behind, into the back of the thigh and out the front of it, and Kael's whole body tried to go and could not. His father did not look at it. He reached back over his own hip, took the haft, and broke it off short so that it would stop being a handle for anybody, and left the rest of it where it was, and turned round.
+
+The man who put it there got about a stride and a half.
+
+Then Gallos came over the top of both of them with a sheet the width of the yard.
+
+His father came out of the sheet burning. The coat was going at the shoulder and along the whole of one side, and he came out of it and through the huge man's guard and broke something enormous in him with the heel of his hand, and the huge one went down onto all fours and stayed down.
+
+He did not put the burning out. He had nothing to put it out with. It went on going while he turned round to look for the next thing, and it went out on its own, later, and what it had done to him stayed where it was.
+
+Then they stopped coming in.
+
+Four hundred men, and it went quiet along the whole front of that yard. There was nobody left standing in it who wanted to be the next one, and Kael, forty feet below with an old man's arm across his chest, watched four hundred grown men decide that together, without a word being said anywhere.
+
+Severin did not move him. Whatever the old man was doing with those seconds, he was not spending them going down the mountain.
+
+Then the enemy did it the way it is actually done.
+
+The arrows started. Kael heard the first one arrive, because his father was that close and the night had gone that quiet. Two into the back. One high on the shoulder, standing out of him at an angle, staying there. Spears came in at length from three sides at once, and he took two of those, and the third one he took off the man holding it and used.
+
+He went on coming forward.
+
+That was the part Kael could not hold in his head and never afterwards got anywhere near putting into words for anybody. His father, with a broken shaft in his thigh and two arrows in his back and one whole side of him burned down to the meat, walked forward into the middle of four hundred men.
+
+And the middle of four hundred men went backwards.
+
+Kael counted the wounds. He could not not count them. Every one that went into his father went into a running total in a machine he had never once been able to switch off, and he hung in an old man's arms forty feet below and counted his own father's wounds, and he would have given anything on this earth for it to stop.
+
+He was at eleven when Pellan came in off the side on his ruined leg.
+
+Vask turned into him and hit him four times in about a second: the throat, under the arm twice, the side of the head, the last of what was in him coming off his knuckles in white. The man's neck went. He was dead before he came off his feet.
+
+And Kael's father stood in the middle of his own yard, over three of them, and did not fall down.
+
+That was the whole of it at the end. A man on his feet on his own ground with four hundred people round him and no part of him working any more, not falling down, and nobody willing to come and make him.
+
+Somebody threw a spear from thirty feet. It went into his side and he took one step to keep himself where he was.
+
+Then he stayed where he was.
 
 The white went out.
 
@@ -654,7 +691,7 @@ Then the air over the flat bent, and Kael's father put his hand up to his own co
 
 The thin young one was on the edge of the ground being held upright between two men with his shirt black to the knee, and he was doing the last thing he had left, at ten feet, on a man who could not walk away from it.
 
-Dunmar walked round the edge of the grey flat and killed him.
+Dunmar walked round the edge of the grey flat.
 
 The old man did not do anything clever. He came in from the side while Vask's arms were still down and put his hand flat on Vask's chest. The fire went in and came out through his back. Vask went down onto his knees.
 
