@@ -13,29 +13,32 @@ strongest element; colour tints rather than fills. Large areas left
 as bare paper. Warm living skin, soft ochre in the mid-tones — the
 warmth belongs to the skin alone, not the paper or the cloth.
 
-Setting: a disused stone cistern court on a grey afternoon, as loose
-wash suggestion — wet dark brick underfoot with shallow standing
-water in the hollows, moss in the joints, a low brick wall behind and
-the far side of the court going into cool shade. Flat overcast
-daylight, no shadows with hard edges, and it is the only light in the
+Setting: a disused cistern court on a grey afternoon. THE FLOOR IS OLD
+BRICK LAID IN COURSES, dark, matte and damp, with the joint between
+every brick drawn and moss in the joints. Two or three small shallow
+puddles stand in its hollows; the rest is damp rather than wet, and
+nothing in the picture is mirror-like or reflective. A low brick wall
+behind, the far side of the court going into cool shade, as loose wash
+suggestion. Flat overcast daylight and it is the only light in the
 picture.
 
-Composition: the viewer is low, at the height of the brick. The
-fair-haired boy is nearest and largest, lying face down and propped up
-on both elbows in the near foreground, his head and shoulders filling
-the lower third of the frame and his face turned across it toward the
-viewer's left. Behind him and further off, the dark-haired boy walks
-across the frame mid-stride, seen at full length and about half his
-height. Further off again, the girl sits on the low wall at the back
-of the court. All three are on the same brick floor, which runs
-continuously from the near foreground to the wall.
+Composition: the viewer is low, about a forearm's height above the
+brick, and stands back far enough that the fair-haired boy's whole
+head and both forearms sit in the frame with room around them. He is
+nearest and largest, lying face down on the brick propped on both
+elbows, his face turned across the frame to the viewer's left; the
+bottom edge crosses just behind his shoulders, so his legs are out of
+frame. Behind him the dark-haired boy walks across the frame
+mid-stride at full length, and further off again a girl sits on the
+low wall at the back. All three are on the one brick floor, which runs
+unbroken from the near foreground to the wall.
 
-THE FAIR-HAIRED BOY'S FACE IS THE SUBJECT OF THE IMAGE, AND HE HAS
-JUST FOUND SOMETHING OUT. Delighted and disgusted at once: the eyes
-wide open, the brows up, the mouth open on a word. His cheek and the
-side of his jaw are wet where they have been in the water. His hair is
-full of green moss. NOT frightened, NOT hurt, NOT sneering, and not
-posed.
+THE FAIR-HAIRED BOY'S FACE IS THE SUBJECT OF THE IMAGE, AND HE IS
+DELIGHTED. He is grinning — the mouth open and pulled wide with the
+corners up, the teeth showing, the eyes bright and creased at the
+outer corners, the brows up. His hair is full of green moss. NOT
+alarmed, NOT frightened, NOT in difficulty, and not sneering. No water
+runs down his face.
 
 WHERE EACH IS LOOKING: the fair-haired boy's eyes are on nothing, at
 ground level, past the left edge of the frame. The dark-haired boy is
@@ -43,13 +46,16 @@ looking down at his own feet as he walks. The girl is looking at her
 own open hand and does not look up. None of the three is looking at
 the viewer.
 
-WHAT EACH HAND IS DOING: the fair-haired boy's two hands are flat on
-the brick under his shoulders, holding him up. The dark-haired boy's
-hands are empty at his sides. The girl's left hand rests in her lap
-and her right hand is open, palm up.
+HOW HE LIES ON THE FLOOR, AND EVERY PART OF HIM TOUCHES IT: his chest
+rests on the brick, both forearms lie along it from elbow to hand with
+the elbows directly under his shoulders carrying his weight, and both
+palms are down on it. A shallow puddle stands a hand's width in front
+of his face; his cheek and jaw are wet from it. The dark-haired boy's
+leading boot is down flat on the brick, and his hands are empty at his
+sides.
 
-ONE SMALL FLAME STANDS ON THE GIRL'S OPEN PALM, about the width of a
-coin, burning on nothing, with a clear gap of air between it and her
+THE GIRL'S LEFT HAND RESTS IN HER LAP AND HER RIGHT IS OPEN, PALM UP,
+WITH ONE SMALL FLAME STANDING ON IT, about the width of a coin, burning on nothing, with a clear gap of air between it and her
 skin. There is no wick, no candle and nothing in her hand. It is
 perfectly still, and it lights nothing and throws no shadow.
 
@@ -66,15 +72,14 @@ only to the dark-haired boy, and the close dark clothing only to the
 girl.
 
 THE PICTURE IS COLD AND THE WARM IN IT IS NAMED: the flame and their
-skin carry the only warm colour, and the brick, the water, the moss,
+skin carry the only warm colour, and the brick, the puddles, the moss,
 the wall and all the clothing are cool grey and grey-blue with no
 brown in them.
 
 HIS FACE IS THE MOST FINISHED THING IN THE PICTURE and carries the sharpest step from light to dark. The walking boy is
 looser and softer-edged, the girl on the wall looser again, and the
 court behind them stays at quiet middle values with no detail. The
-standing water and the wet sheen on the brick are reserved as bare
-unpainted paper. The ink linework stays the strongest element and does
+lit top edge of the brick wall is reserved as bare unpainted paper. The ink linework stays the strongest element and does
 not blur into the wash.
 
 Preserve all three exactly as shown in their reference images — faces,
