@@ -13,15 +13,18 @@ as bare paper. Warm living skin, soft ochre in the mid-tones — the
 warmth belongs to the skin alone, not the paper or the cloth.
 
 Setting: a disused stone cistern court in the last of a summer
-afternoon, as loose wash suggestion — a low wall, dry flagstones,
-scrub coming up through the joints, the far side of the court going
-into cool shade. Late low daylight from one side, and it is the only
+afternoon, as loose wash suggestion — a low wall, dry flagstones and scrub
+going into cool shade behind them. Late low daylight from one side, and it is the only
 light in the picture.
 
-Composition: chest-up, two boys close together in the near foreground
-filling the frame, turned three quarters toward the viewer. The
-fair-haired boy stands nearer the middle; the dark-haired boy stands
-at his shoulder, half a pace behind and slightly smaller in the frame.
+Composition: the bottom edge of the picture crosses both boys just
+below the collarbone, so that no arms, no hands and no legs are in the
+frame at all and the two heads and shoulders fill it. They stand
+shoulder to shoulder in the near foreground, turned three quarters
+toward the viewer, both at the same distance from the viewer, with the
+low wall about two strides behind them. The fair-haired boy is nearer
+the middle and stands a head taller; the dark-haired boy is at his
+shoulder and half a pace behind.
 
 THE FAIR-HAIRED BOY IS LAUGHING AND IT IS A REAL ONE, SURPRISED OUT OF
 HIM: the head gone back a little, the mouth open, the eyes creased and
@@ -38,19 +41,20 @@ WHERE EACH IS LOOKING: the fair-haired boy's eyes go up and away past
 the top of the frame at nothing. The dark-haired boy's eyes are on the
 fair-haired boy's face. Neither is looking at the viewer.
 
-All four hands are open and empty at their sides. Nothing is held by
-anybody and there is no weapon anywhere in the picture.
+Both boys' arms and hands are out of frame below the bottom edge.
+Nothing is held by anybody and there is no weapon anywhere in the
+picture.
 
 The fair-haired boy has dark-gold hair, well cut and groomed, and
-amber gold-brown eyes; clear well-fed skin with sun on it, and soot
-black on both his forearms and the backs of his hands. He is tall and
-already broad through the shoulder, a head taller than the other boy and heavier through the frame. He wears good plain cloth,
+amber gold-brown eyes; clear well-fed skin with sun on it. He is
+tall and already broad through the shoulder, a head taller than the
+other boy and heavier through the frame. He wears good plain cloth,
 well cut and well kept, with no badge, no chain and no ornament of any
 kind on him.
 
 The dark-haired boy has near-white neutral grey eyes, cool and
 colourless, the lightest value in his face; dark hair cut short and
-uneven, and dust on him. He wears plain undyed working wool, coarse and much mended,
+uneven. He wears plain undyed working wool, coarse and much mended,
 the ink carrying it at the seams. The good cloth belongs only to the
 fair-haired boy and the mended wool only to the dark-haired one.
 

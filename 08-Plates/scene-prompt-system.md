@@ -43,6 +43,10 @@ Full-body only when the spatial relationship *is* the subject: the kneeling scen
 
 Evidence from testing: quiet scenes at chest-up came out right on the first attempt. The same fight at full body took six attempts and never fully resolved.
 
+**AND NAME THE CUT AS A LANDMARK ON THE BODY, NOT AS A CROP WORD (s45, two runs).** *Waist-up* returned the knee (`plates/ch14.md`, both hands full) and *chest-up* returned three-quarter length (`plates/ch15.md`, the unaimed laugh), and the second one floated — figures running out of the frame with no feet and no ground under them. **Both times the instruction was an abstraction.** Write where the frame cuts the body and what that puts out of the picture: *the bottom edge of the picture crosses both boys just below the collarbone, so that no arms, no hands and no legs are in the frame at all.* Same correction §Altitude made for camera height — **an instruction phrased as a category loses to one phrased as a surface.**
+
+**And when a figure is cut off mid-body, say what it is standing in.** §Settings' *both figures grounded on the same floor plane* was written for two figures in a hall and applies to any cropped standing figure: give the depth a landmark — the wall two strides behind, both figures at the same distance from the viewer — or the body hangs on bare paper.
+
 ---
 
 ## Hand and object inventory
