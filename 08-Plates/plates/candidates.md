@@ -279,3 +279,15 @@ Every entry was checked against **THE PLATE FOLLOWS THE PAGE** when it was writt
 6. **The corridor.** A man in heavy dark grey standing in a cold corridor, not blocking it, already where he would need to be standing. *"Alone." / "Alone," said the man in grey.* His face need not be resolved at all, which is the point of him.
 
 *Ruled out at s48, and priced:* **standing over him waiting for the fourth time** is the chapter's most famous image and it is a child standing over a downed child — `ch21/dead` was refused with far less in the frame, and a refusal produces no picture. Not attempted.
+
+---
+
+## Ch. 24 — The Table
+
+*Written at s48, at design time.*
+
+1. ★ **Turn him toward the lamp.** — **BUILT (s48): sheet `ch24.md`.** The hot room, the braziers burning coals in spring, the gold nailed along a screen standing in front of nothing — and a table loaded end to end with fish, three joints, out-of-season fruit going soft and ice sweating in a silver bowl, **with nobody eating anywhere in the frame.** Across it, a boy turned into the lamplight so he can be looked at properly, giving nothing back. *"There is nothing to him," the princess said.*
+2. ★ **The smile.** — **BUILT (s48): sheet `ch24.md`.** The corner where the sea court path goes up, one lamp left behind in the court: *And Valeria Vel turned her head and smiled at him. It was not much of a smile. It was there and gone, and it did not do anything a smile is supposed to do to a face.* **The matched opposite of `ch18/caught-it-halfway`** — there the cheek had to come up for the smile to read; here it must not move at all.
+3. **The ice.** A wide silver bowl packed round a jug, sweating into the cloth, in a room with four braziers going. *There's no ice on this island in the spring.* **Inside candidate 1 rather than its own plate** — an object crop with no face at its own distance is what `ch19/the-third-board` was rejected for.
+4. **Kneel.** A boy kneeling on new boards in front of a carried chair, not knowing what the farewell is, while a room full of people work out that nothing is coming. **The scene system already has this composition** as `scene-tests.md`'s `kneel-kael-aeliana`, so it is known to render; a plate would be the moment rather than the test.
+5. **The cistern supper.** All four on the brick with two lamps on the rim and most of a Temple supper on a cloth — three of them laughing at nothing, Kael's flinch, and Valeria not laughing either, and their eyes meeting over the top of a jar. **Passed over at s48:** it is `ch17/who-lives-in-it` again, same four, same brick court, one chapter's distance apart. The beat is recorded here so it is not lost.
