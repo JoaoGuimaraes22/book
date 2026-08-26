@@ -54,13 +54,9 @@ Kael sat up.
 
 Severin's head came up.
 
-"There are eleven now," Kael said. "They are halfway down. Master, they are carrying torches on a hillside in the dark with our boat six hundred strides below them, and they do not care what we can see."
+"There are eleven now," Kael said. "They are halfway down. Master, they are carrying torches the hillside in the dark with our boat six hundred strides below them, and they do not care what we can see."
 
-"Yes," said Severin.
-
-"They are not following us."
-
-"No," said Severin. "They know where we are."
+"Yes," said Severin. "They know where we are."
 
 Valeria Vel came aft along the boards without being told to. She looked at the lights coming down the shore for about two seconds and then she looked at the sail and then at the water going past the side, and Kael watched her do the same sum he had just done and get the same answer.
 
@@ -86,7 +82,9 @@ Then the first one arrived.
 
 It did not come like a thing thrown.
 
-It stood up off the shore, all at once, wider than the boat was long, and it came out over the water without going up first and without dropping, keeping its shape the whole way, and the whole of the sea between the island and the hull went the colour of a hearth.
+It stood up off the shore, all at once, wider than the boat was long, and it came out over the water without going up first and without dropping, keeping its shape the whole way, and the whole of the sea between the island and the hull went the colour the sun.
+
+A fireball.
 
 Kael saw the mast's shadow lie down flat across the deck and run out over the water on the far side.
 
@@ -104,9 +102,9 @@ She had come up the boards on her knees with one arm across the front of her coa
 
 "Mother, I can hel—"
 
-"Say it."
+"Kael. Say it."
 
-"I won't put him down."
+"He'll be safe. I won't put him down."
 
 She got up. She went forward past the mast, past Valeria, all the way to the bow of that hull, and stood up in it facing the island with her hands loose at her sides.
 
@@ -126,7 +124,7 @@ The light on the water lasted longer than the fire did. Kael watched it go along
 
 "Oh," said Aurelian Corvane, from the boards, with his face against the wood. "Oh, that is—"
 
-"Quiet," said Elarine.
+"Quiet. Let the woman focus," said Elarine.
 
 Kael got his knees under him.
 
@@ -136,19 +134,19 @@ He found the source of it at once.
 
 He was down at the water, out on the end of the rocks, enormous through the shoulders. There were four torches standing near him and a good deal of light on him. He was standing with his weight on his back foot and his hands down. While Kael watched, he turned his head and said something to somebody behind him. Then he turned back, and put his weight forward.
 
-And his hands came up, and forward.
+And his hands came up, and towards the ship.
 
-Kael had the whole of it before the thing was halfway to them, because he had seen the man do it in his own yard with his father's pens burning: he made it, and it stopped being his, and he was already somewhere else with his feet.
+Kael had the whole of it before the thing was halfway to them, because he had seen the man do it in his own yard.
 
-"MOTHER," Kael said.
+"MOTHER! MORE INCOMING," Kael said.
 
 The back of her head did not move.
 
-"He is going to your left. He is loading the next one before that one lands. His feet go first."
+"He is going to your left! He is loading the next one before that one lands! His feet go first."
 
 Nothing came back. The third one went over the top of the sail and out into the water on the far side of the boat, low and wide, and the boat rocked once as the sea underneath it decided what to do about it.
 
-"Left again," said Kael. "Long. LONG."
+"Left again," said Kael. "Long. LONG!"
 
 The fourth came apart above the mast.
 
@@ -162,61 +160,87 @@ He had started somewhere in the middle of the second one and Kael had not heard 
 
 She took it. It went down into the sea beside them. The water came up over the side and across the boards and put out everything that was burning on that side of the boat, and Elarine Sedrane, flat on the deck, got a mouthful of it and choked and did not move.
 
-"Six," said Kael. "That is six."
+"More," said Kael. "More are coming."
 
-He had begun to hear his mother's breathing between the throws. It was not the breathing of somebody working hard. He had heard her do that above the burning bowl four hours ago and this was not it. This was the way a person breathes when the breath itself is a thing that has to be decided on and got through, and it was coming up from a long way down, and it was slower than it should have been.
+He had begun to hear his mother's breathing between the throws, the way a person breathes when the breath itself is a thing that has to be decided on and got through, and it was coming up from a long way down, and it was slower than it should have been.
 
 Then the wind came off the land in a long push and the sail went hard, and the boat leaned and began to go, properly, for the first time.
 
-"Master," said Kael. "Range."
-
-"I know what the range is."
-
-"Two more of those and we are out of it."
-
-"I know," said Severin.
+"We need to hold. Just a bit further, and they won't hit us," said Severin.
 
 ---
 
-The woman came down onto the water's edge on the last of the rock.
+Then, a woman came down onto the water's edge on the last of the rock of the shoreline.
 
-Kael saw her because he had been going along that shore with his eyes since the first one, looking for the small old man, and she was not what he was looking for.
+Kael saw her.
 
-She came down the last of the rocks alone, quickly, with her sleeves pushed back, and she stepped out onto the flat stone at the very edge of the water, which was the nearest piece of the island to the boat, and she stopped there.
+She came down the last of the rocks alone, quickly, with her sleeves pushed back, and she stepped out onto the flat stone at the very edge of the water, which was the nearest piece of the island to the boat, and she stopped.
 
 A line of fire about the thickness of a finger came out of her right hand and lay itself down along the rock behind her, and did not spread, and did not go out.
 
 Kael's hands went cold on his brother's back.
 
-He had watched this woman put her hand out sideways as she walked, in his own yard, and take Aurelian Corvane's entire capacity apart with one movement, and step through the middle of what was left of it without changing her stride, and go on to the next thing. She had not looked at it either. Nobody down there looked at anything.
+"Mother." It came out of him wrong and there was nothing he could do about that. "The woman on the low rock. She does not put things out. She goes across them—"
 
-"Mother," he said. "The woman. On the low rock. The one with the line."
+"I see her."
 
-His mother's head turned about an inch and came back.
+It was the first thing his mother had said since the bow.
 
-"She does not put it out," Kael said, and his voice came out of him wrong and he could not do anything about that either. "Mother, she does not put a thing out. She goes across it. She takes it in half and she walks through the middle of it and it does not — you cannot hold anything in front of her, she does not care what it is—"
+"Keep counting."
 
-"Kael," said his mother.
+Then the enormous one stopped taking turns.
 
-It was the first word she had said since the bow.
+He had been throwing one at a time because one at a time had been enough, and now it was not, and he opened his hands and let the shore do it.
 
-"Yes."
+The seventh and the eighth came off the rock together and they were not the same shape as each other. One stood up wide and flat and kept its shape the way every one before it had. The other came low and fast with its belly in the water, throwing a wall of steam up behind it the whole way across, and it was still climbing when it arrived.
 
-"Keep counting his feet."
+"Seven," said Kael. "Seven and eight. Eight is low, it is LOW—"
 
-The seventh one came off the shore and it was the biggest thing that had come off it yet.
+His mother took them both.
 
-Kael called it left and it was left, and his mother put both hands up and took it, and this time she did not throw it anywhere. She stopped it. It stood in the air off the port bow and stayed there, held, burning, forty feet of it. It lit the whole boat and everybody lying on the boards of it. It did not come on.
+She took the flat one first and put it down into the sea on the port side. Then she took the low one out of the air with her hands going the other way, and it broke across the front of the boat and went over them in pieces, and every piece of it that came down came down in the water and not on the deck.
 
-"What is she—" said Aurelian.
+"Nine. Ten."
 
-She had it because she could not spare the second it would have cost to be rid of it, because the eighth was already standing up off the rock behind it.
+Nine was a column. It came off the rock standing on its end, turning, taller than the mast and thinner than the mast, and it did not travel like the others; it walked. Ten was a sheet again, and eleven was under it, and twelve was somewhere behind both of them and Kael did not see it leave the shore at all.
 
-And down on the flat rock at the water's edge, eighty strides away, the woman with the line put her arm out sideways, and drew it across.
+"Ten and eleven — and twelve, twelve is behind it—"
 
-There was no noise. The thing his mother was holding folded along the line the woman had drawn, from the top down, in two pieces, and the two pieces came off their own weight and went into the sea and were gone, and the dark came back down on the boat so fast that Kael's eyes gave him nothing at all for a second and a half.
+The sea on both sides of the hull was going up.
 
-Which was exactly as long as it took the eighth one to arrive.
+That was the thing he could not stop looking at afterwards, when there was time to have looked at anything. Not the fire. The water. Every one of them his mother put down went into the sea within thirty strides of the boat, and every one of them took a piece of the sea up with it when it went, and the steam stood along both sides of that hull in walls higher than the mast, and the light came through the walls from underneath and moved, so that eight people lay on the boards of a boat inside a white room with the walls of it going up and going out and going up again.
+
+"Fourteen. Fifteen — fifteen and two more behind it—"
+
+He had lost thirteen. He did not know where thirteen had gone.
+
+His voice had stopped being a voice with sentences in it and had become the noise a man makes counting a herd through a gate, flat and fast and without any breath under it, and he could hear himself doing it and could not have stopped if the boat had depended on it, which it did.
+
+The child was screaming against his neck. The old man was shouting something in the stern that had the word *down* in it. Aurelian Corvane had both hands over the back of the princess's head and was talking to the boards. None of it went anywhere near the part of Kael that was working.
+
+"Eighteen. Nineteen — no. TWENTY. Twenty, and there is another one—"
+
+He was at twenty and he did not know what had happened between fifteen and twenty. Four of them had gone through him and come out the other side as a number, without stopping anywhere he could reach.
+
+His mother had stopped moving her feet.
+
+She stood in the bow with her arms going and the whole of the shore coming at her, and she was not choosing any more. The choosing had been in the first six, when there had been a second between them and a decision to make about what to do with it. Now she was simply taking whatever arrived, in the order it arrived, with whatever hand was free.
+
+Twenty-two. Twenty-three, two together. Twenty-six.
+
+He stopped saying them out loud somewhere in there, because he was telling her about things that had already been and gone, and she had answered them without him, and a number is only worth anything if it arrives before the thing does.
+
+The count did not stop when his mouth did. It never stopped. It went on running behind his eyes at the speed the shore was going, and it gave him thirty, and it gave him thirty-four, and then it gave him a number he did not believe and gave it to him again.
+
+And down on the flat stone at the very edge of the water, eighty strides off, the woman with the line put her arm out sideways and drew it across.
+
+There was no noise. The thing his mother had up in front of the boat folded along the line the woman had drawn, from the top down, in two pieces, and the two pieces came off their own weight and went into the sea and were gone.
+
+The white room went out.
+
+The dark came back down on that boat so fast that Kael's eyes gave him nothing at all for a second and a half.
+
+Which was exactly as long as it took the next one to arrive.
 
 It came in whole, on line, at the height of the mast.
 
@@ -252,6 +276,10 @@ The boat came upright.
 
 It sat down on the water and stopped doing anything at all.
 
+Kael had his brother against his chest and did not know what number he was on.
+
+He had never once in his life not known what number he was on.
+
 ---
 
 "Down," said Severin. "All of you. Down and stay down."
@@ -260,7 +288,7 @@ They went down.
 
 Kael lay on the boards on his side with his brother between his chest and the strake. The boat went along on its own weight, slowing, with no sail on it and no mast standing and the wind going straight over the top of everything.
 
-Then the ninth one came off the shore.
+Then another one came off the shore.
 
 It fell short.
 
@@ -268,9 +296,9 @@ He heard it go into the water and he heard how far away that was without needing
 
 "Sixty," he said. "That was sixty short."
 
-The tenth was shorter than the ninth.
+The one after it was shorter than that.
 
-He lifted his head at the eleventh, which never came, and looked back over the strake at the island, and found that the whole of that shore had got smaller and that the light on it had begun to look like something a long way off.
+He lifted his head at the one that never came, and looked back over the strake at the island, and found that the whole of that shore had got smaller and that the light on it had begun to look like something a long way off.
 
 There were nineteen of them standing on that rock.
 
