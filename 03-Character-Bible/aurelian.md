@@ -11,6 +11,7 @@
 - **Appearance:** Tall for his cohort, built a year ahead of his age; dark-gold hair; **amber, gold-brown eyes — author ruling s34, unspent on any page**; high carriage; unspent strength Kael prices on sight. Beautiful and knows the exact weight of it — the bench behaves differently in his radius (render the radius, not the adjective). Fire's warmth in the coloring without stating it — it sits in the hair and the eyes together, and is never named as fire.
 
 ### DYNAMIC
+- **He pulled a sweep one-handed out of a rock cut, and then lay on the boards with both hands over the back of a princess's head for the length of a barrage**, talking to the wood. **He is the one who keeps putting his body between other people and the thing**, and nobody has remarked on it.
 - **HE TALKED THE ENTIRE WAY DOWN THAT MOUNTAIN** — steadily, in order, correct in every particular, for nobody, and when he was told to be quieter he was quieter and did not stop.
 - **He got the princess of the empire up off stone one-handed before anybody else had turned round**, and carried her down the last shelf to the boat on his good side.
 - **HE SPENT EVERY GRAIN HE HAD IN ONE WALL, off one good hand, and it was genuinely enormous** — and Fenna drew a line across it and stepped through the middle of it without breaking stride. **The capacity he was raised to worship, on the page, against real war.** He went down on his knees and had to be dragged along a wall by Elarine.

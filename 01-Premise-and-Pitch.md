@@ -12,7 +12,7 @@ Kael has never left the mountain. The rules are absolute and unexplained: never 
 
 Because his mother and father were instruments of an imperial program that harvests children of a rare bloodline — and they didn't just flee it, they burned it down, and believe it dead. Their son, the only good thing they ever made, is also the last thing they ever stole. When his talent is seen and the island's great Temple opens its doors to him, Kael steps for the first time into the world of the empire's golden children — and meets Valeria Vel, the flawless daughter of the royal protectors, the first person who has ever been his measure.
 
-Then the Grand Tournament comes, and with it a princess, the empire's quiet machinery — and the war. Mid-duel with Valeria, the island burns. His father dies buying time. His mother, his newborn brother, and the master who protected them vanish into the smoke. Book One ends with three children in a boat on the winter sea: the mountain boy, the guard's daughter, and the princess of the empire — aimed at a continent of courts, conspiracies, old magic, and older lies.
+Then the Grand Tournament comes, and with it a princess, the empire's quiet machinery — and the war. Mid-duel with Valeria, the island burns. His father dies buying time. His mother, his newborn brother, and the master who protected them vanish into the smoke. Book One ends on the water with what is left of them — a burned island behind, a broken boat, and no land anywhere. Ahead of them is a continent of courts, conspiracies, old magic and older lies, and the three who will cross it together: the mountain boy, the guard's daughter, and the princess of the empire.
 
 Each disaster strips another illusion from him and forges what remains. To survive the world that hunted him from birth, he must become dangerous. The question the saga asks is whether he can become dangerous without becoming *them*.
 
@@ -24,7 +24,7 @@ Each disaster strips another illusion from him and forges what remains. To survi
 
 ## Structure
 
-- **A series.** Book One = Act One = the island: childhood → the Temple → Valeria → the tournament → the fire → flight.
+- **A series.** Book One = Act One = the island: childhood → the Temple → Valeria → the tournament → the fire → the escape by sea.
 - **Book Two onward — the continent:** empire vs. coalition, politics, intrigue, magic, and the slow truth of his family, the program, and the bloodline.
 - **Genre:** epic, gritty, historical-flavored fantasy. Grassroots start; legendary scale by the end.
 

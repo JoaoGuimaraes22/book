@@ -11,6 +11,9 @@
 - **Appearance:** Dark-haired, dark-eyed; passes as village until she is still — then the stillness has a quality the village doesn't make. Fine bones under worked hands; the hands know too many trades — the lie's weak point. Handsome and unremarkable in the same breath, with ages of watching in the face.
 
 ### DYNAMIC
+- **SHE STOOD IN THE BOW OF A BOAT AND ANSWERED A SATURATION BARRAGE WITH HER BACK TURNED.** She takes what is thrown and puts it in the sea, one at a time while there is a second between them — **and past that she stops choosing** and takes whatever arrives in the order it arrives. Hours after the bowl, hours after the delivery. **Her face is never on the page during it and her son never sees it.**
+- **She took her son's count as fact and worked off it**, and afterwards told him the fifth one was his.
+- **She stopped a question with a promise instead of an answer** — *Ask me on the water* — and gave the reason plainly: she has nothing to spend on it and he would get it badly and have it badly for ever. **She is aboard for Book Two; nothing of the past is owed before Book One closes.**
 - **SHE HAS SPENT AIR AT MASS SCALE AND IT CUT** — ground taken bald, nine olive trunks split into strips, and then a hundred-odd men coming apart at the joints of the body. **Her face was turned away for the whole of it and not one person saw it.** She has explained nothing and will not.
 - **NOBODY HAS FOUND HER BOTTOM.** Her son priced her while she worked and got a number he could not estimate the shape of. **She is nowhere near what she is.**
 - **She did not turn round for a long time afterwards**, with her back to eight people and the whole bowl burning in front of her, and nobody said her name.
@@ -38,4 +41,4 @@
 ### FORWARD
 - **The birth (00 s26/s32/s42):** the labour begins as the semifinals begin and Severin is above the sand, so the one mitigation the family built the whole winter around is absent at the hour it was built for; **nobody fetches him** — he arrives of his own accord, hours late, at the head of the district's escape party — and she gives birth with his help. She survived it, on the page (Ch. 33); what stays UNCONFIRMED is her fate past the island.
 - **The chest (00):** her old dagger lay under the floorboards with Vask's sword. Whether the Ch. 4 night-watch blade IS this dagger is a VALVE: never resolve. Where the dagger goes is in 00.
-- **Status:** separated in the fire; extracted with the newborn by Severin; fate unconfirmed — a low flame under the whole series. She becomes MYSTERY as Vask becomes MEMORY: Kael's archaeology of his father ends; his archaeology of his mother never does.
+- **Status:** **ABOARD at the end of Book One** with the newborn and the master, on a hull with no mast. The separation, the extraction and the no-farewell are **Book Two's, deferred whole** (author, s49). Her fate goes back to unconfirmed when that is spent — a low flame under the whole series. She becomes MYSTERY as Vask becomes MEMORY: Kael's archaeology of his father ends; his archaeology of his mother never does.

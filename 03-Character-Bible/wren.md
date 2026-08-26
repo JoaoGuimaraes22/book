@@ -7,6 +7,7 @@
 - **Appearance (decided; 00 s20):** his mother's dark hair — and **HIS EYES ARE PERMANENTLY RED.** Born with the bloodline OPEN: massive capacity from birth, uncontrolled. His eyes resolve to the BLOODLINE, not to a parent: Kael's grey belongs to nobody, Wren's red to something older than anybody (the rest is in 00). A newborn carrying the devil-eyes of the folklore CANNOT BE HIDDEN — consequences flagged in 00, none of them designed.
 
 ### DYNAMIC
+- **He was handed to his brother and screamed through the whole of a barrage**, and stopped when it stopped. **Kael has now held him twice, and the second time was for an hour with one arm.**
 - **HE CRIED ON AN OPEN MOUNTAIN** with men hunting the people carrying him, for a hundred and forty seconds, and stopped on his own, **and not one person said one word about it.**
 - **He has been handed to a princess of the empire and given back.**
 - **HE IS BORN**, delivered by Severin with a princess of the empire holding the lamp, in a room with a fight against the wall of it. **Named on the page by his mother:** *"His name is Wren."*
@@ -17,4 +18,4 @@
 - **The delivery is a mortal event** (00 s22 — a birth of the bloodline is violent, and this child was born extremely potent). It is why Severin must attend and why the family could not leave the island before the spring. **Kael is told none of that.**
 
 ### FORWARD
-- **Status:** aboard the hull on the eastern water, against his mother, eyes still bound. What comes after is in 00; a series-long door.
+- **Status:** aboard the drifting hull, eyes still bound. **He is not separated from Kael in Book One** (author, s49). What comes after is in 00; a series-long door.

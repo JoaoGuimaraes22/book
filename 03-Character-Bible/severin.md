@@ -13,6 +13,7 @@
 - **Appearance:** Old the way the split rock is old; tall, gone lean, a scholar's stoop that once wasn't. Hair fully grey — the second reading never confirmed. **Eyes dark, near black (author ruling, s34; unspent on any page)** — the one unreadable dark thing in a face gone entirely pale. A soldier's frame under a master's robes: wrists too thick for the ink they carry. A face that is courteous, unhurried, and gives out nothing it hasn't priced.
 
 ### DYNAMIC
+- **HE SAILED THEM OUT OF RANGE AND LOST THE BOAT DOING IT.** At the tiller from the cut to the open water with nothing left in him, giving orders in boat words nobody else aboard owns. **The mast is gone and they are drifting**, and he has not said what happens next.
 - **HE STOPPED KAEL FOLLOWING HIS MOTHER AND SAID *"I know what she is."*** — sourced nothing, was never asked to explain it, and it is entirely deniable as *she gave birth an hour ago*. **A NEW VALVE: never resolve it, and never let a later page have him account for it.**
 - **NATURE IS NOT ONLY MENDING IN HIS HANDS.** He drove living root and thorn eleven feet deep up through the floor and walls of a cut in half a minute and closed the road behind them, and got up crooked with the nose bleeding again. **The page explains none of it and nobody theorises it.**
 - **He is on his own hull with eight people aboard it and has still not explained why he has it.**
@@ -44,4 +45,4 @@
 ### FORWARD
 - **THE CHAIR COSTS HIM THE DELIVERY (00 s26/s32/s42):** he is above the sand when Neris goes into labour, because that is what the chair is for, and **nobody comes for him**; he arrives hours late under his own power, and she gives birth with his help — alone for the start of it, not the end. The old man who learned to mend, held away from the one person who needs the mending by the empire's answer to a rule it could not enforce. **Never remark on it.**
 - **Endgame:** open (00).
-- **Status:** extracts Neris and the newborn during the fire; vanishes with them. Fate and whereabouts unknown.
+- **Status:** **ABOARD at the end of Book One**, on his own hull, drifting. The extraction and the vanishing are **Book Two's** (author, s49).

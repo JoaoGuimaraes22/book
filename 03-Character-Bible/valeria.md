@@ -13,6 +13,7 @@
 - **Appearance:** Lean, strong, athletic — a working build that reads as function even at rest. Long black hair worn loose well past the shoulders, no ornament (lengthened s33 — the page moved with it, Ch. 14). Emerald green eyes — color spent at reading distance only; worn plain and bored as display (the boredom died against Kael). Her stillness WARNS — nothing like his. Knuckles older than her face; guard-lineage calluses. Rooms rearrange around the name before the girl; reverence draws her one untrained tell, the microscopic flinch — **SPENT at Ch. 27** (the s32 close DE-LISTED it: available, not owed).
 
 ### DYNAMIC
+- **She worked a sweep one-armed, put a burning sail over the side, and never spent a grain** — earth, on water, with nothing under her to read or take. **Inert twice in two chapters, and both times she did the work with her hands.**
 - **She took the front off a terrace one-armed** — three columns up through the made ground — and priced herself out loud: two more of those and then she is just blades.
 - **She has now crossed the whole of that mountain and still has not asked him one question about it.**
 - **She has not been off the princess for one minute of it**, and carried her, and set her down, and went into the water to her waist for the stern rope.
@@ -53,4 +54,4 @@
 - **The one lazy place (Ch. 15, banked):** half a count of lag on the first exchange of each morning, before she is warm. Kael found it. DE-LISTED (author, s32): available if a scene wants it, not owed — and it can never be spent as designed, since the judge's hand never fell.
 - **The father:** his letters do not mention the boy — they ask how a Vel came to be standing where a waster could reach her (Ch. 16), and *they will be pricing you. Do not be cheap.* (Ch. 17).
 - **The unfinished duel:** never fought; no winner; unresolved for the entire series (00).
-- **End of Book One:** ~13–14; in the boat.
+- **End of Book One:** ~13–14, on the drifting hull with the princess, the boy, and five other people. **The crown-vs-Kael choice is still not made.**

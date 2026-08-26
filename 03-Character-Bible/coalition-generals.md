@@ -35,6 +35,10 @@
 - **Mass.** Standing sheets the width of open ground, scattered *the way a man scatters feed* — the coalition's reputation made flesh, with no discipline in it anywhere.
 - Vask came out of one of his sheets burning and broke something enormous in him with the heel of a hand. He went down onto all fours and stayed there.
 
+### THE WATER (Ch. 35)
+- **All four came six hundred strides down to the sea after the boat, and only two of them could reach it.** **GALLOS** threw mass from the shore in every shape it has — a standing sheet wider than the hull is long, one low with its belly in the water, a column that turns and walks. **FENNA** came down alone to the flat stone at the water's edge and drew her line across a working over open water, and it folded from the top down. **DUNMAR spent nothing at all**, because his fire goes into ground and there was none; **THIRO** was not on the page. **The two absences are never explained on the page and nobody theorises them.**
+- **They watched the hull go and they were not able to stop it.** What the four now believe is unchanged and still a door.
+
 ### FORWARD
 - **All four survivors were in that yard and saw what Vask was.** What the coalition's command now believes about the man they called the Phantom, and about the woman and the two children who went down the eastern slot, is **OPEN and is a door.**
 - Book Two+: whether any of them is ever named as what he is; whether the *why he feels it* reveal survives Pellan's death and in whose mouth; Character Law kits for all four. **Do not resolve without a session.**

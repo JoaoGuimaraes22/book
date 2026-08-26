@@ -38,7 +38,7 @@
 - Kael: social blindness flaw; technician talent — low raw output, exceptional control and tactics.
 - The father teaches the body; the mother teaches the mind and magic.
 - The parents are never seen fighting until the fire. The father dies in it.
-- The mother gives birth to the brother at the end of Act One and is extracted with the master; both unconfirmed thereafter.
-- The trio escapes — Kael, Valeria, the princess. Book Two opens with them.
+- The mother gives birth to the brother at the end of Act One. **She, the newborn and the master are ABOARD at the end of Book One** — the extraction and the parting are Book Two's (author, s49; `standing-rules.md`).
+- **Eight get off the island alive:** Kael, Neris, Wren, Severin, Valeria, Aeliana, Elarine Sedrane, Aurelian Corvane. The hull loses its mast on the way out and drifts. The trio still crosses the continent together; Book One no longer ends at the moment it becomes three.
 - The raiders are COALITION forces. Kael's initial truth: they are the enemy.
 - The master placed the parents on the island, and brought Kael to the Temple as "the master's charity case."

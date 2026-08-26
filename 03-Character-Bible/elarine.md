@@ -15,6 +15,7 @@
 - **Appearance:** Ink-dark hair bound severely; pale, economical — nothing on her that doesn't work; small; dark eyes that price before they blink. Forgettable at a glance and unforgettable the third time you notice she hasn't moved. What others react to: they mostly don't — which she has noticed, and wears as neatness.
 
 ### DYNAMIC
+- **She got up off the boards with nothing left in her and cut a burning mast off a boat.** She had priced herself out loud hours earlier and was exactly right about it, and she got up anyway. **Do not write her as spent-out; write her as empty and still working.**
 - **SHE READ THREE HUNDRED STRIDES OF BLACK HILLSIDE IN NINETY SECONDS AND LIT EVERY SEPARATE THING IN IT THAT WOULD BURN, IN THE SAME INSTANT** — four hundred fires, each exactly where the fuel was, and not one grain spent anywhere that did not want it. **The discipline half of the treasury, at scale.** Do not write her as spent-out: she prices herself first and then delivers.
 - **She is genuinely carrying nothing now**, and she said so before she spent it, not after.
 - **She got a princess of the empire up off scree on nothing at all** — both knees, both shoulders, *"I am not going to be able to do it twice, so please do it now."*
