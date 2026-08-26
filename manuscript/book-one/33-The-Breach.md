@@ -739,7 +739,7 @@ The old man had him by the front of the coat with both fists. He turned him bodi
 
 And whatever the First Master of the Temple saw in Kael's eyes on that mountainside, he did not say a word about it, then or ever.
 
-Something went out of him. Kael felt it arrive. It came in through the front of his coat, up his chest, in behind his eyes: warm, slow, absolutely irresistible, the mending art turned round the other way.
+Something went out of him. Kael felt it arrive. It came in through the front of his coat, up his chest, in behind his eyes: warm, slow, absolutely irresistible, the mending Art turned round the other way.
 
 The exact thing he had been reaching for went out of his hands like water out of a fist.
 
