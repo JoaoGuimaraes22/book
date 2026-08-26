@@ -18,12 +18,21 @@ face turned up toward the blade. The blade stands clear of them both
 and is pointed at nobody. Nothing is happening: nobody is fighting,
 nobody is moving, and no other blade is anywhere in the picture.
 
-THE LENGTH OF THE BLADE IS THE SUBJECT. A line of pale light runs the
-whole length of the steel from the hilt to the point, unbroken and
-even from end to end, not flickering and not brightest at either end.
-It is reserved as bare unpainted paper and is the lightest thing in
-the picture; nothing else in the frame is painted that white, and no
-light comes off it onto the stone, the yard or either face.
+THE LIGHTNING ON THE BLADE IS THE SUBJECT, AND THE STEEL IS STILL
+STEEL UNDER IT. The blade is drawn and shaded as ordinary grey metal,
+with its edges, its point and the grain of the metal all visible.
+Running over it, from the hilt all the way to the point, is a live
+white filament of lightning: hard, thin and jagged, forking into two
+or three finer threads along the way and rejoining, every thread
+following the steel and clinging close along its edges. One or two of
+the finest threads fork a finger's length clear of the edge and no
+further. The filaments are the lightest thing in the picture and are
+reserved as bare unpainted paper against the grey of the blade.
+
+The lightning stays on the blade: nothing arcs off into the air,
+nothing reaches the ground, nothing touches either figure, and there
+is no glow, no haze, no halo and no light thrown onto the stone, the
+yard or either face.
 
 BOTH OF THEM ARE LOOKING AT THE BLADE and at nothing else. Neither is
 looking at the viewer and neither is looking at the other.
