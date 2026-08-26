@@ -637,7 +637,15 @@ He was not trying to.
 
 He went into them with his hands.
 
-The ordinary men were what stood between him and anybody worth reaching, so he went through the ordinary men. Kael watched him take a spear off one and give it straight back through the man beside him. He watched him put a fist into a helmet and watched the helmet stop being the shape a helmet is. He watched three of them go up off the ground at the same time and come down at different times.
+The ordinary men were what stood between him and anybody worth reaching, so he went through the ordinary men.
+
+He did it with his hands. His hands cut.
+
+The first one came in with a spear, and his father took the haft out of the air on the edge of his left hand, and the haft came apart. The hand did not stop at the haft. It went on into the forearm behind it, and through the chest behind that at the height of the collarbone, and came out on the far side of the man, and the man opened all the way along the line it had taken.
+
+Steel did not slow it. Mail did not slow it. He put a flat hand through the side of a helmet and the helmet parted where the fingers went in, and so did the rest of it. He took a man's arm off at the shoulder with an open palm and did not look to see where it went.
+
+Kael stood forty feet down the mountain holding a sword in both hands. His father was doing all of it with nothing in either of his.
 
 It took about nine seconds and they stopped being anything.
 
@@ -665,7 +673,7 @@ Then the enemy did it the way it is actually done.
 
 The arrows started. Kael heard the first one arrive, because his father was that close and the night had gone that quiet. Two into the back. One high on the shoulder, standing out of him at an angle, staying there. Spears came in at length from three sides at once, and he took two of those, and the third one he took off the man holding it and used.
 
-He went on coming forward.
+He went on coming forward, and men came into his reach on the way and did not come back out of it whole.
 
 That was the part Kael could not hold in his head and never afterwards got anywhere near putting into words for anybody. His father, with a broken shaft in his thigh and two arrows in his back and one whole side of him burned down to the meat, walked forward into the middle of four hundred men.
 
@@ -675,7 +683,7 @@ Kael counted the wounds. He could not not count them. Every one that went into h
 
 He was at eleven when Pellan came in off the side on his ruined leg.
 
-Vask turned into him and hit him four times in about a second: the throat, under the arm twice, the side of the head, the last of what was in him coming off his knuckles in white. The man's neck went. He was dead before he came off his feet.
+Vask turned into him and hit him four times in about a second: the throat, under the arm twice, the side of the head. The last of what was in him came off his knuckles in white and went through everything it touched. Pellan came apart where the fourth one landed, and he was dead before he came off his feet.
 
 And Kael's father stood in the middle of his own yard, over three of them, and did not fall down.
 
