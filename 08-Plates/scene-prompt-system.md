@@ -112,7 +112,13 @@ Then pin it with §Scale between figures, as always: *as wide as the candle is w
 
 **So the rule is not "add a ratio". It is: stage a comparison the frame can actually make.** Both terms in the crop, at comparable depth and comparable size, near enough to read against each other. A ratio written across a room is the same failure as a tell written under a sleeve (§Name the winner, occlusion) — the fact is in the block and out of the picture.
 
-**The confound, stated so nobody over-reads any of this:** three runs, three characters, three crops. Directional evidence, not a proof.
+**AND A FOURTH RUN NARROWS IT AGAIN (s45): THE SECOND TERM MAY HAVE TO BE AN OBJECT.** `plates/ch13.md`'s receipts staged a ratio the frame could perform perfectly — a hand held up under the subject's own chin, same depth, same crop, nothing occluded — and **came back at the adult proportion the block wrote against.** So the s44 staging fix was satisfied and the number still did not land.
+
+**The pattern across all four runs is what the term was measured against.** The one success measured a hand against **a copper bar**. All three failures measured a piece of the subject against another piece of the same subject: a hand against a hand across a hall, a flat hand against another person's flat hand, a hand against its own face. **An object has a size a renderer cannot argue with. A body can be scaled entire and satisfy any internal ratio at any age.**
+
+**So the working form of the instruction is: the rung, plus a ratio against an object of known size, staged where the frame can perform it.** One clean instance and three suggestive ones — logged here rather than promoted, per `../08-Plates/README.md` on findings that are not yet rules.
+
+**The confound, stated so nobody over-reads any of this:** four runs, four characters, four crops. Directional evidence, not a proof.
 
 **The history, kept because it is why this took three sessions.** `../portrait-prompt-system.md` §AGE block states that age words in the SUBJECT block alone get ignored, and §Plates has a plate inherit only the Medium and Colour paragraphs, so a plate never gets the rung. The first datum was overturned by the author (`plates/ch09.md` read years too old to this folder and correct to the author); the second was `plates/ch08.md`'s Elarine reading adolescent among eleven-year-olds with her age in the reference line only.
 
