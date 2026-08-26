@@ -1,41 +1,43 @@
-Image 1: kael-14.png — portrait reference of the boy.
+Image 1: kael-14.png — portrait reference of the boy, for the medium and for his colouring. He is small and far away in this picture and his face is not drawn in detail.
 
 Same medium and style as the reference images: loose watercolour and
 ink on rough cold-press paper, scratchy ink linework, wash blooms,
 bare paper in the lights.
 
-Setting: the floor of a great open arena on a bright cold morning, as
-loose wash suggestion — raked white sand underfoot, and behind him the
-banked seating rising out of the top of the frame, packed with people
-drawn only as a dense wash of small shapes with no faces and no
-detail. Bright flat winter daylight from above.
+Setting: a great open oval arena by the sea on a bright cold winter
+morning, as loose wash suggestion — banked seating rising all the way
+round an oval floor of raked white sand, the open sea beyond the far
+rim, and a clear cold blue sky above it with the light coming from
+high up. Everything is bright and there is no warm colour anywhere.
 
-Composition: chest-up and close, one figure, near the viewer and
-filling the left or right of the frame with the arena behind him. He
-is walking forward out onto the sand, his body turned three-quarters,
-his head up. The bottom edge crosses him below the collarbone, so his
-hands and arms are out of the frame. He carries nothing, and no
-weapon, bundle or wrap appears anywhere in the picture. He is thirteen
-years old.
+Composition: a wide high view, the whole arena in frame. The viewer
+is sitting high up in the banked seating on one side, looking down
+across the floor: nearest, across the bottom corner of the frame, the
+backs, shoulders and heads of standing spectators as dark summary
+shapes with no faces and no detail. Below and beyond them, the whole
+white oval of the arena floor, seen from above and taking up the
+middle of the picture. Around it, rank on rank of packed seating as a
+dense wash of small shapes, no faces anywhere. Beyond the far rim,
+open sea; above that, blue sky filling the top of the frame.
 
-HIS FACE IS THE SUBJECT AND IT IS A FACE THAT IS NOT FRIGHTENED. The
-eyes open and level and taking the whole place in, the mouth closed,
-the jaw easy rather than set, the breath quick — the attention out and
-working and nothing in the face braced against anything. Not proud,
-not defiant, not smiling, not afraid.
+SCALE — the distance is the subject. Two small figures stand alone on
+the white floor and they are the only figures in the picture that are
+not part of the crowd. Each of them is small enough in the frame that
+no face and no feature of a face is drawn on either. The width of the
+sand between them is many times their own height.
 
-He is looking up and out across the arena, above the viewer's eye
-line, and not at the viewer.
+ONE BOY HAS JUST WALKED OUT ONTO THE SAND from a gate in the near
+side of the oval, alone, and is a few steps out from it. He is
+walking, upright, carrying nothing, in undyed working wool of dull
+oatmeal — the darkest single mark on the white floor. The other boy
+stands waiting further out, squared toward him.
 
-Undyed coarse working wool, much mended, dull oatmeal and dead olive,
-with no ornament, no badge, no colour and no metal anywhere on him —
-nothing on him that says what house he is from.
+The raked sand is reserved as bare unpainted paper and is the
+brightest thing in the picture. The two small figures on it carry the
+hardest edges and the sharpest step from light to dark; the crowd,
+the seating, the sea and the sky all stay at quiet middle values with
+soft edges, and nothing in the crowd is drawn sharply enough to read
+as a person.
 
-His face carries the sharpest step from light to dark and is the only
-finished drawing in the picture; the crowd, the seating and the sand
-behind him stay at quiet middle values with soft edges, and nothing
-back there is drawn sharply enough to read as a person.
-
-Preserve him exactly as shown in his reference image — face, hair,
-colouring. Pale grey eyes, the lightest value in his face. Dark hair
-cut short and uneven.
+Nothing is happening yet: nobody is fighting, nothing is raised, and
+no weapon is visible anywhere in the picture.
