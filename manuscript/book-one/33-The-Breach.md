@@ -22,15 +22,43 @@ He knew that corner in the dark better than he knew his own hands. He had come u
 
 His ribs let him. That was still new enough to be strange.
 
+Behind him, against the north wall of the house, the four of them waited.
+
+Aurelian Corvane stood with his back on the stones and his good hand flat against them. He had been saying something to Elarine for a while and had stopped. Elarine sat with her knees up and her hands loose in her lap, palms turned up, watching the gap where the path came into the pens, and she did not look anywhere else. Lucan Drusane had got a dead man's spear from somewhere and was holding it wrong. He knew he was holding it wrong. He was not putting it down.
+
+And Oss was talking.
+
+Kael had not heard that voice in a year. It came along the wall of his own house in the dark, low and fast and running over the top of itself — *it's fine, they're stopping them at the bend, that's what the bend is for, he said so, four men at the narrow, that's what he said, that's what he said* — and nobody was answering him, and he did not stop.
+
 Nine minutes.
 
-Then the path spoke.
+Then a man on the path began to shout.
 
 ---
 
-It was a sound like a sack going over: a man's weight arriving somewhere it had not been sent.
+"UP. UP. ON THE BEND."
 
-The two heaviest guardsmen were stood at the narrow of the second bend with the wall above them on the left and the drop on the right, and the first two men who came up at them died there, and the second two died on top of the first two, which is what the narrow is for. Kael heard all of it and saw none of it. He heard the pause after, which was them working out that four was going to be the price every time.
+Everything in that yard moved at once.
+
+The captain's voice came off the store wall in twos. Spears down. Men going from standing to set with nothing in between. The four at the narrow closed shoulder to shoulder, and the two heaviest took the front of it and put their feet where they meant to keep them.
+
+Elarine got up off the ground. Aurelian came off the wall. Lucan turned the spear round and got it wrong again and kept hold of it anyway.
+
+Oss stopped talking.
+
+That was worse.
+
+Kael's heart came up out of his chest into his throat and stayed there. His breathing went short and high and no use to anybody. His hands were cold. None of that had happened to him at the wells, or in the lanes, or in a farm yard with a man saying *I'm sorry, little one*. It happened here, forty feet from his mother's door, with everyone he had ever known standing behind him against a wall.
+
+He breathed out. All of it, down to the bottom.
+
+His hands stayed cold.
+
+He looked across the open ground at his father. His father was square between the path and his own door with the longsword down along his leg, and he had not moved, and there was nothing whatever happening in his shoulders. He might have been waiting for a pot to boil.
+
+Then they came round the second bend, and the first sound off it was a sack going over: a man's weight arriving somewhere it had not been sent.
+
+The first two who came up at the narrow died in it, with the wall above them on the left and the drop on the right. The second two died on top of the first two. That is what a narrow is for. Kael heard all of it and saw none of it. He heard the pause after, which was them working out that four was going to be the price every time.
 
 Then they paid it anyway.
 
