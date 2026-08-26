@@ -22,7 +22,7 @@
 - Parents' names are CHOSEN, not given (00). No "real" names exist beneath Vask and Neris.
 - "Neris" belongs to no naming register; its true nature is sealed (00). Never explain it on the page.
 - **-ANE** is the imperial-house ending convention (02 naming).
-- Aeliana's name: the full chain or "the princess" on the page so far; how it moves later is in 00, and the first shortening is a reserved beat.
+- Aeliana's name: the page register is 03's (`../03-Character-Bible/aeliana.md`); how it moves later is in 00, and the later steps are reserved beats.
 - **The Sanctum** — sealed, bible-only (00). Never on the page.
 
 ### Blocked — never coin, never reuse

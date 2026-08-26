@@ -94,7 +94,7 @@ Nobody was answering him. He did not need anybody to. The words came out of him 
 
 "Yes," said Aurelian, and dropped his voice about a third, and went on.
 
-Wren crying intensified at the top of the goat ground.
+Wren's crying intensified at the top of the goat ground.
 
 It came up out of the front of his mother's coat, thin and furious and going up at the end, and it went out across the open in every direction at once.
 
@@ -124,7 +124,7 @@ His mother ran.
 
 That was the part Kael could not put down. She ran with one arm across the front of her coat and the other going, on ground she had walked for thirteen years and never once had to hurry on, twenty minutes and then thirty minutes and then forty minutes after a thing that had opened her up on her own floor. Her breathing was wrong. He could hear exactly how wrong from her left side. Twice in the first mile the whole of her went down into a lower gear and came back up out of it, and she did not slow while it happened, and she said nothing at all.
 
-Kael could feel his face wet. At first he didn't know if it was rain, sweat or blood.
+Kael could feel his face wet. At first he didn't know if it was sweat or blood.
 
 It was neither. The water ran from his eyes down, and did not stop. It was on his jaw. He put the back of his wrist against his face and it came away wet and it did not stop after that, and he went on running.
 
