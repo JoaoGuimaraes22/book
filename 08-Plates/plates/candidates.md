@@ -237,3 +237,17 @@ Every entry was checked against **THE PLATE FOLLOWS THE PAGE** when it was writt
 4. **The cooper.** Dawn at the boat sheds: a man straightening off a hull and looking up the road, and a boy four minutes into proving him harmless off the wear on a sleeve and the way the shoulder comes round before the feet do. *His father had done this every day for eleven years.* **The only candidate in the chapter set in the village**, and the whole cost of turning a boy all the way up.
 
 *Alternate:* *"Then do not stand beside me. Stand in front of me. It is worth more."* — her chin up, the correction that is also the largest thing she has ever given anybody. Passed over at s48 only because candidate 2 is the same two people on the same stones in the same hour, and 2 is the chapter's last beat.
+
+---
+
+## Ch. 21 — The Edge
+
+*Written at s48, at design time.*
+
+1. ★ **Dead.** — **BUILT (s48): sheet `ch21.md`.** The dawn stone, the guard a quarter-count late, and the edge stopped a finger's width off his throat without touching him: *It arrived at the place where it would have gone through and it was not going through.* The father is an arm and a blade at the frame's edge and nothing above the elbow. **The subject is a face that has come out the far side of fright** — the chapter says so in its own words. **Refusal risk priced on the sheet**; if it comes back refused the fallback is candidate 3, and this one is not re-run to argue with a filter.
+2. ★ **The nine things.** — **BUILT (s48): sheet `ch21.md`.** His mother's table by lamplight: copper, iron, dry oak, wet oak, dry rope, wet rope, bone, butt water, sea water — and a wisp of tow on a splinter at the end of the run, standing out from the wood because something has arrived. **The book's first science plate, and the first time it draws her pregnant.** Her hands are occupied by the page itself: *"You are going to spend, and I am going to hold the tow."*
+3. **The surge up the blade.** Vask's own threading, which is nothing like his son's: *It went up the blade hilt to point and it kept going, the whole length of it running and running, and it did not falter anywhere along the way.* The big brother of `ch11/the-white-stitch` — same reserved-paper instrument, a hundred times the length — and the first sight of what the father actually has. **Held as the fallback for candidate 1.**
+4. **The edges.** The block before dawn, the two training swords lying where they had lain every morning for a year, and the light off them a different light. *That was the whole announcement.* Needs the boy's face at the blades' own distance, per the s48 finding on `ch19/the-third-board`.
+5. **The doorway at the end.** The father with his shoulder against the frame, doing nothing at all, watching his wife lean forward off the back of the chair for a cup she could have asked for — **and the page names the rhyme itself**: Kael had seen his mother stand in a doorway exactly like that, at the top of the yard, while something was done to her son that she had agreed to. The one deliberate answer to `ch02-the-doorframe` in the book.
+
+*Alternate:* both hands full and face down on the wet stone in under a second — *every escape he had was built out of a hand, and he had spent both of them on being fast.* Passed over at s48: it is `ch14/one-finger`'s staging again, him down and somebody standing over him.
