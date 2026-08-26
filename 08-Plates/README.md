@@ -42,6 +42,8 @@
 
 **A PLATE SESSION DOES NOT OPEN WITH A LIST OF WHAT IS OWED (author ruling, s40).** Audit notes in these files are the record of what was considered, not a queue. Nothing here is outstanding unless the author says it is; open on the work the author names.
 
+**THE `plates/` AND `prompts/` SPLIT WAS QUESTIONED AND STANDS (author, s45): *fine to exist as is.*** Asked whether the sheets just duplicate the prompts and could be deleted, with un-adopted prompts pruned. **They are not duplicates: `plates/` is the source and `prompts/` is generated from it**, which is why one is hand-written and the other says GENERATED at the top. **The build step's whole job is that the house Medium and Colour paragraphs have one home** — make the prompt files the source and that text is copied into forty of them, which is the drift this folder was built to stop. **And what the sheets hold is not prompt text at all:** the design argument, the run records, and the reasoning behind every rejected candidate — which is where every rule in `scene-prompt-system.md` came from. **Nothing was pruned and nothing moved.**
+
 **CONTRACT:** the reader-facing illustrations, and the method that makes them.
 **ADMISSION TEST:** *does this govern how an image is generated, or record what one has depicted?*
 **EVICTION:** plate sheets are accumulators and roll per book with `07`'s; the prompt systems never move — they are amended in place, never accumulated.
