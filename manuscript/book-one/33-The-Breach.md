@@ -190,7 +190,7 @@ Then Neris took a breath and held it and bore down, and her head went back on th
 
 They were red.
 
-Not lit, not shining. There was no glow on the boards, no colour thrown anywhere. It was simply that the woman on the floor had red eyes now, all the way through, from edge to edge, the same color as the blood under her legs, and she was looking at the ceiling of her own house and did not appear to know it.
+Not lit, not shining. There was no glow on the boards, no colour thrown anywhere. It was simply that the woman on the floor had red eyes now, all the way through, from edge to edge, the same colour as the blood under her legs, and she was looking at the ceiling of her own house and did not appear to know it.
 
 The lamp came down about four inches.
 
@@ -535,6 +535,7 @@ His father looked at the grey flat, and at the pens, and at the top of the runne
 "Can you take that side of the mountain off," he said.
 
 Severin turned his head and looked east, at the ground under the olive line, at the terraces going down and away into the dark with nineteen and then a great many more of them strung along it, and at the whole face of the mountain above it.
+
 "Yes," said Severin.
 
 "How long do you need."
