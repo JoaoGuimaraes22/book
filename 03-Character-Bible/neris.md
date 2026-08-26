@@ -1,13 +1,13 @@
 ## NERIS (the mother)
-**Glance:** Kael's mother; teacher of the mind · ex-asset of the program — bearer of the Kynemir bloodline (00) · age unpinned, **and the same as Vask's (author, s34)** · **delivered of her second son on her own floor; widowed the same hour; walking off a burning mountain with a bound child inside her coat.**
+**Glance:** Kael's mother; teacher of the mind · ex-asset of the program — bearer of the bloodline (00) · age unpinned, **and the same as Vask's (author, s34)** · **delivered of her second son on her own floor; widowed the same hour; walking off a burning mountain with a bound child inside her coat.**
 
 ### STATIC
 - **Name:** Chosen, not given (00). Belongs to no naming register; villagers assume it foreign; its true nature is sealed — never explain on the page.
-- **Role:** The program's asset, harvested as a child — he was made; she was taken. The Kynemir inheritance is hers to give. Teaches Kael the mind: languages, far-counting, mechanics, herb-lore and reagent-craft, chemistry, and magic as perception — rationed in drops, the leash beneath (00). Her erudition is program-made; teaching Kael unknowingly completes the program's design.
+- **Role:** The program's asset, harvested as a child — he was made; she was taken. The bloodline is hers to give. Teaches Kael the mind: languages, far-counting, mechanics, herb-lore and reagent-craft, chemistry, and magic as perception — rationed in drops (00).
 - **Wound/Shame:** As Vask's, and deeper — the program's return aims at her lineage, and now her sons. Watches the sea for a ghost she believes she killed.
 - **Flaw:** As Vask's. Not a perfect parent.
-- **Abilities:** AIR proficiency (revealed at the declaration — one word, no demonstration); the Kynemir inheritance beneath it, unchanged (00). **She can switch her eyes off** (00 s20) — she always could; her control-first pedagogy is the discipline she survives by. Never explain on the page.
-- **Teaching signature:** history rationed, never on asking; shut doors in her stories; the governor — "Smaller. Always smaller than you can." — leash and love in one instruction; her control-first pedagogy IS the leash (00; never explain). The relief-tell is spent — do not respend.
+- **Abilities:** AIR proficiency (revealed at the declaration — one word, no demonstration); the bloodline beneath it, unchanged (00). Never explain on the page.
+- **Teaching signature:** history rationed, never on asking; shut doors in her stories; the governor — "Smaller. Always smaller than you can." — and what else that instruction is doing is in 00 (never explain). The relief-tell is spent — do not respend.
 - **Appearance:** Dark-haired, dark-eyed; passes as village until she is still — then the stillness has a quality the village doesn't make. Fine bones under worked hands; the hands know too many trades — the lie's weak point. Handsome and unremarkable in the same breath, with ages of watching in the face.
 
 ### DYNAMIC
@@ -33,10 +33,5 @@
 
 ### FORWARD
 - **The birth (00 s26/s32/s42):** the labour begins as the semifinals begin and Severin is above the sand, so the one mitigation the family built the whole winter around is absent at the hour it was built for; **nobody fetches him** — he arrives of his own accord, hours late, at the head of the district's escape party — and she gives birth with his help. She survived it, on the page (Ch. 33); what stays UNCONFIRMED is her fate past the island.
-- **The chest (00):** her old dagger lies under the floorboards with Vask's sword; it becomes one of Kael's dual-dagger pair. How it reaches him is OPEN — she is extracted, so it does not pass by her hand. Whether the Ch. 4 night-watch blade IS this dagger is a VALVE: never resolve.
+- **The chest (00):** her old dagger lay under the floorboards with Vask's sword. Whether the Ch. 4 night-watch blade IS this dagger is a VALVE: never resolve. Where the dagger goes is in 00.
 - **Status:** separated in the fire; extracted with the newborn by Severin; fate unconfirmed — a low flame under the whole series. She becomes MYSTERY as Vask becomes MEMORY: Kael's archaeology of his father ends; his archaeology of his mother never does.
-
-### SEALED — author-ratified only; never on the page (rolled from 00 at s46)
-#### The mother's fate
-- Fate UNCONFIRMED as of end of Book One. Separated in the fire, extracted with the newborn by the master. A low flame under the whole series.
-- **SHE IS MARKED, PERMANENTLY AND VISIBLY (author, s42).** She spends nature — out of her own element — on her own delivery and then on her son's broken ribs, goes deep enough to take the drain-mark, and **her hair takes the pure quartz-white streak, in two places, in front of Kael, who knows exactly what it means.** The body keeps the receipt and it never comes back dark. **CONSEQUENCE, undesigned (do not resolve without a session):** a woman whose whole life depends on not being remarked upon is now identifiable on sight, for the rest of the series — the same shape as the Vessantine silver's consequence, arrived at from the opposite direction. **Second consequence:** her capacity is spent, so whenever she is unsheathed it happens on steel and skill and nothing else.

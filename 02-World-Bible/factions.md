@@ -8,7 +8,7 @@
 
 ### The Coalition
 - Recent alliance of the continent's remaining and conquered forces, formed to resist the empire.
-- Founding grievances: subjugation, exploitation, and — unrevealed — the children taken by the program's harvests.
+- Founding grievances: subjugation, exploitation — and one more, unrevealed (00).
 - Carries out the raid on the island at the end of Book One. To Kael, at first, THEY are the enemy — his first truth, written in fire; the saga slowly rotates the compass.
 - Contains good and desperate people; commits atrocities. Neither side of the war is clean.
 - **MOSTLY FIRE RESONANTS (author, s39).** The coalition's Resonants skew heavily to FIRE. Recorded as given; **why a coalition of many nations skews one element is an OPEN QUESTION** (`open-questions.md`) and is not to be explained on the page or invented here.
@@ -19,44 +19,4 @@
 ### The Program (mostly unrevealed — 00)
 - On-page in Book One: fragments only — an insignia the father recognizes with horror; a forbidden-language word in a raider's mouth; the mother's face when she understands what has come back.
 - Reader's takeaway at the end of Book One: the parents thought something was dead, and it isn't.
-- **HALDEN IS THE HARVEST (author, s38 — 00 owns it; nothing on any page of Book One).** The judge is the program's collection arm, post-rebellion generation, and his imperial standing is real rather than a costume — which is the market layer sheltering the harvest in one body. **At this point its business on the island is hunting VASK and NERIS**, with Kael only the road to them; it is not collecting a child. He is genuinely strong, body and Art, and that is never remarked on (`../06-Style-Sheet.md` §Staging). Sheet: `../03-Character-Bible/halden.md`.
-
-### SEALED — author-ratified only; never on the page (rolled from 00 at s46)
-#### THE PROGRAM & THE GARDENER
-
-#### The Program
-- Ancient organization within/beneath the empire; harvests children with the bloodline trait; forges instruments.
-- **Vernacular (canon):** survivors and those who fled call its collection arm "the Harvest." The program's FORMAL name is reserved — decide it when the naming system (and the Gardener's designation) is built.
-- Rebuilt in secret after the parents' rebellion. No longer loyal to the throne.
-- The tournament's hidden function: a HARVEST — screening the empire's most exceptional children for the trait, beneath the pageantry.
-- Foundation canon (Option 1): the program historically harvested disproportionately from conquered nations — stolen children are a founding grievance of the coalition.
-- Thread (Option 2): program survivors/defectors seeded the coalition's cadre; its methods live on both sides of the war.
-- Held in reserve (Option 3, unconfirmed): the reborn program actively steers events on both sides.
-
-#### THE SANCTUM (the program's teaching academy — name SEALED, bible-only)
-- **"The Sanctum"** = the program's teaching arm: the academy that educated its assets and instruments — where Vask was forged and Neris was schooled. Cold, ecclesiastical; rhymes darkly with "the Temple" (the empire has two schools of the person, and Kael is the only child alive shaped by both).
-- The program's own formal name remains reserved (decide with the naming system).
-
-#### The tournament's hidden function
-- The Grand Tournament convenes ALL THREE imperial mage schools (02). The harvest doesn't need three nets: the empire pours all three schools into one place. Screening scope, the princess's attendance, and the island filling all follow from this. The raid strikes the empire's future officer corps in one building.
-
-#### The Doctrine of Cultivated Inheritance
-- The program holds that capability passes BOTH by blood and by rearing: a bloodline child raised by cultivated minds becomes more than either alone. Partially true (genetics + upbringing) — but the program holds it as doctrine.
-- Consequence: assets and instruments were EDUCATED, not merely trained — sciences, languages, letters. **Neris's erudition is program-made.** Her learning is itself something that was done to her.
-- The dark rhyme: teaching Kael, out of love, she unknowingly completes the program's own design — cultivated parent producing cultivated child. "They rebuilt the academy that unmade them" is literal.
-- Kael is the doctrine's PROOF: bred from their finest asset, raised by two of their finest minds. This sharpens the harvest logic — the program doesn't just want his blood, it wants what the blood-plus-rearing produced.
-- Kael's defining curiosity (canonized Ch. 3) is the trait the doctrine prizes and the Temple will recognize.
-- **Ch. 5 enactment (the tail eaten):** her curriculum killed her own cover story ("what fire eats" → the sea can never freeze), and his training built his escape (stillness, count, standing game, star-navigation all deployed at the crossing). The cultivated inheritance eats its own tail — on the page now, unmarked.
-
-#### THE RAID ON THE ISLAND
-
-#### True causality
-- **THE HOUSE FALLS BECAUSE A PRINCESS CAME TO IT (author, s42).** The district's escape party crosses the mountain because the mountain is the road to Severin's hull, and the enemy follows it to the family's door. **This is the empire's own gravity finishing what it started** and it does not touch the block below: the island still does not burn because of Kael, and the family are still collateral. **Kael's own hands are in the chain** — he took a Vel across the island to that wall — and **he must never assemble it and no page may say it.**
-- The coalition strikes because the tournament concentrates: a royal princess (decapitation/abduction value), program officials conducting the harvest, and possibly something the program keeps/transports at the Temple.
-- The strike makes hard strategic sense with ZERO reference to Kael's family — they are collateral of the empire's own gravity.
-- AND the deeper cause is the bloodline itself. Both true at once. When Kael assembles this (books later): the island didn't burn because of HIM — but it burned because of what he IS.
-- THIRD HAND: planted in the raid's chaos, one ambiguous glimpse of something that fits neither coalition nor empire — a weapon, a word, a discipline from the far continent. Explained by nobody. Rereaders' treasure.
-
-#### THE ISLAND IS NOT RAIDED, IT IS EMPTIED
-- The coalition kills the island: men, women and children, across the whole of it. Not a strike and not a sack — **the thing they came to do.** The village, the settlement, the roads, all of it is inside the scope.
-- **CONSEQUENCE FOR AN EXISTING VALVE, flagged not decided:** `04` §Open valves banks the settlement girl and her mother (the intelligence vector; the recognition/mercy beat) with the caution *do not foreclose them*. Ch. 27 does not go near them and forecloses nothing. **Whether they survive the island is open and is the author's to say.**
+- **HALDEN (author, s38):** what the judge is beyond his warrant is in 00 — not read at open or draft time. Page fences: his imperial standing is real, not a costume; he is genuinely strong, body and Art, and that is never remarked on (`../06-Style-Sheet.md` §Staging); nothing about him is explained on any page of Book One. Sheet: `../03-Character-Bible/halden.md`.

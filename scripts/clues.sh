@@ -9,6 +9,7 @@
 #   scripts/clues.sh fire Vask Halden     -> rows matching ANY term, each printed ONCE, tagged [fire] [Vask] ...
 #   scripts/clues.sh 'Ch\. 19'            -> terms are case-insensitive regexes
 #   scripts/clues.sh -a Halden            -> match against the whole row, not just payoff/handling
+#   scripts/clues.sh -p fire              -> also print the PAYOFF column (a spoiler; on the author's request only)
 #
 # Detection only: the row text is the law; judgment stays human.
 set -euo pipefail
@@ -18,9 +19,11 @@ python3 - "$@" <<'EOF'
 import re, sys
 
 args = sys.argv[1:]
-whole = False
-if args and args[0] == "-a":
-    whole = True; args = args[1:]
+whole = False; pays = False
+while args and args[0] in ("-a", "-p"):
+    if args[0] == "-a": whole = True
+    else: pays = True          # the payoff column is a spoiler (s46): printed only on request
+    args = args[1:]
 patterns = [(a, re.compile(a, re.I)) for a in args]
 
 text = open("07-Story-Ledger/planted-clues.md").read()
@@ -37,9 +40,12 @@ def rows(block):
         out.append(cells)
     return out
 
+PAYS = pays
+
 def show(cells):
     clue, planted, pays, handling = cells[:4]
-    print(f"  • {clue}\n      planted: {planted}   pays: {pays}   handling: {handling}")
+    tail = f"   pays: {pays}" if PAYS else ""
+    print(f"  • {clue}\n      planted: {planted}{tail}   handling: {handling}")
 
 for block in sections:
     title = block.split("\n", 1)[0].strip()

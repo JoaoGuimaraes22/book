@@ -5,10 +5,10 @@ A fiction project. The files are the sole source of truth; chat is disposable sc
 ## Files
 Every file has a CONTRACT, an ADMISSION TEST and an EVICTION PATH; content that fails its test moves. **06 owns the RULE (how prose is written); 07 owns the STATE (what is spent, what may not be contradicted).**
 
-- `00-Author-Canon-SEALED.md` — DESTINATIONS ONLY, and **not cold-read**: the series' ending and the things the author wants to hit that are no world-fact and no character-fact. The future canon lives in the author's head; Claude designs from the scene and is meant to arrive at different ideas — open it only when the author says *check it*. **Author-ratified only.** Its table resolves every old `00 §…` and `(00)` pointer. (Dissolved at s46: truths → `### SEALED` sections in 02/03; the Ch. 6–7 off-page truths → the foot of `07/chapter-records-parts-1-3.md`; spent design canon → `archive/author-canon-spent.md`.)
+- `00-Author-Canon-SEALED.md` — THE VAULT: every truth not yet on a page, every destination, every reserved beat. **Not read at open or draft time; opened only when the author says *check it*.** The author carries the future canon; Claude designs from the scene and is meant to arrive at different ideas. **Author-ratified only.** Its §FROM THE LIVE FILES holds, verbatim, every spoiler line swept out of 02/03/04/06/07 at s46; spent design canon is in `archive/author-canon-spent.md`.
 - `01-Premise-and-Pitch.md` — the foundation. Test: *still true if the plot changed?* Rarely changes.
-- `02-World-Bible/` — the world, one topic file each. Test: *true regardless of who is on the page?* Owns the word-registers. Eviction: superseded canon → archive. **`### SEALED` sections** (author-ratified only; never on the page) hold the world's off-page deep layer — the mechanism of magic, the bloodline, the program, the raid's true causality.
-- `03-Character-Bible/` — one sheet per character: Glance / STATIC / DYNAMIC / FORWARD, appearance inline. Test: *true of a person?* DYNAMIC is STANDING STATE — present tense, one line per fact, no chapter beats (beats live in 07/chapter-records). No chapter stamps anywhere; `git log` says whether a sheet is current. **`### SEALED` sections** (author-ratified only; never on the page) hold a person's off-page truths; `parents-sealed.md` holds the joint ones.
+- `02-World-Bible/` — the world, one topic file each. Test: *true regardless of who is on the page?* Owns the word-registers. Eviction: superseded canon → archive.
+- `03-Character-Bible/` — one sheet per character: Glance / STATIC / DYNAMIC / FORWARD, appearance inline. Test: *true of a person?* DYNAMIC is STANDING STATE — present tense, one line per fact, no chapter beats (beats live in 07/chapter-records). No chapter stamps anywhere; `git log` says whether a sheet is current.
 - `04-Outline.md` — the forward plan. Test: *not yet written?* Spent beats keep a one-line pin (the numbers are addresses cited from other files); their text rolls to `archive/outline-archive.md`. Unplaced material → §Queued threads.
 - `05-Continuity-Log.md` — live state. Test: *false in ten sessions?* Pointer-style. Caps: §STATUS two blocks of ≤4 lines (the record is `archive/session-log.md` §SESSION N); no arc retelling (07 and the manuscript own it); baselines are numbers only.
 - `06-Style-Sheet.md` — how the prose is written. Test: *governs sentences regardless of what has happened?* Amended in place; spend state → 07, vocabulary → 02.
@@ -26,7 +26,7 @@ Not cold-read: `index.md` (TOC), the archive, 08. There are no changelogs: `git 
 1. `scripts/verify.sh` — clean tree, baselines, and the phantom audit (0 quoted spans off the page). Anything unexplained: stop and report before reading further.
 2. Cold read — flag anything that itches BEFORE working; it is a free continuity audit.
    - **Every session:** CLAUDE.md · 05 · 04 · 06 · 01 · every 02 topic file · every 03 sheet · the 07 law core · **when drafting:** the last two chapters in full from `manuscript/` (cadence is calibrated locally; no summary carries it) · **when revising:** the chapter in hand and its neighbours in full · `07/chapter-records.md`, skipping the chapters read in full.
-   - **Design-time (a new chapter):** `scripts/clues.sh <keyword>` for what the target owes; `07/planted-clues.md` whole only at a Part boundary; spot-read any older chapter or record the design rhymes against.
+   - **Design-time (a new chapter):** `scripts/clues.sh <keyword>` for what the target carries (its payoff column is a spoiler and stays behind `-p`, on request); `07/planted-clues.md` is never read whole; spot-read any older chapter or record the design rhymes against.
    - **On demand:** `07/chapter-records-parts-1-3.md`, the archive, `TOOLS.md`, 08.
 3. The target is 05 §NEXT TARGET. Never improvise one unless asked.
 
@@ -40,7 +40,7 @@ Not cold-read: `index.md` (TOC), the archive, 08. There are no changelogs: `git 
 8. Hygiene: 05 back to its caps; newly spent 04 beats to pins; 03 DYNAMIC refreshed for touched characters (standing state only); a session record appended to `archive/session-log.md`. After any bullet-append in a bible, confirm the following header survived.
 
 ## Hard rules (author ratification to change)
-- **00 and every `### SEALED` section are author-ratified only** (above).
+- **00 is author-ratified only** (above). **SPOILERS LIVE IN 00 ONLY:** anything not on a page and not in 01 that concerns the future or a hidden truth goes to 00 and is not read at open or draft time; the live files keep the FENCE (what a page may not do), never the truth behind it. Sweep at every close.
 - **NOTHING LIVES IN CHAT.** Every decision, rule or promising idea is in a file and committed before the session ends.
 - **Records are records.** Session logs and the archive are appended, never rewritten.
 - **THE LEDGER FOLLOWS THE PAGE.** Quotation marks claim the words are on a page: quote out of the committed chapter, never from a draft, a design argument or another ledger. Text that is not page canon (rulings, cut lines, paraphrase) goes unquoted, in italics. `scripts/check-quotes.sh` is the instrument; confirm each hit with `git log -S` before calling it a phantom.

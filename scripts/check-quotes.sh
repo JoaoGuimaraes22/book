@@ -44,17 +44,13 @@ def present(n, gap=7):
 
 FILES = (sorted(glob.glob("03-Character-Bible/*.md")) + sorted(glob.glob("07-Story-Ledger/*.md"))
          + ["05-Continuity-Log.md", "04-Outline.md"] + sorted(glob.glob("02-World-Bible/*.md")))
-FILES = [f for f in FILES if not f.endswith(("index.md", "changelog.md", "-sealed.md"))]
-
-def live(text):
-    """`### SEALED` sections carry 00's old exemption (s46): off-page truths, never page canon."""
-    return re.sub(r"^### SEALED.*?(?=^## |\Z)", "", text, flags=re.M | re.S)
+FILES = [f for f in FILES if not f.endswith(("index.md", "changelog.md"))]
 
 MINW = int(sys.argv[1]) if len(sys.argv) > 1 else 5
 miss = collections.defaultdict(set)
 total = 0
 for f in FILES:
-    for q in re.findall(r'"([^"\n]{3,400})"', live(open(f).read())):
+    for q in re.findall(r'"([^"\n]{3,400})"', open(f).read()):
         # naive quote pairing can capture the span BETWEEN a closing quote and the
         # next opening one; a real quotation never starts or ends with whitespace.
         if q != q.strip():

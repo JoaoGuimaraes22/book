@@ -1,8 +1,8 @@
 ## VALERIA VEL
-**Glance:** rival → first friend; the Witness · Line of Vel (eleven generations — tiers in `../02-World-Bible/factions.md`) · 13 (Kael's age) · **off the mountain with the princess over her shoulder, burned down one side of her face, carrying an arm she will not mention.**
+**Glance:** rival → first friend · Line of Vel (eleven generations — tiers in `../02-World-Bible/factions.md`) · 13 (Kael's age) · **off the mountain with the princess over her shoulder, burned down one side of her face, carrying an arm she will not mention.**
 
 ### STATIC
-- **Role:** Daughter of the Line of Vel. Kael's rival, then first friend. The Witness — she alone will know the truth of him at the end (00).
+- **Role:** Daughter of the Line of Vel. Kael's rival, then first friend. The rest of her role is in 00.
 - **Want:** To be worthy of the Line; later, things she was never permitted to want.
 - **CORE (ratified s20 — outranks the flaw below):** DEEP, TOTAL, INDOCTRINATED LOYALTY TO THE ROYAL LINE. She exists to protect it; that is the entire content of her worth, and she has never been given room to hold it any other way. She does not experience being priced by the empire as an injury — being looked at is the only thing that makes any of it worth doing, and a state that reads its children early is a state doing the one thing a state is for. She will not follow others into cynicism about it and does not understand the complaint. **The seam (unspent):** she has never been asked whether she consented to be useful, and cannot construct an answer that is not an insult to her father (her father is the ENFORCER of the mentality and the teaching — the correction arrives from him, by post and in person). **This is the fault line the series opens.**
 - **Wound:** Forged from birth; lethality as her family's love language; correspondence read by chaperones; cannot sleep; flinches microscopically at reverence for her name.
@@ -46,15 +46,9 @@
 - **Body:** old white lines on the forearms and four new ones; knuckles older than her face; blood not hers on the forearm and a burn on the neck she did not report taking (Ch. 27).
 
 ### FORWARD
-- **Arc:** flawless mask → cracks → the choice in the fire (she runs with Kael and the princess — duty first; the crown-vs-Kael choice deferred to when it hurts more) → the Witness.
+- **Arc:** flawless mask → cracks → the choice in the fire (she runs with Kael and the princess — duty first; the crown-vs-Kael choice deferred to when it hurts more) → (00).
 - **Reveal discipline:** ration her interiority, keep the mask; the wound's remaining cracks (the sleeplessness, the forged childhood) stay unspent from inside.
 - **The one lazy place (Ch. 15, banked):** half a count of lag on the first exchange of each morning, before she is warm. Kael found it. DE-LISTED (author, s32): available if a scene wants it, not owed — and it can never be spent as designed, since the judge's hand never fell.
 - **The father:** his letters do not mention the boy — they ask how a Vel came to be standing where a waster could reach her (Ch. 16), and *they will be pricing you. Do not be cheap.* (Ch. 17).
 - **The unfinished duel:** never fought; no winner; unresolved for the entire series (00).
 - **End of Book One:** ~13–14; in the boat.
-
-### SEALED — author-ratified only; never on the page (rolled from 00 at s46)
-#### VALERIA & THE DUEL
-- Kael vs. Valeria. **It is never fought.** The bell strikes to begin the semifinal and the invasion arrives in the same instant; there is not one exchange between them on any page (SPENT — Ch. 27). No winner, and no fight to have had a winner.
-- **What Kael takes out of it:** he had a year to find a way to beat her and never found one, and she asked him on the sand and he told her the truth. The question is never answered, in any book.
-- Unresolved for the entire series; the rematch, whatever it means by then, is reserved for very late in the saga.

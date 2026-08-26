@@ -3,17 +3,17 @@
 
 ### STATIC
 - **Name:** Chosen, not given (00). One closed syllable, a tool being set down; worn the way soldiers' names get worn.
-- **Role:** Ex-instrument — a soldier the program forged. His past is brutal but ultimately knowable: he becomes MEMORY as Neris becomes MYSTERY. Teaches Kael the body: weapons, unarmed work, footing, breath, the stillness game, terrain, men. Father by total choice, not blood (00 — protect: *dies buying time for both his sons* carries the truth in both).
+- **Role:** Ex-instrument — a soldier the program forged. His past is brutal but ultimately knowable: he becomes MEMORY as Neris becomes MYSTERY. Teaches Kael the body: weapons, unarmed work, footing, breath, the stillness game, terrain, men. Father by total choice (00).
 - **Wound/Shame:** What he did as an instrument; that he believed it was destroyed and stopped watching.
 - **Flaw:** Loves through preparation; teaches survival, not people. Not a perfect parent.
-- **Abilities:** LIGHTNING Resonant, forged soldier (00). Revealed to Kael at the declaration — "Mine as well." plus one palm-crack; he never claims blood inheritance in words (00 staging rule). RULE: the reader never sees him fight until the fire — then the most terrifying display of skill in Book One. At the settlement: total kill, doctrine not rage; he completed the untying (00).
+- **Abilities:** LIGHTNING Resonant, forged soldier (00). Revealed to Kael at the declaration — "Mine as well." plus one palm-crack (00 staging rule: he never claims it in words). RULE: the reader never sees him fight until the fire — then the most terrifying display of skill in Book One. At the settlement: total kill, doctrine not rage (the rest is in 00).
 - **Teaching signature:** beside Kael, always longer, always better; corrections one stroke; release only on his word; harshness without softening — and the trust inside it (the tap-sign honored instantly, always).
 - **Appearance:** Broad through the shoulders and no further — an instrument's economy, not bulk; fills a doorway by carriage. Iron-dark hair **greying early** at the temples — ahead of his age, the *past its years* of the face carried by the hair; iron-dark eyes (both parents dark-eyed — Kael's grey is no one's). A face like used tools, weathered past its years. Scars on-page: the long seam, the through-wound pair, the tally-like forearm marks ("A bad employer"). Hands permanently half-curled, as if around something set down. Moves exactly as much as required.
 
 ### DYNAMIC
 - **HE IS DEAD.** He gave his son the sword hand to hand, told the old man to take the boy and not to come back for him, and walked into four hundred men with nothing in either hand. **Dunmar killed him** — a flat hand on the chest, then a sword off a dead man, once, level, at the height of the shoulders. **Kael saw all of it.** He is MEMORY from here; his archaeology is closed.
 - **HE KILLED PELLAN FIRST, WITH HIS HANDS**, and put two more of the five down, and would not fall over at the end of it, and four hundred men would not come and make him.
-- **THE SWORD IS KAEL'S**, given and not thrown, and it went down the mountain in the boy's fists because they would not open. **The paternity rule is served: it is the largest proof of his fatherhood on any page** (00).
+- **THE SWORD IS KAEL'S**, given and not thrown, and it went down the mountain in the boy's fists because they would not open. **It is the largest proof of his fatherhood on any page** (00).
 - **HIS LAST QUESTION WAS A TACTICAL ONE AND HIS LAST WORDS WERE ABOUT HIS SON.** He never once said what he was doing.
 - **Now:** between the path and his own door with the longsword in his hand, running a defence he did not choose on ground he has known for thirteen years.
 - **HE ANSWERED THE TWIN-SHORTS PROHIBITION WITH AN ACTION.** Into the shed, back with two blades that do not match, put down within his son's reach, and not one word about the arena. The fence is dead because the world that needed it is dead.
@@ -22,7 +22,7 @@
 - **He let the master bring fifteen of the empire's people onto his mountain**, and spent four words on it.
 - **Previously:** carrying his son up the mountain at the last of the light, at a speed no ground goes past at.
 - **HE HAS BEEN SEEN, AND THE RULE IS SPENT (Ch. 30).** Whole-body threading — lightning held in the entire body at once and *not coming off*, the inward art in the wrong element (02/magic); a longsword out of the chest with the same white the length of it; a speed that reaches Kael as ABSENCE rather than as motion. He was breathing hard. **He does not beat the general** — four or five exchanges, no ground given either way — he interrupts, kills the ordinary men, and takes his son out. Never let a later page explain any of it.
-- **THE COALITION'S SENIOR COMMAND KNOWS HIM ON SIGHT (Ch. 30).** *"Well. The Phantom." … "You have aged."* He answers nothing. **Kael heard it.** Never joined up on any page, by anybody, ever (03/vask.md §SEALED — THE PHANTOM).
+- **THE COALITION'S SENIOR COMMAND KNOWS HIM ON SIGHT (Ch. 30).** *"Well. The Phantom." … "You have aged."* He answers nothing. **Kael heard it.** Never joined up on any page, by anybody, ever (00 §THE PHANTOM).
 - **HE SPENT THE LEG ON THE SON (00 s39).** Split three ways, holding two at most, he went for Kael — which means somebody else was holding the house. **The page never says so and Kael is never given the arithmetic.**
 - **He apologised to his son**, which is new, and answered the question Kael got out about his mother — *"Mother. Is she—"* — with the child and not with her: *"The baby. It's coming. I'm sorry I couldn't find you sooner."*
 - **His prohibition and the twin shorts are still unanswered** — he has now seen what his son did with them all day and has said nothing about it.
@@ -38,10 +38,4 @@
 
 ### FORWARD
 - **Status:** DEAD (Ch. 33). He is MEMORY from here; the archaeology is closed. The last hour's geometry is spent and its arithmetic is sealed — he went for the son, nobody held the house, and Kael is never given it (archive/author-canon-spent.md §THE BIRTH AND THE SEMIFINAL).
-- **The chest (00):** paid — the sword reached the page in his hand (Ch. 30) and went into his son's (Ch. 33), given, not thrown, under the paternity rule: the monument, never the undoing. Neris's dagger travels a different road (`neris.md`).
-
-### SEALED — author-ratified only; never on the page (rolled from 00 at s46)
-#### THE PHANTOM — Vask's war-name (author, s39)
-- **The coalition's senior command knows Vask by a war-name: THE PHANTOM.** Spoken to his face on the page (Ch. 30) by the general, who recognises him on sight, from the whole-body threading, after more than a decade — *"Well. The Phantom." … "You have aged."* Kael hears it, is half-conscious, and can do nothing with it. **It is the largest piece of his parents' archaeology he has ever been handed, and it arrives in an enemy's mouth.**
-- **WHERE IT COMES FROM IS RESERVED.** Program-era, pre-rebellion; whether the coalition learned it as an adversary, or through the alumni embedded in its own cadre (§The Program, Option 2), is OPEN and is a door.
-- **THE RHYME WITH "THE GHOST" IS THE POINT AND IS NEVER NOTICED.** The island named the son *the Ghost* out of the cheap seats (Ch. 23) knowing nothing; the world named the father *the Phantom*. **Under §THE PATERNITY this is the chosen-over-given thesis arriving early:** the boy got a version of his father's name by accident, for a thing he was taught rather than a thing he inherited. **HARD RULE: nobody joins them up — not Kael, not Vask, not the narration, not any later chapter.** The reader may. Nobody in the book ever does.
+- **The chest (00):** paid — the sword reached the page in his hand (Ch. 30) and went into his son's (Ch. 33), given, not thrown, as the monument (the rule is in 00). Neris's dagger travels a different road (`neris.md`).

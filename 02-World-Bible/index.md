@@ -1,5 +1,5 @@
 # 02 — World Bible (index)
-**Status:** New canon lands in its topic file at chapter commit. **`### SEALED` sections** in the topic files are author-ratified only and never on the page — the deep layer that lived in 00 until s46. History: `git log` and `../archive/session-log.md`.
+**Status:** New canon lands in its topic file at chapter commit. History: `git log` and `../archive/session-log.md`.
 
 ---
 
