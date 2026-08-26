@@ -54,7 +54,7 @@ Kael sat up.
 
 Severin's head came up.
 
-"There are eleven now," Kael said. "They are halfway down. Master, they are carrying torches the hillside in the dark with our boat six hundred strides below them, and they do not care what we can see."
+"There are eleven now," Kael said. "They are halfway down. Master, they are carrying torches down the hillside in the dark with our boat six hundred strides below them, and they do not care what we can see."
 
 "Yes," said Severin. "They know where we are."
 
@@ -82,7 +82,7 @@ Then the first one arrived.
 
 It did not come like a thing thrown.
 
-It stood up off the shore, all at once, wider than the boat was long, and it came out over the water without going up first and without dropping, keeping its shape the whole way, and the whole of the sea between the island and the hull went the colour the sun.
+It stood up off the shore, all at once, wider than the boat was long, and it came out over the water without going up first and without dropping, keeping its shape the whole way, and the whole of the sea between the island and the hull went the colour of the sun.
 
 A fireball.
 
@@ -134,7 +134,7 @@ He found the source of it at once.
 
 He was down at the water, out on the end of the rocks, enormous through the shoulders. There were four torches standing near him and a good deal of light on him. He was standing with his weight on his back foot and his hands down. While Kael watched, he turned his head and said something to somebody behind him. Then he turned back, and put his weight forward.
 
-And his hands came up, and towards the ship.
+And his hands came up, and toward the boat.
 
 Kael had the whole of it before the thing was halfway to them, because he had seen the man do it in his own yard.
 
@@ -262,7 +262,7 @@ The mast came down about four seconds later. It came down across the left side o
 
 "Cut it," said Severin. "CUT IT NOW!"
 
-Elarine Sedrane got up off the boards, gripped her sword with all shed had, and did it.
+Elarine Sedrane got up off the boards, gripped her sword with all she had, and did it.
 
 The boat came upright.
 
@@ -300,10 +300,11 @@ Kael lay along the strake of a boat with his brother screaming against his colla
 
 Then the rock went behind the shoulder of the island and took the light with it, and there was nothing on the water behind them at all.
 
-His brother finally had calmed. Almost as this day old baby knew he was finally, safe.
-Then, silence. *Finally, silence*
+His brother had finally calmed. Almost as if this day-old baby knew that he was safe.
 
-For what felt like an eternity of chaos and screaming and crying. 
+Then, silence.
+
+For what felt like an eternity of chaos and screaming and crying.
 
 Silence, finally, arrived.
 

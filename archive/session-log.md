@@ -2453,3 +2453,25 @@ The s21 design load was tested rather than waved through: it warned that a progr
 **Metrics.** Ch. 35: 3,827 words; and/1k 55.9 whole, saturation section 61.9 — deliberate, reported rather than smoothed. Echo script: 0 hits. Departures: none of the three. **Cut and held for the drift chapter, in commit `8518949`:** the bare hull at dawn, the bailing, **the third whitening**, **the seed-bread's inversion**, the water count, **the archaeology as subtraction in Neris's own mouth**, and the island at last light with no lights on it.
 
 **Parallel sessions.** A plate session and a Ch. 21/23 session committed to this repo throughout; every commit here was staged by explicit path.
+
+## SESSION 50 (2026-08-26) — THE CORRECTION PASS
+**Opened** on a clean tree (baselines match, 0 phantoms) with the full cold read: CLAUDE.md · 05 · 04 · 06 · 01 · every 02 topic file · every 03 sheet · the 07 law core · the Part IV records · Ch. 34 and Ch. 35 in full.
+
+**The cold read found seven author lines standing on committed pages, five of them never logged.** `git log -S` placed all seven in the author's own hand: three arrived in the Ch. 35 edit-absorption commit `37e3d6a` (which degraded *on a hillside* → *the hillside*, *the colour of a hearth* → *the colour the sun*, *forward* → *towards the ship*), two arrived in the Ch. 34 landing commit `4542c46`, and two were the s49 flags already carried in 05.
+
+**AUTHOR RULING: *correct itches*.** All seven taken. The corrections, minimal in every case, keeping the author's own word where a word was being kept:
+- Ch. 35 — *carrying torches the hillside* → *carrying torches **down** the hillside* (his definite article kept; the missing preposition supplied off the lights' own motion down the rock).
+- Ch. 35 — *went the colour the sun* → *went the colour **of** the sun* (the s49 change from *a hearth* to *the sun* is his and stands).
+- Ch. 35 — *and towards the ship* → *and **toward the boat*** (*towards* was the only instance in the manuscript against 44 of *toward*; *ship* is the manuscript's word for the fleet's vessels and had never once been this hull).
+- Ch. 35 — *gripped her sword with all shed had* → *with all **she** had*.
+- Ch. 35, the close — *His brother **had finally** calmed. Almost as **if** this **day-old** baby knew **that** he was safe.* The stray comma before *safe* is gone; **the fourth beat, *Then, silence. \*Finally, silence\**, is cut to *Then, silence.*** — the hammer keeps three landings instead of four, and the last line is untouched.
+- Ch. 34 — *the way a thing comes up through like worms* → *the way **worms come up through ground***.
+- Ch. 34 — *And he **proceeded**.* → *And he **went on**.* (the image is his and is kept; the Latinate verb was the only thing in the sentence out of register).
+
+**NOT changed, and now the one thing carried open:** Ch. 34's *You are nothing special.* and *Finally, his dream had come true.* — both the author's, both italic narration in close third, where 06 reserves the italic for the first-person slips and Ch. 34 takes none. Flagged as a convention ruling, not a fix; **no retro pass, and nothing in 06 touched.** 05 §OPEN ITEMS carries it.
+
+**Housekeeping.** 05 §STATUS was carrying word counts the baselines already own, and one of them (Ch. 34 at 6,982) was stale by a word; both counts dropped under ONE FACT, ONE HOME. Baseline **Ch. 34 = 6,980** (was 6,981; net −1 across the two Ch. 34 corrections). **Ch. 35 = 3,827, unchanged** — the close lost two words and the two supplied prepositions put them back.
+
+**Verification after the pass:** `check-quotes.sh` 1,144 quoted fragments, 0 not found — no ledger line was quoting any of the corrected spans in its old form. `check-echoes.sh` on both chapters: 0 protected phrases. `verify.sh` baselines match, phantoms 0. Reader notebook re-synced (Ch. 34 and Ch. 35 replaced).
+
+**No prose was designed or drafted this session and no canon moved.** The target is unchanged: 05 §NEXT TARGET — THE DRIFT.

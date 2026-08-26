@@ -384,7 +384,7 @@ Kael looked at where they were standing and understood what the old man was goin
 
 Severin knelt down on the floor of the cut and put both palms flat on it, and the roots came up.
 
-They came up out of the walls on both sides and out of the floor between them: olive root and thorn root and the fine grey stuff that lives in a crack and holds a whole hillside together, and it came up through the stone the way a thing comes up through like worms, in no hurry and with nothing able to be done about it. It went across the mouth of the cut and it went on going. It laced. It thickened at the crossings and put out fresh growth on the far side of itself, pale in the dark and wet-looking, with three-inch thorns standing off it in every direction.
+They came up out of the walls on both sides and out of the floor between them: olive root and thorn root and the fine grey stuff that lives in a crack and holds a whole hillside together, and it came up through the stone the way worms come up through ground, in no hurry and with nothing able to be done about it. It went across the mouth of the cut and it went on going. It laced. It thickened at the crossings and put out fresh growth on the far side of itself, pale in the dark and wet-looking, with three-inch thorns standing off it in every direction.
 
 In about thirty seconds the way they had just come was a wall of live wood eleven feet deep.
 
@@ -462,7 +462,7 @@ He could not answer that.
 
 ---
 
-The runnel let them out about six hundred strides above the water. Kael's body and mind were more pain than flesh. And he proceeded.
+The runnel let them out about six hundred strides above the water. Kael's body and mind were more pain than flesh. And he went on.
 
 It came out of the hillside low and sideways and without any warning, the way Severin had said it would, and Kael went out of the mouth of it into open air and cold and the smell of weed and salt, and the ground fell away in front of him in three big shelves and at the bottom of the third one was the sea.
 
