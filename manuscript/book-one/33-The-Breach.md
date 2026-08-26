@@ -48,17 +48,17 @@ Oss stopped talking.
 
 That was worse.
 
-Kael's heart came up out of his chest into his throat and stayed there. His breathing went short and high and no use to anybody. His hands were cold. None of that had happened to him at the wells, or in the lanes, or in a farm yard with a man saying *I'm sorry, little one*. It happened here, forty feet from his mother's door, with everyone he had ever known standing behind him against a wall.
+Kael's heart came up out of his chest into his throat and stayed there. His breathing went short and high and no use to anybody. His hands were cold. They were here, forty feet from his mother's door, with everyone he had ever known standing by him.
 
 He breathed out. All of it, down to the bottom.
 
 His hands stayed cold.
 
-He looked across the open ground at his father. His father was square between the path and his own door with the longsword down along his leg, and he had not moved, and there was nothing whatever happening in his shoulders. He might have been waiting for a pot to boil.
+He looked across the open ground at his father. His father was square between the path and his own door with the longsword down along his leg, and he had not moved. 
 
 Then they came round the second bend, and the first sound off it was a sack going over: a man's weight arriving somewhere it had not been sent.
 
-The first two who came up at the narrow died in it, with the wall above them on the left and the drop on the right. The second two died on top of the first two. That is what a narrow is for. Kael heard all of it and saw none of it. He heard the pause after, which was them working out that four was going to be the price every time.
+The first two who came up at the narrow died in it, with the wall above them on the left and the drop on the right. The second two died on top of the first two. That is what a narrow is for. Kael heard all of it. He heard the pause after, which was them working out that four was going to be the price every time.
 
 Then they paid it anyway.
 
@@ -73,8 +73,6 @@ Kael took him under the ear on the way past and rode the weight down so it arriv
 Then he moved, because a body on the ground is a place men look at.
 
 The second one came up eleven strides further along and Kael was already there. He put the heavy blade in above the collarbone and took his hand off it and had the light one out before the man had finished going down. The third came up almost on top of the second and got a noise out, one flat syllable, and Kael went in under the arm and opened him from the hip up and put a hand over the mouth for the rest of it, which was not long.
-
-His arms were shaking by the third. That was the purse. It had been nearly empty since a farm yard and it had not filled, and he had spent nothing yet tonight and it was shaking anyway.
 
 He wiped his palm on his coat and went back to the corner and put his back on the stone.
 
@@ -106,29 +104,57 @@ It killed him.
 
 Because to throw it he had to stand still, and he stood still.
 
-The second man came over the wall six feet from where the first had. He crossed the open ground while Lucan Drusane was still in the follow-through, weight forward, front foot planted, and put a spear in under his arm and out the other side of him.
+The second man came over the wall six feet from where the first had, and Kael saw him land.
+
+"LUCAN."
+
+He got the name out and he got his legs moving and neither of them was any use. Lucan Drusane was at the end of the throw with his weight forward and his front foot planted, which is where that form puts you. He heard his name. He turned his head toward it. Turning his head was the whole of what he had time to do.
+
+The man crossed the open ground and put a spear in under his arm and out the other side of him.
 
 Lucan went down onto his knees with his back straight.
 
 He looked, Kael thought, extremely surprised.
 
-Kael arrived. He came in past the spearman's shaft-hand, took the wrist, turned it, went up the shaft the way you go up a shaft, and put the short blade in through the throat and out. The man sat down in the trodden dirt of the yard.
+Kael arrived four seconds late. He came in past the spearman's shaft-hand, took the wrist, turned it, went up the shaft the way you go up a shaft, and put the short blade in through the throat and out. The man sat down in the trodden dirt of the yard.
 
-Then he knelt in front of Lucan Drusane and got a hand under his jaw and looked at it.
+Then he got down in front of Lucan Drusane and put both hands on him.
 
-The spear had gone through the middle of him. There was nothing to hold shut and nowhere to carry him to, and the number on a wound like that one is minutes.
+He put them on the front of it first. Then round to the back, where the point had come out, and his fingers went in and stopped against the inside of the boy's coat. There was nothing to hold shut. There was nowhere to carry him to. The number on a wound like that one is minutes, and Kael had it before his hands came away.
 
-Lucan's eyes came round and found him, and stayed on him, and did not do anything else.
+He had wanted to hurt this boy for four years. He had done it two days ago, in front of eleven thousand people.
 
-"You did it right," Kael said.
+He got an arm in under the shoulders and took the weight off the ground.
 
-He did not know why he said it. It was true.
+"Did I get him."
 
-He put the boy down on his side, because that was what you did, and took his hand back, and stood up, and went to the pen corner. While he was going, the thing he had read arranged itself and filed itself without asking him: *the form needs a straight line off a squared front. So it needs a man who will stand still. There is a place in the world where standing still is not survivable, and nobody who taught him that form has ever once been in it.*
+It came out with almost nothing behind it.
+
+"You got him," Kael said. "You put him into the store wall. I heard it come back off the mountain."
+
+"Good," said Lucan Drusane.
+
+Then the other two were there.
+
+Elarine got down on the far side of him and put both hands where Kael's had been, flat, pressing, and she had no idea in the world what she was doing. She had never once in her life done a thing she had not worked out first. She pressed anyway, hard, with it coming up between her fingers, and she was crying, and she did not appear to know that either.
+
+Aurelian said, "Lucan." Then he said it again. Then he stopped being able to say anything at all, and got down beside her with the bad arm hanging, and put his good hand flat on the boy's chest, which did nothing for anybody, and left it there.
+
+Lucan's eyes came round and found Kael and stayed on him and did not do anything else.
+
+Kael stayed.
+
+He knew exactly how long he had been kneeling on that ground, and exactly what was happening to the corner of the pen while he knelt on it, and he stayed anyway, with a boy's head on his arm, until the head got heavier. That does not take very long.
+
+Then he put him down on his side, because that is what you do, and took his hand back, and stood up.
+
+Elarine did not stop pressing.
+
+Kael went to the pen corner. While he was going, the thing he had read arranged itself and filed itself without asking him: *the form needs a straight line off a squared front. So it needs a man who will stand still. There is a place in the world where standing still is not survivable, and nobody who taught him that form has ever once been in it.*
 
 He put that down where he put things.
 
-Elarine Sedrane was on her knees beside the body inside four seconds. Aurelian Corvane was behind her. Kael had no time at all to look at either of their faces, and did not look.
+Then he put his back on the stone, and found that his hands were shaking in a way that had nothing to do with the purse at all, and waited for the next one to come up out of the dark.
 
 ---
 
@@ -144,9 +170,19 @@ Neris had her chin down and her heels dug into the fleece and her hands round tw
 
 The princess of the Vessantine empire stood against the door frame with her hands held slightly away from her sides.
 
-"The lamp. Bring it to my left and hold it at the height of my shoulder and do not put it down. If you are going to be sick, be sick behind you."
+"The lamp. Bring it to my left, hold it at the height of my shoulder, and do not put it down."
 
-She brought the lamp. She held it at the height of his shoulder.
+She looked at the floor between his knees, and took a step backwards.
+
+It was a small step and she did not appear to have decided on it. Her hand went out behind her and found the frame and stayed on it.
+
+"Your Serene Highness."
+
+"Yes."
+
+"The lamp."
+
+She came off the frame. She lifted the lamp off the table and carried it round the fleece without looking at any part of the floor she walked beside, and held it out to his left at the height of his shoulder.
 
 "Closer."
 
@@ -183,6 +219,12 @@ Nobody had ever told the princess to say anything.
 "Nothing I have seen in this room leaves it," said Aeliana Cassivara Vessantine.
 
 "Thank you," said Severin, and turned back round, and put his hands out again, and said, "Neris. Give him to me a moment."
+
+The princess set the lamp down on the corner of the table and squared it so it would not go over. Then she walked to the far wall of that house and was very thoroughly sick against the stones of it, with one hand braced above her head and the other holding the gown off the floor.
+
+It took a while. Nobody in that room said anything about it or looked round.
+
+Then she came back, and picked the lamp up, and held it at the height of his shoulder.
 
 ---
 
