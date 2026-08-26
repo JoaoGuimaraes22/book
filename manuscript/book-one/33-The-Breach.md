@@ -98,15 +98,13 @@ He was not going to get there. He knew it at the eighth stride with the arithmet
 
 And a column of air came out of the dark by the north wall of the house and took the man off his feet and put him into the stones of the store hard enough that the sound came back off the mountain.
 
-It was a good working. It was a beautiful working. It was thrown off a squared front with a straight back and a proper guard, exactly the way a paid fencing-master out of the capital had spent four years putting it into a boy who worked. It was worth every hour of the four years.
+It was a good working. It was a beautiful Art. It was thrown off a squared front with a straight back and a proper guard, exactly the way a paid fencing-master out of the capital had spent four years putting it into a boy who worked. It was worth every hour of the four years.
 
-It killed him.
-
-Because to throw it he had to stand still, and he stood still.
+And yet, because to throw it he had to stand still, he did.
 
 The second man came over the wall six feet from where the first had, and Kael saw him land.
 
-"LUCAN."
+"LUCAN!"
 
 He got the name out and he got his legs moving and neither of them was any use. Lucan Drusane was at the end of the throw with his weight forward and his front foot planted, which is where that form puts you. He heard his name. He turned his head toward it. Turning his head was the whole of what he had time to do.
 
@@ -121,8 +119,6 @@ Kael arrived four seconds late. He came in past the spearman's shaft-hand, took 
 Then he got down in front of Lucan Drusane and put both hands on him.
 
 He put them on the front of it first. Then round to the back, where the point had come out, and his fingers went in and stopped against the inside of the boy's coat. There was nothing to hold shut. There was nowhere to carry him to. The number on a wound like that one is minutes, and Kael had it before his hands came away.
-
-He had wanted to hurt this boy for four years. He had done it two days ago, in front of eleven thousand people.
 
 He got an arm in under the shoulders and took the weight off the ground.
 
@@ -194,7 +190,7 @@ Then Neris took a breath and held it and bore down, and her head went back on th
 
 They were red.
 
-Not lit, not shining. There was no glow on the boards, no colour thrown anywhere. It was simply that the woman on the floor had red eyes now, all the way through, from edge to edge, the way a lamp has flame in it, and she was looking at the ceiling of her own house and did not appear to know it.
+Not lit, not shining. There was no glow on the boards, no colour thrown anywhere. It was simply that the woman on the floor had red eyes now, all the way through, from edge to edge, the same color as the blood under her legs, and she was looking at the ceiling of her own house and did not appear to know it.
 
 The lamp came down about four inches.
 
@@ -212,7 +208,7 @@ Severin worked. He did not look at the woman's face. When it was done and the no
 
 She said, "I do not know what I have seen."
 
-"No," said Severin. "That is not a difficulty. Nothing that you have seen in this room leaves it. Not to your woman. Not to your household. Not to your father, and not to the man who writes your father's letters, and not in forty years. Say it to me."
+"No," said Severin. "That is not what I have said. Nothing that you have seen in this room leaves it. Not to your guard. Not to your household. Not to your father. Not to anyone, not now and not in forty years. Say it to me."
 
 Nobody had ever told the princess to say anything.
 
@@ -225,6 +221,46 @@ The princess set the lamp down on the corner of the table and squared it so it w
 It took a while. Nobody in that room said anything about it or looked round.
 
 Then she came back, and picked the lamp up, and held it at the height of his shoulder.
+
+Severin turned the child over in his two hands, and put his ear down on him, and put a finger in his mouth, and counted something on his own wrist. Then he gave him back.
+
+Neris took her son against her chest.
+
+"Thank you," she said.
+
+"Yes," said Severin.
+
+"No. Severin." She had almost nothing in her voice to do it with. "Thank you."
+
+The old man sat back on his heels and did not answer that at all.
+
+Then she turned her head on the fleece and looked up at the girl standing over the two of them with the lamp.
+
+"And you," said Neris. "Thank you. You did that well."
+
+Nobody had ever thanked the princess of the Vessantine empire for anything she had done with her hands. She stood in a herder's house with sick on her sleeve and the lamp at the height of an old man's shoulder, and did not manage to say anything back.
+
+Then Neris looked down at her son.
+
+He was moving against her. She got her thumb under his chin and turned his face up into the light, the way you do.
+
+He opened his eyes.
+
+Everything in that woman stopped.
+
+She did not make a sound. Her hand did not move off his chin. What went across her face went across it once, from underneath, and it was not any of the things a woman's face does over a new child, and the lamp was six inches away and it showed all of it.
+
+Severin was already reaching past her. He took the good end of the linen off the table, put it flat between his hands, and tore a strip off it.
+
+He did not say anything. He held it out.
+
+She took it out of his fingers.
+
+She bound it across the child's eyes, quickly, and well, and not tight, clear of the nose and clear of the mouth, and tucked the end of it under itself behind the ear, and put her palm flat over the whole of it and held it there.
+
+The lamp came down about four inches.
+
+The princess put it back up herself.
 
 ---
 
@@ -380,13 +416,17 @@ It had a fingernail on it.
 
 Kael looked at the fingernail, and something opened in his chest that had never once been opened. The yard went out of the room. The fire went, and the men, and the whole of his life, the way water goes out of a pulled bath. He stood in his mother's house and was, for about four seconds, completely and unspeakably happy.
 
-The baby stopped moving and opened his eyes and looked at him.
+There was a strip of linen bound across the child's face.
 
-They were red.
+He looked at it and got nowhere. It was neatly done. It was not tight. It was clear of the nose and clear of the mouth, and there was no wound anywhere near it, and nobody binds a thing that is not hurt.
 
-All the way through, edge to edge, the colour of the fire in the hole. They were not looking at anything, the way a newborn's eyes are not looking at anything.
+Then the baby moved his head against Kael's forearm, with nothing behind it, the way they do, and the linen went up over one eyebrow and came off the eye underneath it.
 
-They were red.
+It was red.
+
+All the way through, edge to edge, the colour of the fire in the hole. It was not looking at anything, the way a newborn's eye is not looking at anything.
+
+It was red.
 
 Kael's whole mind arrived at once and put nothing anywhere.
 
@@ -406,7 +446,7 @@ Kael stood in the middle of it holding his brother and understood exactly one th
 
 "Give him to me."
 
-He gave him to her. She got him against her chest and put her cheek down on the top of his head.
+He gave him to her. She got him against her chest. She put the linen back down over the eye with her thumb, without looking at it, the way you straighten somebody's collar, and then she put her cheek down on the top of his head.
 
 "His name is Wren," she said.
 
@@ -414,7 +454,7 @@ Then the door went dark, because his father was in it.
 
 ---
 
-Vask stood in his own doorway with the longsword hanging and the white going out of him in front of everybody, and looked at his wife on the floor holding a child.
+Vask stood in his own doorway with the longsword hanging and the white going out of him in front of everybody, and looked at his wife on the floor holding a child with a strip of linen across its face.
 
 He looked at her for about two seconds.
 
