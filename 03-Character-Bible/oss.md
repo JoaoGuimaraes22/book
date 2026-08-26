@@ -1,5 +1,5 @@
 ## OSTRIAN "OSS" VESSALINE (the almost-friend — warmth that fails)
-**Glance:** the almost-friend; the reader's guide to the Temple · House Vessaline (merchant; a bought name) · ~13 · estranged from Kael — "It was just a seat." · **ALIVE, and standing in Kael's yard — the estrangement is now face to face and neither of them has anything.**
+**Glance:** the almost-friend; the reader's guide to the Temple · House Vessaline (merchant; a bought name) · ~13 · **DEAD, on the lip of the breach, with the estrangement never repaired and not one word ever said.**
 
 ### STATIC
 - **Role:** Youngest son of an archipelago merchant house that bought its way into the register — new money wearing old ornament; every old-blood child hears the reach in "Vessaline." The first to reach Kael; Temple names, houses, and ranks delivered as characterization.
@@ -12,6 +12,9 @@
 - **Appearance:** Soft-built, round-faced, quick-eyed; expressive hands that talk when he does, which is always. Everything he wears slightly too new — cloth that hasn't learned him yet (the bought name as wardrobe). A face built for laughing that watches carefully between laughs.
 
 ### DYNAMIC
+- **HE IS DEAD, AND HE DID IT DOING THE ONE THING THIS SHEET SAID HE COULD NOT REPEAT.** He stopped at the top of the slot while everybody else ran, and pulled up a wall of earth four feet high and eleven strides long — *the only working Kael had ever seen him do that was worth anything at all* — and it held four seconds, which was exactly enough, and then they went round it and killed him. **The courage arrived under load, once, and it cost him everything.**
+- **NOT ONE WORD EVER PASSED BETWEEN THEM.** Half a step forward in the yard and the line moved him on; then this. *There had been no word of any kind between them, not on any day of the last year, and now there was not going to be one.* **The wound he owed Kael is never delivered and the repair is never available.**
+- Kael was forty feet below and moving toward him and was picked up off his feet by the front of the coat.
 - **HE IS ALIVE, AND KAEL HAS SEEN HIM (author, s41, amended s42 — the *Kael does not know* half is retired).** He came up that path three behind Aurelian, saw Kael standing armed in his own yard, got half a step forward and was moved on by the line. **Neither of them got one word out.** The arc is untouched: the wound he owes Kael, and the courage he will not repeat under load, are both still ahead — and the story is about to ask him for it on that mountain.
 - **His father said goodbye and it was the last time.** Held on to by two people at once and managing none of it; his father spent his last words on the coat and on eating, and **did not mention the bought name once** — the name that had cost him most of what he owned and had been the whole subject of his life. *"You were always enough. You were always plenty."*
 - The old houses along that wall all looked at something else at the same moment, which was the only kindness Valeria saw an old house do that day.

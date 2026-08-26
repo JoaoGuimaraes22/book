@@ -1,5 +1,5 @@
 ## VASK (the father)
-**Glance:** Kael's father; teacher of the body · ex-instrument of the program, hidden · age unpinned, **and the same as Neris's (author, s34)** · alive · **home, holding his own yard, with his wife delivering inside it and an army coming up the path.** The coalition knows him as **THE PHANTOM** (00).
+**Glance:** Kael's father; teacher of the body · ex-instrument of the program · age unpinned, **and the same as Neris's (author, s34)** · **DEAD — killed in his own yard at Ch. 33, in front of his son.** The coalition knew him as **THE PHANTOM** (00).
 
 ### STATIC
 - **Name:** Chosen, not given (00). One closed syllable, a tool being set down; worn the way soldiers' names get worn.
@@ -11,6 +11,10 @@
 - **Appearance:** Broad through the shoulders and no further — an instrument's economy, not bulk; fills a doorway by carriage. Iron-dark hair **greying early** at the temples — ahead of his age, the *past its years* of the face carried by the hair; iron-dark eyes (both parents dark-eyed — Kael's grey is no one's). A face like used tools, weathered past its years. Scars on-page: the long seam, the through-wound pair, the tally-like forearm marks ("A bad employer"). Hands permanently half-curled, as if around something set down. Moves exactly as much as required.
 
 ### DYNAMIC
+- **HE IS DEAD.** He gave his son the sword hand to hand, told the old man to take the boy and not to come back for him, and walked into four hundred men with nothing in either hand. **Dunmar killed him** — a flat hand on the chest, then a sword off a dead man, once, level, at the height of the shoulders. **Kael saw all of it.** He is MEMORY from here; his archaeology is closed.
+- **HE KILLED PELLAN FIRST, WITH HIS HANDS**, and put two more of the five down, and would not fall over at the end of it, and four hundred men would not come and make him.
+- **THE SWORD IS KAEL'S**, given and not thrown, and it went down the mountain in the boy's fists because they would not open. **The paternity rule is served: it is the largest proof of his fatherhood on any page** (00).
+- **HIS LAST QUESTION WAS A TACTICAL ONE AND HIS LAST WORDS WERE ABOUT HIS SON.** He never once said what he was doing.
 - **Now:** between the path and his own door with the longsword in his hand, running a defence he did not choose on ground he has known for thirteen years.
 - **HE ANSWERED THE TWIN-SHORTS PROHIBITION WITH AN ACTION.** Into the shed, back with two blades that do not match, put down within his son's reach, and not one word about the arena. The fence is dead because the world that needed it is dead.
 - **He handed the ground to a thirteen-year-old in front of twelve royal guardsmen** — *Ask my son* — and then did not argue with any of it, which is the only reason nobody else did.

@@ -1,5 +1,5 @@
 ## ELARINE SEDRANE (the watcher — pride that learns)
-**Glance:** the cohort's real mind; collegial ally · House Sedrane · ~13 · **alive, at the mountain house, emptied, with her hair come loose for the first time in the book** · cistern-court alliance standing; the fiction held over the flash.
+**Glance:** the cohort's real mind; collegial ally · House Sedrane · ~13 · **alive, off the mountain, with another child's blood to both wrists and Kael's mother's weight under one arm.**
 
 ### STATIC
 - **Role:** Considers herself the cohort's real MIND (Aurelian its capacity, its name, its noise) — and she is right. With Aurelian: the two responses to being out-thought — his world breaks, hers gets bigger. Proof the golden children are not a monolith.
@@ -15,6 +15,9 @@
 - **Appearance:** Ink-dark hair bound severely; pale, economical — nothing on her that doesn't work; small; dark eyes that price before they blink. Forgettable at a glance and unforgettable the third time you notice she hasn't moved. What others react to: they mostly don't — which she has noticed, and wears as neatness.
 
 ### DYNAMIC
+- **SHE PRESSED A WOUND SHE HAD NOT WORKED OUT FIRST**, which she has never once done in her life, hard, with it coming up between her fingers — **and she was crying, and did not appear to know she was doing either.** The mask this sheet gives her came off in front of Kael and neither of them has mentioned it.
+- **SHE CARRIED KAEL'S MOTHER OFF THAT MOUNTAIN** with Aurelian on the other side. **The two children who could not act at the gate are the reason Neris walked**, and Kael has passed no verdict on that and may never.
+- She has now seen the house, the yard, the pens and the whole of what Kael came from, **and she has still not learned one thing he knows.** The coat-wire is at its highest pressure yet and is still unbroken.
 - **Now: at the mountain house**, with nothing left in her and nothing to spend it on. She saw Kael standing armed in his own yard with blood dried to both elbows and said nothing whatsoever, and he could not read her face, which is exactly the ordinary state of things between them.
 - **Previously: in the escape party**, emptied — mended in public the previous morning and with nothing left in her.
 - **Her mother said goodbye to her and it was the last time.** Instructions first, in the house's only dialect; then the compliment nobody has ever paid her — *"Not one of them has ever been good enough. I have known it since you were four years old, and I have never once said it to you… I was not going to have you softened."* / *"I am not encouraging you. Encouragement is for people who need it."* **Her sheet's wound is answered by her dying mother and by nobody else.** Do not have her repeat it or quote it.

@@ -1,5 +1,5 @@
 ## LUCAN DRUSANE (the worker — petty revenge with feet)
-**Glance:** the worker of Aurelian's four · House Drusane · ~13 · **at the mountain house, two days off his back, walking on his own and badly** — and he is the first of them to die.
+**Glance:** the worker of Aurelian's four · House Drusane · ~13 · **DEAD — the first of them to go, in Kael's yard, exactly as his father said he would.**
 
 ### STATIC
 - **Role:** The one of the four who WORKS — "watch the pointing, not the laughing." A paid fencing-master's polish at eleven. Design: child-currency cruelty, deniable, real — the escalation's face and hands without spending Aurelian.
@@ -8,6 +8,10 @@
 - **Appearance:** "The long one" — tall, narrow, all reach; a careful dresser even in yard clothes. A narrow face that does arithmetic badly in public — his thinking shows, which among the golden children is a weakness.
 
 ### DYNAMIC
+- **HE IS DEAD.** He threw one perfect air column off a squared front and killed the man who was thirty feet from the door with it, and **to throw it he had to stand still, and he stood still**, and a second man put a spear through him while he was still in the follow-through. **Kael shouted his name and the form would not let him turn in time.**
+- **HIS LAST WORDS WERE THE ARITHMETIC:** *"Did I get him."* — and he was told the truth, and said *"Good,"* **which is his father's own word from the district, and no page joins them up.**
+- **HIS FATHER WAS RIGHT AND NO PAGE SAYS SO**, and the man who argued twice for his life is dying six miles away and will never be told.
+- Kael knelt with the boy's head on his arm until it got heavier, and passed no verdict, and never will.
 - **Now: at the mountain house**, having walked up that path on his own with a hand on the wall of the upper pen for the last of it, into the yard of the boy who put him on a board.
 - **Previously: in the escape party**, two days after being carried out of an arena unconscious.
 - **His father argued against him going — twice, in front of the First Master — and was overruled, and said "Good."** Then took his son's face in both hands, said nothing, and walked out toward the wall without looking back. **The page passes no verdict on it at all** (author, s41): he could not simply ask for the boy's life, and Ch. 23's *face of somebody watching an expense* stands untouched beside it. Both happened; neither cancels the other, and **no redemption arc follows** (arc direction unchanged). Do not let a later chapter reconcile them.

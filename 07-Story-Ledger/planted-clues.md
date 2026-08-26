@@ -1,11 +1,15 @@
 ## Planted Clues & Foreshadowing
 **LAW CORE.** The clue ledger: what was planted, where, and what it is owed. **STATE is the section a row sits in** — four states, no others; a row changes state by moving section. Everything in the Handling column is an instruction, never a state.
 
-### PLANTED (198) — payoff owed · THE WORKING SET
+### PLANTED (202) — payoff owed · THE WORKING SET
 On the page; the payoff is still owed. This section is the answer to "what is still owed?"
 
 | Clue | Planted in | Pays off in | Handling |
 |---|---|---|---|
+| **THE BOUND EYES** — a strip of linen across a newborn's face; Severin tears it and holds it out before anybody asks; Kael gets ONE red eye when it rides up, and nobody in the room is surprised by anything | **Ch. 33** | how long a child with permanent devil-eyes can be carried through the world (00, undesigned); Severin's what-he-does-with-Wren valve; the one-word recognition beat banked for the endgame | Never explained to anybody. Do not let a later page have Kael ask and be answered; do not have Neris account for it, ever (00 §Neris's silence) |
+| **NERIS'S OWN EYES, SEEN BY A PRINCESS** — her control fails in the delivery; the girl is sworn on the spot, *not in forty years*, and does not know what she saw | **Ch. 33 (pan-away)** | Aeliana's arc; whatever she does with a thing she is sworn about and cannot read; Severin's §(a) who-else-knows | **Kael never sees them and must not.** Do not resolve what Severin knows; do not let the princess raise it in the boat |
+| **THE FIVE KNOW WHAT VASK WAS** — four of the coalition's senior command stood in that yard, watched him kill one of them with his hands, and watched a woman and two children go down the eastern slot | **Ch. 33** | what the coalition's command now believes about the Phantom, and about who went east; a door (00 §THE PHANTOM) | Nobody on any page joins the Phantom to the Ghost, ever. Do not resolve what the four do with it |
+| **KAEL'S ONE SENTENCE** — *he told the master to take me and I let him*, said out loud to his mother on the broken ground, and not argued with | **Ch. 33** | the guilt architecture (00 §Beat 16); the Requiem's long root | Never correct him and never resolve it. His mother's answer was *"I know. I saw it."* and that is the whole of the comfort there ever is |
 | Circling boat — CANON: the Ch. 2 six-oar boat IS the circling boat's first on-page visit; a repeating pattern with escalating wrongness across Part I, not a one-off | **Ch. 2** | inquiries (Pt II) / fire | visit 1 |
 | Man with spyglass watching the mountain ("dark stick to his face") | **Ch. 2** | someone is looking for something | — |
 | Fire never visible outside ("outside belongs to the wind") | **Ch. 1** | fire (the rule's true reason) | — |

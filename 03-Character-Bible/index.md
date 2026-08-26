@@ -14,6 +14,7 @@ Sheet structure (session 18 addendum): **Glance** line (Role · Faction · Age �
 - [NERIS (the mother)](neris.md)
 - [SEVERIN (the master)](severin.md)
 - [WREN (the brother)](wren.md)
+- [THE COALITION'S FIVE — PELLAN · DUNMAR · THIRO · FENNA · GALLOS](coalition-generals.md)
 - [THE LEADER — "THE GARDENER" (big bad — true name reserved, mostly unrevealed)](gardener.md)
 - [AELIANA CASSIVARA VESSANTINE (the princess)](aeliana.md)
 - [OSTRIAN "OSS" VESSALINE (the almost-friend — warmth that fails)](oss.md)

@@ -1,5 +1,5 @@
 ## VALERIA VEL
-**Glance:** rival → first friend; the Witness · Line of Vel (eleven generations — the tiers and the apex are in `../02-World-Bible/factions.md`) · 13 (Kael's age) · **in Kael's own yard, posted at the door of the room where the princess and Neris and the First Master are, holding it while everyone she knows fights outside it.**
+**Glance:** rival → first friend; the Witness · Line of Vel (eleven generations — tiers in `../02-World-Bible/factions.md`) · 13 (Kael's age) · **off the mountain with the princess over her shoulder, burned down one side of her face, carrying an arm she will not mention.**
 
 ### STATIC
 - **Role:** Daughter of the Line of Vel. Kael's rival, then first friend. The Witness — she alone will know the truth of him at the end (00).
@@ -13,6 +13,12 @@
 - **Appearance:** Lean, strong, athletic — a working build that reads as function even at rest. Long black hair worn loose well past the shoulders, no ornament (lengthened s33 — the page moved with it, Ch. 14). Emerald green eyes — color spent at reading distance only; worn plain and bored as display (the boredom died against Kael). Her stillness WARNS — nothing like his. Knuckles older than her face; guard-lineage calluses. Rooms rearrange around the name before the girl; reverence draws her one untrained tell, the microscopic flinch — **SPENT at Ch. 27** (the s32 close DE-LISTED it: available, not owed).
 
 ### DYNAMIC
+- **SHE HELD THAT DOORWAY AND DID NOT FIGHT THE FIGHT.** The best fighter on that mountain spent the whole assault nailed to a door by her own orders. **Her CORE and her seam in one posting**, and nobody points at it.
+- **SHE FOUND THE ONLY COUNTER THERE WAS AND IT NEARLY KILLED HER.** A man who cooks a volume of air cannot cook the volume he stands in, so she went the whole way in until she was standing on his feet — one blade four inches under his ribs, a second into his side — and **he took her off the ground by the hair and put her into the frame.** She did not beat him and knew it, and did not take the step off the threshold after him.
+- **SHE CARRIED THE PRINCESS OUT** — over the shoulder, one arm behind the knees, at a dead run, never slowing for the drop. **Her own cold pricing from the district paid literally.**
+- **Twelve royal guard are dead and she is the only protection left.** From here she is what stands between that girl and the world.
+- **She has now stood in the yard of the mountain she never once asked about, and watched the whole of it fall, and still has not asked.**
+- **Body:** the whole side of her face that went past the frame first, come up red and shining; the left arm carried against her body.
 - **Now: nailed to a doorway by her own orders** — the one person on that mountain who could turn the fight outside is standing inside it because a Vel walks on the royal left. **Her CORE and her seam in the same posting**, and nobody has to point at it.
 - **SHE APOLOGISED.** *I'm sorry, Kael. For everything.* — to the boy she was carried away from at a gap eighteen inches wide, unprompted, in front of his house. The first time she has apologised to anybody in the manuscript.
 - **She has stood in front of the house and still did not ask.** A year, a treeline, a sea court, a road, and now the yard itself, and she asked which way the water was instead. **That is hers, not leverage.**

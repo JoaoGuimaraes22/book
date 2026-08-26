@@ -1,5 +1,5 @@
 ## NERIS (the mother)
-**Glance:** Kael's mother; teacher of the mind · ex-asset of the program — bearer of the Kynemir bloodline (00) · age unpinned, **and the same as Vask's (author, s34)** · **in labour since the third bell, alone for the whole of it but the last; drained to the mark mending her son, and minutes from delivering.**
+**Glance:** Kael's mother; teacher of the mind · ex-asset of the program — bearer of the Kynemir bloodline (00) · age unpinned, **and the same as Vask's (author, s34)** · **delivered of her second son on her own floor; widowed the same hour; walking off a burning mountain with a bound child inside her coat.**
 
 ### STATIC
 - **Name:** Chosen, not given (00). Belongs to no naming register; villagers assume it foreign; its true nature is sealed — never explain on the page.
@@ -11,6 +11,11 @@
 - **Appearance:** Dark-haired, dark-eyed; passes as village until she is still — then the stillness has a quality the village doesn't make. Fine bones under worked hands; the hands know too many trades — the lie's weak point. Handsome and unremarkable in the same breath, with ages of watching in the face.
 
 ### DYNAMIC
+- **WREN IS BORN AND SHE HAS BOUND HIS EYES.** Severin tore the strip and held it out without being asked; she did it quickly and well and not tight and put her palm flat over the whole of it. **Nothing was explained to anybody, and she will not explain it.**
+- **HER OWN CONTROL FAILED IN THE DELIVERY AND HER EYES CAME UP RED.** Severin and the princess saw it; **Kael did not and must not**; the girl is sworn. She does not know that she was seen.
+- **SHE WATCHED HER HUSBAND DIE** and turned round in time to see all of it, and said so to her son, out loud, on the broken ground.
+- **THE CONCEALMENT IS OFF HER.** She cried in front of Kael, which he had never once seen, and called him *my love*, which she had never called him. **Do not walk it back and do not explain it.**
+- **She survived the delivery and she is walking.** Drained to the mark, hours post-partum, held up between two Temple children. Her fate past the island stays UNCONFIRMED (00).
 - **Now:** minutes from delivering, on a fleece on her own floor, with a princess of the empire in her yard and a fight coming up the path.
 - **SHE IS MARKED.** She spent nature — out of her own element, in labour — on her son's broken ribs, went deep, and **her hair carries the drain-streak in two places, quartz-clean and permanent.** She was managing before he was carried in. Nobody on any page does that arithmetic.
 - **Her capacity is spent.** Whatever she does from here she does on steel and skill and nothing else.
