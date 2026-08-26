@@ -715,9 +715,9 @@ Kael did not hear the sound he made.
 
 He knew afterwards that he had made one, because his throat was ruined for two days.
 
-He went for his father's head.
+He went up the slope.
 
-He was not thinking about the men. He had a whole and complete count of the men, of the ground, of the distances, and it lay in his head as pure information with nothing attached to it. He went straight up the slope into it with a sword in both hands, because his father's head was on the ground and somebody was going to pick it up.
+He did not decide it. There was no decision anywhere in it. He got his legs under him and went up his own mountain at four hundred men with a sword in both hands, and there was nothing in his head at all except the small old one with his hands behind his back, and what Kael was going to do to him.
 
 Severin got him round the chest from behind and lifted him off the mountain. Kael took the old man's forearm in both hands and pulled. Nothing. He hit backwards with his elbow, into ribs, hard. Nothing. Severin put his heels down and the ground took him. Holding Kael was to that old man what holding a lamb is to a man.
 
@@ -729,7 +729,7 @@ It went out of him all at once. The screaming, the pulling, the noise. What came
 
 His hands went still. His breathing went long.
 
-He looked up the slope at four hundred men standing between him and a piece of his father, and the whole of it arranged itself: every distance, every weight, every place a man was lazy. It stopped being a great many things and became one thing. It was not difficult at all.
+He looked up the slope at four hundred men standing between him and the man who had done it, and the whole of it arranged itself: every distance, every weight, every place a man was lazy. It stopped being a great many things and became one thing. It was not difficult at all.
 
 He began to reach for it.
 
@@ -747,7 +747,43 @@ His legs stopped being his.
 
 "I am sorry," Severin said. "I am so very sorry."
 
-Then the old man got him up over one shoulder. He took the sword out of the boy's hands and put it through his own belt, and went down the mountain with him.
+Then the old man got him up over one shoulder, and went down the mountain with him, and did not take the sword out of his hands, because they would not open.
+
+---
+
+His mother was standing in the middle of the broken ground fifty feet below, with Elarine Sedrane holding her up on one side.
+
+She had turned round. Somewhere in the last minute she had turned round, and she had seen it, and she was still facing that way when Severin came down the slot with her son over his shoulder.
+
+"Put him down."
+
+"Neris. We cannot stop here."
+
+"Put him down."
+
+He put him down. Kael's legs did not take it, and she went onto the stones with him rather than let go of him, on her knees, with the baby held against her inside her coat with one arm.
+
+She got her hand round the back of his head.
+
+"I'm here," she said. "Kael. Look at me. I am here."
+
+Her face was wet all the way through. He had never once in his life seen that. Not the night he came off the scree with his arm laid open. Not at the door of that house at any hour of any night there had ever been.
+
+"Mother—"
+
+"I know."
+
+"He put it in my hands. He put it in my hands and he told the master to take me and I *let him*—"
+
+"I know. I saw it." Her voice went, and she got it back, and it was not the same voice afterwards. "I saw him, Kael. I saw all of it."
+
+He got hold of the front of her coat with the hand that was not full of sword, and could not do one other thing with it.
+
+"I'm sorry," his mother said. "I am so sorry. I am so sorry, my love."
+
+She had never called him that in his life.
+
+Then she put her cheek down against the side of his head and held it there for as long as she was given, which was not long, because Severin's hand came onto her shoulder and she got up off the stones without being asked twice.
 
 ---
 
