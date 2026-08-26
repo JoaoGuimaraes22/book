@@ -6,6 +6,15 @@ Everything that governs image generation lives here; `CLAUDE.md` carries one lin
 **ADMISSION TEST:** *does this govern how an image is generated, or record what one has depicted?*
 **EVICTION:** rules are amended in place; findings, run records and superseded rules go to `archive/` verbatim; plate sheets roll per book with `07`'s.
 
+## Session
+
+*Let's continue with image gen* is enough to open one; a named chapter or picture narrows it. No cold read of the writing files — this folder is self-contained.
+
+1. Read, in order: this file · `canon-brief.md` · `prompt-system.md` · `scene-tests.md` · `plates/candidates.md` for the target chapter · the target chapter in full from `manuscript/book-one/` · its `plates/ch<NN>.md` sheet if one exists · the `03` sheet of each character who will be in frame, for spend-state.
+2. The target is the first chapter without two plates, unless the author names one.
+3. Design from the scene: propose the moment and the crop for each plate in a few lines and wait for the author's pick. Then write the block on the sheet under `### PLATE: <slug>` from the template, run `scripts/build-prompts.sh`, and hand over the built file's path and the references to attach.
+4. After the run: read the picture against the block, record on the sheet what landed and what drifted, and adopt only on the author's word — copy the image to `images/plates/`, mark the sheet and `candidates.md`, commit, push. A finding stays on the sheet; it moves to `prompt-system.md` only under the s42 ruling below.
+
 ## The files
 
 - `canon-brief.md` — the appearance facts and fences, per character. Paste at the top of any prompting conversation. A summary: `03` wins where they disagree.

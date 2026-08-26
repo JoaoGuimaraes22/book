@@ -13,7 +13,7 @@ Every file has a CONTRACT, an ADMISSION TEST and an EVICTION PATH; content that 
 - `05-Continuity-Log.md` — live state. Test: *false in ten sessions?* Pointer-style. Caps: §STATUS two blocks of ≤4 lines (the record is `archive/session-log.md` §SESSION N); no arc retelling (07 and the manuscript own it); baselines are numbers only.
 - `06-Style-Sheet.md` — how the prose is written. Test: *governs sentences regardless of what has happened?* Amended in place; spend state → 07, vocabulary → 02.
 - `07-Story-Ledger/` — do-not-contradict canon. Test: *could a future page contradict this?* LAW CORE (timeline, standing-rules, magic-snapshot, open-threads, established-facts) is stable. `planted-clues.md` is the fence-check (`scripts/clues.sh`, run after a scene is designed, never before). ACCUMULATORS: `chapter-records.md` (the current Part; earlier Parts in `chapter-records-parts-1-3.md`, rolled at each Part close; **summary + FACTS only** — rulings, provenance and metrics go to the archive record) and `protected-phrasings.md` (script-parsed, never cold-read).
-- `08-Plates/` — reader-facing illustrations; SELF-CONTAINED — `08-Plates/README.md` governs it. Never a writing session's concern.
+- `08-Plates/` — reader-facing illustrations; SELF-CONTAINED — `08-Plates/README.md` governs it. Never a writing session's concern; **a plate session (*let's continue with image gen*) opens on its README §Session and skips the cold read.**
 - `archive/` — history: session records, rolled text, probes. Append-only; spot-read.
 - `manuscript/book-one/NN-Title.md` — the chapters.
 - `TOOLS.md` — the scripts and `nlm`.
