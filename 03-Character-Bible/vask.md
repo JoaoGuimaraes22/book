@@ -37,5 +37,5 @@
 - **Knows:** the escalation (via Severin); the public flash, in full, from Kael's own mouth; the bouts and the blades, told whole. **Does not know:** the hidden contact; the bind idea; who Halden is — the name meant nothing to him.
 
 ### FORWARD
-- **Status:** dies in the fire, buying time for both his sons to escape in two directions. **THE LAST HOUR'S GEOMETRY (00 s26):** he is split three ways and can hold two at most — Neris alone in a violent delivery, Kael on the sand, and Severin six miles from her in the host's box. He spends the hour moving between them. Which legs he completes is UNRESOLVED.
-- **The chest (00):** his old sword lies under the floorboards with Neris's dagger. At the raid the chest is opened — "the parents unsheathed" made literal — and **in his last hour he throws the sword to Kael.** Staging governed by 00's paternity rule: the monument, never the undoing.
+- **Status:** DEAD (Ch. 33). He is MEMORY from here; the archaeology is closed. The last hour's geometry is spent and its arithmetic is sealed — he went for the son, nobody held the house, and Kael is never given it (00 §THE BIRTH AND THE SEMIFINAL).
+- **The chest (00):** paid — the sword reached the page in his hand (Ch. 30) and went into his son's (Ch. 33), given, not thrown, under the paternity rule: the monument, never the undoing. Neris's dagger travels a different road (`neris.md`).

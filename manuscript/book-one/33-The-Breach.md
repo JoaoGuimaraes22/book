@@ -298,7 +298,7 @@ Kael understood every word of it. His mother had taught him that language more c
 
 It was worth precisely nothing to him.
 
-"Where is he," said the woman.
+"Where is Pellan," said the woman.
 
 "On the path," said the young one, and laughed. "Where else."
 
