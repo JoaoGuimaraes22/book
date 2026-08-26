@@ -416,7 +416,7 @@ Whatever was under that board was under a hill of hot slate on a mountain on an 
 
 He shut his mouth.
 
-"Not because you may not ask," she said. "Because I have nothing to spend on it this morning and you would get it badly and then you would have had it badly for ever." She put her hand on the back of his neck, which she had done twice in the last day and perhaps a dozen times before that in his life. "There is going to be a great deal of time. Ask me on the water."
+"Not because you may not ask," she said. "Because I have nothing to spend on it this morning and you would get it badly and then you would have had it badly for ever." She put her hand on the back of his neck. "There is going to be a great deal of time. Ask me on the water."
 
 "All right."
 
