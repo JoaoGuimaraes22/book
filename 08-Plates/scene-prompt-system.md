@@ -232,7 +232,7 @@ Every rule in this file was written the same way: a run came back wrong, the cau
 
 **What it checks, because these are mechanically decidable:** exact restatement (repeated five-grams, with the shared style header and the `Image N:` lines stripped so boilerplate is not counted), capitalised-block count against a threshold calibrated on the adopted prompts, and a short list of words that narrate rather than specify.
 
-**WHAT IT REFUSES TO CHECK IS THE MORE USEFUL HALF.** Two mechanical tests for over-negation were built and both were thrown out for flagging this folder's best work — negation *density* condemned `plates/ch01.md`'s fallen stars and `plates/ch04.md`'s blade, both adopted on the first run, and rated the author's own `vask-kael-goat` the worst file in the library; negation *runs inside a sentence* condemned `severin.txt`, whose eleven-term NOT list is the documented reason that portrait works at all. **The difference between *no lamp, no fire, no torch* and *not warm, not kindly, not stern* is semantic and no counter can see it.** That judgement stays human, and §Over-writing contradicts is how it is made: count the channel, not the sentence.
+**WHAT IT REFUSES TO CHECK IS THE MORE USEFUL HALF.** Two mechanical tests for over-negation were built and both were thrown out for flagging this folder's best work — negation *density* condemned `plates/ch01.md`'s fallen stars and `plates/ch04.md`'s blade, both adopted on the first run, and rated the author's own `vask-kael-goat` the worst file in the library; negation *runs inside a sentence* condemned `severin.md`, whose eleven-term NOT list is the documented reason that portrait works at all. **The difference between *no lamp, no fire, no torch* and *not warm, not kindly, not stern* is semantic and no counter can see it.** That judgement stays human, and §Over-writing contradicts is how it is made: count the channel, not the sentence.
 
 ### Write for an image generator, not for a reader (s40)
 
@@ -519,7 +519,7 @@ A plate is a moment, not a person, so it takes neither the portrait system's fix
 
 What it inherits is the house look and nothing else: the **Medium** and **Colour** paragraphs of the portrait system's fixed STYLE block. `scripts/build-prompts.sh` slices those two paragraphs out of that block and prepends them — there is no second copy of that text to drift.
 
-**Plate prompts live in the chapter's sheet in `plates/`, one fenced block under a `### PLATE: <slug>` heading**, and build to `prompts/plates/<sheet>-<slug>.txt`. The prompt systems are the rule and are amended in place; plate sheets accumulate.
+**Plate prompts live in the chapter's sheet in `plates/`, one fenced block under a `### PLATE: <slug>` heading**, and build to `prompts/plates/<sheet>-<slug>.md`. The prompt systems are the rule and are amended in place; plate sheets accumulate.
 
 **Three things a plate must state that a portrait never has to:**
 
@@ -527,7 +527,7 @@ What it inherits is the house look and nothing else: the **Medium** and **Colour
 - **Who is NOT in the frame.** An unattended run puts a person in an empty room and a watcher in a solitary moment. Name the absence.
 - **Which faces are not visible, and that it is deliberate.** Where a plate hides a face for its own compositional reasons, say *no eyes are visible anywhere in the picture* and say *do not turn the head toward the viewer*, or the run will helpfully fix it — **and count the channels before trimming either** (§Over-writing contradicts). This is no longer forced by Kael's grey, which s42 freed for plates.
 
-**AND THE `Image N:` LINES NAME THE FILE (author ruling, s43).** A plate block opens with the anchor's actual filename and then its descriptor — `Image 1: severin.png — portrait reference of the old man.` The built `.txt` is the thing that gets pasted, and whoever pastes it has to know which file to attach; a descriptor on its own sends them back to the sheet to find out. **The filenames live in the block**, so it stays the single source, and `scripts/build-prompts.sh` lifts the `Image N:` lines to the very top of the built file, above the house Medium and Colour paragraphs — which is the order the scene skeleton at the head of this file already documents.
+**AND THE `Image N:` LINES NAME THE FILE (author ruling, s43).** A plate block opens with the anchor's actual filename and then its descriptor — `Image 1: severin.png — portrait reference of the old man.` The built file is the thing that gets pasted, and whoever pastes it has to know which file to attach; a descriptor on its own sends them back to the sheet to find out. **The filenames live in the block**, so it stays the single source, and `scripts/build-prompts.sh` lifts the `Image N:` lines to the very top of the built file, above the house Medium and Colour paragraphs — which is the order the scene skeleton at the head of this file already documents.
 
 **BLOCKS THAT HAVE ALREADY RUN ARE NOT RETROFITTED.** A prompt that produced an adopted image is the record of what ran, which is why `PLATE-VERBATIM` exists at all. The convention applies to blocks written from s43 on, and the older ones keep their anchors in the sheet prose above them.
 

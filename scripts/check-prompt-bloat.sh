@@ -4,7 +4,7 @@
 #
 # Usage:
 #   scripts/check-prompt-bloat.sh                 -> lint every built prompt
-#   scripts/check-prompt-bloat.sh <file.txt> ...  -> lint the given prompt(s)
+#   scripts/check-prompt-bloat.sh <file.md> ...  -> lint the given prompt(s)
 #
 # WHY THIS EXISTS: every rule in 08-Plates/scene-prompt-system.md was written
 # retrospectively, as a finding after a run, and nothing applied them before the next
@@ -16,7 +16,7 @@
 #   1. Negation DENSITY. It flagged ch01-fallen-stars and ch04-blade-across-her-knees,
 #      both adopted on the first run, and rated the author's own ch01-vask-kael-goat
 #      the worst file in the folder at one negation per fifteen words.
-#   2. Negation RUNS inside one sentence. It flagged severin.txt, whose eleven-term NOT
+#   2. Negation RUNS inside one sentence. It flagged severin.md, whose eleven-term NOT
 #      list is the documented reason that portrait works (portrait-prompt-system.md,
 #      "ATTACK THE ARCHETYPE, NOT ONLY THE AFFECT").
 # The difference between a bad run (no lamp, no fire, no torch -- one noun, three names)
@@ -29,7 +29,10 @@ cd "$(dirname "$0")/.."
 python3 - "$@" <<'EOF'
 import glob, io, re, sys
 
-files = sys.argv[1:] or sorted(glob.glob("08-Plates/prompts/**/*.txt", recursive=True))
+# README.md in prompts/ is hand-written documentation, not a built prompt --
+# excluded here for the same reason build-prompts.sh --check excludes it.
+files = sys.argv[1:] or [f for f in sorted(glob.glob("08-Plates/prompts/**/*.md", recursive=True))
+                         if not f.endswith("README.md")]
 
 # Words that name a feeling, a judgement or a reason rather than a surface. A prompt is
 # read by something that turns clauses into pixels; these can only work when a drawable

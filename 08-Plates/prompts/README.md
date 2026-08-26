@@ -1,6 +1,8 @@
 # Prompts — GENERATED. Do not edit by hand.
 
-Every `.txt` here is built by `scripts/build-prompts.sh` from the fenced blocks in `../portrait-prompt-system.md` and `../scene-prompt-system.md`. **Those markdown files are the source of truth.** To change a prompt, edit the block there and re-run the script; a hand-edited `.txt` is a second home for a fact the doc already owns, which is exactly the drift that produced the s30 phantoms.
+Every file here is built by `scripts/build-prompts.sh` from the fenced blocks in `../portrait-prompt-system.md` and `../scene-prompt-system.md`. **Those markdown files are the source of truth.** To change a prompt, edit the block there and re-run the script; a hand-edited prompt file is a second home for a fact the doc already owns, which is exactly the drift that produced the s30 phantoms.
+
+**THE EXTENSION IS `.md` AND THE CONTENT IS NOT MARKDOWN (author ruling, s45).** These files are pasted verbatim into an image tool, so **no heading, no fence and no emphasis ever goes into one** — the extension is for reading and diffing them, nothing else. A `#` at the top of one of these would be pasted along with the prompt.
 
 ```
 scripts/build-prompts.sh           # rebuild
@@ -26,7 +28,7 @@ Each file is complete and paste-ready in order: **STYLE · AGE · HAIR (where us
 
 Mirrors `../images/`:
 
-- `portraits/` — single figure, face reference. `<character>-<age>.txt`, bare name where `03` leaves the age unpinned.
+- `portraits/` — single figure, face reference. `<character>-<age>.md`, bare name where `03` leaves the age unpinned.
 - `full-figures/` — anchored to an adopted portrait; extends a face to a standing figure.
 - `scene-tests/` — multi-figure, anchored to the full-body sheets.
-- `plates/` — chapter plates, `<sheet>-<slug>.txt`, built from the `### PLATE:` blocks in `../plates/ch<NN>.md`. Each opens with the `Image N:` lines naming the reference files to attach, then the house Medium and Colour paragraphs (sliced from the fixed STYLE block), then the rest of the plate's own block, which carries its own composition, lighting and framing. A `### PLATE-VERBATIM:` block is emitted untouched and keeps whatever order it ran in.
+- `plates/` — chapter plates, `<sheet>-<slug>.md`, built from the `### PLATE:` blocks in `../plates/ch<NN>.md`. Each opens with the `Image N:` lines naming the reference files to attach, then the house Medium and Colour paragraphs (sliced from the fixed STYLE block), then the rest of the plate's own block, which carries its own composition, lighting and framing. A `### PLATE-VERBATIM:` block is emitted untouched and keeps whatever order it ran in.

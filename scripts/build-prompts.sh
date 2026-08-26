@@ -4,7 +4,7 @@
 # The MARKDOWN IS THE SOURCE OF TRUTH. Everything under 08-Plates/prompts/ is a
 # generated, paste-ready artifact — never edit those files by hand, edit the
 # block in portrait-prompt-system.md / scene-prompt-system.md and re-run this.
-# (A hand-edited .txt is a second home for a fact the doc already owns, which is
+# (A hand-edited prompt file is a second home for a fact the doc already owns, which is
 # the drift that produced the s30 phantoms.)
 #
 # Usage: scripts/build-prompts.sh [--check]
@@ -74,14 +74,14 @@ for name, head, age, hair, comp in PORTRAITS:
     if comp:  # swap the fixed Composition paragraph for the override
         style = re.sub(r"Composition:.*?(?=\n\nLighting:)", comp, style, flags=re.S)
     parts = [style, AGE[age]] + ([HAIR] if hair else []) + [fenced(port, head + "\n")]
-    write(f"{out}/portraits/{name}.txt", "\n\n".join(parts))
+    write(f"{out}/portraits/{name}.md", "\n\n".join(parts))
     n += 1
 
 for name, head in FULL_FIGURES:
-    write(f"{out}/full-figures/{name}.txt", BASE + "\n\n" + fenced(port, head + "\n"))
+    write(f"{out}/full-figures/{name}.md", BASE + "\n\n" + fenced(port, head + "\n"))
     n += 1
 
-write(f"{out}/scene-tests/quartet-conversation.txt", fenced(scene, "### Four figures — the quartet prompt, as run"))
+write(f"{out}/scene-tests/quartet-conversation.md", fenced(scene, "### Four figures — the quartet prompt, as run"))
 n += 1
 
 # Plates. A plate takes the house look — the Medium and Colour paragraphs of the
@@ -109,7 +109,7 @@ for sheet in sorted(glob.glob("08-Plates/plates/*.md")):
             if re.match(r"Image \d+:", block):
                 head, _, rest = block.partition("\n\n")
             body = (head + "\n\n" if head else "") + PLATE_STYLE + "\n\n" + rest.lstrip("\n")
-        write(f"{out}/plates/{stem}-{slug}.txt", body)
+        write(f"{out}/plates/{stem}-{slug}.md", body)
         n += 1
 
 print(f"built {n} prompt files into {out}/")
