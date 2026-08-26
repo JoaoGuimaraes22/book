@@ -1,4 +1,4 @@
-# Chapter Thirty-Five — The Water
+# Chapter Thirty-Five — The Range
 
 They came out of the cut on two sweeps, and the boat made almost no sound doing it.
 
@@ -23,14 +23,6 @@ The wind was coming off the top of the mountain, cold, the way it came down the 
 His mother was amidships with her back against the strake and her son inside her coat. She had not moved since Severin lifted her over the side. Her eyes were open and she was watching the sail.
 
 Aeliana Cassivara Vessantine sat on the boards opposite with her ruined hands turned up in her lap, looking at them.
-
-"They will want washing in the salt," said Elarine.
-
-"Will they."
-
-"It is going to be unpleasant. It is better than the other thing."
-
-The princess put one hand over the side into the water going past, and took it out again fast, and then put it back, and kept it there.
 
 Nobody said anything for a while. The land went slowly along on their right, black, with the top of it orange, and the smell of the burning came out over the water after them and did not stop where the rock stopped.
 
@@ -264,7 +256,9 @@ It sat down on the water and stopped doing anything at all.
 
 They went down.
 
-Kael lay on the boards on his side with his brother between his chest and the strake and his mother's coat somewhere against his knees, and the boat went along on its own weight, slowing, with no sail on it and no mast standing and the wind going straight over the top of everything, and the ninth one came off the shelf.
+Kael lay on the boards on his side with his brother between his chest and the strake. The boat went along on its own weight, slowing, with no sail on it and no mast standing and the wind going straight over the top of everything.
+
+Then the ninth one came off the shelf.
 
 It fell short.
 
@@ -278,178 +272,14 @@ He lifted his head at the eleventh, which never came, and looked back over the s
 
 There were nineteen of them standing on that rock.
 
-The enormous one had stopped throwing. He had his hands down and he was looking out at the water, and even from here his shoulders were a shape Kael would know for the rest of his life. The woman had put her line out. She had crouched down on the flat rock and was doing something to her own hand with the other hand.
+The enormous one had stopped throwing. He had his hands down and he was looking out at the water, and even from here the shoulders on him were a shape Kael was not going to lose. The woman had put her line out. She had crouched down on the flat rock and was doing something to her own hand with the other hand.
 
 And behind them both, back on the second shelf where the light was thinner, a small neat man stood on his own with his hands behind his back and did not move.
 
 He had not spent anything. He had come down six hundred strides of goat ground in the dark to the edge of the sea, and he had stood there for the whole of it, and he had not once put anything anywhere, because there was no ground out here to put it into.
 
-Kael lay along the strake of a boat with his brother screaming against his collarbone and looked at the man who had killed his father until the rock and the light and the whole of it went behind the shoulder of the island and there was nothing on the water behind them at all.
+Kael lay along the strake of a boat with his brother screaming against his collarbone, and watched the man who had killed his father get smaller.
 
-Nobody said anything to him about it. Nobody said anything at all for a long time.
+Then the rock went behind the shoulder of the island and took the light with it, and there was nothing on the water behind them at all.
 
----
-
-The wind held for another hour and pushed them out on the bare hull, and then, an hour before first light, it began to drop, the way it did every night of the year on the far side of that mountain, and by the time the sky started to go grey over the water they were sitting on a flat sea with nothing standing on the boat above the height of a man's waist.
-
-They worked.
-
-There was a great deal of water in the bottom of it. Aeliana bailed with a wooden scoop for most of an hour, kneeling, with her hair down her back and her hands wrong, and stopped twice, and went on both times without being asked. Aurelian took the scoop off her at the end of it and did the rest one-handed and told her the whole time exactly how well she was doing it, and she did not tell him to stop.
-
-Valeria went round the boat looking at the boat. She could not have said what she was looking at — she said so — but she had spent eleven years being taught that after a thing you walk the ground and look at it, so she walked it, and she found the two burned strakes on the port side forward and put her hand flat on them and said they were dry inside, and Severin said that was the only piece of good news anybody was going to get for a while.
-
-The mast stub stood up out of the middle of the deck at about the height of Kael's chest, burned off level, black, still warm at the top when he put his palm on it.
-
-There was no sail. There were two sweeps and eight people, six of whom could not use one.
-
-Kael sat down on the boards beside his mother because his leg had finished.
-
-She was against the strake amidships with her knees up and the child back inside her coat, feeding him, with her hand flat over the linen across his eyes the way she had held it in the house. There was no colour anywhere in her face. The white in her hair had been in two places since the mountain, and Kael, sitting six inches from her at first light with nothing else to do and no way of stopping himself, found the third one, above her left ear, running back out of the roots, clean, exactly like the other two.
-
-He looked at it for a while.
-
-He did not say anything about it. There was nobody in that boat to say it to, and the one person who could have priced it to the grain with him was six miles behind them on a mountain with his head off.
-
-"Kael," said his mother.
-
-"Yes."
-
-"You did that well."
-
-He had no idea what to do with that. He sat with his back against the wood and his hands on his knees and his eyes going along the horizon out of pure habit, and after a while he said, "He was going to your left every second one. He was doing it because his back foot was—"
-
-"I know why he was doing it. You told me at the time." She shifted the child up a little. "It is the only reason I got the fifth one. I could not see his feet from where I was standing and you could."
-
-"You could not see anything from where you were standing."
-
-"No," said his mother.
-
-She said it in a voice with nothing whatever in it, and Kael turned his head to look at her, and she was looking at the top of Wren's head.
-
----
-
-Severin came forward at about the time the sun came up.
-
-He did it slowly, along the strake, one hand and then the other. He had been at that tiller since a rock in the dark and there had been nothing for the tiller to do for two hours. He got down onto the boards between the thwarts, in the middle of all of them, with his back against the mast stub, and put his forearms over his knees.
-
-Then he reached behind him, without any ceremony about it at all, and pulled a wrapped bundle out from under the stern thwart, and put it on the boards in the middle of the deck and opened it.
-
-There was bread in it. A good deal of bread, a bag of dried figs, a lump of hard cheese in a cloth, a crock of dripping, two skins.
-
-"Eat," he said. "All of you. Now, this morning, and not much."
-
-Nobody moved for a second.
-
-Then Aurelian Corvane said, "Oh, thank God," with total sincerity, and everything started up again.
-
-Severin broke the loaves himself. He did it the way he did everything, unhurried, with his thumbs, and he passed the pieces round the boat one at a time and he gave them to people by name. Sedrane. Corvane. Your Serene Highness. Vel. Then he leaned across the boards and put a piece into Kael's hand, and said nothing at all. Then he turned and put a piece into Neris's. She took it, and looked at it, and looked at him.
-
-"Severin," she said.
-
-"Eat it," said Severin.
-
-Kael sat on the boards of a boat at first light with a piece of the master's bread in his hand.
-
-It was not the feast bread. It was hard, and it was somebody's ordinary loaf, and there were no seeds in it at all. He ate it. It was the best thing he had ever put in his mouth in his life, and he put his head down over his hands so that nobody would see his face doing what it was doing.
-
-Across the deck, Elarine Sedrane ate hers in small pieces, and watched him do it, and looked away.
-
----
-
-They got two hours.
-
-The sun came up out of the sea in front of them, which Kael had never seen happen from anywhere but a mountain. The water went from black to grey to a colour he did not have. The burned smell that had been on all of them since the yard went off with the night, and what replaced it was tar and salt and old fish and the inside of a boat.
-
-Everybody slept except the ones who could not. Aurelian slept sitting up with his mouth open and his bad arm across his chest and made a noise the whole time. The princess of the Vessantine empire went down on the boards where she was with her head on a coil of rope and did not move again for three hours. Valeria did not sleep, because she does not, and sat in the bow with her knees up and her one good hand on the strake, looking back.
-
-Severin slept for about forty minutes and then stopped, and did not try again.
-
-Kael did not sleep either. He sat against the side with his father's sword along the boards beside him and did the thing he could not stop doing, which was count.
-
-He counted the skins. He counted what was left of the bread after the morning and worked out what the morning had cost, and put the figs and the cheese against it, and then he counted the people, which took no time, and then he divided one by the other and got a number of days, and then he did it again with less bread each day and got a bigger number that was not a real number because at the bottom end of it nobody is doing anything but lying down.
-
-The water went in first. It always goes in first. He had known that since he was eight because a woman who was now nine feet away had taught it to him at a table with a hare on it, and he had thought at the time that it was about hares.
-
-He sat there with it for a while.
-
-Then he got up and went aft along the boards to where his mother was sitting.
-
----
-
-"Say it," she said.
-
-"Say what."
-
-"Whatever you have been doing since the sun came up. You have been doing it in the same place with the same face since the sun came up." She did not open her eyes. "Say it."
-
-So he said it.
-
-"There are two skins and one of them is not full. There is about half the bread left and the figs and a bit of cheese. There are eight of us and one of us is a baby, which changes the food and not the water, and it changes the water for you and I do not know by how much because I have never been told." He heard himself doing it in her order and could not have done it in any other one. "If we go on as we went on this morning, that is four days of water. If we go to about a third of this morning, and nobody works, and it does not get hot, it is nine. Ten, if it rains, and I do not know how to catch rain on a boat, and I would want to know that before it rains and not while it is raining."
-
-"That is right," said his mother.
-
-"There is no sail. There is a stub of mast about this high and no spar. There are two sweeps for eight people and they will move this hull and they will not move it anywhere, and the master says the wind on this coast comes off the land at night and dies in the day, and it has died." He stopped. "I have run it four times. It comes out the same every time. I am not going to be able to make it come out differently by running it again."
-
-His mother opened her eyes.
-
-"No," she said. "You are not."
-
-She got her free hand out from under the coat and put it flat on the boards between them, palm down, and looked at it.
-
-"When your father and I put those two bundles by the door," she said, "there were four days of food in the bottom one under the books. Salt. The good instruments. The green book with the drawings in it, that you have never been allowed to touch, which is not a book about drawings. Both of those bundles were tied and standing against the wall of that house from the morning the games opened, because that is the kind of people we are, and there is not one single thing out of either of them on this boat."
-
-She turned her hand over.
-
-"What came off that mountain," she said, "is you, and him, and me, and that sword, and whatever the master had the sense to put under a thwart in the autumn. That is the whole of it. That is what thirteen years of being careful bought."
-
-Kael sat with that.
-
-He knew what was under the third board of that floor. He had known there was something under it since he was nine years old, because a board that does not creak is a board that is not sitting on the ground, and he had counted around it for four years the way you count around a hole. He had never once been told. He had watched his father stand on it with his whole weight on the night the pregnancy was told, and he had watched neither of his parents look at the floor while he did it, and Kael had looked at neither of them looking at it and had understood that this was a thing he was not being told and would be told one day.
-
-The house was burning when he last saw it. He had watched the roof of it go up from over an old man's shoulder.
-
-Whatever was under that board was under a hill of hot slate on a mountain on an island in the middle of a war, and it was going to stay there, and he was never going to know what it was.
-
-"Mother," he said.
-
-"No," said his mother.
-
-He shut his mouth.
-
-"Not because you may not ask," she said. "Because I have nothing to spend on it this morning and you would get it badly and then you would have had it badly for ever." She put her hand on the back of his neck. "There is going to be a great deal of time. Ask me on the water."
-
-"All right."
-
-"Kael."
-
-"I said all right."
-
-"You did," said his mother. "I am agreeing with you."
-
----
-
-By the middle of the day the island had gone down into the sea behind them until only the top of it stood up, black, with the smoke going away east off the top of it in a flat line that did not break up for as far as he could see.
-
-Kael watched it all afternoon.
-
-He watched it because he could not stop, and because the only two directions on that boat were the one with the island in it and the one with nothing in it, and because his eyes had been trained since he was four years old to go to the highest thing in the landscape and stay there.
-
-The light went out of the day slowly. The smoke stopped being a line and became a stain, and then a smudge on the sky in one place, and then, when the sun had gone into the water in front of them, it stopped being anything and the top of the island became a shape with the last of the light behind it.
-
-And then it got dark, and the shape stayed where it was, and along the bottom of it, where the water met the land, there was nothing at all.
-
-He had lain on his stomach on a slab of rock above the pens on the longest night of the year when he was four years old and looked down at the lights of the village, and there had been so many of them that they had run together at the ends, and his mother had lain down beside him on the cold stone and let him look at them until his father came and got them both.
-
-He knelt on the boards of a boat and looked at where they had been.
-
-He looked for a long time, because a light is a small thing at that distance, and because it was possible that the angle was wrong, and because the smoke could sit on a hillside on a still night and take the bottom of a hill away from you. He gave it every chance the arithmetic allowed. He went along the whole black length of the island twice, from the headland where a Temple stood to the shoulder where a house had, and back again.
-
-There was nothing on it anywhere.
-
-Behind him, somebody began to say something and stopped. The boat went up and down on the swell and did not go anywhere.
-
-Kael put his forehead down on the strake.
-
-Then he got up off his knees, because his mother was awake, and because his brother had started, and because there were eight people on a hull with no mast on a flat sea and one of them was going to have to work out how to catch rain.
-
-He went aft to see what there was.
+Nobody said anything for a long time.
