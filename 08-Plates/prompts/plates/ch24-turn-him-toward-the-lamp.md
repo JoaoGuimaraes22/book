@@ -13,11 +13,16 @@ the back with gold beaten flat and nailed along its edge. The light
 is warm and comes from many small sources at once; the corners are
 dark.
 
-Composition: waist-up, two figures at the two ends of the frame with
-a long table between them running away from the viewer. The
-dark-haired boy stands at the near end, turned so that the lamplight
-falls along one side of his face, his body squared and his hands
-loose at his sides. The silver-haired girl sits beyond the far end of
+Composition: two figures at the two ends of the frame with a long
+table between them running away from the viewer, both in frame from
+the knees up. The near end of the table is fully in the picture — its
+end edge, its corner and the hang of the cloth over it all visible —
+and the dark-haired boy stands beyond it, a full pace clear of that
+end, with a strip of bare floorboards visible between his body and
+the table. He is not touching the table, no part of him overlaps the
+food, and the tabletop sits at the height of his hip. He is turned so
+that the lamplight falls along one side of his face, his body squared
+and his hands loose at his sides. The silver-haired girl sits beyond the far end of
 the table in a high carved chair, facing him, her body still. Behind
 her chair two women stand as plain shapes with their faces undrawn.
 Nobody in the picture is eating and no plate, cup or dish is in
@@ -37,10 +42,11 @@ unhurried and gives nothing away; the mouth closed, the brows
 untroubled. Not smiling, not cruel, not curious, not kind. Her hands
 rest in her lap and hold nothing.
 
-HIS FACE IS TURNED INTO THE LAMPLIGHT AND IT GIVES HER NOTHING. The
-eyes level and open, the mouth closed, the jaw easy, the whole face
-plain and unarranged. Not proud, not ashamed, not defiant, not
-frightened.
+HIS FACE IS TURNED INTO THE LAMPLIGHT AND GIVES HER NOTHING BACK,
+AND IT IS WORKING WHILE IT DOES IT: the eyes level and steady on her,
+taking her in and reading the room behind her, the mouth closed, the
+jaw easy, the attention complete and unhurried. Not proud, not
+ashamed, not defiant, not frightened, and not blank or empty.
 
 THE TWO ARE LOOKING DIRECTLY AT EACH OTHER, down the length of the
 table. This eye contact is the subject of the image, and neither of
