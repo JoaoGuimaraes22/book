@@ -40,11 +40,10 @@ outer corners, the brows up. His hair is full of green moss. NOT
 alarmed, NOT frightened, NOT in difficulty, and not sneering. No water
 runs down his face.
 
-WHERE EACH IS LOOKING: the fair-haired boy's eyes are on nothing, at
-ground level, past the left edge of the frame. The dark-haired boy is
-looking down at his own feet as he walks. The girl is looking at her
-own open hand and does not look up. None of the three is looking at
-the viewer.
+WHERE EACH IS LOOKING: the fair-haired boy's eyes go past the left
+edge of the frame at nothing, at ground level; the dark-haired boy
+looks down at his own feet as he walks; the girl looks at her own open
+hand and does not look up. None of them is looking at the viewer.
 
 HOW HE LIES ON THE FLOOR, AND EVERY PART OF HIM TOUCHES IT: his chest
 rests on the brick, both forearms lie along it from elbow to hand with
@@ -54,15 +53,16 @@ of his face; his cheek and jaw are wet from it. The dark-haired boy's
 leading boot is down flat on the brick, and his hands are empty at his
 sides.
 
-THE GIRL'S LEFT HAND RESTS IN HER LAP AND HER RIGHT IS OPEN, PALM UP,
-WITH ONE SMALL FLAME STANDING ON IT, about the width of a coin, burning on nothing, with a clear gap of air between it and her
-skin. There is no wick, no candle and nothing in her hand. It is
-perfectly still, and it lights nothing and throws no shadow.
+The girl's left hand rests in her lap and her right is open, palm up,
+with one small flame standing on it about the width of a coin, burning
+on nothing with a clear gap of air under it: no wick, no candle,
+nothing in her hand. It is still, it lights nothing and it throws no
+shadow.
 
-The fair-haired boy has dark-gold hair and amber gold-brown eyes,
+The fair-haired boy has dark-gold hair, amber gold-brown eyes and
 clear well-fed skin, and is broad through the shoulder; he wears good
-plain cloth, well cut, with no badge and no ornament, and it is soaked
-down his front. The dark-haired boy has near-white neutral grey eyes,
+plain cloth, well cut, no badge and no ornament, soaked down the
+front. The dark-haired boy has near-white neutral grey eyes,
 dark hair cut short and uneven, and plain undyed working wool, coarse
 and much mended. The girl is small and finely built, with ink-dark
 hair bound tight at the nape and nothing loose, in plain dark
