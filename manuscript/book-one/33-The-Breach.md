@@ -398,7 +398,7 @@ The captain with the countryman's face was the last of the five. He had his swor
 
 Then it was finished, and the air came back down off that door and went out across the yard cold, over the pens and over Kael, and it was full of the smell of it.
 
-It smelled like food.
+It smelled like rotten food.
 
 There was not one mark on any of those five that a blade had put there.
 
@@ -406,11 +406,31 @@ Kael's instruments gave him a complete answer. There was nothing to read. No rea
 
 Valeria Vel came out through that doorway before the last of them had finished dying.
 
-She went over the top of the five and across stones that were still doing something to the soles of her boots, and she was on Thiro before he had finished turning round. She put both blades through him, the forearm and then the shoulder, all the way through and out the back, and turned the second one before she pulled it out.
+She went over the top of the five and across stones that were still doing something to the soles of her boots, and she did not stop at any distance at all. She went the whole way in, until she was standing on his feet.
 
-He went backwards off the step and away into the dark with his people closing over the top of him, and he was screaming, and after the last thirty seconds it was the best sound Kael had ever heard in his life.
+Kael understood it about a second after she had already done it. Whatever that man did, he did it to a piece of air, and he could not do it to a piece of air he was standing in the middle of.
 
-She was back in the doorway before Kael had got his own feet under him. The whole side of her face that had gone past the frame first had come up red and shining, and she did not appear to have noticed it.
+She got one blade into him, low, under the ribs on the left, and it went in about four inches and hit something and stopped.
+
+Then he had her by the hair.
+
+He was two heads taller than she was and he was not a clerk, and he took her off the ground by the hair and one wrist and put her into the door frame hard enough that Kael heard her arrive in it from twenty feet away.
+
+She did not let go of anything. She came off the frame with her knees already coming up, and took him down onto the dead men with her, and got the second blade somewhere into the side of him before his people came in over the top of both of them and dragged him out from under her.
+
+They did not do it gently. Somebody's hand went into the wrong place on the way, and the thin young one made a noise, and after the last thirty seconds it was the best sound Kael had ever heard in his life.
+
+He went away backwards into the dark held up between two men, with his heels dragging and his own hand pressed under his ribs.
+
+He was not finished. Everybody standing in that yard could see he was not finished.
+
+Valeria got up off the dead.
+
+She got up slowly, which she did not do. The whole side of her face that had gone past the frame first had come up red and shining, and there was a great deal of blood on her that was not hers and some that was, and she was carrying her left arm against her body in a way she was not going to mention.
+
+Kael read her the way he read anything. What he got was that she had gone in because there was a door behind her, and that she had not beaten that man and knew it, and that if she took one step off the threshold after him she would be dead about a second later.
+
+She did not take the step. She went backwards onto it.
 
 "Behind me," she said.
 
@@ -608,7 +628,7 @@ Kael saw him go. There had been no word of any kind between them, not on any day
 
 ---
 
-Kael's father was in the middle of the flat with four hundred men around him and three of them inside that.
+Kael's father was in the middle of the flat with four hundred men around him and three of them inside that, and the other two standing on the edge of it, watching.
 
 The white came up in him again.
 
@@ -629,6 +649,10 @@ Then Pellan came in off the side on his ruined leg. Vask turned into him and hit
 Kael's father stood in the middle of his own yard, over three of them, with his hands hanging. There was nothing left in him.
 
 The white went out.
+
+Then the air over the flat bent, and Kael's father put his hand up to his own collar.
+
+The thin young one was on the edge of the ground being held upright between two men with his shirt black to the knee, and he was doing the last thing he had left, at ten feet, on a man who could not walk away from it.
 
 Dunmar walked round the edge of the grey flat and killed him.
 
