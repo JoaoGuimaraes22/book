@@ -38,15 +38,17 @@ and each one ending on the other's face. This eye contact is the
 subject of the image. Neither is looking at the viewer and neither is
 looking past the other.
 
-THE BOY is beaten and still counting: on his back, breathing, mouth
-closed, jaw set, his eyes turned up under the brows to hold hers and
-working behind them. His gaze goes upward, not out along the ground.
-NOT frightened, NOT pleading, NOT dazed. One thin red mark along his
-jaw.
+THE BOY is angry and caught out at the same time, and it is all over
+his face: the eyes wide open and turned up under the brows to
+hold hers, the brows drawn down and together, the mouth open a little
+on a caught breath, the jaw tight. His gaze goes upward, not out along
+the ground. NOT frightened, NOT pleading, NOT dazed, and he is not
+shouting. One thin red mark along his jaw.
 
 THE GIRL has decided nothing: standing easy, mouth closed, brows
-unmoved, the whole attention aimed down at
-him. NOT angry, NOT triumphant, NOT bored.
+unmoved, her head tipped down toward him and her eyes turned down
+under the brows to hold his. Her gaze goes downward, not out across
+the yard. NOT angry, NOT triumphant, NOT bored.
 
 HIS eyes are near-white neutral grey, the lightest value in his face;
 dark hair cut short and uneven; plain undyed working wool, coarse and
