@@ -1,7 +1,7 @@
 ## Planted Clues & Foreshadowing
-**LAW CORE.** The clue ledger: what was planted, where, and what it is owed. **STATE is the section a row sits in** — four states, no others; a row changes state by moving section. Everything in the Handling column is an instruction, never a state.
+**LAW CORE.** The clue ledger: what was planted, where, and the fence on it. **STATE is the section a row sits in** — three states, no others; a row changes state by moving section. **The plans (the old §PLANNED) live in 00 and come back here as PLANTED rows only when the author plants one.** Read by `scripts/clues.sh` AFTER a scene is designed, for the fences on what it touches — never before, to find debts. Everything in the Handling column is an instruction, never a state.
 
-### PLANTED (202) — payoff owed · THE WORKING SET
+### PLANTED (202) — on the page, with a fence · THE WORKING SET
 On the page; the payoff is still owed. This section is the answer to "what is still owed?"
 
 | Clue | Planted in | Pays off in | Handling |
@@ -208,18 +208,6 @@ On the page; the payoff is still owed. This section is the answer to "what is st
 | **THE BOY LEFT OUT OF THE REPORT** — she gives a complete account at the far gate, *not one number softened*, and there is no boy in it; at the wells she says *we* twice and is not asked | **Ch. 31** | the Witness; the crown-vs-Kael choice (04 beat 20), still wholly unspent | **The page NEVER says she left him out** (author, s42) — the two paragraphs contradict each other and the reader does it. Not a decision: she went past the place where he was and kept going. Extends her Ch. 29 not-naming; never convert either into leverage |
 | **THE SHUTTER** — a man breaks off mid-sentence about the north bastion, goes to the window himself, closes the shutter, comes back and finishes the sentence; nobody remarks. The hill is still audible under the council before it, and has stopped by the time the party is made | **Ch. 31** | the compass rotating across the saga; the nobles' hypocrisy, never stated | **NOBODY IN THAT ROOM EVER MENTIONS THE SOUND.** *They were not in the arithmetic… it is not possible to be cruel to a quantity you have never once had occasion to write down.* Valeria draws no conclusion — *she had been angry since the middle of the morning… It had never once been about* them — which indicts the POV as well as the room. Never state it |
 | **HALDEN STAYS** — he turns the council toward evacuation and then takes himself out of the party: *Corvane has men on the eastern stretch, and Corvane's business on this island is mine to answer for while I am on it* | **Ch. 31** | 00 s38 §HALDEN IS THE HARVEST — what he does when the parents' trail ends in a burning house (open) | **His stated reason is TRUE and is not the reason**, which is his established method. A boat going away from the mountain is no use to a man hunting Vask and Neris. **Nobody remarks on it, then or ever**, and no line points |
-
-### PLANNED (6) — not yet on the page
-Not yet planted. **Audit every session:** if a row's Part has closed, that is a bug — plant it, or rescope the payoff.
-
-| Clue | Planted in | Pays off in | Handling |
-|---|---|---|---|
-| THE EYES — Kael's pale grey belongs to no one in the house | 03 ledger (session 9) | the paternity (00, sealed); spend via other mouths only, no mirrors; the parents' never-remarking is the tell that never tells | ledger-planted, unspent on page; **PLATES MAY SHOW IT (s42) — the payoff mouth confirms, never reveals** |
-| Bird-language word makes a master go pale | **Part IV** (rescoped s26 — Part III closed with Ch. 22 and the row still read Part III) | far-continent thread | Temple-side, and now competing with the tournament for room |
-| Chart with coastline that doesn't exist | **Part IV** (rescoped s26 — as above) | far-continent thread | Temple-side; same competition for room |
-| Insignia the father recognizes with horror | Part IV fire | program reveal (later books) | — |
-| Third-hand glimpse in the raid (fits neither side) | Part IV fire | far continent (much later) | — |
-| The unfinished duel (Kael vs. Valeria) | Part IV | very late in the saga | — |
 
 ### VALVE (4) — never resolve · INVERTED INSTRUCTION
 Deliberately left open. Do NOT close these; a payoff here is a mistake, not progress.

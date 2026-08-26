@@ -552,3 +552,16 @@
 
 #### 07-Story-Ledger/planted-clues.md
 | **THE CHEST — PLANTED, LOCKED** — Vask stands his whole weight on the third board Kael has counted around since he was nine; it does not creak, it MOVES, one piece end to end, with a line of iron in the seam. A nailed board does not move, so it is lying on top of something. Neither parent looks at the floor; Kael does not ask | **Ch. 19** (Part III debt CLOSED — planned since Part I) | beat 19: the chest opened, the parents unsheathed literally, **Vask throws his sword to Kael as he dies** | Contents stay SEALED (00) until the fire opens it. Never opened, never remarked, never named on the page. Staging of the throw governed by 00's paternity rule: the monument, never the undoing |
+
+## FROM 07/planted-clues.md — §PLANNED, the plans (rolled at s46; a row returns to the ledger as PLANTED only when the author plants it)
+### PLANNED (6) — not yet on the page
+Not yet planted. **Audit every session:** if a row's Part has closed, that is a bug — plant it, or rescope the payoff.
+
+| Clue | Planted in | Pays off in | Handling |
+|---|---|---|---|
+| THE EYES — Kael's pale grey belongs to no one in the house | 03 ledger (session 9) | the paternity (00, sealed); spend via other mouths only, no mirrors; the parents' never-remarking is the tell that never tells | ledger-planted, unspent on page; **PLATES MAY SHOW IT (s42) — the payoff mouth confirms, never reveals** |
+| Bird-language word makes a master go pale | **Part IV** (rescoped s26 — Part III closed with Ch. 22 and the row still read Part III) | far-continent thread | Temple-side, and now competing with the tournament for room |
+| Chart with coastline that doesn't exist | **Part IV** (rescoped s26 — as above) | far-continent thread | Temple-side; same competition for room |
+| Insignia the father recognizes with horror | Part IV fire | program reveal (later books) | — |
+| Third-hand glimpse in the raid (fits neither side) | Part IV fire | far continent (much later) | — |
+| The unfinished duel (Kael vs. Valeria) | Part IV | very late in the saga | — |

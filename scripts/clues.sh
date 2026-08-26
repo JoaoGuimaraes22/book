@@ -4,7 +4,7 @@
 # The clue ledger is the largest law-core file and is NOT read whole at a
 # session open. When designing a chapter, ask it what the target owes:
 #
-#   scripts/clues.sh                      -> section counts + every PLANNED and VALVE row
+#   scripts/clues.sh                      -> section counts + every VALVE row
 #   scripts/clues.sh fire                 -> rows whose "Pays off in" or "Handling" mentions "fire"
 #   scripts/clues.sh fire Vask Halden     -> rows matching ANY term, each printed ONCE, tagged [fire] [Vask] ...
 #   scripts/clues.sh 'Ch\. 19'            -> terms are case-insensitive regexes
