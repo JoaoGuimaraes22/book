@@ -11,15 +11,15 @@ suggestion — a plank wall behind them, the corners going into deep
 dark. One small oil lamp stands at the back of the table and is the
 only light in the picture, warm and low.
 
-Composition: three people at a plank table, the tabletop crossing the
-lower third of the frame, the bottom edge of the picture cutting all
-three at the lower ribs. The boy sits at the left in three-quarter
-view, turned toward the woman. The woman sits at the right, side-on
-to the table with her weight back in the chair and her left forearm
-laid along the top of it. The man sits on the far side between them,
-facing the boy, settled back with both shoulders down. On the boards:
-a small round clay pot with a handle and a pouring lip, and three
-clay cups with pale green leaves showing in them.
+Composition: three people at a plank table, the tabletop running
+across the bottom of the frame and the bottom edge of the picture
+cutting all three just above it, at the lower chest. The boy sits at
+the left in three-quarter view, turned toward the woman. The woman
+sits at the right, side-on to the table with her weight back in the
+chair. The man sits on the far side between them, facing the boy,
+settled back with both shoulders down. On the boards: a small round
+clay pot with a handle and a pouring lip, and three clay cups with
+pale green leaves showing in them.
 
 THE BOY IS LAUGHING AND THE WHOLE FACE IS DOING IT: the mouth open,
 the cheeks lifted, the head level, and the eyes creased at the outer
@@ -41,9 +41,8 @@ nostrils widened a fraction, the upper lip lifted very slightly with
 it, the mouth closed, the eyes steady on the boy. Not smiling, not
 stern, not sad, and not blank or empty.
 
-Her right hand lies flat on top of the pregnancy, high and in front,
-resting there. She is at full term and carrying high. Nothing is held
-in any hand in the picture.
+Her right hand is on the table turning one of the cups round with two
+fingers, unhurried. Nothing is lifted or held in any other hand.
 
 The boy is looking at the woman, and both adults are looking at the
 boy. Nobody is looking at the viewer.

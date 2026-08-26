@@ -69,7 +69,7 @@ A summary of `02` and `03` for a tool that cannot see them. Facts and fences onl
 - Dark brown hair, long and loose. **Dark eyes.**
 - **Her hands are where the book keeps her.** Any full figure or scene puts them in frame and occupied.
 - Not warm, not maternal, not soft.
-- Eight or nine months pregnant through the tournament season: decide it, never default it.
+- Eight or nine months pregnant through the tournament season. **A plate never draws it**: no clause naming the term, the carry or the shape, and nothing below her collar authored where the frame can hold it — posture, cloth and crop carry it or it is out of frame (`README.md`).
 - The adopted reference reads early thirties and striking; ruled good (s44). Not re-cut.
 
 ## Severin — the First Master

@@ -45,8 +45,8 @@ her hands — the knuckles and the outer edge of the fingers where they
 cross his cheek, drawn pale and hard and the most precisely finished
 thing in the image.
 
-She is at full term, carrying high and in front, leaning out of the
-doorway with her weight forward onto the step. A coarse wool shawl in
+She is leaning out of the doorway with her weight carried forward
+onto the step. A heavy coarse wool shawl in
 dull grey-brown is round her shoulders and has slipped a little;
 under it plain village working cloth in undyed oatmeal. Her long dark
 brown hair is loose and moving in a cold wind. He wears undyed coarse
