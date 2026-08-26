@@ -20,7 +20,7 @@ The sail came off the spar and filled, and the boat put its shoulder down.
 
 The wind was coming off the top of the mountain, cold, the way it came down the runnel every night of the year, straight out to sea. Kael sat down on the boards again with his father's sword beside him and let it happen to him.
 
-His mother was amidships with her back against the strake and her son inside her coat. She had not moved since Severin lifted her over the side. Her eyes were open and she was watching the sail.
+His mother was in the middle of the boat with her back against the strake and her son inside her coat. She had not moved since Severin lifted her over the side. Her eyes were open and she was watching the sail.
 
 Aeliana sat on the boards opposite with her ruined hands turned up in her lap, looking at them.
 
@@ -118,7 +118,7 @@ It came at the boat the way the first one had, keeping its shape. It was going t
 
 Then it stopped being one thing.
 
-Nothing came off his mother. Nothing crossed the air between her and it. It simply stopped travelling toward them, at the top of its come, and went sideways and down instead, all of it together, and lay along the water eighty strides off the beam and went out in pieces.
+Nothing came off his mother. Nothing crossed the air between her and it. It simply stopped travelling toward them, at the top of its come, and went sideways and down instead, all of it together, and lay along the water eighty strides out from the side of them and went out in pieces.
 
 The light on the water lasted longer than the fire did. Kael watched it go along under the surface and die, and the steam came off the sea in a line where the thing had gone in, standing up in the cold with no wind in it to take it anywhere.
 
@@ -138,15 +138,15 @@ And his hands came up, and towards the ship.
 
 Kael had the whole of it before the thing was halfway to them, because he had seen the man do it in his own yard.
 
-"MOTHER! MORE INCOMING," Kael said.
+"MOTHER!" Kael said. "LEFT OF THE MAST. HIGH AND SLOW. IT IS LONG — IT GOES OVER—"
 
 The back of her head did not move.
 
-"He is going to your left! He is loading the next one before that one lands! His feet go first."
+"He goes to your left every second one! He loads the next before that one lands! Watch his feet, his feet go first!"
 
 Nothing came back. The third one went over the top of the sail and out into the water on the far side of the boat, low and wide, and the boat rocked once as the sea underneath it decided what to do about it.
 
-"Left again," said Kael. "Long. LONG!"
+"Right of the mast!" said Kael. "Level, and it is not dropping. It is ON THE MAST—"
 
 The fourth came apart above the mast.
 
@@ -160,7 +160,7 @@ He had started somewhere in the middle of the second one and Kael had not heard 
 
 She took it. It went down into the sea beside them. The water came up over the side and across the boards and put out everything that was burning on that side of the boat, and Elarine Sedrane, flat on the deck, got a mouthful of it and choked and did not move.
 
-"More," said Kael. "More are coming."
+"Left, low, fast," said Kael. "Left again behind it, higher, slower. The fast one arrives first."
 
 He had begun to hear his mother's breathing between the throws, the way a person breathes when the breath itself is a thing that has to be decided on and got through, and it was coming up from a long way down, and it was slower than it should have been.
 
@@ -194,31 +194,37 @@ He had been throwing one at a time because one at a time had been enough, and no
 
 The seventh and the eighth came off the rock together and they were not the same shape as each other. One stood up wide and flat and kept its shape the way every one before it had. The other came low and fast with its belly in the water, throwing a wall of steam up behind it the whole way across, and it was still climbing when it arrived.
 
-"Seven," said Kael. "Seven and eight. Eight is low, it is LOW—"
+"Two of them! Left of the mast, high and slow — and one off the front, low and fast, the low one gets here first, THE LOW ONE FIRST—"
 
 His mother took them both.
 
-She took the flat one first and put it down into the sea on the port side. Then she took the low one out of the air with her hands going the other way, and it broke across the front of the boat and went over them in pieces, and every piece of it that came down came down in the water and not on the deck.
+She took the flat one first and put it down into the sea on their left. Then she took the low one out of the air with her hands going the other way, and it broke across the front of the boat and went over them in pieces, and every piece of it that came down came down in the water and not on the deck.
 
-"Nine. Ten."
+"Nine, left, standing up and turning — it will not go where it is pointed—"
 
 Nine was a column. It came off the rock standing on its end, turning, taller than the mast and thinner than the mast, and it did not travel like the others; it walked. Ten was a sheet again, and eleven was under it, and twelve was somewhere behind both of them and Kael did not see it leave the shore at all.
 
-"Ten and eleven — and twelve, twelve is behind it—"
+"Ten, right and high. Eleven under it, low. Twelve — twelve is behind both of them and I have not got it—"
 
 The sea on both sides of the hull was going up.
 
 That was the thing he could not stop looking at afterwards, when there was time to have looked at anything. Not the fire. The water. Every one of them his mother put down went into the sea within thirty strides of the boat, and every one of them took a piece of the sea up with it when it went, and the steam stood along both sides of that hull in walls higher than the mast, and the light came through the walls from underneath and moved, so that eight people lay on the boards of a boat inside a white room with the walls of it going up and going out and going up again.
 
-"Fourteen. Fifteen — fifteen and two more behind it—"
+"Fourteen, left, fast. Fifteen, left. Two more behind fifteen—"
 
 He had lost thirteen. He did not know where thirteen had gone.
+
+He had begun the night giving her a side, a height, a speed, and a word about what the thing was going to do when it got there. Somewhere before fifteen he stopped being able to afford the last of those. Then he stopped being able to afford the one before it.
 
 His voice had stopped being a voice with sentences in it and had become the noise a man makes counting a herd through a gate, flat and fast and without any breath under it, and he could hear himself doing it and could not have stopped if the boat had depended on it, which it did.
 
 The child was screaming against his neck. The old man was shouting something in the stern that had the word *down* in it. Aurelian Corvane had both hands over the back of the princess's head and was talking to the boards. None of it went anywhere near the part of Kael that was working.
 
-"Eighteen. Nineteen — no. TWENTY. Twenty, and there is another one—"
+"Left. Left. Right and low — LOW—"
+
+"Front of the mast. TWO — no, three—"
+
+"TWENTY. Twenty, and there is another one—"
 
 He was at twenty and he did not know what had happened between fifteen and twenty. Four of them had gone through him and come out the other side as a number, without stopping anywhere he could reach.
 
@@ -250,15 +256,15 @@ Most of it went past the boat. Kael felt the whole front of himself scorch throu
 
 The rest of it took the sail.
 
-The canvas went all at once, top to bottom, with a soft heavy noise, and it stopped being a sail and became a thing standing up out of the middle of the boat that was made of fire. The light of it was yellow and moved on everything. Then the mast went — not down, not at first: it burned along its own length up the whole way, and the ropes on the port side let go one after another and whipped down across the deck, and one of them came across the boards a hand from Aeliana's head and she did not know it.
+The canvas went all at once, top to bottom, with a soft heavy noise, and it stopped being a sail and became a thing standing up out of the middle of the boat that was made of fire. The light of it was yellow and moved on everything. Then the mast went — not down, not at first: it burned along its own length up the whole way, and the ropes on the left of it let go one after another and whipped down across the deck, and one of them came across the boards a hand from Aeliana's head and she did not know it.
 
 "OFF," Severin shouted. "GET IT OFF THE BOAT—"
 
 They got it off the boat.
 
-Valeria Vel went up onto the thwart with the wet coat and got the burning sail down off the spar and Aurelian Corvane took the bottom of it one-handed and the two of them walked it over the side into the water while it was still going, and the sea put it out with a noise like an indrawn breath and it went astern of them, black and steaming.
+Valeria Vel went up onto the thwart with the wet coat and got the burning sail down off the spar and Aurelian Corvane took the bottom of it one-handed and the two of them walked it over the side into the water while it was still going, and the sea put it out with a noise like an indrawn breath and it went away behind them, black and steaming.
 
-The mast came down about four seconds later. It came down across the port side and the top third of it went into the water and it hung there, burning in three places, held on by the ropes that had not gone yet, and it began to pull the boat's head round.
+The mast came down about four seconds later. It came down across the left side of the boat and the top third of it went into the water and it hung there, burning in three places, held on by the ropes that had not gone yet, and it began to pull the boat's head round.
 
 "Cut it," said Severin. "Cut it now."
 
@@ -270,7 +276,7 @@ He could not get it out, because both of his hands were full of his brother.
 
 Elarine Sedrane got up off the boards.
 
-She had nothing left in the world. She had said so above the bowl, before she spent it, the way she said everything, and Kael had watched her sit down on the stone afterwards and not get up. She came up onto her knees now with her hair stuck to her face and her mouth open and she went along the deck to the port rail on her hands and knees, and she got Kael's knife out of Kael's coat because he told her where it was, and she cut a rope. Then another one. Then she could not find the third one. Valeria came past her and found it, and took the knife off her, and cut it, and the mast went off the side of the hull into the sea.
+She had nothing left in the world. She had said so above the bowl, before she spent it, the way she said everything, and Kael had watched her sit down on the stone afterwards and not get up. She came up onto her knees now with her hair stuck to her face and her mouth open and she went along the deck to the rail on her hands and knees, and she got Kael's knife out of Kael's coat because he told her where it was, and she cut a rope. Then another one. Then she could not find the third one. Valeria came past her and found it, and took the knife off her, and cut it, and the mast went off the side of the hull into the sea.
 
 The boat came upright.
 
