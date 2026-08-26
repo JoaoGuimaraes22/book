@@ -264,3 +264,18 @@ Every entry was checked against **THE PLATE FOLLOWS THE PAGE** when it was writt
 3. **The twelve across the distances.** *They were arranged across the distances — the near ones close enough to take her weight off her feet, the far ones out at the edges of the ground, where a thing would have to come from, and every one of them was already standing where he was going to be standing before he got there.* **No separate plate needed** — twelve resolved figures is past §Four figures' ceiling, and they do their work inside candidate 1 as spread shapes, turned outward, not marching.
 4. **The pause.** The herald arriving at the place where a house goes and finding the clerk wrote what the clerk was given — and a boy's eyes going up to the western curve to find the First Master already looking at him, *from the one seat under that sky with nothing in front of it to watch but an empty floor.* **Two people in eleven thousand who know what the pause is.** Held: it is a sightline across sixty yards, which no block in the folder has yet had to build.
 5. **The hand at the gate mouth.** The noise arriving bodily from above and on all sides, and a hand going by itself to a knife and being taken away again — *at ten he had come through the Temple gate with nothing on him anywhere and his hand had gone to that same place and found nothing at all.* The whole of four years in one reflex.
+
+---
+
+## Ch. 23 — The Ghost
+
+*Written at s48, at design time.*
+
+1. ★ **Empty.** — **BUILT (s48): sheet `ch23.md`.** The measure before the bout: a Drusane in the guard a paid master spent four years building, off-hand open because doctrine says so — and forty feet away a boy with both hands at his sides and a wrapped bundle across his back he is not going to open. **Two postures and the distance between them**, which is the whole chapter. Lucan is seen from behind, since `03/lucan` has no portrait file and a plate is not where a face gets decided.
+2. ★ **The horizon.** — **BUILT (s48): sheet `ch23.md`.** After: the seaward rail, the arm open and unbound, and past the top of the far seating a sea with more ships on it than he knew existed and banners on the line he has watched since he was four. *He was thirteen, and he was bleeding, and he had never in his life been so happy. He did not notice that thought arrive.* **The second time in the book the coat is off his face.**
+3. **Elarine writing.** Four hundred children of the empire's finest houses on their feet and shouting, and one of them with a slate flat on her knees and a stylus going. **Her whole character in a crowd shot**, and the only plate that would show the north curve.
+4. **Valeria not standing.** The only person in that curve still seated: elbows on knees, chin on her fists, **watching his feet and not his hands**, and somewhere in the last three seconds she stopped blinking.
+5. **The man on the rail.** Nine rows up, a man on his feet with his hands on the rail and *the face of somebody watching an expense* — and a boy on the sand looking up into the seats to find it. The cruellest beat in the chapter; the man needs no reference, being nobody.
+6. **The corridor.** A man in heavy dark grey standing in a cold corridor, not blocking it, already where he would need to be standing. *"Alone." / "Alone," said the man in grey.* His face need not be resolved at all, which is the point of him.
+
+*Ruled out at s48, and priced:* **standing over him waiting for the fourth time** is the chapter's most famous image and it is a child standing over a downed child — `ch21/dead` was refused with far less in the frame, and a refusal produces no picture. Not attempted.
