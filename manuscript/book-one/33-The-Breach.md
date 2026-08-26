@@ -314,7 +314,7 @@ Kael had watched his father hold that path since the first sack going over, in p
 
 He had been holding it for an hour and forty minutes.
 
-It was still the most frightening thing Kael had ever seen and it had stopped being beautiful some time ago. The white was in the whole of him. It had not come off once, not for a second had it gone thin. It was still in his arms, still in his chest, still going into the ground at every step.
+It was still the most frightening thing Kael had ever seen and it had stopped being beautiful some time ago. The white was in the whole of him. It had not come off once. Not for a second had it gone thin. It was still in his arms, still in his chest, still going into the ground at every step.
 
 His father's breathing could be heard from where he stood.
 
@@ -334,7 +334,7 @@ His father put the longsword through the man's guard and into the top of his thi
 
 His father got up first.
 
-He came forward. Pellan went back two steps for the first time all night, and Kael, thirty feet away with a dead man's blood drying on the back of his hand.
+He came forward. Pellan went back two steps for the first time all night, and Kael, thirty feet away with a dead man's blood drying on the back of his hand, came up off the stone without deciding to.
 
 His father set his feet.
 
