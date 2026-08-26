@@ -828,7 +828,7 @@ The two terms must sit where the frame can compare them. In a face-filling crop 
 
 **Absence.** Ban what something in the picture pulls toward — a herd behind a goat, a second blade near a swordsman, a face where the framing hid one, a watcher in a solitary moment — and nothing else. Naming a thing to ban it puts the word in front of the filter: *no blood on the bound child* was refused.
 
-**Gaze and expression.** Say where each pair of eyes goes. *Level* and *flat* are directions, not temperaments — each has put a gaze on the viewer that the block sent elsewhere (`plates/ch14.md`, `plates/ch17.md`). Point at the mouth (*mouth open mid-word*), not the abstraction. State a contradiction as one — *the body is deferential and the attention is not.* *Not smiling — just not braced* got warmth without breaking character. Eye contact between two figures is named as the subject, on its own, in caps:
+**Gaze and expression.** Say where each pair of eyes goes. **Never tell a face to do nothing** — *his face is doing nothing at all* renders as vacancy, and vacancy is not stillness (author, s48: *Kael is kind of expressionless*). A still face gets one working part named: *the face level, the eyes steady on the man, the jaw set but easy.* *Level* and *flat* are directions, not temperaments — each has put a gaze on the viewer that the block sent elsewhere (`plates/ch14.md`, `plates/ch17.md`). Point at the mouth (*mouth open mid-word*), not the abstraction. State a contradiction as one — *the body is deferential and the attention is not.* *Not smiling — just not braced* got warmth without breaking character. Eye contact between two figures is named as the subject, on its own, in caps:
 
 ```
 THE TWO ARE LOOKING DIRECTLY AT EACH OTHER. His eyes up, hers down,
