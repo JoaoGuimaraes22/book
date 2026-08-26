@@ -118,7 +118,15 @@ Then pin it with §Scale between figures, as always: *as wide as the candle is w
 
 **So the working form of the instruction is: the rung, plus a ratio against an object of known size, staged where the frame can perform it.** One clean instance and three suggestive ones — logged here rather than promoted, per `../08-Plates/README.md` on findings that are not yet rules.
 
-**The confound, stated so nobody over-reads any of this:** four runs, four characters, four crops. Directional evidence, not a proof.
+**AND THE VERY NEXT RUN BRUISED THAT, WHICH IS WHY IT WAS LOGGED RATHER THAN PROMOTED (s45).** `plates/ch13.md`'s spots of colour gave a ratio against **an object** — a hand against a cup, both in the crop, same depth, nothing occluded — and the face still came back years above its chapter. **So *the second term must be an object* is not supported as stated.**
+
+**THE CORRELATION THAT SURVIVES ALL SIX RUNS IS HOW MUCH OF THE FRAME THE FACE OCCUPIES.** The one success — `plates/ch11.md`'s white stitch, eleven or twelve — is also the only one where **the face is not the dominant mass in the picture**: it is a hand plate with a head beside it. Every failure is a face filling the frame. **Under an anchor three years above its chapter, a close plate whose face dominates has never yet been pulled back down by any in-frame ratio, staged or not, object or body.**
+
+**The consequence, said plainly rather than as a rule:** the rung is cheap and can stay; a ratio clause on a portrait-scale crop has six runs of evidence that it buys nothing. **The real lever is the anchor, and the anchor is an author ruling** (`../08-Plates/README.md`, s44), which is where this belongs rather than in a block.
+
+**And one confound on the s45 pair is a fact on disk rather than a theory.** `../08-Plates/portrait-prompt-system.md`'s Elarine AGE block, which cut `elarine-14.png`, reads *Fifteen, and small for it* and sets the eyes **at** the vertical midpoint instead of below it. Both plates of her have drifted the same way. **Check what a reference's own age block says before diagnosing a plate that inherits it.**
+
+**The confound, stated so nobody over-reads any of this:** six runs, three characters, six crops. Directional evidence, not a proof.
 
 **The history, kept because it is why this took three sessions.** `../portrait-prompt-system.md` §AGE block states that age words in the SUBJECT block alone get ignored, and §Plates has a plate inherit only the Medium and Colour paragraphs, so a plate never gets the rung. The first datum was overturned by the author (`plates/ch09.md` read years too old to this folder and correct to the author); the second was `plates/ch08.md`'s Elarine reading adolescent among eleven-year-olds with her age in the reference line only.
 

@@ -449,6 +449,8 @@ cloth.
 
 ### Elarine
 
+**THE FILE IS NAMED `-14` AND THE AGE BLOCK THAT CUT IT SAYS FIFTEEN (noted s45).** *Fifteen, and small for it*, with the eyes set **at** the vertical midpoint rather than below it — where `03` has her at ~13 through Book One. **Both plates anchored on this face have drifted to mid-teens** (`plates/ch11.md`'s fan, `plates/ch13.md`'s spots of colour), and this is the cheapest available explanation for it. **Nothing has been renamed, re-cut or edited:** a reference is never edited, the portrait is adopted, and every citation in the folder points at that filename. Recorded so the next session diagnosing an age drift checks the anchor's own block first.
+
 **ADOPTED:** `images/portraits/elarine-14.png`. Uses the **Elarine AGE block** and **no HAIR line** — bound-severe hair and `naturally settled rather than combed` cannot both win. Below is the block **as it ran**.
 
 **WHAT THE RUN PROVED, AND ONE LINE OF IT IS A LIE.** The hair, the collar and the build all came through hard, and **the costume is the best this system has produced** — high buttoned collar, close, exactly made, no ornament, *nothing on her that does not work* rendered instead of stated, and it puts real distance between her and Valeria's wrapped charcoal. The expression held too: level, appraising, still, **no verdict reached.**
