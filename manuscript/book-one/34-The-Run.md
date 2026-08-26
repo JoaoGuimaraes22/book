@@ -416,7 +416,7 @@ He had thought — and there was no dressing this up, running down a cut in the 
 
 His mother was forty feet in front of him with her second son inside her coat and a hundred and fifty years of olive trees behind her in pieces, and she had never once, in thirteen years, done anything on that mountain but teach him arithmetic and boil water.
 
-*He had wanted to know what was on the other side of that sea since he was four years old.*
+He had wanted to know what was on the other side of that sea since he was four years old.
 
 It had now come over and told him. *You are nothing special.*
 
@@ -520,4 +520,4 @@ Kael sat on the boards of a boat with his father's sword lying beside him and hi
 
 It was the first time in his life he had been on the water.
 
-*Finally, his dream had come true.*
+*I got what I wanted.*
