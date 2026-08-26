@@ -22,18 +22,20 @@ HER TWO HANDS ARE ON HIS FACE AND THEY ARE THE SUBJECT OF THE IMAGE.
 One hand laid flat along each side of his face, the palms on his
 cheekbones and the fingers running back toward his ears. They are
 still and settled rather than just arrived, relaxed against the skin,
-not gripping and not turning his head. Her hands are the only place
-the two of them are touching. His own hands hang at his sides, empty.
+not gripping and not turning his head. Both hands are visible: the far
+one on the cheek turned away from the viewer, the near one on the
+cheek turned toward the viewer. Her hands are the only place the two
+of them are touching. His own hands hang at his sides, empty.
 
-HER FACE IS STILL AND SAYS NOTHING, AND THAT IS CORRECT: the mouth
-closed and level, the brows unmoved. The one thing working in her
-face is the eyes, which go over his face from one part of it to
-another and do not leave it. Not smiling, not tender, not grieving,
-not tearful.
+HER FACE IS WORKING AND IT IS NOT AT REST: the lids fully raised and
+the eyes wide open and fixed hard on his face, the brows drawn a
+fraction together, the jaw set, the mouth closed with the lips just
+perceptibly pressed. She is holding something down. Not tearful.
 
-HE IS BEING HANDLED AND HE IS HOLDING PERFECTLY STILL FOR IT: the
-head steady in her hands, the mouth closed, the jaw easy, the eyes up
-on hers. Not embarrassed, not sad, and not blank or empty.
+HE HAS BEEN CAUGHT BY THIS AND HAS NOT ARRANGED HIS FACE YET: the
+eyes fully open and up on hers with the pale grey clear in them, the
+brows lifted a fraction, the mouth closed but soft and unpressed, the
+head still in her hands. Not braced, and not blank or empty.
 
 The two are looking directly at each other and neither is looking at
 the viewer.
