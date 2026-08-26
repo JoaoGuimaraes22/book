@@ -2395,4 +2395,6 @@ The s21 design load was tested rather than waved through: it warned that a progr
 
 **THEN THE FIRST PLATE ON THE NEW REGISTER.** `ch16/the-ear-on-the-brick` rewritten under the template (built prompt 884 → 524 words: the run-1 fixes kept, the value-structure paragraph, the appearance lines and the *only light* clause cut), run once, **adopted** (*pretty nice*). Warm throughout, landscape unasked, the grin in the one face it was written into; the drift is on the sheet and none of it worth a run. Ch. 16 has its two; the target is Ch. 17.
 
+**CH. 17, THE FIRST SHEET WRITTEN UNDER THE TEMPLATE.** Two composed from the scene — the four in the last light (*who lives in it*) and Valeria in her doorway looking at her own hands — 570 and 355 words built. `her-own-hands` ran once and was **adopted** (*amazing*): the crop landed at the named landmark, the full-figure sheet returned her whole kit unauthored, and the face came back pensive where the block asked for surprise — a face Kael could not read, which is the page. `who-lives-in-it` awaits its run.
+
 **NOT DONE, by choice:** the plate sheets (61K words, 1.7× prose to prompt, rising to 2.8× on recent chapters) — spot-read only; a later pass if wanted. No adopted plate re-run. s46 (the vault sweep, commit `cb8aa27`) has no entry in this log.
