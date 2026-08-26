@@ -1,5 +1,5 @@
 ## AURELIAN CORVANE (the ringleader — pride that breaks)
-**Glance:** the cohort's presumptive best; ringleader → training ally · House Corvane · ~13 · **alive, off the mountain, emptied to the floor of himself and carrying a dead friend's blood on his good hand.**
+**Glance:** the cohort's presumptive best; ringleader → training ally · House Corvane · ~13 · **alive and aboard, emptied to the floor of himself, and he talked the whole way down that mountain.**
 
 ### STATIC
 - **Role:** The cohort's best before Kael arrives; capacity-worship made flesh; the face of the science-vs-pride engine. Sealed irony (00): his mockery of Kael's method is the empire failing to recognize its most wanted asset.
@@ -11,6 +11,8 @@
 - **Appearance:** Tall for his cohort, built a year ahead of his age; dark-gold hair; **amber, gold-brown eyes — author ruling s34, unspent on any page**; high carriage; unspent strength Kael prices on sight. Beautiful and knows the exact weight of it — the bench behaves differently in his radius (render the radius, not the adjective). Fire's warmth in the coloring without stating it — it sits in the hair and the eyes together, and is never named as fire.
 
 ### DYNAMIC
+- **HE TALKED THE ENTIRE WAY DOWN THAT MOUNTAIN** — steadily, in order, correct in every particular, for nobody, and when he was told to be quieter he was quieter and did not stop.
+- **He got the princess of the empire up off stone one-handed before anybody else had turned round**, and carried her down the last shelf to the boat on his good side.
 - **HE SPENT EVERY GRAIN HE HAD IN ONE WALL, off one good hand, and it was genuinely enormous** — and Fenna drew a line across it and stepped through the middle of it without breaking stride. **The capacity he was raised to worship, on the page, against real war.** He went down on his knees and had to be dragged along a wall by Elarine.
 - **HE SAID LUCAN'S NAME TWICE AND THEN COULD NOT SAY ANYTHING AT ALL**, and put his good hand flat on the boy's chest, *which did nothing for anybody*, and left it there. **The one who answers everything did not answer that either.**
 - **He carried Kael's mother off the mountain** on his bad side's good arm, with Elarine on the other.

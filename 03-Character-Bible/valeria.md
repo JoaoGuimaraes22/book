@@ -1,5 +1,5 @@
 ## VALERIA VEL
-**Glance:** rival → first friend · Line of Vel (eleven generations — tiers in `../02-World-Bible/factions.md`) · 13 (Kael's age) · **off the mountain with the princess over her shoulder, burned down one side of her face, carrying an arm she will not mention.**
+**Glance:** rival → first friend · Line of Vel (eleven generations — tiers in `../02-World-Bible/factions.md`) · 13 (Kael's age) · **aboard the hull, burned down one side of her face, one arm she will not mention, and she has now crossed that mountain end to end and still has not asked one question about it.**
 
 ### STATIC
 - **Role:** Daughter of the Line of Vel. Kael's rival, then first friend. The rest of her role is in 00.
@@ -13,13 +13,15 @@
 - **Appearance:** Lean, strong, athletic — a working build that reads as function even at rest. Long black hair worn loose well past the shoulders, no ornament (lengthened s33 — the page moved with it, Ch. 14). Emerald green eyes — color spent at reading distance only; worn plain and bored as display (the boredom died against Kael). Her stillness WARNS — nothing like his. Knuckles older than her face; guard-lineage calluses. Rooms rearrange around the name before the girl; reverence draws her one untrained tell, the microscopic flinch — **SPENT at Ch. 27** (the s32 close DE-LISTED it: available, not owed).
 
 ### DYNAMIC
+- **She took the front off a terrace one-armed** — three columns up through the made ground — and priced herself out loud: two more of those and then she is just blades.
+- **She has now crossed the whole of that mountain and still has not asked him one question about it.**
+- **She has not been off the princess for one minute of it**, and carried her, and set her down, and went into the water to her waist for the stern rope.
 - **SHE HELD THAT DOORWAY AND DID NOT FIGHT THE FIGHT.** The best fighter on that mountain spent the whole assault nailed to a door by her own orders. **Her CORE and her seam in one posting**, and nobody points at it.
 - **SHE FOUND THE ONLY COUNTER THERE WAS AND IT NEARLY KILLED HER.** A man who cooks a volume of air cannot cook the volume he stands in, so she went the whole way in until she was standing on his feet — one blade four inches under his ribs, a second into his side — and **he took her off the ground by the hair and put her into the frame.** She did not beat him and knew it, and did not take the step off the threshold after him.
 - **SHE CARRIED THE PRINCESS OUT** — over the shoulder, one arm behind the knees, at a dead run, never slowing for the drop. **Her own cold pricing from the district paid literally.**
 - **Twelve royal guard are dead and she is the only protection left.** From here she is what stands between that girl and the world.
 - **She has now stood in the yard of the mountain she never once asked about, and watched the whole of it fall, and still has not asked.**
 - **Body:** the whole side of her face that went past the frame first, come up red and shining; the left arm carried against her body.
-- **Now: nailed to a doorway by her own orders** — the one person on that mountain who could turn the fight outside is standing inside it because a Vel walks on the royal left. **Her CORE and her seam in the same posting**, and nobody has to point at it.
 - **SHE APOLOGISED.** *I'm sorry, Kael. For everything.* — to the boy she was carried away from at a gap eighteen inches wide, unprompted, in front of his house. The first time she has apologised to anybody in the manuscript.
 - **She has stood in front of the house and still did not ask.** A year, a treeline, a sea court, a road, and now the yard itself, and she asked which way the water was instead. **That is hers, not leverage.**
 - **Previously: posted on the princess.** Told *you will give your life for the princess* by the captain of the twelve, and **it is her purpose and she does not want to be anywhere else.** She is in the party leaving the district: the First Master, the princess and her twelve, seven Temple children, four unnamed.

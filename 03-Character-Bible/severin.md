@@ -1,5 +1,5 @@
 ## SEVERIN (the master)
-**Glance:** head of the Temple — THE FIRST MASTER; the family's secret savior and patron · empire past, his own man now · old, the way the split rock is old · **he delivered the child, took a mountain off its own flank, and carried the son down it against everything the boy had.**
+**Glance:** head of the Temple — THE FIRST MASTER; the family's secret savior and patron · empire past, his own man now · old, the way the split rock is old · **he delivered the child, took a mountain off its own flank, closed a cut behind them with living wood, and got all eight of them onto his own hull.**
 
 ### STATIC
 - **Name:** Severin — on-page mostly "the master"; spend the name sparingly so it carries weight.
@@ -13,6 +13,10 @@
 - **Appearance:** Old the way the split rock is old; tall, gone lean, a scholar's stoop that once wasn't. Hair fully grey — the second reading never confirmed. **Eyes dark, near black (author ruling, s34; unspent on any page)** — the one unreadable dark thing in a face gone entirely pale. A soldier's frame under a master's robes: wrists too thick for the ink they carry. A face that is courteous, unhurried, and gives out nothing it hasn't priced.
 
 ### DYNAMIC
+- **HE STOPPED KAEL FOLLOWING HIS MOTHER AND SAID *"I know what she is."*** — sourced nothing, was never asked to explain it, and it is entirely deniable as *she gave birth an hour ago*. **A NEW VALVE: never resolve it, and never let a later page have him account for it.**
+- **NATURE IS NOT ONLY MENDING IN HIS HANDS.** He drove living root and thorn eleven feet deep up through the floor and walls of a cut in half a minute and closed the road behind them, and got up crooked with the nose bleeding again. **The page explains none of it and nobody theorises it.**
+- **He is on his own hull with eight people aboard it and has still not explained why he has it.**
+- **He is carrying Vask's longsword**, handed up to him by Vask's widow without any expression on her face at all.
 - **HE TOOK THE DELIVERY AND WREN LIVED.** He put a princess of the empire on the lamp, and **when the mother's eyes came up red he did not look up, did not react, and did not ask** — and then took the promise out of the girl on the spot. **He tore the strip for the child's eyes and held it out before anybody asked him to.** 00's §(a) who-else-knows valve moved without opening. **Never resolve what he knows.**
 - **HE DROPPED THE EASTERN FACE OF A MOUNTAIN.** Not a lifting — a release: he found the lazy place under four hundred feet of terrace and took it away, with everything standing on it. **The Ch. 27 limit is answered without being contradicted: holding is the expensive direction.** He got up crooked with blood coming out of his nose, and no new white can show on a man already grey all through — **the never-confirm rule protects itself and nothing on the page remarks on it.**
 - **HE PROMISED VASK AND HE KEPT IT.** *I have them, Vask.* — said twice, because he was made to say it twice.

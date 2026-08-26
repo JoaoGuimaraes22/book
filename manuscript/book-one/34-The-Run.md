@@ -68,7 +68,7 @@ They came down the last of the slot in a line, because a line was what the groun
 
 Severin was in front, because the road was in his head and nowhere else.
 
-Behind him, the four of them: Aeliana Cassivara Vessantine in the middle of it with the ruined hem gathered up in both fists, and Elarine on one side of her and Aurelian on the other, and Valeria Vel walking on the outside of all three with her twin blades on and her left arm carried in against her ribs.
+Behind him, the four of them: the princess in the middle of it with the ruined hem gathered up in both fists, and Elarine on one side of her and Aurelian on the other, and Valeria Vel walking on the outside of all three with her twin blades on and her left arm carried in against her ribs.
 
 Then his mother. Then him.
 
@@ -76,7 +76,7 @@ The princess fell for the first time about two hundred strides onto the goat gro
 
 She went down hard, forward, on stone, in shoes made for a raised floor with ice on it, and she put both hands out and took most of it on her palms, and Kael heard her hit and did not hear her make any noise about it at all.
 
-Aurelian had her up before Elarine had turned round. He did it one-handed, because the other arm had been no good since a seventeen-year-old took it apart on a Thursday, and he did it without breaking the pace, and he was talking.
+Aurelian had her up before Elarine had turned round. He did it one-handed, because the other arm had been no good since a man took it apart on a Thursday, and he did it without breaking the pace, and he was talking.
 
 He had been talking since the slot.
 
@@ -94,15 +94,13 @@ Nobody was answering him. He did not need anybody to. The words came out of him 
 
 "Yes," said Aurelian, and dropped his voice about a third, and went on.
 
-Wren started at the top of the goat ground.
+Wren crying intensified at the top of the goat ground.
 
-It came up out of the front of his mother's coat, thin and furious and going up at the end, and it went out across the open in every direction at once, and the mountain gave it back off the terrace wall on their right about a second later.
+It came up out of the front of his mother's coat, thin and furious and going up at the end, and it went out across the open in every direction at once.
 
 Every single person on that ground heard it.
 
-Not one of them said anything.
-
-His mother put her hand flat on the front of the coat and got her chin down and went on walking, and Severin did not turn round, and Valeria did not turn round, and the princess of the Vessantine empire looked at the coat once and then looked back at where her feet were going.
+His mother put her hand flat on the front of the coat and got her chin down and went on walking.
 
 Kael counted the interval to the echo and got the distance to the terrace wall, and then he did the other sum, which was how far a sound like that carries at night on open ground with the wind coming down off the top, and the answer was about six hundred strides, and the men were closer than that.
 
@@ -120,17 +118,17 @@ They ran.
 
 It began without anybody calling it. Severin lengthened, and the four in the middle lengthened to hold him, and after that it was a run and stayed one.
 
-It was not a good run. Aeliana could not do it properly and did it anyway; Aurelian went beside her with his one good hand out and not touching her, ready, for two miles. Elarine ran the way people run when there is nothing left in them, which is on the frame and not on the muscle, arms low, mouth open, eyes on the ground three strides ahead and nowhere else. Valeria ran the way she did everything, and every fifty strides she looked back over her own shoulder at the slot behind them, and her face did not report anything.
+It was not a good run. Aeliana's blistered feet could not do it properly and did it anyway; Aurelian went beside her with his one good hand out and not touching her, ready, for two miles. Elarine ran the way people run when there is nothing left in them, which is on the frame and not on the muscle, arms low, mouth open, eyes on the ground three strides ahead and nowhere else. Valeria ran the way she did everything, and every fifty strides she looked back over her own shoulder at the slot behind them, and her face did not report anything.
 
 His mother ran.
 
 That was the part Kael could not put down. She ran with one arm across the front of her coat and the other going, on ground she had walked for thirteen years and never once had to hurry on, twenty minutes and then thirty minutes and then forty minutes after a thing that had opened her up on her own floor. Her breathing was wrong. He could hear exactly how wrong from her left side. Twice in the first mile the whole of her went down into a lower gear and came back up out of it, and she did not slow while it happened, and she said nothing at all.
 
-He was crying.
+Kael could feel his face wet. At first he didn't know if it was rain, sweat or blood.
 
-He worked out that he was crying somewhere in the second mile, the way you work out it has started raining: not at the beginning of it, and not from the front. It was on his jaw. He put the back of his wrist against his face and it came away wet and it did not stop after that, and he went on running.
+It was neither. The water ran from his eyes down, and did not stop. It was on his jaw. He put the back of his wrist against his face and it came away wet and it did not stop after that, and he went on running.
 
-It did not feel like anything. That was the strange part and he had time to notice it, because a run is mostly time. There was no pressure behind his eyes and nothing in his throat and no wish to make a sound. His face was simply wet and going on being wet, the way the count went on counting, in a part of him that had never once asked his permission for anything.
+It did not feel like anything. There was no pressure behind his eyes and nothing in his throat and no wish to make a sound. His face was simply wet and going on being wet, the way the count went on counting, in a part of him that had never once asked his permission for anything.
 
 He turned his head to check the leg's line on a bad step and looked at his mother instead.
 
@@ -142,8 +140,6 @@ She felt him look. She turned her head about two inches and their eyes went over
 
 Neither of them said one word.
 
-She put her face back into the run.
-
 ---
 
 The first light on the slot came up behind them in the third mile.
@@ -154,11 +150,15 @@ Kael saw it because he was the one who kept looking, and he kept looking because
 
 Severin did not stop. "Where."
 
-"Top of the slot. One. No — four." He held it. "Nine. They are coming down it in a body and they are not being careful about it. There is nothing behind them yet, which means the rest are coming round the head of it on the old terrace, and that is longer by about a mile, and they will be on this ground in front of us if we are slow enough about it."
+"Top of the slot." Kael took it and did not want it. "Forty. Sixty — it has not stopped. A hundred and twenty. A hundred and sixty, and there is more of it still behind the lip that I have not got yet. They are coming down it in a body and they are not being careful about it."
+
+His count went on doing what it did, which was work, and gave him the rest of it, and he gave that away too.
+
+"And there is a second one. Round the head of the slot, along the old terrace. That is longer by about a mile and I cannot see the end of it from here, and it is bigger than the first."
 
 "How long."
 
-"For the nine, twenty minutes. They will run us down before the runnel. For the others, forty."
+"For the slot, twenty minutes. They will run us down before the runnel. For the terrace, forty."
 
 Severin ran three more strides.
 
@@ -182,15 +182,21 @@ The answer was that this was the best ground on this side of the mountain to be 
 
 "Sedrane. How much have you got."
 
-Elarine Sedrane was bent over with her hands on her knees. She stayed there for two full breaths, and Kael watched her go and look, the way he had watched her go and look at a sea wall a hundred times, and come back with a number rather than a feeling.
+Elarine Sedrane was bent over with her hands on her knees. She came up off them and looked down into the bowl for a while, and Kael watched her.
 
-"Not a working," she said. "Nothing standing. I can put it into something that already wants to burn and then I am finished."
+"How much do you need."
 
-"That will do." Severin pointed with two fingers, down and left, at nothing Kael could see. "The thorn is all through that bowl and it has had no rain since the storm-weeks. Set it at the bottom and let it climb."
+"All of that ground."
 
-"It will climb slowly."
+"Then you will have it once," said Elarine. "After that I am carrying nothing."
 
-"It will climb," said Neris, "as fast as I tell it to."
+"That's plenty."
+
+She went to the front of the shelf and began pushing her sleeves back off her hands.
+
+"There has been no rain since the storm-weeks," she said, to nobody in particular. "There is thorn all through the bottom of it and nobody has turned that stubble in ten years. It will take everywhere at once."
+
+"And it will still only be a fire," said Neris, from behind her, "until I get to it."
 
 Everybody on that shelf turned round.
 
@@ -200,13 +206,13 @@ She had her hand inside the front of her coat, taking the child out of it.
 
 Kael watched his mother hand his brother to a princess of the empire.
 
-She did it the way she did things, which was quickly and without any ceremony in it: she got him out through the front of the coat with one hand under the head, turned, and put him against Aeliana Cassivara Vessantine's chest before the girl had finished understanding what was being walked toward her.
+She did it the way she did things, which was quickly and without any ceremony in it: she got him out through the front of the coat with one hand under the head, turned, and put him against Aeliana's chest before the girl had finished understanding what was being walked toward her.
 
 "Both hands," his mother said. "Under the head. Do not hold him tight, hold him *close*, they are different. If he goes stiff and arches, that is wind and it is nothing. Sit down on the stone. Do not stand up with him."
 
 "I do not—"
 
-"You held a lamp for two hours," said Neris. "You will be extremely good at this."
+"You can, you will," said Neris. "You will be extremely good at this."
 
 She took the girl's elbow and moved it about an inch, and looked at the result, and let go.
 
@@ -216,13 +222,13 @@ Kael went after her. He got four strides and Severin's hand came onto his chest.
 
 "No."
 
-"He's—"
+"She's—"
 
-"I know what he is." The old man did not look at him. "Stand there."
+"I know what she is." The old man did not look at him. "Stand there."
 
 ---
 
-Below them, the nine came out of the bottom of the slot and onto the goat ground, and stopped, and looked at the ground the way men look at ground they have been told to cross.
+Below them, the front of the column came out of the bottom of the slot and onto the goat ground and spread itself out along the foot of it, and stopped, and went on arriving behind itself for a long time.
 
 They were four hundred strides out. They spoke to each other and the wind brought some of it up.
 
@@ -230,13 +236,13 @@ They were four hundred strides out. They spoke to each other and the wind brough
 
 *They are on the shoulder. Up there. Look at the shape of it.*
 
-*Then we go up.*
+*Let's go.*
 
 Kael understood every word, and it did nothing for him, and he had stopped expecting it to.
 
 Valeria Vel walked down off the front of the shelf about ten strides and stood on the lip where the goat track came round.
 
-She did it one-armed. Kael watched her set her feet — the right one forward and turned out, the left one back and flat, which is not a fighting stance, which is a stance for putting something into the ground — and then he watched her go down into the stone the way she went into stone.
+She did it one-armed. Kael watched her set her feet — the right one forward and turned out, the left one back and flat, which is not a fighting stance, which is a stance for putting something into the ground — and then he watched her go down into the stone.
 
 For about two seconds nothing happened.
 
@@ -250,21 +256,29 @@ The other six went sideways along the bottom, fast.
 
 Valeria came back up onto the shelf, and she was grey around the mouth, and she stood with her right hand on her knee for a moment before she straightened.
 
-"That is one," she said. "I have perhaps two more of those in me and then I am carrying blades."
+"That is one," she said. "I have perhaps two more of those in me and then I am just blades."
 
 "Sedrane," said Severin.
 
-Elarine Sedrane had already gone down onto one knee at the front of the shelf with her palm flat on the stone.
+Elarine Sedrane put both hands out over the bowl with her fingers spread, and Kael, eight feet behind her, understood about half a second too late that he should have been watching the ground and not the girl.
 
-Kael was standing about eight feet behind her and he saw the whole of it, and it was the smallest thing he had watched anybody do all night.
+Nothing came off her hands. Nothing crossed the air.
 
-She did not throw anything. There was no wall and no fan and no sheet, and nothing at all came off her hand. She put her palm on the rock and something went out of her along the ground, low, and about ninety strides out, down at the bottom of the bowl, in a stand of dead thorn nobody had cleared since before he was born, one bush caught.
+What happened was that the bottom of that bowl caught.
 
-One bush. In the dark it looked like a man striking a light.
+Not in one place. Three hundred strides of it, corner to corner, in the same instant: every stand of dead thorn, every foot of unturned stubble, the grass in the cracks of the old terrace wall, the roots under the lip, the dry stuff banked in the gullies where the winter had put it. It did not spread from anything. There was no first flame anywhere for a second flame to have come off. In half a second there were four hundred separate fires down there and every one of them was exactly where the fuel was.
 
-"That is all of it," said Elarine, and sat down on the stone, and put her hands over her face.
+The light came up onto the shelf and took eight people's shadows and threw them back up the mountain.
 
-The bush burned. The bush beside it thought about it.
+Two days ago Kael had stood on white sand and watched this girl open the whole of her treasury in one working, and what she had made with it was one enormous thing.
+
+This was the other half of her and it was worse. She had gone through three hundred strides of black hillside item by item — in the dark, off a shelf, in about ninety seconds — and found every single thing in it that was willing to burn, and then lit all of them at once, and not one grain of what she spent had gone anywhere that did not want it.
+
+The heat arrived four seconds later and he put his forearm up across his face.
+
+"That is the whole of it," said Elarine Sedrane, and took her hands down.
+
+Then she sat on the stone with her back against it and her palms turned up in her lap, and did not get up again for a long time.
 
 And Kael's mother put both hands out in front of her, palms down, and gave that fire a wind.
 
@@ -276,39 +290,59 @@ He had watched a boy from a capital house put an air column through the middle o
 
 He had never seen anything like what his mother did to that bowl.
 
-It came off her flat and it came off her *level*, out of both hands and out of the whole front of her at once, and the first thing it did was take the stubble off the ground for eighty strides in a line as clean as a scythe cut. The thorn fire went up that line like something poured. It did not climb. It *arrived*: it was at the bottom of the bowl and then it was two hundred strides across the bottom of the bowl, and then it was standing up eight feet high in a wall along the whole width of it with the wind holding it forward and down at the men who had gone sideways.
+It came off her flat and it came off her *level*, out of both hands and out of the whole front of her at once, and the first thing it did was take the ground bald for eighty strides in a line as clean as a scythe cut.
 
-That was not the part.
+The second thing it did was pick up Elarine Sedrane's four hundred fires and put them together.
 
-The part was the olives.
+They came off the ground sideways, all of them, at the same moment, and stopped being four hundred things. What stood up out of the bottom of that bowl was one thing eight feet high and two hundred strides wide.
 
 There were nine old olive trees on the terrace under the shelf, planted by somebody dead in the reign of somebody else dead, thick through the trunk as a man is thick through the waist, and his mother turned her hands about fifteen degrees and put the wind across them.
 
 The first three came apart.
 
-Not uprooted. Not blown over. They came apart along the grain from the top down, in long white splitting strips, and the strips went out into the bowl at the height of a man's chest and did not slow down, and where they went into the fire they came out of the other side of it still going. One of the six was running along under the terrace when it happened. Kael did not see what took him and there was no possibility of putting him back together to work it out.
+Not uprooted. Not blown over. They came apart along the grain from the top down, in long white splitting strips, and the strips went out into the bowl flat and level and did not slow down, and where they went into the fire they came out of the other side of it still going.
 
-The other five stopped running and went flat on the ground with their arms over their heads and stayed there while a hundred and fifty years of somebody's orchard went over the top of them in pieces.
+There were a hundred men and more in the bottom of that bowl by then, strung out along it, looking for the next way up.
 
-Then his mother closed her hands and it stopped.
+Kael watched a piece of olive the length of a cart shaft go through four of them and not change direction. He watched the front of them stop being a front. Some were taken off their feet and some were not, and the ones who were not were the worse to look at, because a strip of that wood at that speed does not knock a man down: it goes through the part of him it meets and leaves the rest of him standing there for a moment, deciding.
 
-The bowl went on burning. Nothing else moved in it.
+The ones behind went flat and stayed flat while a hundred and fifty years of somebody's orchard went over the top of them in pieces.
+
+And then his mother stopped using the mountain and did it herself.
+
+She brought her hands in and turned them over.
+
+There was no gust. Nothing on that shelf moved, and nothing came across Kael's face, and there was no roar going away from them — it was quieter than the olives had been by a long way. From where he stood it looked like a field going over under a wind that was not touching one other thing in the world.
+
+Where it went across them, men came apart.
+
+Not down. Not backwards. Apart, at the places a body has, which were the places his mother had laid a hare open on her own table and named for him when he was eight: the neck, the shoulder, the hip, the two joints of the arm. A man ten strides ahead of the fire turned to run and his head came off him on the turn and went out into the burning stubble, and the rest of him did four more strides before it found out. Two more went through at the waist in the same instant, and the top halves went one way and the legs stayed standing where they were and then folded. Something crossed the trunk of the nearest olive and took an arm off at the shoulder on the way past, and the arm hit the tree, and stayed on it.
+
+The blood did not spray. It went out flat, in sheets, and where it went into the fire it came off the fire as steam, and where it went into the trees it went up those nine trunks past where Kael could have reached and stopped in a line, and the burnt ground underneath took the rest of it and went black and shining.
+
+It lasted about nine seconds.
+
+Then his mother closed her hands and it stopped, and the noise came up out of the bottom of that bowl and arrived on the shelf.
+
+Kael had heard men die that morning at a gate and that afternoon in a lane and that night in his own yard, and he had heard thirty thousand people on a hillside from a mile away, and none of it had prepared him for one single second of this.
+
+It had no shape. There were no words anywhere in it. It came up off two hundred strides of burning ground all at once and it did not stop when the wind stopped, because a great many of the people making it were not dead and were not going to be for some while yet, and a man in that condition does not go quiet, he goes on. Some of them were calling other men by name, over and over, the way you call across a field. One of them was screaming for his mother, down in the burning, in a language Kael had been taught on a flat rock above the pens by the woman standing eight feet in front of him.
+
+The bowl went on burning from one side of it to the other, and the men in it who could still get up did not get up, because there was nowhere down there to get up into.
 
 Kael stood on the shelf and did not have one single thing anywhere in him to put on what he had just watched.
 
 He tried, because that was what he was, and it came back with nothing. He had a unit for a column of air, because he had been hit by one. He had a unit for a fan of fire, because he had put a blade through the middle of one and taken the skin off his hand doing it. He had no unit at all for eighty strides of ground going bald in one movement, or for what an olive trunk does when it is asked to be a different shape at that speed.
 
-He looked at the side of his mother's head.
+He looked at the back of his mother's head.
 
 She was standing at the front of the shelf with her hands down at her sides and her shoulders going, breathing in a way that frightened him more than the bowl had. The white in her hair caught the light from the fire below and it went all the way along the two places it had been going all night and it did not, as far as he could tell, go any further.
 
-He was watching for it. He had been watching for it since her hands came up. He had spent an entire morning in a Temple yard being taught by a man with a seam in his head what a purse is and what the gradient down the inside of it costs and where the bottom of it is, and he had been standing eight feet behind his mother pricing every grain of that to the grain, the way he priced everything, because it was the only useful thing he had.
+She did not turn round.
 
-What he got was that she had gone a long way down and had not reached anything.
+He waited for her to. Everybody on that shelf waited for her to. She stood at the front of it with her back to eight people and the whole of that bowl burning in front of her, and she took as long as she took, and nobody said her name.
 
-He did not know how far down it went. He had no idea at all. It was the first time in his life that a thing about his own mother had produced, when he put the question to it, a number he could not even estimate the shape of.
-
-She turned round.
+When she did turn round she was his mother.
 
 She looked at him for a moment across the shelf. Then she went to the princess and took her son back out of her arms and said something to her that Kael did not hear, and the girl said something back.
 
@@ -318,13 +352,13 @@ She looked at him for a moment across the shelf. Then she went to the princess a
 
 They moved.
 
-It bought them eleven minutes. Kael knew it was eleven minutes because he counted from the last olive coming apart to the first shout out of the dark behind them, and eleven minutes for four Resonants and a burning hillside was, he thought, about what it was worth, and there was no version of the arithmetic in which it was enough.
+It bought them eleven minutes. Kael knew it was eleven minutes because he counted from his mother closing her hands to the first order shouted in the dark behind them, which is a different sound from the one that had been going on the whole time and much worse to hear, and eleven minutes was what four Resonants and a burning hillside had been worth.
+
+His mother had emptied a bowl of everything standing in it. Elarine Sedrane had emptied herself. Valeria Vel had taken the front off a terrace. And on the other side of that fire the number had not meaningfully changed, because the number had never been the hundred in the bowl; it was whatever was left of the four hundred who had come up his father's path, and they were all still on this mountain, and they were all still walking this way.
 
 The forty for the others had become twenty-five. The rest were coming round the head of the slot on the old terrace and they had not been slowed by any of it, and they would be onto this ground before the runnel.
 
 He gave Severin the number without being asked for it.
-
-He had not been asked for anything all night. Nobody had asked him anything since the captain in his own yard, and the captain was dead on his own doorstep with no mark on him, and there was nobody left on that mountain whose business it was to ask a thirteen-year-old what he thought. So he said it into the back of the old man's head at a run, because the number was correct and somebody had to be holding it.
 
 "Twenty-five minutes to the runnel and they will be on the top of it in nineteen."
 
@@ -350,15 +384,15 @@ Kael looked at where they were standing and understood what the old man was goin
 
 Severin knelt down on the floor of the cut and put both palms flat on it, and the roots came up.
 
-They came up out of the walls on both sides and out of the floor between them: olive root and thorn root and the fine grey stuff that lives in a crack and holds a whole hillside together, and it came up through the stone the way a thing comes up through stone when it has decided to, in no hurry and with nothing able to be done about it. It went across the mouth of the cut and it went on going. It laced. It thickened at the crossings and put out fresh growth on the far side of itself, pale in the dark and wet-looking, with three-inch thorns standing off it in every direction.
+They came up out of the walls on both sides and out of the floor between them: olive root and thorn root and the fine grey stuff that lives in a crack and holds a whole hillside together, and it came up through the stone the way a thing comes up through like worms, in no hurry and with nothing able to be done about it. It went across the mouth of the cut and it went on going. It laced. It thickened at the crossings and put out fresh growth on the far side of itself, pale in the dark and wet-looking, with three-inch thorns standing off it in every direction.
 
 In about thirty seconds the way they had just come was a wall of live wood eleven feet deep.
 
-Then the old man moved his hands and a dozen of the standing pieces went out of the wall and through the gap on the far side of it at the height of a man's chest.
+Then the old man moved his hands and a dozen of the standing pieces went out of the wall and through the gap on the far side of it.
 
 There was a sound out there. It was short.
 
-"That is not a door," said Severin, getting up crooked. "That is a delay. They will burn it or they will cut it. It is green and it will take them a while."
+"That is not a wall," said Severin, getting up crooked. "That is a delay. They will burn it or they will cut it. It is green and it will take them a while."
 
 "How long," said Valeria.
 
@@ -368,13 +402,13 @@ Kael went past the wall of it at a run with his father's sword in both hands.
 
 He looked at it as he went. He could not help looking at it. Eleven feet of living wood driven up through solid rock in half a minute by an old man who had dropped four hundred feet of mountain an hour before that and had blood coming out of his face about it.
 
-And Kael had, in the whole of him, a line of earth about two fingers wide that he could put down the outside of his own palm, and a bundle of lightning he could hold in a piece of steel if there was anything left in him to hold it with, which there was not, and had not been since a yard on the far side of that mountain in the afternoon.
+And Kael had, in the whole of him, a line of earth about two fingers wide that he could put down the outside of his own palm, and a bundle of lightning he could hold in a piece of steel.
 
 He had been proud of those.
 
 That was the thing that arrived, at a run, in the dark, and it arrived whole and it did not need any working out.
 
-Two days ago he had stood on white sand in front of eleven thousand people and done two things at once for the first time in his life and put a girl's whole treasury on the ground with it, and he had gone up that hill afterwards with his ears hot, and eleven thousand people had made a noise for him, and a man on the road had taken his hat off, and somebody had painted two words on a bed sheet and hung it over a rail.
+Two days ago he had stood on white sand in front of eleven thousand people and done two things at once for the first time in his life and put a girl's whole treasury on the ground with it, and he had gone up that hill afterwards with his ears hot, and eleven thousand people had made a noise for him.
 
 He had thought that was the top of something.
 
@@ -384,17 +418,17 @@ His mother was forty feet in front of him with her second son inside her coat an
 
 *He had wanted to know what was on the other side of that sea since he was four years old.*
 
-It had come over and told him.
+It had now come over and told him. *You are nothing special.*
 
 ---
 
 The last mile was the worst mile of it.
 
-The ground under the runnel went from stone to broken stone to a kind of scree that had been a terrace once and had given up, and Aeliana went down on it twice more and the second time she did not get up straight away.
+The ground under the runnel went from stone to broken stone to a kind of scree, and Aeliana went down on it twice more and the second time she did not get up straight away.
 
 Elarine got to her first. Elarine was going on nothing at all by then and she got down onto both knees on the scree beside a princess of the empire and took her by the shoulders and said, "Up. Up. I am not going to be able to do it twice, so please do it now," and the princess got up.
 
-Her hands were in a state Kael could see from fifteen feet. She had been catching herself on stone with them for four miles. She had not said one word about it since the shelf.
+Her hands were in a state Kael could see from fifteen feet. She had been catching herself on stone with them for four miles. She had not said one word about it.
 
 Behind them, back up the cut, there was a light through the wall of roots and somebody was shouting instructions at somebody else about it in the downhill language, and it was not panic and it was not anger; it was a man telling three other men how to get through a hedge.
 
@@ -420,7 +454,7 @@ He got the sword.
 
 "One mile."
 
-"Kael." Her hand came off the coat and onto the side of his head, and her thumb went along under his eye and took the wet off it, once, and it did nothing whatsoever because there was more behind it. "*I have got you.*"
+"Kael." Her hand came off the coat and onto the side of his head, and her thumb went along under his eye and took the wet off it, once. "*I have got you. I love you.*"
 
 He could not answer that.
 
@@ -428,7 +462,7 @@ He could not answer that.
 
 ---
 
-The runnel let them out about six hundred strides above the water.
+The runnel let them out about six hundred strides above the water. Kael's body and mind were more pain than flesh. And he proceeded.
 
 It came out of the hillside low and sideways and without any warning, the way Severin had said it would, and Kael went out of the mouth of it into open air and cold and the smell of weed and salt, and the ground fell away in front of him in three big shelves and at the bottom of the third one was the sea.
 
@@ -442,7 +476,7 @@ He had never once been down at it.
 
 Below them, in a cut in the rock where the third shelf came down to the water and folded in on itself, out of any line of sight from anywhere, tied fore and aft to the stone with two ropes that had been put there by somebody who intended to come back — was a hull.
 
-It sat low and it was dark all over and it had one mast down along its own length and nothing standing anywhere on it. It looked like a piece of the rock. It looked like the least interesting thing on that whole coast, which Kael understood, with a clarity that arrived unwelcome and at speed, was the entire point of it, and had been the entire point of it since the autumn.
+It sat low and it was dark all over and it had one mast down along its own length and nothing standing anywhere on it. It looked like a piece of the rock.
 
 Nobody cheered. Nobody said anything.
 
@@ -456,13 +490,13 @@ The others were down at the boat. Severin was already up on it, doing something 
 
 He turned round and looked back up the mountain.
 
-He could not see the house. It was on the other side of the shoulder and had been for hours and there had never been any question of seeing it. What he could see was the top of the island, black against a sky the colour of the inside of a furnace, and a great deal of smoke going east, and the ridge line he had known since before he could walk, with nothing on it that he recognised at all.
+He could not see the house. It was on the other side of the shoulder and had been for hours and there had never been any question of seeing it. What he could see was the top of the island, black against a sky the colour of the inside of a furnace, and a great deal of smoke going east, and the ridge line he had known since before he could walk, with nothing on it that he recognized at all.
 
 Somewhere up there, on trodden dirt in a yard, facing the door of his own house, was his father's head.
 
 Kael stood on a rock above the water and did the only thing he had left, which was to be exactly accurate about it.
 
-He had let it happen. He had been standing eleven feet away with two blades and both his legs when his father put a sword into his hands and gave an order over his head about him, and he had said *Father, don't*, twice, and then he had let it happen. His father had come six miles across that island in the afternoon to pick him up off the ground in somebody's yard, and had gone back to that house carrying him, and had held that path for an hour and forty minutes standing between it and his own door, and every part of that had a boy in the middle of it, and the boy was him.
+He had let it happen. He had been standing eleven feet away with two blades and both his legs when his father put a sword into his hands. His father had come six miles across that island in the afternoon to pick him up off the ground in somebody's yard, and had gone back to that house carrying him, and had held that path for an hour and forty minutes standing between it and his own door, and every part of that had a boy in the middle of it, and the boy was him.
 
 Nobody had said any of that to him. He did not need anybody to. He had watched the whole of it with his own eyes and he had a machine in his head that would not stop putting things beside other things, and it had been putting them beside each other all the way down that mountain.
 
@@ -486,4 +520,4 @@ Kael sat on the boards of a boat with his father's sword lying beside him and hi
 
 It was the first time in his life he had been on the water.
 
-He had wanted it since he was four years old.
+*Finally, his dream had come true.*

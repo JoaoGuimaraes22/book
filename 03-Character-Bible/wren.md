@@ -1,5 +1,5 @@
 ## WREN (the brother)
-**Glance:** Kael's brother; second carrier of the bloodline · **BORN — hours old, on the page, with a strip of linen bound across his eyes** · going east down a broken mountain inside his mother's coat.
+**Glance:** Kael's brother; second carrier of the bloodline · **BORN — hours old, on the page, with a strip of linen bound across his eyes** · aboard a hull on the eastern water, hours old, with the linen still across his eyes.
 
 ### STATIC
 - **Name:** Wren — the mother teaches languages "for the birds"; her second son is a bird. (Why the name weighs what it weighs: 00.)
@@ -7,6 +7,8 @@
 - **Appearance (decided; 00 s20):** his mother's dark hair — and **HIS EYES ARE PERMANENTLY RED.** Born with the bloodline OPEN: massive capacity from birth, uncontrolled. His eyes resolve to the BLOODLINE, not to a parent: Kael's grey belongs to nobody, Wren's red to something older than anybody (the rest is in 00). A newborn carrying the devil-eyes of the folklore CANNOT BE HIDDEN — consequences flagged in 00, none of them designed.
 
 ### DYNAMIC
+- **HE CRIED ON AN OPEN MOUNTAIN** with men hunting the people carrying him, for a hundred and forty seconds, and stopped on his own, **and not one person said one word about it.**
+- **He has been handed to a princess of the empire and given back.**
 - **HE IS BORN**, delivered by Severin with a princess of the empire holding the lamp, in a room with a fight against the wall of it. **Named on the page by his mother:** *"His name is Wren."*
 - **HIS EYES ARE RED AND THEY ARE THE FIRST RED EYES IN THE MANUSCRIPT.** Kael got ONE of them, for a moment, when the linen rode up. **Nobody said the bloodline's name, and nobody explained anything to anybody.**
 - **HIS MOTHER BINDS THEM.** The answer to *a newborn with devil-eyes cannot be hidden* is on the page as an ATTEMPT, not a solution. How long a bound child can be carried through the world is open (00).
@@ -15,4 +17,4 @@
 - **The delivery is a mortal event** (00 s22 — a birth of the bloodline is violent, and this child was born extremely potent). It is why Severin must attend and why the family could not leave the island before the spring. **Kael is told none of that.**
 
 ### FORWARD
-- **Status:** going east down a broken mountain inside his mother's coat. What comes after is in 00; a series-long door.
+- **Status:** aboard the hull on the eastern water, against his mother, eyes still bound. What comes after is in 00; a series-long door.
