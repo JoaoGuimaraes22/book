@@ -71,10 +71,13 @@ The good cloth belongs only to the fair-haired boy, the mended wool
 only to the dark-haired boy, and the close dark clothing only to the
 girl.
 
-THE PICTURE IS COLD AND THE WARM IN IT IS NAMED: the flame and their
-skin carry the only warm colour, and the brick, the puddles, the moss,
-the wall and all the clothing are cool grey and grey-blue with no
-brown in them.
+COLOUR IS NAMED ON THE THINGS THAT HAVE IT, AND THE WARMTH IS NOT ONLY
+IN THE SKIN: the brick is a warm dark grey-brown with dull green moss
+in its joints, the puddles take the grey of the sky, and the wall
+behind is the same brick gone paler and cooler with distance. Their
+skin is warm, the fair-haired boy's hair is dark gold, and the small
+flame is the one bright saturated point in the picture. Everything
+else stays muted and earthy.
 
 HIS FACE IS THE MOST FINISHED THING IN THE PICTURE and carries the sharpest step from light to dark. The walking boy is
 looser and softer-edged, the girl on the wall looser again, and the

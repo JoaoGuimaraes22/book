@@ -290,6 +290,12 @@ The rule above says redundancy competes. **The stronger claim, and it is now evi
 
 **Which is the whole reason this is not a rule.** The third case had the same symptom as the second and the right answer was to leave it alone. **Look at the picture.**
 
+**AND THE FOLDER PUT ONE BACK BY HABIT ANYWAY, FOR ELEVEN BLOCKS, UNTIL THE AUTHOR KILLED IT AGAIN (s45).** Every plate block from `ch09` onward ended with some version of *X and Y and all the clothing are cool grey and grey-blue with no brown in them* — **a global colour ban, written into a folder whose author had removed the colour rules three sessions earlier.** It was never ruled; it propagated because each new block was written by copying the shape of the last one.
+
+**It is retired. Name the hues on the objects that have them.** *The brick is a warm dark grey-brown with dull green moss in its joints, the puddles take the grey of the sky* does the same work and does not flatten a picture into greyscale — and it is what `images/scene-tests/` does, which is the look the author named as the folder's best: *deep umber and warm charcoal*, *ink-black and dark olive*, per garment, banning nothing.
+
+**AND HALF THE COLD CAME FROM THE HOUSE HEADER, WHICH IS WRITTEN FOR PORTRAITS.** The inherited Colour paragraph ends *the warmth belongs to the skin alone, not the paper or the cloth* — true of a face on bare ground, wrong in a picture with brick, timber, water and cloth in it. §Plates already says a plate must override it and say where the warmth actually lands; **stacked with a global cool clause, the two of them cooled every plate twice.** The override is not optional: state the warmth positively, in the block, every time.
+
 ### Scale between figures — STATE IT AS MEASUREMENT (s40)
 
 **This is the most useful thing the scene system has learned, and it overturns an earlier finding.** A child rendered several years too old was blamed on the attached face reference outvoting the words. That was wrong. **Adjectives lose; ratios win**, and the reference is not the problem:
