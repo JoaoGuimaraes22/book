@@ -368,15 +368,49 @@ She did not put it out. She went into it with a line she was carrying and drew a
 
 Aurelian went down on his knees. Elarine got him under the arms and dragged him backwards along the wall with her heels skidding.
 
-Kael saw it happen and got nothing at all. The thin young one, Thiro, came up onto the yard, stopped ten feet short, and did something that had no visible part to it whatsoever. The air over the door went the way air goes over a hot stone in summer. The five men in front of that door put their hands to their collars, all five at once, in the same half second.
+Then the thin young one came for the door, and Kael watched all of it from twenty feet away with a blade in each hand.
 
-One of them got his gorget open. It made no difference. They went down where they stood, in order, from the left. The captain with the countryman's face was the last of the five, and he was still trying to get his sword up when he went.
+Thiro came up onto the yard and stopped ten feet short. He did not throw anything. Nothing came off his hands. He put his head a little on one side, the way a man does over a job he is measuring.
 
-Kael's instruments gave him a complete answer. There was nothing there to read. No reach to price. No distance that was safe. It was the wall's arithmetic again, in a body.
+The air in front of the door bent.
 
-Valeria Vel came out of the doorway over the top of the dead men and put both blades through the thin young one's forearm and shoulder before he had finished turning round. The air over the door went ordinary again. He went backwards off the step and away into the dark with his people closing over the top of him.
+That was the whole of what there was to see. Everything behind it — the doorway, the light coming out of it, the five men standing across the front of it — went soft and began to swim, the way ground swims over a flat stone in August.
 
-She was back in the doorway before Kael had got his own feet under him.
+The blood on the doorstep started to smoke.
+
+The first thing the five of them did was reach for their own armour.
+
+They did it together, in the same half second, and not one of them decided it. Hands went up to gorgets, to the buckles at the shoulder, to the mail at the throat, and Kael heard what a man's palm sounds like landing flat on iron that is too hot to hold. One of them got his fingers under the rim of his gorget and hauled, and it came away in his hand with the front of his throat on the inside of it.
+
+Then they tried to breathe.
+
+That was the part Kael could not stop watching. Five grown men opened their mouths at the same moment, and nothing went in, and nothing came out. There was no shout. There was no scream. There were five men standing in a line in front of a door with their mouths wide open and their hands at their collars, making a noise like a kettle at the very start of it, small and high and climbing, and not one of them could get hold of enough of anything to do better than that.
+
+The wet came off them in threads. It went up off the sweat on their faces and off the blood on their sleeves, straight up, in the still air over that door. Their hair went. The beards first, curling back to the skin with no flame anywhere near them.
+
+The nearest one was six feet from Kael and turned toward him on the way down.
+
+Kael saw his eyes. He would rather not have.
+
+They went from the left, one and then the next and then the next, going the way a man goes who has stood too long in the sun: at the knees first. They did not fall over. They folded up, and sat, and then lay, and went on trying to breathe on the ground for a great deal longer than seemed reasonable.
+
+The captain with the countryman's face was the last of the five. He had his sword about a third of the way up.
+
+Then it was finished, and the air came back down off that door and went out across the yard cold, over the pens and over Kael, and it was full of the smell of it.
+
+It smelled like food.
+
+There was not one mark on any of those five that a blade had put there.
+
+Kael's instruments gave him a complete answer. There was nothing to read. No reach to price. No distance that was safe. It was the wall's arithmetic again, in a body.
+
+Valeria Vel came out through that doorway before the last of them had finished dying.
+
+She went over the top of the five and across stones that were still doing something to the soles of her boots, and she was on Thiro before he had finished turning round. She put both blades through him, the forearm and then the shoulder, all the way through and out the back, and turned the second one before she pulled it out.
+
+He went backwards off the step and away into the dark with his people closing over the top of him, and he was screaming, and after the last thirty seconds it was the best sound Kael had ever heard in his life.
+
+She was back in the doorway before Kael had got his own feet under him. The whole side of her face that had gone past the frame first had come up red and shining, and she did not appear to have noticed it.
 
 "Behind me," she said.
 
