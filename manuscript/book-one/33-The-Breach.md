@@ -236,7 +236,7 @@ The old man sat back on his heels and did not answer that at all.
 
 Then she turned her head on the fleece and looked up at the girl standing over the two of them with the lamp.
 
-"And you," said Neris. "Thank you. You did that well."
+"And you," said Neris. "Thank you. You did well."
 
 Nobody had ever thanked the princess of the Vessantine empire for anything she had done with her hands. She stood in a herder's house with sick on her sleeve and the lamp at the height of an old man's shoulder, and did not manage to say anything back.
 
@@ -314,9 +314,9 @@ Kael had watched his father hold that path since the first sack going over, in p
 
 He had been holding it for an hour and forty minutes.
 
-It was still the most frightening thing Kael had ever seen and it had stopped being beautiful some time ago. The white was in the whole of him. It had not come off once, not for a second, in an hour and forty minutes, and it had gone thin. It was still in his arms, still in his chest, still going into the ground at every step. It was not the thickness it had been when he came in through a farm gate at the height of a man.
+It was still the most frightening thing Kael had ever seen and it had stopped being beautiful some time ago. The white was in the whole of him. It had not come off once, not for a second had it gone thin. It was still in his arms, still in his chest, still going into the ground at every step.
 
-His father was breathing like a man on a hill.
+His father's breathing could be heard from where he stood.
 
 He came down between the path and his own door and stopped, square, where he had been standing all night, with the longsword down along his leg.
 
@@ -334,7 +334,7 @@ His father put the longsword through the man's guard and into the top of his thi
 
 His father got up first.
 
-He got up first. He came forward. Pellan went back two steps for the first time all night, and Kael, thirty feet away with a dead man's blood drying on the back of his hand, felt something go up through him that he was ashamed of before it had finished arriving.
+He came forward. Pellan went back two steps for the first time all night, and Kael, thirty feet away with a dead man's blood drying on the back of his hand.
 
 His father set his feet.
 
@@ -356,21 +356,17 @@ It came in from the path, along under the burning pens, up out of the runnel, al
 
 Kael went backwards with the rest of them. He did not fight it. Ground you cannot hold is not ground.
 
-He killed a man on the way. He was not sure afterwards how. He came up under a spear, did something with the light blade, went past, and the man was down behind him. Somewhere off to his left a woman's line of fire ran along the ground faster than anything on that mountain had any business travelling. He was still going backwards.
+He slit a man's throat on the way. He came up under a spear, did something with the light blade, went past, and the man was down behind him. His clothes were more blood than cloth now. 
 
 Aurelian Corvane came off the wall of the house and stood up straight in front of eleven men and spent everything he had.
 
-It was enormous. It was genuinely enormous. It came up off his one good hand and went out across the front of the yard in a wall the height of the door and the width of the house. For about two seconds it was the biggest thing in the world, and the eleven men stopped.
+It was enormous. It was genuinely enormous. It came up off his one good hand and went out across the front of the yard in a wall the height of the door and the width of the house. For about two seconds it was the biggest thing in the world, and the eleven men scorched.
 
-The woman put her hand out sideways as she walked and took it apart.
+Then, a woman put her hand out sideways as she walked and took it apart.
 
-She did not put it out. She went into it with the line she was carrying and drew across it once. It came off its feet, folded down onto the stones, and lay there in pieces, burning nothing. She stepped through the middle of it without breaking her stride.
+She did not put it out. She went into it with a line she was carrying and drew across it once. It came off its feet, folded down onto the stones, and lay there in pieces, burning nothing. She stepped through the middle of it without breaking her stride.
 
 Aurelian went down on his knees. Elarine got him under the arms and dragged him backwards along the wall with her heels skidding.
-
-Then the last five of the royal guard died.
-
-They died at the door, in a line, doing their work, and there was no wound on any of them.
 
 Kael saw it happen and got nothing at all. The thin young one, Thiro, came up onto the yard, stopped ten feet short, and did something that had no visible part to it whatsoever. The air over the door went the way air goes over a hot stone in summer. The five men in front of that door put their hands to their collars, all five at once, in the same half second.
 
