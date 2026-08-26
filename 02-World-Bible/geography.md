@@ -15,3 +15,8 @@
 - **The continent (Book Two+):** empire heartland, subjugated nations, coalition territory. Map: TBD.
 - **The far continent:** officially doesn't exist. Clues only (00).
 - **THE TWO VISUAL REGISTERS (author, s33).** The **capital and the imperial houses are Latin-Byzantine** — `naming.md`'s register, and what dress, ornament and arms look like there. **The ISLAND keeps its own material culture**, which is not the empire's and not a lesser version of it — the same fact `naming.md` rules for conquered places (the empire does not rename what it takes; the survival of somebody else's name is a small political fact nobody remarks on), carried by dress too. **Forward rule:** a character reads by WHERE THEY ARE AND WHAT THEY ARE DOING, not by their house — Valeria in training kit on the island reads island; Valeria in Vel colours at the capital reads imperial.
+
+### SEALED — author-ratified only; never on the page (rolled from 00 at s46)
+#### THE FAR CONTINENT
+- A deeper enemy/mystery beyond the known world; clues exist from Book One (the pale-making word in Kael's "bird languages," the chart with a coastline that officially doesn't exist, the third-hand glimpse in the raid).
+- The origin/nature of magic braids into this thread. Two mysteries that turn out to be one. (Now includes: whether the elemental taxonomy is all there is; what Kynemir's particle/infection truly is; where the bloodline comes from.)

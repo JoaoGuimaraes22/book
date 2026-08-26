@@ -13,7 +13,8 @@
 
 ## ACCUMULATORS
 - [chapter-records.md](chapter-records.md) — one canonical record per committed chapter of the CURRENT PART (summary + FACTS tail). Read at every open, skipping chapters read in full from `manuscript/`. **Per-Part roll:** when a Part closes, its records move to the parts file.
-- [chapter-records-parts-1-3.md](chapter-records-parts-1-3.md) — Ch. 1–22. Spot-read on demand; continuity for these chapters is carried by the law core, the 03 sheets and the clue ledger.
+- [chapter-records-parts-1-3.md](chapter-records-parts-1-3.md) — Ch. 1–22. Spot-read on demand; continuity for these chapters is carried by the law core, the 03 sheets and the clue ledger. **§SEALED at its foot holds the off-page truths of Ch. 6–7** (rolled from 00 at s46; author-ratified only).
+- Spent design canon rolled out of 00 at s46: `../archive/author-canon-spent.md` — history, not cold-read.
 - [protected-phrasings.md](protected-phrasings.md) — on-page coined phrasing; parsed by `scripts/check-echoes.sh`. **Not cold-read** — run the script on every new or revised chapter instead.
 
 Per-book roll: at the book boundary the accumulators roll to `*-book-N.md`; the law core never moves. No word counts here — `wc -w` prints them.

@@ -22,7 +22,7 @@
 - **He let the master bring fifteen of the empire's people onto his mountain**, and spent four words on it.
 - **Previously:** carrying his son up the mountain at the last of the light, at a speed no ground goes past at.
 - **HE HAS BEEN SEEN, AND THE RULE IS SPENT (Ch. 30).** Whole-body threading — lightning held in the entire body at once and *not coming off*, the inward art in the wrong element (02/magic); a longsword out of the chest with the same white the length of it; a speed that reaches Kael as ABSENCE rather than as motion. He was breathing hard. **He does not beat the general** — four or five exchanges, no ground given either way — he interrupts, kills the ordinary men, and takes his son out. Never let a later page explain any of it.
-- **THE COALITION'S SENIOR COMMAND KNOWS HIM ON SIGHT (Ch. 30).** *"Well. The Phantom." … "You have aged."* He answers nothing. **Kael heard it.** Never joined up on any page, by anybody, ever (00 §THE PHANTOM).
+- **THE COALITION'S SENIOR COMMAND KNOWS HIM ON SIGHT (Ch. 30).** *"Well. The Phantom." … "You have aged."* He answers nothing. **Kael heard it.** Never joined up on any page, by anybody, ever (03/vask.md §SEALED — THE PHANTOM).
 - **HE SPENT THE LEG ON THE SON (00 s39).** Split three ways, holding two at most, he went for Kael — which means somebody else was holding the house. **The page never says so and Kael is never given the arithmetic.**
 - **He apologised to his son**, which is new, and answered the question Kael got out about his mother — *"Mother. Is she—"* — with the child and not with her: *"The baby. It's coming. I'm sorry I couldn't find you sooner."*
 - **His prohibition and the twin shorts are still unanswered** — he has now seen what his son did with them all day and has said nothing about it.
@@ -37,5 +37,11 @@
 - **Knows:** the escalation (via Severin); the public flash, in full, from Kael's own mouth; the bouts and the blades, told whole. **Does not know:** the hidden contact; the bind idea; who Halden is — the name meant nothing to him.
 
 ### FORWARD
-- **Status:** DEAD (Ch. 33). He is MEMORY from here; the archaeology is closed. The last hour's geometry is spent and its arithmetic is sealed — he went for the son, nobody held the house, and Kael is never given it (00 §THE BIRTH AND THE SEMIFINAL).
+- **Status:** DEAD (Ch. 33). He is MEMORY from here; the archaeology is closed. The last hour's geometry is spent and its arithmetic is sealed — he went for the son, nobody held the house, and Kael is never given it (archive/author-canon-spent.md §THE BIRTH AND THE SEMIFINAL).
 - **The chest (00):** paid — the sword reached the page in his hand (Ch. 30) and went into his son's (Ch. 33), given, not thrown, under the paternity rule: the monument, never the undoing. Neris's dagger travels a different road (`neris.md`).
+
+### SEALED — author-ratified only; never on the page (rolled from 00 at s46)
+#### THE PHANTOM — Vask's war-name (author, s39)
+- **The coalition's senior command knows Vask by a war-name: THE PHANTOM.** Spoken to his face on the page (Ch. 30) by the general, who recognises him on sight, from the whole-body threading, after more than a decade — *"Well. The Phantom." … "You have aged."* Kael hears it, is half-conscious, and can do nothing with it. **It is the largest piece of his parents' archaeology he has ever been handed, and it arrives in an enemy's mouth.**
+- **WHERE IT COMES FROM IS RESERVED.** Program-era, pre-rebellion; whether the coalition learned it as an adversary, or through the alumni embedded in its own cadre (§The Program, Option 2), is OPEN and is a door.
+- **THE RHYME WITH "THE GHOST" IS THE POINT AND IS NEVER NOTICED.** The island named the son *the Ghost* out of the cheap seats (Ch. 23) knowing nothing; the world named the father *the Phantom*. **Under §THE PATERNITY this is the chosen-over-given thesis arriving early:** the boy got a version of his father's name by accident, for a thing he was taught rather than a thing he inherited. **HARD RULE: nobody joins them up — not Kael, not Vask, not the narration, not any later chapter.** The reader may. Nobody in the book ever does.

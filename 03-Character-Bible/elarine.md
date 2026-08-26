@@ -37,3 +37,8 @@
 
 ### FORWARD
 - **Arc:** the public cost paid by degrees; the gap-noticing door stays cracked — never resolve on the page.
+
+### SEALED — author-ratified only; never on the page (rolled from 00 at s46)
+#### ELARINE — the coat-wire (open valve)
+- Elarine Sedrane, learning WITH Kael across Part II, becomes the person most likely to breach the coat. Rule: she may notice HOW he thinks, never WHAT he already knew — the gap between those two is where her thread runs hot against the concealment thread (beat 10 onward).
+- Whether she someday notices the gap and files it silently — her own shut-door room — is a door left cracked. DO NOT RESOLVE without a dedicated session.

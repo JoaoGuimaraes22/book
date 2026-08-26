@@ -1,6 +1,8 @@
 # 03 — Character Bible (index)
 **Status:** Sheet format: Glance / STATIC / DYNAMIC / FORWARD, appearance inline. Refresh DYNAMIC for every character a chapter touches, at each close. History: `git log` and `../archive/session-log.md`.
 
+**`### SEALED` sections** (author-ratified only; never on the page) hold each person's off-page truths — rolled from 00 at s46; `parents-sealed.md` holds the joint ones.
+
 **THE GLANCE CARRIES NO CHAPTER STAMP.** It states what is true now; nothing dates it. `git log` says whether a sheet is current.
 
 Template per character: Name/Role · Want · Wound · Flaw/Limit/Awkwardness · Voice · Arc · Status.
@@ -12,6 +14,7 @@ Sheet structure (session 18 addendum): **Glance** line (Role · Faction · Age �
 - [VALERIA VEL](valeria.md)
 - [VASK (the father)](vask.md)
 - [NERIS (the mother)](neris.md)
+- [THE PARENTS — SEALED TRUTHS (both of them)](parents-sealed.md)
 - [SEVERIN (the master)](severin.md)
 - [WREN (the brother)](wren.md)
 - [THE COALITION'S FIVE — PELLAN · DUNMAR · THIRO · FENNA · GALLOS](coalition-generals.md)

@@ -52,3 +52,9 @@
 - **The father:** his letters do not mention the boy — they ask how a Vel came to be standing where a waster could reach her (Ch. 16), and *they will be pricing you. Do not be cheap.* (Ch. 17).
 - **The unfinished duel:** never fought; no winner; unresolved for the entire series (00).
 - **End of Book One:** ~13–14; in the boat.
+
+### SEALED — author-ratified only; never on the page (rolled from 00 at s46)
+#### VALERIA & THE DUEL
+- Kael vs. Valeria. **It is never fought.** The bell strikes to begin the semifinal and the invasion arrives in the same instant; there is not one exchange between them on any page (SPENT — Ch. 27). No winner, and no fight to have had a winner.
+- **What Kael takes out of it:** he had a year to find a way to beat her and never found one, and she asked him on the sand and he told her the truth. The question is never answered, in any book.
+- Unresolved for the entire series; the rematch, whatever it means by then, is reserved for very late in the saga.

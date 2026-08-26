@@ -26,3 +26,8 @@
 - **The guard:** her twelve die in the invasion as security collapses inward around her (04 beat 19) — why she reaches the boat with two children and no guard.
 - **Arc:** long arc undecided (00).
 - **End of Book One:** in the boat; a symbol learning to boil water.
+
+### SEALED — author-ratified only; never on the page (rolled from 00 at s46)
+#### THE PRINCESS — AELIANA CASSIVARA VESSANTINE
+- Escapes with Kael and Valeria. The living symbol of the empire at close range; the Trojan horse into the imperial storyline. Her long arc (reformer / pawn / tyrant / ally of the final design) undecided.
+- Naming device (canon, see 03): the name shortens as her empire recedes; "Liana"/"Ana" reserved as intimacy beats.
