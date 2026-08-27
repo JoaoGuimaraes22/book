@@ -106,7 +106,7 @@ And that was all anybody said about it, for the rest of that day and the whole o
 
 Aurelian started talking again a little before noon, and Kael only noticed because of the silence that had come before it.
 
-"—so it is south from here, or it is nothing," Aurelian said, to the sky. "You would go south and then east along the shoulder of the continent. There is no other road. You cannot go north. North is a month of nothing and then it is theirs."
+"—so it is north from here, or it is nothing," Aurelian said, to the sky. "You would go north and then west along the shoulder of the continent. There is no other road. You cannot go east. East is a month of nothing and then it is theirs."
 
 "You have never been on a boat in your life," said Elarine.
 
