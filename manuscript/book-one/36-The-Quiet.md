@@ -222,11 +222,9 @@ He was not aware of standing up. He got about a stride and a half and his arm wa
 
 She had not appeared to move quickly. She had simply arrived, the way she arrived, and her hand closed and stopped, and the arm stopped with it, and Kael found out in about a quarter of a second that there was nothing he could do about that at all. She was standing closer to him than she had ever stood. Half her face was burned red and shining down one side, and her left arm was still carried in against her ribs, and she had done it with the other one.
 
-She did not say anything.
+She did not let go.
 
-She did not let go, either.
-
-"Kael, stop it. Please." said Valeria.
+"Kael, stop it. Please," said Valeria.
 
 He pushed.
 
