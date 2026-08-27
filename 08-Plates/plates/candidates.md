@@ -451,7 +451,7 @@ Every entry was checked against **THE PLATE FOLLOWS THE PAGE** when it was writt
 
 *Written at s53, at design time.*
 
-1. ★ **The white room.** — **BUILT (s53): sheet `ch35.md`.** Eight people on the boards of a boat inside a room made of steam, the walls of it standing on the sea and going up past the mast, lit from underneath through the water, and the sky above it open and black. **The best thing in Book One that nobody had drawn.**
+1. ★ **The white room.** — **BUILT AND ADOPTED (s53): `images/plates/ch35-the-white-room.png`, first run; sheet `ch35.md`.** Eight people on the boards of a boat inside a room made of steam, the walls of it standing on the sea and going up past the mast, lit from underneath through the water, and the sky above it open and black. **The best thing in Book One that nobody had drawn.**
 2. ★ **The spotter.** — **BUILT AND ADOPTED (s53): `images/plates/ch35-the-spotter.png`, first run, on the author's optimised block; sheet `ch35.md`.** A boy kneeling at the strake with a day-old child up on his shoulder and his hand flat on its back, mouth wide open on a shouted word, calling a man's feet for his mother. **Two open mouths and neither of them is heard.**
 3. **The mother in the bow.** Standing up in it facing the island with her hands loose at her sides, and then not choosing any more. **Passed over:** `ch34/the-bowl` with water in front of her instead of stubble.
 4. **The sail going over the side.** Valeria up on the thwart with a wet coat and Aurelian taking the bottom of it one-handed, walking a burning sail over the side while it is still going.
