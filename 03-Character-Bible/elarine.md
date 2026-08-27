@@ -1,5 +1,5 @@
 ## ELARINE SEDRANE (the watcher — pride that learns)
-**Glance:** the cohort's real mind; collegial ally · House Sedrane · ~13 · **alive and aboard; her house survives her mother, and it will go on with her.**
+**Glance:** the cohort's real mind; collegial ally · House Sedrane · ~13 · **at Qeshet, inside the princess's lie with four true words; the second fire under the still, and the better one**
 
 ### STATIC
 - **Role:** Considers herself the cohort's real MIND (Aurelian its capacity, its name, its noise) — and she is right. With Aurelian: the two responses to being out-thought — his world breaks, hers gets bigger. Proof the golden children are not a monolith.
@@ -16,7 +16,9 @@
 - **Appearance:** Ink-dark hair bound severely; pale, economical — nothing on her that doesn't work; small; dark eyes that price before they blink. Forgettable at a glance and unforgettable the third time you notice she hasn't moved. What others react to: they mostly don't — which she has noticed, and wears as neatness.
 
 ### DYNAMIC
-- **Aboard; her house survives and her mother does not, and the machine that disposes of her is untouched:** *my house will go on with me.* She has worked out that the compliment was said because the woman knew she was dying, **and she does not know what to do with it, which has never once happened to her.**
+- **She is inside the lie** — *In my cohort also. Four years.* — true, given after Aurelian's, and nothing more.
+- **She was the second fire under the still**, two hours an evening for a month, smaller, steadier and hotter; she tilted the lid and the yield rose; no mark on her. Her sword came up on the sand with the left hand open and nothing in it; after the healer she sat on the ground and looked at her hands.
+- **Her house survives and her mother does not, and the machine that disposes of her is untouched:** *my house will go on with me.* She has worked out that the compliment was said because the woman knew she was dying, **and she does not know what to do with it, which has never once happened to her.**
 - **Her mother's goodbye answered this sheet's wound:** instructions first, in the house's only dialect; then *"Not one of them has ever been good enough. I have known it since you were four years old, and I have never once said it to you… I was not going to have you softened."* / *"I am not encouraging you. Encouragement is for people who need it."* She has not repeated it or quoted it.
 - **She said it out loud when Aurelian made her:** *"They are probably dead."*
 - **She comforted Kael and it cost her nothing she noticed** — *I am sorry* — a hand flat on his back for a moment and taken away again.

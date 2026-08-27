@@ -23,4 +23,5 @@ Sheet structure (session 18 addendum): **Glance** line (Role · Faction · Age �
 - [RUTHEN (the yard-master — named session 8; formerly "the white-streaked master")](ruthen.md)
 - [LUCAN DRUSANE (the worker — petty revenge with feet)](lucan.md)
 - [HALDEN (the judge — the smiling man; introduced Ch. 13)](halden.md)
+- [HAZOUN SABRANE (the governor of Qeshet)](hazoun-sabrane.md)
 - [APPEARANCE REGISTER (rules — entries live in each character sheet)](appearance-ledger.md)

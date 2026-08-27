@@ -1,5 +1,5 @@
 ## NERIS (the mother)
-**Glance:** Kael's mother; teacher of the mind · ex-asset of the program — bearer of the bloodline (00) · age unpinned, **and the same as Vask's (author, s34)** · **widowed, marked in three places, and running a boat the way she ran a house; her elder son did not ask her the question, and she knows it.**
+**Glance:** Kael's mother; teacher of the mind · ex-asset of the program — bearer of the bloodline (00) · age unpinned, **and the same as Vask's (author, s34)** · **at Qeshet as *the Lady Drusane* in the empire's letter; the still was her idea; the linen is explained on a page, by her, as damage from the birth**
 
 ### STATIC
 - **Name:** Chosen, not given (00). Belongs to no naming register; villagers assume it foreign; its true nature is sealed (00) and unexplained on the page.
@@ -11,6 +11,10 @@
 - **Appearance:** Dark-haired, dark-eyed; passes as village until she is still — then the stillness has a quality the village doesn't make. Fine bones under worked hands; the hands know too many trades — the lie's weak point. Handsome and unremarkable in the same breath, with ages of watching in the face.
 
 ### DYNAMIC
+- **SHE SAT AT THE EMPIRE'S TABLE AND WAS ASKED HER NAME** for the first time in thirteen years, and went still — the stillness the village does not make — and a princess answered for her: *the Lady Drusane*. She did not refuse the name and has not accounted for it; a rider carries it to the capital.
+- **SHE HAS EXPLAINED THE LINEN, ONCE, TO THE EMPIRE:** damaged at the birth, the light hurts them, bound until she says otherwise and not for a long time, *anybody who takes the cloth off him will do him harm* — in the trial-voice, for a letter. The house's healer reached for the child and was refused — *Nobody here is qualified to but me* — and she changed the strip herself, in a corner, with her back to the room.
+- **THE STILL WAS HERS** — *We must boil the sea* — given in the formal register to the two fire Resonants and to nobody else, and then nothing further. She took the largest cup for a month, two and then three, and nobody discussed it; the princess's cup came down the boat to her and she drank it.
+- **She spent no Art on the water or ashore**, handed the child to the old man on the sand and let her hands come down loose, and walked a mile inside six spears as a woman carrying a baby, every step knowing where every spear was. Her hands are a herder's, and the governor looked at them before he wrote.
 - **Widowed, marked in three places, running a boat the way she ran a house.** The first two marks came from mending her son's broken ribs with nature out of her own element, in labour — quartz-clean and permanent, and he watched them arrive; the third came in the night nobody watched, at the front of her hair, and he found it at first light and priced it to the grain. Nobody says what any of it cost and nobody will.
 - **SHE KNOWS HE DID NOT ASK.** She felt him take the breath, and did not offer him anything. *Ask me on the water* stands as a promise instead of an answer, with the reason she gave — she has nothing to spend on it, and he would get it badly and have it badly for ever. **She has not volunteered it.** She is aboard for Book Two; nothing of the past is owed before it opens.
 - **She held her son while he went, and told him none of the useful lies** — not that it was not his fault, not that there had been no time. She ran the debrief because it is what she has, and when it stopped being one she simply held on to him.

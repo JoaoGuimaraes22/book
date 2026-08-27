@@ -1,5 +1,5 @@
 ## VALERIA VEL
-**Glance:** rival → first friend · Line of Vel (eleven generations — tiers in `../02-World-Bible/factions.md`) · 13 (Kael's age) · **aboard the hull; she let him say it and stopped his hand, and she has still not asked one question about that mountain.**
+**Glance:** rival → first friend · Line of Vel (eleven generations — tiers in `../02-World-Bible/factions.md`) · 13 (Kael's age) · **at Qeshet, on the princess's left; she came out of the sea with both blades drawn, drank first from the watch's skin, gave the governor's clerk two words, and said nothing while the princess lied**
 
 ### STATIC
 - **Role:** Daughter of the Line of Vel. Kael's rival, then first friend. The rest of her role is in 00.
@@ -13,7 +13,9 @@
 - **Appearance:** Lean, strong, athletic — a working build that reads as function even at rest. Long black hair worn loose well past the shoulders, no ornament (lengthened s33 — the page moved with it, Ch. 14). Emerald green eyes — color spent at reading distance only; worn plain and bored as display (the boredom died against Kael). Her stillness WARNS — nothing like his. Knuckles older than her face; guard-lineage calluses. Rooms rearrange around the name before the girl; reverence draws her one untrained tell, the microscopic flinch — **SPENT at Ch. 27** (the s32 close DE-LISTED it: available, not owed).
 
 ### DYNAMIC
-- **Aboard, on the princess's left at the distance she keeps.** Twelve royal guard are dead and she is the only protection left: from here she is what stands between that girl and the world, **and it is her purpose and she does not want to be anywhere else.** She has not been off the princess for one minute of it — carried her out at a dead run, set her down, went into the water to her waist for the stern rope.
+- **At Qeshet, on the princess's left, the only protection left,** and it is her purpose. She gave the governor's clerk two words — *Valeria Vel* — and the pen stopped over them; she stood behind the princess's cushion until the governor asked her to sit; she did not join the lie and did not contradict it.
+- **She was in front of the princess before the count finished**, out of the sea with both blades drawn and no hurry left in her to use; when the watch knelt she let the points come down last of anybody and did not sheathe them. She drank first from the watch's skin before it reached the princess, and the captain saw it and said nothing. She carried the princess out of the sea.
+- **Thirty days on the hull:** thin the way a blade grows thin; never once sat where she could not reach the girl in one movement; the burn healed to a shine by nothing but time and is now oiled and dressed; the left arm out of the coat at last and bound properly by the south's healer.
 - **SHE STOPPED THE HAND AND NOT THE MOUTH.** She did not move while Kael blamed the princess to her face; she was in front of him before the arm was anywhere, said *"Kael, stop it. Please,"* and held while he pushed, and it was his mother's voice that ended it. **This is not the crown-vs-Kael choice** — she stopped the body so as never to have to make it, and nobody can call her on it. **The choice is still not made.** Afterwards she lied for him, mildly and correctly — *"He is tired, Highness."* — and put her feet back where she keeps them.
 - *Please* is on the page on two occasions in Book One — Ch. 27 (twice on that page) and Ch. 36.
 - **SHE HAS CROSSED THE WHOLE OF THAT MOUNTAIN, STOOD IN ITS YARD, WATCHED THE WHOLE OF IT FALL, AND HAS STILL NOT ASKED ONE QUESTION ABOUT IT.** A year, a treeline, a sea court, a road, the yard, the boat. **That is hers, not leverage.**
@@ -33,7 +35,7 @@
 - **She is cold all the time and has never not been** — a fact about her body, inside an explicit refusal to have it made into the other thing. There is no word in her house for friendship or for love and she does not experience the lack as an injury: *"Then do not stand beside me. Stand in front of me. It is worth more."* Her family's care arrives as correction, by post.
 - Does not sleep.
 - **Knows:** the flash was not wet light; that Kael has the enemy's tongue; what she saw in that yard and on that shelf. **Does not know:** what the flash was; anything of the mountain — she has never once asked, then or ever, and that is hers.
-- **Body:** the whole side of her face that went past the frame first, come up red and shining; the left arm carried against her body; old white lines on the forearms and four new ones; knuckles older than her face.
+- **Body:** the burned side of her face healed to a shine, oiled and dressed; the left arm bound properly at last; thin without changing shape; old white lines on the forearms and four newer ones; knuckles older than her face.
 
 ### FORWARD
 - **Arc:** flawless mask → cracks → the choice in the fire was taken off her at the gate, and on the boat she stopped a body rather than make it → **the crown-vs-Kael choice is still not made, deferred to when it hurts more** → (00).

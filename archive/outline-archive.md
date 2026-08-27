@@ -107,3 +107,6 @@ Beats 16–20 are SPENT and keep one-line pins in 04; beat 15's spent half is pi
 
 **§Book Two+ — the pre-s49 line:**
 - Opens with the trio. Empire vs. coalition; the compass slowly rotates (the "enemies" humanize; the empire's rot surfaces). Long threads: 00.
+
+**§Book Two+ — the s49 opening bullet, spent at Ch. 37 (rolled s55):**
+- **Opens on the water, not with the trio (author, s49):** eight aboard a mastless hull one day out — Kael, Neris, Wren, Severin, Valeria, Aeliana, Elarine, Aurelian — about nine days of water, drifting roughly a month, landfall on the **south coast of the continent**. The trio still crosses the continent together; the book no longer ends at the moment it becomes three.

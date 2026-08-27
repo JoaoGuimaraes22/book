@@ -570,3 +570,10 @@ Two classes are admitted that are not "good lines", and both are explicitly mark
   - "I want you to know that I looked." *(Severin — the promise answered without either of them naming it)*
   - "the white of the seam in a stone when you split it" *(the drain-mark's first rendering as an event)*
   - "Men who intend to hold ground stop for the dark. Men who intend to clear it do not."
+
+- **Ch. 37 — "The Still"**
+  - "It is a month, and I am counting it again." *(the overture — the sixth slip, and Book Two's first line)*
+  - "the sea brings us a great many things that say they are what they are not" *(the captain of the watch, doubt as courtesy)*
+  - "Nobody here is qualified to but me." *(Neris, refusing the healer the linen — RATIFIED VERBATIM, the author's own wording)*
+  - "You are your mother's. It is not always a compliment." *(Severin at the governor's door, sourced to nothing)*
+  - "a name that was not his" *(the chapter's last line — Kael under Lucan Drusane)*

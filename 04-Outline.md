@@ -46,12 +46,14 @@
 ---
 
 ## Book Two+ — The Continent
-- **Opens on the water, not with the trio (author, s49):** eight aboard a mastless hull one day out — Kael, Neris, Wren, Severin, Valeria, Aeliana, Elarine, Aurelian — about nine days of water, drifting roughly a month, landfall on the **south coast of the continent**. The trio still crosses the continent together; the book no longer ends at the moment it becomes three.
+- **Opens on the water, not with the trio (author, s49).** — SPENT: Ch. 37 "The Still" (thirty days; the still; landfall at QESHET on the south coast; all eight ashore; the governor's table and the letter). The trio still crosses the continent together. Text: `archive/outline-archive.md`.
 - **Inherited unspent, owed in Book Two:** the separation and its no-farewell · the Phantom, asked-and-declined · the word in a raider's mouth and the mother's face · Severin's hull and *ask me the rest of it on the other side of that water* · the crown-vs-Kael choice · Halden's fuse · Wren's eyes · Neris's true capacity · **Kael's three wants, one of which is aimed at the wrong enemy.**
+- **The map (author, s55):** the island south of the continent; the empire its west, the coalition its east; Qeshet on the south coast; the road to the capital runs north and then west along the shoulder (`02-World-Bible/geography.md`).
 - Empire vs. coalition; the compass slowly rotates (the "enemies" humanize; the empire's rot surfaces). Long threads: 00.
 - TBD.
 
 ## Queued threads (unspent; no fixed beat — place at drafting)
+- **THE DRUSANE LETTER (Ch. 37).** The princess wrote Kael, Neris and Wren into the empire as House Drusane — *Lucan Drusane, the Lady Drusane, and the child* — in a governor's letter that left Qeshet for the capital the night they landed; Aurelian and Elarine are inside it with true sentences about the dead boy; Severin heard it and said nothing; Valeria gave only her own name. Kael has decided her reason was pride. What the capital, and House Drusane, do with a dead boy alive is unspent; so is what the princess does with a lie she had never told before.
 - **The history discrepancy.** The Temple teaches official history — complete, confident, the empire's version. Somewhere a small detail contradicts one of his mother's rationed scraps; Kael silently believes his mother, without knowing why, and files the discrepancy. First crack in the empire's account of itself. *(Reserved beat, placement flexible.)*
 - **The Sanctum fingerprint — follow-ups.** The architecture of her teaching shows: curriculum, sequence, a system of asking no village origin explains. Kael notices the grain, files it, does not knock. METHOD ONLY — no source, no name; the Sanctum is SEALED, bible-only (00).
 - **Halden's next move.** The fuse is live and now doubled: the hidden contact still concealed from the parents, and the dossier holds the public flash — lever-grade twice over.

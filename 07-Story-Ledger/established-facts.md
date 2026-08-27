@@ -17,6 +17,8 @@
 - **THE COALITION'S FIVE — PELLAN · DUNMAR · THIRO · FENNA · GALLOS** (Ch. 33; register in `../02-World-Bible/naming.md`). Named on the page **in their own mouths only**; **the word *general* appears nowhere in Book One**, no rank, no number, no structure. One name each, no house. **PELLAN is the man of Ch. 30** — unnamed there, named at Ch. 33 by the others, and killed by Vask. The other four survive the island. Sheet: `../03-Character-Bible/coalition-generals.md`. The five names are taken.
 - **THE NOBLES' DISTRICT** — the island's walled noble quarter, named on the page Ch. 27 in Valeria's mouth (*"It is the only wall on this island that was built to be a wall"*). **Controlled term: DISTRICT, never *quarter*** — geography in `../02-World-Bible/geography.md`.
 - **THE COLLEGIUM** — the CAPITAL's Resonant school, named on the page at Ch. 22 (*"Five from the capital's Collegium, in red and black"*). The northwest school's name is still unminted.
+- **QESHET** (Ch. 37 — the south's register, `../02-World-Bible/naming.md`; an imperial-held native city on the continent's south coast, named in the governor's mouth). **HAZOUN SABRANE** — its governor; a southern given name and an imperial house name (sheet: `../03-Character-Bible/hazoun-sabrane.md`). SABRANE is taken as a house. The captain of the watch and the old woman who mends are unnamed; no sheet, none owed.
+- **"LUCAN DRUSANE" IS ALSO KAEL'S NAME IN AN IMPERIAL LETTER** (Ch. 37): the princess gave it to the governor of Qeshet for the rider to the capital, with *the Lady Drusane* for Neris and *the child* for Wren. The dead boy's sheet stands; the alias is live.
 
 ### Naming law
 - Parents' names are CHOSEN, not given (00). No "real" names exist beneath Vask and Neris.
@@ -44,3 +46,5 @@
 - **Eight get off the island alive:** Kael, Neris, Wren, Severin, Valeria, Aeliana, Elarine Sedrane, Aurelian Corvane. The hull loses its mast on the way out and drifts. The trio still crosses the continent together; Book One no longer ends at the moment it becomes three.
 - The raiders are COALITION forces. Kael's initial truth: they are the enemy.
 - The master placed the parents on the island, and brought Kael to the Temple as "the master's charity case."
+- **BOOK TWO OPENS AT CH. 37** in `manuscript/book-two/`: thirty days on the hull, no rain, the still; landfall at Qeshet on the south coast; all eight ashore; the hull gone. The map: the island south of the continent, the empire west, the coalition east (author, s55).
+- The longsword rides on Kael's back on a length of cord; he fights with the mismatched pair (author, s55).
