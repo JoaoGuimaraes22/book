@@ -288,22 +288,92 @@ Aurelian went through that door as though he had been born on the other side of 
 
 "You are your mother's," said the old man, near his ear, without turning. "It is not always a compliment."
 
-The rooms were off a court. There was a tree in the court, one of the tall ones, and a basin under it, fed by a pipe out of the wall; the water ran over the lip on the far side into a channel and went away under the floor, and it did not stop. There were rooms round three sides of the court with cloth hung over the doorways instead of doors, cushions in them, low beds, and a coolness that came up out of the floor. They were given all of them and took the first, because it was the first; and a woman of the house came with a tray, bread on it, a bowl of something, a jug, and set it down and went, and came again.
+The rooms were off a court with a tree in it, and water ran in a stone basin under the tree, and they were not allowed to drink it. A woman of the house stood between them and the basin with a jug and gave it out a cup at a time, slowly, in the voice people use to animals that will hurt themselves; and Kael took the cup and drank what was in it and did not argue.
 
-Kael drank.
+Then they were taken apart and mended.
 
-He stood at the basin and put his hands in it, and his face, and drank out of his hands, and did not count — not the cups, not the days, not anything. It ran over his wrists. He had been going to do something about the quantity of it, and found that he had no instrument for the quantity of it, and let the instrument go.
+There was an old woman who did it. She had a room of her own off the court, with a low bed in it and a brazier and a great many small stone jars, and she took them one at a time, the princess first, and did to each of them what a month of salt and sun had made necessary, and did not hurry, and did not talk. Kael sat against the wall of the court and waited his turn, and watched the ones who came out.
 
-When he turned round the four of them were down. Aurelian on a bed with his boots on and his mouth open, Elarine across the foot of it, the princess on cushions with her wrapped hands on her chest, and Valeria on the floor between the princess and the doorway, sitting up, with her eyes shut and her hand on a blade; and Kael would not have bet on whether she was asleep, and did not go near enough to find out.
+The princess came out with her hands unwrapped for the first time in thirty days, clean, shining with oil, and open, held a little away from her sides as if she had been told not to close them. Valeria came out with the burned side of her face oiled and a strip of clean linen over the worst of it, and her left arm out of her coat at last and bound properly, and stood where she had stood before, on the princess's left. Aurelian came out asleep on his feet. Elarine came out and sat down on the ground and looked at her own hands for a while.
 
-Severin sat on the edge of a bed in the middle of the room, which was where he had been for thirty days, and did not seem able to sit anywhere else.
+When his turn came the old woman took his coat off him and his shirt, and looked at the whole of him the way his mother looked at a carcass on the block, without any opinion, and then began at the top. The salt had opened his lips and the corners of his mouth and the skin behind his ears and across the tops of his shoulders where the coat had rubbed, and there was a rash the length of both forearms that he had stopped feeling in the second week and that hurt now that somebody else was touching it. She cleaned all of it. She put something out of one of the jars on the burn on his left arm that was cold and then was not, and something out of another on the rash, and she looked at the two scars on that arm and the tally of small burns across the back of the hand, and touched none of them, and said nothing. She strapped his ribs. They had not been strapped since a woman on a mountain had mended them out of her own element in labour, and they were wrong, and the old woman's fingers found exactly how wrong in about four seconds and stopped, and she looked at his face, and he looked back, and she strapped them without asking anything.
 
-His mother sat down on the floor with her back to the wall beside the doorway, where she could see the court, and got the child out of her coat and fed him. The strip of linen was still across his eyes. It had gone grey and stiff with salt, and it had not once been off him, not for a moment, not in thirty days, and nobody in that house had looked at it. The woman came with the second tray, and did look, once, at the small face and the cloth across it, and Kael's mother moved her shoulder, and the child was on the other side of her, and the woman looked at the tray.
+Her hands were good. He watched them the whole time. They knew where things were on a person without looking for them, and they did not press where pressing would do nothing, and every jar she reached for she reached for without turning her head. He had watched his mother's hands do that his whole life and had never once seen anybody else's.
 
-Kael sat down on the floor by the basin because his legs decided it.
+Severin came out last, and crooked, and sat down on the edge of the basin and said, to nobody, "She is good," and did not say anything else about it.
 
-He had a question for the old man. It had come due on the sand, at the moment there was ground under his feet. *The other side of that water*, the old man had said, and this was the other side of it, and the water was that one. He had it by the tail. He was going to get hold of the front of it in a moment.
+Then the old woman came out into the court after him, and went to Kael's mother, who had not gone in, and held out her hands for the child.
 
-He was asleep before he did.
+She said something in her own tongue, and then in the empire's: "The little one also. The cloth is dirty. I will put a clean one."
 
-He did not decide it. The thing he had turned up in the autumn — the attention that would not turn back down and had not, not in the yard, not on the road, not for one night of thirty on that hull — went down on its own, in a stone room in a town he had walked into an hour before, with the sound of water going over a lip somewhere near; and the last thing he knew was that he was counting it, and then he was not.
+"No," said Kael's mother.
+
+She had not raised her voice. She did not get up.
+
+"I will see to him. Nobody here is qualified to but me."
+
+The old woman looked at her for a moment, at her face and then at her hands, the way she had looked at Kael's ribs. Then she put her own hands together and inclined her head, and went to fetch a clean strip of linen, and gave it to Kael's mother, and went away. His mother took the child into the far corner of the room with her back to the court and did it there; and Kael did not watch, because there was nothing to see but her back, and because he had been raised by her.
+
+---
+
+They ate in a long room with the table low and the cushions round it and the whole of the table covered, end to end, with food.
+
+Kael had never seen that much food in one place in his life, and he had been four years at the Temple. Bread in flat rounds, still hot. A whole animal, small, on a board, in pieces. Bowls of something yellow, and something red, and something green with oil standing on it. A fruit he did not know, dark and wrinkled and sweet enough to hurt his teeth. Wine in a jug, and water in another, and the governor's man going round with both. The old woman had said, going out, in the tone of somebody who expected to be disobeyed, that they were to eat a little and slowly, and Aurelian Corvane had said *yes, of course*, and was already not doing it.
+
+The governor sat at the head. The princess sat at his right, which was where the table had put her before she reached it, with Valeria standing behind her cushion until the governor asked her to sit, and she sat; Severin on the governor's left; the rest of them down the sides. Kael was between his mother and Elarine, near the bottom, with his back to a wall, which was where he had put himself.
+
+The governor let them eat first. That was the whole of the man again: he sat and watched eight people eat, and drank a little of his wine, and asked nothing, and let the room fill up with the sound of it, for the time it took the bread to go round twice.
+
+Then he put his cup down.
+
+"Highness," he said. "I have a rider saddled in the yard. He goes to the capital tonight, and he will not stop. The letter he carries must have every name at this table on it, and whose house, so that the houses may be told who lives. I would rather have them from your mouths than from my guesses." He looked down the table, slowly, one at a time. "Forgive me. I keep this city for the Emperor, and I know what a letter is."
+
+Kael felt his mother go still beside him.
+
+It was not a thing anybody else at that table could have seen. She was sitting exactly as she had been sitting, with a piece of bread in her hand and the child inside her coat, and she went on sitting like that, and something under it stopped, the way the boat had stopped when the wind went out. He knew it because he had known it his whole life: it was the stillness the village did not make. She had been hidden from the thing at the head of this table since before he was born. She had put a mountain and a sea between herself and it, and had never once, in thirteen years, sat at its table and been asked her name.
+
+And he had no name to give. He had *Kael*, which was the whole of it. He had *of the Island*, which a herald had made up because the roll wanted a second word. At the gate the second word had been the difference between the inside of the wall and the outside, and here was a man with a rider saddled, asking for it again, in a warm room, courteously, with a pen.
+
+He did the count, because it was what he did. Ten people at that table who could hear, and a man with a pen. One door. His mother's hands. The rider.
+
+The princess was looking at him.
+
+He saw it and did not know what it was. She had been eating, slowly, the way the old woman had told her to; she had stopped, and she was looking down the table at him and at his mother with the look she had had on the boat with the cloth in her hands, the one he could not read, and it lasted about as long as a breath.
+
+"Drusane," she said.
+
+The governor turned his head.
+
+"The house is Drusane," said Aeliana Cassivara Vessantine, in the voice that made rooms turn, and the room turned. "You will write Lucan Drusane, and the Lady Drusane his mother, and the child, who was born on the island in the fire and has not yet been named to the house. The Drusane household was in the district with the rest. His father held the east wall with Corvane's men and did not leave it." She put her bread down. "Write it so."
+
+Nobody at that table moved.
+
+Kael sat with the name on him and did not know what his face was doing, and made it do nothing, which was the one thing he had been taught before he had been taught anything else.
+
+Lucan Drusane had died in his yard with a spear through him, on his feet, in the follow-through of a perfect form, asking *did I get him*. Kael had knelt with the boy's head on his arm until it got heavier. The princess had been inside that house, forty feet from it, and knew he was dead. She knew his father was dead, or would be, on a wall; she knew there was nobody left on that island to say otherwise and nobody at this table who would. She had chosen it the way his mother chose a snare line, for what it would hold. Why she had chosen to, he could not read. He decided, because he had to decide something, that a princess does not arrive at her father's capital with herders in her train, and put it away.
+
+"Drusane," said the governor. He said it to the clerk at his elbow, who had a board and a pen and had been waiting for it, and the pen went. "Of the capital?"
+
+"Of the capital," said Aurelian Corvane, before the princess could, from the middle of the table. He had gone the colour of the bread. "I have known the house all my life. Lucan and I were four years in the same cohort. His father stood on the eastern stretch of that wall beside mine, and I watched them both go up onto it, and neither of them came down." Every word of it was true. He said it looking at the governor and not at Kael, and picked his cup up, and did not drink from it.
+
+"In my cohort also," said Elarine Sedrane. "Four years." Which was true.
+
+The governor looked down the table at Kael for a moment, and at his mother, and at her hands, which were a herder's hands and always had been, holding a piece of the governor's bread; and then he looked at the princess, who was looking at him, and he inclined his head, and the pen went on.
+
+"Lucan Drusane," he said. "The Lady Drusane, and the child. My house is honoured." And then, down the table: "The rest of you, if you would."
+
+They gave it properly, one after another, the way a thing is given that has been given a thousand times. *Aurelian Corvane, of Corvane and of the capital.* *Elarine Sedrane, of Sedrane.* *Valeria Vel* — two words, and the governor's pen stopped over them for a moment and then went on. *Severin, First Master of the Temple, which is gone.* The clerk wrote each of them, and the governor said each back, and Kael sat inside a dead boy's name and listened to four people say their own.
+
+"The child," said the governor. He said it gently, to Kael's mother, and did not look at the child while he said it, which Kael noticed. "The cloth on his face. My healer tells me she was refused. I do not ask for her sake. I ask because the letter will be read by people who ask."
+
+His mother finished the piece of bread she was eating.
+
+"His eyes were damaged at the birth," she said. "It was a bad birth, in a bad place, with a fight against the wall of the room. They are bound because the light hurts them, and they will stay bound until I say otherwise, and I will not say otherwise for a long time. Anybody who takes the cloth off him will do him harm. Write that, if the people who read letters need it."
+
+She said it in the voice she used for the result of a trial, flat, even, finished, with nothing under it that anybody at that table could have got hold of; and Kael, who had been given that voice on a flat rock at eight years old and had heard it tell him a promise that was not true without a seam in it, sat beside her and heard the seam, and knew that nobody else could.
+
+"Of course," said the governor. He put his hand flat to his breast and inclined his head to her, the household's gesture and not the empire's. "Lady Drusane. Nothing will touch him in this house."
+
+And that was the end of it. The clerk finished, and blew on the board, and went out with it, and somewhere in the yard a horse went from a stand to a walk to something faster, and was gone. The governor picked his cup up again. The bread went round a third time.
+
+Kael did not look at the princess, and she did not look at him, and he ate what he was given, in small pieces, slowly, under a name that was not his, at the first table of the empire he had ever sat at, and did not count anything at all.
