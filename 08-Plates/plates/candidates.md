@@ -464,7 +464,7 @@ Every entry was checked against **THE PLATE FOLLOWS THE PAGE** when it was writt
 
 *Written at s53, at design time. **The last two plates of Book One.***
 
-1. ★ **The finger.** — **BUILT (s53): sheet `ch36.md`.** A fist no bigger than two joints of his finger, closed on it and not letting go, and a boy sitting completely still on the boards of a drifting boat counting the breathing. **The first picture in the set where his hands are doing nothing at all.**
+1. ★ **The finger.** — **BUILT AND ADOPTED (s53): `images/plates/ch36-the-finger.png`, first run; sheet `ch36.md`.** A fist no bigger than two joints of his finger, closed on it and not letting go, and a boy sitting completely still on the boards of a drifting boat counting the breathing. **The first picture in the set where his hands are doing nothing at all.**
 2. **The loaf.** A day-old loaf broken by hand and sent down a boat from person to person, because *it will not be worth eating tomorrow.* **Wants eight resolved faces in a hull forty feet long.**
 3. **The boat words.** The old man giving him twenty of them in an hour at the tiller and making him say them back in a different order. *"Good. Tomorrow I'll teach you some more."* **The strongest single thing left unbuilt in Book One, and the folder still has no plate of Severin.**
 4. **The princess holding him.** Sitting down on the wet boards in what is left of a gown with her ruined hands under a herder's child, getting the head wrong and correcting it before anybody said anything. **Passed over:** `ch34/the-elbow` one day later.
