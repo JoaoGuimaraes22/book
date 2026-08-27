@@ -18,7 +18,7 @@ Every file has a CONTRACT, an ADMISSION TEST and an EVICTION PATH; content that 
 - `manuscript/book-one/NN-Title.md` — the chapters.
 - `TOOLS.md` — the scripts and `nlm`.
 
-Not cold-read: `index.md` (TOC), the archive, 08. There are no changelogs: `git log` and the session records carry what changed and why.
+Not cold-read: `index.md` (TOC), `README.md` and `LICENSE` (the public front door — the repo is public under CC BY-SA 4.0), the archive, 08. There are no changelogs: `git log` and the session records carry what changed and why.
 
 ## Session
 
