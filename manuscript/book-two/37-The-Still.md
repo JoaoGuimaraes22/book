@@ -180,9 +180,18 @@ He stood on the shore of a country he did not know with his knees going and the 
 
 Six of them, with spears. He priced them without meaning to, because it was what he did, and got ordinary: ordinary men, drilled, the spears carried the way men carry spears who have been taught how and have not needed it; white cloth and the empire's blue on brown arms, with more cloth wound about their heads against a sun Kael was beginning to understand. A seventh behind them with no spear and a short sword, older. Kael watched the seventh.
 
-Valeria Vel was already in front of the princess. She had come out of the sea with her blades on, and she had put herself between six spears and a girl in the remains of a gown without any hurry at all, and the men coming down the sand looked at her and saw a child, burned down one side of the face, and did not slow. Then she moved, half a step, her hand going across her body, and the front two of them stopped walking as if they had reached a wall.
+And the eight of them got ready, badly, in the order their bodies took it.
+
+Valeria Vel was in front of the princess before Kael had finished the count. She had come out of the water with both blades drawn, and she put herself between six spears and a girl in the remains of a gown without any hurry at all, because there was no hurry left in her to use. Aurelian Corvane got to the princess's other side and got his good arm out in front of her, and Elarine Sedrane's sword came up in her right hand with the left open beside it and nothing in the left at all.
+
+Kael's father's sword went down in the sand. He did not remember putting it there. His knife was in his left hand, out of the coat, and his right was empty and open, and he was three strides in front of his mother and did not remember doing that either; the count had six spears in it and one short sword and the softness of the sand and the fact that his legs were not going to do what he told them, and it went on running anyway, because it did not know how to stop.
+
+Behind him his mother took the child out of her coat and put him into the old man's arm, and Severin, on his knees, took him without looking up and put his other hand flat on the wet sand and left it there; and her hands came down loose at her sides.
+
+The men coming down the beach looked at all of it and saw children, one of them burned down the side of the face, and did not slow. Then Valeria moved, half a step, and the front two of them stopped walking as if they had reached a wall.
 
 The seventh came through them.
+
 
 He looked at the eight of them for a long moment: at burned children, at an old man on his knees in the wet sand with his head down, at a woman with white in her black hair holding something inside her coat, at a boy with a longsword he plainly could not lift. Then he looked past them at the sea, where there was nothing at all, and back.
 
@@ -197,6 +206,8 @@ Kael looked at her too, and saw what the man saw: a child the colour of the sand
 The captain went down on one knee in the wet sand.
 
 He did it at once, and the six behind him did it half a beat after, the spears going upright beside them; and Kael watched it happen and read it exactly. They had gone down at the name, the way a hand goes up when a thing is thrown at it, and not one of their eyes had left Valeria's blades while they did it.
+
+Kael put the knife away. He had to tell his hand twice. His mother took the child back off the old man, and Severin took his hand off the sand and looked at it; and Valeria Vel, last of anybody, let the points of her blades come down, and did not sheathe them.
 
 "Highness," said the captain, to the sand. "Forgive the spears. This coast was not told to expect you, and the sea brings us a great many things that say they are what they are not. Will you take water?"
 
