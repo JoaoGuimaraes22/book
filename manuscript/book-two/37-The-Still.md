@@ -24,9 +24,9 @@ A cup at first light, from the old man's hand, one each, and his mother's twice.
 
 The stars were his.
 
-She had taught him his place under them when he was eight, on the flat rock, with a straw and a bowl of water for a level, on a mountain he was never going to leave: which of them stood still and which went round, and how high the still one stood, and what that made you. He had it out on the third night with his back against the stub, and did the sum, and got a line; and did it again the next night and got a line beside it; and the two lines said that the boat was going north and a little east, at about the pace of a man walking slowly, and would go on doing it whether anybody aboard wished it to or not.
+She had taught him his place under them when he was eight, on the flat rock, with a straw and a bowl of water for a level, on a mountain he was never going to leave: which of them stood still and which went round, and how high the still one stood, and what that made you. He had it out on the third night with his back against the stub, and did the sum, and got a line; and did it again the next night and got a line beside it; and the two lines said that the boat was going north and a little west, at about the pace of a man walking slowly, and would go on doing it whether anybody aboard wished it to or not.
 
-"North," said Severin, when Kael told him. "And east of north. I had it off the swell yesterday. It comes under us at an angle and the angle has not changed."
+"North," said Severin, when Kael told him. "And west of north. I had it off the swell yesterday. It comes under us at an angle and the angle has not changed."
 
 "How far is the land?"
 
@@ -132,7 +132,7 @@ Severin was already looking at it.
 
 "Yes," he said. "Sweeps. Everybody who has arms."
 
-It took the whole of the day. The current that had carried them thirty days ran along that coast and not onto it, and they rowed across it a stroke at a time, four people on two sweeps, the coats up on the stub, the hull sitting lower in the water every hour; by the middle of the afternoon Kael could see a town on the line: a paleness with a darker paleness above it, a stone arm going out into the sea, the masts of boats behind the arm. The current was carrying them past it, to the east. Severin looked at the arm, at the water, at the boat, and made the choice Kael had watched him make in the yard.
+It took the whole of the day. The current that had carried them thirty days ran along that coast and not onto it, and they rowed across it a stroke at a time, four people on two sweeps, the coats up on the stub, the hull sitting lower in the water every hour; by the middle of the afternoon Kael could see a town on the line: a paleness with a darker paleness above it, a stone arm going out into the sea, the masts of boats behind the arm. The current was carrying them past it, to the west. Severin looked at the arm, at the water, at the boat, and made the choice Kael had watched him make in the yard.
 
 "We will not make the harbour," he said. "The sand, then. There. Before she goes."
 
