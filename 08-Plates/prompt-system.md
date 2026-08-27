@@ -860,6 +860,17 @@ Torn clothing renders where absent clothing does not. Healed scars, bruising, gr
 - **It closes on one negation, not a stack** — *Nothing bleeding.* That single clause is what buys the rest of the paragraph.
 - **The body is stated as build, not as suffering** — *lean, hard, wiry, visible ribs, the build of someone trained rather than grown* — and the face is *flat and tired, mouth slightly open*, which is exhaustion written as anatomy.
 
+**AND THE MATCHING SPECIMEN FOR BLOOD THAT SHOWS IS `plates/ch23.md`'s `the-horizon`** (author, s51: *also managed to get blood of a cut very well with its prompt*). Where `aftermath` closes on *Nothing bleeding* and gets marks without flow, this one opens on the site as a plain fact and gets flow by giving it a route:
+
+- **The heading states it flat** — *HIS LEFT ARM IS CUT.* No hedging and no euphemism; the picture is told what is true before it is told what it looks like.
+- **The cut gets a shape, a path and an edge, not a wound** — *a long slash runs along the outside of the left arm above the elbow, its edges clean.*
+- **The blood is a route and an appearance, never a substance** — *there is red down the outside of the forearm and across the back of the hand, dark and wet.* Where it runs, and two words about how it looks.
+- **The absence of a dressing is said out loud** — *the arm is bare and unbound and no cloth or wrapping is on it* — which is what makes it read fresh rather than treated.
+- **The cloth corroborates the site** — *his clothing is torn where the cut is.*
+- **And the face is forbidden the injury** — *not dazed, not in pain* — so the wound does not hijack the expression, which on that plate is the subject.
+
+**The vocabulary that passed the filter is also the vocabulary that rendered.** `slash` for `open cut` and `red` for `blood` were adopted at s48 as a refusal workaround, and they work for a second reason: *slash* names a shape and *red* names a colour that can be put somewhere, where *cut* and *blood* are categories with nothing to draw in them. Prefer them even where nothing is being refused.
+
 **Damage must not be paid for out of the features that separate a character** (s51, `plates/ch26.md`). `ch23/empty` run 1 returned *much mended* as rags on a boy who is poor and not destitute; `ch26/not-kind-to-me` run 1 wrote a Sedrane's *very good quality* cloth as *torn through* and got a beggar, and in the same breath let her severe binding come loose and got Valeria's silhouette back. Name what survives first — the quality, the binding, the build — then the damage as an exception to it, and ban the archetype the frame now pulls toward (*not ragged, not tattered, not a beggar's clothing*) rather than the tears.
 
 **Before the run.** Each fact once, in the place it belongs. Every clause must be able to change a pixel; a note to a colleague goes on the sheet. A block long enough to restate itself is long enough to contradict itself, and the renderer splits the difference. Before cutting a repeat, name what it forbids and find where else that is forbidden — count the channel, not the sentence. Length is not the metric; ritual is (author, s48: *cutting for cutting's sake is not the goal … if it turns out a bit bigger sometimes, well that's that*). **A long block earns it clause by clause and a short one is not thereby right.**
