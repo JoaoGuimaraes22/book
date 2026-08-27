@@ -4,10 +4,6 @@ Same medium and style as the reference images: loose watercolour and
 ink on rough cold-press paper, scratchy ink linework, wash blooms,
 bare paper in the lights.
 
-Same medium and style as the reference images: loose watercolour and
-ink on rough cold-press paper, scratchy ink linework, wash blooms,
-bare paper in the lights.
-
 Setting: the floor of a great arena on a bright morning, as loose wash
 suggestion — pale raked sand underfoot, and behind her the banked
 seating rising as a wash of small shapes with no face resolved

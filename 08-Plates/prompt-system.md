@@ -778,6 +778,8 @@ hair, colouring, apparent age. Do not blend their features. Do not
 mix their clothing: <the X belongs only to A, the Y only to B>.
 ```
 
+**A `PLATE:` block starts at `Setting:` — the build supplies the scene style line, and writing it into the fence as well emits it twice** (s51, found on both `ch26/the-fan` blocks after they had run; nothing in the pictures depended on it). Only a `PLATE-VERBATIM:` block carries its own style line, because that one is emitted untouched. To check the whole folder: `grep -c '^Same medium and style' 08-Plates/prompts/plates/*.md` — every count should be 1.
+
 The specimens are on `scene-tests.md`: `talk-kael-valeria` is the two-figure version of this and `quartet-conversation` the four.
 
 ## Instruments — one when the picture needs it, none by habit
