@@ -39,7 +39,7 @@
 ## Part IV — The Tournament & The Fire (Kael ~13–14) · the pattern catches fire — **COMPLETE; BOOK ONE IS FINISHED AT CH. 36**
 16. **The island fills.** — SPENT: Ch. 22 "The Names" (the filling, the garrison, the princess, the games opening) + Ch. 34 "The Run" (the boy speaking into a plan nobody asked him about; ruling (b) discharged — author, s48).
 17. **The birth.** — SPENT: Ch. 32 "The Mountain" + Ch. 33 "The Breach" (Wren born, the eyes bound, Kael holds him once; Neris survives and walks).
-18. **The tournament.** — SPENT: Ch. 22–27 (Drusane · Sedrane · the semifinal never fought). The structure is law in `02-World-Bible/temple.md` §Tournament structure.
+18. **The tournament.** — SPENT: Ch. 22–27 (Drusane · Sedrane · the semifinal never fought). The structure is law in `02-World-Bible/temple.md` §The Grand Tournament.
 19. **The fire.** — SPENT: Ch. 27 "The Fog" → Ch. 35 "The Range" (the bell; the crossing and the first kill; the gate; the houses and Vask at capacity; the interlude; the house; the breach and Vask's death; the run; the escape). **Struck from Book One, not reassigned:** the insignia (author, s48) · the seed-bread's inversion (author, s50). **Deferred whole to Book Two (author, s49):** §Book Two+ below. Fences: `07-Story-Ledger/standing-rules.md`.
 20. **The flight.** — SPENT: Ch. 28–36. **END OF BOOK ONE at Ch. 36 "The Quiet"** — one becalmed day, eight aboard, the three wants (author, s50), the crown-vs-Kael choice still not made, and no lights on the island.
 
