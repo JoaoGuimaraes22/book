@@ -20,39 +20,39 @@ His mother had the child at the breast under her coat, with her back against the
 
 The days had a shape by the end of the first week, and Kael had the shape by heart before the second.
 
-A cup at first light, from the old man's hand, one each, and his mother's twice. The coats on the sweep: Severin had had him lash a sweep upright to the stub of the mast on the second night and hang four coats across it, and the night breeze put a belly into the coats and moved the boat a distance nobody could measure, and every morning he took the coats down again so that the sun should not have the cloth. A cup at dusk. The stars.
+A cup at first light, from the old man's hand, one each, and for his mother two. The coats on the sweep: Severin had had him lash a sweep upright to the stub of the mast on the second night and hang four coats across it, and the night breeze put a belly into the coats and moved the boat a small distance, and every morning he took the coats down again so that the sun should not have the cloth. A cup at dusk. The stars.
 
 The stars were his.
 
-She had taught him his place under them when he was eight, on the flat rock, with a straw and a bowl of water for a level, on a mountain he was never going to leave: which of them stood still and which went round, and how high the still one stood, and what that made you. He had it out on the third night with his back against the stub, and did the sum, and got a line; and did it again the next night and got a line beside it; and the two lines said that the boat was going north and a little west, at about the pace of a man walking slowly, and would go on doing it whether anybody aboard wished it to or not.
+She had taught him his place under them when he was eight, on the flat rock, on a mountain he was never going to leave: which of them stood still and which went round, and how high the still one stood, and what that made you. He had it out on the third night with his back against the stub, and did the sum, and got a line; and did it again the next night and got a line beside it; and the two lines said that the boat was going north and a little west, at about the pace of a man walking slowly.
 
-"North," said Severin, when Kael told him. "And west of north. I had it off the swell yesterday. It comes under us at an angle and the angle has not changed."
+"North," said Severin, when Kael told him. "And west of north."
 
 "How far is the land?"
 
-"I do not know. I have never been this far out. I know that it is there, and I know that it is a great deal further than nine days."
+"I do not know. I know that it is there, and I know that it is a great deal further than nine days."
 
-Kael had the other half of that already. Nine days of water, ten if nobody was stupid, and a sea carrying them toward the road Aurelian Corvane had drawn on the sky, at a speed that would put them on it dead.
+Kael had the other half of that already. Nine days of water, ten if nobody was stupid, and a sea carrying them who could decide to stop whenever it wished to.
 
 ---
 
-"Boil the sea," said his mother.
+"We must boil the sea," said his mother.
 
-She said it at the dusk cup on the fifth day, into the quiet after the old man had put the lid back on the box, in the voice she used for the result of a trial, without looking up from the child.
+She said it at the dusk on the fifth day without looking up from the child.
 
-"What comes off it is not salt. The salt stays. Catch what comes off on something cold, and it can be drunk."
+"What comes off it is not only salt. The salt stays. Catch what comes off on something cold, and it can be drunk safely."
 
-Nobody said anything for a moment. Then Elarine Sedrane, who had been asleep, or had been being asleep, said, "On what?"
+Nobody said anything for a moment. Then Elarine Sedrane, who had been asleep, said, "On what?"
 
 "On anything. Cloth. The lid of that box. Cold is all it wants."
 
-Kael sat with the cup in both hands and did not drink it. He had known that since he was nine years old. He had been shown it with a pot and a cold knife on a winter morning by the woman now saying it, and he had sat in this boat for five days with it inside him, and a sum that came out at nine, and had not once taken it out and looked at it. He put that away, to be ashamed of when there was water for it.
+Kael had known that since he was nine years old. He had been shown it with a pot and a cold knife on a winter morning by the woman now saying it, and he had sat in this boat for five days with it inside him, and a sum that came out at nine, and had not once taken it out and looked at it. He put that away, to be ashamed of when there was water for it.
 
 "There is no wood," said Aurelian, "and if there were, the boat is made of it."
 
 "No," said his mother.
 
-Then she looked up, at last, at the two of them, Aurelian Corvane and Elarine Sedrane, and at nobody else, and said nothing further.
+Then she looked up, at last, at the two of them, Aurelian Corvane and Elarine Sedrane..
 
 ---
 
@@ -68,17 +68,17 @@ Then Aurelian Corvane sat down cross-legged in the bilge water at the low end of
 
 There was nothing under it and nothing feeding it. It sat on his palm the size of a fist and the colour of a forge; the jar sat above it on nothing, and he looked at the jar and not at the fire, and talked.
 
-"This," he said, "is without question the most useful thing my house has done in a generation, and I intend to say so to my father, and he will not understand one word of it."
+"This," he said, "is without question the most useful thing my house has done in a generation, and I intend to say so to my brother, and he will not understand one word of it."
 
-It took a long time. The jar went from cold to warm to a thing a hand could not be kept on, and then the water inside it began to move, and then the lid sweated. Kael, kneeling over it, watched the first of it gather on the underside of the lid in beads, and the beads find each other, and run, and reach the low edge, and hang there, and drop.
+Then the water inside it began to move, and then the lid sweated. Kael, kneeling over it, watched the first of it gather on the underside of the lid in beads, and the beads find each other, and run, and reach the low edge, and hang there, and drop.
 
 It went into the scoop with a noise so small that six people leaned to hear it.
 
-Elarine had him take the wet cloth off the lid and put it back at every hundred count. By the end of the first hour there was a cup in the scoop; Aurelian's face had gone the colour of the boards, and he was still talking. Severin lifted the cup out of the scoop, looked at it, tasted it, and passed it down the boat to Kael's mother without a word, and she drank it.
+Severin lifted the cup out of the scoop, looked at it, tasted it, and passed it down the boat to Kael's mother without a word, and she drank it.
 
-"Two hours," said Elarine, when Aurelian's fire went out and he lay down flat in the bilge and did not move. "He can give it two hours in the morning. I can give it two in the evening. That is what there is."
+"Two hours," said Elarine, when Aurelian's fire went out and he lay down flat in the bilge and did not move. "He can give it two hours in the morning. I can give it two in the evening."
 
-She sat down where he had been and put her hand up, and hers was smaller, steadier and hotter, and by the end of her two hours the jar was giving back faster than his had, because she had folded the cloth double and moved the stone twice more, and because she did not talk.
+She sat down where he had been and put her hand up, and hers was smaller, steadier and hotter.
 
 Kael did the sum on it at dusk and did not say it, because there was no need. A gallon on a good day, between the two of them. Eight people. It was not enough, and it was what they were going to live on.
 
@@ -86,9 +86,41 @@ Kael did the sum on it at dusk and did not say it, because there was no need. A 
 
 The princess did the cloth.
 
-Nobody gave it to her. On the second morning of the still she came down the boat on her knees and took the wet cloth off Elarine's lid when the count came round, wrung it over the side with her wrapped hands, and put it back; was told by Kael, who could not help it, that she was wringing it the wrong way and losing the cold; turned her hands the other way, did it again, and did it right. She did it at every hundred count for the length of Elarine's two hours, with her mouth shut and her palms bleeding through the cloth, and did not look at anybody, and did it again the next day.
+Nobody gave it to her. On the second morning of the still she came down the boat on her knees, and when the count came round she had the wet cloth off Elarine's lid before Kael could reach it, and wrung it over the boards with her wrapped hands, toward herself, and put it back.
 
-Kael watched her, because there was nothing else on that boat to watch. He looked for what he had looked for on the first day of the games: reach, weight, what the shoulders had been taught, where the hands went when nobody wanted them. He got nothing, the way he had always got nothing. But there was somebody on the far side of the nothing now, doing a job with her hands, and he could not read one thing about why. He decided she had been told to and was doing as she was told, and let it lie there.
+"You are losing the cold," Kael said. He could not help it. "It goes over the side, not the boards. And away from you, or the water runs up your arm and the cold is on you and not on the lid."
+
+She looked at the cloth in her hands. Then she looked at him, which she had not done in six days.
+
+"Show me."
+
+He showed her. At the next hundred she took the cloth off, and wrung it over the side, away from her, and put it back, and it was right.
+
+"You count aloud," she said. "I had wondered what it was you were counting."
+
+"A hundred. Between."
+
+"Between what?"
+
+"The cloth. Every hundred it comes off and goes over the side and goes back, or the lid warms and stops giving."
+
+"Then I shall do the cloth, and you may keep the hundred."
+
+He looked at her hands. The strips off her hem had gone dark where she had been wringing, and were going darker.
+
+"Your hands are bleeding."
+
+"Yes."
+
+"You do not have to do it. It is two hours."
+
+"I know how long it is. I was on the boat when it was said." She took the cloth off at the hundred without being told, and wrung it, and put it back. "I was told on that mountain that I should be extremely good at this sort of thing. It was your mother who said it, and you were there. Nobody has said anything of the kind to me since, and I have been thinking that she said it to make me take the child and not because it was true, and I should like to know which."
+
+He did not know what to say to that, so he counted.
+
+She did the cloth at every hundred for the length of Elarine's two hours, with her mouth shut and her palms bleeding through the strips, and did not look at anybody, and did it again the next day.
+
+Kael watched her between the hundreds, because there was nothing else on that boat to watch. He looked for what he had looked for on the first day of the games: reach, weight, what the shoulders had been taught, where the hands went when nobody wanted them. He got nothing, the way he had always got nothing. But there was somebody on the far side of the nothing now, doing a job with her hands, and she had told him why, and he took it exactly as it was said: his mother had made a claim, and the princess wanted it tested. He filed it under things his mother had said, and let it lie there.
 
 ---
 
