@@ -406,3 +406,28 @@ Rolled VERBATIM out of the `03-Character-Bible/` sheets at s52 (2026-08-27), whe
 - **The inheritance:** Vask's sword is in his hands — given, not thrown, at Ch. 33. The rest of the steel is in 00.
 - **Arc:** innocence → disillusion → dangerous competence → (00). Aims at the wrong enemy first — the coalition burned his island.
 - **End of Book One:** ~13–14, on a hull with no mast, drifting. Father dead. **His mother, his brother and the master are aboard with him** — the separation is Book Two's (author, s49), and no Book One page may arrange it.
+
+## PRISCIAN (master of natural philosophy) — `priscian.md`
+*(Appended at s54, 2026-08-27: the sheet was in contract at s52 and untouched then; this is its Glance, DYNAMIC and FORWARD as they stood before the s54 doc-system audit, which recorded that the Temple has fallen and that his fate is on no page.)*
+
+### GLANCE (as it stood)
+**Glance:** master of natural philosophy; the model's man · the Temple · age unpinned · the mist question still standing.
+
+### DYNAMIC (as it stood)
+- The mist question is still standing, unanswered; the build continues.
+
+### FORWARD (as it stood)
+- In 00.
+
+## RUTHEN (the yard-master — named session 8; formerly "the white-streaked master") — `ruthen.md`
+*(Appended at s54, 2026-08-27: the sheet was in contract at s52 and untouched then; this is its Glance, DYNAMIC and FORWARD as they stood before the s54 doc-system audit, which recorded that the Temple has fallen and that his fate is on no page.)*
+
+### GLANCE (as it stood)
+**Glance:** the yard-master · the Temple; an old war Resonant, pensioned · age unpinned · stands the duels; still says "the charity case."
+
+### DYNAMIC (as it stood)
+- Has repeatedly underwritten Kael's way of winning in public without ever praising the boy; called *"Match. Vel."* — the first match ever called at Kael. Still says "the charity case."
+- **The one-breath look is SPENT (Ch. 23), and he gave it out loud** — binding Kael's arm at the competitors' gate, he named the mistake, then looked at him one breath longer than he needed to, as he had once before from beside a well, and said **"That was not anything I have a name for."** **The mentor door is open by exactly one inch. Do not fling it.**
+
+### FORWARD (as it stood)
+- **Door (unspent):** the one adult at the Temple who saw what the yard refused to, pre-Valeria; mentor-adjacent.

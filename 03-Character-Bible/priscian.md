@@ -1,5 +1,5 @@
 ## PRISCIAN (master of natural philosophy)
-**Glance:** master of natural philosophy; the model's man · the Temple · age unpinned · the mist question still standing.
+**Glance:** master of natural philosophy; the model's man · the Temple, which has fallen · age unpinned · **his fate is on no page.**
 
 ### STATIC
 - **Role:** Delivers the minima and the taxonomy; a man in love with a model — it is his life's furniture. Scholarly register.
@@ -9,7 +9,8 @@
 - **Appearance:** Heavy, round, stuffed to the seams; ink-stained cuffs, chalk dust in the creases, a squint from a life at close text. Moves like a man carrying a library. Delight and irritation use the same furrow.
 
 ### DYNAMIC
-- The mist question is still standing, unanswered; the build continues.
+- **The Temple has fallen, and he was on no page of the fire; his fate is on no page and is unruled.**
+- The mist question is still standing, unanswered.
 
 ### FORWARD
 - In 00.

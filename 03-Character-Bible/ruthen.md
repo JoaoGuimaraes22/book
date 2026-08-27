@@ -1,5 +1,5 @@
 ## RUTHEN (the yard-master — named session 8; formerly "the white-streaked master")
-**Glance:** the yard-master · the Temple; an old war Resonant, pensioned · age unpinned · stands the duels; still says "the charity case."
+**Glance:** the yard-master · the Temple, which has fallen; an old war Resonant, pensioned · age unpinned · **his fate is on no page.**
 
 ### STATIC
 - **Name:** Soldier-worn register; heard rarely — the children say "the yard-master" the way you say "the sea." Spend the name sparingly.
@@ -11,7 +11,8 @@
 
 ### DYNAMIC
 - Has repeatedly underwritten Kael's way of winning in public without ever praising the boy; called *"Match. Vel."* — the first match ever called at Kael. Still says "the charity case."
-- **The one-breath look is SPENT (Ch. 23), and he gave it out loud** — binding Kael's arm at the competitors' gate, he named the mistake, then looked at him one breath longer than he needed to, as he had once before from beside a well, and said **"That was not anything I have a name for."** **The mentor door is open by exactly one inch. Do not fling it.**
+- **The Temple has fallen, and he was on no page of the fire; his fate is on no page and is unruled.**
+- **The one-breath look is spent, and he gave it out loud** — binding Kael's arm at the competitors' gate, he named the mistake, then looked at him one breath longer than he needed to, as he had once before from beside a well, and said **"That was not anything I have a name for."** **The mentor door is open by exactly one inch. Do not fling it.**
 
 ### FORWARD
 - **Door (unspent):** the one adult at the Temple who saw what the yard refused to, pre-Valeria; mentor-adjacent.
