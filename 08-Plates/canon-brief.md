@@ -26,7 +26,7 @@ A summary of `02` and `03` for a tool that cannot see them. Facts and fences onl
 - Lean, athletic, a working build that reads as function even at rest. Long black hair worn loose, well past the shoulders, no ornament. **Emerald green eyes**, spent at reading distance only.
 - Her stillness warns. Gaze level, flat, appraising — unimpressed and faintly tired. Not vulnerable, not wistful, not searching.
 - Knuckles older than her face; guard-lineage calluses; old pale scar lines on both forearms, a few fresher.
-- **Twin blades, both hands full — never one sword.** A matched pair, plain, well kept.
+- **Twin blades, both hands full — never one sword.** A matched pair, plain, well kept. The fence is against a one-sword identity, not a count in every picture: **where a hand is occupied with something else, a plate may leave the second blade out of frame or undrawn** (author, s51, on `ch27/i-need-you`).
 - The capital's grey: uniform-adjacent, austere, undecorated; a bronze collar insignia (canon-by-precedent). Distinct from Kael at thumbnail size: hers long, his short; hers in hand, his bundled.
 
 ## Aeliana Cassivara Vessantine
