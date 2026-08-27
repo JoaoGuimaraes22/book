@@ -46,7 +46,7 @@ He got up. His leg had set overnight into something that took about eight stride
 
 It was the best hour of that day.
 
-He bailed. It was a stupid job and it did not stop, because the sea came in as fast as he took it out for the first while, and then slower, and then he was ahead of it. The scoop was a cut-down wooden pail with a handle burnt onto it. He knelt in the water with his knees going numb and worked the low end of the boat and did not think about one single thing.
+It was a stupid job and it did not stop, because the sea came in as fast as he took it out for the first while, and then slower, and then he was ahead of it. The scoop was a cut-down wooden pail with a handle burnt onto it. He knelt in the water with his knees going numb and worked the low end of the boat and did not think about one single thing.
 
 Aurelian woke up and watched him for a minute and then came and did it with him, one-handed, badly, and neither of them said anything about the arm and neither of them said anything at all.
 
@@ -58,7 +58,7 @@ When Kael got down to the wet boards, Severin came forward on his hands and knee
 
 "You put the people where I tell you and you leave them there."
 
-The old man's hands were shaking. Not much. It was the same amount they had been shaking on a white floor in front of eleven thousand people two mornings ago, when Kael had been the only person in the building who saw it.
+The old man's hands were shaking. Not much. 
 
 Nobody said anything about that either.
 
@@ -66,7 +66,7 @@ Nobody said anything about that either.
 
 There was a box under the stern thwart with a lid that fitted.
 
-Severin got it open about the middle of the morning, and everybody who had been pretending to be asleep stopped pretending.
+Severin got it open about the middle of the morning, and everybody who had been trying to be asleep stopped.
 
 There were two small casks of water. A stone jar of oil, a bag of hard biscuit, a smaller bag with about four pounds of dried figs in it, a coil of line, a fish hook wrapped in cloth. And one loaf.
 
@@ -104,7 +104,9 @@ Nobody said anything.
 
 "That is not a good number, Master."
 
-"No," said Severin. "It is not."
+"No," said Severin. "It is not." He put the lid back onto the box and sat with his hand flat on it. "It was not stocked for eight."
+
+Nobody asked him what it had been stocked for.
 
 And that was all anybody said about it, for the rest of that day and the whole of the night after it.
 
