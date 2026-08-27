@@ -214,17 +214,13 @@ Valeria Vel did not move.
 
 "I should think so," said Aeliana. "There is nothing else on that island worth a fleet coming for."
 
-"There were eleven thousand people in that bowl and they started putting stones into it before the bell had finished ringing." He was going faster. He could hear himself doing it and could not stop. "There is a boy of about six lying on the village road who pointed at me two days ago with his whole arm. There were thirty thousand people standing outside that wall and I did the sum on it four times looking for a way that any of them lived, and there was not one, and then I went east and I listened to them stop." His hands had gone cold on his knees. "All of it so that you could get over a mountain. And you are not worth it."
+"There were eleven thousand people in that bowl and they started putting stones into it before the bell had finished ringing." He was going faster. He could hear himself doing it and could not stop. "There is a boy of about six lying on the village road who pointed at me two days ago with his whole arm. There were thirty thousand people standing outside that wall and I did the sum on it four times looking for a way that any of them lived, and there was not one, and then I went east and listened to them stop. And then they came up my father's path, four hundred of them, all night, because you were standing in his yard." His hands had gone cold on his knees. "He put himself between them and his own door and he stayed there until they took his head off, and I watched every second of it. And you are not worth it."
 
 Nobody on that boat said anything at all.
 
 Aeliana did not answer him. She sat with her back against the side of the hull and looked at the water going along it, and she looked at it long enough that Elarine Sedrane began examining her own hands and Aurelian Corvane found something to do with the sky.
 
-"Whose father was it," she said, at last. "In the yard."
-
-"Mine," said Kael.
-
-"The big one, with the sword."
+"The big one," she said, at last. "With the sword."
 
 "Yes."
 
