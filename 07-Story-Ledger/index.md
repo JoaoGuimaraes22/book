@@ -18,4 +18,4 @@
 - Spent design canon rolled out of 00 at s46: `../archive/author-canon-spent.md` — history, not cold-read.
 - [protected-phrasings.md](protected-phrasings.md) — on-page coined phrasing; parsed by `scripts/check-echoes.sh`. **Not cold-read** — run the script on every new or revised chapter instead; a hit is a CUT unless argued.
 
-Per-book roll: at the book boundary the accumulators roll to `*-book-N.md`; the law core never moves. No word counts here — `wc -w` prints them.
+Book boundary: the clue ledger lifts its PAID section to `planted-clues-book-N.md` (its own rule); the chapter records roll per Part, never per book (author, s52); the law core never moves. No word counts here — `wc -w` prints them.
