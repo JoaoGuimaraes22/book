@@ -33,3 +33,20 @@ Rolled VERBATIM out of the `03-Character-Bible/` sheets at s52 (2026-08-27), whe
 ### FORWARD (as it stood)
 - **Status:** DEAD (Ch. 33). He is MEMORY from here; the archaeology is closed. The last hour's geometry is spent and its arithmetic is sealed — he went for the son, nobody held the house, and Kael is never given it (archive/author-canon-spent.md §THE BIRTH AND THE SEMIFINAL).
 - **The chest (00):** paid — the sword reached the page in his hand (Ch. 30) and went into his son's (Ch. 33), given, not thrown, as the monument (the rule is in 00). Neris's dagger travels a different road (`neris.md`).
+
+## OSTRIAN "OSS" VESSALINE (the almost-friend — warmth that fails) — `oss.md`
+
+### DYNAMIC (as it stood)
+- **HE IS DEAD, AND HE DID IT DOING THE ONE THING THIS SHEET SAID HE COULD NOT REPEAT.** He stopped at the top of the slot while everybody else ran, and pulled up a wall of earth four feet high and eleven strides long — *the only working Kael had ever seen him do that was worth anything at all* — and it held four seconds, which was exactly enough, and then they went round it and killed him. **The courage arrived under load, once, and it cost him everything.**
+- **NOT ONE WORD EVER PASSED BETWEEN THEM.** Half a step forward in the yard and the line moved him on; then this. *There had been no word of any kind between them, not on any day of the last year, and now there was not going to be one.* **The wound he owed Kael is never delivered and the repair is never available.**
+- Kael was forty feet below and moving toward him and was picked up off his feet by the front of the coat.
+- **HE IS ALIVE, AND KAEL HAS SEEN HIM (author, s41, amended s42 — the *Kael does not know* half is retired).** He came up that path three behind Aurelian, saw Kael standing armed in his own yard, got half a step forward and was moved on by the line. **Neither of them got one word out.** The arc is untouched: the wound he owes Kael, and the courage he will not repeat under load, are both still ahead — and the story is about to ask him for it on that mountain.
+- **His father said goodbye and it was the last time.** Held on to by two people at once and managing none of it; his father spent his last words on the coat and on eating, and **did not mention the bought name once** — the name that had cost him most of what he owned and had been the whole subject of his life. *"You were always enough. You were always plenty."*
+- The old houses along that wall all looked at something else at the same moment, which was the only kindness Valeria saw an old house do that day.
+- **Now:** found and lost (Ch. 27). Three rows up in the north curve, hands going, turned the wrong way against the flow to get a smaller boy off the bench behind him — then the curve stood up as one thing and he was inside it. **RESOLVE NOTHING:** not seen dead, not seen living; the last thing he is doing on any page is the one act of courage this sheet says he cannot repeat under load.
+- **Estranged from Kael for a year.** Three tables away in the hall, not a word; two approaches ignored, the sea-wall register dead. Kael found him in the crowd on both days of the games in about a second and a half and did not reach him. His forge warning has been proved right and is quoted back inside Kael's head by a boy who cannot tell him so.
+- **The truth, off-page:** Corvane and Drusane pressured Vessaline, Vessaline pressured him, and he obliged — reluctant, hurting his only friend and himself.
+- **Handling:** his hurt is real — keep it real whenever he is on the page. The reader's protective-joke theory is productive ambiguity; do not correct it.
+
+### FORWARD (as it stood)
+- **Arc direction (not sealed):** he will eventually wound Kael in earnest — an act, not just drift; form and chapter TBD. The story will ask him to repeat his one act of courage under load, and he won't manage it. Any repair runs through what the coercion cost HIM.
