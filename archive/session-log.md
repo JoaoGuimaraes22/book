@@ -2644,3 +2644,5 @@ Asked *anything left? any file bloated, wrong?*, the audit found three small wro
 **Verified.** 0 phantoms across 1,136 fragments after every group; `clues.sh` parses (PLANTED 193 · VALVE 5 · PAID 0) and answers queries; the whole-manuscript echo scan byte-identical; `verify.sh` OK at the close. Four commits for the pass (`3e59bae` the ruling and the archive · `0ae6d2b` 07 · `42aafae` 03 · `8ccafab` 02 and 04), then the close. Not touched: 00 (unopened), 01, 06 (by design), 08, the manuscript, the reader notebook.
 
 **Target set (author, at the very close of s54): *revision pass. next session* — the Book One revision pass, chapter by chapter from Ch. 1, per CLAUDE.md §Work 5; written into 05 §NEXT TARGET.**
+
+**Withdrawn (author, minutes later): *nevermind, no need for a revision pass next session.* 05 §NEXT TARGET reverted to the author's choice at the open, with Ch. 37 the one candidate left standing.**
