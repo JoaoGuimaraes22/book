@@ -1,5 +1,6 @@
-Image 1: kael-14.png — portrait reference of the dark-haired boy.
-Image 2: kael-14-full.png — full-figure reference of the same boy, for his build and clothing.
+Image 1: kael-14.png — portrait reference of the dark-haired boy. Image
+2: kael-14-full.png — full-figure reference of the same boy, for his
+build and clothing.
 
 Same medium and style as the reference images: loose watercolour and
 ink on rough cold-press paper, scratchy ink linework, wash blooms,
@@ -9,9 +10,8 @@ Setting: the open boards of a small wooden boat at night on flat calm
 water, as loose wash suggestion. Beyond the boat the sea is black and
 still and goes out to a level horizon. The sky above the horizon is a
 pale cold grey going darker toward the top of the picture, with a thin
-smear of smoke lying across it well to one side, shapeless, drifting.
-There is no moon, no sun and no lamp anywhere in the picture, and no
-light source of any kind is drawn.
+smear of smoke lying across it well to one side, shapeless, drifting. No
+moon, no sun and no lamp is drawn anywhere in the picture.
 
 Composition: one boy sitting low on the boards with his back against the
 side of the boat at the right of the frame, near the viewer, seen from
@@ -26,15 +26,13 @@ as wide in the frame as the boy's shoulders are wide, and no taller
 above the horizon than a hand is deep. It is drawn as one flat
 silhouette with nothing separated inside it.
 
-THERE IS NO LIGHT ANYWHERE ON THAT ISLAND: no point of light, no
-scatter of lights, no window, no fire, no glow behind the ridge, no
-orange in the sky above it, and nothing lit or burning on it at all.
-It is completely dark from one end of it to the other.
+THERE IS NO LIGHT ANYWHERE ON THAT ISLAND: no point of light, no window,
+no fire and no glow behind the ridge. It is completely dark from one end
+of it to the other.
 
-HIS FACE IS A DARK PROFILE AGAINST THE PALE SKY and almost nothing in
-it is rendered — except that the near eye is open and drawn, and it is
-looking at the island. He is not looking at the viewer and his head is
-not turned toward the viewer.
+HIS FACE IS A DARK PROFILE AGAINST THE PALE SKY and almost nothing in it
+is rendered — except that the near eye is open and drawn, and it is
+looking at the island. He is not looking at the viewer.
 
 ALONG THE BOARDS AT HIS FEET LIES ONE PLAIN LONGSWORD, a grown man's war
 sword, straight, broad and undecorated, laid down flat with the grip
@@ -53,4 +51,4 @@ edges.
 
 Preserve his build, hair and clothing as shown in the reference images —
 undyed coarse working wool, much mended, in dull oatmeal and dead olive,
-with no metal on him. His face is not lit and not rendered in detail.
+with no metal on him.

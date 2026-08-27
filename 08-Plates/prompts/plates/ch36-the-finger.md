@@ -23,9 +23,8 @@ piece of coarse pale cloth, his head at the boy's elbow. He is very
 small: from the crown of his head to his heel he is about the length of
 the boy's forearm. A NARROW STRIP OF PALE LINEN IS BOUND ACROSS HIS
 EYES, level, clear of the nose and clear of the mouth, tucked under
-itself behind the ear, neatly done and not tight. No eye is drawn on
-the child anywhere and nothing under the strip is visible. He is asleep
-and his mouth is a little open.
+itself behind the ear, neatly done and not tight, and no eye is drawn on
+the child anywhere. He is asleep and his mouth is a little open.
 
 WHAT IS IN EACH HAND: the boy's left hand is under the child's head,
 open and flat, taking its whole weight. His right hand rests on his own
@@ -33,10 +32,9 @@ knee with the index finger out, and THE CHILD'S RIGHT HAND IS CLOSED
 AROUND THAT FINGER — the whole fist no bigger than the top two joints of
 it, the fingers not reaching all the way round, the grip loose and
 holding on anyway. The child's other fist is shut up beside his own
-face. Nothing else is in any hand and there is no object anywhere in the
-frame.
+face. There is no object anywhere in the frame.
 
-Nothing is happening. Neither of them is moving.
+Nothing is happening and neither of them is moving.
 
 HIS EYES ARE ON THE CHILD'S CHEST, not on the child's face and not on
 the viewer: the lids lowered, the head bent, the mouth closed and soft,

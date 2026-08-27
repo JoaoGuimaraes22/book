@@ -14,28 +14,27 @@ toward the left of the frame, the bottom edge of the picture crossing
 her at the waist. Her face is fully visible in the upper right of the
 frame. AT THE LOWER LEFT CORNER, cut by the frame, is the top of one
 shoulder and the back of an old man's grey head, kneeling, turned away
-from the viewer; nothing of him below that shoulder is in the picture,
-and no other person is drawn anywhere in it. The woman on the floor is
-not in the picture and nothing of what he is doing is drawn.
+from the viewer; nothing of him below that shoulder is in the picture.
+The woman on the floor is not in it and nothing of what he is doing is
+drawn.
 
-HER LEFT ARM IS HELD OUT AWAY FROM HER BODY toward the kneeling man,
-the elbow nearly straight, and her left hand holds a small clay oil lamp
+HER LEFT ARM IS HELD OUT AWAY FROM HER BODY toward the kneeling man, the
+elbow nearly straight, and her left hand holds a small clay oil lamp
 with a single flame in it, level, at about the height of her own chest.
 The arm is not braced against anything and it is not quite steady. Her
 right hand is down at her side, half closed, holding nothing. Two hands,
-one lamp, nothing else in either hand, and the lamp is not being put
-down.
+one lamp, nothing else in either hand.
 
-THE LAMP IS THE ONLY LIGHT ON HER: one small warm flame at arm's length,
+THE LAMP IS THE ONLY LIGHT: one small warm flame at arm's length,
 throwing warm orange up the underside of her jaw and across the near
 side of her face and along the inside of her sleeve, and leaving the top
 of her head, the wall behind her and the whole of the rest of the room
-dark. Nothing else in the picture is lit.
+dark.
 
 HER FACE IS DOING ONE THING: the chin level, the lids fully raised, the
 mouth closed and held, the jaw tight. Her eyes are on the flame of her
-own lamp. She is not looking down at the floor, she is not looking at
-the kneeling man, and she is not looking at the viewer.
+own lamp. She is not looking down at the floor and she is not looking at
+the viewer.
 
 Her long silver-white hair was pinned up and half of it has come down:
 the near side hangs loose past her shoulder, the far side still gathered

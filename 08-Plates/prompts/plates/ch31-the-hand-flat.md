@@ -1,4 +1,5 @@
-Image 1: elarine-14.png — portrait reference of the small girl with bound dark hair.
+Image 1: elarine-14.png — portrait reference of the small girl with
+bound dark hair.
 
 Same medium and style as the reference images: loose watercolour and
 ink on rough cold-press paper, scratchy ink linework, wash blooms,
@@ -20,21 +21,19 @@ away from the viewer so that no part of it is drawn. The girl faces her,
 turned three-quarters toward the viewer, her face fully visible and
 filling the upper right of the frame.
 
-THE WOMAN'S RIGHT HAND IS FLAT AGAINST THE SIDE OF THE GIRL'S HEAD,
-laid over the temple and the ear with the fingers spread and still,
-the wrist relaxed. It is resting there and it is not gripping and it is
-not moving. Her other hand and arm are out of the frame. The girl's own
-hands are down at her sides and empty. Nothing else is in any hand and
-there is no object anywhere between them.
+THE WOMAN'S RIGHT HAND IS FLAT AGAINST THE SIDE OF THE GIRL'S HEAD, laid
+over the temple and the ear with the fingers spread and still, the wrist
+relaxed, resting there and not gripping. Her other hand and arm are out
+of the frame. The girl's own hands are down at her sides and empty.
+Nothing else is in any hand and there is no object anywhere between
+them.
 
-Nothing is happening. Neither of them is speaking and neither mouth is
-open.
+Nothing is happening and neither of them is speaking.
 
 THE GIRL IS LOOKING UP AT THE WOMAN'S FACE: the lids fully raised, the
 eyes very dark and steady on her, the mouth closed and even, the jaw
-tight, the brows level. She is not looking at the viewer and her head is
-not turned toward the viewer. Nothing in her face is crying and nothing
-on it is wet.
+tight, the brows level. She is not looking at the viewer. Nothing in her
+face is crying.
 
 Her ink-dark hair is bound close and severe against the head with
 nothing loose anywhere. A reddened burn runs along the line of her jaw
@@ -52,6 +51,6 @@ head, the tables, the yard and the wall stay at quiet middle values with
 soft edges.
 
 Preserve the girl's face, hair, colouring and apparent age exactly as
-shown in the reference image. The woman is older, small and finely
-built like her, with the same ink-dark hair bound close, and her face is
-not drawn.
+shown in the reference image. The woman is older, small and finely built
+like her, with the same ink-dark hair bound close, and her face is not
+drawn.

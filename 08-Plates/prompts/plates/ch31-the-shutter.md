@@ -28,17 +28,16 @@ the orange of the room, and it falls in one narrow band across the
 floorboards and stops.
 
 The room behind him: eighteen other people, standing, drawn as a wash of
-dark shapes at quiet middle values with soft edges and no face resolved
-on any of them. One chair at the far end of the table has somebody
-seated in it and that figure is not resolved either. Nobody is looking
-at the man at the window and nobody is turned toward him.
+dark shapes at quiet middle values with soft edges. One chair at the far
+end of the table has somebody seated in it and that figure is not
+resolved either. Nobody is turned toward the man at the window.
 
-NO EYES ARE VISIBLE ANYWHERE IN THE PICTURE. No face is drawn on
+NO EYES ARE VISIBLE ANYWHERE IN THE PICTURE and no face is drawn on
 anybody. Do not turn any head toward the viewer.
 
 The man is broad and heavy through the shoulder, in good plain dark
-clothing well cut, with no ornament, no badge and no chain. Nothing about
-him is hurrying.
+clothing well cut, with no ornament, no badge and no chain. Nothing
+about him is hurrying.
 
 The hand on the shutter and the narrow band of cold light on the floor
 carry the sharpest steps from light to dark in the picture; the table,

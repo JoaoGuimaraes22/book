@@ -877,6 +877,16 @@ Torn clothing renders where absent clothing does not. Healed scars, bruising, gr
 
 **Before the run.** Each fact once, in the place it belongs. Every clause must be able to change a pixel; a note to a colleague goes on the sheet. A block long enough to restate itself is long enough to contradict itself, and the renderer splits the difference. Before cutting a repeat, name what it forbids and find where else that is forbidden — count the channel, not the sentence. Length is not the metric; ritual is (author, s48: *cutting for cutting's sake is not the goal … if it turns out a bit bigger sometimes, well that's that*). **A long block earns it clause by clause and a short one is not thereby right.**
 
+**AND THESE ARE THE CHANNELS THAT KEEP BLOATING** (s51's *care with these bloated prompts*, and again at s53, where eighteen blocks were written without this pass and every one of them carried at least one of these). Each is ONE clause, once, in one place:
+
+- **Only one person in the frame.** Composition already says *one boy alone*; a ban paragraph and a preserve line saying it again are the same channel three times.
+- **The gaze.** *He is not looking at the viewer* is earned where a reference pulls the eye there; *and his head is not turned toward the viewer* is a second ban on the same channel and is only earned where the face is deliberately hidden (§Plates).
+- **A ban stack.** *no glow, no haze, no cloud, nothing sprays, nothing arcs* is one channel five times, and §Absence warns that naming a thing puts the word in front of the filter — the longer the stack, the worse that gets.
+- **Build, under a full figure.** The full-figure reference carries build and costume; restating *lean, hard, wiry* cannot change a pixel it has not already set.
+- **The light, twice.** If Setting places the sources, the finish paragraph must not place them again.
+- **A meta-preamble.** *THIS READS IN THIS ORDER*, *this is one continuous chain* — a note to a colleague. It goes on the sheet; the ordered clauses go in the block.
+- **Stillness.** *Nothing is happening* does it. *He is not braced, he is not moving anywhere, nothing about him is in motion* is the same fact three more times.
+
 ## Plates — what changes from a scene
 
 A plate is a moment, not a person, and THE PLATE FOLLOWS THE PAGE binds it (`README.md`). It writes its own composition and light every time; it says who is not in the frame; where it hides a face for its own reasons it says *no eyes are visible anywhere in the picture* and *do not turn the head toward the viewer*, which are two bans. The block lives on the chapter sheet under `### PLATE: <slug>` and builds to `prompts/plates/<sheet>-<slug>.md`; a block that ran exactly as written is `### PLATE-VERBATIM:` and is emitted untouched. Blocks that have already run are not retrofitted.

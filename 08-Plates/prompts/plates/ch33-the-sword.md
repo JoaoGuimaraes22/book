@@ -1,5 +1,5 @@
-Image 1: vask.png — portrait reference of the iron-haired man.
-Image 2: kael-14.png — portrait reference of the dark-haired boy.
+Image 1: vask.png — portrait reference of the iron-haired man. Image 2:
+kael-14.png — portrait reference of the dark-haired boy.
 
 Same medium and style as the reference images: loose watercolour and
 ink on rough cold-press paper, scratchy ink linework, wash blooms,
@@ -19,11 +19,10 @@ right, half a head and more shorter, turned up toward him. Their two
 faces are in the upper half of the frame and both are fully visible.
 Nobody else is drawn near them.
 
-BETWEEN THEM, HELD ACROSS THE FRAME NEARLY LEVEL, IS ONE PLAIN
-LONGSWORD — a grown man's war sword, straight, broad, undecorated, with
-a plain crossguard and a long grip. From pommel to point it is nearly as
-long as the boy is tall. It is the only blade drawn anywhere in the
-picture.
+BETWEEN THEM, HELD ACROSS THE FRAME NEARLY LEVEL, IS ONE PLAIN LONGSWORD
+— a grown man's war sword, straight, broad, undecorated, with a plain
+crossguard and a long grip. From pommel to point it is nearly as long as
+the boy is tall. It is the only blade drawn anywhere in the picture.
 
 WHAT IS IN EACH HAND: the man's left hand is closed around the flat of
 the blade halfway down it, holding the sword steady. His right hand is
@@ -37,8 +36,8 @@ low, the grip end high, and his forearm is straining.
 
 THE MAN IS LOOKING AT THE BOY'S FACE: the eyes level, iron-dark and
 giving nothing out, the mouth closed, the jaw set, the chest working
-with hard breathing. He is not looking at the sword and not at the
-viewer. Nothing in his face is angry, sad or kind.
+with hard breathing. He is not looking at the viewer. Nothing in his
+face is angry, sad or kind.
 
 THE BOY IS LOOKING DOWN AT THE GRIP IN HIS OWN HAND, not at his father's
 face and not at the viewer: the lids fully raised, the pale grey clear,
@@ -46,24 +45,20 @@ the brows drawn together, the mouth a little open.
 
 The man wears a plain coarse working jacket of undyed dark wool, closed
 at the throat, sleeves rolled above the elbow, with heavy village
-trousers and boots — nothing tailored, nothing fitted, no frock coat, no
-uniform, no armour, and no metal on him anywhere. It is filthy and torn
-at one shoulder. The boy wears undyed coarse working wool, much mended,
-in dull oatmeal and dead olive, more marked than clean, with a
-cloth-wrapped bundle across his back with the shape of two hilts in it,
-the hilts covered.
+trousers and boots — nothing tailored and nothing decorated: not a frock
+coat, not a uniform and not armour, with no metal on him anywhere. It is
+filthy and torn at one shoulder. The boy wears undyed coarse working
+wool, much mended, in dull oatmeal and dead olive, more marked than
+clean, with a cloth-wrapped bundle across his back with the shape of two
+hilts in it, the hilts covered.
 
-Dark dried red on both the boy's forearms and on the man's. Grey dust
-and soot on both of them. Nothing is bleeding in the picture and no
-wound is drawn on either of them.
+Dark dried red on both the boy's forearms and on the man's, and grey
+dust and soot on both of them. Nothing is bleeding and no wound is drawn
+on either of them.
 
-The two faces and the four hands on the sword carry the sharpest steps
-from light to dark; the house, the doorway, the burning pens and the
-ground stay at quiet middle values with soft edges. The firelight is
-orange and comes from the left and low; the doorway light is a second
-smaller warm patch behind them.
+The two faces and the four hands on the sword carry the sharpest steps from light to dark; the house, the doorway, the burning pens and the ground stay at quiet middle values with soft edges.
 
 Preserve each exactly as shown in their reference images — faces, hair,
 colouring, apparent age. Do not blend their features. His eyes are pale
-grey; the man's are iron-dark. The man is not white-haired and there is
-no white in his hair.
+grey; the man's are iron-dark, and there is no white anywhere in the
+man's hair.

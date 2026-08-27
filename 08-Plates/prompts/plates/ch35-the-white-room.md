@@ -1,4 +1,5 @@
-Image 1: kael-14-full.png — full-figure reference of the boy, for build and clothing. No face is resolved in this picture.
+Image 1: kael-14-full.png — full-figure reference of the boy, for build
+and clothing. No face is resolved in this picture.
 
 Same medium and style as the reference images: loose watercolour and
 ink on rough cold-press paper, scratchy ink linework, wash blooms,
@@ -41,8 +42,8 @@ standing, she is small in the frame, and her face is not visible.
 The two steam walls are the brightest thing in the picture and the
 figures on the boards are the darkest; the mast, the sail and the
 thwarts sit between them at quiet middle values with soft edges. The
-colour is entirely in the water and the low steam — orange going to white
-going to cold grey — and everything else is near-black.
+colour is entirely in the water and the low steam — orange going to
+white going to cold grey — and everything else is near-black.
 
 The boat is plain, tarred, working, undecorated, with no paint and no
 carving anywhere on it.
