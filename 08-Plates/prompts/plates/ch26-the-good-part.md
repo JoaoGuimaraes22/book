@@ -25,14 +25,21 @@ anywhere in it.
 His eyes are wide open and bright and completely engaged, the pale
 grey clear in them.
 
+HE HAS BEEN FIGHTING FOR MINUTES AND HIS BODY IS UNDER LOAD: the hair
+at his temples and across his forehead darkened and stuck down with
+sweat, sweat standing on the face and running in clean tracks down
+through the soot, the skin flushed with effort under the weather, the
+chest lifted high with the breath, the tendons standing in the neck.
+
 A smear of red across his front teeth.
 
 HE IS LOOKING DIRECTLY OUT OF THE PICTURE AT THE VIEWER and his are
 the only eyes in the frame.
 
-One eyebrow is gone and the hair above it on that side is singed short
-and uneven, and the skin high on that cheek is reddened. Grey soot and
-pale sand dust across the face and in the creases of the neck.
+The outer half of one eyebrow is singed away to bare skin, the hairs
+stopping short, and the hair above it on that side is singed short and
+uneven. The skin high on that cheek is reddened. Grey soot and pale
+sand dust across the face and in the creases of the neck.
 
 His hair is dark and straight, hacked short and uneven, falling over
 the forehead and disordered. He wears undyed coarse working wool,
