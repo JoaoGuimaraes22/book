@@ -396,7 +396,7 @@ Every entry was checked against **THE PLATE FOLLOWS THE PAGE** when it was writt
 
 *Written at s53, at design time. **Neither plate is of Valeria, in her own chapter** — she is the eye in both and appears in neither, which is what she does for the whole of it.*
 
-1. ★ **The hand flat.** — **BUILT (s53): sheet `ch31.md`.** By the cistern head in the evening: a woman who has just put her own name to a wall gives her daughter instructions, and then puts her hand flat against the side of her head and leaves it there. **The mother's face is out of the frame and Elarine's is the picture.**
+1. ★ **The hand flat.** — **BUILT AND ADOPTED (s53): `images/plates/ch31-the-hand-flat.png`, first run; sheet `ch31.md`.** By the cistern head in the evening: a woman who has just put her own name to a wall gives her daughter instructions, and then puts her hand flat against the side of her head and leaves it there. **The mother's face is out of the frame and Elarine's is the picture.**
 2. **Drusane's two hands.** *Then he took his son's face in both hands and held it, and Lucan stood and let him.* **Blocked:** no `images/portraits/lucan.png`.
 3. **You were always enough.** Oss's father holding him by both arms, not mentioning the name once. **Blocked** for the reason `ch13.md` gave in the first place: there is no portrait of Oss and a plate is not where a face gets decided.
 4. **Severin agreed with by the wrong man.** *There was nothing on his face at all, and she thought that a man who has just been agreed with does not usually look like that.* **Passed over at s53:** it asks the block for a face doing nothing, which §Gaze forbids and which renders as vacancy. Available to a session willing to solve it.

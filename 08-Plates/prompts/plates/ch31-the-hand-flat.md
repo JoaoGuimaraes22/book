@@ -1,5 +1,4 @@
-Image 1: elarine-14.png — portrait reference of the small girl with
-bound dark hair.
+Image 1: elarine-14.png — portrait reference of the small girl with bound dark hair.
 
 Same medium and style as the reference images: loose watercolour and
 ink on rough cold-press paper, scratchy ink linework, wash blooms,
