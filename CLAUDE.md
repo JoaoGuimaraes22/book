@@ -16,7 +16,7 @@ Every file has a CONTRACT, an ADMISSION TEST and an EVICTION PATH; content that 
 - `08-Plates/` — reader-facing illustrations; SELF-CONTAINED — `08-Plates/README.md` governs it. Never a writing session's concern; **a plate session (*let's continue with image gen*) opens on its README §Session and skips the cold read.**
 - `archive/` — history: session records, rolled text, probes. Append-only; spot-read.
 - `manuscript/<book>/NN-Title.md` — the chapters. The numbering runs on across books: Book Two opens at Ch. 37, in `manuscript/book-two/` (author, s52).
-- `build/` — DERIVED and gitignored: the assembled book, prose and illustrated (`build-manuscript.sh`, `build-docx.py`). **Not read unless the author asks** (author, s55) — nothing is decided here, and the manuscript is the source. Regenerate rather than inspect; `TOOLS.md` owns the scripts.
+- `build/` — DERIVED but TRACKED (author, s55): the assembled book, prose and illustrated (`build-manuscript.sh`, `build-docx.py`). Built at a book's finish, not per session, so the history stays thin; `build/plates-jpg/` is a cache and stays ignored. **Not read unless the author asks** (author, s55) — nothing is decided here, and the manuscript is the source. Regenerate rather than inspect; `TOOLS.md` owns the scripts.
 - `TOOLS.md` — the scripts and `nlm`.
 
 Not cold-read: the `index.md` TOCs in 02/03/07, `README.md` and `LICENSE` (the public front door — the repo is public under CC BY-SA 4.0), the archive, 08, `build/`. There are no changelogs: `git log` and the session records carry what changed and why.

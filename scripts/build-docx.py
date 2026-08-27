@@ -12,7 +12,8 @@ Trim is 6x9 (author, s55). Each adopted plate in 08-Plates/images/plates/ is
 placed after the paragraph its own sheet quotes from the page, so the picture
 punctuates the beat rather than pre-empting it. Where a sheet is a craft record
 with no page quote, the anchor is in MANUAL below — a snippet of the paragraph
-the plate follows. build/ is derived and gitignored; regenerate at will.
+the plate follows. build/ is derived but tracked (author, s55) — built at a
+book's finish, not per session; build/plates-jpg/ is a cache and stays ignored.
 """
 import re, os, sys, glob, subprocess, unicodedata
 from PIL import Image

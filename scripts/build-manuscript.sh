@@ -7,8 +7,8 @@
 #   scripts/build-manuscript.sh book-one epub   -> build/Book-One.epub too (requires pandoc)
 #
 # Chapter numbers run on across books (author, s52), so each book is its own
-# directory under manuscript/ and its own build. build/ is a derived artifact —
-# gitignored, regenerate at will.
+# directory under manuscript/ and its own build. build/ is derived but tracked
+# (author, s55): built at a book's finish, not per session.
 set -euo pipefail
 cd "$(dirname "$0")/.."
 
