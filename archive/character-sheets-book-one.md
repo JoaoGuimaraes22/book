@@ -50,3 +50,21 @@ Rolled VERBATIM out of the `03-Character-Bible/` sheets at s52 (2026-08-27), whe
 
 ### FORWARD (as it stood)
 - **Arc direction (not sealed):** he will eventually wound Kael in earnest — an act, not just drift; form and chapter TBD. The story will ask him to repeat his one act of courage under load, and he won't manage it. Any repair runs through what the coercion cost HIM.
+
+## LUCAN DRUSANE (the worker — petty revenge with feet) — `lucan.md`
+
+### DYNAMIC (as it stood)
+- **HE IS DEAD.** He threw one perfect air column off a squared front and killed the man who was thirty feet from the door with it, and **to throw it he had to stand still, and he stood still**, and a second man put a spear through him while he was still in the follow-through. **Kael shouted his name and the form would not let him turn in time.**
+- **HIS LAST WORDS WERE THE ARITHMETIC:** *"Did I get him."* — and he was told the truth, and said *"Good,"* **which is his father's own word from the district, and no page joins them up.**
+- **HIS FATHER WAS RIGHT AND NO PAGE SAYS SO**, and the man who argued twice for his life is dying six miles away and will never be told.
+- Kael knelt with the boy's head on his arm until it got heavier, and passed no verdict, and never will.
+- **Now: at the mountain house**, having walked up that path on his own with a hand on the wall of the upper pen for the last of it, into the yard of the boy who put him on a board.
+- **Previously: in the escape party**, two days after being carried out of an arena unconscious.
+- **His father argued against him going — twice, in front of the First Master — and was overruled, and said "Good."** Then took his son's face in both hands, said nothing, and walked out toward the wall without looking back. **The page passes no verdict on it at all** (author, s41): he could not simply ask for the boy's life, and Ch. 23's *face of somebody watching an expense* stands untouched beside it. Both happened; neither cancels the other, and **no redemption arc follows** (arc direction unchanged). Do not let a later chapter reconcile them.
+- **Now:** out of the games in the first bout (Ch. 23) — fought it correctly, put a real cut in Kael's arm, emptied his capacity into the sand and reached for it anyway, and was knocked out cold on the fourth time down with the form gone off him. His father watched from the Drusane seats with the face of a man watching an expense, and sat down. Carried out on a board, not looking at Kael. Off the page since.
+- **The arithmetic is permanent.** The one golden child accumulating evidence that the luck story is false — Temple steel taken up like something borrowed, a paid master's four years, and now the bout — and the luck story is dead and so is the charity case; whatever column this goes in, it goes in for good.
+- No new revenge piece since the fouled slate. His house coordinates with Halden's campaign, off-page, fed by his arithmetic.
+
+### FORWARD (as it stood)
+- **HE DIES FIRST (author, s42).** Not a redemption and not a turn: **his father was right** — *you will be no use to them on that road; you will slow them, and they will carry you, and one of them will be killed doing it*, said twice in front of the First Master and overruled. He goes out anyway because he is the one of the four who works, and he is the first to go down because he was always going to be. **No page says the father was right**, the man who argued for his life is dying on a district wall six miles away and will never be told, and the recognition/accusation door closes unused. Kael reads it correctly and files it; no epiphany, no narrator verdict.
+- **Arc direction (superseded above, kept for the record):** NO redemption — where Aurelian turns, Lucan does not; the arithmetic hardens instead of opening. A recognition/accusation door stays open, unresolved.
