@@ -24,7 +24,7 @@ Then the sky went grey, and he could see the boat.
 
 It was worse in the light.
 
-There was water in her over the boards, a hand deep at the low end, going back and forth with the roll. Three of the strakes on the left side were burned through in patches and one had a hole in it the size of a fist that Severin had stuffed with somebody's coat. Where the mast had stood there was a stub about as high as Kael's knee, black and split and still smelling. The rope ends lay about the deck where they had been cut, and every one of them ended in char.
+There was water over the boards, a hand deep at the low end, going back and forth with the roll. Three of the strakes on the left side were burned through in patches and one had a hole in it the size of a fist that Severin had stuffed with somebody's coat. Where the mast had stood there was a stub about as high as Kael's knee, black and split and still smelling. The rope ends lay about the deck where they had been cut, and every one of them ended in char.
 
 Aurelian Corvane was asleep sitting up against the side with his mouth open and his bad arm across his body. Elarine Sedrane was asleep against Aurelian, which was not something either of them would have arranged. Aeliana lay on her back on the boards with her ruined hands turned up on either side of her, and she was not asleep, and she did not move.
 
@@ -32,7 +32,7 @@ Valeria Vel was not asleep. She was sitting on the thwart nearest the princess w
 
 And his mother was in the middle of the boat with her back against the strake and her knees up.
 
-The light came onto her face and then onto her hair, and Kael, who had been looking at her for a while without anything happening in his head at all, saw the quartz white her hair and mixed into it.
+The light came onto her face and then onto her hair, and Kael, who had been looking at her for a while without anything happening in his head at all, saw the quartz white her hair and mixed into.
 
 ---
 
