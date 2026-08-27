@@ -34,7 +34,7 @@
 14. **The cracks in her.** — SPENT: Ch. 20 "The Word" (Kael = 12).
 14b. **The timeskip.** — SPENT: Ch. 21 "The Edge" (Kael = 12→13).
 14c. **The opening day.** — SPENT: Ch. 22 "The Names" (Kael = 13, pinned; Part III closes here).
-15. **The world leaks in.** — PARTIALLY SPENT: Ch. 17 (the Ammareth reveal) · Ch. 19 (the pregnancy) · Ch. 21 (the war pre-seeds). **STILL UNSPENT — and Part III closed with it unplanted; strike or rescope to Book Two is the author's call (05 §OPEN ITEMS):** the forbidden lecture · the chart with a coastline that doesn't exist · the bird-language word that makes a master go pale · continent politics via Temple talk and Valeria's guarded remarks (the rot of the court, provinces bled, honest officials ruined).
+15. **The world leaks in.** — PARTIALLY SPENT: Ch. 17 (the Ammareth reveal) · Ch. 19 (the pregnancy) · Ch. 21 (the war pre-seeds). **THE REST IS STRUCK (author, s52), not reassigned:** the forbidden lecture · the chart with a coastline that doesn't exist · the bird-language word that makes a master go pale · continent politics via Temple talk and Valeria's guarded remarks. Part III closed without them and nothing is owed off them; what survives is two destinations in §Queued threads.
 
 ## Part IV — The Tournament & The Fire (Kael ~13–14) · the pattern catches fire — **COMPLETE; BOOK ONE IS FINISHED AT CH. 36**
 16. **The island fills.** — SPENT: Ch. 22 "The Names" (the filling, the garrison, the princess, the games opening) + Ch. 34 "The Run" (the boy speaking into a plan nobody asked him about; ruling (b) discharged — author, s48).
@@ -56,6 +56,8 @@
 - **The Sanctum fingerprint — follow-ups.** The architecture of her teaching shows: curriculum, sequence, a system of asking no village origin explains. Kael notices the grain, files it, does not knock. METHOD ONLY — no source, no name; the Sanctum is SEALED, bible-only (00).
 - **Halden's next move.** The fuse is live and now doubled: the hidden contact still concealed from the parents, and the dossier holds the public flash — lever-grade twice over.
 - **The trio + the fourth gravity.** Valeria against the cistern-court trio (Kael/Aurelian/Elarine) — untouched in Ch. 14 by design. How the standing geometry absorbs or resists a fourth body is unspent.
+- **KAEL'S SCIENCE.** Important later (author, s52). Its Book One vehicle, the forbidden lecture, is struck and nothing replaces it yet; the engine is `03-Character-Bible/kael.md` §Method and `02-World-Bible/curriculum.md`.
+- **THE LANGUAGES.** The four his mother taught him — ends never explained on any Book One page (`02-World-Bible/curriculum.md`) — are a Book Two thread; what they are is in 00 (author, s52).
 
 ## Open valves (deliberate)
 - **REVISIT NOTE (session 11): the settlement girl + her mother (the widow)** — return to them in a future arc. Two banked payoffs, separable (00): the intelligence vector (she can put a BOY in the folklore — the ghost story becomes a lead in professional hands) and the recognition/mercy beat (she knows him / he learns the line held — proto-witness, minor-key Valeria rhyme). NOT spent at the raid (crowded, consequence-free). Caution when staging the fire: whatever burns, do not foreclose them — Ch. 27 forecloses nothing; whether they survive the island is the author's to say.
