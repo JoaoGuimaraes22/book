@@ -1,6 +1,5 @@
 Image 1: portrait reference of the dark-haired boy.
-Image 2: full-figure reference of the same boy, for his build and
-clothing.
+Image 2: full-figure reference of the same boy, for his build and clothing.
 
 Same medium and style as the reference images: loose watercolour and
 ink on rough cold-press paper, scratchy ink linework, wash blooms,

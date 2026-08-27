@@ -1,5 +1,5 @@
-Image 1: neris.png — portrait reference of the dark-haired woman. Image
-2: kael-14.png — portrait reference of the dark-haired boy.
+Image 1: neris.png — portrait reference of the dark-haired woman.
+Image 2: kael-14.png — portrait reference of the dark-haired boy.
 
 Same medium and style as the reference images: loose watercolour and
 ink on rough cold-press paper, scratchy ink linework, wash blooms,

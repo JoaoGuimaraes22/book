@@ -1,5 +1,5 @@
-Image 1: kael-14.png — portrait reference of the dark-haired boy. Image
-2: kael-14-full.png — full-figure reference of the same boy, for his
+Image 1: kael-14.png — portrait reference of the dark-haired boy.
+Image 2: kael-14-full.png — full-figure reference of the same boy, for his
 build and clothing.
 
 Same medium and style as the reference images: loose watercolour and

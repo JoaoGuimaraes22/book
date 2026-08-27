@@ -1,5 +1,5 @@
-Image 1: neris.png — portrait reference of the dark-haired woman. Image
-2: aeliana-15.png — portrait reference of the silver-haired girl.
+Image 1: neris.png — portrait reference of the dark-haired woman.
+Image 2: aeliana-15.png — portrait reference of the silver-haired girl.
 
 Same medium and style as the reference images: loose watercolour and
 ink on rough cold-press paper, scratchy ink linework, wash blooms,

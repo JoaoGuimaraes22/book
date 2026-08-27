@@ -1,5 +1,6 @@
 Image 1: valeria-14.png — portrait reference of the black-haired girl.
-Image 2: valeria-14-full.png — full-figure reference of the same girl, for her clothing and kit.
+Image 2: valeria-14-full.png — full-figure reference of the same girl, for
+her clothing and kit.
 
 Same medium and style as the reference images: loose watercolour and
 ink on rough cold-press paper, scratchy ink linework, wash blooms,
