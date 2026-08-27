@@ -82,7 +82,7 @@ And then, from the standing ground and the cheap seats and the seaward end where
 
 "GHOST."
 
-Neither of them was winning. They went back and forth over the top of him for a quarter of an hour. Under it, quieter and everywhere, ran the thing half that building had worked out for itself and had stopped bothering to pretend about: that whatever happened tomorrow was going to be a ceremony, and the thing worth having was happening this morning.
+Neither of them was winning. They went back and forth over the top of him for a quarter of an hour. Under it, quieter and everywhere, ran the thing half that building had worked out for itself and had stopped bothering to pretend about: that the final, when it came, was going to be a ceremony, and the thing worth having was happening this morning.
 
 ---
 

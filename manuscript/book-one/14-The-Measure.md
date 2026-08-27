@@ -12,7 +12,7 @@ There had been a time when a name that came by water reached him early, split li
 
 He knew it the way he knew tide-tables. The chronicle's accounts of tournaments past had the Line of Vel standing in the margins of every one of them: royal protectors, eleven generations at the shoulder of the throne, a house that had traded its name to the crown so long ago the name had gone hard as a nail doing it. The chronicle did not say famous. The chronicle said things like *the champion's escort was of the Line of Vel* and let the generations do the arithmetic.
 
-The hall said other things. The hall said unbeaten. The hall said she had been given her first steel at four, which was one version, or had never yet needed steel, which was another, and that her art was fire, or air, or water, depending on the bench — which meant, Kael filed, that nobody in the hall had ever seen it. A daughter of the Line, sent ahead with the advance, a year early. To train where the tournament would be held. On the ground itself.
+The hall said other things. The hall said unbeaten. The hall said she had been given her first steel at four, which was one version, or had never yet needed steel, which was another, and that her Art was fire, or air, or water, depending on the bench — which meant, Kael filed, that nobody in the hall had ever seen it. A daughter of the Line, sent ahead with the advance, a year early. To train where the tournament would be held. On the ground itself.
 
 The benches had a dozen theories about why.
 
@@ -42,7 +42,7 @@ The itch sat up.
 
 "My brother has seen her," Aurelian said. He said *my brother* the way he paid all his invoices now, at full rate, without flinching. "Two courts ago. She was nine. A fencing-master offered to correct her guard, and she asked him to show her his. He is still being laughed at." He worked his shoulder, where the morning's drill sat. "The stories are wrong the way stories are wrong. Underneath them she is real. The Line does not keep pets."
 
-"And her art?"
+"And her Art?"
 
 "Nobody tells that story twice the same. Which you noticed." He looked at Kael. "You've been quiet."
 

@@ -22,7 +22,7 @@ In the line, Kael did his own arithmetic, because a piece was standing in the ya
 
 Then the yard-master straightened his back, and proceeded.
 
-"In two years, three for some of you, your art will come in, and you will want to spend it the way you wanted to shove that stone. So before I let any of you spend a grain, you will learn what spending is." He walked the line slowly while he said the rest, even, unhurried, a thing worn smooth by being true. The Art was spending. Every Resonant carried a purse of it, and no eye could see into the purse. Spending was effort. Deep spending was pain. And spending near the bottom — the well-rope's creak came into the quiet — the body wrote down forever: the hair went white, from that day, in the measure of how deep the spending had gone, and it never went dark again. The body kept the receipt. And past the bottom there was no pain and no receipt and no Resonant, because past the bottom was death, every time, however large the purse or beloved the house.
+"In two years, three for some of you, your Art will come in, and you will want to spend it the way you wanted to shove that stone. So before I let any of you spend a grain, you will learn what spending is." He walked the line slowly while he said the rest, even, unhurried, a thing worn smooth by being true. The Art was spending. Every Resonant carried a purse of it, and no eye could see into the purse. Spending was effort. Deep spending was pain. And spending near the bottom — the well-rope's creak came into the quiet — the body wrote down forever: the hair went white, from that day, in the measure of how deep the spending had gone, and it never went dark again. The body kept the receipt. And past the bottom there was no pain and no receipt and no Resonant, because past the bottom was death, every time, however large the purse or beloved the house.
 
 Nobody looked at the seam of white. Forty children stood in the cold and did not look at it so hard that the not-looking was a thing they did together, one animal, and Kael stood in the middle of them not looking with everyone else, and understood that this too had been taught, without one word spent on it.
 
@@ -32,7 +32,7 @@ The first resonances came at the turn toward spring, when the yard-master judged
 
 They were given candles. The whole apparatus of the empire's Art, that morning: a bench of tallow candles in the lee of the south wall, one child before each, and the instruction, which was to reach for the flame the way you reached for warmth through cloth, and push.
 
-"Your art is in you already, leaning," the yard-master said. "It settles when you are grown — twelve, fourteen, when it settles it settles — but it leans from the start, and the strong lean hard. Today you spend one grain, so your body learns the door." And then, flatly, a wall being pointed at: "The Art runs in the blood, and the blood runs in the houses. That is why the Temple takes who it takes." His eyes went down the bench and passed over Kael neither faster nor slower than over anyone, and the bench understood the exception without a word.
+"Your Art is in you already, leaning," the yard-master said. "It settles when you are grown — twelve, fourteen, when it settles it settles — but it leans from the start, and the strong lean hard. Today you spend one grain, so your body learns the door." And then, flatly, a wall being pointed at: "The Art runs in the blood, and the blood runs in the houses. That is why the Temple takes who it takes." His eyes went down the bench and passed over Kael neither faster nor slower than over anyone, and the bench understood the exception without a word.
 
 The candles began.
 
@@ -98,7 +98,7 @@ Elarine Sedrane answered, and her answer was the best thing Kael had heard in th
 
 "Then whose is the mist?"
 
-The room turned. He was under the stone now, so he kept going, at his own pace. "When the kettle breathes, there's mist over it. If a water Resonant can call mist off the sea, and an air Resonant can call mist out of a valley" — doctrine, both elements claimed it, the room had recited it a week since — "then the same mist comes from two arts. So when the mist is standing there, whose is it? What does the mist know that it is?" One breath more, because it was still coming: "The fences are drawn around the resonances. But the mist is only the mist. It has never heard of them."
+The room turned. He was under the stone now, so he kept going, at his own pace. "When the kettle breathes, there's mist over it. If a water Resonant can call mist off the sea, and an air Resonant can call mist out of a valley" — doctrine, both elements claimed it, the room had recited it a week since — "then the same mist comes from two Arts. So when the mist is standing there, whose is it? What does the mist know that it is?" One breath more, because it was still coming: "The fences are drawn around the resonances. But the mist is only the mist. It has never heard of them."
 
 Silence, one breath of it, with a temperature he was coming to know.
 

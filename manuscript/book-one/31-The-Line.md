@@ -346,7 +346,7 @@ The sound had stopped.
 
 She stood in the middle of the yard with the tables around her and worked out when.
 
-It had been going when the shutter was closed. It had not been going when they made the party. Somewhere in between, in a room with the shutter shut and nineteen people putting their names to a wall in an ordinary voice, thirty-one thousand people had finished. She had not been able to hear it stop. Neither had anybody else in that room. That was what the shutter was for, whether the man who closed it had known it or not.
+It had been going when the shutter was closed. It had not been going when they made the party. Somewhere in between, in a room with the shutter shut and nineteen people putting their names to a wall in an ordinary voice, thirty thousand people had finished. She had not been able to hear it stop. Neither had anybody else in that room. That was what the shutter was for, whether the man who closed it had known it or not.
 
 She wrote the time down in her head under the heading it belonged to and went to find Elarine.
 
@@ -466,7 +466,7 @@ Two of them had both hands free.
 
 The captain took her report at the far gate at the end of the light, standing up, with a lamp held by somebody else.
 
-She gave it in order, because that was how it was given. The arena, the seaward arch, the timing of the collapse in the north curve. The inland road off the headland and the four men at the second bend. The colours, which were eastern, and what that meant about how far they had come and how little they intended to hold. The garrison post at the mouth of the village lane, empty before the first hour. Nothing had come up the south road since. The village. The wells, and the fifteen men at the wells, and the shape of the ground there. The count on the hill, thirty-one thousand at the low end and thirty-six at the high, taken off a strip and checked against a second strip.
+She gave it in order, because that was how it was given. The arena, the seaward arch, the timing of the collapse in the north curve. The inland road off the headland and the four men at the second bend. The colours, which were eastern, and what that meant about how far they had come and how little they intended to hold. The garrison post at the mouth of the village lane, empty before the first hour. Nothing had come up the south road since. The village. The wells, and the fifteen men at the wells, and the shape of the ground there. The count on the hill, thirty thousand at the least, taken off the length of the wall and how far back the road was full.
 
 He stopped her twice to make her repeat a number and she repeated both without changing them.
 

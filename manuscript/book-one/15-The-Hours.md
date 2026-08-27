@@ -238,7 +238,7 @@ They came to it filthy and stayed until the light went. Elarine brought theory i
 
 Aurelian's fire came off his palm the way a door comes off its hinges, and Kael watched it the way he had watched the men on the six-oared boat: absolutely still, no expression, everything going in.
 
-Because here was the thing he had worked out in the loft with his arm coming back, and it was so simple he was ashamed of the years it had taken. *Everything I do is small.* He had said that at a healer's bench, honestly, meaning it as a limit. It was also the reason he could not see his own art. His threads were the smallest things anybody on the island could make. There was nothing to look at. He had been trying to study a working through a keyhole the size of a working.
+Because here was the thing he had worked out in the loft with his arm coming back, and it was so simple he was ashamed of the years it had taken. *Everything I do is small.* He had said that at a healer's bench, honestly, meaning it as a limit. It was also the reason he could not see his own Art. His threads were the smallest things anybody on the island could make. There was nothing to look at. He had been trying to study a working through a keyhole the size of a working.
 
 Aurelian's fire was the same grammar written a hundred times larger, in a hand you could read across a court.
 
@@ -318,13 +318,13 @@ It came up the road with him in the evenings and was there in the morning: *What
 
 So he did the other thing. If you needed to know a thing, you looked at it from where it could not look back, for as long as it took; he had been taught that by everyone he loved. If he had been asked he would have said, honestly, that he was studying an opponent a year out from a tournament he was forbidden to enter.
 
-What he learned in the first week was her art, and it was worth every hour.
+What he learned in the first week was her Art, and it was worth every hour.
 
 She did not throw anything. Not once, in six days. Everything went inward. He watched them stand her in the middle of the court and hit her — grown men in the capital's grey, with weighted wasters, hard, on the arms and the ribs and once across the back of the thigh — and watched her take it and stay standing, and understood on the third morning what he was actually being shown. They were not teaching her to endure it. They were *calibrating* her. She spent the resonance inward, and the blow came, and the man who had struck her said a number, and she adjusted, and they did it again. Too much and she was slow. Too little and it cost her a rib's worth of breath. They were walking her down to the exact grain, over and over, at a price he could not imagine paying once, let alone forty times before breakfast.
 
 He filed everything. The weight of her going into a step and the sound the flagstone made when it did not break, which was the sound of her having spent correctly. The way the reinforcement ran up and stopped, so that her hands stayed fast while her forearms went heavy. The half-count of lag on the very first exchange of each morning, before she was warm — which was, he thought, with a lift under his ribs that he did not examine, a lazy place, the first he had found in her, and worth more than a month of anything else.
 
-What he learned in the second week was not about her art.
+What he learned in the second week was not about her Art.
 
 Nobody spoke to her.
 

@@ -4,7 +4,7 @@ The second autumn began with the dish.
 
 He was eleven, and the Temple had decided it was time to learn what its children were. The cohort was walked into the first court on a grey morning and formed into the roll's order, and at the head of the court stood a table Kael had never seen: an iron dish the size of a cartwheel hub, and around it, in a half-ring, the plain things of the world — a candle, a bowl of water, a box of dry sand, a green sprig in a pot, a copper rod on a cloth. The yard-master stood behind the table. Priscian stood to the side with the registry clerk, and the clerk had the book, and the book was open.
 
-"Your art has been leaning since before you knew you had one," the yard-master said, to the line, in the voice worn smooth by being true. "Today it says its name. You will spend one grain — one — at the dish, and we will watch what answers. The dish does not flatter and it does not lie." He looked down the line, unhurried. "What settles, settles. The dish only asks early."
+"Your Art has been leaning since before you knew you had one," the yard-master said, to the line, in the voice worn smooth by being true. "Today it says its name. You will spend one grain — one — at the dish, and we will watch what answers. The dish does not flatter and it does not lie." He looked down the line, unhurried. "What settles, settles. The dish only asks early."
 
 They went up one at a time, in the roll's order, and the Art said its name in each of them, loudly or in a whisper.
 
@@ -54,7 +54,7 @@ He did not. He sat between his two parents — two Resonants, who had never once
 
 The yard changed within a fortnight, because the empire did not teach its children the Art in order to watch them wrestle.
 
-The measure was drawn fresh and wider. Sand barrels came to stand at its corners. The declared were taught the stance the fencing-masters sold — weapon hand and art hand, the waster forward, the off-hand open and empty at the shoulder, for the Art — and the yard-master walked the line adjusting elbows exactly as he had always adjusted them, as if fire were a kind of footwork. The rules were three, and he said them once: nothing above the shoulders. Nothing the healer cannot mend by supper. And his own presence, which was not called a rule but was the largest of them: he stood the duels the way the split rock stood the path.
+The measure was drawn fresh and wider. Sand barrels came to stand at its corners. The declared were taught the stance the fencing-masters sold — weapon hand and Art hand, the waster forward, the off-hand open and empty at the shoulder, for the Art — and the yard-master walked the line adjusting elbows exactly as he had always adjusted them, as if fire were a kind of footwork. The rules were three, and he said them once: nothing above the shoulders. Nothing the healer cannot mend by supper. And his own presence, which was not called a rule but was the largest of them: he stood the duels the way the split rock stood the path.
 
 The first resonance duels of the second cohort were, mostly, bad. Fire that missed. Air that shoved its own man. A girl who spent her whole purse in the first exchange and had to sit down on the ground, grey-faced, and be walked through the purse lecture again from the beginning, kneeling. Kael watched every one of them from the line the way he had once watched the sea, and the itch in him was awake the whole time, because this was new, all of it — the Art walking around in bodies, making mistakes, having costs — and new things could be read.
 
@@ -120,7 +120,7 @@ But the sea-wall stayed theirs. That was the thing about Oss that Kael filed and
 
 The last one went through Kael like the cold. "Why my mother's name?"
 
-"Because that's where blood-theories go, mountain boy." Oss pulled his cloak tighter, and looked, for a moment, entirely unlike a boy at his trade. "Lightning is rare. Rare gets explained. A herder with a rare art is a story with a hole in it, and holes get filled — with a name if they can find one, with a better story if they can't. My grandfather bought a name; I know how this works from the inside. They will not ask you anything. They'll ask around you. They already are."
+"Because that's where blood-theories go, mountain boy." Oss pulled his cloak tighter, and looked, for a moment, entirely unlike a boy at his trade. "Lightning is rare. Rare gets explained. A herder with a rare Art is a story with a hole in it, and holes get filled — with a name if they can find one, with a better story if they can't. My grandfather bought a name; I know how this works from the inside. They will not ask you anything. They'll ask around you. They already are."
 
 "Why tell me?"
 

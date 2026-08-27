@@ -142,7 +142,7 @@ She could not stop answering him. He was always arriving.
 
 And she was buying every answer out of her own body.
 
-*Fire is not held. It is paid.* She had said it to him on the rim of a cistern when they were eleven with the whole superiority of somebody explaining her own art to a boy who had none, and she had been right, and there is no floor in an arena and no fuel in the air and nothing anywhere on that white sand for a flame to eat, so every wall and every sheet and every burst came out of Elarine Sedrane and nowhere else.
+*Fire is not held. It is paid.* She had said it to him on the rim of a cistern when they were eleven with the whole superiority of somebody explaining her own Art to a boy who had none, and she had been right, and there is no floor in an arena and no fuel in the air and nothing anywhere on that white sand for a flame to eat, so every wall and every sheet and every burst came out of Elarine Sedrane and nowhere else.
 
 He was spending his legs.
 
@@ -194,7 +194,7 @@ Then he held the left one out in front of him, edge on, the way you hold a thing
 
 Two at once.
 
-The first was the earth — his cheap copy of the Vel's art, seven weeks and many failures of it. Not the arm. He could not do the arm. He had never once been able to do the arm. He put it into the one line down the outside of his palm, the thinnest place he owned, and he put all of it there.
+The first was the earth — his cheap copy of the Vel's Art, seven weeks and many failures of it. Not the arm. He could not do the arm. He had never once been able to do the arm. He put it into the one line down the outside of his palm, the thinnest place he owned, and he put all of it there.
 
 The second was the threading, and it went into his hand the way it went into steel. Shoulder, arm, hand — and then nowhere left to go, because there was no blade on the end of it any more.
 
