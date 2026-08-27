@@ -172,7 +172,7 @@ The ship went about fifty strides from the sand.
 
 The hull touched, and dragged, and touched again, and the seam that would not close in it opened the rest of the way with a noise like a door; the sea came in over the boards all at once, and the boat sat down under them in three feet of green water and stopped being a boat.
 
-They waded. His mother went first with the child inside her coat and one hand over him. Valeria carried the princess. Kael went last, with his father's sword held up out of the water in both hands like a thing he was being made to carry for a punishment, and the sand came up under his feet, and he walked on it, and it was the first ground under him in thirty days, and it moved, because his legs had forgotten what ground did.
+They waded. His mother went first with the child inside her coat and one hand over him. Valeria carried the princess. Kael went last, with his father's sword slung across his back on the length of cord and his two blades on his belt, and the sand came up under his feet, and he walked on it, and it was the first ground under him in thirty days, and it moved, because his legs had forgotten what ground did.
 
 He stood on the shore of a country he did not know with his knees going and the water running off him, and above the sand, on the brown, there were men coming down.
 
@@ -184,7 +184,7 @@ And the eight of them got ready, badly, in the order their bodies took it.
 
 Valeria Vel was in front of the princess before Kael had finished the count. She had come out of the water with both blades drawn, and she put herself between six spears and a girl in the remains of a gown without any hurry at all, because there was no hurry left in her to use. Aurelian Corvane got to the princess's other side and got his good arm out in front of her, and Elarine Sedrane's sword came up in her right hand with the left open beside it and nothing in the left at all.
 
-Kael's father's sword went down in the sand. He did not remember putting it there. His knife was in his left hand, out of the coat, and his right was empty and open, and he was three strides in front of his mother and did not remember doing that either; the count had six spears in it and one short sword and the softness of the sand and the fact that his legs were not going to do what he told them, and it went on running anyway, because it did not know how to stop.
+Kael's two blades were out of his belt and in his hands, and the sword stayed on his back, where it had been for a month, because it was not a thing he could use. He was three strides in front of his mother and did not remember getting there; the count had six spears in it and one short sword and the softness of the sand and the fact that his legs were not going to do what he told them, and it went on running anyway, because it did not know how to stop.
 
 Behind him his mother took the child out of her coat and put him into the old man's arm, and Severin, on his knees, took him without looking up and put his other hand flat on the wet sand and left it there; and her hands came down loose at her sides.
 
@@ -192,12 +192,11 @@ The men coming down the beach looked at all of it and saw children, one of them 
 
 The seventh came through them.
 
-
-He looked at the eight of them for a long moment: at burned children, at an old man on his knees in the wet sand with his head down, at a woman with white in her black hair holding something inside her coat, at a boy with a longsword he plainly could not lift. Then he looked past them at the sea, where there was nothing at all, and back.
+He looked at the eight of them for a long moment: at burned children, at an old man on his knees in the wet sand with his head down and something held against his coat, at a woman with white in her black hair and her hands empty at her sides, at a boy with two blades in his hands and a longsword on his back that he plainly could not lift. Then he looked past them at the sea, where there was nothing at all, and back.
 
 "Where from?" he said. It was the empire's tongue, with the shape of another tongue under it.
 
-"The Temple," said Aurelian Corvane. He had got the princess onto her feet and was standing in front of her at an angle, on Valeria's other side, as though the two of them had arranged it, which they had not. "The island. The Temple. I am Aurelian Corvane. This is Elarine Sedrane. That is the First Master. This—" he took a breath that cost him something "—is Her Serene Highness Aeliana Cassivara Vessantine, and you will send to whoever keeps this town, and you will send now."
+"The Temple," said Aurelian Corvane, from the princess's other side. "The island. The Temple. I am Aurelian Corvane. This is Elarine Sedrane. That is the First Master. This—" he took a breath that cost him something "—is Her Serene Highness Aeliana Cassivara Vessantine, and you will send to whoever keeps this town, and you will send now."
 
 The captain looked at the girl.
 
@@ -207,7 +206,7 @@ The captain went down on one knee in the wet sand.
 
 He did it at once, and the six behind him did it half a beat after, the spears going upright beside them; and Kael watched it happen and read it exactly. They had gone down at the name, the way a hand goes up when a thing is thrown at it, and not one of their eyes had left Valeria's blades while they did it.
 
-Kael put the knife away. He had to tell his hand twice. His mother took the child back off the old man, and Severin took his hand off the sand and looked at it; and Valeria Vel, last of anybody, let the points of her blades come down, and did not sheathe them.
+Kael put the blades away. He had to tell his hands twice. His mother took the child back off the old man, and Severin took his hand off the sand and looked at it; and Valeria Vel, last of anybody, let the points of her blades come down, and did not sheathe them.
 
 "Highness," said the captain, to the sand. "Forgive the spears. This coast was not told to expect you, and the sea brings us a great many things that say they are what they are not. Will you take water?"
 
