@@ -68,3 +68,21 @@ Rolled VERBATIM out of the `03-Character-Bible/` sheets at s52 (2026-08-27), whe
 ### FORWARD (as it stood)
 - **HE DIES FIRST (author, s42).** Not a redemption and not a turn: **his father was right** — *you will be no use to them on that road; you will slow them, and they will carry you, and one of them will be killed doing it*, said twice in front of the First Master and overruled. He goes out anyway because he is the one of the four who works, and he is the first to go down because he was always going to be. **No page says the father was right**, the man who argued for his life is dying on a district wall six miles away and will never be told, and the recognition/accusation door closes unused. Kael reads it correctly and files it; no epiphany, no narrator verdict.
 - **Arc direction (superseded above, kept for the record):** NO redemption — where Aurelian turns, Lucan does not; the arithmetic hardens instead of opening. A recognition/accusation door stays open, unresolved.
+
+## WREN (the brother) — `wren.md`
+
+### DYNAMIC (as it stood)
+- **HIS BROTHER HAS HELD HIM PROPERLY NOW** — two hands, daylight, no barrage — and counted his breathing until it made a shape, and his hand shut on Kael's finger and stayed shut. **The linen is still across his eyes. Nobody on that boat has touched it and nobody has explained it.**
+- He has been handed to the princess a second time, and this time she asked.
+- **He was handed to his brother and screamed through the whole of a barrage**, and stopped when it stopped. **Kael has now held him twice, and the second time was for an hour with one arm.**
+- **HE CRIED ON AN OPEN MOUNTAIN** with men hunting the people carrying him, for a hundred and forty seconds, and stopped on his own, **and not one person said one word about it.**
+- **He has been handed to a princess of the empire and given back.**
+- **HE IS BORN**, delivered by Severin with a princess of the empire holding the lamp, in a room with a fight against the wall of it. **Named on the page by his mother:** *"His name is Wren."*
+- **HIS EYES ARE RED AND THEY ARE THE FIRST RED EYES IN THE MANUSCRIPT.** Kael got ONE of them, for a moment, when the linen rode up. **Nobody said the bloodline's name, and nobody explained anything to anybody.**
+- **HIS MOTHER BINDS THEM.** The answer to *a newborn with devil-eyes cannot be hidden* is on the page as an ATTEMPT, not a solution. How long a bound child can be carried through the world is open (00).
+- He cries, and he is hot, and he weighs about as much as a lamb, and he has a fingernail.
+- Not yet born; the labour is running. The pregnancy has been on the page since Ch. 19, plainly told; Kael knows a sibling is coming, does not know which, and has asked to hold it.
+- **The delivery is a mortal event** (00 s22 — a birth of the bloodline is violent, and this child was born extremely potent). It is why Severin must attend and why the family could not leave the island before the spring. **Kael is told none of that.**
+
+### FORWARD (as it stood)
+- **Status:** aboard the drifting hull, eyes still bound. **He is not separated from Kael in Book One** (author, s49). What comes after is in 00; a series-long door.
