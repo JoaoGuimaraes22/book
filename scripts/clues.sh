@@ -2,7 +2,8 @@
 # Clue lookup — design-time reader for 07-Story-Ledger/planted-clues.md.
 #
 # The clue ledger is the largest law-core file and is NOT read whole at a
-# session open. When designing a chapter, ask it what the target owes:
+# session open. After a scene is designed, ask it what the page already holds
+# on the things the scene touches (state, not instruction — author, s54):
 #
 #   scripts/clues.sh                      -> section counts + every VALVE row
 #   scripts/clues.sh fire                 -> rows whose "Pays off in" or "Handling" mentions "fire"
@@ -11,7 +12,7 @@
 #   scripts/clues.sh -a Halden            -> match against the whole row, not just payoff/handling
 #   scripts/clues.sh -p fire              -> also print the PAYOFF column (a spoiler; on the author's request only)
 #
-# Detection only: the row text is the law; judgment stays human.
+# Detection only: the row text is the state; judgment stays human.
 set -euo pipefail
 cd "$(dirname "$0")/.."
 
