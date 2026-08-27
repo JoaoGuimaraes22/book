@@ -15,7 +15,7 @@ Every file has a CONTRACT, an ADMISSION TEST and an EVICTION PATH; content that 
 - `07-Story-Ledger/` — do-not-contradict canon. Test: *could a future page contradict this?* LAW CORE (timeline, standing-rules, magic-snapshot, open-threads, established-facts) is stable. `planted-clues.md` is the fence-check (`scripts/clues.sh`, run after a scene is designed, never before). ACCUMULATORS: `chapter-records.md` (the current Part; a closed Part rolls to a file of its own — `chapter-records-parts-1-3.md`, `chapter-records-part-4.md` — never consolidated per book; **summary + FACTS only** — rulings, provenance and metrics go to the archive record) and `protected-phrasings.md` (script-parsed, never cold-read).
 - `08-Plates/` — reader-facing illustrations; SELF-CONTAINED — `08-Plates/README.md` governs it. Never a writing session's concern; **a plate session (*let's continue with image gen*) opens on its README §Session and skips the cold read.**
 - `archive/` — history: session records, rolled text, probes. Append-only; spot-read.
-- `manuscript/book-one/NN-Title.md` — the chapters.
+- `manuscript/<book>/NN-Title.md` — the chapters. The numbering runs on across books: Book Two opens at Ch. 37, in `manuscript/book-two/` (author, s52).
 - `TOOLS.md` — the scripts and `nlm`.
 
 Not cold-read: the `index.md` TOCs in 02/03/07, `README.md` and `LICENSE` (the public front door — the repo is public under CC BY-SA 4.0), the archive, 08. There are no changelogs: `git log` and the session records carry what changed and why.

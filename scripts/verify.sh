@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Session-open verification (protocol step 1):
 #   1. git working tree must be clean (anything unexplained = stale/unfinished state -> STOP)
-#   2. wc -w of every chapter + 00 must match the CANONICAL baselines in 05
+#   2. wc -w of every chapter (any book under manuscript/) + 00 must match the CANONICAL baselines in 05
 #   3. scripts/check-quotes.sh must report 0 quoted spans that are on no page
 # A mismatch mid-session just means baselines need updating at close (protocol step 6);
 # a mismatch at session OPEN means something changed outside protocol -> investigate.
@@ -33,7 +33,7 @@ for label, count in re.findall(r"(Ch\. \d+|00) = ([\d,]+)", m.group(1)):
         paths = ["00-Author-Canon-SEALED.md"]
     else:
         n = int(label.split()[1])
-        paths = sorted(glob.glob(f"manuscript/book-one/{n:02d}-*.md"))
+        paths = sorted(glob.glob(f"manuscript/*/{n:02d}-*.md"))   # every book: numbering runs on across books (author, s52)
     if len(paths) != 1:
         print(f"BASELINES: {label}: expected one file, found {paths}"); ok = False; continue
     actual = len(open(paths[0]).read().split())

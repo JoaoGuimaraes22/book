@@ -37,7 +37,7 @@ for quoted in re.findall(r'"([^"]+)"', m.group(1)):
 def norm(text):
     return re.sub(r"\s+", " ", text.lower())
 
-targets = sys.argv[1:] or sorted(glob.glob("manuscript/book-one/*.md"))
+targets = sys.argv[1:] or sorted(glob.glob("manuscript/*/*.md"))   # every book
 whole_manuscript = not sys.argv[1:]
 
 hits = collections.defaultdict(list)  # phrase -> [files]

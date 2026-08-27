@@ -27,7 +27,7 @@ def norm(t):
     t = re.sub(r"[^a-z0-9' ]", " ", t)
     return re.sub(r"\s+", " ", t).strip()
 
-man = norm(" ".join(open(p).read() for p in sorted(glob.glob("manuscript/book-one/*.md"))))
+man = norm(" ".join(open(p).read() for p in sorted(glob.glob("manuscript/*/*.md"))))   # every book
 
 def present(n, gap=7):
     """On the page, allowing ONE interruption (a speech tag) anywhere in the span."""

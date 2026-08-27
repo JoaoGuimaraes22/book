@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Sync manuscript chapters to the NotebookLM "Book One — Reader Copy" notebook.
 #
-# The notebook is a DERIVED artifact of manuscript/book-one/ — a clean-reader
+# The notebook is a DERIVED artifact of manuscript/ (every book) — a clean-reader
 # simulator. It must only ever contain manuscript chapters: no bibles, no 00,
 # no continuity log. Run at session close after any prose change.
 #
@@ -13,7 +13,7 @@ set -euo pipefail
 
 NOTEBOOK_ID="ce62aafb-0d6c-45af-becc-5bdf01d9799c"
 REPO_DIR="$(cd "$(dirname "$0")/.." && pwd)"
-CHAPTER_DIR="$REPO_DIR/manuscript/book-one"
+MANUSCRIPT_DIR="$REPO_DIR/manuscript"   # every book; chapter numbers run on across books (author, s52)
 
 title_for() { # chapter filename -> source title (Ch. N — Title)
   basename "$1" .md | sed -E 's/^0?([0-9]+)-/Ch. \1 — /; s/-/ /g'
@@ -22,15 +22,15 @@ title_for() { # chapter filename -> source title (Ch. N — Title)
 # Pick which files to sync
 files=()
 if [[ "${1:-}" == "--all" ]]; then
-  for f in "$CHAPTER_DIR"/*.md; do files+=("$f"); done
+  for f in "$MANUSCRIPT_DIR"/*/*.md; do files+=("$f"); done
 elif [[ $# -gt 0 ]]; then
   for f in "$@"; do files+=("$(realpath "$f")"); done
 else
   # Chapters with uncommitted changes, plus those changed in the last commit
   while IFS= read -r f; do
     [[ -n "$f" ]] && files+=("$REPO_DIR/$f")
-  done < <(cd "$REPO_DIR" && { git diff --name-only HEAD -- manuscript/book-one/; \
-           git diff --name-only HEAD~1 HEAD -- manuscript/book-one/ 2>/dev/null; } | sort -u)
+  done < <(cd "$REPO_DIR" && { git diff --name-only HEAD -- manuscript/; \
+           git diff --name-only HEAD~1 HEAD -- manuscript/ 2>/dev/null; } | sort -u)
 fi
 
 if [[ ${#files[@]} -eq 0 ]]; then
