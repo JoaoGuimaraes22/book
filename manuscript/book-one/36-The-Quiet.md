@@ -78,14 +78,6 @@ He broke it with his hands and passed it down the boat, and it went from hand to
 
 Kael got his and put it in his mouth and stopped.
 
-There was nothing in it.
-
-It was plain bread. It was good plain bread, made by somebody who could make bread, and there was flour in it and salt in it and nothing else in it whatsoever.
-
-At home there was a loaf that rose in the night and had seeds all through it, and it did not rise for feast days and it did not rise for the turn of the year. It rose when the master was coming. It had risen when Kael was nine and did not yet know what a tell was, and it had risen when he was ten and knew, and it had risen the night before he first went down that hill to the Temple, and his mother had put it on the table without one word about why.
-
-He sat on the boards of the old man's boat and ate the old man's bread and there were no seeds in it at all.
-
 "How much water is there," said Valeria.
 
 "Two casks."
@@ -114,8 +106,6 @@ And that was all anybody said about it, for the rest of that day and the whole o
 
 Aurelian started talking again a little before noon, and Kael only noticed because of the silence that had come before it.
 
-He had talked the whole way down that mountain. He had talked over Wren crying and over four hundred men coming down a slot in the dark, steadily, correctly, for nobody, and when Valeria told him to be quieter he had been quieter and had not stopped. Somewhere on the water he had stopped, and Kael had been too busy to notice him do it.
-
 "—so it is south from here, or it is nothing," Aurelian said, to the sky. "You would go south and then east along the shoulder of the continent. There is no other road. You cannot go north. North is a month of nothing and then it is theirs."
 
 "You have never been on a boat in your life," said Elarine.
@@ -130,7 +120,7 @@ Kael came and sat down against the side near them, because there was nowhere on 
 
 Aurelian looked at him for a moment. Then he went on.
 
-"She has to reach the capital," he said. "That is the thing. Whatever else happens, and however it happens, she reaches the capital, and every one of us on this boat is part of how she does it now. That is not a duty anybody here was given. It is one that arrived." He was not talking to the sky any more. "My father's men were on the eastern stretch of that wall. Sedrane's were on the north with hers. There were seven houses' colours on that wall and I know what five of them are worth in a fight, and I have not stopped doing that sum since the middle of last night. That is what I have instead of knowing."
+"The princess has to reach the capital," he said. "That is it. Whatever else happens, and however it happens, she reaches the capital, and every one of us on this boat is part of how she does it now. That is not a duty anybody here was given. It is one that arrived." He was not talking to the sky any more. "My father's men were on the eastern stretch of that wall. Sedrane's were on the north with hers. There were seven houses' colours on that wall and I know what five of them are worth in a fight, and I have not stopped doing that sum since the middle of last night. That is what I have instead of knowing."
 
 "Aurelian," said Elarine.
 
@@ -144,9 +134,9 @@ Kael did not know what to do with his hands, so he did what his mother did, whic
 
 "Your house is not on the island," he said.
 
-"No. My house is at the capital, and my house is at Corvane, and there is a good deal of my house in the east where it should not be." Aurelian's mouth did something. "Two of us were on that island. My father, and me. Twenty-nine people carry that name and two of them were there, and I have spent four years being extremely tiresome about the other twenty-seven, and this morning it turns out they are all perfectly safe and it is not the smallest comfort to me. Which I did not expect."
+"No. My house is at the capital, and my house is at Corvane, and there is a good deal of my house in the east where it should not be." Aurelian's mouth did something. "Two of us were on that island. My father, and me. Twenty-nine people carry that name and two of them were there, and I have spent four years being extremely tiresome about the other twenty-seven, and this morning it turns out they are all perfectly safe and it is not the smallest comfort to me."
 
-"Sedrane is four hundred miles from any of this," said Elarine, without being asked. "My grandfather is alive. Two of my uncles are alive. The seat is alive. My house will go on choosing my school and my seat and the man, and it will do all of it on schedule, and it will not be inconvenienced by yesterday by so much as a week."
+"Sedrane is four hundred miles from any of this," said Elarine, without being asked. "My grandfather is alive. Two of my uncles are alive. The seat is alive. My house will go on with me."
 
 She said it the way she said everything, as though she had already been over it twice and found it correct.
 
@@ -154,7 +144,7 @@ She said it the way she said everything, as though she had already been over it 
 
 Kael waited.
 
-"She said a thing to me at the far gate. I have been holding on to it since about the third hour of that morning, the way you hold a rail." Elarine turned her hands over in her lap and looked at them. "And I have worked out that she said it because she knew she was not going to see me again. Which means the thing itself was true, and the reason it was said out loud is that she was dying. So I do not know what to do with it. I have never once not known what to do with a piece of information."
+"She said a thing to me at the far gate. I have been holding on to it since about the third hour of that morning." Elarine turned her hands over in her lap and looked at them. "And I have worked out that she said it because she knew she was not going to see me again. Which means the thing itself was true, and the reason it was said out loud is that she was dying. So I do not know what to do with it. I have never once not known what to do with a piece of information."
 
 "They are probably dead," said Aurelian.
 
@@ -168,23 +158,21 @@ Kael waited.
 
 "They are probably dead," said Elarine Sedrane.
 
-Kael sat with the two of them and did not offer them anything, because there was nothing to offer, and because the one thing he had that they did not was certainty, and it was not the better thing to have. He had watched his. He had counted the wounds on it and got to eleven and had not been able to stop. These two would go a month or a year not knowing, and would build something on the not knowing, and part of him wanted to tell them exactly how much he would have given to trade.
+Kael sat with the two of them and did not offer them anything, because there was nothing to offer, and because the one thing he had that they did not was certainty, and it was not the better thing to have. He had watched his. These two would go a month or a year not knowing, and would build something on the not knowing, and part of him wanted to tell them exactly how much he would have given to trade.
 
 He did not say that either.
 
 What he said was: "My father is dead."
 
-"We know," said Aurelian. "We were there."
+"I know," said Elarine Sedrane. "I am sorry."
 
-"I know you were there."
+"I am as well," said Aurelian. "I am extremely sorry. I have been trying since about the middle of the morning to find a way of saying that which would be of any use to anybody, and there is not one, so I am saying it badly and you will have to take it as it comes."
 
-"I meant that you do not have to say it to us as though we might not have heard."
+Then he moved along the boards until his shoulder was against Kael's shoulder, and left it there, and did not say anything else, which for him was an enormous undertaking.
 
-And Kael found, to his enormous surprise, that this was a kind thing to be told, and that he was glad — flatly and simply, with nothing in the way of it — that the two of them were alive and on this boat.
+Elarine put her hand flat on Kael's back for a moment and took it away again.
 
-Nobody in that district had opened a gate for him. He had stood under a wall with thirty thousand people at his back and looked up and seen the pair of them standing on it, and what he had understood in that second was still true this morning and would be true in ten years.
-
-It had never once had anything to do with either of them. He had known that at the time. He had known it while he was working it out.
+Kael did not know where to put any of that, so he sat still and let it happen to him, and found, to his enormous surprise, that he was glad — flatly and simply, with nothing in the way of it — that the two of them were alive and on this boat.
 
 ---
 
@@ -202,7 +190,7 @@ She had come up onto one elbow. Valeria came off the thwart and onto her feet in
 
 "Yes, Highness."
 
-"They will be spoken for properly. I want you to know that. It will be done at court with their houses standing, and their names will be read." Her chin came up a little. "My guard did what my guard is for. Twelve of them, and the captain last, and there is nothing to be said about that except that it was correct, and it would be an insult to them to say more. That is the whole of what a guard is. My father says so, and he is right."
+"They will be spoken for properly. I want you to know that. It will be done at court with their houses standing, and their names will be read." Her chin came up a little. "My guard did what my guard is for. Twelve of them, and the captain last, and there is nothing to be said about that except that it was correct, and it would be an insult to them to say more."
 
 "Yes," said Valeria Vel.
 
