@@ -1,5 +1,4 @@
-Image 1: kael-14-full.png — full-figure reference of the boy, for his
-build and silhouette. His face is not resolved in this picture.
+Image 1: kael-14-full.png — full-figure reference of the boy, for his build and silhouette. His face is not resolved in this picture.
 
 Same medium and style as the reference images: loose watercolour and
 ink on rough cold-press paper, scratchy ink linework, wash blooms,

@@ -415,7 +415,7 @@ Every entry was checked against **THE PLATE FOLLOWS THE PAGE** when it was writt
 4. **The princess in the yard.** In the shoes she wore on a raised floor, a soldier's cloak over a gown with gold along a hem ruined to the knee, her hair down on one side, standing where they put her and looking at the orange in the cloud and not at the house.
 5. **Valeria in front of the house.** *It was a small house. One room, a loft, a door that held.* She looks at it for a long moment and asks which way the water is. **A year, a treeline, a sea court, and she still does not ask.**
 6. **Oss's half-step.** **Blocked:** no portrait.
-7. ★ **The lights on the mountain.** — **BUILT (s53): sheet `ch32.md`.** From the top of the woodpile he has stood on since he was four: seven lights below the bend, nineteen strung along the terrace under the olive line, one mass of light at the bottom of the path. **The deliberate inverse of `ch01/fallen-stars`.**
+7. ★ **The lights on the mountain.** — **BUILT AND ADOPTED (s53): `images/plates/ch32-the-lights-on-the-mountain.png`, first run; sheet `ch32.md`.** From the top of the woodpile he has stood on since he was four: seven lights below the bend, nineteen strung along the terrace under the olive line, one mass of light at the bottom of the path. **The deliberate inverse of `ch01/fallen-stars`.**
 
 ---
 
