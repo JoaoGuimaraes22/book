@@ -32,19 +32,7 @@ Valeria Vel was not asleep. She was sitting on the thwart nearest the princess w
 
 And his mother was in the middle of the boat with her back against the strake and her knees up.
 
-The light came onto her face and then onto her hair, and Kael, who had been looking at her for a while without anything happening in his head at all, felt the whole thing arrive at once and go cold.
-
-There were three now.
-
-Two of them he had watched arrive. He had been lying on his own floor with his ribs open under her hands when the first one went, and the second had come while she was talking about the scree, and he had been close enough to count the individual pieces of hair as the colour went up out of them.
-
-He had not seen this one come. It was at the front, above her right temple, and it was not thin. It ran back into the dark of the rest of it and stopped, and it had been in front of him for hours.
-
-He did the arithmetic before he could decide not to. He had been taught the cost doctrine in a Temple yard by a man who had one of these and never once mentioned it, and the doctrine was four steps long, and the third step was the whitening, and the fourth step was the bottom, and there was nothing after the fourth step.
-
-He looked at it for a while.
-
-Then he stopped looking at it, and said nothing whatever about it, and did not say anything about it later either.
+The light came onto her face and then onto her hair, and Kael, who had been looking at her for a while without anything happening in his head at all, saw the quartz white her hair and mixed into it.
 
 ---
 
@@ -218,11 +206,21 @@ She had come up onto one elbow. Valeria came off the thwart and onto her feet in
 
 "It is the same for the rest," said Aeliana. "The men on that wall. The Temple's children. Everyone who was lost getting me off that island was lost getting me off that island, and I am not going to pretend it was some other thing, or be delicate about it, because that would make it smaller than it was."
 
-She looked round the boat.
+"They came for you," Kael said.
 
-"Whose father was it," she said. "In the yard."
+He had not decided to say it. It came out in the voice he used for a number.
 
-The whole of it went very quiet.
+Valeria Vel did not move.
+
+"I should think so," said Aeliana. "There is nothing else on that island worth a fleet coming for."
+
+"There were eleven thousand people in that bowl and they started putting stones into it before the bell had finished ringing." He was going faster. He could hear himself doing it and could not stop. "There is a boy of about six lying on the village road who pointed at me two days ago with his whole arm. There were thirty thousand people standing outside that wall and I did the sum on it four times looking for a way that any of them lived, and there was not one, and then I went east and I listened to them stop." His hands had gone cold on his knees. "All of it so that you could get over a mountain. And you are not worth it."
+
+Nobody on that boat said anything at all.
+
+Aeliana did not answer him. She sat with her back against the side of the hull and looked at the water going along it, and she looked at it long enough that Elarine Sedrane began examining her own hands and Aurelian Corvane found something to do with the sky.
+
+"Whose father was it," she said, at last. "In the yard."
 
 "Mine," said Kael.
 
