@@ -1,4 +1,4 @@
-## Timeline (planned)
+## Timeline
 **LAW CORE.** Part/age structure, and every age pinned on the page. Check any new chapter's age and season against this table.
 
 - **Parts:** Part I: Kael ~4–10 (ends with permission + enrollment) · Part II: ~10–12 (Temple years, peers, BEFORE Valeria) · Part III: ~12–13 (Valeria) · Part IV: ~13–14 (tournament, birth of brother, the fire).
