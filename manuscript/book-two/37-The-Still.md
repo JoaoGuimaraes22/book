@@ -98,13 +98,13 @@ He showed her. At the next hundred she took the cloth off, and wrung it over the
 
 "You count aloud," she said. "I had wondered what it was you were counting."
 
-"A hundred. Between."
+"A hundred seconds. Between."
 
 "Between what?"
 
 "The cloth. Every hundred it comes off and goes over the side and goes back, or the lid warms and stops giving."
 
-"Then I shall do the cloth, and you may keep the hundred."
+"Then I shall do the cloth, and you may keep the count."
 
 He looked at her hands. The strips off her hem had gone dark where she had been wringing, and were going darker.
 
@@ -120,31 +120,31 @@ He did not know what to say to that, so he counted.
 
 She did the cloth at every hundred for the length of Elarine's two hours, with her mouth shut and her palms bleeding through the strips, and did not look at anybody, and did it again the next day.
 
-Kael watched her between the hundreds, because there was nothing else on that boat to watch. He looked for what he had looked for on the first day of the games: reach, weight, what the shoulders had been taught, where the hands went when nobody wanted them. He got nothing, the way he had always got nothing. But there was somebody on the far side of the nothing now, doing a job with her hands, and she had told him why, and he took it exactly as it was said: his mother had made a claim, and the princess wanted it tested. He filed it under things his mother had said, and let it lie there.
+Kael watched her between the hundreds, because there was nothing else on that boat to watch. He looked for what he always looked: reach, weight, what the shoulders had been taught, where the hands went when nobody wanted them. But there was somebody on the far side of the nothing now, doing a job with her hands, and she had told him why, and he took it exactly as it was said: his mother had made a claim, and the princess wanted it tested. Something he could finally relate to the princess.
 
 ---
 
 That was the month.
 
-The figs went on the ninth day, and the biscuit was counted after that, aloud, by the old man, morning and evening, so that everybody heard the number go down. The hook went over the side on a length of line every day with a scrap of the sail on it and caught nothing for eleven days, and on the twelfth Severin drew up a fish the length of his forearm, killed it against the thwart, opened it with Kael's knife and shared it out raw, eight ways; there was not one person on that boat who left the skin.
+The figs went on the ninth day, and the biscuit was counted after that, aloud, by the old man, morning and evening, so that everybody heard the number go down. The hook went over the side on a length of line every day with a scrap of the sail on it and caught nothing for eleven days, and on the twelfth Severin drew up a fish the length of his forearm, killed it against the thwart, opened it with Kael's knife and shared it, eight ways; there was not one person on that boat who left the skin.
 
 The sun did the rest. It came up out of the water and went over them and went down into the water, and there was nothing on that hull to get under but the coats, and the coats were the sail. By the second week nobody's lips would close over their teeth. Kael's tongue became a thing that did not fit his mouth. The count went on running behind his eyes, because it always ran, but it came back slower every day, the numbers arriving like people walking up a long hill, and he learned to wait for them.
 
 Wren cried thinner.
 
-That was the thing in that month Kael could not stop hearing. In the first week the child had cried the way he had cried on the mountain, with the whole of himself, and by the third it had gone thin and high and short, like something a long way off. At the dawn cup and the dusk cup his mother was given two, then three, and nobody on that boat discussed it, then or ever.
+That was the thing in that month Kael could not stop hearing. In the first week the child had cried the way he had cried on the mountain, with the whole of himself, and by the third it had gone thin and high and short, like something a long way off.
 
-On the nineteenth day the princess's cup went down the boat. She had it in her two hands and looked at it, and then she held it out to Aurelian on her left, and Aurelian passed it to Elarine, and Elarine leaned and put it into Kael's mother's hand, and his mother looked at the princess once, the length of the boat, and drank it. Kael watched it go from hand to hand and understood exactly what it was, and decided that it was the thing a crown does where there are people to see it done, and thought about it no further.
+On the nineteenth day the princess's cup went down the boat. She had it in her two hands and looked at it, and then she held it out to Aurelian on her left, and Aurelian passed it to Elarine, and Elarine leaned and put it into Kael's mother's hand, and his mother looked at the princess once, the length of the boat, and drank it. Kael watched it go from hand to hand and understood exactly what it was, and decided that it was the thing a crown does where there are people to see it done.
 
-Valeria Vel had not left the princess's side. She had grown thin the way a blade grows thin, without changing shape; the burn down her face had healed into a shining thing with nothing but time; and she took her cup and did her turn at the sweep and stood her watch and did not once, in thirty days, sit down anywhere she could not reach the girl in a single movement.
+Valeria Vel had not left the princess's side. She had grown thin the way a blade grows thin, without changing shape; the burn down her face had healed into a shining thing with nothing but time; and she took her cup, shared it with the princess, and did her turn at the sweep and stood her watch and did not once, in thirty days, sit down anywhere she could not reach the girl in a single movement.
 
 Severin's hands shook more, and he kept them under his arms so as not to see it.
 
 And the boat came apart.
 
-The hole that could not be plugged had a sister by the second week, a seam a hand's width from it that opened when the hull worked and closed when it lay still, and by the third week it did not close. The bailing that had been Kael's became Kael's and Aurelian's, then Elarine's, then everybody's, in turns, all day, with the scoop and the cup and the princess's two wrapped hands, and the water in the low end never went back down to the boards again.
+The hole that could not be plugged had a sister by the second week. 
 
-"She has a day in her," said Severin, on the twenty-ninth morning. "Perhaps two. I am not going to lie to you about it."
+"This ship has a day in it," said Severin, on the twenty-ninth morning. "Perhaps two. I am not going to lie to you about it."
 
 Nobody asked him what happened after two.
 
@@ -158,21 +158,21 @@ He got up onto his knees.
 
 There was a line. Low and brown, the whole width of the north, with a haze lying along it; and the sea between here and there going a different colour in a long band, greener, as if the bottom had come up to meet them.
 
-"Master."
+"Master. Master! LAND!"
 
 Severin was already looking at it.
 
 "Yes," he said. "Sweeps. Everybody who has arms."
 
-It took the whole of the day. The current that had carried them thirty days ran along that coast and not onto it, and they rowed across it a stroke at a time, four people on two sweeps, the coats up on the stub, the hull sitting lower in the water every hour; by the middle of the afternoon Kael could see a town on the line: a paleness with a darker paleness above it, a stone arm going out into the sea, the masts of boats behind the arm. The current was carrying them past it, to the west. Severin looked at the arm, at the water, at the boat, and made the choice Kael had watched him make in the yard.
+It took the whole of the day. The current that had carried them thirty days ran along that coast and not onto it, and they rowed across it a stroke at a time, four people on two sweeps, the coats up on the stub, the hull sitting lower in the water every hour; by the middle of the afternoon Kael could see a town on the line. The current was carrying them past it, to the west. Severin looked at the arm, at the water, at the boat, and made a choice.
 
-"We will not make the harbour," he said. "The sand, then. There. Before she goes."
+"We will not make the harbour," he said. "The sand, then. There. Before the ship drifts any further."
 
-She went about fifty strides from the sand.
+The ship went about fifty strides from the sand.
 
-The hull touched, and dragged, and touched again, and the seam that would not close opened the rest of the way with a noise like a door; the sea came in over the boards all at once, and the boat sat down under them in three feet of green water and stopped being a boat.
+The hull touched, and dragged, and touched again, and the seam that would not close in it opened the rest of the way with a noise like a door; the sea came in over the boards all at once, and the boat sat down under them in three feet of green water and stopped being a boat.
 
-They waded. His mother went first with the child inside her coat and one hand over him. Aurelian carried the princess on his good side until she told him not to. Kael went last, with his father's sword held up out of the water in both hands like a thing he was being made to carry for a punishment, and the sand came up under his feet, and he walked on it, and it was the first ground under him in thirty days, and it moved, because his legs had forgotten what ground did.
+They waded. His mother went first with the child inside her coat and one hand over him. Valeria carried the princess. Kael went last, with his father's sword held up out of the water in both hands like a thing he was being made to carry for a punishment, and the sand came up under his feet, and he walked on it, and it was the first ground under him in thirty days, and it moved, because his legs had forgotten what ground did.
 
 He stood on the shore of a country he did not know with his knees going and the water running off him, and above the sand, on the brown, there were men coming down.
 
@@ -192,7 +192,7 @@ He looked at the eight of them for a long moment: at burned children, at an old 
 
 The captain looked at the girl.
 
-Kael looked at her too, and saw what the man saw: a child of fourteen the colour of the sand, with her hair salted into ropes and her hands wrapped in strips torn off her own hem, standing in what had been blue and gold once, and thin, so thin that the bones of her face had come up through it. He would not have believed it either.
+Kael looked at her too, and saw what the man saw: a child the colour of the sand, with her hair salted into ropes and her hands wrapped in strips torn off her own hem, standing in what had been blue and gold once, and thin, so thin that the bones of her face had come up through it. He would not have believed it either.
 
 "Water," said the captain, over his shoulder.
 
