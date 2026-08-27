@@ -370,7 +370,7 @@ His mother finished the piece of bread she was eating.
 
 "His eyes were damaged at the birth," she said. "It was a bad birth, in a bad place, with a fight against the wall of the room. They are bound because the light hurts them, and they will stay bound until I say otherwise, and I will not say otherwise for a long time. Anybody who takes the cloth off him will do him harm. Write that, if the people who read letters need it."
 
-She said it in the voice she used for the result of a trial, flat, even, finished, with nothing under it that anybody at that table could have got hold of..
+She said it in the voice she used for the result of a trial, flat, even, finished, with nothing under it that anybody at that table could have got hold of.
 
 "Of course," said the governor. He put his hand flat to his breast and inclined his head to her, the household's gesture and not the empire's. "Lady Drusane. Nothing will touch him in this house."
 
