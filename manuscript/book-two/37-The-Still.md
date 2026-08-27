@@ -52,7 +52,7 @@ Kael had known that since he was nine years old. He had been shown it with a pot
 
 "No," said his mother.
 
-Then she looked up, at last, at the two of them, Aurelian Corvane and Elarine Sedrane..
+Then she looked up, at last, at the two of them, Aurelian Corvane and Elarine Sedrane.
 
 ---
 
