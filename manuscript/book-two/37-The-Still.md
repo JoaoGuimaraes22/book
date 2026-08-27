@@ -194,15 +194,23 @@ The captain looked at the girl.
 
 Kael looked at her too, and saw what the man saw: a child the colour of the sand, with her hair salted into ropes and her hands wrapped in strips torn off her own hem, standing in what had been blue and gold once, and thin, so thin that the bones of her face had come up through it. He would not have believed it either.
 
-"Water," said the captain, over his shoulder.
+The captain went down on one knee in the wet sand.
 
-One of the spears came forward with a skin and held it out, and when nobody took it, looked at the captain, and the captain moved his head, and the man went to the old man on his knees and put it into his hands.
+He did it at once, and the six behind him did it half a beat after, the spears going upright beside them; and Kael watched it happen and read it exactly. They had gone down at the name, the way a hand goes up when a thing is thrown at it, and not one of their eyes had left Valeria's blades while they did it.
 
-Severin drank. Then he held it out without looking, and Kael's mother took it and drank, and the skin went down the line of them on that sand while the captain watched; and when it came to Kael he put it to his mouth and there was water in it, and he stopped doing anything else.
+"Highness," said the captain, to the sand. "Forgive the spears. This coast was not told to expect you, and the sea brings us a great many things that say they are what they are not. Will you take water?"
 
-"Nobody sends for the governor from a beach," said the captain. He was looking at the princess again, and something in his face was being careful. "You will walk. It is not far. My men will walk with you, and you will keep your hands where they are."
+She inclined her head, about the width of a finger.
 
-"We will walk," said Severin, and got up, and it took him two tries.
+The captain said a word over his shoulder without getting up, and one of the spears came forward with a skin and held it out to her; and Valeria Vel took it out of his hand before it reached her, and drank from it first, and gave it to the princess. The captain saw that and said nothing about it. Then the skin went down the line of them on that sand, the old man, Kael's mother, the rest, while the watch stayed on their knees; and when it came to Kael he put it to his mouth and there was water in it, and he stopped doing anything else.
+
+"The governor will receive you, Highness," said the captain, when the skin had gone round. He had not moved. "It is not far, and there is shade at the gate. If it please you to walk, my men will walk with you."
+
+She turned toward the town, and he got up.
+
+Nobody said anything about hands. The spears did not go back over the shoulders.
+
+Severin got up, and it took him two tries.
 
 ---
 
@@ -250,7 +258,7 @@ The sun was on her. It had been on her for a month, and it had taken the colour 
 
 The governor said her name.
 
-He said the whole of it — *Aeliana Cassivara Vessantine* — the way the herald had said it over the sand of the arena, every piece in its place; and it came out of him not as a herald says a name but as a man says a thing he has just been made to believe. Then he went down onto one knee in the dust of his own square, in the imperial way, with the head bowed; and the household on the steps behind him did a different thing, all together, a hand flat to the breast and the head going down over it; and the captain, after a moment, did the household's thing and not the governor's.
+He said the whole of it — *Aeliana Cassivara Vessantine* — the way the herald had said it over the sand of the arena, every piece in its place; and it came out of him not as a herald says a name but as a man says a thing he has just been made to believe. Then he went down onto one knee in the dust of his own square, in the imperial way, with the head bowed, and it was not the knee the captain had given her on the sand, at a name, with his eyes on the blades: the whole of the man went down with this one. The household on the steps behind him did a different thing, all together, a hand flat to the breast and the head going down over it; and the captain, after a moment, did the household's thing and not the governor's.
 
 "Highness," said the governor, to the ground. "I am Hazoun Sabrane, who keeps Qeshet for the Emperor. This house is yours."
 
