@@ -9,7 +9,7 @@
 - [established-facts.md](established-facts.md) — facts no single chapter owns; names in use, blocked and available.
 
 ## DESIGN-TIME — read when designing a chapter, not at every open
-- [planted-clues.md](planted-clues.md) — the clue ledger: what was planted, where, and the fence on it. `scripts/clues.sh <keyword>` checks the fences on what a scene touches — **after the scene is designed, never before**; **never read whole** — the script is its only reader, and the payoff column (a spoiler) stays behind `-p`, on request.
+- [planted-clues.md](planted-clues.md) — the clue ledger: what was planted, where, and the fence on it. Book One's PAID cohort, lifted at the book boundary per the ledger's own rule: [planted-clues-book-1.md](planted-clues-book-1.md) — not parsed by the script; spot-read on demand. `scripts/clues.sh <keyword>` checks the fences on what a scene touches — **after the scene is designed, never before**; **never read whole** — the script is its only reader, and the payoff column (a spoiler) stays behind `-p`, on request.
 
 ## ACCUMULATORS
 - [chapter-records.md](chapter-records.md) — one canonical record per committed chapter of the CURRENT PART (summary + FACTS tail). Read at every open, skipping chapters read in full from `manuscript/`. **Per-Part roll:** when a Part closes, its records move to a file of their own (below); the Parts are never consolidated per book (author, s52).
