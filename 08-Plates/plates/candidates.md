@@ -349,15 +349,124 @@ Every entry was checked against **THE PLATE FOLLOWS THE PAGE** when it was writt
 
 ## Ch. 28 — Turning Point
 
-*Written at s52, at design time. **The author was offered the eight below and handed the pick back** (s52: *you choose*), so the two ★ were taken.*
+*Written at s53, at design time. **The author was offered the eight below and handed the pick back** (s53: *you choose*), so the two ★ were taken.*
 
 **THE FENCE IS Ch. 27's, ON WORSE MATERIAL: you do not draw the stroke, you draw the men.** This is the chapter where a thirteen-year-old kills for the first time and a thirteen-year-old girl goes down a road like a woman going down a row of beans. Every entry below is composed on the second before or the second after, and the framing that carries each is written into it.
 
-1. ★ **The hand back.** — **BUILT (s52): sheet `ch28.md`.** *Then the weight went off his arm and down, and Kael got his hand back and stood in the lane with it out in front of him, open, not touching anything.* Waist-up, close: the left arm out in front of him, the hand open and touching nothing, red to the elbow over the new pink skin Severin gave him yesterday, the face given three working parts and no verdict because *he reached for his own face and there was nothing there to reach for.* The man is a second out of frame below the bottom edge. **The chapter's centre.**
-2. ★ **Rearranging the road.** — **BUILT (s52): sheet `ch28.md`.** *She put both hands down at her sides and set her feet and the lane came up.* Side-on, mid-thigh up: perfectly still, both blades hanging point-down, nothing coming off her hands — and three broken masses of roadbed standing up the lane away from her in a line, the near one at the height of the house roofs. **The earth twin of `ch26/the-fan`**, and the folder's first picture of her art at this scale. No body is drawn on any of them.
-3. **The white on the blade.** The threading held visible the whole length of the short blade, in fog, where fifteen men can see it: *It showed. It had always showed. White, running the length of the steel.* Chest-up, the blade up across the frame. **The coat coming off the Art** — *Four years of putting it away. It took him no time at all to stop* — and the first picture of Kael's own threading. **Passed over at s52:** it is `ch21/the-surge`'s register a second time, and that plate is his father's; the moment survives the chapter and can be taken when it is not competing with two better ones.
-4. **"You didn't ask them anything."** The emptied road between two walls of dry stone, chest-up, the two turned three-quarters to each other — his hands still half up with nothing to put them on, her breathing not different, looking at him for about a second before *No.* The four are below the bottom edge. **Passed over at s52:** it is `ch27/i-need-you`'s composition with the tempers swapped, one chapter later.
+1. ★ **The hand back.** — **BUILT (s53): sheet `ch28.md`.** *Then the weight went off his arm and down, and Kael got his hand back and stood in the lane with it out in front of him, open, not touching anything.* Waist-up, close: the left arm out in front of him, the hand open and touching nothing, red to the elbow over the new pink skin Severin gave him yesterday, the face given three working parts and no verdict because *he reached for his own face and there was nothing there to reach for.* The man is a second out of frame below the bottom edge. **The chapter's centre.**
+2. ★ **Rearranging the road.** — **BUILT (s53): sheet `ch28.md`.** *She put both hands down at her sides and set her feet and the lane came up.* Side-on, mid-thigh up: perfectly still, both blades hanging point-down, nothing coming off her hands — and three broken masses of roadbed standing up the lane away from her in a line, the near one at the height of the house roofs. **The earth twin of `ch26/the-fan`**, and the folder's first picture of her art at this scale. No body is drawn on any of them.
+3. **The white on the blade.** The threading held visible the whole length of the short blade, in fog, where fifteen men can see it: *It showed. It had always showed. White, running the length of the steel.* Chest-up, the blade up across the frame. **The coat coming off the Art** — *Four years of putting it away. It took him no time at all to stop* — and the first picture of Kael's own threading. **Passed over at s53:** it is `ch21/the-surge`'s register a second time, and that plate is his father's; the moment survives the chapter and can be taken when it is not competing with two better ones.
+4. **"You didn't ask them anything."** The emptied road between two walls of dry stone, chest-up, the two turned three-quarters to each other — his hands still half up with nothing to put them on, her breathing not different, looking at him for about a second before *No.* The four are below the bottom edge. **Passed over at s53:** it is `ch27/i-need-you`'s composition with the tempers swapped, one chapter later.
 5. **Please. Let us pass.** Half a step forward, one hand out and open, mouth open mid-word — *It came out in his mother's accent, with the ends of the words where she had put them* — the nearest man turning round to see what spoke, and Valeria at the frame edge already moving and not looking at him. **The chapter's moral hinge as a picture of a boy asking politely**, composed the instant before she answers it.
 6. **The crossroads.** Both of them stopped on open ground at the top of the village: *blood to the elbow on both arms, a cut on her jaw, her hair out of its binding on one side*, standing and breathing and not sitting down; him beside her, hands hanging, looking at the left one. Waist-up, both grounded. **Carries the death-education answer without a word of it** — and it is the only entry here that puts the two of them in one frame after the lane.
-7. **The island in front of the gate.** From the top of the rise: cut stone high on the shoulder of the ground with men on it, one gate, and in front of it a crowd with no edges — back down the road, off both sides into the terraces and the ditches, over the shoulder of the hill and out of sight. Two small dark figures at the near edge. *He tried to count it … then the number came apart in his hands.* **Priced at s52 and left standing:** it is `ch27/the-sky`'s shape — a wash of thousands and one small figure — one chapter later, and the wall is not finished with the book.
+7. **The island in front of the gate.** From the top of the rise: cut stone high on the shoulder of the ground with men on it, one gate, and in front of it a crowd with no edges — back down the road, off both sides into the terraces and the ditches, over the shoulder of the hill and out of sight. Two small dark figures at the near edge. *He tried to count it … then the number came apart in his hands.* **Priced at s53 and left standing:** it is `ch27/the-sky`'s shape — a wash of thousands and one small figure — one chapter later, and the wall is not finished with the book.
 8. **The man with the coil of rope.** In the ditch with his hat still on. Yesterday he stepped into Kael's path on the road down to the arena and took the hat off. Seen from the road going past, no face resolved, nothing in the frame explained. **The horror is entirely in the reader's memory**, which is the cheapest and quietest thing this chapter has.
+
+---
+
+## Ch. 29 — The Gate
+
+*Written at s53, at design time. **The author handed the pick back** (s53: *you choose*), so the two ★ were taken.*
+
+1. ★ **The eighteen inches.** — **BUILT (s53): sheet `ch29.md`.** Both his hands flat on the edge of the open leaf, his face turned up, *"Sir. Please. My mother is on the mountain"* — and the gap a tall slot of warm light with a broad shape filling it and no features on him. **Halden's face is not drawn and cannot be** until `images/portraits/halden.png` exists (`ch13.md`).
+2. ★ **The shawl.** — **BUILT (s53): sheet `ch29.md`.** *"You're bleeding, love."* A woman past fifty crouched beside him with the corner of her own shawl against his shoulder and a stoppered bottle in the other hand, talking about somebody called Ilva. She is working and he is looking at her face. **The only warm picture in Part IV, and nothing in it is lit warm.**
+3. **She let herself be seen.** Valeria alone in the strip of open ground in front of the spear line, covered to the elbows, hair out of its binding on one side, two blades, saying nothing, with the wall above and thirty thousand people behind. **Passed over at s53:** a solo Valeria one chapter after `ch28/rearranging-the-road`.
+4. **Elarine on the wall.** A hundred and forty strides out and below: forty men on a stretch of parapet, two of them children, one of them stopped. *They were in and he was out.* No face resolved at that distance, which is the entry's whole point.
+5. **The count.** Thirty-one thousand at the low end, taken off a strip and checked against a second strip. **Priced at s53 and left standing:** it is `ch27/the-sky`'s shape — a wash of thousands and one small figure.
+6. **The mountain is not empty.** From the high ground east: eleven fires spread across four miles of ground that has thirty holdings on it, men going along the field walls the way water goes along a gutter, boats on the eastern water, and the mountain standing in the haze with its top in cloud. **The widest thing in Part IV** and the strongest unbuilt candidate on this chapter.
+7. **Go back to your place.** The old woman putting the bottle away, working four steps back into the press, and standing in it — after being given the only thing he owned that was worth anything, correct to the minute and checked twice.
+
+---
+
+## Ch. 30 — The Houses
+
+*Written at s53, at design time.*
+
+1. **The fold under the terrace.** A woman and three children in a hole in the bank with dead bramble pulled across it so that it looks like it came down on its own. *"Stay until it's dark. Not dusk. Dark."* **His conscience acting, at a cost of eleven minutes he counted and carried** — and he never learns whether it held.
+2. ★ **The dock leaves.** — **BUILT (s53): sheet `ch30.md`.** Down in the corner where the wall meets the bank, forearm over the bright part of his face, eyes open on purpose, six backlit men going past nine feet above his head. **His father's whole school in one frame and none of it explained.**
+3. **Nobody looks up.** Flat on the tiles eight feet above a man who has stopped at the wall to look along the terrace, close enough to count the back of his neck. The chapter's cleanest piece of fieldcraft.
+4. **The lamp on the tread.** A dark stair, a lamp caught before it landed and set upright on the tread still burning, and a boy going up past it. **A hand-and-object crop, and cold as anything in the book.**
+5. **I'm sorry, little one.** Fifteen feet apart on a threshing floor, the big man in a plain coat with nothing on it, saying it gently in Kael's mother's accent with the ends of the words where she puts them. **Blocked:** he has no portrait and he is not finished with this book.
+6. ★ **The white in all of him.** — **BUILT (s53): sheet `ch30.md`.** The father coming in through the gate at the height of a man with lightning held in the whole of his body and not coming off, a longsword carrying the same white and *the sword was the least of it*, in his own working jacket with the sleeves rolled the way they are rolled every morning.
+7. **Carried.** One arm under the back and one under the knees, the white running down the chest against the boy's cheek and going round him, the ground going past, the mountain black above with its top in the cloud. **Passed over at s53** only because it is the same figure in the same minute in the same light as candidate 6.
+
+---
+
+## Ch. 31 — The Line
+
+*Written at s53, at design time. **Neither plate is of Valeria, in her own chapter** — she is the eye in both and appears in neither, which is what she does for the whole of it.*
+
+1. ★ **The hand flat.** — **BUILT (s53): sheet `ch31.md`.** By the cistern head in the evening: a woman who has just put her own name to a wall gives her daughter instructions, and then puts her hand flat against the side of her head and leaves it there. **The mother's face is out of the frame and Elarine's is the picture.**
+2. **Drusane's two hands.** *Then he took his son's face in both hands and held it, and Lucan stood and let him.* **Blocked:** no `images/portraits/lucan.png`.
+3. **You were always enough.** Oss's father holding him by both arms, not mentioning the name once. **Blocked** for the reason `ch13.md` gave in the first place: there is no portrait of Oss and a plate is not where a face gets decided.
+4. **Severin agreed with by the wrong man.** *There was nothing on his face at all, and she thought that a man who has just been agreed with does not usually look like that.* **Passed over at s53:** it asks the block for a face doing nothing, which §Gaze forbids and which renders as vacancy. Available to a session willing to solve it.
+5. ★ **The shutter.** — **BUILT (s53): sheet `ch31.md`.** A man goes to the window himself rather than sending anybody, closes it, comes back and finishes his sentence — with nineteen people standing round a bare table in lamplight behind him and the last of a cold daylight going out of the gap. **No face is resolved anywhere in it.**
+6. **The princess's one contribution.** *"Then I do not see the difficulty,"* and the turn of a hand on the arm of a chair, with nineteen standing people and one seated girl. **Passed over:** it is `ch22/the-box`'s composition indoors.
+
+---
+
+## Ch. 32 — The Mountain
+
+*Written at s53, at design time.*
+
+1. ★ **The white in her hair.** — **BUILT (s53): sheet `ch32.md`.** Firelight, two faces, and one loose piece of her hair hanging between them going white from the root the way frost runs across the top of a pail — with her hands on his chest and his father's hands on his shoulders. **The whole family in one crop and the father is two hands.**
+2. **The two short blades.** Put down on the boards beside his right hand where he can reach them lying down, unmatched, one with a nick dressed out of it by somebody who knew how. *Kael did not say thank you, because it would have made it a smaller thing.*
+3. **The briefing.** A boy of thirteen giving the ground to a captain of the royal guard, pointing with a short blade — the path, the two bends, the scree, the woodpile that will go with three men on it. *He has been telling us for four years that everything is measurable and we have all been extremely funny about it.*
+4. **The princess in the yard.** In the shoes she wore on a raised floor, a soldier's cloak over a gown with gold along a hem ruined to the knee, her hair down on one side, standing where they put her and looking at the orange in the cloud and not at the house.
+5. **Valeria in front of the house.** *It was a small house. One room, a loft, a door that held.* She looks at it for a long moment and asks which way the water is. **A year, a treeline, a sea court, and she still does not ask.**
+6. **Oss's half-step.** **Blocked:** no portrait.
+7. ★ **The lights on the mountain.** — **BUILT (s53): sheet `ch32.md`.** From the top of the woodpile he has stood on since he was four: seven lights below the bend, nineteen strung along the terrace under the olive line, one mass of light at the bottom of the path. **The deliberate inverse of `ch01/fallen-stars`.**
+
+---
+
+## Ch. 33 — The Breach
+
+*Written at s53, at design time. **The chapter's worst material is not on this list as a picture** — s51's dropped grim plates are the folder's guidance on which half of a chapter like this to take.*
+
+1. ★ **The lamp.** — **BUILT (s53): sheet `ch33.md`.** *"The lamp. Bring it to my left, hold it at the height of my shoulder, and do not put it down."* A princess of the empire holding a light at the height of an old man's shoulder with a dried stain down her sleeve. **The mother, the child and the work are all out of the frame.**
+2. ★ **The sword.** — **BUILT (s53): sheet `ch33.md`.** The blade taken in his left hand halfway down, the grip turned over into his son's right, the boy's fingers closed on it by his father's own, one press, and let go. *Both hands. It is not a knife. You will grow into it in a year.*
+3. **Facing the wrong way.** Carried down the slot over an old man's shoulder, awake, arms swinging, the sword still in hands that would not open — watching the yard, the pens, the grey flat and the roof of the only house he has ever lived in take at one corner and go up. **The strongest unbuilt image left in Book One.**
+4. **Walking out with nothing in either hand.** The father crossing his own ground toward four hundred men, seen from behind, empty-handed, after the sword has changed owner.
+5. **The mountain going.** An old man on one knee at the eastern edge of the yard with both palms flat on the stone, and four hundred feet of terrace and olive line letting go and going down the way water goes down.
+6. **Kael holding his brother.** *He weighed about as much as a lamb. Less.* — a fingernail, a strip of linen, and four seconds of being completely and unspeakably happy. **Deferred at s53** to a chapter that can hold it without the mother's body or the newborn's eye in the frame; `ch36/the-finger` is where it went.
+7. **Nobody was surprised.** The mother watching her elder son's face and not the child's, from the floor. **Blocked by the seal**, not by the tool: what it draws is a reaction to a thing this sheet has kept out of frame.
+
+---
+
+## Ch. 34 — The Run
+
+*Written at s53, at design time. **Both plates are the mother, which is the chapter.***
+
+1. ★ **The elbow.** — **BUILT (s53): sheet `ch34.md`.** *She took the girl's elbow and moved it about an inch, and looked at the result, and let go.* A newborn going into a princess's arms on a shelf of rock, with the instructions given by hand. *"You will be extremely good at this."*
+2. ★ **The bowl.** — **BUILT (s53): sheet `ch34.md`.** From eight feet behind her: the ground taken bald for eighty strides in a line as clean as a scythe cut, four hundred fires gathered into one thing two hundred strides wide, and three old olive trees coming apart along the grain into long white strips going out flat. **Her face is never on the page during it and it is not in the picture.**
+3. **Elarine lighting the bowl.** Nothing coming off her hands, nothing crossing the air, and three hundred strides of hillside catching at once exactly where the fuel was. **Passed over:** the same picture as candidate 2 with a different woman in front of it.
+4. **Aurelian talking.** One good hand out and not touching a princess, correct in every particular, for two miles, for nobody. *"Put your foot flat, do not go on the toe of it, flat, all of it, like a horse — that's it."* **The warmest thing in Part IV.**
+5. **Both faces wet.** Mother and son running side by side with the water coming down both of them and neither mentioning it, their eyes going over each other for something under a second.
+6. **Eleven feet of live wood.** Root and thorn driven up through solid rock across the mouth of a cut in half a minute, with three-inch thorns standing off it, by an old man bleeding out of the nose.
+7. **I have got you. I love you.** **Passed over at s53:** a hand on the side of a head for the third time in four chapters.
+
+---
+
+## Ch. 35 — The Range
+
+*Written at s53, at design time.*
+
+1. ★ **The white room.** — **BUILT (s53): sheet `ch35.md`.** Eight people on the boards of a boat inside a room made of steam, the walls of it standing on the sea and going up past the mast, lit from underneath through the water, and the sky above it open and black. **The best thing in Book One that nobody had drawn.**
+2. ★ **The spotter.** — **BUILT (s53): sheet `ch35.md`.** A boy kneeling at the strake with a day-old child up on his shoulder and his hand flat on its back, mouth wide open on a shouted word, calling a man's feet for his mother. **Two open mouths and neither of them is heard.**
+3. **The mother in the bow.** Standing up in it facing the island with her hands loose at her sides, and then not choosing any more. **Passed over:** `ch34/the-bowl` with water in front of her instead of stubble.
+4. **The sail going over the side.** Valeria up on the thwart with a wet coat and Aurelian taking the bottom of it one-handed, walking a burning sail over the side while it is still going.
+5. **Cut it.** Elarine getting up off the boards with nothing left in her and cutting the mast away.
+6. **Getting smaller.** Lying along the strake watching the man who killed his father stand on a rock with his hands behind his back. **Blocked:** no portrait of him, and `ch13.md` says the work that unblocks that is a portrait.
+
+---
+
+## Ch. 36 — The Quiet
+
+*Written at s53, at design time. **The last two plates of Book One.***
+
+1. ★ **The finger.** — **BUILT (s53): sheet `ch36.md`.** A fist no bigger than two joints of his finger, closed on it and not letting go, and a boy sitting completely still on the boards of a drifting boat counting the breathing. **The first picture in the set where his hands are doing nothing at all.**
+2. **The loaf.** A day-old loaf broken by hand and sent down a boat from person to person, because *it will not be worth eating tomorrow.* **Wants eight resolved faces in a hull forty feet long.**
+3. **The boat words.** The old man giving him twenty of them in an hour at the tiller and making him say them back in a different order. *"Good. Tomorrow I'll teach you some more."* **The strongest single thing left unbuilt in Book One, and the folder still has no plate of Severin.**
+4. **The princess holding him.** Sitting down on the wet boards in what is left of a gown with her ruined hands under a herder's child, getting the head wrong and correcting it before anybody said anything. **Passed over:** `ch34/the-elbow` one day later.
+5. ★ **No lights.** — **BUILT (s53): sheet `ch36.md`. THE LAST PLATE OF BOOK ONE.** The island black on the horizon at about the width of two hands, the orange gone out of the cloud, a sword he cannot lift lying along the boards — and nothing lit anywhere on it. **The third picture in the `ch01/fallen-stars` — `ch32/the-lights-on-the-mountain` rhyme.**
+6. **The inventory.** A knife, a length of cord and a flat grey stone laid out on the boards between them. *That is what I have. You have a knife, a bit of cord and a stone. And I have you, and I have him.*

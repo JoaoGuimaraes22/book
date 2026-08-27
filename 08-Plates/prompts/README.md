@@ -24,6 +24,6 @@ Paste `../canon-brief.md` once at the top of the conversation first.
 
 **NO STORED PROMPT.** `kael-17`, `valeria-17`, `aeliana-18` — age progressions run with a changed age line that was never written down.
 
-**NO ADOPTED IMAGE.** `plates/ch01-the-catch` · `ch01-room-of-true-things` · `ch01-telling-the-goat` · `ch01-talking-the-goat-down` · `ch02-done` · `ch08-seeing-about-the-goat` · `ch12-the-hole-through-the-tree` (ran; rejected) · `portraits/kael-9-still` (not run).
+**NO ADOPTED IMAGE.** `plates/ch01-the-catch` · `ch01-room-of-true-things` · `ch01-telling-the-goat` · `ch01-talking-the-goat-down` · `ch02-done` · `ch08-seeing-about-the-goat` · `ch12-the-hole-through-the-tree` (ran; rejected) · `portraits/kael-9-still` (not run) · **every `plates/ch28-*` through `plates/ch36-*` file** — the sixteen blocks composed at s53 for Ch. 28 to the end of Book One; none has been run, and each is as-written on its sheet.
 
 **Until s47, `portraits/elarine-14` was built from the wrong block.** An alternative eye clause sat between her heading and her SUBJECT block and the build took the first fence, so the file's SUBJECT was that clause. The adopted image predates the clause and was cut from the real block; the file is correct from s47.
