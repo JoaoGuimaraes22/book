@@ -2,24 +2,24 @@
 **Glance:** Kael's mother; teacher of the mind · ex-asset of the program — bearer of the bloodline (00) · age unpinned, **and the same as Vask's (author, s34)** · **widowed, marked in three places, and running a boat the way she ran a house; her elder son did not ask her the question, and she knows it.**
 
 ### STATIC
-- **Name:** Chosen, not given (00). Belongs to no naming register; villagers assume it foreign; its true nature is sealed — never explain on the page.
+- **Name:** Chosen, not given (00). Belongs to no naming register; villagers assume it foreign; its true nature is sealed (00) and unexplained on the page.
 - **Role:** The program's asset, harvested as a child — he was made; she was taken. The bloodline is hers to give. Teaches Kael the mind: languages, far-counting, mechanics, herb-lore and reagent-craft, chemistry, and magic as perception — rationed in drops (00).
 - **Wound/Shame:** As Vask's, and deeper — the program's return aims at her lineage, and now her sons. Watches the sea for a ghost she believes she killed.
 - **Flaw:** As Vask's. Not a perfect parent.
-- **Abilities:** AIR proficiency (revealed at the declaration — one word, no demonstration); the bloodline beneath it, unchanged (00). Never explain on the page.
-- **Teaching signature:** history rationed, never on asking; shut doors in her stories; the governor — "Smaller. Always smaller than you can." — and what else that instruction is doing is in 00 (never explain). The relief-tell is spent — do not respend.
+- **Abilities:** AIR proficiency (revealed at the declaration — one word, no demonstration); the bloodline beneath it, unchanged (00), unexplained on the page.
+- **Teaching signature:** history rationed, never on asking; shut doors in her stories; the governor — "Smaller. Always smaller than you can." — and what else that instruction is doing is in 00 (unexplained). The relief-tell is spent.
 - **Appearance:** Dark-haired, dark-eyed; passes as village until she is still — then the stillness has a quality the village doesn't make. Fine bones under worked hands; the hands know too many trades — the lie's weak point. Handsome and unremarkable in the same breath, with ages of watching in the face.
 
 ### DYNAMIC
 - **Widowed, marked in three places, running a boat the way she ran a house.** The first two marks came from mending her son's broken ribs with nature out of her own element, in labour — quartz-clean and permanent, and he watched them arrive; the third came in the night nobody watched, at the front above her right temple, and he found it at first light and priced it to the grain. Nobody says what any of it cost and nobody will.
-- **SHE KNOWS HE DID NOT ASK.** She felt him take the breath, and did not offer him anything. *Ask me on the water* stands as a promise instead of an answer, with the reason she gave — she has nothing to spend on it, and he would get it badly and have it badly for ever. **Do not have her volunteer it.** She is aboard for Book Two; nothing of the past is owed before it opens.
+- **SHE KNOWS HE DID NOT ASK.** She felt him take the breath, and did not offer him anything. *Ask me on the water* stands as a promise instead of an answer, with the reason she gave — she has nothing to spend on it, and he would get it badly and have it badly for ever. **She has not volunteered it.** She is aboard for Book Two; nothing of the past is owed before it opens.
 - **She held her son while he went, and told him none of the useful lies** — not that it was not his fault, not that there had been no time. She ran the debrief because it is what she has, and when it stopped being one she simply held on to him.
 - **She gave the subtraction in her own mouth:** two bundles roped and stood by that door on the morning the games opened, and not one thing out of them is aboard. *That is what I have. You have a knife, a bit of cord and a stone. And I have you, and I have him.*
 - **She saw her son go for a princess of the empire and said only his name**, once, and has never said anything else about it — which is not the same as not having seen it. Then she let him hand that girl the baby.
 - **She watched her husband die**, turned round in time to see all of it, and said so to her son, out loud, on the broken ground. She took the sword off the boy when nobody else could, and handed it up to Severin without any expression on her face.
-- **THE CONCEALMENT IS OFF HER.** She cried in front of Kael, which he had never once seen, and called him *my love*, which she had never called him. Do not walk it back and do not explain it.
+- **THE CONCEALMENT IS OFF HER.** She cried in front of Kael, which he had never once seen, and called him *my love*, which she had never called him. Unexplained, and not walked back.
 - **HER ART IS SPENT ON THE PAGE AND IT IS NOT HER CEILING.** Air at mass scale — ground taken bald, nine olive trunks split into strips, a hundred-odd men coming apart at the joints of the body, and no noise from the working, only from the men — and then the same instrument turned to defence at saturation, from the bow with her back to the boat, taking what is thrown and putting it in the sea until she stopped choosing and took whatever arrived in the order it arrived. **Her son priced her to the grain both times and found no bottom.** **Her face was turned away for the whole of both and not one person saw it; she did not turn round for a long time and nobody said her name.** What she is is Book Two's (`../07-Story-Ledger/standing-rules.md`). She has explained nothing and will not.
-- **HER OWN CONTROL FAILED IN THE DELIVERY AND HER EYES CAME UP RED.** Severin and the princess saw it; **Kael did not and must not**; the girl is sworn. **She does not know that she was seen.**
+- **HER OWN CONTROL FAILED IN THE DELIVERY AND HER EYES CAME UP RED.** Severin and the princess saw it; **Kael did not**; the girl is sworn. **She does not know that she was seen.**
 - **WREN IS BORN AND SHE HAS BOUND HIS EYES** — quickly and well and not tight, her palm flat over the whole of it, off a strip Severin tore before anybody asked. Nothing was explained to anybody, and she will not explain it.
 - **She said it plainly, once, on the mountain:** whatever happens in that house, her sons must live. The only time she has ever put it in words.
 - **She takes her son's count as fact and works off it**, and does not soften anything for him; she told him the fifth one was his.
@@ -29,8 +29,8 @@
 - **She refused Kael the history in the same words two years running** — *"It is still the only true one."* — and held, against Vask and in front of their son, that the man on the road might be an empire noticing a clever boy rather than their own past. Neither of them was proved right in front of the boy, and now only she can be.
 - **What she conceals:** why the delivery had to be Severin's (Kael has the cover reason, which is true and is not the reason); the history; what she is.
 - **Knows:** the public flash, in full — she debriefed him on it herself; the bouts and the blades, told whole. **Does not know:** the hidden contact; the bind idea; that Kael cracked her night-watch pattern; that he knows the sea never freezes; who Halden is — the name meant nothing to her; that she was seen.
-- **Spent, do not respend:** the danger admission; the one shown fear; the relief-tell.
+- **Spent:** the danger admission; the one shown fear; the relief-tell.
 
 ### FORWARD
-- **The chest (00):** her old dagger lay under the floorboards with Vask's sword. Whether the Ch. 4 night-watch blade IS this dagger is a VALVE: never resolve. Where the dagger goes is in 00.
+- **The chest (00):** her old dagger lay under the floorboards with Vask's sword. Whether the Ch. 4 night-watch blade IS this dagger is a VALVE, open by design (`../04-Outline.md` §Open valves). Where the dagger goes is in 00.
 - **Status:** **ABOARD at the end of Book One** with the newborn and the master, on a hull with no mast. The separation, the extraction and the no-farewell are **Book Two's, deferred whole** (author, s49). Her fate goes back to unconfirmed when that is spent — a low flame under the whole series. She becomes MYSTERY as Vask becomes MEMORY: Kael's archaeology of his father ends; his archaeology of his mother never does.

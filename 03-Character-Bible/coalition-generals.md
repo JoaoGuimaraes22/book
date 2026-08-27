@@ -3,9 +3,9 @@
 
 ### STATIC — the group
 - **Role:** the coalition's five. Sealed material — what they are, what they answer to, why one of them grieves what he does — is in 00 (not read at open or draft time).
-- **THE PAGE FENCE (hard, and it is the whole licence — author, s43):** they have **NAMES** and nothing else. **The word *general* appears on no page of Book One.** No rank, no number, no seniority, no structure, no command relation, ever. Every name arrives **in one of their own mouths**, in the downhill language, in Kael's hearing — never from a herald, an officer, or the narration. Kael reads five bodies and never once a command; what tells him what they are is that *the men already on that ground went out of their way for them without being told to.*
-- **Naming register:** the coalition's own (`../02-World-Bible/naming.md`) — one name each, no house, no -ANE. Against an empire whose children carry three names and a house. **Never remarked on.**
-- **Why they are all at a herder's croft:** because a princess of the empire is standing in its yard (00 §True causality). **Kael's own hands are in the chain and he must never assemble it.**
+- **WHAT THE PAGE HAS OF THEM (author, s43):** **NAMES** and nothing else. **The word *general* appears on no page of Book One.** No rank, no number, no seniority, no structure, no command relation. Every name arrives **in one of their own mouths**, in the downhill language, in Kael's hearing — never from a herald, an officer, or the narration. Kael reads five bodies and never once a command; what tells him what they are is that *the men already on that ground went out of their way for them without being told to.*
+- **Naming register:** the coalition's own (`../02-World-Bible/naming.md`) — one name each, no house, no -ANE. Against an empire whose children carry three names and a house. **Unremarked on the page.**
+- **Why they are all at a herder's croft:** because a princess of the empire is standing in its yard (00 §True causality). **Kael's own hands are in the chain and he has not assembled it.**
 - **Character Law applies to each of them and none of them is built yet.** They are future important characters; nothing below is a personality, only what a page has shown.
 
 ### PELLAN — dead
@@ -41,4 +41,4 @@
 
 ### FORWARD
 - **All four survivors were in that yard and saw what Vask was.** What the coalition's command now believes about the man they called the Phantom, and about the woman and the two children who went down the eastern slot, is **OPEN and is a door.**
-- Book Two+: whether any of them is ever named as what he is; whether the *why he feels it* reveal survives Pellan's death and in whose mouth; Character Law kits for all four. **Do not resolve without a session.**
+- Book Two+: whether any of them is ever named as what he is; whether the *why he feels it* reveal survives Pellan's death and in whose mouth; Character Law kits for all four. All open.
