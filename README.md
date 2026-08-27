@@ -36,4 +36,8 @@ Two principles hold the whole thing together: **the files are the sole source of
 
 ## Licence
 
-All rights reserved. See [`LICENSE`](LICENSE) — the text of this novel is not open source, and the repository being public is not permission to reuse it.
+Released under [**CC BY-SA 4.0**](LICENSE) — Creative Commons Attribution-ShareAlike 4.0 International.
+
+You are free to share and adapt this work, for any purpose including commercially, on two conditions: **credit it**, and **license anything you build from it under the same terms**.
+
+> *Book One* by Sebas ([github.com/JoaoGuimaraes22](https://github.com/JoaoGuimaraes22)), licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
