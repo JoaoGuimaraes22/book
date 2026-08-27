@@ -409,7 +409,7 @@ Every entry was checked against **THE PLATE FOLLOWS THE PAGE** when it was writt
 
 *Written at s53, at design time.*
 
-1. ★ **The white in her hair.** — **BUILT (s53): sheet `ch32.md`.** Firelight, two faces, and one loose piece of her hair hanging between them going white from the root the way frost runs across the top of a pail — with her hands on his chest and his father's hands on his shoulders. **The whole family in one crop and the father is two hands.**
+1. ★ **The white in her hair.** — **BUILT AND ADOPTED (s53): `images/plates/ch32-the-white-in-her-hair.png`, first run, on the author's optimised block; sheet `ch32.md`.** Firelight, two faces, and one loose piece of her hair hanging between them going white from the root the way frost runs across the top of a pail — with her hands on his chest and his father's hands on his shoulders. **The whole family in one crop and the father is two hands.**
 2. **The two short blades.** Put down on the boards beside his right hand where he can reach them lying down, unmatched, one with a nick dressed out of it by somebody who knew how. *Kael did not say thank you, because it would have made it a smaller thing.*
 3. **The briefing.** A boy of thirteen giving the ground to a captain of the royal guard, pointing with a short blade — the path, the two bends, the scree, the woodpile that will go with three men on it. *He has been telling us for four years that everything is measurable and we have all been extremely funny about it.*
 4. **The princess in the yard.** In the shoes she wore on a raised floor, a soldier's cloak over a gown with gold along a hem ruined to the knee, her hair down on one side, standing where they put her and looking at the orange in the cloud and not at the house.
