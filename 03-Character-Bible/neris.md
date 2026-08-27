@@ -1,5 +1,5 @@
 ## NERIS (the mother)
-**Glance:** Kael's mother; teacher of the mind · ex-asset of the program — bearer of the bloodline (00) · age unpinned, **and the same as Vask's (author, s34)** · **delivered of her second son and widowed inside the same hour; took a hillside apart with air on the way down it; aboard a hull on the eastern water with a bound child against her.**
+**Glance:** Kael's mother; teacher of the mind · ex-asset of the program — bearer of the bloodline (00) · age unpinned, **and the same as Vask's (author, s34)** · **widowed, marked in three places, and running a boat the way she ran a house; her elder son did not ask her the question, and she knows it.**
 
 ### STATIC
 - **Name:** Chosen, not given (00). Belongs to no naming register; villagers assume it foreign; its true nature is sealed — never explain on the page.
@@ -11,6 +11,11 @@
 - **Appearance:** Dark-haired, dark-eyed; passes as village until she is still — then the stillness has a quality the village doesn't make. Fine bones under worked hands; the hands know too many trades — the lie's weak point. Handsome and unremarkable in the same breath, with ages of watching in the face.
 
 ### DYNAMIC
+- **SHE IS MARKED IN THREE PLACES NOW.** The third came in the night nobody watched, at the front above her right temple, and her son found it at first light and priced it to the grain and has said nothing about it to anybody.
+- **SHE HELD HER SON WHILE HE WENT, AND TOLD HIM NONE OF THE USEFUL LIES.** Not that it was not his fault, not that there had been no time. She ran the debrief because it is what she has, and when it stopped being one she simply held on to him.
+- **SHE GAVE THE SUBTRACTION IN HER OWN MOUTH:** two bundles roped and stood by that door on the morning the games opened, and not one thing out of them is aboard. *That is what I have. You have a knife, a bit of cord and a stone. And I have you, and I have him.*
+- **SHE SAW HER SON GO FOR A PRINCESS OF THE EMPIRE AND SAID ONLY HIS NAME**, once, and has never said anything else about it — which is not the same as not having seen it. Then she let him hand that girl the baby.
+- **SHE KNOWS HE DID NOT ASK.** She felt him take the breath, and did not offer him anything. **Do not have her volunteer it.**
 - **SHE STOOD IN THE BOW OF A BOAT AND ANSWERED A SATURATION BARRAGE WITH HER BACK TURNED.** She takes what is thrown and puts it in the sea, one at a time while there is a second between them — **and past that she stops choosing** and takes whatever arrives in the order it arrives. Hours after the bowl, hours after the delivery. **Her face is never on the page during it and her son never sees it.**
 - **She took her son's count as fact and worked off it**, and afterwards told him the fifth one was his.
 - **She stopped a question with a promise instead of an answer** — *Ask me on the water* — and gave the reason plainly: she has nothing to spend on it and he would get it badly and have it badly for ever. **She is aboard for Book Two; nothing of the past is owed before Book One closes.**

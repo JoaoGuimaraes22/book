@@ -1,5 +1,5 @@
 ## SEVERIN (the master)
-**Glance:** head of the Temple — THE FIRST MASTER; the family's secret savior and patron · empire past, his own man now · old, the way the split rock is old · **he delivered the child, took a mountain off its own flank, closed a cut behind them with living wood, and got all eight of them onto his own hull.**
+**Glance:** head of the Temple — THE FIRST MASTER; the family's secret savior and patron · empire past, his own man now · old, the way the split rock is old · **he got all eight of them onto his own hull, and now he is teaching one boy the names of the parts of a boat, which is the only school he has left.**
 
 ### STATIC
 - **Name:** Severin — on-page mostly "the master"; spend the name sparingly so it carries weight.
@@ -13,6 +13,10 @@
 - **Appearance:** Old the way the split rock is old; tall, gone lean, a scholar's stoop that once wasn't. Hair fully grey — the second reading never confirmed. **Eyes dark, near black (author ruling, s34).** **SPENT at Ch. 31**, in Valeria's read, as *very dark* — the only dark thing left in that face, giving out precisely nothing; **the exact shade is still unspent** and *near black* has never been on a page. A soldier's frame under a master's robes: wrists too thick for the ink they carry. A face that is courteous, unhurried, and gives out nothing it hasn't priced.
 
 ### DYNAMIC
+- **HE RUNS A SCHOOL WITH ONE PUPIL IN IT.** He teaches Kael the boat, twenty words in an hour, said back in a different order — *there has never been one clever word in a boat* — and says *Good. Tomorrow I'll teach you some more.* Nobody says what it costs a man whose Temple is gone, and nobody may.
+- **HE GAVE THE NUMBER STRAIGHT:** four hundred and six that morning, ninety-one in the courtyard by evening, *and I have stopped doing that sum at night, because it does not have an end.*
+- **HE GAVE THE SWORD BACK**, and told the boy it is far too much sword for him and to keep it where it will not roll.
+- **THE HULL'S FENCE HELD UNDER DIRECT PRESSURE.** Asked how there is so little, he said *"It was not stocked for eight."* — true, and it answers nothing — **and nobody asked him what it had been stocked for.** His Ch. 31 deferral is unspent: they are not on the other side of that water.
 - **HE SAILED THEM OUT OF RANGE AND LOST THE BOAT DOING IT.** At the tiller from the cut to the open water with nothing left in him, giving orders in boat words nobody else aboard owns. **The mast is gone and they are drifting**, and he has not said what happens next.
 - **HE STOPPED KAEL FOLLOWING HIS MOTHER AND SAID *"I know what she is."*** — sourced nothing, was never asked to explain it, and it is entirely deniable as *she gave birth an hour ago*. **A NEW VALVE: never resolve it, and never let a later page have him account for it.**
 - **NATURE IS NOT ONLY MENDING IN HIS HANDS.** He drove living root and thorn eleven feet deep up through the floor and walls of a cut in half a minute and closed the road behind them, and got up crooked with the nose bleeding again. **The page explains none of it and nobody theorises it.**

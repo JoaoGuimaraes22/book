@@ -39,6 +39,8 @@
 - The father teaches the body; the mother teaches the mind and magic.
 - The parents are never seen fighting until the fire. The father dies in it.
 - The mother gives birth to the brother at the end of Act One. **She, the newborn and the master are ABOARD at the end of Book One** — the extraction and the parting are Book Two's (author, s49; `standing-rules.md`).
+- **BOOK ONE ENDS AT CH. 36**, on a becalmed hull one day out, with the island still on the horizon and no lights on it.
+- **A student's HOUSE is not at the games** — a parent or two travels and the seat stays on the continent (`../02-World-Bible/temple.md`), so the Temple children who got off the island are bereaved and not houseless. Corvane and Sedrane both survive the raid.
 - **Eight get off the island alive:** Kael, Neris, Wren, Severin, Valeria, Aeliana, Elarine Sedrane, Aurelian Corvane. The hull loses its mast on the way out and drifts. The trio still crosses the continent together; Book One no longer ends at the moment it becomes three.
 - The raiders are COALITION forces. Kael's initial truth: they are the enemy.
 - The master placed the parents on the island, and brought Kael to the Temple as "the master's charity case."

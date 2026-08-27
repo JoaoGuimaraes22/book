@@ -1,5 +1,5 @@
 ## VALERIA VEL
-**Glance:** rival → first friend · Line of Vel (eleven generations — tiers in `../02-World-Bible/factions.md`) · 13 (Kael's age) · **aboard the hull, burned down one side of her face, one arm she will not mention, and she has now crossed that mountain end to end and still has not asked one question about it.**
+**Glance:** rival → first friend · Line of Vel (eleven generations — tiers in `../02-World-Bible/factions.md`) · 13 (Kael's age) · **aboard the hull; she let him say it and stopped his hand, and she has still not asked one question about that mountain.**
 
 ### STATIC
 - **Role:** Daughter of the Line of Vel. Kael's rival, then first friend. The rest of her role is in 00.
@@ -13,6 +13,9 @@
 - **Appearance:** Lean, strong, athletic — a working build that reads as function even at rest. Long black hair worn loose well past the shoulders, no ornament (lengthened s33 — the page moved with it, Ch. 14). Emerald green eyes — color spent at reading distance only; worn plain and bored as display (the boredom died against Kael). Her stillness WARNS — nothing like his. Knuckles older than her face; guard-lineage calluses. Rooms rearrange around the name before the girl; reverence draws her one untrained tell, the microscopic flinch — **SPENT at Ch. 27** (the s32 close DE-LISTED it: available, not owed).
 
 ### DYNAMIC
+- **SHE STOPPED THE HAND AND NOT THE MOUTH.** She did not move while Kael blamed the princess to her face; she was in front of him before the arm was anywhere, said *"Kael, stop it. Please,"* and held while he pushed. **This is not the crown-vs-Kael choice** — she stopped the body so as never to have to make it, and nobody can call her on it. **The choice is still not made.**
+- **She lied for him afterwards, mildly and correctly** — *"He is tired, Highness."* — and put her feet back on the princess's left at the distance she keeps.
+- *Please* has now been spent twice in the manuscript. It stays rationed.
 - **She worked a sweep one-armed, put a burning sail over the side, and never spent a grain** — earth, on water, with nothing under her to read or take. **Inert twice in two chapters, and both times she did the work with her hands.**
 - **She took the front off a terrace one-armed** — three columns up through the made ground — and priced herself out loud: two more of those and then she is just blades.
 - **She has now crossed the whole of that mountain and still has not asked him one question about it.**

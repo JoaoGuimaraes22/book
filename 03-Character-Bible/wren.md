@@ -1,5 +1,5 @@
 ## WREN (the brother)
-**Glance:** Kael's brother; second carrier of the bloodline · **BORN — hours old, on the page, with a strip of linen bound across his eyes** · aboard a hull on the eastern water, hours old, with the linen still across his eyes.
+**Glance:** Kael's brother; second carrier of the bloodline · **BORN — hours old, on the page, with a strip of linen bound across his eyes** · a day and a night old, on a drifting hull, with the linen still across his eyes and his brother's finger in his fist.
 
 ### STATIC
 - **Name:** Wren — the mother teaches languages "for the birds"; her second son is a bird. (Why the name weighs what it weighs: 00.)
@@ -7,6 +7,8 @@
 - **Appearance (decided; 00 s20):** his mother's dark hair — and **HIS EYES ARE PERMANENTLY RED.** Born with the bloodline OPEN: massive capacity from birth, uncontrolled. His eyes resolve to the BLOODLINE, not to a parent: Kael's grey belongs to nobody, Wren's red to something older than anybody (the rest is in 00). A newborn carrying the devil-eyes of the folklore CANNOT BE HIDDEN — consequences flagged in 00, none of them designed.
 
 ### DYNAMIC
+- **HIS BROTHER HAS HELD HIM PROPERLY NOW** — two hands, daylight, no barrage — and counted his breathing until it made a shape, and his hand shut on Kael's finger and stayed shut. **The linen is still across his eyes. Nobody on that boat has touched it and nobody has explained it.**
+- He has been handed to the princess a second time, and this time she asked.
 - **He was handed to his brother and screamed through the whole of a barrage**, and stopped when it stopped. **Kael has now held him twice, and the second time was for an hour with one arm.**
 - **HE CRIED ON AN OPEN MOUNTAIN** with men hunting the people carrying him, for a hundred and forty seconds, and stopped on his own, **and not one person said one word about it.**
 - **He has been handed to a princess of the empire and given back.**

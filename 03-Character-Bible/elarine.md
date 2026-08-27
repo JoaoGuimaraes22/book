@@ -1,5 +1,5 @@
 ## ELARINE SEDRANE (the watcher — pride that learns)
-**Glance:** the cohort's real mind; collegial ally · House Sedrane · ~13 · **alive and aboard, carrying nothing at all, after lighting three hundred strides of hillside in a single instant.**
+**Glance:** the cohort's real mind; collegial ally · House Sedrane · ~13 · **alive and aboard; her house survives her mother, and it will go on with her.**
 
 ### STATIC
 - **Role:** Considers herself the cohort's real MIND (Aurelian its capacity, its name, its noise) — and she is right. With Aurelian: the two responses to being out-thought — his world breaks, hers gets bigger. Proof the golden children are not a monolith.
@@ -16,6 +16,9 @@
 - **Appearance:** Ink-dark hair bound severely; pale, economical — nothing on her that doesn't work; small; dark eyes that price before they blink. Forgettable at a glance and unforgettable the third time you notice she hasn't moved. What others react to: they mostly don't — which she has noticed, and wears as neatness.
 
 ### DYNAMIC
+- **HER HOUSE SURVIVES AND HER MOTHER DOES NOT**, and the machine that disposes of her is untouched: *my house will go on with me.* She has worked out that the compliment was said because the woman knew she was dying, **and she does not know what to do with it, which has never once happened to her.**
+- **She said it out loud when Aurelian made her:** *"They are probably dead."*
+- **She comforted Kael and it cost her nothing she noticed** — *I am sorry* — and put her hand flat on his back for a moment and took it away again.
 - **She got up off the boards with nothing left in her and cut a burning mast off a boat.** She had priced herself out loud hours earlier and was exactly right about it, and she got up anyway. **Do not write her as spent-out; write her as empty and still working.**
 - **SHE READ THREE HUNDRED STRIDES OF BLACK HILLSIDE IN NINETY SECONDS AND LIT EVERY SEPARATE THING IN IT THAT WOULD BURN, IN THE SAME INSTANT** — four hundred fires, each exactly where the fuel was, and not one grain spent anywhere that did not want it. **The discipline half of the treasury, at scale.** Do not write her as spent-out: she prices herself first and then delivers.
 - **She is genuinely carrying nothing now**, and she said so before she spent it, not after.

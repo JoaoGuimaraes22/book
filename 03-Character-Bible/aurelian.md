@@ -1,5 +1,5 @@
 ## AURELIAN CORVANE (the ringleader — pride that breaks)
-**Glance:** the cohort's presumptive best; ringleader → training ally · House Corvane · ~13 · **alive and aboard, emptied to the floor of himself, and he talked the whole way down that mountain.**
+**Glance:** the cohort's presumptive best; ringleader → training ally · House Corvane · ~13 · **alive and aboard, with a duty that arrived and a message for a brother who is still at court.**
 
 ### STATIC
 - **Role:** The cohort's best before Kael arrives; capacity-worship made flesh; the face of the science-vs-pride engine. Sealed irony (00): his mockery of Kael's method is the empire failing to recognize its most wanted asset.
@@ -11,6 +11,9 @@
 - **Appearance:** Tall for his cohort, built a year ahead of his age; dark-gold hair; **amber, gold-brown eyes — author ruling s34, unspent on any page**; high carriage; unspent strength Kael prices on sight. Beautiful and knows the exact weight of it — the bench behaves differently in his radius (render the radius, not the adjective). Fire's warmth in the coloring without stating it — it sits in the hair and the eyes together, and is never named as fire.
 
 ### DYNAMIC
+- **HE NAMED THE DUTY AND MADE IT EVERYONE'S:** the princess reaches the capital, *and that is not a duty anybody here was given. It is one that arrived.* He carries his father's message to a brother who is alive at court, and he has not said so.
+- **HIS HOUSE IS SAFE AND IT IS NOT THE SMALLEST COMFORT TO HIM.** Twenty-nine carry the name; two were on that island. Only his father stayed on the wall.
+- **HE COULD NOT FIND THE WORDS AGAIN AND SAID SO** — *there is not one, so I am saying it badly and you will have to take it as it comes* — and then put his shoulder against Kael's shoulder and shut up, **which for him is an enormous undertaking.**
 - **He pulled a sweep one-handed out of a rock cut, and then lay on the boards with both hands over the back of a princess's head for the length of a barrage**, talking to the wood. **He is the one who keeps putting his body between other people and the thing**, and nobody has remarked on it.
 - **HE TALKED THE ENTIRE WAY DOWN THAT MOUNTAIN** — steadily, in order, correct in every particular, for nobody, and when he was told to be quieter he was quieter and did not stop.
 - **He got the princess of the empire up off stone one-handed before anybody else had turned round**, and carried her down the last shelf to the boat on his good side.
