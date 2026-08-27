@@ -178,27 +178,27 @@ He stood on the shore of a country he did not know with his knees going and the 
 
 ---
 
-Six of them, with spears. He priced them without meaning to, because it was what he did, and got ordinary: ordinary men, drilled, the spears carried the way men carry spears who have been taught how and have not needed it; white cloth and the empire's blue on brown arms, with more cloth wound about their heads against a sun Kael was beginning to understand. A seventh behind them with no spear and a short sword, older. Kael watched the seventh.
+Six of them, with spears. He priced them without meaning to, because it was what he did, and got soldiers, clearly drilled; white cloth and the empire's blue on brown arms, with more cloth wound about their heads against a sun Kael was beginning to understand. A seventh behind them with no spear and a short sword, older. Kael watched the seventh.
 
 And the eight of them got ready, badly, in the order their bodies took it.
 
-Valeria Vel was in front of the princess before Kael had finished the count. She had come out of the water with both blades drawn, and she put herself between six spears and a girl in the remains of a gown without any hurry at all, because there was no hurry left in her to use. Aurelian Corvane got to the princess's other side and got his good arm out in front of her, and Elarine Sedrane's sword came up in her right hand with the left open beside it and nothing in the left at all.
+Valeria Vel was in front of the princess. She had come out of the water with both blades drawn, and she put herself between six spears and a girl in the remains of a gown without any hurry at all, because there was no hurry left in her to use. Aurelian Corvane got to the princess's other side and got his good arm out in front of her, and Elarine Sedrane's sword came up in her right hand with the left open beside it.
 
-Kael's two blades were out of his belt and in his hands, and the sword stayed on his back, where it had been for a month, because it was not a thing he could use. He was three strides in front of his mother and did not remember getting there; the count had six spears in it and one short sword and the softness of the sand and the fact that his legs were not going to do what he told them, and it went on running anyway, because it did not know how to stop.
+Kael's two blades were out of his belt and in his hands, and his father's sword stayed on his back. He was three strides in front of his mother and did not remember getting there; the count had six spears in it and one short sword and the softness of the sand and the fact that his legs were not going to do what he told them, and it went on running anyway, because it did not know how to stop.
 
 Behind him his mother took the child out of her coat and put him into the old man's arm, and Severin, on his knees, took him without looking up and put his other hand flat on the wet sand and left it there; and her hands came down loose at her sides.
 
-The men coming down the beach looked at all of it and saw children, one of them burned down the side of the face, and did not slow. Then Valeria moved, half a step, and the front two of them stopped walking as if they had reached a wall.
+The men coming down the beach looked at all of it and saw children, and did not slow. Then Valeria moved, half a step, and the front two of them stopped walking as if they had reached a wall.
 
 The seventh came through them.
 
-He looked at the eight of them for a long moment: at burned children, at an old man on his knees in the wet sand with his head down and something held against his coat, at a woman with white in her black hair and her hands empty at her sides, at a boy with two blades in his hands and a longsword on his back that he plainly could not lift. Then he looked past them at the sea, where there was nothing at all, and back.
+He looked at the eight of them for a long moment: at burned children, at an old man on his knees in the wet sand with his head down and a newborn held against his coat, at a woman with white in her dark hair and her hands empty at her sides, at a boy with two blades in his hands and a longsword on his back. Then he looked past them at the sea, where there was nothing at all, and back.
 
 "Where from?" he said. It was the empire's tongue, with the shape of another tongue under it.
 
-"The Temple," said Aurelian Corvane, from the princess's other side. "The island. The Temple. I am Aurelian Corvane. This is Elarine Sedrane. That is the First Master. This—" he took a breath that cost him something "—is Her Serene Highness Aeliana Cassivara Vessantine, and you will send to whoever keeps this town, and you will send now."
+"The Temple," said Aurelian Corvane. "The island. The Temple. I am Aurelian Corvane. This is Elarine Sedrane. That is the First Master. This—" he took a breath that cost him something "—is Her Serene Highness Aeliana Cassivara Vessantine, and you will send to whoever keeps this town, and you will send now."
 
-The captain looked at the girl.
+The captain looked at the princess.
 
 Kael looked at her too, and saw what the man saw: a child the colour of the sand, with her hair salted into ropes and her hands wrapped in strips torn off her own hem, standing in what had been blue and gold once, and thin, so thin that the bones of her face had come up through it. He would not have believed it either.
 
@@ -212,9 +212,9 @@ Kael put the blades away. He had to tell his hands twice. His mother took the ch
 
 She inclined her head, about the width of a finger.
 
-The captain said a word over his shoulder without getting up, and one of the spears came forward with a skin and held it out to her; and Valeria Vel took it out of his hand before it reached her, and drank from it first, and gave it to the princess. The captain saw that and said nothing about it. Then the skin went down the line of them on that sand, the old man, Kael's mother, the rest, while the watch stayed on their knees; and when it came to Kael he put it to his mouth and there was water in it, and he stopped doing anything else.
+The captain said a word over his shoulder without getting up, and one of the spears came forward with a skin and held it out to her; and Valeria Vel took it out of his hand before it reached her, and drank from it first, and gave it to the princess. The captain saw that and said nothing about it. Then the skin went down the line of them on that sand, the old man, Kael's mother, the rest, while the watch stayed on their knees.
 
-"The governor will receive you, Highness," said the captain, when the skin had gone round. He had not moved. "It is not far, and there is shade at the gate. If it please you to walk, my men will walk with you."
+"The governor will receive you, Highness," said the captain, when the skin had gone round. He had not moved. "It is not far, and there is food, shade and water at the gate. If it please you to walk, you and your people, my men will walk with you."
 
 She turned toward the town, and he got up.
 
@@ -224,11 +224,11 @@ Severin got up, and it took him two tries.
 
 ---
 
-It was a mile. He counted every stride of it, because he could count again, because there was water in him.
+It was a mile. He counted every stride of it, and it was easy to count again, because there was water in him.
 
-The country came in over that mile in the order the body took it. The ground was brown and hard, and the light came up off it as well as down, so that there was no shade anywhere, not even your own. The heat did not come from the sun. It came from everything. Ahead, the town rose out of the brown the same colour as the brown, walls the colour of the ground with the ground's own grain in them, as if the ground had been made to stand up; and over the top of the walls, green: the heads of trees he had never seen, bare-stemmed and tall with all the green at the top of them, going over in the wind like people leaning. Behind the town, nothing. The brown went back and up into haze and did not stop.
+The country came in over that mile in the order the body took it. The ground was brown and hard, and the light came up off it as well as down, so that there was no shade anywhere, not even your own. Ahead, the town rose out of the brown the same colour as the brown, walls the colour of the ground with the ground's own grain in them, as if the ground had been made to stand up; and over the top of the walls, green: the heads of trees he had never seen, bare-stemmed and tall with all the green at the top of them, going over in the wind like people leaning. Behind the town, nothing. The brown went back and up into haze and did not stop.
 
-His mother walked in the middle of the spears with the child on the side of her away from them. She did not look at the men. She walked plainly, with her head down a little, a woman carrying a baby; and Kael, who had been looking at her his whole life, saw that every step she took knew where every one of the spears was, and that if the man on her left had moved his hand she would have been three strides off before the hand finished. Nobody else saw it. There was nothing to see.
+His mother walked in the middle of the spears with the child on the side of her away from them. She did not look at the men. She walked plainly, with her head down a little, a woman carrying a baby; and Kael, who had been looking at her his whole life, saw that every step she took knew where every one of the spears was, and that if the man on her left had moved his hand anywhere near her, she would cut it her before it ever hit her. Nobody else saw it. There was nothing to see.
 
 Kael counted the spears and where they were, and the wall when it came, and how many men stood on it, and where the road went inside, and did not know he was doing it until the old man beside him said, quietly, "Enough, boy. If they wanted us dead we would be wet."
 
@@ -238,15 +238,15 @@ He went on counting.
 
 There was water at the gate.
 
-He heard it before there was a gate, before the wall had a gate in it. It ran in a channel of cut stone along the foot of the wall and went in under the road through an arch the height of a dog, and it was running, loud, quick, white where it went over a lip in the stone, and going on doing it whether anybody drank it or not. Kael stopped in the road. One of the spears put a hand on his shoulder and he did not feel it. He stood and looked at water going past in the open, with nobody counting it, in a quantity that would have kept eight people alive for a year, going under a road; and could not make his legs do anything; and it was his mother, in the end, who came back for him and took him by the sleeve and walked him in.
+He heard it before he saw it. It ran in a channel of cut stone along the foot of the wall and went in under the road through an arch the height of a dog, and it was running, loud and quick where it went over a lip in the stone. Kael stopped in the road. He stood and looked at water going past in the open, with nobody counting it, in a quantity that would have kept eight people alive for a year, going under a road.
 
 Inside the gate the town closed over them like a hand. The street was narrow and went up, and the walls on either side went up further, pale, with the doors in them shut and the windows small and high; and over the top of it all cloth had been stretched from wall to wall, so that the light came down in stripes, and it was cooler by the width of a hand. There were people. They stood back against the walls to let the spears through and looked, and Kael looked back, because he could not help that either: loose pale cloth on all of them, men and women alike, wound and hung so that almost nothing of the person showed but the face and the hands; and the faces brown, and the eyes dark, and the hands — he looked at the hands — the hands doing nothing. Nobody in that street was reaching for anything. Somewhere off to the left, behind the walls, there was the noise of a great many voices at once, none of which he could make out through the stone, and a smell came out of it: spice, dung, hot oil, something rotting sweetly, and bread. Kael's stomach turned over and tried to climb out of him.
 
-Then a square, and a house bigger than the others, with a door in it a cart could have gone through, and the captain going in through the door ahead of them; and the eight of them left standing in the sun in the square of a town none of them could have named, with five spears about them and every window watching.
+Then a square, and a house bigger than the others, and the captain going in through the huge door ahead of them; and the eight of them left standing in the sun in the square of a town none of them could have named, with five spears about them and every window watching.
 
 ---
 
-The governor came out to them.
+Then, this "governor" came out to them.
 
 Kael understood, later, that this was the whole of the man: that a careful man does not have eight strangers brought in to him. He goes out and looks at them where they stand, in the open, with his own people round him and the door at his back.
 
@@ -268,17 +268,17 @@ The sun was on her. It had been on her for a month, and it had taken the colour 
 
 The governor said her name.
 
-He said the whole of it — *Aeliana Cassivara Vessantine* — the way the herald had said it over the sand of the arena, every piece in its place; and it came out of him not as a herald says a name but as a man says a thing he has just been made to believe. Then he went down onto one knee in the dust of his own square, in the imperial way, with the head bowed, and it was not the knee the captain had given her on the sand, at a name, with his eyes on the blades: the whole of the man went down with this one. The household on the steps behind him did a different thing, all together, a hand flat to the breast and the head going down over it; and the captain, after a moment, did the household's thing and not the governor's.
+He said the whole of it — *Aeliana Cassivara Vessantine* — the way the herald had said it over the sand of the arena, every piece in its place. Then he went down onto one knee in the dust of his own square, in the imperial way, with the head bowed, and it was not the knee the captain had given her on the sand, at a name, with his eyes on the blades: the whole of the man went down with this one. The household on the steps behind him did a different thing, all together, a hand flat to the breast and the head going down over it.
 
 "Highness," said the governor, to the ground. "I am Hazoun Sabrane, who keeps Qeshet for the Emperor. This house is yours."
 
-Kael heard the name and turned it over. Two pieces, and the pieces did not match: a first name out of this brown country, and a second out of the same box as Corvane and Sedrane and Drusane, worn one after the other by the same man as if they had always gone together. Kael, who had learned at the Temple what a name carries, filed it beside the other thing.
+Kael heard the name and turned it over. Two pieces, and the pieces did not match: a first name out of this brown country, and a second out of the same box as Corvane and Sedrane and Drusane, worn one after the other by the same man as if they had always gone together. Kael, who had learned at the Temple what a name carries, filed it.
 
 "Then get up," said Aeliana.
 
 Her voice had thirty days of sea in it, and the square went still for it anyway.
 
-"Get up, Governor. There are eight of us and we have not eaten. Do that first."
+"Get up, Governor. There are eight of us and we have not eaten. We need food, and rest. Do that first."
 
 ---
 
