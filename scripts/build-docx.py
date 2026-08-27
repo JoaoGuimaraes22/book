@@ -27,6 +27,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BOOK = sys.argv[1] if len(sys.argv) > 1 else "book-one"
 CHAPS = os.path.join(ROOT, "manuscript", BOOK)
 PLATES = os.path.join(ROOT, "08-Plates/images/plates")
+PORTRAITS_DIR = os.path.join(ROOT, "08-Plates/images/portraits")
 OUTDIR = os.path.join(ROOT, "build")
 JPGDIR = os.path.join(OUTDIR, "plates-jpg")
 
@@ -35,6 +36,7 @@ PAGE_W, PAGE_H = 6.0, 9.0
 MARGIN = 0.7
 TEXT_W = PAGE_W - 2 * MARGIN          # 4.6in
 PLATE_MAX_W, PLATE_MAX_H = 4.6, 6.2
+PORTRAIT_MAX_W, PORTRAIT_MAX_H = 2.9, 4.0   # a face reads smaller than a moment
 
 # ---------------------------------------------------------------- anchors ---
 # Plates whose sheets carry no usable page quote. Value: a snippet of the
@@ -64,6 +66,25 @@ MANUAL = {
  (36, "no-lights"):                      "LAST",
 }
 
+# -------------------------------------------------------------- portraits ---
+# References set at the moment the book first puts that person in front of the
+# reader. `images/portraits/` are references, not pages (08-Plates/README.md
+# §The files) — placing them here makes them pages, which is the author's call
+# (s55). Book One ages only: kael-17, valeria-17 and aeliana-18 are Book Two+
+# states and are left out. (chapter, block the portrait follows, file, why)
+PORTRAITS = [
+    ( 1,  1, "kael-4.png",     "the boy in the loft the epigraph names"),
+    ( 1,  9, "vask.png",       "the naming - a stone put down on another stone"),
+    ( 1, 11, "neris.png",      "counting the boats; the stillness is the portrait"),
+    ( 4, 12, "severin.png",    '"This is the master," his mother said'),
+    ( 5,  4, "kael-9.png",     "the new school, the year he turns nine"),
+    (13, 26, "elarine-14.png", '"Again," Elarine said. "Smaller."'),
+    (13, 55, "aurelian-14.png","stepped into the cistern court"),
+    (14, 97, "valeria-14.png", "a girl his own age had just walked through it"),
+    (22, 60, "kael-14.png",    "he was thirteen; since he was four, to be seen"),
+    (24, 27, "aeliana-15.png", "her hair was down - Ch.22 wears it up, the reference is loose"),
+]
+
 def norm(s):
     s = unicodedata.normalize("NFKC", s)
     for a, b in (("’","'"),("‘","'"),("“",'"'),("”",'"'),
@@ -90,7 +111,7 @@ def canon_frags(body):
                 frags.append(norm(f))
     return frags
 
-def resolve_plates(chapters):
+def resolve_images(chapters):
     adopted = {}
     for p in sorted(glob.glob(os.path.join(PLATES, "*.png"))):
         m = re.match(r"ch(\d+)-(.+)$", os.path.basename(p)[:-4])
@@ -129,11 +150,20 @@ def resolve_plates(chapters):
         sys.exit("unanchored plates (add to MANUAL): " + ", ".join(missed))
     by_chapter = {}
     for (n, slug), (idx, path) in placed.items():
-        by_chapter.setdefault(n, {}).setdefault(idx, []).append((slug, path))
+        by_chapter.setdefault(n, {}).setdefault(idx, []).append((slug, path, "plate"))
     for n in by_chapter:
         for idx in by_chapter[n]:
             by_chapter[n][idx].sort()
-    return by_chapter, len(placed)
+    n_port = 0
+    for chap, blk, fn, _why in PORTRAITS:
+        src = os.path.join(PORTRAITS_DIR, fn)
+        if not os.path.exists(src):
+            sys.exit("missing portrait: " + src)
+        if chap not in chapters or blk >= len(chapters[chap]["blocks"]):
+            sys.exit("portrait anchor out of range: %s ch%02d block %d" % (fn, chap, blk))
+        by_chapter.setdefault(chap, {}).setdefault(blk, []).append((fn, src, "portrait"))
+        n_port += 1
+    return by_chapter, len(placed), n_port
 
 # ------------------------------------------------------------------ images --
 def jpeg_for(png):
@@ -214,11 +244,13 @@ def md_runs(p, text):
         out.append(r)
     return out
 
-def add_plate(doc, png):
+def add_image(doc, png, kind="plate"):
     jpg = jpeg_for(png)
     with Image.open(jpg) as im:
         w, h = im.size
-    width = min(PLATE_MAX_W, PLATE_MAX_H * w / h)
+    mw, mh = ((PLATE_MAX_W, PLATE_MAX_H) if kind == "plate"
+              else (PORTRAIT_MAX_W, PORTRAIT_MAX_H))
+    width = min(mw, mh * w / h)
     p = doc.add_paragraph()
     pf = p.paragraph_format
     pf.alignment = WD_ALIGN_PARAGRAPH.CENTER
@@ -236,7 +268,7 @@ def main():
         n = int(os.path.basename(f)[:2])
         blocks = [b.strip() for b in re.split(r"\n\s*\n", open(f).read()) if b.strip()]
         chapters[n] = {"blocks": blocks, "norm": [norm(b) for b in blocks]}
-    plates, n_plates = resolve_plates(chapters)
+    plates, n_plates, n_portraits = resolve_images(chapters)
 
     title = re.sub(r"-", " ", BOOK).title()
     try:
@@ -271,7 +303,7 @@ def main():
     for line in (
         "Draft manuscript. Working title to be decided.",
         "",
-        "%d chapters, %d plates." % (len(chapters), n_plates),
+        "%d chapters, %d plates, %d portraits." % (len(chapters), n_plates, n_portraits),
         "Each plate is set after the passage it depicts.",
         "",
         "Built from the repository at commit %s (%s)." % (sha, date),
@@ -305,8 +337,8 @@ def main():
              caps=True, after=8, keep=True)
         para(doc, name.strip(), size=17, align=WD_ALIGN_PARAGRAPH.CENTER,
              after=26, keep=True)
-        for p in marks.get(0, []):
-            add_plate(doc, p[1])
+        for _slug, path, kind in marks.get(0, []):
+            add_image(doc, path, kind)
 
         fresh = True   # next paragraph opens a scene: no first-line indent
         for bi in range(1, len(blocks)):
@@ -322,14 +354,14 @@ def main():
                      inset=0.25 if is_epigraph else 0.0,
                      after=10 if is_epigraph else 0)
                 fresh = False
-            for slug, png in marks.get(bi, []):
-                add_plate(doc, png)
+            for _slug, path, kind in marks.get(bi, []):
+                add_image(doc, path, kind)
                 fresh = True
 
     os.makedirs(OUTDIR, exist_ok=True)
     out = os.path.join(OUTDIR, title.replace(" ", "-") + ".docx")
     doc.save(out)
-    print("built: %s (%.1f MB, %d chapters, %d plates)"
-          % (out, os.path.getsize(out) / 1e6, len(chapters), n_plates))
+    print("built: %s (%.1f MB, %d chapters, %d plates, %d portraits)"
+          % (out, os.path.getsize(out) / 1e6, len(chapters), n_plates, n_portraits))
 
 main()
