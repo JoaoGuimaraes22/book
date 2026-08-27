@@ -32,7 +32,7 @@ Valeria Vel was not asleep. She was sitting on the thwart nearest the princess w
 
 And his mother was in the middle of the boat with her back against the strake and her knees up.
 
-The light came onto her face and then onto her hair, and Kael, who had been looking at her for a while without anything happening in his head at all, saw the quartz white her hair and mixed into.
+The light came onto her face and then onto her hair, and Kael, who had been looking at her for a while without anything happening in his head at all, saw the quartz white in the front of her hair, mixed into it.
 
 ---
 
