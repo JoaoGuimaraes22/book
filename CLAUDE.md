@@ -12,13 +12,13 @@ Every file has a CONTRACT, an ADMISSION TEST and an EVICTION PATH; content that 
 - `04-Outline.md` — the forward plan. Test: *not yet written?* Spent beats keep a one-line pin (the numbers are addresses cited from other files); their text rolls to `archive/outline-archive.md`. Unplaced material → §Queued threads.
 - `05-Continuity-Log.md` — live state. Test: *false in ten sessions?* Pointer-style. Caps: §STATUS two blocks of ≤4 lines (the record is `archive/session-log.md` §SESSION N); no arc retelling (07 and the manuscript own it); baselines are numbers only.
 - `06-Style-Sheet.md` — how the prose is written. Test: *governs sentences regardless of what has happened?* Amended in place; spend state → 07, vocabulary → 02.
-- `07-Story-Ledger/` — do-not-contradict canon. Test: *could a future page contradict this?* LAW CORE (timeline, standing-rules, magic-snapshot, open-threads, established-facts) is stable. `planted-clues.md` is the fence-check (`scripts/clues.sh`, run after a scene is designed, never before). ACCUMULATORS: `chapter-records.md` (the current Part; earlier Parts in `chapter-records-parts-1-3.md`, rolled at each Part close; **summary + FACTS only** — rulings, provenance and metrics go to the archive record) and `protected-phrasings.md` (script-parsed, never cold-read).
+- `07-Story-Ledger/` — do-not-contradict canon. Test: *could a future page contradict this?* LAW CORE (timeline, standing-rules, magic-snapshot, open-threads, established-facts) is stable. `planted-clues.md` is the fence-check (`scripts/clues.sh`, run after a scene is designed, never before). ACCUMULATORS: `chapter-records.md` (the current Part; a closed Part rolls to a file of its own — `chapter-records-parts-1-3.md`, `chapter-records-part-4.md` — never consolidated per book; **summary + FACTS only** — rulings, provenance and metrics go to the archive record) and `protected-phrasings.md` (script-parsed, never cold-read).
 - `08-Plates/` — reader-facing illustrations; SELF-CONTAINED — `08-Plates/README.md` governs it. Never a writing session's concern; **a plate session (*let's continue with image gen*) opens on its README §Session and skips the cold read.**
 - `archive/` — history: session records, rolled text, probes. Append-only; spot-read.
 - `manuscript/book-one/NN-Title.md` — the chapters.
 - `TOOLS.md` — the scripts and `nlm`.
 
-Not cold-read: `index.md` (TOC), `README.md` and `LICENSE` (the public front door — the repo is public under CC BY-SA 4.0), the archive, 08. There are no changelogs: `git log` and the session records carry what changed and why.
+Not cold-read: the `index.md` TOCs in 02/03/07, `README.md` and `LICENSE` (the public front door — the repo is public under CC BY-SA 4.0), the archive, 08. There are no changelogs: `git log` and the session records carry what changed and why.
 
 ## Session
 
@@ -27,7 +27,7 @@ Not cold-read: `index.md` (TOC), `README.md` and `LICENSE` (the public front doo
 2. Cold read — flag anything that itches BEFORE working; it is a free continuity audit.
    - **Every session:** CLAUDE.md · 05 · 04 · 06 · 01 · every 02 topic file · every 03 sheet · the 07 law core · **when drafting:** the last two chapters in full from `manuscript/` (cadence is calibrated locally; no summary carries it) · **when revising:** the chapter in hand and its neighbours in full · `07/chapter-records.md`, skipping the chapters read in full.
    - **Design-time (a new chapter):** the scene first; then `scripts/clues.sh <keyword>` on the things the scene touches, for the fences (its payoff column is a spoiler and stays behind `-p`, on request); `07/planted-clues.md` is never read whole; spot-read any older chapter or record the design rhymes against.
-   - **On demand:** `07/chapter-records-parts-1-3.md`, the archive, `TOOLS.md`, 08.
+   - **On demand:** the rolled chapter records (`07/chapter-records-parts-1-3.md`, `07/chapter-records-part-4.md`), the archive, `TOOLS.md`, 08.
 3. The target is 05 §NEXT TARGET. Never improvise one unless asked.
 
 **Work**

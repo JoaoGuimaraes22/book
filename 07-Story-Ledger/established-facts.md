@@ -1,5 +1,5 @@
 ## Established Facts (do not contradict)
-**LAW CORE.** Facts no single chapter owns. Per-chapter facts: `chapter-records.md` FACTS tails. Who a character *is*: `../03-Character-Bible/`. The positive word-register: `../02-World-Bible/lexicon.md`.
+**LAW CORE.** Facts no single chapter owns. Per-chapter facts: the FACTS tails of the chapter records (`chapter-records.md`; rolled Parts in `chapter-records-parts-1-3.md` and `chapter-records-part-4.md`). Who a character *is*: `../03-Character-Bible/`. The positive word-register: `../02-World-Bible/lexicon.md`.
 
 ### Names in use
 - **Kael** — no known surname. Does not learn surnames exist until the Temple.
