@@ -86,3 +86,30 @@ Rolled VERBATIM out of the `03-Character-Bible/` sheets at s52 (2026-08-27), whe
 
 ### FORWARD (as it stood)
 - **Status:** aboard the drifting hull, eyes still bound. **He is not separated from Kael in Book One** (author, s49). What comes after is in 00; a series-long door.
+
+## AELIANA CASSIVARA VESSANTINE (the princess) — `aeliana.md`
+
+### DYNAMIC (as it stood)
+- **SHE OFFERED THE BEST COIN SHE OWNS AND IT WAS OBSCENE, AND SHE MEANT IT ENTIRELY.** Their names read at court with their houses standing, *and I shall have it written down.* She prices twelve dead royal guard as correct and refuses to be delicate about it *because that would make it smaller than it was.* **Not evil, and never corrected on the page.**
+- **SHE WAS TOLD SHE WAS NOT WORTH IT, TO HER FACE, BY A BOY WHO THEN CAME AT HER** — the first contradiction of her life. She did not answer. **What it did shows only in the length of the silence and in what other people did with their hands.** Do not resolve what she made of it.
+- **SHE CROSSED A BOAT TO ASK TO HOLD A HERDER'S CHILD** — the first thing in her life she has asked for rather than sent for — sat down on wet boards to do it, got the head wrong and corrected it herself, and wanted nothing from anybody while she held him. **It is not an apology and nobody calls it one.**
+- **She was put flat on the boards of a boat by another child and held there through the whole of it**, with a rope coming down across the deck a hand from her head that she never knew about.
+- **SHE WALKED SIX MILES OF GOAT GROUND IN COURT SHOES**, fell three times, took it on her palms, and made no noise about any of it. Her hands are in a state anybody can see from fifteen feet and she has not mentioned them.
+- **She held a newborn for the length of a fight** because a herder's wife told her to and told her she would be extremely good at it.
+- **She has been carried, set down, made to walk, and got up off scree by another child**, and nobody has thanked her for any of it.
+- **SHE HELD THE LAMP.** Ordered to, in a herder's house, over a delivery; **took one small backward step she did not decide on**, and then did it, and did not put it down, and was very thoroughly sick against the wall afterwards, and came back and picked it up again. **The third time it dipped, nobody had to tell her.**
+- **SHE IS SWORN, AND SHE DOES NOT KNOW WHAT SHE SAW.** *"Nothing I have seen in this room leaves it."* — said back to the First Master, out loud, by a girl nobody has ever told to say anything. **She saw Neris's eyes come up red. She has no idea what that was.** She now carries it into the boat, the trio and her whole arc. Do not resolve what she does with it.
+- **SHE WAS THANKED**, plainly, by a woman on a floor — *"And you… Thank you. You did well."* — and **nobody has ever thanked her for anything she did with her hands**, and she did not manage to say anything back.
+- **HER TWELVE ARE ALL DEAD.** The last five went at a door without a mark on them; the captain was the last of the five. She reaches the water with two children and no guard at all (04 beat 19).
+- **She was carried out** — Valeria over the shoulder, one arm behind the knees, at a dead run. Ch. 31's cold pricing paid literally.
+- **Previously: in the district, in the escape party, with her twelve.** **A VEL IS ON HER LEFT** — ordered to give her life for her — and the princess has not been told and would not price it if she had.
+- **She spoke once in a war council about her own survival and it was the wrong thing, and nobody corrected her**, because nobody ever has: *"And my guard would be with me the entire way." / "Then I do not see the difficulty."* A room of nineteen turned its head to her when she spoke and **she did not notice a room doing it.**
+- **There was nobody in that district to say goodbye to her.** Every other child in that party was held on to; she and Valeria were the two that nobody had hold of.
+- **Now:** in the arena as it comes apart, with imperial security collapsing inward around her; her twelve royal guard are dark grey, arranged across the distances, and none of them Vel (02/factions). Last seen forward in her chair with a hand on the rail during the round of 8, watching the thing she could not see at conversational range move, and not answering the woman behind her.
+- **The audience is spent (Ch. 24), and she ended it angry.** She sent for Kael to look at a thing up close, found nothing to him and said so to her woman in the third person with him turned toward the lamp, and was looked at instead — corrected about Drusane in front of her household, asked what happens to the food on her table and where the ice came from, which she has no idea of and cannot see why she would. Cold, and fourteen: *"Kneel. Say your farewells. And leave afterwards."* He knelt and had no farewell.
+- **What she has of him:** nothing her instruments can price, which is very annoying; a boy with no royal reflex at all, whose rudeness was absence, not defiance.
+
+### FORWARD (as it stood)
+- **The guard:** her twelve die in the invasion as security collapses inward around her (04 beat 19) — why she reaches the boat with two children and no guard.
+- **Arc:** long arc undecided (00).
+- **End of Book One:** on the drifting hull; a symbol learning to boil water.
