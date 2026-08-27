@@ -40,7 +40,7 @@ The light came onto her face and then onto her hair, and Kael, who had been look
 
 He got up. His leg had set overnight into something that took about eight strides to argue out of.
 
-"There is water in her and it needs to come out," said Severin. "There is a scoop under the after thwart. When you have got it down to the boards, tell me, and I will show you where she is taking it."
+"There is water in the boat and it needs to come out," said Severin. "There is a scoop under the after thwart. When you have got it down to the boards, tell me, and I will show you where it is getting in."
 
 "Yes, Master."
 
@@ -52,9 +52,9 @@ Aurelian woke up and watched him for a minute and then came and did it with him,
 
 When Kael got down to the wet boards, Severin came forward on his hands and knees and put a thumb on the two places the water was coming in, and showed him how to plug one with tallow and rag, and how the other could not be plugged and would have to be lived with.
 
-"That one is above the water when she is level and under it when she is not," he said. "So keep her level. That is the whole of it."
+"That one is above the water while we sit level and under it when we do not," he said. "So keep us level. That is the whole of it."
 
-"How do I keep her level."
+"How do I keep us level."
 
 "You put the people where I tell you and you leave them there."
 
