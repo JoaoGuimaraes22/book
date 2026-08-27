@@ -172,7 +172,7 @@ Then he moved along the boards until his shoulder was against Kael's shoulder, a
 
 Elarine put her hand flat on Kael's back for a moment and took it away again.
 
-Kael did not know where to put any of that, so he sat still and let it happen to him, and found, to his enormous surprise, that he was glad — flatly and simply, with nothing in the way of it — that the two of them were alive and on this boat.
+Kael did not know where to put any of that, so he sat still and let it happen to him, and found that he was glad — flatly and simply, with nothing in the way of it — that the two of them were alive and on this boat.
 
 ---
 
@@ -182,7 +182,7 @@ She had come up onto one elbow. Valeria came off the thwart and onto her feet in
 
 "Your Serene Highness," said Aurelian, and got most of the way up before he remembered the boat and sat down again.
 
-"Do not do that. There is nowhere for you to do it." Aeliana pushed herself the rest of the way up and put her back against the side. Her hair had come down in the night and salted into ropes, and her hem had been through six miles of goat ground, and none of it made the smallest difference to what happened on that boat when she spoke, which was that every person on it stopped and turned. "You are right. It is the capital. There is nowhere else it could be."
+"Do not do that. There is nowhere for you to do it." Aeliana pushed herself the rest of the way up and put her back against the side. Her hair had come down in the night and salted into ropes, and her hem had been through six miles of goat ground, and none of it made the smallest difference to what happened on that boat when she spoke, which was that every person on it stopped and turned. "You are right. We must go to the capital."
 
 "Yes, Highness."
 
@@ -190,7 +190,7 @@ She had come up onto one elbow. Valeria came off the thwart and onto her feet in
 
 "Yes, Highness."
 
-"They will be spoken for properly. I want you to know that. It will be done at court with their houses standing, and their names will be read." Her chin came up a little. "My guard did what my guard is for. Twelve of them, and the captain last, and there is nothing to be said about that except that it was correct, and it would be an insult to them to say more."
+"They will be spoken for properly. My guard, your houses. I want you to know that. It will be done at court with their houses standing, and their names will be read." Her chin came up a little. "My guard did what my guard is for. Twelve of them, and the captain last, and there is nothing to be said about that except that it was correct, and it would be an insult to them to say more."
 
 "Yes," said Valeria Vel.
 
@@ -226,6 +226,10 @@ She did not say anything.
 
 She did not let go, either.
 
+"Kael, stop it. Please." said Valeria.
+
+He pushed.
+
 "Kael," said his mother.
 
 That was all she said. She said it from the middle of the boat, in the voice she had used across the yard when he was small and going near the block, and everything in him came down out of wherever it had gone.
@@ -260,9 +264,9 @@ Severin opened his eyes.
 
 "Larboard and starboard. They do not swap round when you turn about, which is the entire reason for having them." The old man's mouth moved very slightly. "Which side is starboard?"
 
-Kael thought about it and got it wrong.
+Kael thought about it and got it right.
 
-"No," said Severin. "Again tomorrow."
+"Good," said Severin. "Tomorrow I'll teach you some more."
 
 He gave him about twenty words in an hour, and made him say each one back, and then made him say them back in a different order, and then sent him forward to touch each thing and name it out loud to nobody, which Kael did, in front of six people, without feeling anything about it whatsoever.
 
@@ -278,7 +282,7 @@ He came back and sat down.
 
 "Why is it like that?"
 
-"Because a man shouts it once, in the dark, in weather, and the boat lives or it does not." Severin shifted his shoulder against the stern, and something in him hurt when he did. "There is nothing clever in any of it. There has never been one clever word in a boat. It is four hundred years of people finding out what has to be said quickly, and then never changing it again."
+"Because a man shouts it once, in the dark, in weather, and the boat lives or it does not." Severin shifted his shoulder against the stern, and something in him hurt when he did. "There is nothing clever in any of it. There has never been one clever word in a boat. It is hundreds of years of people finding out what has to be said quickly, and then never changing it again."
 
 Kael turned that over.
 
@@ -294,11 +298,11 @@ It came out of him before he knew it was in there, one note, ugly, and it stoppe
 
 "Mm."
 
-"How many of them got out?"
+"How many of the students got out?"
 
 Severin was a long time answering.
 
-"There were four hundred and six children in my Temple on the morning of the third bell. I walked as many of them as I could find toward the northern arch, and I did not look up while I did it, because if I had looked up I would have stopped walking. Ninety-one of them were standing in a courtyard in that district by the evening. That is the number I know. There will be others. There were boats that morning, and there were households that took children in, and there was a great deal of that island I could not see." He looked out at the water. "I do not know how many. I have stopped doing that sum at night, because it does not have an end. I would recommend you do the same with yours, and I know perfectly well that you will not."
+"There were four hundred and six children in my Temple on the morning of the third bell. I walked as many of them as I could find toward the northern arch, and I did not look up while I did it, because if I had looked up I would have stopped walking. Ninety-one of them were standing in a courtyard in that district by the evening. That is the number I know. There will be others. There were boats that morning, and there were households that took children in, and there was a great deal of that island I could not see." He looked out at the water. "I do not know how many live. I have stopped doing that sum at night, because it does not have an end. I would recommend you do the same with yours, and I know perfectly well that you will not."
 
 "No."
 
@@ -332,11 +336,7 @@ He put the three of them on the boards between them.
 
 His mother looked at them for a while.
 
-"I packed two bundles," she said. "I roped them and stood them by the door on the morning the games opened, and they stood there for three days, and everybody in that house walked past them about forty times a day."
-
-"I know. I saw them."
-
-"The books were in one. Both of the small ones and the one your grandfather did not write, and the pressed sheets, and the instruments, and the good glass. In the other there was salt, and needles, and every seed I have kept for eleven years." She turned her hand over. "Not one thing out of them is on this boat."
+"I packed two bundles for this travel," she said. "I roped them and stood them by the door on the morning the games opened, and they stood there for three days. The books were in one. In the other there was salt, and needles, and every seed I have kept for eleven years." She turned her hand over. "Not one thing out of them is on this boat."
 
 Kael did not say anything.
 
@@ -366,7 +366,7 @@ His brother's hand came open and shut on Kael's finger and stayed shut.
 
 He did not have much grip. He had exactly as much as a thing that has been alive for a day and a night has, which is not enough to hold anything, and he held on with it anyway, and Kael sat completely still on the boards of a drifting boat and did not take his finger back, because he did not want to be the one who did that.
 
-The linen was still across the eyes. Kael did not touch it. Nobody on that boat had touched it, and nobody had said one word about why it was there, and his mother had put her palm flat over the whole of it in a room with a fight going on against the wall, and had not explained it then either.
+The linen was still across the eyes. Kael did not touch it. Nobody on that boat had touched it, and nobody had said one word about why it was there.
 
 "Kael," said his mother.
 
@@ -384,9 +384,9 @@ Kael looked up.
 
 She had asked. He turned it over twice looking for the other thing in it, and there was no other thing in it. She had been given a newborn on a hillside by a woman who told her she would be extremely good at it, and she had held him through the length of a fight and given him back, and nobody had said anything to her about it since, and she had crossed a boat to ask.
 
-"Sit down first," said his mother. "Nobody stands up with him."
+"Sit down first," said his mother.
 
-The princess sat down on the wet boards in what was left of a gown made for a raised floor with ice on it, and put her arms where she was told to put them, and Kael leaned across and put his brother into them.
+The princess sat down on the wet boards in what was left of a gown, and put her arms where she was told to put them, and Kael leaned across and put his brother into them.
 
 She got the head wrong, and corrected it before anybody said anything.
 
