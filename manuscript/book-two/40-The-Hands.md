@@ -2,7 +2,7 @@
 
 The governor looked at the princess for a long time.
 
-Kael counted it, because it was there to be counted. Forty-one. In forty-one the last of the light went off the straw and the box got darker around the man standing in the door of it, and he did not move in any of them.
+Kael counted it, because it was there to be counted. Forty-one seconds. In forty-one seconds the last of the light went off the straw and the box got darker around the man standing in the door of it, and he did not move in any of them.
 
 He did not look at Kael. His eyes went over him once on their way to somewhere else, the way a man's eyes go over the furniture in a room he is not going to be living in, and they did the same thing to Valeria Vel, and after that he had finished with both of them.
 
