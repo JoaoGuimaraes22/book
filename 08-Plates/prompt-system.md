@@ -238,13 +238,13 @@ Not run. A second face for the stillness — same boy, only the mouth, lids and 
 
 ### Aurelian
 
-`images/portraits/aurelian-14.png` · Aurelian · no HAIR. *Riding and hunting* is a rendering steer that bought the well-fed colouring; it is not canon and stays in this block.
+`images/portraits/aurelian-14.png` · Aurelian · no HAIR. *Riding and hunting* is a rendering steer that bought the well-fed colouring; it is not canon and stays in this block. The reference was cut with no insignia, badge, house colour or chain on him — the quality of the cloth carrying the station. That is what the picture has, not a fact about him: `03` gives him none of it either way (moved from `canon-brief.md`, s59).
 
 **The prompt is `prompts/portraits/aurelian-14.md`**, which is the source and holds it as run.
 
 ### Elarine
 
-`images/portraits/elarine-14.png` · Elarine · no HAIR. The darkest-value clause could not beat her own hair and the eyes won on finish; if she is ever re-cut, demote the hair (§SUBJECT template).
+`images/portraits/elarine-14.png` · Elarine · no HAIR. The darkest-value clause could not beat her own hair and the eyes won on finish; if she is ever re-cut, demote the hair (§SUBJECT template). The binding is her silhouette — *scholar* where Valeria reads *uniform* — and the one run that let it come loose returned Valeria's silhouette on her (§Damage); what that costs is known, and whether a picture spends it is the picture's (moved from `canon-brief.md`, s59).
 
 **The prompt is `prompts/portraits/elarine-14.md`**, which is the source and holds it as run.
 
@@ -308,7 +308,7 @@ reference shows head and shoulders only.
 
 ### Kael — full figure
 
-`images/full-figures/kael-14-full.png`. Village register. The sheet carries no weapons; page canon has two short blades across his back in a cloth wrap — write the wrap into a scene by hand when the moment carries it.
+`images/full-figures/kael-14-full.png`. Village register. The sheet carries no weapons; page canon has two short blades across his back in a cloth wrap — write the wrap into a scene by hand when the moment carries it. The sheet's clothing — *plain dark clothing, well-made and well-maintained, chosen to go unnoticed* — disagrees with `03`: he is not dressed to conceal, and a plate dresses him in whatever his chapter has him in (moved from `canon-brief.md`, s59).
 
 **The prompt is `prompts/full-figures/kael-14-full.md`**, which is the source and holds it as run.
 
@@ -356,8 +356,9 @@ bare paper in the lights.
 Setting: <place> as loose wash suggestion — a wall implied behind
 them, the background falling into shadow. Soft daylight from one side.
 
-Composition: <where the bottom edge cuts the body, and what that puts
-out of frame>. <Who is where, facing which way, at what depth.>
+Composition: <tall upright frame, taller than it is wide | wide frame,
+wider than it is tall>. <Where the bottom edge cuts the body, and what
+that puts out of frame>. <Who is where, facing which way, at what depth.>
 
 <The moment, in one paragraph — or that nothing is happening, where
 the subject implies violence.>
@@ -379,6 +380,8 @@ mix their clothing: <the X belongs only to A, the Y only to B>.
 The specimens are on `scene-tests.md`: `talk-kael-valeria` is the two-figure version of this and `quartet-conversation` the four.
 
 ## Instruments — one when the picture needs it, none by habit
+
+**The frame.** Named first, in the Composition line, as a shape — *tall upright frame, taller than it is wide* or *wide frame, wider than it is tall* (author, s59); not *portrait* or *landscape*, which name other things in this folder. The tool has three canvases and picks one from the content when nothing names it, and a tall canvas under *the bottom edge at the waist* has height to fill and fills it with body. Counted at s59: none of the ninety plate prompts named the frame, 64 of the 79 adopted plates came back tall, and the loose crop stood at twelve recorded instances with no correction ever tried against it. This is the first, and the next run under it is the test.
 
 **The cut.** Name it as a landmark on the body and say what it puts out of frame — *the bottom edge of the picture crosses both boys just below the collarbone, so that no arms, no hands and no legs are in the frame at all.* *Chest-up* and *waist-up* both came back wider. A cropped figure needs a floor, or it hangs on bare paper:
 
@@ -420,7 +423,7 @@ The two terms must sit where the frame can compare them. In a face-filling crop 
 
 **The winner and the rival.** Where a small thing must win the picture, hold the rival at quiet middle values with no hard edges, then site the sharpest step from light to dark on the winner — two channels, edge and finish, so both clauses. It needs a rival to demote and a dark for it to recede into; in flat daylight the instrument is the crop. Below a hand's size in frame nothing carries finish, and the fix is again the crop. Read the framing, pose and costume back and check the tell is actually visible in the picture described. **THE SPECIMEN IS `archive/plate-sheets.md` §ch28's `the-hand-back` block** (author, s53): the winner is given a ratio to a body part — *the open hand is wider in the frame than his head* — and **the rival demoted is the face**, by name, on both channels at once — *his face and the whole of the rest of him are held at quiet middle values with soft wash-bled edges and no hard-edged dark anywhere; the sharpest step from light to dark in the picture happens at the edge of the red on the hand.* A face can be fully drawn and still be demoted; naming it as the thing to hold down is what makes an inch of subject win.
 
-**Light.** Soft side daylight is the default and needs no clause. A named source: say where it is, that it is the only one, what it leaves dark, and where the warmth lands. A warm source lights a face only when it is close — a candle on the bench does, a town at the foot of a mountain does not; where the source is far, the figure is lit by ambient sky and the source is the one warm thing. A low or high camera is written as the surfaces it exposes — *the underside of the jaw is visible; the horizon sits level with his knees* — never as where the viewer stands. For real depth, say where the viewer is first, stack the frame bottom to top, and pin it with a ratio.
+**Light.** Soft side daylight is the default and needs no clause. A named source: say where it is, that it is the only one, what it leaves dark, and where the warmth lands. A warm source lights a face only when it is close — a candle on the bench does, a town at the foot of a mountain does not; where the source is far, the figure is lit by ambient sky and the source is the one warm thing. A low or high camera is written on two channels: in the picture-maker's own words — *low-angle view, the camera at the height of his knee, looking up* — and as the surfaces it exposes — *the underside of the jaw is visible; the horizon sits level with his knees*. The exposure clause on its own carried a kneeling subject (`ch37/the-old-man-on-his-knees`) and did not carry a standing one: `ch37/the-water-at-the-gate` wrote the height as exposure only, under this paragraph's old rule that the camera is never named as where the viewer stands, and came back at eye level. The camera words are the caption vocabulary the tool has read more often than any other description of an angle, and they are not banned (author, s59). For real depth, say where the viewer is first, stack the frame bottom to top, and pin it with a ratio.
 
 **Colour.** Name the hues on the objects that have them and ban nothing (author ruling, s42; re-ruled s45 after a global cool clause propagated through eleven blocks). The portrait Colour paragraph's *warmth belongs to the skin alone* is a portrait clause and does not reach a plate.
 
