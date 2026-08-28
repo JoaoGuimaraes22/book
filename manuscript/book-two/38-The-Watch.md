@@ -2,9 +2,9 @@
 
 The governor stood when the bread had gone round the third time, and the table stood with him, and Kael found that he had done it too.
 
-"The house has rooms," the governor said. "One each. There is a bed in every one of them and water in every one of them, and nobody under this roof will wake you before you wake." He looked down the table at the eight of them, the way he had looked at them in the square, one at a time. "Highness. Whatever the night wants, the woman at your door will fetch it. Sleep."
+"The house has rooms," the governor said. "One each. There is a bed in every one of them and water in every one of them, and nobody under this roof will wake you before you wake." He looked down the table at the eight of them, the way he had looked at them in the square, one at a time. "Highness. Whatever the night wants, the woman at your door will fetch it. Sleep, tomorrow we will arrange a carriage to the capital for all of you."
 
-He put his hand flat to his breast and went out by a door Kael had not counted, because it had been behind him, and the household came in with lamps.
+He put his hand flat to his breast and went out by a door behind him.
 
 ---
 
@@ -50,37 +50,13 @@ He stopped. He did not turn round. "Goodnight, Highness," he said, to the passag
 
 ---
 
-He stopped at the far end first.
-
-He knocked with the back of a knuckle, because his hands were full of his brother, and the old man's voice said, "Yes," and he went in.
-
-The room was the same as the others: a low bed, a lamp in a hollow in the wall, a shutter. Severin was lying on the bed on his back with his boots on and his hands folded on his chest, and his eyes were shut, and he did not open them.
-
-"We are on the other side of the water, Master."
-
-"We are."
-
-"You said."
-
-"I know what I said." The old man breathed in and let it out, and something in him hurt on the way. "Tomorrow, boy. The whole of it, and you may decide for yourself then how much of it to believe. I am not fit to do it tonight, and you have waited this long, and you can wait until I have slept in a bed." A pause. "Is that fair."
-
-Kael considered it.
-
-"Yes, Master."
-
-"Good. Then go and lie down before you fall down. And take him with you; he is looking at me."
-
-He was not. His eyes were under the linen. Kael went out and pulled the door to behind him, and his mother was waiting in the passage with the lamp-woman, and neither of them asked him what he had wanted.
-
----
-
 Their room was the third door.
 
 It was small. The floor was stone with a rug on it; the bed was low, wide, with cords under it that creaked. A jug on a stand, a bowl beside it, a shutter high in the wall, the lamp in its hollow, and a door with a wooden latch on a cord and nothing else. No bar. Nothing a bar could have gone into.
 
 He looked at that for a while.
 
-Then he gave the child to his mother, took the sword off his back and laid it along the foot of the door, on the stone, grip toward the bed. He took the pair off his belt and put them on the floor at the head of the bed, on the side where his hand would fall. His mother watched him do all of it and said nothing about any of it.
+Then he gave the child to his mother, took the sword off his back and laid it along the foot of the door, on the stone, grip toward the bed. He took the pair of blades off his belt and put them on the floor at the head of the bed, on the side where his hand would fall. His mother watched him do all of it and said nothing about any of it.
 
 She sat on the bed with her back against the wall and fed the child. Kael sat down on the floor with his back against the bed and looked at the door. The lamp made a small yellow room inside the room; outside it the house made the sounds a house makes with people in it: a door, water, somebody walking who had somewhere to go.
 
@@ -88,21 +64,21 @@ She sat on the bed with her back against the wall and fed the child. Kael sat do
 
 He got in.
 
-It gave under him. He had slept on boards in a loft for as long as he could remember, on the boards of a boat for a month, on the ground before that when the work wanted it. The bed went down under his weight and came up round him, warm; it smelled of wool, and of something dry and sweet the house put in its linen. He lay on his back with his arms stiff at his sides and did not know what to do with any of it.
+It gave under him. He had slept on boards in a loft for as long as he could remember, on the boards of a boat for a month, on the ground before that when the work demanded it. The bed went down under his weight and came up round him, warm; it smelled of wool, and of something dry and sweet the house put in its linen. He lay on his back with his arms stiff at his sides and did not know what to do with any of it.
 
 "Lie still," said his mother. "It is not going to do anything."
 
-She lay down on the other side with the child between them, on his back, with the linen across his face and his fists shut up beside it. She left the lamp.
+She lay down on the other side with the child between them, on his back, with the linen across his face and his fists shut up beside it.
 
 For a while nobody said anything, and it was the best the room had been.
 
 ---
 
-"I understood her," Kael said.
+"I understood them," Kael said.
 
-"I know. I watched you understand her."
+"I know. I watched you understand."
 
-"The old woman. What she said to you first, before the empire's. And the captain, under his; that was the same tongue under it. And the household, to each other." He was looking at the ceiling, where the lamp had put a shape. "It was Traders."
+"The old woman. What she said to you first, before the empire's. And the captain, under his; that was the same tongue under it. And the household, to each other." He was looking at the ceiling, where the lamp had put a shape. "It was this language you called "Traders" when you taught to me."
 
 "Yes."
 
@@ -112,7 +88,7 @@ For a while nobody said anything, and it was the best the room had been.
 
 He let that sit.
 
-"You taught me the whole of this coast," he said, "on a mountain I was not going to leave. And the other one." He stopped, because *the downhill one* was a child's name for it and he had no other. "The one the men in the yard spoke. You are stricter in that than in anything. You sing in it. Why did you teach me the language of the men who burned the island."
+"You taught me the whole of this coast," he said, "on a mountain I was not going to leave. And more." He stopped, because *the downhill one* was a child's name for it and he had no other. "The one the men who invaded the island spoke. You are stricter in that than in anything. You sing in it. Why did you teach me the language of the men who burned the island."
 
 His mother was quiet for a while.
 
@@ -120,15 +96,20 @@ His mother was quiet for a while.
 
 "They spoke it."
 
-"A hundred men spoke it coming up that path. There are countries east of here where a child learns nothing else, and there are cities in them older than the empire that took them, and there is a woman in one of those cities tonight selling bread in that language to a man who has never seen the sea and never will. That is what the language is. What a hundred men had in their mouths is what a hundred men had in their mouths."
+"Indeed they did, but it is not theirs regardless. That language is far older than those men, and will outlive them all as well as us. It originated from the far east of this continent, and it was spoken by all for thousands of years, until the empire spread just a few hundreds of years ago."
 
-Kael turned that over, and it did not go where he had put it.
+Kael turned that over. Just in a few minutes, he had learned more about history from his mother, than he had in all of his life previous to this.
 
-"We gave you the names a child could hold," she said. "You were four. Traders. The downhill one. The birds. That is what they were to you, and it was easier than the truth, and I let it stand longer than I should have, because you had a use for them and I did not want to take them off you." She moved her hand on the child. "Traders is called Ivrit. The one I sing in is Avestan. And this one, that you and I are speaking now, and that you think of as the only one, is the Vessantine Koine, and there are markets east of here where you could shout it at the top of your voice and not one person would turn round."
+"We gave you the names a child could hold," she said. "You were four. The Traders language. The downhill one. The birds. That is what they were to you, and it was easier than the truth, and I let it stand longer than I should have." She moved her hand on the child. "Traders is called Ivrit, spoken in the south. The one I sing in is Avestan, from the east. And this one, that you and I are speaking now is the Vessantine Koine, the imperial language, and there are markets east of here where you could shout it at the top of your voice and not one person would turn round."
 
-He said the three names over in his head. They did not fit the things yet. He supposed they would.
+He said the three names over and over in his head until he could be certain they would never leave it. 
+Since he was four, his hunger for knowledge consumed him everyday. And unlike most children, it just got bigger and bigger as he grew up. 
 
-"Why all of them."
+Now, he was finally here. Where there are people whose skin is dark. Where sand is the most of the floor, and where there are no mountains one place, and in the other thousands. And this was just a tiny part of the continent. And an even smaller part of the world. He could only dream of everything beyond. 
+
+Yet, the questions remained.
+
+"Why teach me all of this?"
 
 "So that there would be nowhere on this continent you could not go."
 
@@ -140,45 +121,39 @@ He lay with that.
 
 The lamp moved. Something in the house shut.
 
-"Two bundles," Kael said. "Roped. By the door."
+"I want— no," Kael said. "I need to know more."
 
-"Yes."
+"I see. Yes, I agree. Perhaps it's time. Ask your questions, as many as you want, and I'll answer them as well as I can."
 
-"You were going to leave."
+Kael eyes widened. It just seemed so easy? Too easy. He could not find the words for it. His mother, finally, after all these years and doubts, will answer him, about anything, all of it. At first, he couldn't even choose. What should be the first question to ask, right now? He choose.
 
-"Yes."
-
-"When."
-
-"After him." Her hand did not move off the child. "Not before."
-
-"Where."
-
-"I will tell you where when we are not under a roof that writes letters."
-
-He heard that. He heard the whole of it: not *I will not tell you*, and not *ask me in a year*; a place and a reason, and the reason was the house they were lying in. He turned his head and looked at her, and she was looking at the door.
-
----
-
-"Oss told me a story," he said.
+"Oss told me a story," he began.
 
 She waited.
 
-"On the sea-wall, in the first year. He had all of them. The one about the hair, and then the old one. Red eyes. The eyes of the devil, the fishermen say." He was saying it the way Oss had said it, and heard himself doing it, and went on. "A thing that isn't a Resonant, and when it works the eyes go red, and whole houses die. No one left. Every telling has that in it." He stopped. "I saw one of his. When the cloth came up. In the house."
+"On the sea-wall, in the first year. He great at telling them. There was one about the hair, and then the one about an old thing. But one, was about red eyes. The red eyes. The eyes of the devil, the fishermen say." He was saying it the way Oss had said it, and heard himself doing it, and went on. "A thing that isn't a Resonant, and when it appears, its eyes go red, and everyone who sees them dies. No one left. Every telling has that in it." 
+
+He stopped. His face turned towards his brother. 
+
+"I saw one of his eyes. When the cloth came up. In the house."
 
 "I know you did. I put it back."
 
-"Is that the story."
+"Is that story, about people like him? Is it true?"
 
-"It is a story," said his mother. "Fishermen have it. So do the people on the far side of the archipelago, and so do the people in this house, in their own words, and a story that everybody has is a story that started somewhere." She was speaking as she spoke when a thing had been weighed and the weight written down, and he had been raised by her, and could hear what the evenness cost. "It is something in my blood. It is old, and it is mine, and it came to him through me. It is in him now. That is the whole of what I am going to say about it under this roof."
+"It is a story," said his mother. "Fishermen have it. So do the people on the far side of the archipelago, and so do the people in this house, in their own words, and a story that everybody has is a story that changes and conforms to what people want to hear rather than the truth." She was speaking sternly and cold. "These red eyes, are something in my blood. Even I know little about them. All I do is it is something old, and it is mine, and it came to him through me. It is in him now. That is the whole of what I am going to say about it under this roof."
 
-He waited, and that was all.
+He waited, and the obvious question followed.
 
-"Is it—"
+"What about me? Is it my blood too? Is it—"
 
-"That is the whole of it, Kael. And you will keep it. From the girl, and from the princess, and from the two in the next room, who are good children and have houses. From the old man."
+"I'm not sure Kael. I had hoped before you were born, that it wasn't in you.  I even prayed to the gods of the East for your eyes to simply be eyes. And when you came off of me, they were. At the very least, I know my blood is not as strong in you as it is in Wren. And I could not be more glad for it. 
 
-"The master delivered him."
+She took a long breath
+
+"I'll tell you, for it makes no sense to hide any longer, not from you. My eyes are just like his. But I learned over a long time, that there were ways with great and will control, to hide them. That is the whole of it, Kael. And you will keep it. From the girl, and from the princess, and from the two in the next room, who are good children and have houses. From the old man."
+
+"The master knows about them, does he not?"
 
 "The old man knows what he knows. You are not to add to it." She turned her head at last and looked at him, across the child. "Nobody. Say it."
 
@@ -186,27 +161,45 @@ He waited, and that was all.
 
 "Good."
 
+"If I may, I want to know—"
+
+"It's enough, for the day. I will tell you where when we are not under a roof that writes letters."
+
+He heard that. He heard the whole of it: not *I will not tell you*, and not *ask me in a year*; a place and a reason, and the reason was the house they were lying in. He turned his head and looked at her, and she was looking at the door.
+
+---
+
 The child's fist came open in his sleep and shut again on nothing.
 
 "I am going to stay awake tonight," said his mother.
 
 "Why."
 
-"Because he did not ask how."
+"It's something that would be hard to explain in a night. There's something off about this place, these people. Or perhaps there's something off in me." She chuckled. "I'll see to it that it's me, until the end of the night."
 
-Kael lay very still.
+Kael lay very still. Somehow, he understood her.
+His next words took some time to come out.
 
-"I saw that."
+"I feel *that* too. But, the people that attacked us at the island, they are the enemies. These people are of the empire, the victims. The'll help."
 
-"I know you saw it. I watched you see it, at the top of the steps, and I watched you put it away because you did not know what it was." She had gone back to the door. "A man is told the Temple is gone, and the Temple was the empire's, and the man keeps a city for the empire; and the next thing out of him is not *how*. I do not know what that man is. Until I do, I am going to lie here and look at that door. You are going to sleep."
+His mother took her time too. She responded:
+"You are so intelligent my son. And I'm incredibly proud of you for it. But, on these matters, there's a long road ahead of you. I'll tell you my truth."
 
-"I don't sleep."
+*My truth.* Kael was surprised to hear these words. From his mother, it was always *the truth*. She continued.
+
+"There are no enemies. There are no allies. All we can be sure off, is family. And that's what we must fight to protect above all."
+
+Kael had no response to that.
+
+"Go to sleep my son. Tomorrow will be a long day."
+
+"I don't sleep well. Not since father—"
 
 "I know. You are going to do it anyway. Look at you."
 
 He looked at himself, since she had said to, and found that she was right.
 
-It had come up round him without his noticing: the warmth of the bed, and the wool, and the sweet dry smell in the linen, and under all of it a weight that was not tiredness, because he knew tiredness, he had had a month of it and it had never once done this. It was in his arms first. Then it was behind his eyes. The count was running, it always ran, and he put it on the room out of habit: the door, the shutter, the two blades, the sword along the stone, her breathing, the child's, the lamp; and the numbers came, and they came slowly, and then they came without meaning anything, so that he heard himself say *seven* in his head and could not have said seven of what.
+It had come up round him without his noticing: the warmth of the bed, and the wool, and the sweet dry smell in the linen, and under all of it a weight that was not tiredness, because he knew tiredness, he had had a month of it and it had never once done this. It was in his arms first. Then it was behind his eyes. The count was running, it always ran, and he put it on the room out of habit: the door, the shutter, the two blades, the sword along the stone, her breathing, the child's, the lamp; and the numbers came, and they came slowly, and then they came without meaning anything.
 
 "Mother."
 
@@ -222,34 +215,9 @@ That was all she said about it. He heard her hear it, and hold it, and decide.
 
 He counted. He got to eleven and lost the shape of it and started again. He got to nine. Her hand was on the child and her eyes were on the door and he could feel her not moving, the whole of her, still in the way that had nothing to do with rest, laid along the far side of the bed like a wall; and he understood, with the part of him that was still awake, that she was doing something, that she was holding something in her body and holding it hard, and that it was not enough.
 
-"Keep going."
+"Keep going. Stay awake Kael. I'll get up, I'll go to you. Continue!"
+As much as she tried, her legs failed her.
 
 "Four," he said. "Five."
 
-He did not get to six.
-
-Somewhere on the far side of that the counting went on without him. It was her voice, low and even, and it was not in the empire's tongue. It was in the one she sang in, the one that had a name now, going up by ones in the dark; and that was the last thing.
-
----
-
-He woke to the jolt of wooden wheels going over rough ground.
-
-The count came up before he did. It had been running while he was gone, it always was, and it gave him what it had before he could stop it: boards under him, moving; a box about eight feet long and five across, with a door at the back that had iron on it; the light coming in through the boards in lines, and by the lines it was day. Dust. Old wood. Horse. Two people, and him.
-
-Valeria Vel sat with her back against the front of the box, upright, exactly as she had sat on a thwart for thirty days, and her hands were on her knees, and they were empty.
-
-That was the first thing he priced. Her hands, and nothing in them, and nothing on her belt.
-
-The princess lay with her head on Valeria's leg. Her eyes were shut. Her breathing said asleep, and her hands said nothing, because they were tucked in against her, out of his sight.
-
-"Do not sit up," said Valeria, without moving her mouth much. "There are two on the box, and they are listening for it."
-
-He did not sit up.
-
-He put his hand flat on the front of his coat, and the coat was there; and under it his own ribs, strapped, and nothing else. No belt. He moved the hand down his side to where the pair had been and found cloth. He moved it up to his shoulder, where the cord had gone over, and there was no cord.
-
-He turned his head on the boards and counted the box again, because the first count had been wrong.
-
-It came back the same.
-
-His mother was not in it.
+Six never came out loud. He tried to move, he tried to talk, and yet his mind and body failed him. The last thing he heard was his name in his mother's voice, then just, darkness.
