@@ -1,10 +1,12 @@
 # Plate candidates — chapter by chapter
 
-**CONTRACT:** the shortlist. Moments worth drawing, 2–3 per chapter, before anything is composed or prompted.
+**CONTRACT:** the list. Every moment in a chapter worth drawing, found before anything is composed or prompted.
 **ADMISSION TEST:** *is this a moment its own chapter has already put in front of the reader?*
 **EVICTION:** when a candidate is chosen and built, it graduates to its own sheet in this folder and the line here keeps a pointer. Rejected candidates stay — a rejected moment is a decision, and it stops the next session re-proposing it.
 
 **These are candidates, not plates.** Nothing here is owed, scheduled, or promised. **★ = the one I'd make if the chapter gets one plate.**
+
+**THE SHAPE OF A CHAPTER'S LIST (author, s58): every candidate the session actually found, one line each, with the chosen ones marked and pointing at the prompt that ran.** The argument, the crop and the drift record live on the chapter's sheet and are **never duplicated here**. The built prompt for any entry is always `../prompts/plates/<sheet>-<slug>.md`, computable from the sheet and the slug already named — an entry that carries the path in full carries it because that prompt is the live one to paste from, not because the path is a fact this file owns.
 
 Every entry was checked against **THE PLATE FOLLOWS THE PAGE** when it was written. Where a chapter's moment collides with something unspent, the entry says how the framing answers it. **The standing one through Part I was Kael's grey, and it was spent for plates at s42 (`../README.md`)** — so where an entry below explains how it turns his face away, that reasoning is now history, not a constraint. The compositions still stand; they are simply no longer required.
 
@@ -470,3 +472,29 @@ Every entry was checked against **THE PLATE FOLLOWS THE PAGE** when it was writt
 4. **The princess holding him.** Sitting down on the wet boards in what is left of a gown with her ruined hands under a herder's child, getting the head wrong and correcting it before anybody said anything. **Passed over:** `ch34/the-elbow` one day later.
 5. ★ **No lights.** — **BUILT AND ADOPTED (s53): `images/plates/ch36-no-lights.png`, first run, on the author's optimised block; sheet `ch36.md`. THE LAST PLATE OF BOOK ONE.** The island black on the horizon at about the width of two hands, the orange gone out of the cloud, a sword he cannot lift lying along the boards — and nothing lit anywhere on it. **The third picture in the `ch01/fallen-stars` — `ch32/the-lights-on-the-mountain` rhyme.**
 6. **The inventory.** A knife, a length of cord and a flat grey stone laid out on the boards between them. *That is what I have. You have a knife, a bit of cord and a stone. And I have you, and I have him.*
+
+---
+
+# BOOK TWO
+
+*Book One closed with thirty-six chapters and two plates each. The chapters below run on from Ch. 37 in `manuscript/book-two/`; the register, the anchors and the rules are unchanged.*
+
+---
+
+## Ch. 37 — The Still
+
+*Written at s58, at design time. **Thirty days after Ch. 36, so nothing has aged** — Kael thirteen, Wren a month old, the fourteen-year-old references still the anchor. **Valeria's face is a constraint on this whole list:** Ch. 36 gives* half her face was burned red and shining down one side *and never says which side, so any entry with her face in it either invents a side or turns it away.*
+
+1. ★ **CHOSEN — The water at the gate.** A boy stopped dead in a road by water running loud in an open channel of cut stone, brim-full, over a lip and in under the road through an arch the height of a dog — *in a quantity that would have kept eight people alive for a year.* **Prompt: `../prompts/plates/ch37-the-water-at-the-gate.md` · argument on `ch37.md`.**
+2. ★ **BUILT AND ADOPTED (s58): `images/plates/ch37-the-old-man-on-his-knees.png`, first run, on the author's optimised block; sheet `ch37.md`.** *Severin, on his knees, took him without looking up and put his other hand flat on the wet sand and left it there.* **The folder's first plate of Severin, and the first plate of Book Two.**
+3. **The cloth.** The princess on her knees at Elarine's lid, taking the wet cloth off at the hundred and wringing it over the side away from herself with her palms bleeding through the strips torn off her own hem, and a boy opposite keeping the count. *I should like to know which.* **Passed over only for company** — her third hands-doing-a-job picture in five chapters, after `ch33/the-lamp` and `ch34/the-elbow`. First in line for the next session.
+4. **The first drop.** Aurelian cross-legged in the bilge water, bad arm across his lap, good hand palm up, a fire the size of a fist and the colour of a forge standing off the palm with the stone jar above it on nothing — and the first beads finding each other under the lid, into a scoop, *with a noise so small that six people leaned to hear it.* **The chapter's only light source, and the strongest thing left unbuilt in it.**
+5. **The street in stripes.** Inside the gate: narrow, going up, pale walls close on both sides, cloth stretched wall to wall so the light comes down in bars, windows small and high, people standing back in loose pale cloth with their hands doing nothing. **Book Two's establishing shot, and it wants no resolved face at all.**
+6. **The eight of them getting ready, badly.** The whole party out of the water in the order their bodies took it — blades, a good arm out, a sword up with the left hand open beside it, a boy three strides in front of his mother — against six spears coming down the brown. **The chapter's largest picture and the folder has nothing like it.** Passed over: eight resolved faces, and Valeria's is one of them.
+7. **The mother inside the spears.** Walking the mile with the child on the side of her away from them, head down a little, a woman carrying a baby — *and every step she took knew where every one of the spears was. Nobody else saw it. There was nothing to see.* **The hardest thing on this list to draw and the most Neris**: the picture has to be of nothing.
+8. **The cup going down the boat.** The nineteenth day: a princess's cup passed hand to hand the length of a hull to a herder's wife, who looks at her once, the length of the boat, and drinks it. **Passed over:** `ch36/the-loaf`'s problem — eight resolved faces in a boat forty feet long.
+9. **The knee on the sand.** Seven soldiers down in the wet sand with their spears upright, at a name, and not one of their eyes off the blades of the girl in front of the princess. **Passed over:** the point of it is what the kneeling is *not* about, which is a joke only a reader can hear — and it puts Valeria's face in frame.
+10. **The line, low and brown.** Thirtieth morning, up on his knees: the whole width of the north gone brown with a haze along it, and the sea between changing colour in a long green band. Smelled before it was seen. **Passed over:** a landscape with a back in it, and `ch36/no-lights` is the same horizon four weeks earlier.
+11. **The healer's hands.** An old woman who reaches for a jar without turning her head, finding in four seconds how wrong a boy's ribs were mended, looking at his face, and asking nothing. **Blocked:** she has no portrait, and a plate is not where a face gets decided.
+12. **The name at the table.** The low table covered end to end, a clerk with a board and a pen, a princess saying *Drusane*, and a boy making his face do nothing under a dead friend's name. **Blocked:** the governor has no portrait, and the moment is his table.
+13. **The coats on the sweep.** The rig that moved them a month: a sweep lashed upright to the burnt stub of the mast with four coats hung across it, bellied by the night breeze, over a hull with a hand of water in the low end. **No people in it.** Available if a session wants a plain object picture.
