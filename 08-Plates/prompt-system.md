@@ -218,12 +218,6 @@ OR darkest value].
 
 **The prompt is `prompts/portraits/kael-9.md`**, which is the source and holds it as run.
 
-### Kael at nine — still
-
-Not run. A second face for the stillness — same boy, only the mouth, lids and brows move — because a plate cannot argue a reference out of its expression (§Scenes and plates). `kael-9` for a chapter that asks, this for one that closes.
-
-**The prompt is `prompts/portraits/kael-9-still.md`**, which is the source and holds it as run.
-
 ### Valeria
 
 `images/portraits/valeria-14.png` · adolescent · HAIR.
