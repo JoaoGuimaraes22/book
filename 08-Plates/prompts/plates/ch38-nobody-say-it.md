@@ -1,5 +1,5 @@
 Image 1: kael-14.png — portrait reference of Kael.
-Image 2: neris.png — portrait reference of Neris.
+Image 2: neris-marked.png — portrait reference of Neris.
 
 Same medium and style as the reference images: loose watercolour and
 ink on rough cold-press paper, scratchy ink linework, wash blooms,
@@ -51,20 +51,17 @@ strip of pale linen bound level across his eyes, clear of the nose
 and the mouth. No eyes are visible on the child anywhere in the
 picture.
 
-NERIS — her mouth closed and set, her brows down a fraction. Long
-dark brown hair, warm rather than cool, plainly brown and not black,
-loose on the linen around her head in irregular clumps and locks of
-varying thickness. Three quartz-white marks in it: narrow, hard
-edged, pure cold white with no warmth in them, three and countable —
-one at the front of the hair above the forehead, two back in the
-mass — staying cold and colourless under the warm lamp while the
-rest of the hair stays dark brown throughout. Her eyes are dark
-brown, almost black: hold her hair at open transparent washes with
-fine ink strands and bare paper left through the mass and no hard
-edged black anywhere in it, and site the sharpest step from light to
-dark on her side of the picture inside the eye itself, at the edge
-of the iris. She wears plain dark brown worn cloth, the collar high
-at the throat.
+NERIS — her mouth closed and set, her brows down a fraction. Her
+long hair loose on the linen around her head in irregular clumps and
+locks of varying thickness. The white marks in it stay cold and
+colourless under the warm lamp. Her eyes are dark brown, almost
+black: hold her hair at open transparent washes with fine ink
+strands and bare paper left through the mass and no hard edged black
+anywhere in it, hold the white marks at soft wash-bled edges with no
+hard outline drawn along them, and site the sharpest step from light
+to dark on her side of the picture inside the eye itself, at the
+edge of the iris. She wears plain dark brown worn cloth, the collar
+high at the throat.
 
 THE TWO ARE LOOKING DIRECTLY AT EACH OTHER, across the child, the
 lines of sight meeting over him. This eye contact is the subject of
