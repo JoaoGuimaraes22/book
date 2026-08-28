@@ -20,7 +20,11 @@ They went out backwards. The bar came down. The light in the gap was grey by the
 
 Kael lay in the straw and put together what he had.
 
-They were worth keeping. That much was plain and he did not need to be clever about it: nobody oils the wrists of a thing he means to throw away. They were worth keeping because *she* was, which put him and Valeria Vel on this road the way a man's coat is on a horse. As long as the girl in the corner was worth what she was worth, the two of them would go on being fed.
+They were worth keeping. That much was plain and he did not need to be clever about it: nobody oils the wrists of a thing he means to throw away.
+
+He priced the three of them the way the man in the doorway would have to price them. The girl was worth more than anything else on this road. It was not close. The Vel was worth a great deal to somebody; a Vel is not a thing you come by, and he had watched a clerk's pen stop over those two words. And he was worth something himself. He knew exactly how much, and exactly why. A princess of the empire had sat at a governor's table and told the governor to write him down as a son of House Drusane. The governor had inclined his head and written it.
+
+So they would be fed.
 
 He turned that over and found it was not frightening, which surprised him, and then found the reason, which did not. It was the first useful thing he had held in his hands since he woke up.
 
