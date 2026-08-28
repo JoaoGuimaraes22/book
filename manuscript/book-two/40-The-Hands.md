@@ -106,7 +106,7 @@ She did not argue. She did not ask what he meant to do about the nights, or how 
 
 He filed it, and knew that something had happened, and did not have the size of it.
 
-So she slept, and went on sleeping: in the middle of the day, at the top of the night, any hour there was nothing to be done in. She ate everything she was given. Two or three times a day she worked her hands until they were her hands again, turned the ankles, put her back to the boards and pressed until it shook, and stopped before it cost more than it bought. Nothing announced. No hour for it. She did it thin and getting thinner, and on the days she had not been given enough to be doing it on.
+So she slept, and went on sleeping: in the middle of the day, at the top of the night, any hour there was nothing to be done in. She ate everything she was given. Past that she did nothing at all. She did not move when she did not have to move. She did not spend anything on anything. She went thin the slow way instead of the fast one.
 
 He never once checked on her. It never once occurred to him to, which was the whole of what he thought about her, and he did not put it in words.
 
@@ -144,13 +144,13 @@ He never got to the truth of it. It was three feet away from him for two months 
 
 He had one thing of his own, and it was the count, and he turned it on himself because there was nothing else left to turn it on.
 
-He measured. He had been measuring bodies since he was old enough to be told what to look at. His grip against the bracket of the ring, five slow pulls, the same five every morning. His forearm against the span of his own hand. How long he could hold his heels off the boards before the shake came into it, which was Valeria's count and therefore honest.
+He measured. He had been measuring bodies since he was old enough to be told what to look at. His grip against the bracket of the ring, five slow pulls, the same five every morning. His forearm against the span of his own hand. Thumb and finger round the arm above the elbow, which in the first week would not meet.
 
 Every number went down.
 
-They went down slowly, which was worse than fast, because slow meant it was going to go on. In the third week he could hold to her count of forty. In the sixth, to twenty-eight.
+They went down slowly, which was worse than fast, because slow meant it was going to go on. In the third week the thumb and the finger met. In the sixth they went past each other.
 
-In the seventh week one of the numbers got better, and he had it for about two heartbeats before he understood why, and the reason was that there was less of him to lift. He lay with that for the rest of the morning and then put it where he put things and did not take it out again.
+In the seventh week one of the numbers got better, and he had it for about two heartbeats before he understood why. The band went further up his hand than it had in the first week, and it stopped in exactly the same place, because what was stopping it was not the part of him that was going away. He lay with that for the rest of the morning and then put it where he put things and did not take it out again.
 
 ---
 
