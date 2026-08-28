@@ -30,7 +30,7 @@ He tried to use the Art.
 The smallest thread he had, the size of the ones he had spent on a candle at ten, at a bench: he asked for it, and for the first time in his life nothing answered. He asked again, with one thing changed, down the other arm, and there was nothing there either; it was as if there had never been, as if the thing his mother had put into his hands at nine had been a story she had told him to keep him quiet.
 
 He looked at the black in the iron for a long moment. 
-Iron alone does not stop the Art. His best Resonance was best spent on iron. It must be that black paint.
+Iron alone does not stop the Art. His own Art went into iron better than into anything. It must be that black paint.
 
 Whoever had built this had built it for Resonants, and had painted the iron for it, and had put him in it.
 
@@ -44,7 +44,7 @@ The others, then.
 
 He got himself over onto the other side, which took a while with the rope, and looked.
 
-Valeria Vel sat against the far wall of the box, opposite him, with her legs out in the straw and her head over on her shoulder, and she was not awake. Her arms were bound; not the iron only, the same black paint was in it too. Along the bone of her jaw, on the good side, a bruise had come up black. Somebody had hit her there, once and hard, and it had been enough.
+Valeria Vel sat against the far wall of the box, opposite him, with her legs out in the straw and her head over on her shoulder, and she was not awake. Her arms were in the same iron as his, with the same black in the grooves of it. Along the bone of her jaw, on the good side, a bruise had come up black. Somebody had hit her there, once and hard, and it had been enough.
 
 Beside her, the princess. She was awake.
 
@@ -60,7 +60,7 @@ He said it low, in the Koine, since that was the one they had between them. She 
 
 "It answers the same every time. You will only be cut."
 
-She went on looking at him, over the cloth, for a long moment. Then she put her hands down in her lap, and the shaking went out of her, and she sat as she had sat at that table while the bread went round: upright, waiting, doing nothing whatever. He could not tell whether she had stopped because he was right or because she had give up, and he had no way in the world to find out.
+She went on looking at him, over the cloth, for a long moment. Then she put her hands down in her lap, and the shaking went out of her, and she sat as she had sat at that table while the bread went round: upright, waiting, doing nothing whatever. He could not tell whether she had stopped because he was right or because she had given up, and he had no way in the world to find out.
 
 ---
 
@@ -152,7 +152,7 @@ She said nothing else about it. She said it the way she had once told him, at th
 
 "There is nothing to try it with."
 
-"No." She looked at the grey cloth where her hands were. "Nor I. I thought it was the cloth."
+"No." She looked at the iron on her wrists. "Nor I. I thought it was the blow."
 
 "It is the iron. There is something on the iron."
 
@@ -172,7 +172,7 @@ She nodded once, as if he had told her the time.
 
 Then the light went.
 
-It did not go all at once. The blade on the floor had crossed the straw, climbed the far wall, and turned from white to the colour of the governor's bread; it lay on the grey cloth of Valeria's arms for a while, then on the boards above her, then it was thin, and the lantern was most of what there was. The box leaned, and levelled. The wheels slowed.
+It did not go all at once. The blade on the floor had crossed the straw, climbed the far wall, and turned from white to the colour of the governor's bread; it lay on Valeria's arms for a while, then on the boards above her, then it was thin, and the lantern was most of what there was. The box leaned, and levelled. The wheels slowed.
 
 The wheels stopped.
 
