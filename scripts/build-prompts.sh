@@ -1,11 +1,12 @@
 #!/usr/bin/env bash
-# Rebuild 08-Plates/prompts/ from the prompt system and the sheets.
+# Rebuild the generated half of 08-Plates/prompts/ (portraits, full figures, scene tests).
 #
 # THE MARKDOWN IS THE SOURCE OF TRUTH. Everything under 08-Plates/prompts/ is a
 # generated, paste-ready artifact — never edit those files by hand. Edit the block in
-# 08-Plates/prompt-system.md, 08-Plates/scene-tests.md or 08-Plates/plates/ch<NN>.md
+# 08-Plates/prompt-system.md or 08-Plates/scene-tests.md
 # and re-run this. A hand-edited prompt file is a second home for a fact the doc
-# already owns.
+# already owns. PLATES ARE THE EXCEPTION (author, s58): prompts/plates/*.md are
+# hand-authored sources and this script does not touch them.
 #
 # Usage: scripts/build-prompts.sh [--check]
 #   --check  rebuild into a temp dir and diff; non-zero if prompts/ is stale.
@@ -98,33 +99,23 @@ for slug in re.findall(r"^### SCENE-VERBATIM: (\S+)\s*$", tests, flags=re.M):
     write(f"{out}/scene-tests/{slug}.md", fenced(tests, "### SCENE-VERBATIM: %s\n" % slug))
     n += 1
 
-# Plates. The Image lines go first; then the scene style line (the references carry the
-# medium) — or, for a plate with no reference attached, the STYLE block's Medium
-# paragraph; then the plate's own block. PLATE-VERBATIM is emitted untouched.
-for sheet in sorted(glob.glob("08-Plates/plates/*.md")):
-    stem = os.path.splitext(os.path.basename(sheet))[0]
-    text = io.open(sheet, encoding="utf-8").read()
-    for kind, slug in re.findall(r"^### (PLATE|PLATE-VERBATIM): (\S+)\s*$", text, flags=re.M):
-        block = fenced(text, "### %s: %s\n" % (kind, slug))
-        if kind == "PLATE-VERBATIM":
-            body = block
-        else:
-            refs, rest = split_image_lines(block)
-            header = SCENE_STYLE if refs else MEDIUM
-            body = (refs + "\n\n" if refs else "") + header + "\n\n" + rest
-        write(f"{out}/plates/{stem}-{slug}.md", body)
-        n += 1
+# Plates are NOT generated. Since s58 (author) the paste-ready file under
+# prompts/plates/ IS the source for a plate prompt, hand-authored, and
+# prompts/plate-candidates/ch<NN>.md is the chapter's candidate list pointing at it.
+# 08-Plates/plates/ is retired; its sheets are in 08-Plates/archive/plate-sheets.md.
 
 print(f"built {n} prompt files into {out}/")
 PY
 
 if [[ "${1:-}" == "--check" ]]; then
-  # README.md is hand-written, not generated — exclude it from the comparison.
-  if diff -rq --exclude=README.md "$OUT" 08-Plates/prompts >/dev/null 2>&1; then
+  # README.md is hand-written, and plates/ and plate-candidates/ are hand-authored
+  # sources since s58 — none of the three is generated, so none is compared.
+  EX=(--exclude=README.md --exclude=plates --exclude=plate-candidates)
+  if diff -rq "${EX[@]}" "$OUT" 08-Plates/prompts >/dev/null 2>&1; then
     echo "PROMPTS: in sync with the markdown"
   else
     echo "PROMPTS: STALE — run scripts/build-prompts.sh"
-    diff -rq --exclude=README.md "$OUT" 08-Plates/prompts || true
+    diff -rq "${EX[@]}" "$OUT" 08-Plates/prompts || true
     exit 1
   fi
 fi

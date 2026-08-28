@@ -94,9 +94,19 @@ def norm(s):
     return re.sub(r"\s+", " ", re.sub(r"[*_`]", "", s)).strip().lower()
 
 def sheet_sections(t):
-    out, parts = {}, re.split(r"^### (PLATE[A-Z-]*): (.+)$", t, flags=re.M)
-    for i in range(1, len(parts), 3):
-        out[parts[i+1].strip()] = parts[i+2]
+    """The CHOSEN bullets of a plate-candidates file, keyed by plate slug.
+
+    Since s58 the chapter's candidate list at 08-Plates/prompts/plate-candidates/
+    replaces the retired 08-Plates/plates/ sheets. A CHOSEN bullet names its plate
+    by the prompt path it points at, and carries the chapter quote that anchors the
+    picture (see canon_frags). The old sheets are in 08-Plates/archive/plate-sheets.md.
+    """
+    out = {}
+    m = re.search(r"^## CHOSEN\s*$(.*?)(?=^## |\Z)", t, flags=re.M | re.S)
+    for line in (m.group(1).split("\n") if m else []):
+        s = re.search(r"`\.\./plates/ch\d+-([a-z0-9-]+)\.md`", line)
+        if s:
+            out[s.group(1)] = line
     return out
 
 def canon_frags(body):
@@ -120,7 +130,7 @@ def resolve_images(chapters):
             adopted.setdefault(int(m.group(1)), []).append((m.group(2), p))
     placed, missed = {}, []
     for n in sorted(adopted):
-        sheet = os.path.join(ROOT, "08-Plates/plates/ch%02d.md" % n)
+        sheet = os.path.join(ROOT, "08-Plates/prompts/plate-candidates/ch%02d.md" % n)
         secs = sheet_sections(open(sheet).read()) if os.path.exists(sheet) else {}
         nb = chapters[n]["norm"]
         for slug, path in adopted[n]:
