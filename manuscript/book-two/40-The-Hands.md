@@ -288,15 +288,15 @@ He bent the thumb back and across the palm.
 
 It did not go. He had it at an angle where a thing should go, and it did not go. He was holding his own thumb in his own fist, and he had to make the decision twice, which he had not planned for. He took a twist of straw between his teeth. He bit down on it. He put the heel of his right hand on the joint and put his weight forward on it in a straight line.
 
-It went with a sound he felt rather than heard, in his teeth, up the arm and into the shoulder.
+It went with a short dull crack that came up through the arm into his own teeth, and the joint at the base of the thumb stopped being a joint and became two pieces with a hinge of skin over them.
 
-He lay still for a moment with his eyes open on nothing.
+The pain came up after it in one piece, all of it at once, into the shoulder and the jaw and the back of the neck. He lay with the straw in his teeth and his eyes wide open on nothing and did not make a sound.
 
 Then he folded the dead thumb flat into the palm, closed his fingers over it, made the hand as small as a hand can be made, and pulled.
 
 It moved.
 
-It moved about half of what it needed to move and stopped. He had known it would stop, and it was still the worst moment of the night, because the pulling took the skin off the back of his hand across the knuckles in a strip, and he found that out only when the hand became slippery. The band came up onto the wide part of the hand and sat there and would not pass it. That was bone. There was nothing in that band now but bone, and the bone was a finger's width too wide.
+It moved about half of what it needed to move and stopped. He had known it would stop. It was still the worst moment of the night. The band came up over the knuckles and took the skin with it, rolling it ahead of itself the way cloth rolls up an arm, and he knew that had happened only when the hand went slippery and then hot. The band came up onto the wide part of the hand and sat there and would not pass it. That was bone. There was nothing in that band now but bone, and the bone was a finger's width too wide.
 
 He got his breath. He turned his hand over.
 
@@ -304,13 +304,11 @@ There was a bracket where the ring went into the boards, an iron strap with a li
 
 He set the outer edge of his hand into the gap, under the lip, below the little finger, and he did not strike it, because a blow is a noise. He leaned.
 
-It took a long time.
-
-It took a long time, and the length of it was the thing he had never been able to imagine beforehand. He was awake for all of it. The pain arrived long before anything happened and then went on arriving. He put his forehead on the boards, and pressed, and breathed out through the straw, and counted, because he could not do it without counting. Somewhere in the twenties something in his hand gave way with a small wet crack that he felt in his elbow.
+It took a long time, and the length of it was the thing he had never been able to imagine beforehand. He was awake for all of it. The pain arrived long before anything happened and then went on arriving. He put his forehead on the boards, and pressed, and breathed out through the straw, and counted, because he could not do it without counting. Somewhere in the twenties the bone below the little finger went. It did not crack the way the thumb had. It went soft and long, folding inward under the lip of the bracket. He felt the two ends of it slide past each other inside his own hand. The whole outside edge of him dropped a finger's width and stayed dropped.
 
 He kept leaning.
 
-There was a second one, and it was worse than the first. After it his right arm would not do what he told it, and he had to stop, and put his face in the straw, and wait for the arm to come back to him.
+There was a second one, and it was worse, because he knew now exactly what he was buying and he leaned on it anyway. That one splintered instead of folding. He felt it go in more than one place and heard the last of it come up through the boards into his ear. After it his right arm would not do what he told it, and he had to stop, and put his face in the straw, and wait for the arm to come back to him.
 
 "There will be another night," Valeria said, very low, from across the box.
 
@@ -320,17 +318,23 @@ There was a second one, and it was worse than the first. After it his right arm 
 
 "I know."
 
-She did not say anything else. He heard her change her position once and then be still, and he understood, a long way off, in the part of him that was still doing that sort of work, that she had priced the whole thing in about four seconds, found no fault in his arithmetic, and stopped.
+She did not say anything else. He heard her change her position once and then be still. He understood, a long way off, in the part of him that was still doing that sort of work, that she had priced the whole thing in about four seconds, found no fault in his arithmetic, and stopped.
 
 He folded what was left of the hand into itself.
 
-It was not shaped like a hand any more; it was a shape you could put a name to only afterward. He got the fingers over the flat thumb, squeezed the whole of it into the smallest thing it would go into, set his right hand against the band, and pulled the hand out of the iron.
+It was not shaped like a hand any more; it was a shape you could put a name to only afterward. He got the fingers over the flat thumb and squeezed the whole ruin of it into the smallest thing it would go into. It went smaller than a hand should go, because there was nothing holding the outside of it out any more. He set his right hand against the band and pulled.
 
-The skin came off the back of it whole, in a piece, from the knuckles to the wrist.
+The bones moved under the iron the whole way, riding on each other. The skin came with them. Not a strip this time: the whole of the back of the hand, from the knuckles to the wrist, turned back off him in one piece the way a glove comes off inside out, and caught at the wrist, and stayed there.
 
-Afterward he could remember about a third of the next while.
+What came out of the band into the cold of the box was wet all over and did not look like anything.
 
-It came up on him from underneath and everywhere at once: the grey at the edges going in toward the middle; the sound of the camp travelling away until it was a long way off and belonged to other people; a cold that started in his face; his stomach coming up. He got onto his side and was sick into the straw as quietly as it is possible for a person to do that, which is not very quietly. It did not matter. The camp was asleep thirty feet away and had been listening to a box full of nothing for two months.
+Afterward he could remember about a third of the next while, and the whole of the part he had to do something about.
+
+He did not scream.
+
+That was the work, and it took more out of him than the leaning had. The pain did not come in waves and it had no top to it. It came up the arm and went on coming. Every time he thought he had the size of it there was more of it arriving behind that. His body wanted to get away from his own hand and could not, and wanted to thrash, and wanted it the way a fish wants it. He held it down with his teeth in the straw and his own weight on his own chest and thirty feet of sleeping men, and he did not move, and he made no sound at all, and the sweat came out of him until the straw under his face was wet through and going cold.
+
+He was sick once. It was the loudest thing that happened in that box all night. He got most of it into the straw, and it did not matter, because the camp was asleep thirty feet away and had been listening to a box full of nothing for two months.
 
 Then the shaking started, and it would not be stopped by any means he had.
 
@@ -348,7 +352,7 @@ He did not answer.
 
 "Four."
 
-They went to about sixty. He lost it twice. Both times she went back and started him again from the last number he had said, without comment, the way you pick up a dropped tool and put it back into the hand it fell out of. By the time they had done it a third time the grey had gone back out to the edges and stayed there, and the camp had come back to the right distance. His face was wet. The shaking had come down into his hands.
+They went to about sixty. He lost it twice. Both times she went back and started him again from the last number he had said, without comment, the way you pick up a dropped tool and put it back into the hand it fell out of. By the time they had done it a third time he had the box back: the boards, the straw, the dark, the shape of her against the far wall, and the camp at thirty feet, where it belonged. His face was wet. The shaking had come down into his hands.
 
 He lay for a while.
 
@@ -356,11 +360,15 @@ Then he sat up, because there was the rest of it to do.
 
 ---
 
-The rope took him an hour.
+Then he had to use it.
 
-He did it with his right hand and his teeth. The knot at the ring was a good one and it had been pulled on by a boy's weight for two months, and he could not simply pick it apart; he had to work the standing part back through itself a quarter of an inch at a time. Twice he had to stop because the left hand, lying against his chest where he had put it, sent something up into him that took his attention away, and both times he waited it out and went back.
+That was the part he had kept away from while he was deciding, and it had been waiting for him the whole time. A knot wants two hands: one to hold the thing still, one to work it. His right hand was in iron, on a chain, tied to the rope he had to untie. The only hand in that box that was free of anything at all was the one he had just destroyed.
 
-The ankles were easier and took another twenty minutes.
+So the holding was the ruin's.
+
+He closed it. There is no better way to put it than that: he closed what was left of his left hand on the standing part of the rope and held it shut there while the right worked the tail back through itself a quarter of an inch at a time. The knot was a good one and had been pulled on by a boy's weight for two months. It took him an hour and a half. He let go of it four times. Twice he had to put his forehead on the boards and wait until he could see the rope again, and once he went out for a moment and knew it only because the sounds outside had changed their order while he was away.
+
+The ankles took another half hour. It was the same work and it was worse folded up.
 
 Then the making-good, which he had planned in more detail than any other part of it, because it was the part where a mistake killed everybody. He put the empty band back over the ruin of the left hand so that it hung where iron hangs, and he arranged the chain in the straw in the shape chain makes when it is doing nothing, and he laid the tail of the rope from the ring in a curve on the boards with a bight in it that from a doorway would look exactly like a rope tied to a ring. He covered the wet straw. He covered the other straw. He put his back to the wall, in the place where he had lain for sixty-two days, in the position he lay in, with his knees up.
 
