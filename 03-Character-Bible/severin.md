@@ -1,5 +1,5 @@
 ## SEVERIN (the master)
-**Glance:** head of the Temple — THE FIRST MASTER; the family's secret savior and patron · empire past, his own man now · old, the way the split rock is old · **the hull is gone — it opened on Qeshet's strand with nobody ever having said whose it was; he gave a governor's clerk his name and his lost Temple, heard a princess lie for the family, and said nothing**
+**Glance:** head of the Temple — THE FIRST MASTER; the family's secret savior and patron · empire past, his own man now · old, the way the split rock is old · **the hull is gone — it opened on Qeshet's strand with nobody ever having said whose it was; he gave a governor's clerk his name and his lost Temple, heard a princess lie for the family, and said nothing; took the far room alone — *Goodnight* — and the deferral stands unasked**
 
 ### STATIC
 - **Name:** Severin — on-page mostly "the master"; spend the name sparingly so it carries weight.
@@ -13,6 +13,7 @@
 - **Appearance:** Old the way the split rock is old; tall, gone lean, a scholar's stoop that once wasn't. Hair fully grey — the second reading never confirmed. **Eyes dark, near black (author ruling, s34).** **SPENT at Ch. 31**, in Valeria's read, as *very dark* — the only dark thing left in that face, giving out precisely nothing; **the exact shade is still unspent** and *near black* has never been on a page. A soldier's frame under a master's robes: wrists too thick for the ink they carry. A face that is courteous, unhurried, and gives out nothing it hasn't priced.
 
 ### DYNAMIC
+- **HE TOOK THE FAR ROOM ALONE** — *I have had a room to myself for longer than any of you has been alive* — and the deferral was not asked on that page either; it stands due. Neris fenced him to her son over the eyes — *the old man knows what he knows. You are not to add to it* — which is not a denial, and Kael now believes he knows.
 - **THE HULL IS GONE.** It opened on the sand fifty strides short of Qeshet's strand on the thirtieth day, having sailed them out of range, lost its mast and drifted a month; nobody on any page said whose it was, and now nobody can. *You may ask me the rest of it when we are standing on the other side of that water* **came due on that sand and was not asked.**
 - **He taught the boy the boat for thirty days**, twenty words a day, read the drift off the swell and found it agreeing with the boy's stars, chose the sand over the harbour before she went, and gave the number straight again — a day in it, perhaps two. Ashore he gave the clerk *Severin, First Master of the Temple, which is gone.*
 - **He heard the princess give Kael a dead boy's name and his mother a house, and said nothing.** At the governor's door, watching the boy count the exits, he had said *You are your mother's. It is not always a compliment* — sourced to nothing.

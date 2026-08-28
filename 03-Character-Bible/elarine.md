@@ -1,5 +1,5 @@
 ## ELARINE SEDRANE (the watcher — pride that learns)
-**Glance:** the cohort's real mind; collegial ally · House Sedrane · ~13 · **at Qeshet, inside the princess's lie with four true words; the second fire under the still, and the better one**
+**Glance:** the cohort's real mind; collegial ally · House Sedrane · ~13 · **at Qeshet, inside the princess's lie with four true words; the second fire under the still, and the better one; in Qeshet she gave Aurelian the floor of her room**
 
 ### STATIC
 - **Role:** Considers herself the cohort's real MIND (Aurelian its capacity, its name, its noise) — and she is right. With Aurelian: the two responses to being out-thought — his world breaks, hers gets bigger. Proof the golden children are not a monolith.
@@ -16,6 +16,7 @@
 - **Appearance:** Ink-dark hair bound severely; pale, economical — nothing on her that doesn't work; small; dark eyes that price before they blink. Forgettable at a glance and unforgettable the third time you notice she hasn't moved. What others react to: they mostly don't — which she has noticed, and wears as neatness.
 
 ### DYNAMIC
+- **She examined it and it came out the same:** *I have not been further than an arm from any of you in thirty days. I do not want to begin tonight.* She went past Aurelian into her room, left the door open, and gave him the floor.
 - **She is inside the lie** — *In my cohort also. Four years.* — true, given after Aurelian's, and nothing more.
 - **She was the second fire under the still**, two hours an evening for a month, smaller, steadier and hotter; she tilted the lid and the yield rose; no mark on her. Her sword came up on the sand with the left hand open and nothing in it; after the healer she sat on the ground and looked at her hands.
 - **Her house survives and her mother does not, and the machine that disposes of her is untouched:** *my house will go on with me.* She has worked out that the compliment was said because the woman knew she was dying, **and she does not know what to do with it, which has never once happened to her.**

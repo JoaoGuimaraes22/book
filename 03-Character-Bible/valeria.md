@@ -1,5 +1,5 @@
 ## VALERIA VEL
-**Glance:** rival → first friend · Line of Vel (eleven generations — tiers in `../02-World-Bible/factions.md`) · 13 (Kael's age) · **at Qeshet, on the princess's left; she came out of the sea with both blades drawn, drank first from the watch's skin, gave the governor's clerk two words, and said nothing while the princess lied**
+**Glance:** rival → first friend · Line of Vel (eleven generations — tiers in `../02-World-Bible/factions.md`) · 13 (Kael's age) · **at Qeshet, on the princess's left; she came out of the sea with both blades drawn, drank first from the watch's skin, gave the governor's clerk two words, said nothing while the princess lied, chose the room, and stood at her shoulder while she said *Goodnight, Lucan***
 
 ### STATIC
 - **Role:** Daughter of the Line of Vel. Kael's rival, then first friend. The rest of her role is in 00.
@@ -13,6 +13,7 @@
 - **Appearance:** Lean, strong, athletic — a working build that reads as function even at rest. Long black hair worn loose well past the shoulders, no ornament (lengthened s33 — the page moved with it, Ch. 14). Emerald green eyes — color spent at reading distance only; worn plain and bored as display (the boredom died against Kael). Her stillness WARNS — nothing like his. Knuckles older than her face; guard-lineage calluses. Rooms rearrange around the name before the girl; reverence draws her one untrained tell, the microscopic flinch — **SPENT at Ch. 27** (the s32 close DE-LISTED it: available, not owed).
 
 ### DYNAMIC
+- **She chose the room** — looked into two and said *This one* — and stood at the princess's shoulder in its door, and said nothing when the princess said *Goodnight, Lucan* to the boy in the passage.
 - **At Qeshet, on the princess's left, the only protection left,** and it is her purpose. She gave the governor's clerk two words — *Valeria Vel* — and the pen stopped over them; she stood behind the princess's cushion until the governor asked her to sit; she did not join the lie and did not contradict it.
 - **She was in front of the princess before the count finished**, out of the sea with both blades drawn and no hurry left in her to use; when the watch knelt she let the points come down last of anybody and did not sheathe them. She drank first from the watch's skin before it reached the princess, and the captain saw it and said nothing. She carried the princess out of the sea.
 - **Thirty days on the hull:** thin the way a blade grows thin; never once sat where she could not reach the girl in one movement; the burn healed to a shine by nothing but time and is now oiled and dressed; the left arm out of the coat at last and bound properly by the south's healer.

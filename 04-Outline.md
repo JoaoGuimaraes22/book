@@ -47,7 +47,8 @@
 
 ## Book Two+ — The Continent
 - **Opens on the water, not with the trio (author, s49).** — SPENT: Ch. 37 "The Still" (thirty days; the still; landfall at QESHET on the south coast; all eight ashore; the governor's table and the letter). The trio still crosses the continent together. Text: `archive/outline-archive.md`.
-- **Inherited unspent, owed in Book Two:** the separation and its no-farewell · the Phantom, asked-and-declined · the word in a raider's mouth and the mother's face · Severin's hull and *ask me the rest of it on the other side of that water* · the crown-vs-Kael choice · Halden's fuse · Wren's eyes · Neris's true capacity · **Kael's three wants, one of which is aimed at the wrong enemy.**
+- **The no-farewell — SPENT: Ch. 38 "The Watch"** (the same night: the rooms; the last conversation — the languages' true names, the red eyes *something in my blood* and her own hidden by will, *my truth*; a sleep that was not tiredness, and her legs failing her). **The separation itself lands when he wakes — the next chapter's (author, s57).**
+- **Inherited unspent, owed in Book Two:** the separation (its no-farewell is on the page — Ch. 38; the parting lands at the wake) · the Phantom, asked-and-declined · the word in a raider's mouth and the mother's face · Severin's hull and *ask me the rest of it on the other side of that water* · the crown-vs-Kael choice · Halden's fuse · Wren's eyes · Neris's true capacity · **Kael's three wants, one of which is aimed at the wrong enemy.**
 - **The map (author, s55):** the island south of the continent; the empire its west, the coalition its east; Qeshet on the south coast; the road to the capital runs north and then west along the shoulder (`02-World-Bible/geography.md`).
 - Empire vs. coalition; the compass slowly rotates (the "enemies" humanize; the empire's rot surfaces). Long threads: 00.
 - TBD.
@@ -59,7 +60,8 @@
 - **Halden's next move.** The fuse is live and now doubled: the hidden contact still concealed from the parents, and the dossier holds the public flash — lever-grade twice over.
 - **The trio + the fourth gravity.** Valeria against the cistern-court trio (Kael/Aurelian/Elarine) — untouched in Ch. 14 by design. How the standing geometry absorbs or resists a fourth body is unspent.
 - **KAEL'S SCIENCE.** Important later (author, s52). Its Book One vehicle, the forbidden lecture, is struck and nothing replaces it yet; the engine is `03-Character-Bible/kael.md` §Method and `02-World-Bible/curriculum.md`.
-- **THE LANGUAGES.** The four his mother taught him — ends never explained on any Book One page (`02-World-Bible/curriculum.md`) — are a Book Two thread; what they are is in 00 (author, s52).
+- **THE LANGUAGES.** Three true names are on the page (Ch. 38, in Neris's mouth — Ivrit, the south's; Avestan, the east's; the Vessantine Koine, the empire's) with her reason: *so that there would be nowhere on this continent you could not go.* The birds and the fourth are unnamed; the rest is in 00 (author, s52). `02-World-Bible/lexicon.md`.
+- **THE CUPBEARER (Ch. 24).** *My father's cupbearer is a Drusane cousin* — said by the princess in Kael's hearing two chapters before she wrote his family into House Drusane at Qeshet: the house she chose has a cousin at the Emperor's own table. Kael has not assembled it on any page.
 
 ## Open valves (deliberate)
 - **REVISIT NOTE (session 11): the settlement girl + her mother (the widow)** — return to them in a future arc. Two banked payoffs, separable (00): the intelligence vector (she can put a BOY in the folklore — the ghost story becomes a lead in professional hands) and the recognition/mercy beat (she knows him / he learns the line held — proto-witness, minor-key Valeria rhyme). NOT spent at the raid (crowded, consequence-free). Ch. 27 forecloses nothing; whether they survive the island is the author's to say.

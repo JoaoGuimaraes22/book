@@ -577,3 +577,10 @@ Two classes are admitted that are not "good lines", and both are explicitly mark
   - "Nobody here is qualified to but me." *(Neris, refusing the healer the linen — RATIFIED VERBATIM, the author's own wording)*
   - "You are your mother's. It is not always a compliment." *(Severin at the governor's door, sourced to nothing)*
   - "a name that was not his" *(the chapter's last line — Kael under Lucan Drusane)*
+
+- **Ch. 38 — "The Watch"**
+  - "It is a house. It has walls. It will bear it." *(the princess ruling the rooms)*
+  - "under a roof that writes letters" *(Neris's deferral, with its reason in it)*
+  - "Nobody. Say it." *(the oath over the eyes)*
+  - "There are no enemies. There are no allies." *(my truth — the author's own wording)*
+  - "then just, darkness." *(the chapter's last words — the author's own wording)*

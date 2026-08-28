@@ -1,5 +1,5 @@
 ## HAZOUN SABRANE (the governor of Qeshet)
-**Glance:** governor of Qeshet — a native ruler kept in place, who keeps the city for the Emperor · a southern given name and an imperial house name taken at the conquest (`../02-World-Bible/naming.md`) · fifty, perhaps · **he wrote eight names to the capital the night they landed, and one of them is a lie he inclined his head to.**
+**Glance:** governor of Qeshet — a native ruler kept in place, who keeps the city for the Emperor · a southern given name and an imperial house name taken at the conquest (`../02-World-Bible/naming.md`) · fifty, perhaps · **he wrote eight names to the capital the night they landed, and one of them is a lie he inclined his head to; he promised carriages to the capital in the morning, and his eight guests slept a sleep that was not tiredness.**
 
 ### STATIC
 - **Role:** keeps Qeshet for the Emperor — the first face of the empire Kael meets on the continent, and it is a conquered man's face wearing one band of imperial blue. Character Law applies and nothing is built yet beyond what the page shows: limit, wound and awkwardness are open.
@@ -8,6 +8,7 @@
 - **Appearance:** not tall; fifty, perhaps; brown; square through the body in the way of a man who was strong and kept the shape of it; pale cloth like his people's but finer, with a band of the empire's blue at the edge — the only imperial thing on him. His empire's tongue is better than his captain's and has the same thing under it.
 
 ### DYNAMIC
+- **He promised, at the end of the meal, a carriage to the capital tomorrow for all of them**, and went out by a door behind him. Two men of his house stood at the mouth of the guests' passage with lamps, the way the watch had stood on the sand. **Eight guests slept after his table**; the page holds a weight that was not tiredness, a mother who meant to keep the watch and could not rise, and nothing named. Neris's word for him: *something off about this place, these people* — and *he did not ask how* is not on that page.
 - **He knew the princess by her hair** — a month of salt and sun had taken everything else off her — said the whole chain, *Aeliana Cassivara Vessantine*, and knelt to the girl where his watch had knelt on the sand to the name.
 - **He asked nothing about how the Temple came to be nowhere at all**, told so by an old man who could barely stand; Kael filed the absence without knowing what he had filed. What he knows of the island is on no page.
 - **He wrote *Lucan Drusane, the Lady Drusane, and the child* on a princess's word**, after looking at a herder's hands and then at her, and inclined his head, and a rider left his yard for the capital that night and will not stop. Aurelian's and Elarine's true sentences about the dead boy went into the same letter.
@@ -16,4 +17,4 @@
 - **Knows:** eight names and their houses as given at his table; that a Vel is at the princess's left; that the Temple is gone. **Does not know:** anything true about the herder's family, unless he does.
 
 ### FORWARD
-- Whether he is a host, a jailer or only a careful man; what he does with a princess the capital may already count dead; what the south is to him. All open.
+- Whether he is a host, a jailer, a seller or only a careful man — the page has a promise of carriages and a sleep; what he does with a princess the capital may already count dead; what the south is to him. All open.

@@ -18,6 +18,7 @@
 - **THE NOBLES' DISTRICT** — the island's walled noble quarter, named on the page Ch. 27 in Valeria's mouth (*"It is the only wall on this island that was built to be a wall"*). **Controlled term: DISTRICT, never *quarter*** — geography in `../02-World-Bible/geography.md`.
 - **THE COLLEGIUM** — the CAPITAL's Resonant school, named on the page at Ch. 22 (*"Five from the capital's Collegium, in red and black"*). The northwest school's name is still unminted.
 - **QESHET** (Ch. 37 — the south's register, `../02-World-Bible/naming.md`; an imperial-held native city on the continent's south coast, named in the governor's mouth). **HAZOUN SABRANE** — its governor; a southern given name and an imperial house name (sheet: `../03-Character-Bible/hazoun-sabrane.md`). SABRANE is taken as a house. The captain of the watch and the old woman who mends are unnamed; no sheet, none owed.
+- **THE LANGUAGES' TRUE NAMES (Ch. 38, in Neris's mouth only): IVRIT** — the south's, the family's *Traders* · **AVESTAN** — the east's, the downhill one, the coalition's tongue, the one she sings in · **THE VESSANTINE KOINE** — the empire's, the page's default tongue. Kael's narration keeps the child-names. The birds and the fourth are unnamed. **THE GODS OF THE EAST** (Ch. 38) — Neris prayed to them before Kael's birth; no page names them. Register: `../02-World-Bible/lexicon.md`.
 - **"LUCAN DRUSANE" IS ALSO KAEL'S NAME IN AN IMPERIAL LETTER** (Ch. 37): the princess gave it to the governor of Qeshet for the rider to the capital, with *the Lady Drusane* for Neris and *the child* for Wren. The dead boy's sheet stands; the alias is live.
 
 ### Naming law
@@ -47,4 +48,5 @@
 - The raiders are COALITION forces. Kael's initial truth: they are the enemy.
 - The master placed the parents on the island, and brought Kael to the Temple as "the master's charity case."
 - **BOOK TWO OPENS AT CH. 37** in `manuscript/book-two/`: thirty days on the hull, no rain, the still; landfall at Qeshet on the south coast; all eight ashore; the hull gone. The map: the island south of the continent, the empire west, the coalition east (author, s55).
-- The longsword rides on Kael's back on a length of cord; he fights with the mismatched pair (author, s55).
+- The longsword rides on Kael's back on a length of cord; he fights with the mismatched pair (author, s55). **At Ch. 38's end it lies along the foot of the third room's door in the governor's house, the pair at the head of the bed.**
+- **CH. 38 ENDS IN THE DARK:** the same night as the table; eight asleep in the governor's house; the sleep unnamed; the governor's carriages promised for the morning. Nothing after that is on any page.
