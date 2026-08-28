@@ -100,7 +100,7 @@ In the second week Kael said, "Valeria. You should sleep."
 
 Valeria looked at him.
 
-"As much as you can get, for as long as they leave us alone. I will take the door and the road and everything that goes past it. You do not need any of that." He said the rest of it flatly, because it was arithmetic and he did not know another way to hand her anything. "When they open this box for the last time, you are going to have to be able to fight. Until then, I'll keep track all of it. If I'm ever caught lacking, I'll rely on you, but I'll need your full strength when the time comes to go."
+"As much as you can get, for as long as they leave us alone. I will take the door and the road and everything that goes past it. You do not need any of that." He said the rest of it flatly, because it was arithmetic and he did not know another way to hand her anything. "When they open this box for the last time, you are going to have to be able to fight. Until then, I'll keep track of all of it. If I'm ever caught lacking, I'll rely on you, but I'll need your full strength when the time comes to go."
 
 She did not argue. She did not ask what he meant to do about the nights, or how long he thought he could hold it, or what would happen if he were wrong about any of it. She said, "Very well," and lay down, and slept.
 
@@ -130,8 +130,7 @@ Valeria said, "Highness, please. Aeliana. Drink it," which she had never done an
 
 The third thing was the talking, and it was the worst.
 
-Even after a month Kael was confused on why she was the only one kept unable to speak. She had four or five breaths of mouth a day while the cloth was off, and Kael expected, at the start, that she would use them the way she had used every mouthful of speech he had ever heard her use, which was to arrange the world.
-She did not. In the second week she said, "My father will surely pardon you and reward you with anything you wish, if you free me. Please. Anyone." Nobody answered her. The cloth went back on.
+Even after a month Kael was confused on why she was the only one kept unable to speak. She had four or five breaths of mouth a day while the cloth was off, and Kael expected, at the start, that she would use them the way she had used every mouthful of speech he had ever heard her use, which was to arrange the world. She did not. In the second week she said, "My father will surely pardon you and reward you with anything you wish, if you free me. Please. Anyone." Nobody answered her. The cloth went back on.
 
 In the fourth week she said it again. The same sentence, the same words, in the same order. He knew because he was a person who did not lose things. He lay in the straw afterward with it: a girl had said a sentence twice with sixteen days between, and there was nothing whatever to be done with that.
 
@@ -152,24 +151,6 @@ Every number went down.
 They went down slowly, which was worse than fast, because slow meant it was going to go on. In the third week the thumb and the finger met. In the sixth they went past each other.
 
 In the seventh week one of the numbers got better, and he had it for about two heartbeats before he understood why. The band went further up his hand than it had in the first week, and it stopped in exactly the same place, because what was stopping it was not the part of him that was going away. He lay with that for the rest of the morning.
-
----
-
-Some time around the end of the first month he found the marks.
-
-The rope let him get his shoulder against the boards behind the ring, and one night, with nothing else to do with his hands, he went over that stretch of wall with his fingers the way his father had taught him to go over ground in the dark, which is slowly and twice.
-
-They were scratches. They were in the boards low down, where a man's hand would fall if he were lying where Kael was lying, in a place no lamp reached. Something small and hard had made them. They were in rows.
-
-He counted them with his fingers three times and got the same number.
-
-A hundred and forty-one.
-
-He lay in the dark with his hand flat over them. Somebody had been in this box for a hundred and forty-one days and had wanted somebody to know. There was no name and no other mark and no way to tell whether the counting had stopped because the journey had, or for the other reason.
-
-He did not make one of his own. He thought about it for a long time that night and decided against it. The argument he made himself was that he had no need of it, since he had the count in his head and had never dropped it, which was true.
-
-On the forty-fourth day he made the first one.
 
 ---
 
