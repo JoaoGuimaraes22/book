@@ -48,7 +48,7 @@ Valeria Vel sat against the far wall of the box, opposite him, with her legs out
 
 Beside her, the princess. She was awake.
 
-She sat upright, with her back straight; her mended hands in the same iron as his; across her mouth a cloth, tied behind, that had been white once. Her hair was down her back with some salt still in it. She was looking at the slot in the door. There was a slot, at the height of a standing man's eyes, a hand wide, with three bars across it and a shutter outside them pushed back a finger's width; the day came in through the gap in one flat blade and lay across the straw, and she was looking at it as if looking hard enough would do something to it.
+She sat upright, with her back straight; her mended hands in the same iron as his; across her mouth a cloth, tied behind, that had been white once. Her hair was down her back with some salt still in it. She was looking at the slot in the door. There was a slot, at the height of a standing man's eyes, a hand wide, with three bars across it and a shutter outside them pushed back a finger's width; the day came in through the gap, grey, and lay across the straw, and she was looking at it as if looking hard enough would do something to it.
 
 She saw him move. She turned her head and looked at him over the cloth. It lasted about a breath; he could not read it; she looked back at the slot.
 
@@ -74,15 +74,15 @@ There must be a way out. He went through hundreds, perhaps thousands, of escapes
 
 The day went along the floor.
 
-The blade of light from the slot lay across the straw and crept, and he watched it, and it told him things. It had been on the right-hand wall when he woke, low; it climbed while he watched, and shortened, and by the time it stood almost under the slot it had gone off the wall and onto the floor. The sun was on the right of them, then, in the morning. North, or near it. The road went on being rough; the wheels went just faster than a man could run, and often slowed for some tract of road; the box leaned on long slopes, up, then down, then up for longer, so that the land was rising under them and meant to go on rising. He had looked at this country once, from a mile of sand, over the top of a town: brown, going back, going up. He was in it now, in a box, going up.
+There had been no sun in the slot when he woke: grey, and the lantern doing most of the work. It found the slot after the middle of the day, a thin edge of it along the bars, and then a blade of it came in and lay on the floor and lengthened, and crept toward him across the straw as the afternoon went, and he watched it, and it told him things. The sun was behind them, then, in the afternoon. East, or near it. The road went on being rough; the wheels went just faster than a man could run, and often slowed for some tract of road; the box leaned on long slopes, up, then down, then up for longer, so that the land was rising under them and meant to go on rising. He had looked at this country once, from a mile of sand, over the top of a town: brown, going back, going up. He was in it now, in a box, going up.
 
 His mouth had gone to leather by the middle of the day. He had been thirsty for a month and knew every stage of it in order, and knew that one day of it was nothing at all. His body did not agree with him, and said so, and went on saying so.
 
 There was a corner of the straw wetter than the rest, that had been used for what it was for by whoever had been in the box before them. He used it, on his knees, at the end of the rope, and got himself back where he had been. The princess looked at the slot the whole time. He took that for a kindness, or for that she could not bear to look at him, and chose the first, because he had been raised by people who looked away on purpose.
 
-He did not think about his mother and brother. He had put them where he put things, in the first minute, in the count, and they had stayed there. It was only in the long middle of the day, when the light was on the floor and there was nothing left in the box to count, that he found he had been thinking about them the whole time and calling it something else.
+His head was worse in the middle of the day than it had been at the start of it. Whatever had put him under had not finished with him: it sat behind his eyes like a stone, and every jolt of the wheels moved it, and when he shut his eyes against it the box went round, so he kept them open. The last thing he had was her voice. *Stay awake, Kael*: her hand on the child and her eyes on the door, and *count*, and he had got to five, and then his name, in her voice, and then nothing. That was where they were. There was nothing after it that he could get to, and he went back to it again and again, the way a tongue goes back to a broken tooth, and it was the same every time.
 
-She had said *stay awake.* Her hand on the child and her eyes on the door: *count*, and *continue*, and he had got to five. He went back over the five. He had been slower on the fourth than on the third; he could hear it; he had known it at the time and had done nothing about it, and there had been no six. Whatever had come into that room had come in after five. He had been told the one thing, once, plainly, by the one person, and had not done it. He lay in the straw and looked at that, and found that he could hold it; that it went where he put it, like the rest, and stayed there. He had thought that it might not.
+He listened. One box: he had the wheels under him, four of them and no more; one team; the riders, and nothing behind the riders. If they had been taken they had been put in another box, and there was no other box on this road. Then they were not here. Then they were in the house, or they were somewhere else, or they were nowhere, and he could not get to the end of that and did not try again. He did not have any of it. Whether she was alive. Whether the child was. Whether the old man had got up. He lay in the straw with the stone in his head and the count going round the same four things and giving him nothing, and his heart was going again, and this time it did not finish, and he could not put it anywhere.
 
 ---
 
@@ -102,7 +102,7 @@ He put that with the black in the iron, and had two things, and no third to make
 
 Then he told the princess.
 
-He had not decided to. He turned his head and she was looking at him; she had watched him listen, he understood, she had watched his face do nothing for a mile; and it came out of him, low: "Four mules. Six riding; one of them not a rider. Two on the box. Water tomorrow, not today." And then, since she could not stop him: "Ivrit, all of them but one. The one gives the orders. We are going north."
+He had not decided to. He turned his head and she was looking at him; she had watched him listen, he understood, she had watched his face do nothing for a mile; and it came out of him, low: "Four mules. Six riding; one of them not a rider. Two on the box. Water tomorrow, not today." And then, since she could not stop him: "Ivrit, all of them but one. The one gives the orders. We are going east."
 
 She did not move. Her eyes stayed on him over the cloth.
 
@@ -124,7 +124,7 @@ Then she looked at Kael, the slot, the roof, the ring behind his head, the rope,
 
 "Where."
 
-"North. A day from water, they say."
+"East. A day from water, they say."
 
 "They."
 
