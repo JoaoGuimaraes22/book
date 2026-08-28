@@ -22,7 +22,7 @@ Emerald green eyes.
 Her stillness warns. Gaze level, flat, appraising — unimpressed and faintly tired. Not vulnerable, not wistful, not searching.
 Knuckles older than her face; guard-lineage calluses; old pale scar lines on both forearms, and four newer.
 Twin blades, one in each hand, are what she is.
-From Ch. 36 half her face is burned red and shining down one side, healed to a shine by Ch. 37. Which side is not established.
+From Ch. 36 the LEFT side of her face is burned, healed to a shine by Ch. 37 and mostly healed after it: a smooth shine on the skin, not a wound and not raw.
 
 AELIANA CASSIVARA VESSANTINE
 Not tall; slight, sheltered, soft — a body that has never worked.
