@@ -499,6 +499,17 @@
 - Neris's fate; Wren's fate; Severin's fate/motives; how Neris's dagger reaches Kael (Vask's is in his hands — Ch. 33); Kael's surname; the Gardener (true name reserved — see 00); why the coalition truly struck; the far continent; the duel's winner.
 
 #### 03-Character-Bible/gardener.md — the whole sheet
+
+### Swept from 06 (and one clause from 03) at s56, continued (2026-08-28) — the content fences 06 carried; 06 keeps the craft only
+- **06 §POV 1 (pan-aways), the head clause, verbatim:** NO interiority for secret-holding heads (Severin, Neris — entering them detonates live valves).
+- **06 §POV 2 (interludes), the head clause, verbatim:** third limited in non-secret-holding heads (Valeria the safest).
+- **06 §Hard Rules — the archaeology rule as it stood (the *never told* is the author's structural choice; 06 keeps the register):** - **The parents' backstory is never told, only inherited.** No flashbacks, no confession scenes. Kael learns who they were like an archaeologist: objects, scars, reflexes, other people's fear — across the whole series. Pan-aways may show the parents in the PRESENT, external camera only; their PAST stays archaeology. This rule outranks the flashback allowance for other characters.
+- **06 §Hard Rules — WHAT/WHY, the pace clause:** …and the gap must NOT close quickly.
+- **06 §Hard Rules — WHAT/WHY, the destination, verbatim:** The long development is series-scale, and it is an ARC, not a fixed trait: he eventually discovers that people are not patterns to solve — they have intentions, contradictions, private histories, and the ability to deliberately change the pattern — and past that discovery his social reading grows into EXTREME PROFICIENCY: the pattern-mind, once it accepts what people are, turns fully onto them (its endpoint's proof is in 00). The rule constrains PACE, not destination: competence is earned late, through real mistakes, and arrives fully.
+- **06 §Staging — the Sanctum line, verbatim:** - The Sanctum (00) is a bible-level term ONLY: on no page (`07-Story-Ledger/established-facts.md`), and Neris never says it. The parents' magic and combat arrive as METHOD, never as sourced doctrine; the diaspora between the Temple's teaching and the mountain's is SHOWN, never named (Ch. 9's two-schools-one-candle beat is its first rendering).
+- **06 §Staging — the never-remark list, verbatim:** - **Never remark on these:** Severin's fern (Ch. 10) was worked from his chair across the room — mastery on display for any reader who later holds the law · Ch. 4's night-watch blade lying *unsheathed* across Neris's knees pre-echoes the word · Severin learned to mend, and why is in 00 · **Halden takes a Vel through a gap by the arm (Ch. 29) and she sets herself and it does not matter** — he is genuinely strong in body and Art (00); the page keeps it deniable as a grown man against a girl of thirteen, and nothing anywhere points at it.
+- **03/kael.md §Flaw — the destination clause, verbatim:** the gap closes at series scale, and past it his social reading becomes extremely proficient.
+
 ## THE LEADER — "THE GARDENER" (big bad — true name reserved, mostly unrevealed)
 **Glance:** the big bad · plants, prunes, and harvests on both sides of the war · — · to Kael, not a name — only a pattern.
 

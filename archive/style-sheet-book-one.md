@@ -42,3 +42,47 @@ Rolled VERBATIM at s56 (2026-08-27), when `06-Style-Sheet.md` was audited agains
 
 ### §Character & Scene Rules — relationship time (its Book One justification)
 - **RELATIONSHIP TIME IS LOAD-BEARING.** Every chapter carries at least one scene whose only job is a relationship moving — warmth, friction, play, pride — not plot, not clue-work. Rendered in the established registers (tells, shared work, jokes, the body) but allowed to BREATHE — real dialogue, real laughter that isn't threat. The never-stated rule holds; the fix is TIME, not sentiment. The Oss cooling and the fire only devastate in proportion to the warmth banked beforehand.
+
+## s56, continued (2026-08-28) — TIERS 1 AND 2: the content fences left 06 for 00; the *never*s rewritten as craft. Each bullet as it stood before the edit.
+
+### §POV 1 — pan-aways (the head clause went to 00)
+  1. **EXTERNAL-CAMERA PAN-AWAYS** (established, author s29 — exempt from the per-use argument; not counted): short scenes without Kael — dialogue and observable action ONLY; NO interiority for secret-holding heads (Severin, Neris — entering them detonates live valves). The cut-before-the-answer is the device: the reader overhears until the cliffhanger, never past it. Native seal available — characters shifting into the downhill language lock the reader out in-world. Show machinations MOVING, never sealed answers. Set roman, never block-italic.
+
+### §POV 2 — interludes (the head clause went to 00)
+  2. **INTERLUDES / SPLIT-GROUP BITS:** a whole chapter or a bit, third limited in non-secret-holding heads (Valeria the safest); adult-cold register from the first line (contrast with Kael's maturing voice is a feature); set roman. Character flashbacks allowed for OTHER characters — the parents' backstory exception stands (below): their past stays archaeology, never flashback. Argued per use, every time, and the count is the rule (`07/standing-rules` §DEPARTURE LEDGER). **An interlude may be time-displaced**, provided the reader is anchored in its first lines.
+
+### §Hard Rules — the archaeology rule (to 00 as well; 06 keeps the register)
+- **The parents' backstory is never told, only inherited.** No flashbacks, no confession scenes. Kael learns who they were like an archaeologist: objects, scars, reflexes, other people's fear — across the whole series. Pan-aways may show the parents in the PRESENT, external camera only; their PAST stays archaeology. This rule outranks the flashback allowance for other characters.
+
+### §Hard Rules — love embedded, not stated (s56 wording)
+- **Love is embedded, not stated.** For thirty-one chapters it was embedded in the teaching and never stated — every stern lesson carried the signature of protection in its stitching (the hand before the ground; the lie that makes a horizon). The never-stated era ended in the house (Ch. 32; `07-Story-Ledger/standing-rules.md` §WHAT THE FIRE LEFT ON THE PAGE): the family behave like people who know. From there a stated line is a SPEND, argued like a heavy beat, never the default; the register stays the body, the work and the tell, and a teaching scene that reads stern without detectable love is still a revision flag.
+
+### §Hard Rules — do not soften the harshness (s56 wording)
+- **DO NOT SOFTEN THE HARSHNESS (counterweight).** The parents were not good parents. Their teaching was at times result-oriented to the point of genuine, reader-discomforting harshness — procedural, calm, total; never rage, never cruelty for its own sake — and Kael normalized and defended it on the page (proudest when the harshness "works"), which made it worse, not better. The love is real AND the harm is real; neither cancels the other. They rebuilt the shape of the thing that unmade them. **From the fire on the rule governs MEMORY:** grief does not sand the harm off the dead father, and the mother is not softened in retrospect either — a lesson remembered keeps its stitching and its cost, and a Vask remembered without the harm is a revision flag. Where teaching still happens, the old test holds: if every harsh scene resolves into reassurance, revision flag.
+
+### §Hard Rules — the WHAT/WHY split (pace and destination went to 00)
+- **THE WHAT/WHY SPLIT (governs Kael's people-reading for the series).** His physical reading is extraordinary — ten years of training; his social reading is near-nonexistent — and the gap must NOT close quickly. Render the split explicitly: he may correctly detect the WHAT (he's angry; she's lying; the room turned) while completely misreading the WHY (the motive; whether a lie is cruel, protective, embarrassed, playful, or kind). Let him make real mistakes, on the page, uncorrected — the loom-glance ("they are checking I did it correctly") is the model. The long development is series-scale, and it is an ARC, not a fixed trait: he eventually discovers that people are not patterns to solve — they have intentions, contradictions, private histories, and the ability to deliberately change the pattern — and past that discovery his social reading grows into EXTREME PROFICIENCY: the pattern-mind, once it accepts what people are, turns fully onto them (its endpoint's proof is in 00). The rule constrains PACE, not destination: competence is earned late, through real mistakes, and arrives fully.
+
+### §Hard Rules — fights (the *never compare him to nine* clause)
+- **Fights are puzzles.** Kael wins by legible technique and decision-making, never by power-ups; the reader should understand every victory. **In a fight chapter the thinking happens BEFORE and AFTER; the fight itself is bodies** — immersive, fast cuts, the reader in it; relative distances, never surveyed ones; no floating callbacks. Do not justify what Kael understands, and never compare him to what he was at nine: he knows what he is looking at — write that.
+
+### §Staging — the header
+- **Staging rules for sealed truths (evicted from 00 at s33 — how a truth reaches the page):**
+
+### §Staging — the Sanctum line (to 00)
+  - The Sanctum (00) is a bible-level term ONLY: on no page (`07-Story-Ledger/established-facts.md`), and Neris never says it. The parents' magic and combat arrive as METHOD, never as sourced doctrine; the diaspora between the Temple's teaching and the mountain's is SHOWN, never named (Ch. 9's two-schools-one-candle beat is its first rendering).
+
+### §Staging — the spends pointer
+  - **The spends are STATE, not staging** — how the throw, the chest, *"Mine as well."* and the parents' capacity reached the page is in `07-Story-Ledger/standing-rules.md` §THE PARENTS AT CAPACITY, AND THE STEEL; Neris's ceiling is Book Two's and her spend-state is there too.
+
+### §Staging — the never-remark list (to 00)
+  - **Never remark on these:** Severin's fern (Ch. 10) was worked from his chair across the room — mastery on display for any reader who later holds the law · Ch. 4's night-watch blade lying *unsheathed* across Neris's knees pre-echoes the word · Severin learned to mend, and why is in 00 · **Halden takes a Vel through a gap by the arm (Ch. 29) and she sets herself and it does not matter** — he is genuinely strong in body and Art (00); the page keeps it deniable as a grown man against a girl of thirteen, and nothing anywhere points at it.
+
+### §Character & Scene Rules — the axis (its two *never*s)
+- **KAEL'S DEFINING AXIS.** His defining features are intelligence, technique, and practical field knowledge (enumerated in 03 and 02) AND exceptional fighting — all of it his parents' teaching in him. The deficiency is ONE axis only: keep a HEAVY, persistent emphasis on his lack of magic capacity, and on the empire/Temple wrongly treating capacity as the measure of a Resonant. The world keeps saying the loud wrong thing about him; the page keeps showing the quiet true thing. Neither half is allowed to fade: as magic's stakes escalate, the axis the capacity-worshipping world undervalues is the axis that wins. **COUNTERWEIGHT: the critique is of capacity-WORSHIP as the sole measure — never of capacity, mass, leadership, or social gravity themselves.** Those are real powers, valued by the story and by Kael's own honest pricing (Aurelian's count was "well given" and Kael filed it): command moves six backs where the pry-bar moves none, and Kael's lack of it is a REAL deficit, not a hidden virtue. Render the complementarity; never hand-wave the other column away.
+
+### `03-Character-Bible/kael.md` §Flaw — the clause swept to 00
+misreads the WHY (rule in 06); the gap closes at series scale, and past it his social reading becomes extremely proficient.
+
+### §Character & Scene Rules — relationship time (its *the never-stated rule holds* clause, repointed)
+- **RELATIONSHIP TIME IS LOAD-BEARING.** Every chapter carries at least one scene whose only job is a relationship moving — warmth, friction, play, pride — not plot, not clue-work. Rendered in the established registers (tells, shared work, jokes, the body) but allowed to BREATHE — real dialogue, real laughter that isn't threat. The never-stated rule holds; the fix is TIME, not sentiment. A loss only devastates in proportion to the warmth banked beforehand.
