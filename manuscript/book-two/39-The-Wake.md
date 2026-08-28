@@ -1,0 +1,195 @@
+# Chapter Thirty-Nine — The Wake
+
+The count was running before he was.
+
+He came up into it the way he came up out of deep water, with the numbers already going: a rhythm under him, four beats and a fifth that dragged; a light that went one way and came back; two breathing, near, one of them wrong. Wood. Straw. The count had been at work in the dark for some time without him, on whatever the dark had given it, and it handed him all of that on the way up as if he had asked for it.
+
+He did not open his eyes. You did not move until you knew what was moving, and something was.
+
+The rhythm was wheels. He had never in his life been on wheels, and he knew them the way he had come to know the swell, out of the body: a jolt, and the world going on, and the jolt again, and a board somewhere that took it late. The light was a lamp, swinging. The two breathing were on his left, low down, one slow and thick, and one quick and shallow through the nose. The wrong one was the quick one.
+
+And two were not there. He went through the whole of it again for them, in order, the way you went back over a sum for the term you had dropped; and it came back the same. His mother's breathing was not in it. The child's was not in it.
+
+He lay still with that for as long as he could.
+
+Then the pain in his head arrived, as if it had waited for him to finish, and it was the wheels: every jolt went in under the bone behind his eyes and struck there, and the world went on, and it struck again.
+
+---
+
+He opened his eyes.
+
+A lantern on a hook, on a short chain, going one way and coming back. Above it, boards, a roof of boards, close, dark with old sweat and with something that had been spilled on them once and had dried. He was lying on straw, on his side, with his knees drawn up. The straw smelled of itself, and of leather gone old, and under both of those, faint and sour and older than either, of fear: the smell that came off a goat when it had understood what the block was. Somebody had been afraid in here before him, and not for an hour.
+
+His hands were in front of his face. He looked at them for some time before he understood what he was looking at, because he had never seen it. Iron. A band round each wrist, a finger thick, closed with a pin whose end he could not see; between the bands, a hand's width of chain. From the chain a rope went away behind his head. His feet were bare. He moved them, a little, and there was rope there too, between the ankles, with about a stride of slack.
+
+Somebody had taken his boots. Somebody had taken the coat. He did not need to look for the knife.
+
+He turned the iron in the light. It was plain, made by somebody who made a great many of them, and worn bright at the edges where other wrists had been. In the grooves, where the metal folded on itself, there was black. Not rust; not dirt. It had been put there. It lay in the grooves like ink in the cuts of a letter, and where the band was worn the black was worn too, and somebody had put more on over it.
+
+He did not know what it was. So he asked.
+
+The smallest thread he had, the size of the ones he had spent on a candle wick at ten, at a bench, with the yard-master watching: he asked for it, and for the first time in his life nothing answered. Not the wall. He knew the wall; he had stood at the bottom of the smallest capacity on the island for four years with his hand on it, and the wall had a shape, you could feel the size of it. This had no shape. There was no road. He asked again, with one thing changed, down the other arm, and there was no road there either; it was as if there had never been one, as if the thing his mother had put into his hands at nine had been a story she had told him to keep him quiet.
+
+He looked at the black in the iron for a long moment.
+
+Then somebody had known. Whoever had built this box had built it for Resonants, and had painted the iron for it, and had put him in it.
+
+His heart began to go. He let it, since it was going to, and lay still until it had done.
+
+Where was his mother.
+
+---
+
+The others, then.
+
+He got himself over onto the other side, which took a while with the rope, and looked.
+
+Valeria Vel sat against the far wall of the box, opposite him, with her legs out in the straw and her head over on her shoulder, and she was not awake. Her arms were bound; not the iron only, though he could see the edge of a band at one wrist, but cloth over the iron, heavy, wound from the elbows down over the hands and round and round, so that there were no hands, only two grey lumps in her lap with the rope going into them. Along the bone of her jaw, on the good side, a bruise had come up black. Somebody had hit her there, once and hard, and it had been enough; and it had cost them something first, or they would not have wound the cloth so thick.
+
+Beside her, the princess. She was awake.
+
+She sat upright, with her back straight, which she would; her mended hands in the same iron as his; across her mouth a cloth, tied behind, that had been white once. Her hair was down her back with the salt still in it. She was looking at the slot in the door. There was a slot, at the height of a standing man's eyes, a hand wide, with three bars across it and a shutter outside them pushed back a finger's width, and the day came in through the gap in one flat blade and lay across the straw, and she was looking at it as if looking hard enough would do something to it.
+
+She saw him move. She turned her head and looked at him over the cloth, and it lasted about a breath, and he could not read it, and she looked back at the slot.
+
+Then she pulled. Both arms, all at once, everything she had behind it, the chain snapping taut with a sound like a dropped tool; and again; and then she was still, and shaking with it, and the iron had done nothing at all, and her wrists had opened over the oil.
+
+"Don't," Kael said.
+
+He said it low, in the empire's tongue, since that was the one they had between them. She looked at him.
+
+"It answers the same every time. You will only be cut."
+
+She went on looking at him, over the cloth, for a long moment. Then she put her hands down in her lap, and the shaking went out of her, and she sat as she had sat at that table while the bread went round: upright, and waiting, and doing nothing whatever. He could not tell whether she had stopped because he was right or because she had decided to hate him instead, and he had no way in the world to find out.
+
+---
+
+He did what there was to do.
+
+You did not get loose in the box. He had known that for so long that he could not remember being told it; it was in the body with the rest of the school, in the place the counting lived. In the box they had you where they had put you; the door was theirs, and the ground outside it was ground you did not know. You got loose when they took you out, for water, for the ground, for whatever they took you out for, in the one moment when a hand was on you and the hand was thinking about something else.
+
+Until then, you learned the iron.
+
+He learned it. Not by pulling; she had shown him what pulling bought. He turned his wrists inside the bands, slowly, a little at a time, and felt where the iron was tight and where it was not; found that the left band had been made for a wrist thicker than his, which was true of most things made for men; found the pin, and the hole it went through, and that it had been peened over on the far side and would not come out with anything he had. The chain: eleven links. The rope from it went back over his shoulder to a ring bolted low in the wall behind him, and the ring did not move. The rope was rope. Rope had teeth, and a wet knot, and time in it, and he had the last and none of the rest, and put it away for when he had the others.
+
+All of it he did without looking at his hands and without his shoulders moving, so that a man at the slot would have seen a boy lying in straw. That was the other half of it, and the older half: the part the body had learned before he was old enough to know it was learning anything. Nobody had ever said what it was for.
+
+He went through the escapes anyway, in his head, one after another, every one he had, and every one of them began with a hand.
+
+---
+
+The day went along the floor.
+
+The blade of light from the slot lay across the straw and crept, and he watched it, and it told him things. It had been on the right-hand wall when he woke, low; it climbed while he watched, and shortened, and by the time it stood almost under the slot it had gone off the wall and onto the floor. The sun was on the right of them, then, in the morning. North, or near it. The road went on being rough, and the wheels never went faster than a man could walk and often went slower, and the box leaned on long slopes, up, and down, and up for longer, so that the land was rising under them and meant to go on rising. He had looked at this country once, from a mile of sand, over the top of a town: brown, going back, going up. He was in it now, in a box, going up.
+
+His mouth had gone to leather by the middle of the day. He knew that road. He had walked it for a month, and knew every place along it, and knew that one day of it was nothing at all; and his body did not agree with him, and said so, and went on saying so.
+
+There was a corner of the straw wetter than the rest, that had been used for what it was for by whoever had been in the box before them. He used it, on his knees, at the end of the rope, and got himself back where he had been. The princess looked at the slot the whole time. He took that for a kindness, or for that she could not bear to look at him, and chose the first, because he had been raised by people who looked away on purpose.
+
+He did not think about his mother. He had put her where he put things, in the first minute, in the count, and she had stayed there; and it was only in the long middle of the day, when the light was on the floor and there was nothing left in the box to count, that he found he had been thinking about her the whole time and calling it something else.
+
+She had said *stay awake.* Her hand on the child and her eyes on the door: *count*, and *continue*, and he had got to five. He went back over the five. He had been slower on the fourth than on the third; he could hear it; he had known it at the time and had done nothing about it, and there had been no six. Whatever had come into that room had come in after five. He had been told the one thing, once, plainly, by the one person, and had not done it. He lay in the straw and looked at that, and found that he could hold it; that it went where he put it, like the rest, and stayed there. He had thought that it might not.
+
+---
+
+He counted the rest, since it was there.
+
+Hooves: the team, and it was not horses. Mules, off the step, four of them. Behind the box and on both sides of it, more: riders, and he got six, and once seven, and then six. Two voices on the box seat above the door, going in and out with the wind.
+
+They were talking Traders.
+
+He lay in the straw and listened to it come and go and made his face do nothing, out of habit, in a box where nobody could see his face. They talked about the mules. One of them thought the near-side leader was going lame and the other did not, and this took them a mile. They talked about the wells, which were a day off, and about the heat, on which they agreed; and the one who thought the mule was lame said it was a long way to take anybody in this, and the other said it was what they were paid for, and that was the end of that. Neither of them said who, or where, or why. Neither said one word about what was in the box, the way men on a cart do not talk about the load.
+
+Once, from beside the box, a third voice said something to them and they stopped.
+
+It was the empire's tongue, with the coast under it; everybody's had the coast under it. Level, not raised, three words: *Not before the wells.* Then a fourth thing, longer, that the wind took. Kael lay with it. He turned the three words over for the voice and could not place it, through boards and wind, and did not know whether that was the boards, or the wind, or that he had never heard it before.
+
+He put that with the black in the iron, and had two things, and no third to make the two mean anything.
+
+Then he told the princess.
+
+He had not decided to. He turned his head and she was looking at him; she had watched him listen, he understood, she had watched his face do nothing for a mile; and it came out of him, low: "Four mules. Six riding; one of them not a rider. Two on the box. Water tomorrow, not today." And then, since she could not stop him: "Traders, all of them but one. The one gives the orders. We are going north."
+
+She did not move. Her eyes stayed on him over the cloth.
+
+He had never in his life told her anything she had not asked for. She could not answer; it made it easy. He did not look at that.
+
+---
+
+Valeria Vel came awake the way she did everything, which was all at once and then not at all.
+
+Her head came up off her shoulder and her eyes were open and she was looking at the princess, the whole of her, hair to iron, before she had looked at anything else in that box; and the princess made a sound through the cloth that was her name, and Valeria said, "Highness," with her jaw not moving much, and then, "Yes," to something nobody else had heard. Then she looked at her own arms.
+
+She looked at them for a long time.
+
+Then she looked at Kael, and at the slot, and the roof, and the ring behind his head, and the rope, and the straw, and the door, in about the time it took him to breathe in; and he watched her arrive where he had been since the morning, and saw that she got there faster.
+
+"How long," she said.
+
+"Half a day since the light came in. Before that I don't know."
+
+"Where."
+
+"North. A day from water, they say."
+
+"They."
+
+"Two driving, six riding. They talk Traders; one gives orders in the empire's tongue." He looked at her jaw. "You hit somebody."
+
+"Yes." She moved the jaw, and stopped moving it. "There were four in her room. The watch; the white on them; I saw that first. I got one in the throat before I was standing. Then there was something over my face, and I was on the floor, and I could see the passage from the floor. There were lamps at the end of it. The two who stood there in the evening were still standing there. They did not come in and they did not go away." She was looking at the princess while she said it, not at him; it was a report, and it was not his. "They carried her past me. Then one of them hit me, because I was still trying to get up, and I do not know the rest."
+
+"The third room."
+
+"I did not see the third room."
+
+He waited. There was nothing after it.
+
+"I saw nothing of your mother," Valeria said. "Nor the old man, nor the child, nor Corvane and Sedrane. I saw her door, and the floor, and the passage, and the lamps. That is what I saw."
+
+"Yes."
+
+She turned her head then and looked at him directly, with the burned side of her face toward the lantern, shining.
+
+"I slept," she said.
+
+She said nothing else about it. She said it the way she had once told him, at the water, that she did not: as a fact about her body that he was not to make into anything; and he did not make it into anything; and she looked away from him, at the girl beside her, who had a cloth across her mouth and iron on her mended hands and had been carried out past a Vel on a floor; and he saw her take that, and hold it, as work.
+
+"Have you tried it," she said, after a while, to the wall. "The Art."
+
+"There is nothing to try it with."
+
+"No." She looked at the grey cloth where her hands were. "Nor I. I thought it was the cloth."
+
+"It is the iron. There is something on the iron."
+
+She did not ask what. He could not have told her.
+
+"Can you get loose."
+
+"Not here."
+
+"When."
+
+"When they take us out."
+
+She nodded once, as if he had told her the time.
+
+---
+
+Then the light went.
+
+It did not go all at once. The blade on the floor had crossed the straw and climbed the far wall and turned from white to the colour of the governor's bread, and it lay on the grey cloth of Valeria's arms for a while, and then on the boards above her, and then it was thin, and the lantern was most of what there was. The box leaned, and levelled. The wheels slowed.
+
+The wheels stopped.
+
+Nobody in the box moved. Outside, the mules blew, and a man said something short in Traders and another laughed; hooves went past the door, and stopped, and there was the sound of a man getting down off a horse who had been on it all day. Feet, on ground that was not the road: softer. Somebody said the thing about the near-side leader again and was told to see to it.
+
+Then feet at the door.
+
+Kael lay in the straw with his hands where they had been and his shoulders where they had been, and let his face go loose, so that what the door would see was a boy who had been asleep. Across from him Valeria Vel had gone still in the way that was not his. The princess had not moved at all, and had not needed to.
+
+The bar came up off the outside of the door. It was wood, and heavy, and it took the man two tries.
+
+Then the door came open, and the last of the light came in low and red across the straw, and there was a man standing in it: not tall, square through the body in the way of a man who had been strong once and had kept the shape of it, in pale cloth with one band of blue at the edge. Kael had priced him once already, in a square, and did not need to do it again.
+
+He was looking at the princess.
