@@ -260,7 +260,7 @@ He did not know whether one word of it had gone in, and had no way in the world 
 
 He waited until the second fire was down.
 
-The camp got quiet in stages, the way camps do, and he took each stage off the sounds and put it in its place: the eating; the pots; men going down one at a time with the small grunts of men who have been on horses all day; then the long flat stretch with two sets of feet in it and nothing else.
+The camp got quiet in stages, and he took each stage off the sounds and put it in its place: the eating; the pots; men going down one at a time with the small grunts of men who have been on horses all day; then the long flat stretch with two sets of feet in it and nothing else.
 
 The lantern in the box had gone out at some point in the evening and nobody had come to see to it, which was the ninth week for you.
 
@@ -316,7 +316,7 @@ There was a second one, and it was worse than the first. After it his right arm 
 
 "No," he said.
 
-"You will not be able to use it again."
+"You may not be able to use it again."
 
 "I know."
 
