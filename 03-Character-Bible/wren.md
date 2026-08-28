@@ -1,5 +1,5 @@
 ## WREN (the brother)
-**Glance:** Kael's brother; second carrier of the bloodline · **BORN — hours old, on the page, with a strip of linen bound across his eyes** · **a month old; on no page since the night at Qeshet — his brother woke a day east in a box without him, and does not know whether he lives; his eyes explained to his brother as *something in my blood … in him now***
+**Glance:** Kael's brother; second carrier of the bloodline · **BORN — hours old, on the page, with a strip of linen bound across his eyes** · **three months old, to the day, in his brother's count; on no page since the night at Qeshet — and a baby of three months takes milk from somebody; his eyes explained to his brother as *something in my blood … in him now***
 
 ### STATIC
 - **Name:** Wren — the mother teaches languages "for the birds"; her second son is a bird. (Why the name weighs what it weighs: 00.)

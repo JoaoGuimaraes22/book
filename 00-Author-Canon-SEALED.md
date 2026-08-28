@@ -591,3 +591,10 @@ Not yet planted. **Audit every session:** if a row's Part has closed, that is a 
 - **THE ROAD (author, s58):** the box goes EAST for two months (04 §Book Two+). The voice in the Koine on the road has the coast under it — the governor's own men; Kael has the who at the door and none of the why (author, s58: *he knows nothing of why he is being kidnapped, and why only him and the other two*).
 - **Claude's s57 alternatives above are SUPERSEDED** by the author's account; kept as a record only.
 - **Live-file fence, updated s58:** the page has the box, the painted iron, the three, the governor at the door, and east; 02/03/07 carry that and nothing of the how; 04 carries *two months east*. Nothing in the live files says who got out or how.
+
+## THE ROAD EAST — swept at the s59 close (author's own, given in session; on no page)
+- **THE GOVERNOR RAN.** He got away from Neris and Severin and the others (author, s59). He is not conducting a transport; he is fleeing, which is why he stays with the box for two months, does not turn back, and turns in the saddle every afternoon to look at the road behind him. **The page has the behaviour and nothing else** (Ch. 40), plus Kael's wrong why (thieves, and goods too valuable to hand over), uncorrected.
+- **QESHET IS IN CHAOS**, and no page says so; nobody on that road knows it (author, s59: *we don't know that and that's fine*).
+- **SCALE (author, s59):** Resonants of Severin's and especially Neris's order are strategic weapons in this world. Kept here and not in 02.
+- **CH. 40 SPEND, FOR THE RECORD:** the hand out of the painted iron by breaking and skinning it, silently; the Art still gone with one band on; the ninth voice never seen; and nothing after the bar coming off the door.
+

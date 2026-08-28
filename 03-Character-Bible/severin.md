@@ -1,5 +1,5 @@
 ## SEVERIN (the master)
-**Glance:** head of the Temple — THE FIRST MASTER; the family's secret savior and patron · empire past, his own man now · old, the way the split rock is old · **the hull is gone — it opened on Qeshet's strand with nobody ever having said whose it was; he gave a governor's clerk his name and his lost Temple, heard a princess lie for the family, and said nothing; took the far room alone — *Goodnight*; **on no page from Ch. 39: Kael woke a day east in a box without him, and the deferral can no longer be asked**
+**Glance:** head of the Temple — THE FIRST MASTER; the family's secret savior and patron · empire past, his own man now · old, the way the split rock is old · **the hull is gone — it opened on Qeshet's strand with nobody ever having said whose it was; he gave a governor's clerk his name and his lost Temple, heard a princess lie for the family, and said nothing; took the far room alone — *Goodnight*; **on no page from Ch. 39, and still nothing of him two months east: Kael does not know whether he *had got up*, and the deferral can no longer be asked**
 
 ### STATIC
 - **Name:** Severin — on-page mostly "the master"; spend the name sparingly so it carries weight.

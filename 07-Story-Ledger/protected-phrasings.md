@@ -591,3 +591,10 @@ Two classes are admitted that are not "good lines", and both are explicitly mark
   - "It must be that black paint." *(Kael's inference — the author's own wording)*
   - "the way a tongue goes back to a broken tooth" *(her voice, gone back to)*
   - "When they take us out." *(the school's answer, to Valeria)*
+
+- **Ch. 40 — "The Hands"**
+  - "A man who has lost the count can be told anything." *(the one rule, his own)*
+  - "She went thin the slow way instead of the fast one." *(Valeria, spending nothing)*
+  - "more like a slab of meat than a hand" *(the author's own wording)*
+  - "So the holding was the ruin's." *(the knot, and which hand does it)*
+  - "breathing like someone had removed his lungs" *(the author's own wording)*

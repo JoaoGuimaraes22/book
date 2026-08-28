@@ -51,7 +51,8 @@
 - **Inherited unspent, owed in Book Two:** the separation (SPENT — Ch. 38–39: no farewell, and he woke in a box without them; what became of them is on no page) · the Phantom, asked-and-declined · the word in a raider's mouth and the mother's face · Severin's hull and *ask me the rest of it on the other side of that water* · the crown-vs-Kael choice · Halden's fuse · Wren's eyes · Neris's true capacity · **Kael's three wants, one of which is aimed at the wrong enemy.**
 - **The map (author, s55):** the island south of the continent; the empire its west, the coalition its east; Qeshet on the south coast; the road to the capital runs north and then west along the shoulder (`02-World-Bible/geography.md`).
 - Empire vs. coalition; the compass slowly rotates (the "enemies" humanize; the empire's rot surfaces). Long threads: 00.
-- **THE BOX GOES EAST FOR TWO MONTHS (author, s58)** — what follows the wake: the three are carried east in the governor's box for two months. The next chapter's, probably; not yet written.
+- **The two months east — SPENT: Ch. 40 "The Hands"** (sixty-two days of road; the count kept and the day never lost; the governor who does not leave the box; the watch divided; the princess coming apart; the camp on the sixty-second day, and Kael's left hand broken and skinned to get it out of the band). Where the road ends is on no page.
+- **WHAT FOLLOWS: THE DOOR OPENS.** Three children in a camp, one ruined hand, no Art, an empty band and eleven links, nine men and four mules — and a princess who may not have taken in one word of what she was told. Not yet written.
 - TBD.
 
 ## Queued threads (unspent; no fixed beat — place at drafting)
