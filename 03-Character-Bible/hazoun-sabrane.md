@@ -4,7 +4,7 @@
 ### STATIC
 - **Role:** keeps Qeshet for the Emperor — the first face of the empire Kael meets on the continent, and it is a conquered man's face wearing one band of imperial blue. Character Law applies and nothing is built yet beyond what the page shows: limit, wound and awkwardness are open.
 - **Manner:** careful and slow. He does not have strangers brought in to him; he goes out and looks at them where they stand, in the open, with his own people round him and the door at his back. He lets people eat before he asks anything. His stated reason is true — a rider saddled, a letter the capital must have — and the page has not said whether it is the reason.
-- **Forms:** his own knee is the imperial one, head bowed; his household's gesture is a hand flat to the breast and the head going down over it; his captain of the watch gives the household's, not his.
+- **Forms:** his own knee is the imperial one, head bowed, and the whole of the man goes down with it; his captain of the watch gave the same knee on the sand, at the name, with his eyes on the blades; his household's gesture is a hand flat to the breast and the head going down over it.
 - **Appearance:** not tall; fifty, perhaps; brown; square through the body in the way of a man who was strong and kept the shape of it; pale cloth like his people's but finer, with a band of the empire's blue at the edge — the only imperial thing on him. His empire's tongue is better than his captain's and has the same thing under it.
 
 ### DYNAMIC
