@@ -12,6 +12,7 @@ Lean, hard, strong without bulk; the strength sits in the forearms and the hands
 Dark hair, his mother's, worn short and cut by somebody who was not being careful.
 Eyes pale grey, near-white, the lightest value in the face.
 Handsome, with faintly asymmetrical features — one brow set slightly higher, the nose a fraction off centre. He is invisible by status and stillness, not by his face.
+Sun-weathered and wind-chapped from work at altitude, with freckles across the nose under the weather.
 Marks, each from the chapter that gives it: burn speckles from the wrist to the second knuckle (Ch. 13); a blade scar on the left forearm (Ch. 6); a long shallow scar on the outside of the left arm above the elbow (Ch. 23); a burn on the left forearm from wrist to elbow (Ch. 26), lying over the blade scar.
 
 VALERIA VEL
