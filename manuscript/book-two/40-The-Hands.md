@@ -232,7 +232,7 @@ She did not ask what he meant to do with a hand, or whether he could, or what it
 
 "And our ankles?"
 
-"Off before then. And the rope off the ring, and the band held so it looks whole. If any one of the three of them is looking properly, we are finished."
+"Off before then. All of it, in the dark, hours before they come." He gave it to her in the order he would do it. "The rope between my ankles. Then the rope from my chain to the ring in the wall, so that I am not tied to this box. Then the hand out of the band, and the band held back over it afterward, so that from the door it still looks like iron on a wrist." He stopped. "All three of those can be seen from where a man stands in that doorway. If any one of the three of them is looking properly, we are finished."
 
 "They are not looking properly," Valeria said. "They have not looked properly since the fourth week. It is a long road and nothing has happened on it." She moved her jaw. "What do you want from me."
 
