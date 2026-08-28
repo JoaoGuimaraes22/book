@@ -4,7 +4,7 @@ A summary of `02` and `03` for a tool that cannot see them. Facts and fences onl
 
 ## What this file does not carry
 
-**Armament · garment · grime and damage · hair styling · any state a chapter has put on a body.** All of it changes scene to scene, and `02/geography.md` already rules it: **a character reads by WHERE THEY ARE AND WHAT THEY ARE DOING, not by their house.** The prompt authors those from the chapter it is drawing, out of that chapter and `03`'s DYNAMIC and §Body. **What is below is only what is on the person in every picture** — colouring, build, bone, bearing, permanent marks. A FENCE on a changeable channel is still permanent, and those are kept.
+**Armament · garment · grime and damage · hair styling · any state a chapter has put on a body.** All of it changes scene to scene, and `02/geography.md` already rules it: **a character reads by WHERE THEY ARE AND WHAT THEY ARE DOING, not by their house.** The prompt authors those from the chapter it is drawing, out of that chapter and `03`'s DYNAMIC and §Body. **What is below is only what is on the person in every picture** — colouring, build, bone, bearing, permanent marks. **The few FENCES kept are the author's own, tagged where they are ruled**; everything else here is a fact, and what a picture does with it is the picture's.
 
 ## Every image
 
@@ -24,7 +24,7 @@ A summary of `02` and `03` for a tool that cannot see them. Facts and fences onl
 - **Eyes pale grey**, near-white, the lightest value in the face. Free in every image, plates included.
 - Handsome, with faintly asymmetrical features — one brow set slightly higher, the nose a fraction off centre. **He is invisible by status and stillness, not by his face**: *plain* does not render and he is not plain.
 - Marks, drawable only where the chapter has shown them: burn speckles **wrist to second knuckle** (Ch. 13) · blade scar on the **left forearm** (Ch. 6) · long shallow scar on the outside of the **left arm above the elbow** (Ch. 23) · burn on the **left forearm, wrist to elbow** (Ch. 26), lying over the blade scar — **the first mark he did not spend himself.**
-- **Fence:** his full-figure reference wears *plain dark clothing, well-made and well-maintained, chosen to go unnoticed*, and that is wrong. He is not dressed to conceal; he is dressed in whatever his chapter has him in.
+- A warning about his reference, not about him: the full-figure sheet wears *plain dark clothing, well-made and well-maintained, chosen to go unnoticed*, and that disagrees with `03`. He is not dressed to conceal; he is dressed in whatever his chapter has him in.
 
 ## Valeria Vel
 
@@ -51,17 +51,17 @@ A summary of `02` and `03` for a tool that cannot see them. Facts and fences onl
 - Clear skin over good bone, with no weathering worked into it — the station is in the skin, whatever is on top of it.
 - Open, easy, pleasant — unspent strength carried high, a boy never once put on the ground. Never sneering, smug or cruel.
 - **From Ch. 26 the arm is not all right, and he pretends about it.** The page gives *the bad arm* and *the good arm* and **never names a side.**
-- **Fence:** no insignia, badge, house colour or chain, ever. The quality of the cloth is the station; nothing announces the house.
+- His reference was cut with no insignia, badge, house colour or chain on him — the quality of the cloth carrying the station instead. That is what the picture has, not a fact about him: `03` gives him none of it either way.
 
 ## Elarine Sedrane
 
 - Small, neat, finely built; nothing on her that does not work. Narrow shoulders, a small head, a slender neck.
-- **Ink-dark hair**, a flat neutral black with no blue in it, **bound severe, never loose.**
-- **Eyes very dark brown, near black** — a portrait may show them, a plate may not name them.
+- **Ink-dark hair**, a flat neutral black with no blue in it, **bound severe** — `03`'s standing look for her.
+- **Eyes very dark brown, near black.** The colour is unspent on the page; the references carry it.
 - Pale indoor skin, clear and even, no high colour in it.
 - Assessment in progress: attention fully engaged, giving nothing back, no verdict reached. Not cold, haughty, bored or tired — Valeria owns tired.
 - **She carries a sword** (author, s49), in the doctrine grip: right hand full, left hand open for the Art.
-- **Fence: the binding is the silhouette and it does not come loose to make a picture.** She reads *scholar* where Valeria reads *uniform*; a run that let the binding go returned Valeria's silhouette on her.
+- **The binding is her silhouette** — she reads *scholar* where Valeria reads *uniform*, and the one run that let it come loose returned Valeria's silhouette on her (`prompt-system.md` §Damage). What that costs is known; whether a picture spends it is the picture's.
 - One tell, a state and not a feature: spots of colour high on the cheeks (Ch. 13, Ch. 17). Never in the canonical portrait; available to a plate of those moments only.
 
 ## Vask — the father
@@ -88,9 +88,10 @@ A summary of `02` and `03` for a tool that cannot see them. Facts and fences onl
 - **Hair fully grey**, the whole head, a true neutral grey — not quartz white, not warm silver — and even everywhere: no seam, streak or patch.
 - **Eyes dark, near black.**
 - Courteous, unhurried, attentive; the face gives out nothing it has not priced. Not warm, not kindly, not stern.
-- **Fence: what a month at sea or a large working costs him is written on the surface, never as frailty** (s58) — *the skin scoured, and the frame under it sound; the strength still there, nothing taken out of him.*
+- `03` has him **not frail, not kindly-grandfatherly**, and what a month at sea or a large working costs him came back right when it was written on the surface with the frame under it named as sound (s58) — *the skin scoured; the strength still there, nothing taken out of him.*
 
 ## Wren — the brother
 
 - A newborn; his mother's dark hair. From crown to heel about the length of a grown man's forearm.
-- **NEVER DRAW HIS EYES.** A narrow strip of pale linen is bound across them from Ch. 33 on — level, clear of the nose and clear of the mouth, tucked behind the ear, neatly done and not tight — and the prompt says *no eyes are visible on the child anywhere in the picture.* What is under it is `03`'s and stays off every plate.
+- **HIS EYES ARE RED** — the first red eyes in the manuscript, and they resolve to the bloodline rather than to either parent (`03`). What the red *means* is `00`'s and is on no page.
+- **The linen is the page state, not a fence.** His mother bound a narrow strip across his eyes at the birth — level, clear of the nose and the mouth, tucked behind the ear, neatly done and not tight — and nobody has taken it off since. **Ch. 33 gives the reader one of the eyes for a moment when the strip rides up**, and nobody in the room is surprised. So a plate of a chapter where the strip is on draws the strip; a plate of the moment it rode up may draw the eye. THE PLATE FOLLOWS THE PAGE decides which, chapter by chapter, and not this file.
