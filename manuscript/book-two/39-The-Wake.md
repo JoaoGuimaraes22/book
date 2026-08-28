@@ -96,7 +96,7 @@ He lay in the straw and listened to it come and go and made his face do nothing,
 
 Once, from beside the box, a third voice said something to them and they stopped.
 
-It was the Koine, with the coast under it; everybody's had the coast under it. Level, not raised, three words: *Not before the wells.* Then a fourth thing, longer, that the wind took. Kael lay with it. He turned the three words over for the voice and could not place it, through boards and wind, and did not know whether that was the boards, or the wind, or that he had never heard it before.
+It was the Koine, with south coast's accent under it; everybody's had the coast under it. Level, not raised, three words: *Not before the wells.* Then a fourth thing, longer, that the wind took. Kael lay with it. He turned the three words over for the voice and could not place it, through boards and wind, and did not know whether that was the boards, or the wind, or that he had never heard it before.
 
 He put that with the black in the iron, and had two things, and no third to make the two mean anything.
 
@@ -110,13 +110,13 @@ He had never in his life told her anything she had not asked for. She could not 
 
 ---
 
-Valeria Vel came awake the way she did everything, which was all at once and then not at all.
+Valeria Vel came awake.
 
 Her head came up off her shoulder with her eyes open, and she was looking at the princess, the whole of her, hair to iron, before she had looked at anything else in that box. The princess made a sound through the cloth that was her name, and Valeria said, "Highness," with her jaw not moving much, and then, "Yes," to something nobody else had heard. Then she looked at her own arms.
 
 She looked at them for a long time.
 
-Then she looked at Kael, the slot, the roof, the ring behind his head, the rope, the straw, the door, in about the time it took him to breathe in; and he watched her arrive where he had been since the morning, and saw that she got there faster.
+Then she looked at Kael, the slot, the roof, the ring behind his head, the rope, the straw, the door, in about the time it took him to breathe in; and he watched her arrive where he had been since the morning.
 
 "How long," she said.
 
@@ -126,11 +126,11 @@ Then she looked at Kael, the slot, the roof, the ring behind his head, the rope,
 
 "East. A day from water, they say."
 
-"They."
+"They?"
 
-"Two driving, six riding. They talk Ivrit; one gives orders in the Koine." He looked at her jaw. "You hit somebody."
+"Two driving, six riding. They talk Ivrit; one gives orders in imperial, the Koine." He looked at her jaw. "You hit somebody?"
 
-"Yes." She moved the jaw, and stopped moving it. "There were four in her room. The watch; the white on them; I saw that first. I got one in the throat before I was standing. Then there was something over my face, and I was on the floor, and I could see the passage from the floor. There were lamps at the end of it. The two who stood there in the evening were still standing there. They did not come in and they did not go away." She was looking at the princess while she said it, not at him; it was a report, and it was not his. "They carried her past me. Then one of them hit me, because I was still trying to get up, and I do not know the rest."
+"Yes." She moved the jaw, and stopped moving it. "There were four in our room. I felt my body weaker than it was after thirty days on the ship as I saw them enter. I got one in the throat before I fell asleep. Another got me back. I could not tell if it was from the punch, or from whatever it was that made me weak in the first place that made me sleep. Then there was something over my face, and I was on the floor, and from there, my memory goes dark." She was looking at the princess while she said it, not at him; it was a report, and it was not his. "They carried her past me. I do not know the rest."
 
 "The third room."
 
@@ -138,7 +138,7 @@ Then she looked at Kael, the slot, the roof, the ring behind his head, the rope,
 
 He waited. There was nothing after it.
 
-"I saw nothing of your mother," Valeria said. "Nor the old man, nor the child, nor Corvane and Sedrane. I saw her door, and the floor, and the passage, and the lamps. That is what I saw."
+"I saw nothing of your mother," Valeria said. "Nor the old man, nor the child, nor Corvane and Sedrane."
 
 "Yes."
 
@@ -154,17 +154,17 @@ She said nothing else about it. She said it the way she had once told him, at th
 
 "No." She looked at the iron on her wrists. "Nor I. I thought it was the blow."
 
-"It is the iron. There is something on the iron."
+"It is the iron. There is something on it."
 
 She did not ask what. He could not have told her.
 
-"Can you get loose."
+"Can you get loose." Valeria asked.
 
 "Not here."
 
 "When."
 
-"When they take us out."
+"When they take us out. And... it might take a lot to do it."
 
 She nodded once, as if he had told her the time.
 
@@ -172,7 +172,7 @@ She nodded once, as if he had told her the time.
 
 Then the light went.
 
-It did not go all at once. The blade on the floor had crossed the straw, climbed the far wall, and turned from white to the colour of the governor's bread; it lay on Valeria's arms for a while, then on the boards above her, then it was thin, and the lantern was most of what there was. The box leaned, and levelled. The wheels slowed.
+It did not go all at once. The light on the floor had crossed the straw, climbed the far wall, and turned from white to the colour of the governor's bread; it lay on Valeria's arms for a while, then on the boards above her, then it was thin, and the lantern was most of what there was. The box leaned, and levelled. The wheels slowed.
 
 The wheels stopped.
 
@@ -184,6 +184,6 @@ Kael lay in the straw with his hands where they had been and his shoulders where
 
 The bar came up off the outside of the door. It was wood, and heavy, and it took the man two tries.
 
-Then the door came open, and the last of the light came in low and red across the straw, and there was a man standing in it: not tall, square through the body in the way of a man who had been strong once and had kept the shape of it, in pale cloth with one band of blue at the edge. Kael had priced him once already, in a square, and did not need to do it again.
+Then the door came open, and the last of the light came in low and red across the straw, and there was a man standing in it: not tall, square through the body in the way of a man who had been strong once and had kept the shape of it, in pale cloth with one band of blue at the edge. Kael had priced him once already, in a square, and did not need to do it again. Hazoun Sabrane, who kept Qeshet for the Emperor.
 
 He was looking at the princess.
