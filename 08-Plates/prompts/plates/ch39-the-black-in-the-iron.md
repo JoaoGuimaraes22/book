@@ -10,7 +10,7 @@ the corners falling into shadow. A lantern hangs on a short hook
 above and behind him, and a slot in the far wall lets in one thin
 bar of daylight.
 
-Composition: wide frame, wider than it is tall. The camera is down
+Composition: 4:3. The camera is down
 at the level of the straw, close. KAEL lies on his side on the straw
 with his knees drawn up, his head to the right of the frame and his
 two hands held up in front of his face on the left of it, turned a

@@ -10,7 +10,7 @@ low bed with its head against a plaster wall, the ground's own grain
 in the plaster, and a shallow hollow in that wall above and a little
 to the left of the child's head with a small oil lamp burning in it.
 
-Composition: wide frame, wider than it is tall. The camera is above
+Composition: 3:4. The camera is above
 them and tilted a little toward the head of the bed, looking down —
 the linen is seen as a flat plane filling the frame, the three faces
 are seen from above and slightly foreshortened, a strip of the

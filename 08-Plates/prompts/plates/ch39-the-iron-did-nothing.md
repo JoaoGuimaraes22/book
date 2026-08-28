@@ -9,7 +9,7 @@ boards behind her as loose wash suggestion, straw on the floor, the
 corners falling into shadow. A lantern hangs on a short hook near
 the roof.
 
-Composition: tall upright frame, taller than it is wide. AELIANA is
+Composition: 3:4. AELIANA is
 seated against the boards, upright, the camera close and level with
 her. Her two hands are together in front of her at the height of her
 chest, the wrists side by side and near the middle of the frame; her

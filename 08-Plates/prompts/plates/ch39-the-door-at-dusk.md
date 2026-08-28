@@ -9,7 +9,7 @@ its one door standing open at the far end. Old boards, straw on the
 floor, the corners in shadow, a lantern on a short hook near the
 roof. Beyond the open door, low red evening sky over dim ground.
 
-Composition: tall upright frame, taller than it is wide. The camera
+Composition: 3:4. The camera
 is inside the box, down near the straw, looking along its length at
 the open door.
 
