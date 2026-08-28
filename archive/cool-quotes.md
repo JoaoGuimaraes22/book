@@ -5,10 +5,8 @@
 ---
 
 “Death smiles at us all; all we can do is smile back.”
-― Marcus Aurelius
 
 "Its a shame for a man to grew older without seeing the beauty and strength of which his body is capable of " 
-- Socrates
 
 "Do not go gently into that good night. Rage. Rage against the dying of the light"
 
@@ -28,3 +26,5 @@
   Than facing fearful odds, For the ashes of his fathers,  And the temples of his gods?"
 
 "I hear the call i must answer"
+
+"Perfection,  is lots of little things done well "
