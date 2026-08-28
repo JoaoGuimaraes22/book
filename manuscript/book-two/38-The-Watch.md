@@ -8,9 +8,9 @@ He put his hand flat to his breast and went out by a door Kael had not counted, 
 
 ---
 
-The rooms were along a passage off the court: eight doors down the one side and a blank wall down the other, and a woman of the house went ahead of them with a lamp and opened each door as she came to it, and at each door she stopped and looked back, and nobody came.
+The rooms were along a passage off the court: eight doors down the one side, a blank wall down the other. A woman of the house went ahead with a lamp, opening each door as she came to it; at each door she stopped and looked back. Nobody came.
 
-They stood in the court by the basin, with the water running beside them in the dark and eight open doors along the passage with a light in every one, and not one of them moved. Two men of the house stood at the mouth of the passage with lamps, and stood the way the watch had stood on the sand, which was not the way servants stand. Kael priced them and put it away.
+They stood in the court by the basin, the water running beside them in the dark, eight open doors along the passage with a light in every one; not one of them moved. Two men of the house stood at the mouth of the passage with lamps, the way the watch had stood on the sand, which is not the way servants stand. Kael priced them and put it away.
 
 "Well," said Aurelian Corvane.
 
@@ -26,21 +26,21 @@ She said it the way she had said *we must go to the capital* on the boat, and th
 
 "Nobody is to be by himself who does not wish to be. It is a house. It has walls. It will bear it."
 
-Valeria Vel went down the passage and looked into the first room, and came out, and looked into the second, and came out of that one and said, "This one," and the princess went into it, and that was the two of them, and nobody had discussed anything.
+Valeria Vel went down the passage, looked into the first room, came out, looked into the second, came out of that one and said, "This one." The princess went into it. That was the two of them, and nobody had discussed anything.
 
 "I have had a room to myself," said Severin, "for longer than any of you has been alive, and I have never once wanted company in it, and I am not going to begin because a boat was small." He went along the passage to the door at the far end, slowly, with a hand on the wall, and stopped in it. "Goodnight."
 
 The door shut.
 
-Aurelian looked at the doors that were left. Then he looked at Elarine Sedrane, and she looked at one of the doors, and he went and stood in front of the one next to it and did not go in.
+Aurelian looked at the doors that were left. Then he looked at Elarine Sedrane; she looked at one of the doors; he went and stood in front of the one next to it, and did not go in.
 
 "Oh, for—" said Elarine, and went past him into hers, and left the door open behind her.
 
-After a moment he followed her in, and the door shut, and Kael heard her say through it, "The floor. You will have the floor," and Aurelian say, "Naturally," and then nothing.
+After a moment he followed her in. The door shut, and Kael heard her say through it, "The floor. You will have the floor," and Aurelian say, "Naturally," and then nothing.
 
 Kael did not decide anything. He had the child.
 
-His mother had put him into his arms at the table when she stood, so as to get up with both hands, and had not taken him back; and Kael went along the passage with his brother asleep inside his coat and his mother behind him, past the princess's door, where the princess was standing with Valeria at her shoulder, looking at the passage as if it were a thing she was learning.
+His mother had put him into his arms at the table when she stood, so as to get up with both hands, and had not taken him back. Kael went along the passage with his brother asleep inside his coat and his mother behind him, past the princess's door. The princess was standing in it with Valeria at her shoulder, looking at the passage as if it were a thing she was learning.
 
 "Goodnight, Lucan," she said.
 
@@ -76,19 +76,19 @@ He was not. His eyes were under the linen. Kael went out and pulled the door to 
 
 Their room was the third door.
 
-It was small. The floor was stone with a rug on it, and the bed was low and wide and had cords under it that creaked; there was a jug on a stand and a bowl beside it, a shutter high in the wall, the lamp in its hollow, and a door with a wooden latch on a cord and nothing else. No bar. Nothing a bar could have gone into.
+It was small. The floor was stone with a rug on it; the bed was low, wide, with cords under it that creaked. A jug on a stand, a bowl beside it, a shutter high in the wall, the lamp in its hollow, and a door with a wooden latch on a cord and nothing else. No bar. Nothing a bar could have gone into.
 
 He looked at that for a while.
 
-Then he gave the child to his mother and took the sword off his back and laid it along the foot of the door, on the stone, with the grip toward the bed. He took the pair off his belt and put them on the floor at the head of the bed, on the side where his hand would fall. His mother watched him do all of it and said nothing about any of it.
+Then he gave the child to his mother, took the sword off his back and laid it along the foot of the door, on the stone, grip toward the bed. He took the pair off his belt and put them on the floor at the head of the bed, on the side where his hand would fall. His mother watched him do all of it and said nothing about any of it.
 
-She sat on the bed with her back against the wall and fed the child. Kael sat down on the floor with his back against the bed and looked at the door, and the lamp made a small yellow room inside the room, and outside it the house made the sounds a house makes with people in it: a door, water, somebody walking who had somewhere to go.
+She sat on the bed with her back against the wall and fed the child. Kael sat down on the floor with his back against the bed and looked at the door. The lamp made a small yellow room inside the room; outside it the house made the sounds a house makes with people in it: a door, water, somebody walking who had somewhere to go.
 
 "Get in," said his mother, when the child was done.
 
 He got in.
 
-It gave under him. He had slept on boards in a loft for as long as he could remember, and on the boards of a boat for a month, and on the ground before that when the work wanted it; and the bed went down under his weight and came up round him, warm, and smelled of wool and of something dry and sweet that the house put in its linen, and he lay on his back with his arms stiff at his sides and did not know what to do with any of it.
+It gave under him. He had slept on boards in a loft for as long as he could remember, on the boards of a boat for a month, on the ground before that when the work wanted it. The bed went down under his weight and came up round him, warm; it smelled of wool, and of something dry and sweet the house put in its linen. He lay on his back with his arms stiff at his sides and did not know what to do with any of it.
 
 "Lie still," said his mother. "It is not going to do anything."
 
