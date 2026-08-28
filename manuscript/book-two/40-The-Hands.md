@@ -22,7 +22,7 @@ Kael lay in the straw and put together what he had.
 
 They were worth keeping. That much was plain and he did not need to be clever about it: nobody oils the wrists of a thing he means to throw away.
 
-He priced the three of them the way the man in the doorway would have to price them. The girl was worth more than anything else on this road. It was not close. The Vel was worth a great deal to somebody; a Vel is not a thing you come by, and he had watched a clerk's pen stop over those two words. And he was worth something himself. He knew exactly how much, and exactly why. A princess of the empire had sat at a governor's table and told the governor to write him down as a son of House Drusane. The governor had inclined his head and written it.
+He priced the three of them the way the man in the doorway would have to price them. The girl was worth more than anything else on this road. It was not close. The Vel was worth a great deal to somebody; a Vel is not a thing you come by. And he was worth something himself. He knew exactly how much, and exactly why. A princess of the empire had sat at a governor's table and told the governor to write him down as a son of House Drusane. Maybe if she had not, he would not yet be alive.
 
 So they would be fed.
 
@@ -38,7 +38,7 @@ He gave himself one rule that night and it was the only one he ever gave himself
 
 Keeping it turned out to be work, which was a relief. Work he could do.
 
-The days he took off the light in the slot, and the days would have drifted on their own inside a month, so he took a second witness. On the fourth night the moon came into the gap for about the width of two fingers of the sky, and he had it. After that there were two clocks that did not depend on each other, and when they disagreed he had made a mistake somewhere and could go back and find it. He made three mistakes in two months. He found all three.
+The days he took off the light in the slot, and the days would have drifted on their own inside a month, so he took a second witness. On the fourth night the moon came into the gap for about the width of two fingers of the sky, and he had it. After that there were two clocks that did not depend on each other, and when they disagreed he had made a mistake somewhere and could go back and find it.
 
 The direction he took off the sun in the afternoon and the sky at night, when they gave him any of it. They did not travel by night often. When they did, he lay with his face as near the slot as the rope would let him and took what could be had through a hand's width of gap with three bars in it. It was never much. It was enough. The road went east, and it kept going east, and it went up more than it went down.
 
@@ -52,7 +52,7 @@ And he learned the men.
 
 There were nine of them. Six riders and two on the box seat from the first day. The ninth was the governor, and the governor was still there in the second week, and in the third, and in the sixth.
 
-That was the thing Kael could not get to the bottom of, and he came back to it the way you come back to a sum that will not close. A man who keeps a city does not spend two months in the dust behind four mules. He had priced Hazoun Sabrane once, in a square, at a distance of nine feet: careful, slow, a man who came out to look at strangers himself instead of having them fetched in. Nothing about that man belonged on this road. He was here anyway, every day, and Kael watched him get worse.
+That was the thing Kael could not get to the bottom of. A man who keeps a city does not spend two months in the dust behind four mules. He had priced Hazoun Sabrane once, in a square, at a distance of nine feet: careful, slow, a man who came out to look at strangers himself instead of having them fetched in. Nothing about that man belonged on this road. He was here anyway, every day, and Kael watched him get worse.
 
 The first week there was a canopy at the halts and a chair under it. By the fifth week there was neither. He was thinner in the face; his cloth was not clean; he slept badly, which Kael could hear, because a camp at night is a quiet place and a man who gets up twice makes exactly twice as much noise as a man who does not. And he rode at the back. Not once or twice. Every day, at the back, and every day, at some point in the afternoon, he turned in the saddle and looked at the road behind him for as long as the road was straight.
 
@@ -64,7 +64,7 @@ The eight others were easier, and it was the first time in his life that people 
 
 He had four years at the Temple and had come out of it able to fight anybody in his cohort and unable to say why two of them had stopped speaking. He had never once been given what he had now: nine faces, no other work, and eight weeks. It turned out that people, like everything else, gave up what they were if you looked at them for long enough and stopped waiting for them to tell you.
 
-The two on the box were Rashim and Kesir, because they used each other's names about forty times a day. Rashim did the talking. He had a grievance about the near-side leader and brought it out every third morning like a man taking a coin out of a drawer to look at it. By the eleventh day Kael understood that Rashim did not think the mule was lame at all and never had; he wanted the mule changed, had wanted it since Qeshet, and could not say so.
+The two on the box were Rashim and Kesir, because they used each other's names about forty times a day. Rashim did the talking. He had a grievance about the near-side leader and brought it out every third morning.
 
 Kesir was cruel. Kael had that one by the fourth day and was pleased with it, because it came out of nothing: Kesir was the one who put the cups down hard enough to spill them, and who shut the door before the girl had finished drinking, twice.
 
@@ -72,7 +72,7 @@ On the eighteenth day Kael took it back.
 
 It was the shutting that did it. He watched the man do it a third time and saw where his eyes were when he did it, and they were not on the cups. They were on the princess's face, and they went off it fast, and the door came down. Kesir was not cruel. Kesir could not stand to look at her. The fastest way to stop looking at her was to shut the door, and he had been doing it in front of Kael for two and a half weeks while Kael congratulated himself.
 
-He lay in the straw afterward and turned it over for a long time, not the man, but the fact that he had been wrong and had then, without help, found out that he was wrong. He could not remember the last time that had happened. He was not sure it ever had.
+He lay in the straw afterward and turned it over for a long time, not the man, but the fact that he had been wrong and had then, without help, found out that he was wrong. He could not remember the last time that had happened.
 
 He was more careful after that, and it made him better.
 
@@ -96,7 +96,7 @@ There were three of them in the box and each of them had one thing to hold on to
 
 Valeria drilled.
 
-She began it on the sixth day without asking anybody. She sat up, put her back against the boards, said, "Twice a day," in the Koine, and started. Kael understood inside four seconds what he was watching, because it was a school, and he knew a school when one walked past him.
+She began it on the sixth day without asking anybody. She sat up, put her back against the boards, said, "Twice a day," and started. Kael understood inside four seconds what he was watching, because it was a school, and he knew a school when one walked past him.
 
 It was built for exactly this. Nothing in it needed room, or a floor that stayed still, or hands that were free. Press the palms together against the chain, hold while she counted; brace the back, lift both heels a hand off the boards, hold while she counted; the same with the legs, the same with the shoulders against the wall. Everything held; nothing struck. A strike is loud and needs space. Holding needs neither. She counted aloud, low, and it was the same count every time, and she never once explained any of it or said where it came from.
 
