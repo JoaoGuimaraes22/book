@@ -584,3 +584,10 @@ Two classes are admitted that are not "good lines", and both are explicitly mark
   - "Nobody. Say it." *(the oath over the eyes)*
   - "There are no enemies. There are no allies." *(my truth — the author's own wording)*
   - "then just, darkness." *(the chapter's last words — the author's own wording)*
+
+- **Ch. 39 — "The Wake"**
+  - "The count was running before he was." *(the chapter's first line)*
+  - "It answers the same every time. You will only be cut." *(Kael to the princess, on the iron)*
+  - "It must be that black paint." *(Kael's inference — the author's own wording)*
+  - "the way a tongue goes back to a broken tooth" *(her voice, gone back to)*
+  - "When they take us out." *(the school's answer, to Valeria)*

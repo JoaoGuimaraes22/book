@@ -1,5 +1,5 @@
 ## SEVERIN (the master)
-**Glance:** head of the Temple — THE FIRST MASTER; the family's secret savior and patron · empire past, his own man now · old, the way the split rock is old · **the hull is gone — it opened on Qeshet's strand with nobody ever having said whose it was; he gave a governor's clerk his name and his lost Temple, heard a princess lie for the family, and said nothing; took the far room alone — *Goodnight* — and the deferral stands unasked**
+**Glance:** head of the Temple — THE FIRST MASTER; the family's secret savior and patron · empire past, his own man now · old, the way the split rock is old · **the hull is gone — it opened on Qeshet's strand with nobody ever having said whose it was; he gave a governor's clerk his name and his lost Temple, heard a princess lie for the family, and said nothing; took the far room alone — *Goodnight*; **on no page from Ch. 39: Kael woke a day east in a box without him, and the deferral can no longer be asked**
 
 ### STATIC
 - **Name:** Severin — on-page mostly "the master"; spend the name sparingly so it carries weight.
@@ -13,6 +13,7 @@
 - **Appearance:** Old the way the split rock is old; tall, gone lean, a scholar's stoop that once wasn't. Hair fully grey — the second reading never confirmed. **Eyes dark, near black (author ruling, s34).** **SPENT at Ch. 31**, in Valeria's read, as *very dark* — the only dark thing left in that face, giving out precisely nothing; **the exact shade is still unspent** and *near black* has never been on a page. A soldier's frame under a master's robes: wrists too thick for the ink they carry. A face that is courteous, unhurried, and gives out nothing it hasn't priced.
 
 ### DYNAMIC
+- **ON NO PAGE FROM CH. 39.** Not in the box; Valeria saw nothing of *the old man*; Kael does not know whether he *had got up*. *Ask me the rest of it on the other side of that water* can no longer be asked; what he did that night is 00's.
 - **HE TOOK THE FAR ROOM ALONE** — *I have had a room to myself for longer than any of you has been alive* — and the deferral was not asked on that page either; it stands due. Neris fenced him to her son over the eyes — *the old man knows what he knows. You are not to add to it* — which is not a denial, and Kael now believes he knows.
 - **THE HULL IS GONE.** It opened on the sand fifty strides short of Qeshet's strand on the thirtieth day, having sailed them out of range, lost its mast and drifted a month; nobody on any page said whose it was, and now nobody can. *You may ask me the rest of it when we are standing on the other side of that water* **came due on that sand and was not asked.**
 - **He taught the boy the boat for thirty days**, twenty words a day, read the drift off the swell and found it agreeing with the boy's stars, chose the sand over the harbour before she went, and gave the number straight again — a day in it, perhaps two. Ashore he gave the clerk *Severin, First Master of the Temple, which is gone.*
@@ -37,4 +38,4 @@
 
 ### FORWARD
 - **Endgame:** open (00).
-- **Status:** **ABOARD at the end of Book One**, on his own hull, drifting. The extraction and the vanishing are **Book Two's** (author, s49).
+- **Status:** **VANISHED FROM THE PAGE at Ch. 39** — the separation spent; where he is, and what he did in the governor's house, is 00's.

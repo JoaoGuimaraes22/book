@@ -26,10 +26,12 @@ Somebody had taken his boots, his coat. He did not need to look for his blades.
 
 He turned the iron in the light. It was plain, made by somebody who made a great many of them, and worn bright at the edges where other wrists had been. In the grooves, where the metal folded on itself, there was black. Not rust; not dirt. It had been put there. It lay in the grooves like ink in the cuts of a letter, and where the band was worn the black was worn too, and somebody had put more on over it.
 
-He tried to use the Art. 
+He tried to use the Art.
+
 The smallest thread he had, the size of the ones he had spent on a candle at ten, at a bench: he asked for it, and for the first time in his life nothing answered. He asked again, with one thing changed, down the other arm, and there was nothing there either; it was as if there had never been, as if the thing his mother had put into his hands at nine had been a story she had told him to keep him quiet.
 
-He looked at the black in the iron for a long moment. 
+He looked at the black in the iron for a long moment.
+
 Iron alone does not stop the Art. His own Art went into iron better than into anything. It must be that black paint.
 
 Whoever had built this had built it for Resonants, and had painted the iron for it, and had put him in it.
@@ -68,7 +70,7 @@ He continued to do what was there to do.
 
 He proceeded to learn more about what bound him. Not by pulling; she had shown him what pulling bought. He turned his wrists inside the bands, slowly, a little at a time, feeling where the iron was tight and where it was not; found that the left band had been made for a wrist thicker than his, which was true of most things made for men; found the pin, and the hole it went through, and that it had been peened over on the far side and would not come out with anything he had. The chain: eleven links. The rope from it went back over his shoulder to a ring bolted low in the wall behind him, and the ring did not move. The rope was rope. Rope had teeth, or a wet knot, or time in it. He had the last and none of the rest, and put it away for when he had the others.
 
-There must be a way out. He went through hundreds, perhaps thousands, of escapes, in his head, one after another. 
+There must be a way out. He went through hundreds, perhaps thousands, of escapes, in his head, one after another.
 
 ---
 
@@ -96,7 +98,7 @@ He lay in the straw and listened to it come and go and made his face do nothing,
 
 Once, from beside the box, a third voice said something to them and they stopped.
 
-It was the Koine, with south coast's accent under it; everybody's had the coast under it. Level, not raised, three words: *Not before the wells.* Then a fourth thing, longer, that the wind took. Kael lay with it. He turned the three words over for the voice and could not place it, through boards and wind, and did not know whether that was the boards, or the wind, or that he had never heard it before.
+It was the Koine, with the south coast's accent under it; everybody's had the coast under it. Level, not raised, three words: *Not before the wells.* Then a fourth thing, longer, that the wind took. Kael lay with it. He turned the three words over for the voice and could not place it, through boards and wind, and did not know whether that was the boards, or the wind, or that he had never heard it before.
 
 He put that with the black in the iron, and had two things, and no third to make the two mean anything.
 
@@ -158,7 +160,7 @@ She said nothing else about it. She said it the way she had once told him, at th
 
 She did not ask what. He could not have told her.
 
-"Can you get loose." Valeria asked.
+"Can you get loose?" Valeria asked.
 
 "Not here."
 

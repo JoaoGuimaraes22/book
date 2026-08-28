@@ -1,5 +1,5 @@
 ## VALERIA VEL
-**Glance:** rival → first friend · Line of Vel (eleven generations — tiers in `../02-World-Bible/factions.md`) · 13 (Kael's age) · **at Qeshet, on the princess's left; she came out of the sea with both blades drawn, drank first from the watch's skin, gave the governor's clerk two words, said nothing while the princess lied, chose the room, and stood at her shoulder while she said *Goodnight, Lucan***
+**Glance:** rival → first friend · Line of Vel (eleven generations — tiers in `../02-World-Bible/factions.md`) · 13 (Kael's age) · **in the governor's box a day east of Qeshet, in painted iron beside the princess, a bruise black along the jaw; *I slept*; she asked the boy *Can you get loose?***
 
 ### STATIC
 - **Role:** Daughter of the Line of Vel. Kael's rival, then first friend. The rest of her role is in 00.
@@ -13,6 +13,8 @@
 - **Appearance:** Lean, strong, athletic — a working build that reads as function even at rest. Long black hair worn loose well past the shoulders, no ornament (lengthened s33 — the page moved with it, Ch. 14). Emerald green eyes — color spent at reading distance only; worn plain and bored as display (the boredom died against Kael). Her stillness WARNS — nothing like his. Knuckles older than her face; guard-lineage calluses. Rooms rearrange around the name before the girl; reverence draws her one untrained tell, the microscopic flinch — **SPENT at Ch. 27** (the s32 close DE-LISTED it: available, not owed).
 
 ### DYNAMIC
+- **SHE WOKE IN THE BOX AND LOOKED AT THE PRINCESS FIRST**, hair to iron; then her own arms, for a long time. Her report, to the princess and not to him: four in the room, her body weaker than after thirty days on the ship, one in the throat, hit back, something over her face, *from there, my memory goes dark*; *I do not know the rest*; *I saw nothing of your mother … Nor the old man, nor the child, nor Corvane and Sedrane.* **She named no colours and no house.**
+- ***I SLEPT.*** Said the way she once said at the water that she did not (Ch. 20) — a fact about her body, not to be made into anything; then held as work. The Art does not answer in the iron — *I thought it was the blow.* She asked him *Can you get loose?* and took *When they take us out* as if he had told her the time.
 - **She chose the room** — looked into two and said *This one* — and stood at the princess's shoulder in its door, and said nothing when the princess said *Goodnight, Lucan* to the boy in the passage.
 - **At Qeshet, on the princess's left, the only protection left,** and it is her purpose. She gave the governor's clerk two words — *Valeria Vel* — and the pen stopped over them; she stood behind the princess's cushion until the governor asked her to sit; she did not join the lie and did not contradict it.
 - **She was in front of the princess before the count finished**, out of the sea with both blades drawn and no hurry left in her to use; when the watch knelt she let the points come down last of anybody and did not sheathe them. She drank first from the watch's skin before it reached the princess, and the captain saw it and said nothing. She carried the princess out of the sea.
@@ -34,9 +36,9 @@
 - **The flinch is spent**; nobody priced it and neither of them has mentioned it. **The rematch in front of the empire — the one personal want she has ever stated — can never be had as designed**; the semifinal was called and never fought.
 - **Three people call her Val.** She has never used it herself; her first use back is available, not owed. She leaked once that she would miss this: after the games she is sent wherever the Line is needed and not told in advance; her father wrote that she should not become attached and she wrote back that she had not, which was true when she wrote it.
 - **She is cold all the time and has never not been** — a fact about her body, inside an explicit refusal to have it made into the other thing. There is no word in her house for friendship or for love and she does not experience the lack as an injury: *"Then do not stand beside me. Stand in front of me. It is worth more."* Her family's care arrives as correction, by post.
-- Does not sleep.
+- Does not sleep — and slept at Qeshet, and said so: *I slept.*
 - **Knows:** the flash was not wet light; that Kael has the enemy's tongue; what she saw in that yard and on that shelf. **Does not know:** what the flash was; anything of the mountain — she has never once asked, then or ever, and that is hers.
-- **Body:** the burned side of her face healed to a shine, oiled and dressed; the left arm bound properly at last; thin without changing shape; old white lines on the forearms and four newer ones; knuckles older than her face.
+- **Body:** the burned side of her face healed to a shine, oiled and dressed; the left arm bound properly at last; thin without changing shape; old white lines on the forearms and four newer ones; knuckles older than her face; a bruise black along the bone of the jaw, on the good side (Ch. 39); iron on the wrists.
 
 ### FORWARD
 - **Arc:** flawless mask → cracks → the choice in the fire was taken off her at the gate, and on the boat she stopped a body rather than make it → **the crown-vs-Kael choice is still not made, deferred to when it hurts more** → (00).

@@ -1,5 +1,5 @@
 ## AURELIAN CORVANE (the ringleader — pride that breaks)
-**Glance:** the cohort's presumptive best; ringleader → training ally · House Corvane · ~13 · **at Qeshet, inside the princess's lie — he backed a dead friend's name on Kael with nothing but true sentences — and the first fire under the still for a month; in Qeshet he shared a room with Elarine Sedrane, and took the floor**
+**Glance:** the cohort's presumptive best; ringleader → training ally · House Corvane · ~13 · **at Qeshet, inside the princess's lie — he backed a dead friend's name on Kael with nothing but true sentences — and the first fire under the still for a month; in Qeshet he shared a room with Elarine Sedrane, and took the floor; on no page from Ch. 39 — not in the box, and Kael does not know whether he lives**
 
 ### STATIC
 - **Role:** The cohort's best before Kael arrives; capacity-worship made flesh; the face of the science-vs-pride engine. Sealed irony (00): his mockery of Kael's method is the empire failing to recognize its most wanted asset.
@@ -11,6 +11,7 @@
 - **Appearance:** Tall for his cohort, built a year ahead of his age; dark-gold hair; **amber, gold-brown eyes — author ruling s34, unspent on any page**; high carriage; unspent strength Kael prices on sight. Beautiful and knows the exact weight of it — the bench behaves differently in his radius (the page renders the radius, not the adjective). Fire's warmth in the coloring without stating it — it sits in the hair and the eyes together, and is never named as fire.
 
 ### DYNAMIC
+- **ON NO PAGE FROM CH. 39.** Not in the box; Valeria *saw nothing of … Corvane and Sedrane*; what became of him that night is 00's.
 - **He said it, since nobody else would** — *I have wanted a bed with my whole body for a month, and I find that I cannot walk to one* — and ended up in Elarine's room without either of them having arranged it: *The floor. You will have the floor.* / *Naturally.*
 - **He is inside the lie.** *Of the capital … Lucan and I were four years in the same cohort. His father stood on the eastern stretch of that wall beside mine, and I watched them both go up onto it, and neither of them came down* — every word true, said to the governor and not to Kael, gone the colour of the bread, the cup lifted and not drunk from.
 - **He was the first fire under the still** — cross-legged in the bilge with his bad arm across his lap, a palm under a stone jar, two hours a morning for a month, talking the whole time (*the most useful thing my house has done in a generation*); it emptied him for the day and he lay down in the bilge, and it left no mark. The capacity he was raised to worship kept a herder's baby's mother in milk, and nobody said so.

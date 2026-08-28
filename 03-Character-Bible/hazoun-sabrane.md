@@ -1,5 +1,5 @@
 ## HAZOUN SABRANE (the governor of Qeshet)
-**Glance:** governor of Qeshet — a native ruler kept in place, who keeps the city for the Emperor · a southern given name and an imperial house name taken at the conquest (`../02-World-Bible/naming.md`) · fifty, perhaps · **he wrote eight names to the capital the night they landed, and one of them is a lie he inclined his head to; he promised a carriage to the capital in the morning; after his table the boy went under and the mother could not rise, and six of his guests are behind their doors.**
+**Glance:** governor of Qeshet — a native ruler kept in place, who keeps the city for the Emperor · a southern given name and an imperial house name taken at the conquest (`../02-World-Bible/naming.md`) · fifty, perhaps · **he wrote eight names to the capital the night they landed, one of them a lie he inclined his head to; a day east of his city, at dusk, he opened the door of a box with three of his guests in painted iron inside it, and looked at the princess**
 
 ### STATIC
 - **Role:** keeps Qeshet for the Emperor — the first face of the empire Kael meets on the continent, and it is a conquered man's face wearing one band of imperial blue. Character Law applies and nothing is built yet beyond what the page shows: limit, wound and awkwardness are open.
@@ -8,6 +8,7 @@
 - **Appearance:** not tall; fifty, perhaps; brown; square through the body in the way of a man who was strong and kept the shape of it; pale cloth like his people's but finer, with a band of the empire's blue at the edge — the only imperial thing on him. His empire's tongue is better than his captain's and has the same thing under it.
 
 ### DYNAMIC
+- **HE IS THE MAN AT THE BOX'S DOOR (Ch. 39).** A day east of his city, at dusk, in pale cloth with one band of blue, *who kept Qeshet for the Emperor* — with the Emperor's daughter in iron behind the door. Kael priced him once in a square and did not need to again. The page has what he did: three of his guests in a painted-iron box going east, his drivers talking Ivrit, one voice in the Koine with the coast under it; the other five on no page. **Why, and for whom, is 00's**; the page has no word from him yet.
 - **He promised, at the end of the meal, a carriage to the capital tomorrow for all of them**, and went out by a door behind him. Two men of his house stood at the mouth of the guests' passage with lamps, the way the watch had stood on the sand. **Two of his guests are on the page after his table — the boy under, the mother who meant to keep the watch and could not rise — and six are behind shut doors**; the page holds a weight that was not tiredness and nothing named. Neris's word for him: *something off about this place, these people* — and *he did not ask how* is not on that page.
 - **He knew the princess by her hair** — a month of salt and sun had taken everything else off her — said the whole chain, *Aeliana Cassivara Vessantine*, and knelt to the girl where his watch had knelt on the sand to the name.
 - **He asked nothing about how the Temple came to be nowhere at all**, told so by an old man who could barely stand; Kael filed the absence without knowing what he had filed. What he knows of the island is on no page.
@@ -17,4 +18,4 @@
 - **Knows:** eight names and their houses as given at his table; that a Vel is at the princess's left; that the Temple is gone. **Does not know:** anything true about the herder's family, unless he does.
 
 ### FORWARD
-- Whether he is a host, a jailer, a seller or only a careful man — the page has a promise of a carriage and a sleep; what he does with a princess the capital may already count dead; what the south is to him. All open.
+- **A jailer, at least (Ch. 39)** — three of his guests in his box, going east. Whether a seller, to whom, why he ran with three and not eight, what he does with a princess the capital's letter says is alive, and what the south is to him: all open (00).

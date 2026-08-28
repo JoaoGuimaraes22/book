@@ -1,5 +1,5 @@
 ## WREN (the brother)
-**Glance:** Kael's brother; second carrier of the bloodline · **BORN — hours old, on the page, with a strip of linen bound across his eyes** · **a month old, at Qeshet, asleep between his mother and his brother when the sleep that was not tiredness came; his eyes are explained to his brother, by their mother, as *something in my blood … in him now***
+**Glance:** Kael's brother; second carrier of the bloodline · **BORN — hours old, on the page, with a strip of linen bound across his eyes** · **a month old; on no page since the night at Qeshet — his brother woke a day east in a box without him, and does not know whether he lives; his eyes explained to his brother as *something in my blood … in him now***
 
 ### STATIC
 - **Name:** Wren — the mother teaches languages "for the birds"; her second son is a bird. (Why the name weighs what it weighs: 00.)
@@ -7,6 +7,7 @@
 - **Appearance (decided; 00 s20):** his mother's dark hair — and **HIS EYES ARE PERMANENTLY RED.** Born with the bloodline OPEN: massive capacity from birth, uncontrolled. His eyes resolve to the BLOODLINE, not to a parent: Kael's grey belongs to nobody, Wren's red to something older than anybody (the rest is in 00). A newborn carrying the devil-eyes of the folklore CANNOT BE HIDDEN — consequences flagged in 00, none of them designed.
 
 ### DYNAMIC
+- **ON NO PAGE FROM CH. 39.** Not in the box; his brother does not know whether he is alive; what became of him that night is 00's.
 - **HIS BROTHER HAS BEEN TOLD** — by their mother, in a governor's bed: the red is *something in my blood*, old, hers, *it came to him through me. It is in him now*; born with it where hers is hidden by will and control; she knows little of it and will say no more under that roof. The house's healer was refused; nobody has seen his eyes since the mountain. He was asleep between the two of them, fists shut, when the weight came, and where he is next is on no page.
 - **A month old, on the continent, under a clean strip of linen his mother changed herself** with her back to the room, after refusing the house's healer. **The linen is explained on a page for the first time — by Neris, to the governor of Qeshet, as damage from a bad birth, the light hurting them, bound until she says otherwise — and it is going to the capital in writing under the name Drusane.** Nobody has seen his eyes since the mountain. The answer to *a newborn with devil-eyes cannot be hidden* is on the page as an ATTEMPT and now a LIE, not a solution; how long a bound child can be carried through the world is open (00).
 - **Thirty days of thirst:** his crying went thin and high and short; his mother took two cups and then three; he was handed to the old man on the sand while the others readied, and taken back when the watch knelt.
@@ -17,4 +18,4 @@
 - **The delivery was a mortal event** (a birth of the bloodline is violent, and this child was born extremely potent) — it is why Severin had to attend and why the family could not leave the island before the spring. **Kael was told none of that.**
 
 ### FORWARD
-- **Status:** aboard the drifting hull, eyes still bound. **He is not separated from Kael in Book One** (author, s49). What comes after is in 00; a series-long door.
+- **Status:** **separated from Kael at the wake (Ch. 39)** — not in the box; where he is, with whom, and whether he lives are on no page; the truth is 00's. A series-long door.
