@@ -168,7 +168,11 @@ He had no way to find out which. A sum with two ends and no way to choose betwee
 
 It did not stay stopped. It came up out of the floor of him at odd hours, usually at the end of the day. He would find that his heart had been going for some time without his noticing, and he would take the count and put it on something with an answer in it: the mules, the ground, the eleven links in the chain, the number of paces the man on the rope took to reach the ring.
 
-The child he could not do anything with at all. There was no arithmetic anywhere in the child.
+His brother was the one term he could actually solve, and he wished afterward that he had not.
+
+Wren was three months old. He had that to the day, because the count did not stop for anything and he could not make it stop for this. A baby of three months takes milk, and takes it from somebody, and there is no arrangement in the world that gets round that for long. So either Wren was with his mother, or he was with somebody who had found a way to do it, or he was not anywhere at all. Two of those ran through a woman he had already stopped being able to think about, and the third had a floor under it, and he would not put his foot on it.
+
+The last of him he had was a weight inside his coat in a passage, asleep, with his fists shut.
 
 ---
 
