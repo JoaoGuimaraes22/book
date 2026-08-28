@@ -49,4 +49,4 @@
 - The master placed the parents on the island, and brought Kael to the Temple as "the master's charity case."
 - **BOOK TWO OPENS AT CH. 37** in `manuscript/book-two/`: thirty days on the hull, no rain, the still; landfall at Qeshet on the south coast; all eight ashore; the hull gone. The map: the island south of the continent, the empire west, the coalition east (author, s55).
 - The longsword rides on Kael's back on a length of cord; he fights with the mismatched pair (author, s55). **At Ch. 38's end it lies along the foot of the third room's door in the governor's house, the pair at the head of the bed.**
-- **CH. 38 ENDS IN THE DARK:** the same night as the table; eight asleep in the governor's house; the sleep unnamed; the governor's carriages promised for the morning. Nothing after that is on any page.
+- **CH. 38 ENDS IN THE DARK:** the same night as the table; Kael under in the governor's house and his mother unable to rise, the other six behind their doors; the sleep unnamed; the governor's carriage promised for the morning. Nothing after that is on any page.

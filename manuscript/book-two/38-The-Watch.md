@@ -98,13 +98,13 @@ His mother was quiet for a while.
 
 "Indeed they did, but it is not theirs regardless. That language is far older than those men, and will outlive them all as well as us. It originated from the far east of this continent, and it was spoken by all for thousands of years, until the empire spread just a few hundreds of years ago."
 
-Kael turned that over. Just in a few minutes, he had learned more about history from his mother, than he had in all of his life previous to this.
+Kael turned that over. Just in a few minutes, he had learned more about history from his mother than he had in all of his life previous to this.
 
 "We gave you the names a child could hold," she said. "You were four. The Traders language. The downhill one. The birds. That is what they were to you, and it was easier than the truth, and I let it stand longer than I should have." She moved her hand on the child. "Traders is called Ivrit, spoken in the south. The one I sing in is Avestan, from the east. And this one, that you and I are speaking now is the Vessantine Koine, the imperial language, and there are markets east of here where you could shout it at the top of your voice and not one person would turn round."
 
 He said the three names over and over in his head until he could be certain they would never leave it.
 
-Since he was four, his hunger for knowledge consumed him everyday. And unlike most children, it just got bigger and bigger as he grew up.
+Since he was four, his hunger for knowledge consumed him every day. And unlike most children, it just got bigger and bigger as he grew up.
 
 Now, he was finally here. Where there were people whose skin was dark. Where sand was the most of the floor, and where there were no mountains one place, and in the other thousands. And this was just a tiny part of the continent. And an even smaller part of the world. He could only dream of everything beyond.
 
