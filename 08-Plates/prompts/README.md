@@ -17,13 +17,13 @@ Paste `../canon-brief.md` once at the top of the conversation first.
 
 ## Provenance — which of these produced the adopted image
 
-**VERBATIM AS RUN.** `portraits/kael-9` (author-revised) · `kael-4` · `aurelian-14` · `elarine-14` · `neris` · `vask` · `severin` · every scene-test block on `../scene-tests.md` (recovered s47 from the chat that built the scene system; `fight-kael-valeria` is missing its closing paragraph and the adopted image is chest-up with the blade-swap edit applied — see `../scene-tests.md`; `kneel-kael-aeliana` is the bare-parchment version) · `plates/ch01-vask-kael-goat` · `plates/ch01-fallen-stars` · `plates/ch06-carried-past-the-rock`.
+**VERBATIM AS RUN.** `portraits/kael-9` (author-revised) · `kael-4` · `aurelian-14` · `elarine-14` · `neris` · `neris-marked` · `vask` · `severin` · every scene-test block on `../scene-tests.md` (recovered s47 from the chat that built the scene system; `fight-kael-valeria` is missing its closing paragraph and the adopted image is chest-up with the blade-swap edit applied — see `../scene-tests.md`; `kneel-kael-aeliana` is the bare-parchment version) · `plates/ch01-vask-kael-goat` · `plates/ch01-fallen-stars` · `plates/ch06-carried-past-the-rock`.
 
 **ASSEMBLED, NOT AS-RUN.** `portraits/kael-14` · `valeria-14` · `aeliana-15` and all three `full-figures/` — the s33 set; the fixed block was split at s34, so a re-run will not reproduce the adopted image. Every other `plates/` file: the block is what ran, but the header above it is the current system's — from s47 the scene style line rather than the portrait Medium and Colour paragraphs. `git log` has the header each one ran under.
 
 **NO STORED PROMPT.** `kael-17`, `valeria-17`, `aeliana-18` — age progressions run with a changed age line that was never written down.
 
-**NO ADOPTED IMAGE** (computed s58 against `../images/plates/`). `plates/ch01-the-catch` · `ch01-room-of-true-things` · `ch01-telling-the-goat` · `ch01-talking-the-goat-down` · `ch02-done` · `ch05-the-two-pails` · `ch05-the-fact-lands` · `ch08-seeing-about-the-goat` · `ch12-the-hole-through-the-tree` (ran; rejected) · `ch21-dead` (refused, then restated) · `ch22-the-arrival` (ran; rejected) · `ch26-the-good-part` and `ch26-not-kind-to-me` (dropped) · `ch37-the-water-at-the-gate` (built, unrun) · `portraits/kael-9-still` (not run).
+**NO ADOPTED IMAGE** (computed s58 against `../images/plates/`). `plates/ch01-the-catch` · `ch01-room-of-true-things` · `ch01-telling-the-goat` · `ch01-talking-the-goat-down` · `ch02-done` · `ch05-the-two-pails` · `ch05-the-fact-lands` · `ch08-seeing-about-the-goat` · `ch12-the-hole-through-the-tree` (ran; rejected) · `ch21-dead` (refused, then restated) · `ch22-the-arrival` (ran; rejected) · `ch26-the-good-part` and `ch26-not-kind-to-me` (dropped) · `ch38-nobody-say-it` (built, unrun) · `portraits/kael-9-still` (not run). **Recomputed s60**; `ch37-the-water-at-the-gate` came off the list, having been adopted at s58.
 
 **AND TWO ADOPTED IMAGES HAVE NO PROMPT FILE.** `ch05-hand-on-the-rock` — the author ruled no prompt is carried for it (s42) — and `ch22-the-box-from-behind`, a run kept from its neighbour's block.
 

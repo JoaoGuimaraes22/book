@@ -260,6 +260,12 @@ Not run. A second face for the stillness — same boy, only the mouth, lids and 
 
 **The prompt is `prompts/portraits/neris.md`**, which is the source and holds it as run.
 
+### Neris — marked
+
+`images/portraits/neris-marked.png` · Neris · HAIR. The re-cut for the three quartz-white marks, which `neris.png` predates; **a plate uses the reference valid at its chapter**, so this one from Ch. 33 on and `neris.png` before it. Built as `neris.md` plus one inserted paragraph with nothing else moved, so the two read as one casting. **It came back about a decade older than `neris.png` and the author ruled that wanted** (s60: *i like it reading a bit older. she has taken a big toll*) — the AGE paragraph asked for a flat unhollowed cheek and no lines and did not get them, and **the white in the hair is itself a stack of positives pointing at age** (§AGE), which nothing in the block told it was a mark instead. Two findings on the marks, neither a correction owed: they took the sharpest step from light to dark in the picture where the block sent it to the eye, so anything anchored here inherits loud white; and they came back **evenly spaced and equal in width**, where the page has two arriving together and the third later and apart — the block said *separate from each other* and should have said the two sit near each other.
+
+**The prompt is `prompts/portraits/neris-marked.md`**, which is the source and holds it as run.
+
 ### Severin
 
 `images/portraits/severin.png` · Severin · HAIR · half-figure composition. Author-revised: the build moved out of the AGE block into the SUBJECT; the brows told not to match; the light hair defined against the pale ground; the expression moved to the eyes because the beard has the mouth.
