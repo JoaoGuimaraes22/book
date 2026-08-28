@@ -92,25 +92,31 @@ Kael filed it, and made it mean that the man wanted to be told he was going to b
 
 ---
 
-There were three of them in the box and each of them had one thing to hold on to, and none of them had the same thing.
+There were three of them in the box.
 
-Valeria drilled.
+They were all going down. Bread twice a day, water twice a day, not enough of either, and no way to lie in that box for an hour without something in you complaining about it afterward.
 
-She began it on the sixth day without asking anybody. She sat up, put her back against the boards, said, "Twice a day," and started. Kael understood inside four seconds what he was watching, because it was a school, and he knew a school when one walked past him.
+In the second week Kael said, "Sleep."
 
-It was built for exactly this. Nothing in it needed room, or a floor that stayed still, or hands that were free. Press the palms together against the chain, hold while she counted; brace the back, lift both heels a hand off the boards, hold while she counted; the same with the legs, the same with the shoulders against the wall. Everything held; nothing struck. A strike is loud and needs space. Holding needs neither. She counted aloud, low, and it was the same count every time, and she never once explained any of it or said where it came from.
+Valeria looked at him.
 
-"Again," she said.
+"As much as you can get, for as long as they leave us alone. I will take the door and the road and everything that goes past it. You do not need any of that." He said the rest of it flatly, because it was arithmetic and he did not know another way to hand her anything. "When they open this box for the last time, you are going to have to be able to fight. I am going to have to be able to count. Those are not the same thing and they do not cost the same."
 
-Kael did it. He had been taught by two people in his life and had never once stood in a line and done what a third person said. On the first morning he found that he minded it much less than he had expected to. On the fourth, that he had begun waiting for it.
+She did not argue. She did not ask what he meant to do about the nights, or how long he thought he could hold it, or what would happen if he were wrong about any of it. She said, "Very well," and lay down, and slept.
 
-She corrected him twice. She put her foot against his ankle to turn the leg out. "There. You are holding it with the wrong thing." She was right. He changed it, and it was harder, which was the point.
+He filed it, and knew that something had happened, and did not have the size of it.
 
-The princess did it for the first four days.
+So she slept, and went on sleeping: in the middle of the day, at the top of the night, any hour there was nothing to be done in. She ate everything she was given. Two or three times a day she worked her hands until they were her hands again, turned the ankles, put her back to the boards and pressed until it shook, and stopped before it cost more than it bought. Nothing announced. No hour for it. She did it thin and getting thinner, and on the days she had not been given enough to be doing it on.
 
-Then, on the fifth, she did not, and Valeria said, "Highness," and she did it. On the ninth Valeria said, "Highness," twice, and she did it. Somewhere in the third week Valeria stopped saying it. After that there were two of them holding and counting, and one sitting against the boards with her hands in her lap; and Valeria did not once look over at her while it was happening, which Kael noticed and did not understand.
+He never once checked on her. It never once occurred to him to, which was the whole of what he thought about her, and he did not put it in words.
 
-Because the girl was going.
+He took the toll himself, and it was not free. He slept in pieces, in the flat parts of the day when nothing came past, and never when the box was slowing.
+
+She corrected him once, when he had copied her and got it wrong. She put her foot against his ankle to turn the leg out. "There. You are holding it with the wrong thing." She was right. He changed it, and it was harder, which was the point.
+
+The princess did none of it, and at the start there was nothing in that worth looking at.
+
+The girl was going.
 
 He had all the pieces. He laid them out in order, the way he laid out anything, and got nothing.
 
