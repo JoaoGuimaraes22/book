@@ -23,7 +23,7 @@ Paste `../canon-brief.md` once at the top of the conversation first.
 
 **NO STORED PROMPT.** `kael-17`, `valeria-17`, `aeliana-18` — age progressions run with a changed age line that was never written down.
 
-**NO ADOPTED IMAGE** (computed s58 against `../images/plates/`). `plates/ch01-the-catch` · `ch01-room-of-true-things` · `ch01-telling-the-goat` · `ch01-talking-the-goat-down` · `ch02-done` · `ch05-the-two-pails` · `ch05-the-fact-lands` · `ch08-seeing-about-the-goat` · `ch12-the-hole-through-the-tree` (ran; rejected) · `ch21-dead` (refused, then restated) · `ch22-the-arrival` (ran; rejected) · `ch26-the-good-part` and `ch26-not-kind-to-me` (dropped) · `portraits/kael-9-still` (not run). **Recomputed s60**; `ch37-the-water-at-the-gate` came off the list, having been adopted at s58.
+**NO ADOPTED IMAGE** (computed s58 against `../images/plates/`). `plates/ch01-the-catch` · `ch01-room-of-true-things` · `ch01-telling-the-goat` · `ch01-talking-the-goat-down` · `ch02-done` · `ch05-the-two-pails` · `ch05-the-fact-lands` · `ch08-seeing-about-the-goat` · `ch12-the-hole-through-the-tree` (ran; rejected) · `ch21-dead` (refused, then restated) · `ch22-the-arrival` (ran; rejected) · `ch26-the-good-part` and `ch26-not-kind-to-me` (dropped) · `ch39-the-black-in-the-iron` (ran twice; dropped, the run held) · `portraits/kael-9-still` (not run). **Recomputed s60**; `ch37-the-water-at-the-gate` came off the list, having been adopted at s58.
 
 **AND TWO ADOPTED IMAGES HAVE NO PROMPT FILE.** `ch05-hand-on-the-rock` — the author ruled no prompt is carried for it (s42) — and `ch22-the-box-from-behind`, a run kept from its neighbour's block.
 
