@@ -210,27 +210,27 @@ He had them.
 
 "Tonight," he said.
 
-He said it low, in the Koine, at a moment when a man had just gone past outside and there was noise. Valeria's head came round.
+He said it low, at a moment when a man had just gone past outside and there was noise. Valeria's head came round.
 
 "Say it."
 
-"They have made a camp. That is the first time in sixty-two days. There is water within a quarter mile, and cover, and the moon is nothing tonight." He kept his voice flat, because it was the fastest way to be believed. "It will not come again. Every day I get weaker and they do not."
+"They have made a camp. That is the first time in sixty-two days. There is water within a quarter mile, and cover, and the moon is nothing tonight." He kept his voice flat, because it was the fastest way to be believed. "It will not come again. Every day we get weaker and they do not."
 
 "How."
 
 "I can get one hand out."
 
-She looked at him for a moment. "You have had that hand for two months."
+She looked at him for a moment. "You have tried to get that one hand out for two months."
 
-"I have had this ground for one day."
+"Yes. But, we have an opportunity we can't waste. I'll do it."
 
-That went in; he watched it go in. She did not ask what he meant to do with a hand, or whether he could, or what it would cost, because a question about cost is a question about whether the thing is going to happen, and she had already put that one behind her.
+She did not ask what he meant to do with a hand, or whether he could, or what it would cost.
 
 "Then say the rest of it," she said.
 
-"They will open the door in the morning. It is always three: one on the bar, one on the rope, one with the cups. The one on the rope goes to whoever he has been told is the danger, and that is you." She took it without a flicker. "When the door is open it is open. That is the only second of the day the box is not a box."
+"They will open the door in the morning. It is always three: one on the bar, one on the rope, one with the cups. The one on the rope goes to you first always." She took it without a flicker. "When the door is open it stays open. That is the only second of the day this box is not a box."
 
-"And the ankles."
+"And our ankles?"
 
 "Off before then. And the rope off the ring, and the band held so it looks whole. If any one of the three of them is looking properly, we are finished."
 
