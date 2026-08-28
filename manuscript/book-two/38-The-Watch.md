@@ -2,7 +2,7 @@
 
 The governor stood when the bread had gone round the third time, and the table stood with him, and Kael found that he had done it too.
 
-"The house has rooms," the governor said. "One each. There is a bed in every one of them and water in every one of them, and nobody under this roof will wake you before you wake." He looked down the table at the eight of them, the way he had looked at them in the square, one at a time. "Highness. Whatever the night wants, the woman at your door will fetch it. Sleep, tomorrow we will arrange a carriage to the capital for all of you."
+"The house has rooms," the governor said. "One each. There is a bed in every one of them and water in every one of them, and nobody under this roof will wake you before you wake." He looked down the table at the eight of them, the way he had looked at them in the square, one at a time. "Highness. Whatever the night wants, the woman at your door will fetch it. Sleep. Tomorrow we will arrange a carriage to the capital for all of you."
 
 He put his hand flat to his breast and went out by a door behind him.
 
@@ -106,7 +106,7 @@ He said the three names over and over in his head until he could be certain they
 
 Since he was four, his hunger for knowledge consumed him everyday. And unlike most children, it just got bigger and bigger as he grew up.
 
-Now, he was finally here. Where there are people whose skin is dark. Where sand is the most of the floor, and where there are no mountains one place, and in the other thousands. And this was just a tiny part of the continent. And an even smaller part of the world. He could only dream of everything beyond.
+Now, he was finally here. Where there were people whose skin was dark. Where sand was the most of the floor, and where there were no mountains one place, and in the other thousands. And this was just a tiny part of the continent. And an even smaller part of the world. He could only dream of everything beyond.
 
 Yet, the questions remained.
 
@@ -126,13 +126,13 @@ The lamp moved. Something in the house shut.
 
 "I see. Yes, I agree. Perhaps it's time. Ask your questions, as many as you want, and I'll answer them as well as I can."
 
-Kael's eyes widened. It just seemed so easy? Too easy. He could not find the words for it. His mother, finally, after all these years and doubts, will answer him, about anything, all of it. At first, he couldn't even choose. What should be the first question to ask, right now? He chose.
+Kael's eyes widened. It just seemed so easy? Too easy. He could not find the words for it. His mother, finally, after all these years and doubts, would answer him, about anything, all of it. At first, he couldn't even choose. What should be the first question to ask, right now? He chose.
 
 "Oss told me a story," he began.
 
 She waited.
 
-"On the sea-wall, in the first year. He was great at telling them. There was one about the hair, and then the one about an old thing. But one, was about red eyes. The red eyes. The eyes of the devil, the fishermen say." He was saying it the way Oss had said it, and heard himself doing it, and went on. "A thing that isn't a Resonant, and when it appears, its eyes go red, and everyone who sees them dies. No one left. Every telling has that in it."
+"On the sea-wall, in the first year. He was great at telling them. There was one about the hair, and then the old ones. But one was about red eyes. The red eyes. The eyes of the devil, the fishermen say." He was saying it the way Oss had said it, and heard himself doing it, and went on. "A thing that isn't a Resonant, and when it appears, its eyes go red, and everyone who sees them dies. No one left. Every telling has that in it."
 
 He stopped. His face turned towards his brother.
 
@@ -142,7 +142,7 @@ He stopped. His face turned towards his brother.
 
 "Is that story, about people like him? Is it true?"
 
-"It is a story," said his mother. "Fishermen have it. So do the people on the far side of the archipelago, and so do the people in this house, in their own words, and a story that everybody has is a story that changes and conforms to what people want to hear rather than the truth." She was speaking sternly and cold. "These red eyes, are something in my blood. Even I know little about them. All I know is it is something old, and it is mine, and it came to him through me. It is in him now. That is the whole of what I am going to say about it under this roof."
+"It is a story," said his mother. "Fishermen have it. So do the people on the far side of the archipelago, and so do the people in this house, in their own words, and a story that everybody has is a story that changes and conforms to what people want to hear rather than the truth." She was speaking stern and cold. "These red eyes, are something in my blood. Even I know little about them. All I know is it is something old, and it is mine, and it came to him through me. It is in him now. That is the whole of what I am going to say about it under this roof."
 
 He waited, and the obvious question followed.
 
@@ -164,7 +164,7 @@ She took a long breath.
 
 "If I may, I want to know—"
 
-"It's enough, for the day. I will tell you where when we are not under a roof that writes letters."
+"It's enough, for the day. I will tell you the rest when we are not under a roof that writes letters."
 
 He heard that. He heard the whole of it: not *I will not tell you*, and not *ask me in a year*; a place and a reason, and the reason was the house they were lying in. He turned his head and looked at her, and she was looking at the door.
 
