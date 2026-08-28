@@ -322,13 +322,13 @@ She did not say anything else. He heard her change her position once and then be
 
 He folded what was left of the hand into itself.
 
-It was not shaped like a hand any more; it was more like a slab of meat than hand. He got the fingers over the flat thumb and squeezed the whole ruin of it into the smallest thing it would go into. It went smaller than a hand should go, because there was nothing holding the outside of it out any more. He set his right hand against the band and pulled.
+It was not shaped like a hand any more; it was more like a slab of meat than a hand. He got the fingers over the flat thumb and squeezed the whole ruin of it into the smallest thing it would go into. It went smaller than a hand should go, because there was nothing holding the outside of it out any more. He set his right hand against the band and pulled.
 
-The bones moved under the iron the whole way, riding on each other. And unfortunately, it was still, barely, not enough. 
+The bones moved under the iron the whole way, riding on each other. And unfortunately, it was still, barely, not enough.
 
-Tears came instinctively of his eyes. His breathing was hard and uneven. He knew, the only solution from here, was to pull harder. And unfortunately, he did.
+Tears came instinctively out of his eyes. His breathing was hard and uneven. He knew, the only solution from here, was to pull harder. And unfortunately, he did.
 
-The skin came of his hand as he pulled his hardest. Not a strip this time: the whole of the back of the hand, from the knuckles to the wrist, turned back off him in one piece the way a glove comes off inside out, and caught at the wrist, and stayed there.
+The skin came off his hand as he pulled his hardest. Not a strip this time: the whole of the back of the hand, from the knuckles to the wrist, turned back off him in one piece the way a glove comes off inside out, and caught at the wrist, and stayed there.
 
 What came out of the band into the cold of the box was wet and red all over and did not look like anything.
 
