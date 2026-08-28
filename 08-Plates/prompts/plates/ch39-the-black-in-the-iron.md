@@ -10,15 +10,15 @@ the corners falling into shadow. A lantern hangs on a short hook
 above and behind him, and a slot in the far wall lets in one thin
 bar of daylight.
 
-Composition: 4:3. The camera is down
-at the level of the straw, close. KAEL lies on his side on the straw
-with his knees drawn up, his head to the right of the frame and his
-two hands held up in front of his face on the left of it, turned a
-little in the light. Both hands and the metal between them are wider
-in the frame than his whole head.
+Composition: 4:3. The camera is down at the level of the straw,
+close. KAEL lies on his side on the straw, his head to the right of
+the frame and his two hands held up in front of his face on the left
+of it, turned a little in the light. Both hands and the metal
+between them are wider in the frame than his whole head.
 
-The bottom edge crosses the straw just below his hands, so that
-nothing of him below the shoulder is in the frame.
+The bottom edge crosses the straw just below his hands. Inside the
+frame there are his two hands, the iron on them, his face and the
+straw, and nothing else.
 
 WHAT IS IN EACH HAND: both hands are his, both are open and empty,
 and there is nothing else in either of them.
@@ -37,13 +37,11 @@ with soft wash-bled edges and no hard edged dark anywhere in them,
 and the sharpest step from light to dark in the whole picture
 happens at the edge of the black in the grooves of the iron.
 
-KAEL — Age: eyes set at the vertical midpoint of the head, jaw
-softly defined but not sharp, some remaining fullness in the cheeks.
-Adolescent, not grown. His eyes are on the iron and on nothing else,
-his mouth closed and his brows a little drawn: the look of somebody
-reading something. Eyes pale grey, near white. A month at sea is on
-his face and it is all on the surface: the lower lip split and
-healing, the skin scoured by sun and salt, and the face under it
+KAEL — his eyes are on the iron and on nothing else, his mouth
+closed and his brows a little drawn: the look of somebody reading
+something, and working at it. Eyes pale grey, near white. A month at
+sea is on his face and it is all on the surface: the lower lip split
+and healing, the skin scoured by sun and salt, and the face under it
 sound. Dark hair, short, cut unevenly, with straw in it. He wears a
 plain undyed light fawn tunic, much mended, no ornament and no metal
 on him anywhere but the two bands.

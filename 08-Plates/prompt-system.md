@@ -423,7 +423,7 @@ Short limbs, a round torso, no waist, no length in him anywhere.
 The goat's shoulder is at about the child's chest.
 ```
 
-The two terms must sit where the frame can compare them. In a face-filling crop under the fourteen-year-old anchor no ratio has yet pulled an age down: the anchor is the lever, and the eye-line rung is cheap and may stay.
+The two terms must sit where the frame can compare them. In a face-filling crop under the fourteen-year-old anchor no ratio has yet pulled an age down: the anchor is the lever, and the eye-line rung is cheap and may stay. **IT IS NOT CHEAP IN EVERY BLOCK** (s60, `prompts/plate-candidates/ch39.md`): carried into a picture whose subject was iron on a boy's wrists, the rung put four minor-markers — *Age* · *jaw softly defined but not sharp* · *some remaining fullness in the cheeks* · *Adolescent, not grown* — in one paragraph beside a restraint, and it was refused before any image was made. The reference carries apparent age (§Scenes and plates); the rung's job is to correct drift, so it earns its place where age has drifted and not by default.
 
 **Nouns.** A concrete noun arrives with its default, and the default beats every adjective hung on it — *dagger* returned a longsword, *coat* a frock coat, *candle* a wick flame, *standing stone* a menhir. When you want something other than the default, describe the construction — what it is made of, how it closes, how long it falls — with the defining feature first and measured, then kill the default by name. Banning a noun's features leaves nothing: describe what is there. The test: could a costumier from three centuries all draw it from the words?
 
