@@ -28,7 +28,7 @@
 - **The Sanctum** — sealed, bible-only (00); on no page.
 
 ### Blocked — collisions; not available
-- **Outside collisions:** "Rhaenya" (Rhaenyra) · "Aelin" (Throne of Glass) · "Dain" (Tolkien) · "magicule" (Slime) · "channeling" (Wheel of Time).
+- **Outside collisions are not blocked (author, s57)** — the former list (*Rhaenya · Aelin · Dain · magicule · channeling*) is struck; *channeling* stays retired as page vocabulary below, on its own account.
 - **Internal collisions:** "Helvane" (-vane, against Corvane) · "Ostade" (Os-, against Oss/Ostrian).
 - **Retired from page vocabulary:** "wright" (superseded) · "mage" · "working" (ordinary labour only). Full magic register in `../02-World-Bible/lexicon.md`.
 
