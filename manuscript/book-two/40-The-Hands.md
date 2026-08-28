@@ -96,11 +96,11 @@ There were three of them in the box.
 
 They were all going down. Bread twice a day, water twice a day, not enough of either, and no way to lie in that box for an hour without something in you complaining about it afterward.
 
-In the second week Kael said, "Sleep."
+In the second week Kael said, "Valeria. You should sleep."
 
 Valeria looked at him.
 
-"As much as you can get, for as long as they leave us alone. I will take the door and the road and everything that goes past it. You do not need any of that." He said the rest of it flatly, because it was arithmetic and he did not know another way to hand her anything. "When they open this box for the last time, you are going to have to be able to fight. Until then, I am going to have to be able to count. Those are not the same thing and they do not cost the same."
+"As much as you can get, for as long as they leave us alone. I will take the door and the road and everything that goes past it. You do not need any of that." He said the rest of it flatly, because it was arithmetic and he did not know another way to hand her anything. "When they open this box for the last time, you are going to have to be able to fight. Until then, I'll keep track all of it. If I'm ever caught lacking, I'll rely on you, but I'll need your full strength when the time comes to go."
 
 She did not argue. She did not ask what he meant to do about the nights, or how long he thought he could hold it, or what would happen if he were wrong about any of it. She said, "Very well," and lay down, and slept.
 
@@ -126,11 +126,12 @@ Valeria said, "Highness. Drink it."
 
 She did not.
 
-Valeria said, "Aeliana. Drink it," which she had never done and did not do again. The girl looked at her, took the cup, and drank all of it. After that it was every day, and it was Valeria's, twice a day. It did not get easier. It never once failed.
+Valeria said, "Highness, please. Aeliana. Drink it," which she had never done and did not do again. The girl looked at her, took the cup, and drank all of it. After that it was every day, and it was Valeria's, twice a day. It did not get easier.
 
 The third thing was the talking, and it was the worst.
 
-She had four or five breaths of mouth a day while the cloth was off, and Kael expected, at the start, that she would use them the way she had used every mouthful of speech he had ever heard her use, which was to arrange the world. She did not. In the second week she said, "There is a floor in my father's house that is made of nine kinds of stone." Nobody answered her. The cloth went back on.
+Even after a month Kael was confused on why she was the only one kept unable to speak. She had four or five breaths of mouth a day while the cloth was off, and Kael expected, at the start, that she would use them the way she had used every mouthful of speech he had ever heard her use, which was to arrange the world.
+She did not. In the second week she said, "My father will surely pardon you and reward you with anything you wish, if you free me. Please. Anyone." Nobody answered her. The cloth went back on.
 
 In the fourth week she said it again. The same sentence, the same words, in the same order. He knew because he was a person who did not lose things. He lay in the straw afterward with it: a girl had said a sentence twice with sixteen days between, and there was nothing whatever to be done with that.
 
@@ -140,7 +141,7 @@ It came out through the cloth, small, and it went on slightly too long, and ther
 
 He filed all of it. He filed it as the heat, and then as the wrists, and then, later and more carefully, as an illness he did not have the training to name.
 
-He never got to the truth of it. It was three feet away from him for two months and it never once occurred to him, and the reason was not that he could not see it. The reason was that he had told her, on a boat, in front of everybody, that she was not worth it, and had never taken it back.
+He never got to the truth of it. It was three feet away from him for two months and it never once occurred to him, and the reason was not that he could not see it.
 
 He had one thing of his own, and it was the count, and he turned it on himself because there was nothing else left to turn it on.
 
@@ -150,7 +151,7 @@ Every number went down.
 
 They went down slowly, which was worse than fast, because slow meant it was going to go on. In the third week the thumb and the finger met. In the sixth they went past each other.
 
-In the seventh week one of the numbers got better, and he had it for about two heartbeats before he understood why. The band went further up his hand than it had in the first week, and it stopped in exactly the same place, because what was stopping it was not the part of him that was going away. He lay with that for the rest of the morning and then put it where he put things and did not take it out again.
+In the seventh week one of the numbers got better, and he had it for about two heartbeats before he understood why. The band went further up his hand than it had in the first week, and it stopped in exactly the same place, because what was stopping it was not the part of him that was going away. He lay with that for the rest of the morning.
 
 ---
 
