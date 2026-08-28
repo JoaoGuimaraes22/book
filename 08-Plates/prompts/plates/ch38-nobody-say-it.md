@@ -10,22 +10,22 @@ low bed with its head against a plaster wall, the ground's own grain
 in the plaster, and a shallow hollow in that wall above and a little
 to the left of the child's head with a small oil lamp burning in it.
 
-Composition: wide frame, wider than it is tall. The camera is above
-the bed and tilted a little toward its head, looking down — the
+Composition: wide frame, wider than it is tall. The camera looks
+down on them from above and a little beyond their heads — the
 bedding is seen as a flat plane filling the frame, the three faces
 are seen from above and slightly foreshortened, a strip of the
 plaster wall and the lit hollow run across the top edge, and no
 floor, no ceiling and no other furniture is in view.
 
-Three people lie on their backs on the linen, side by side across
-the frame, all three at the same distance from the camera: KAEL on
+Three people are lying side by side across the frame, their heads on
+the linen, all three at the same distance from the camera: KAEL on
 the left with his head turned to the right, the CHILD in the middle,
 NERIS on the right with her head turned to the left. The three heads
 sit in the upper half of the frame.
 
 The bottom edge of the picture crosses the bed just below the hand
-Neris has laid on the child, so that no other arms, no bodies below
-that line and no legs are in the frame at all.
+Neris has laid on the child. Inside the frame there are the three
+heads, her one hand, and the child's two fists, and nothing else.
 
 WHAT IS IN EACH HAND:
 Neris's near hand is laid flat and open on the child and holds
@@ -35,16 +35,16 @@ holding nothing.
 Three hands in the picture, all of them empty, and no other hand,
 arm or object appears anywhere in the frame.
 
-KAEL — thirteen. Age: eyes set at the vertical midpoint of the head,
+KAEL — Age: eyes set at the vertical midpoint of the head,
 jaw softly defined but not sharp, some remaining fullness in the
 cheeks. Adolescent, not grown. His mouth is just open on a single
 word and his brows are a little drawn. Eyes pale grey, near white —
 the lightest thing in either face. A month at sea is on his face and
 it is all on the surface: the lower lip split and healing, the skin
 scoured by sun and salt, and the face under it sound. Dark hair,
-short, cut unevenly. He wears a plain undyed light fawn tunic, worn
-thin, the collar open at the throat, no ornament and no metal on him
-anywhere.
+short, cut unevenly. He wears a plain undyed light fawn tunic, much
+mended, the collar closed at the throat, no ornament and no metal on
+him anywhere.
 
 THE CHILD — a newborn, asleep. His mother's dark hair. A narrow
 strip of pale linen bound level across his eyes, clear of the nose
