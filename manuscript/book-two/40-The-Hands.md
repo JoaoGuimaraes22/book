@@ -100,7 +100,7 @@ In the second week Kael said, "Sleep."
 
 Valeria looked at him.
 
-"As much as you can get, for as long as they leave us alone. I will take the door and the road and everything that goes past it. You do not need any of that." He said the rest of it flatly, because it was arithmetic and he did not know another way to hand her anything. "When they open this box for the last time, you are going to have to be able to fight. I am going to have to be able to count. Those are not the same thing and they do not cost the same."
+"As much as you can get, for as long as they leave us alone. I will take the door and the road and everything that goes past it. You do not need any of that." He said the rest of it flatly, because it was arithmetic and he did not know another way to hand her anything. "When they open this box for the last time, you are going to have to be able to fight. Until then, I am going to have to be able to count. Those are not the same thing and they do not cost the same."
 
 She did not argue. She did not ask what he meant to do about the nights, or how long he thought he could hold it, or what would happen if he were wrong about any of it. She said, "Very well," and lay down, and slept.
 
@@ -112,13 +112,9 @@ He never once checked on her. It never once occurred to him to, which was the wh
 
 He took the toll himself, and it was not free. He slept in pieces, in the flat parts of the day when nothing came past, and never when the box was slowing.
 
-She corrected him once, when he had copied her and got it wrong. She put her foot against his ankle to turn the leg out. "There. You are holding it with the wrong thing." She was right. He changed it, and it was harder, which was the point.
-
 The princess did none of it, and at the start there was nothing in that worth looking at.
 
-The girl was going.
-
-He had all the pieces. He laid them out in order, the way he laid out anything, and got nothing.
+The girl was slowly losing herself.
 
 The first thing was her back. On the first day in this box she had sat upright with her back straight and her chin level, the way she had sat at the governor's table while the bread went round, and it had been the single most impressive thing Kael had ever watched anybody do, though he had not put it in those words at the time. Some time in the fourth week the back went. She sat down into herself against the boards and stayed there, and it did not come back.
 
@@ -144,11 +140,11 @@ It came out through the cloth, small, and it went on slightly too long, and ther
 
 He filed all of it. He filed it as the heat, and then as the wrists, and then, later and more carefully, as an illness he did not have the training to name.
 
-He never got to the true one. It was three feet away from him for two months and it never once occurred to him, and the reason was not that he could not see it. The reason was that he had told her, on a boat, in front of everybody, that she was not worth it, and had never taken it back.
+He never got to the truth of it. It was three feet away from him for two months and it never once occurred to him, and the reason was not that he could not see it. The reason was that he had told her, on a boat, in front of everybody, that she was not worth it, and had never taken it back.
 
 He had one thing of his own, and it was the count, and he turned it on himself because there was nothing else left to turn it on.
 
-He measured. He had been measuring bodies since he was old enough to be told what to look at, and the body was to hand. His grip against the bracket of the ring, five slow pulls, the same five every morning. His forearm against the span of his own hand. How long he could hold his heels off the boards before the shake came into it, which was Valeria's count and therefore honest.
+He measured. He had been measuring bodies since he was old enough to be told what to look at. His grip against the bracket of the ring, five slow pulls, the same five every morning. His forearm against the span of his own hand. How long he could hold his heels off the boards before the shake came into it, which was Valeria's count and therefore honest.
 
 Every number went down.
 
