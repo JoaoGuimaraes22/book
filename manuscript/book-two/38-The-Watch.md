@@ -78,7 +78,7 @@ For a while nobody said anything, and it was the best the room had been.
 
 "I know. I watched you understand."
 
-"The old woman. What she said to you first, before the empire's. And the captain, under his; that was the same tongue under it. And the household, to each other." He was looking at the ceiling, where the lamp had put a shape. "It was this language you called "Traders" when you taught to me."
+"The old woman. What she said to you first, before the empire's. And the captain, under his; that was the same tongue under it. And the household, to each other." He was looking at the ceiling, where the lamp had put a shape. "It was the language you called *Traders* when you taught it to me."
 
 "Yes."
 
@@ -102,10 +102,11 @@ Kael turned that over. Just in a few minutes, he had learned more about history 
 
 "We gave you the names a child could hold," she said. "You were four. The Traders language. The downhill one. The birds. That is what they were to you, and it was easier than the truth, and I let it stand longer than I should have." She moved her hand on the child. "Traders is called Ivrit, spoken in the south. The one I sing in is Avestan, from the east. And this one, that you and I are speaking now is the Vessantine Koine, the imperial language, and there are markets east of here where you could shout it at the top of your voice and not one person would turn round."
 
-He said the three names over and over in his head until he could be certain they would never leave it. 
-Since he was four, his hunger for knowledge consumed him everyday. And unlike most children, it just got bigger and bigger as he grew up. 
+He said the three names over and over in his head until he could be certain they would never leave it.
 
-Now, he was finally here. Where there are people whose skin is dark. Where sand is the most of the floor, and where there are no mountains one place, and in the other thousands. And this was just a tiny part of the continent. And an even smaller part of the world. He could only dream of everything beyond. 
+Since he was four, his hunger for knowledge consumed him everyday. And unlike most children, it just got bigger and bigger as he grew up.
+
+Now, he was finally here. Where there are people whose skin is dark. Where sand is the most of the floor, and where there are no mountains one place, and in the other thousands. And this was just a tiny part of the continent. And an even smaller part of the world. He could only dream of everything beyond.
 
 Yet, the questions remained.
 
@@ -125,15 +126,15 @@ The lamp moved. Something in the house shut.
 
 "I see. Yes, I agree. Perhaps it's time. Ask your questions, as many as you want, and I'll answer them as well as I can."
 
-Kael eyes widened. It just seemed so easy? Too easy. He could not find the words for it. His mother, finally, after all these years and doubts, will answer him, about anything, all of it. At first, he couldn't even choose. What should be the first question to ask, right now? He choose.
+Kael's eyes widened. It just seemed so easy? Too easy. He could not find the words for it. His mother, finally, after all these years and doubts, will answer him, about anything, all of it. At first, he couldn't even choose. What should be the first question to ask, right now? He chose.
 
 "Oss told me a story," he began.
 
 She waited.
 
-"On the sea-wall, in the first year. He great at telling them. There was one about the hair, and then the one about an old thing. But one, was about red eyes. The red eyes. The eyes of the devil, the fishermen say." He was saying it the way Oss had said it, and heard himself doing it, and went on. "A thing that isn't a Resonant, and when it appears, its eyes go red, and everyone who sees them dies. No one left. Every telling has that in it." 
+"On the sea-wall, in the first year. He was great at telling them. There was one about the hair, and then the one about an old thing. But one, was about red eyes. The red eyes. The eyes of the devil, the fishermen say." He was saying it the way Oss had said it, and heard himself doing it, and went on. "A thing that isn't a Resonant, and when it appears, its eyes go red, and everyone who sees them dies. No one left. Every telling has that in it."
 
-He stopped. His face turned towards his brother. 
+He stopped. His face turned towards his brother.
 
 "I saw one of his eyes. When the cloth came up. In the house."
 
@@ -141,17 +142,17 @@ He stopped. His face turned towards his brother.
 
 "Is that story, about people like him? Is it true?"
 
-"It is a story," said his mother. "Fishermen have it. So do the people on the far side of the archipelago, and so do the people in this house, in their own words, and a story that everybody has is a story that changes and conforms to what people want to hear rather than the truth." She was speaking sternly and cold. "These red eyes, are something in my blood. Even I know little about them. All I do is it is something old, and it is mine, and it came to him through me. It is in him now. That is the whole of what I am going to say about it under this roof."
+"It is a story," said his mother. "Fishermen have it. So do the people on the far side of the archipelago, and so do the people in this house, in their own words, and a story that everybody has is a story that changes and conforms to what people want to hear rather than the truth." She was speaking sternly and cold. "These red eyes, are something in my blood. Even I know little about them. All I know is it is something old, and it is mine, and it came to him through me. It is in him now. That is the whole of what I am going to say about it under this roof."
 
 He waited, and the obvious question followed.
 
 "What about me? Is it my blood too? Is it—"
 
-"I'm not sure Kael. I had hoped before you were born, that it wasn't in you.  I even prayed to the gods of the East for your eyes to simply be eyes. And when you came off of me, they were. At the very least, I know my blood is not as strong in you as it is in Wren. And I could not be more glad for it. 
+"I'm not sure, Kael. I had hoped before you were born, that it wasn't in you. I even prayed to the gods of the East for your eyes to simply be eyes. And when you came off of me, they were. At the very least, I know my blood is not as strong in you as it is in Wren. And I could not be more glad for it."
 
-She took a long breath
+She took a long breath.
 
-"I'll tell you, for it makes no sense to hide any longer, not from you. My eyes are just like his. But I learned over a long time, that there were ways with great and will control, to hide them. That is the whole of it, Kael. And you will keep it. From the girl, and from the princess, and from the two in the next room, who are good children and have houses. From the old man."
+"I'll tell you, for it makes no sense to hide any longer, not from you. My eyes are just like his. But I learned over a long time, that there were ways, with great will and control, to hide them. That is the whole of it, Kael. And you will keep it. From the girl, and from the princess, and from the two in the next room, who are good children and have houses. From the old man."
 
 "The master knows about them, does he not?"
 
@@ -178,20 +179,22 @@ The child's fist came open in his sleep and shut again on nothing.
 "It's something that would be hard to explain in a night. There's something off about this place, these people. Or perhaps there's something off in me." She chuckled. "I'll see to it that it's me, until the end of the night."
 
 Kael lay very still. Somehow, he understood her.
+
 His next words took some time to come out.
 
-"I feel *that* too. But, the people that attacked us at the island, they are the enemies. These people are of the empire, the victims. The'll help."
+"I feel *that* too. But, the people that attacked us at the island, they are the enemies. These people are of the empire, the victims. They'll help."
 
 His mother took her time too. She responded:
-"You are so intelligent my son. And I'm incredibly proud of you for it. But, on these matters, there's a long road ahead of you. I'll tell you my truth."
+
+"You are so intelligent, my son. And I'm incredibly proud of you for it. But, on these matters, there's a long road ahead of you. I'll tell you my truth."
 
 *My truth.* Kael was surprised to hear these words. From his mother, it was always *the truth*. She continued.
 
-"There are no enemies. There are no allies. All we can be sure off, is family. And that's what we must fight to protect above all."
+"There are no enemies. There are no allies. All we can be sure of, is family. And that's what we must fight to protect above all."
 
 Kael had no response to that.
 
-"Go to sleep my son. Tomorrow will be a long day."
+"Go to sleep, my son. Tomorrow will be a long day."
 
 "I don't sleep well. Not since father—"
 
@@ -215,7 +218,8 @@ That was all she said about it. He heard her hear it, and hold it, and decide.
 
 He counted. He got to eleven and lost the shape of it and started again. He got to nine. Her hand was on the child and her eyes were on the door and he could feel her not moving, the whole of her, still in the way that had nothing to do with rest, laid along the far side of the bed like a wall; and he understood, with the part of him that was still awake, that she was doing something, that she was holding something in her body and holding it hard, and that it was not enough.
 
-"Keep going. Stay awake Kael. I'll get up, I'll go to you. Continue!"
+"Keep going. Stay awake, Kael. I'll get up, I'll go to you. Continue!"
+
 As much as she tried, her legs failed her.
 
 "Four," he said. "Five."
