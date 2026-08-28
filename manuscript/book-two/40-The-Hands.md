@@ -312,29 +312,33 @@ There was a second one, and it was worse, because he knew now exactly what he wa
 
 "There will be another night," Valeria said, very low, from across the box.
 
-"No," he said.
+"No. No," he said.
 
 "You may not be able to use it again."
 
-"I know."
+"I know. I will do it. I must do it."
 
 She did not say anything else. He heard her change her position once and then be still. He understood, a long way off, in the part of him that was still doing that sort of work, that she had priced the whole thing in about four seconds, found no fault in his arithmetic, and stopped.
 
 He folded what was left of the hand into itself.
 
-It was not shaped like a hand any more; it was a shape you could put a name to only afterward. He got the fingers over the flat thumb and squeezed the whole ruin of it into the smallest thing it would go into. It went smaller than a hand should go, because there was nothing holding the outside of it out any more. He set his right hand against the band and pulled.
+It was not shaped like a hand any more; it was more like a slab of meat than hand. He got the fingers over the flat thumb and squeezed the whole ruin of it into the smallest thing it would go into. It went smaller than a hand should go, because there was nothing holding the outside of it out any more. He set his right hand against the band and pulled.
 
-The bones moved under the iron the whole way, riding on each other. The skin came with them. Not a strip this time: the whole of the back of the hand, from the knuckles to the wrist, turned back off him in one piece the way a glove comes off inside out, and caught at the wrist, and stayed there.
+The bones moved under the iron the whole way, riding on each other. And unfortunately, it was still, barely, not enough. 
 
-What came out of the band into the cold of the box was wet all over and did not look like anything.
+Tears came instinctively of his eyes. His breathing was hard and uneven. He knew, the only solution from here, was to pull harder. And unfortunately, he did.
+
+The skin came of his hand as he pulled his hardest. Not a strip this time: the whole of the back of the hand, from the knuckles to the wrist, turned back off him in one piece the way a glove comes off inside out, and caught at the wrist, and stayed there.
+
+What came out of the band into the cold of the box was wet and red all over and did not look like anything.
 
 Afterward he could remember about a third of the next while, and the whole of the part he had to do something about.
 
 He did not scream.
 
-That was the work, and it took more out of him than the leaning had. The pain did not come in waves and it had no top to it. It came up the arm and went on coming. Every time he thought he had the size of it there was more of it arriving behind that. His body wanted to get away from his own hand and could not, and wanted to thrash, and wanted it the way a fish wants it. He held it down with his teeth in the straw and his own weight on his own chest and thirty feet of sleeping men, and he did not move, and he made no sound at all, and the sweat came out of him until the straw under his face was wet through and going cold.
+That was the work. The pain did not come in waves and it had no top to it. It came up the arm and went on coming. Every time he thought he had the size of it there was more of it arriving behind that. His body wanted to get away from his own hand and could not, and wanted to thrash. He held it down with his teeth in the straw and his own weight on his own chest and thirty feet of sleeping men, and he did not move, and he made no sound at all, and the sweat came out of him until the straw under his face was wet through and going cold.
 
-He was sick once. It was the loudest thing that happened in that box all night. He got most of it into the straw, and it did not matter, because the camp was asleep thirty feet away and had been listening to a box full of nothing for two months.
+He was breathing like someone had removed his lungs. It was the loudest thing in that box all night. He got most of it into the straw, and it did not matter, because the camp was asleep thirty feet away and had been listening to a box full of nothing for two months.
 
 Then the shaking started, and it would not be stopped by any means he had.
 
@@ -370,9 +374,9 @@ He closed it. There is no better way to put it than that: he closed what was lef
 
 The ankles took another half hour. It was the same work and it was worse folded up.
 
-Then the making-good, which he had planned in more detail than any other part of it, because it was the part where a mistake killed everybody. He put the empty band back over the ruin of the left hand so that it hung where iron hangs, and he arranged the chain in the straw in the shape chain makes when it is doing nothing, and he laid the tail of the rope from the ring in a curve on the boards with a bight in it that from a doorway would look exactly like a rope tied to a ring. He covered the wet straw. He covered the other straw. He put his back to the wall, in the place where he had lain for sixty-two days, in the position he lay in, with his knees up.
+Then the looking good, which he had planned in more detail than any other part of it, because it was the part where a mistake killed everybody. He put the empty band back over the ruin of the left hand so that it hung where iron hangs, and he arranged the chain in the straw in the shape chain makes when it is doing nothing, and he laid the tail of the rope from the ring in a curve on the boards with a bight in it that from a doorway would look exactly like a rope tied to a ring. He covered the wet straw. He covered the other straw. He put his back to the wall, in the place where he had laid for sixty-two days, in the position he lay in, with his knees up.
 
-He looked at it all from where a man in the doorway would be looking at it, in his head, and then he did two things again.
+He looked at it all from where a man in the doorway would be looking at it, in his head.
 
 After that there was nothing to do at all.
 
