@@ -2,26 +2,22 @@
 
 **`plates/` and `plate-candidates/` are HAND-AUTHORED SOURCES (author, s58).** A plate prompt is written straight into `plates/ch<NN>-<slug>.md` and is the only home for that prompt; the chapter's candidate list lives beside it at `plate-candidates/ch<NN>.md`. `08-Plates/plates/` is retired — its sheets are in `../archive/plate-sheets.md` whole.
 
-**Everything else here is GENERATED. Do not edit by hand.** `portraits/`, `full-figures/` and `scene-tests/` are built by `scripts/build-prompts.sh` from the fenced blocks in `../prompt-system.md` and `../scene-tests.md`. **Those are the source of truth.** To change one, edit the block there and re-run the script; a hand-edited generated file is a second home for a fact the doc already owns.
+**SO IS EVERY OTHER FILE HERE (author, s58).** `portraits/` and `full-figures/` were assembled by `scripts/build-prompts.sh` out of `../prompt-system.md` until then; the script is deleted and these files are now the source, frozen as they stood. **The reason is below in §Provenance:** six of the fourteen had already drifted into re-assemblies that will not reproduce the picture they cut, and a reference is re-cut, never edited, so propagation was buying nothing and costing that. `../prompt-system.md` keeps the shared blocks — STYLE, the AGE rungs, HAIR, BASE, the templates — which a NEW prompt is assembled from by hand.
+
+`scene-tests/` is gone: `../scene-tests.md` is the single home for those, because several carry a variant beside the adopted one.
 
 **THE EXTENSION IS `.md` AND THE CONTENT IS NOT MARKDOWN (author ruling, s45).** These files are pasted verbatim into an image tool, so no heading, no fence and no emphasis ever goes into one.
-
-```
-scripts/build-prompts.sh           # rebuild
-scripts/build-prompts.sh --check   # non-zero if these files are stale
-```
 
 Paste `../canon-brief.md` once at the top of the conversation first.
 
 - `portraits/` — STYLE · AGE · HAIR (where used) · SUBJECT. Generated unanchored. `<character>-<age>.md`, bare name where `03` leaves the age unpinned.
 - `full-figures/` — `Image` line · BASE · SUBJECT · closing line. Anchored to the portrait.
-- `scene-tests/` — the `### SCENE-VERBATIM:` blocks, emitted untouched.
 - `plates/` — `ch<NN>-<slug>.md`: the `Image` lines, then the scene style line (or, for a plate with no reference attached, the STYLE block's Medium paragraph), then the prompt. **Prompt text only** — no heading, no fence, no emphasis (s45); the run record lives under the plate's CHOSEN entry in `plate-candidates/`. Where the author optimised a prompt before running it, the file holds their version, as run.
 - `plate-candidates/` — `ch<NN>.md`: every candidate that chapter's design found, `## CHOSEN` first with the prompt path, `## CANDIDATES` after. **The chapter quote in a CHOSEN entry is what `scripts/build-docx.py` uses to place the picture on the page** (`../README.md` §The files).
 
 ## Provenance — which of these produced the adopted image
 
-**VERBATIM AS RUN.** `portraits/kael-9` (author-revised) · `kael-4` · `aurelian-14` · `elarine-14` · `neris` · `vask` · `severin` · every file in `scene-tests/` (recovered s47 from the chat that built the scene system; `fight-kael-valeria` is missing its closing paragraph and the adopted image is chest-up with the blade-swap edit applied — see `../scene-tests.md`; `kneel-kael-aeliana` is the bare-parchment version) · `plates/ch01-vask-kael-goat` · `plates/ch01-fallen-stars` · `plates/ch06-carried-past-the-rock`.
+**VERBATIM AS RUN.** `portraits/kael-9` (author-revised) · `kael-4` · `aurelian-14` · `elarine-14` · `neris` · `vask` · `severin` · every scene-test block on `../scene-tests.md` (recovered s47 from the chat that built the scene system; `fight-kael-valeria` is missing its closing paragraph and the adopted image is chest-up with the blade-swap edit applied — see `../scene-tests.md`; `kneel-kael-aeliana` is the bare-parchment version) · `plates/ch01-vask-kael-goat` · `plates/ch01-fallen-stars` · `plates/ch06-carried-past-the-rock`.
 
 **ASSEMBLED, NOT AS-RUN.** `portraits/kael-14` · `valeria-14` · `aeliana-15` and all three `full-figures/` — the s33 set; the fixed block was split at s34, so a re-run will not reproduce the adopted image. Every other `plates/` file: the block is what ran, but the header above it is the current system's — from s47 the scene style line rather than the portrait Medium and Colour paragraphs. `git log` has the header each one ran under.
 

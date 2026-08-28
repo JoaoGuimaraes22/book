@@ -4,7 +4,7 @@ Tool: ChatGPT image generation. Describe what you want; a negation earns its pla
 
 Two recipes. A **portrait** is generated unanchored — no reference attached — so the prompt carries the medium. A **scene or plate** is generated with reference images attached, so the references carry the medium, the faces and the apparent age, and the prompt carries everything else.
 
-`scripts/build-prompts.sh` assembles the fenced blocks below into `prompts/`; the headings are its markers. Every finding, run record and revision that produced these rules is in `archive/findings.md`, verbatim, under its original heading.
+**Nothing here is a finished prompt.** The fenced blocks below are the SHARED COMPONENTS — the ones used many times over — and a prompt is assembled from them by hand into its own file under `prompts/` (author, s58). Every finding, run record and revision that produced these rules is in `archive/findings.md`, verbatim, under its original heading.
 
 ---
 
@@ -198,392 +198,79 @@ OR darkest value].
 
 # The characters — SUBJECT blocks
 
-Each is the block that cut the adopted reference (or, for the s33 set, the current-system version of it — `prompts/README.md`). Age block and HAIR line as listed.
+**The prompts themselves are one file each under `prompts/portraits/`, hand-authored and the source** (author, s58) — the same ruling that put plate prompts in their own files. What is below is what each one IS: the reference it cut, its AGE rung, whether the HAIR line is in it, and what is known about the run. Each is the block that cut the adopted reference — or, for the s33 set, an assembly of the current system that will not reproduce it (`prompts/README.md`).
 
 ### Kael at fourteen
 
 `images/portraits/kael-14.png` · adolescent · HAIR.
 
-```
-SUBJECT — cool pale parchment ground.
-A fifteen-year-old mountain village boy.
-Eyes near-white neutral grey — the LIGHTEST VALUE in the picture,
-cool and colourless, not the most saturated. Distinct dark limbal
-ring, small dark pupil.
-Dark hair, unstyled, hacked short and uneven by hand, falling over
-the forehead.
-Sun-weathered and wind-chapped from work at altitude, freckles
-across the nose, cool grey soot and dust along one cheekbone and in
-the creases of the neck — the grime stays cool grey, never warm
-brown.
-Handsome, with faintly asymmetrical features — one brow set
-slightly higher, nose a fraction off centre. Narrow neck, no facial
-hair.
-Expression still and level, mouth closed and relaxed, gaze flat and
-direct. Neither hostile nor sad.
-Threadbare open-collar linen shirt, coarse weave, frayed at the
-collar edge, in dull umber and olive.
-```
+**The prompt is `prompts/portraits/kael-14.md`**, which is the source and holds it as run.
 
 ### Kael at four
 
 `images/portraits/kael-4.png` · child · HAIR. The one Kael whose face is not doing the coat; the block forbids the system's own default by name, or an unattended run inherits it.
 
-```
-SUBJECT — cool pale parchment ground.
-A four-year-old boy of a mountain village.
-Eyes near-white neutral grey — the LIGHTEST VALUE in the picture,
-cool and colourless, not the most saturated. Distinct dark limbal
-ring, small dark pupil. Large and wide open in a small face.
-Dark hair, fine and soft, cut short and uneven at home by somebody
-who was not being careful, falling over the forehead.
-Wind-chapped and outdoors all day — high colour across the cheeks
-and the nose from the cold, cool grey dust and dirt on the skin
-and in the creases of the neck, the grime staying cool grey and
-never warm brown. A CHILD'S skin under it: no weathering, no
-roughness, no hardness anywhere in it.
-No scars and no marks anywhere on him.
-Expression OPEN and entirely unguarded, wholly present, looking
-straight at the viewer with complete and untroubled certainty.
-Nothing withheld, nothing watchful, nothing wary — a child who has
-never once had a reason to conceal anything. Mouth closed and
-relaxed. NOT flat, NOT still, NOT level, NOT guarded, NOT cautious,
-not sad, not solemn.
-Plain undyed wool, coarse and much mended and a little too big for
-him, in dull oatmeal and dead olive.
-```
+**The prompt is `prompts/portraits/kael-4.md`**, which is the source and holds it as run.
 
 ### Kael at nine
 
 `images/portraits/kael-9.png` · nine · HAIR. Author-revised before the run. *The ink carries the cloth* is the finish counterweight for anything wearing worked cloth. Ran with a village behind him against the block's empty ground; adopted as it stands. Covers Ch. 3–7.
 
-```
-SUBJECT — cool pale parchment ground.
-A nine-year-old boy of a mountain village.
-Eyes near-white neutral grey — the LIGHTEST VALUE in the picture,
-cool and colourless, not the most saturated. Distinct dark limbal
-ring, small dark pupil. Large and clear in a young face.
-The hair is dark but never a solid mass: fine ink strands and open
-transparent washes with bare paper left through it, soft wash-bled
-edges, no hard-edged black anywhere in it. The sharpest step from
-light to dark in the whole picture happens inside the eye itself,
-at the edge of the iris.
-Dark hair, cut short and uneven at home by somebody who was not
-being careful, falling over the forehead.
-Handsome, with faintly asymmetrical features — one brow set
-slightly higher, nose a fraction off centre.
-Outdoors at altitude his whole life: wind-chapped, high colour
-across the cheeks and the nose, cool grey dust and dirt on the skin
-and in the creases of the neck, the grime staying cool grey and
-never warm brown. A CHILD'S skin under it — nothing worked deep, no
-roughness, no hardness anywhere in it.
-No scars and no marks anywhere on him.
-Expression ALERT AND DIRECT, wholly present, meeting the viewer
-head-on with open unhurried attention. Brows slightly raised, eyes
-wide and fully open, lips closed but not pressed — a boy in the
-middle of asking something. Interested, unguarded, unafraid. NOT
-flat, NOT blank, NOT level, NOT guarded, NOT wary, not sullen, not
-sad, not solemn, not smiling.
-Plain undyed wool, coarse and much mended, in dull oatmeal and dead
-olive, the collar loose at the throat. The ink carries the cloth —
-dense scratchy linework in the seams, the patches, the mended
-places and the coarse weave at the collar, ink dominant over wash
-throughout the garment.
-```
+**The prompt is `prompts/portraits/kael-9.md`**, which is the source and holds it as run.
 
 ### Kael at nine — still
 
 Not run. A second face for the stillness — same boy, only the mouth, lids and brows move — because a plate cannot argue a reference out of its expression (§Scenes and plates). `kael-9` for a chapter that asks, this for one that closes.
 
-```
-SUBJECT — cool pale parchment ground, entirely empty. No landscape,
-no building, no horizon, nothing behind him.
-A nine-year-old boy of a mountain village.
-Eyes near-white neutral grey, cool and COLOURLESS — no more colour
-in the iris than there is in the whites around it, and no blue in it
-anywhere. The LIGHTEST VALUE in the picture, winning on value and
-never on saturation. Distinct dark limbal ring, small dark pupil.
-The hair is dark but never a solid mass: fine ink strands and open
-transparent washes with bare paper left through it, soft wash-bled
-edges, no hard-edged black anywhere in it. The sharpest step from
-light to dark in the whole picture happens inside the eye itself,
-at the edge of the iris.
-Dark hair, cut short and uneven at home by somebody who was not
-being careful, falling over the forehead.
-Handsome, with faintly asymmetrical features — one brow set
-slightly higher, nose a fraction off centre.
-Outdoors at altitude his whole life: wind-chapped, high colour
-across the cheeks and the nose, cool grey dust and dirt on the skin
-and in the creases of the neck, the grime staying cool grey and
-never warm brown. A CHILD'S skin under it — nothing worked deep, no
-roughness, no hardness anywhere in it.
-No scars and no marks anywhere on him.
-Expression WITHHELD AND COMPLETELY STILL. The lids sit a fraction
-low over the eyes, not wide and not narrowed. The brows are level
-and do not move. The mouth is CLOSED, the lips together and
-relaxed, not pressed and not parted. The face is at rest and gives
-nothing back — a boy who has just finished working something out
-and is not going to say what. NOT asking, NOT curious, NOT eager,
-NOT wide-eyed, NOT wondering, NOT hopeful, and equally NOT sad, NOT
-sullen, NOT wary, NOT frightened, not smiling, not blank and not
-sleepy. He is thinking, and none of it is on the surface.
-Plain undyed wool, coarse and much mended, in dull oatmeal and dead
-olive, the collar loose at the throat. The ink carries the cloth —
-dense scratchy linework in the seams, the patches, the mended
-places and the coarse weave at the collar, ink dominant over wash
-throughout the garment.
-```
+**The prompt is `prompts/portraits/kael-9-still.md`**, which is the source and holds it as run.
 
 ### Valeria
 
 `images/portraits/valeria-14.png` · adolescent · HAIR.
 
-```
-SUBJECT — cool pale parchment ground.
-A sixteen-year-old girl.
-Eyes vivid green — the most saturated point in the picture,
-luminous against the muted palette, set against heavy dark lashes
-and strong dark brows so the green reads sharp.
-Long straight dark hair, blue-black, falling loose past the
-shoulders.
-Clear unmarked skin, no freckles.
-Slightly rounded face, faint hollow beneath the cheekbone, small
-chin, straight nose, narrow neck.
-Expression: chin level, gaze flat and direct into the viewer, mouth
-closed and still. Unimpressed and faintly tired. Not vulnerable,
-not wistful, not searching.
-Dark wrapped garment, plain heavy fabric, no ornament, in deep
-charcoal and cool grey-blue.
-```
+**The prompt is `prompts/portraits/valeria-14.md`**, which is the source and holds it as run.
 
 ### Aeliana
 
 `images/portraits/aeliana-15.png` · adolescent · HAIR. The adopted image carries a pauldron the block forbids; flagged, not regenerated.
 
-```
-SUBJECT — warm aged parchment ground.
-A sixteen-year-old girl.
-Eyes pale blue — the most saturated point in the picture, luminous
-against the muted palette.
-Long wavy silver-white hair falling loose past the shoulders,
-partly pinned at the crown, almost colourless, rendered mostly as
-bare paper and the palest cool greys with fine ink strands defining
-the locks. Colourless silver-white, not blonde — no yellow or gold
-in the hair. The hair is the lightest mass in the picture.
-Pale untouched skin, freckles across the nose and cheeks.
-Face slightly rounded rather than elongated, small rounded chin,
-straight nose, short philtrum, slender neck.
-Expression quiet and slightly unguarded, lips closed and soft.
-Dark embroidered high-collar court garment — scrollwork filigree
-worked into the cloth itself at the collar and over the shoulder, in
-tarnished gold thread against deep charcoal, the cloth in cool
-grey-blues and dull umbers. Embroidery only: no armour, no pauldron,
-no plate, no metalwork of any kind.
-```
+**The prompt is `prompts/portraits/aeliana-15.md`**, which is the source and holds it as run.
 
 ### Aurelian
 
 `images/portraits/aurelian-14.png` · Aurelian · no HAIR. *Riding and hunting* is a rendering steer that bought the well-fed colouring; it is not canon and stays in this block.
 
-```
-SUBJECT — cool pale parchment ground.
-A fifteen-year-old boy of a great house.
-Eyes warm amber, gold-brown — the most saturated point in the
-picture, luminous against the muted palette. The skin immediately
-around the eye stays pale and cool-shadowed so the amber does not
-merge into the warmth of the face; the eye is the one warm
-saturated point in the picture and the cheeks stay quieter than it.
-Dark-gold hair, thick and heavy, well cut and well kept, pushed
-back off the forehead — groomed, not tousled.
-Clear well-fed skin with sun on it from riding and hunting — no
-weathering, no chapping, no grime, no freckles.
-Broader through the shoulders and longer in the limb than the age
-would give, the frame already settling toward a man's — a boy built
-a year ahead of himself.
-Strong even bone structure, straight nose. The jaw broad but not
-yet set, the cheek still soft, the face several years behind the
-shoulders.
-Expression open, easy and pleasant, mouth closed with a faint
-readiness to smile at one corner, chin carried high, gaze direct
-and entirely unguarded — the face of someone who has never once
-been put on the ground by anything. Not smug, not sneering, not
-cruel, not haughty.
-Good dark wool, well made and well fitted, an open collar over a
-clean undershirt, in deep umber and warm charcoal. No ornament, no
-insignia, no chain, no badge — the quality is in the cut and the
-cloth.
-```
+**The prompt is `prompts/portraits/aurelian-14.md`**, which is the source and holds it as run.
 
 ### Elarine
 
 `images/portraits/elarine-14.png` · Elarine · no HAIR. The darkest-value clause could not beat her own hair and the eyes won on finish; if she is ever re-cut, demote the hair (§SUBJECT template).
 
-```
-SUBJECT — cool pale parchment ground.
-A fifteen-year-old girl of a great house.
-Eyes very dark brown, near black — the DARKEST VALUE in the
-picture, not the most saturated. The only place in the image where
-the ink goes fully solid: two small absolute darks in a face made
-otherwise of pale washes. Small, steady, precisely drawn, and the
-darkest thing in the frame by a clear margin.
-Ink-dark hair, a flat neutral black with no blue in it, drawn back
-severely off the face and bound tight at the nape, not one strand
-loose, the whole mass smooth and close to the skull.
-Pale untouched indoor skin, clear and unmarked, no freckles. The
-skin's warmth stays low and even across the whole face; no high
-colour in the cheeks.
-Small and finely built — narrow shoulders, a small head, a slender
-neck.
-Fine economical features, nothing exaggerated anywhere. The face
-small and still unfinished, the cheek soft, nothing about her yet
-grown into itself.
-Expression: attention fully engaged and giving nothing back. Eyes
-level and fixed on the viewer, mouth closed and still, brows
-unmoved. She is in the middle of working something out and has
-arrived at no verdict. Not cold, not haughty, not bored, not
-amused, not tired.
-Plain dark clothing of very good quality, close-fitting and exactly
-made, a high buttoned collar to the throat, in ink-black and dark
-olive. No jewellery, no embroidery, no ornament of any kind —
-nothing on her that does not work.
-```
+**The prompt is `prompts/portraits/elarine-14.md`**, which is the source and holds it as run.
 
 ### Vask
 
 `images/portraits/vask.png` · Vask · HAIR. The adopted image shows no grey and reads younger than `03`'s *used tools*; both ruled acceptable (s34, s43) and `03` does not move. The block is the corrected one; its grey instruction has failed twice and the cause is not settled — do not run the same fix a third time.
 
-```
-SUBJECT — cool pale parchment ground.
-A grown man of a mountain village, a herder by every appearance.
-Eyes iron-dark, near black — the DARKEST VALUE in the picture, and
-the sharpest step from light to dark anywhere in the image happens
-inside the eye itself, at the edge of the iris.
-Iron-dark hair of MEDIUM LENGTH — long enough to cover the ears
-and reach the jaw, roughly cut a long time ago by somebody who was
-not being careful and grown out since. Falling where it falls,
-pushed back off the forehead.
-The hair is dark but never a solid mass: rendered as fine ink
-strands and open transparent washes with bare paper left through
-it, soft wash-bled edges, no hard-edged black and no hard-edged
-white anywhere in it. The grey lives in that openness — scattered
-pale strands among the dark. HE IS GREYING EARLY, ahead of his
-age: roughly one strand in six is grey, scattered evenly right
-through the mass and thickest at the temples, and the grey must be
-plainly visible at a glance. It is SCATTERED, never GATHERED — no
-streak, no seam, no patch.
-Weathered hard — wind, sun and salt worked deep into the skin, the
-whole face used. The weathering is on the surface and the face
-under it is not old.
-Broad through the shoulders and no further: heavy across the top
-of the back and the neck, nothing wasted below it, an economy
-rather than a bulk.
-Expression: level, mouth closed, gaze direct and completely
-unreadable. There is nothing in his eyes that is angry and nothing
-in them that is anything at all. Not hostile, not cold, not sad,
-not kind, not tired. Perfectly still — a man who moves exactly as
-much as is required and is not moving now.
-Coarse undyed working cloth, heavy weave, a plain collar closed to
-the base of the throat, much mended, in dull grey-brown and dead
-olive. No ornament, no buckle, no badge.
-```
+**The prompt is `prompts/portraits/vask.md`**, which is the source and holds it as run.
 
 ### Neris
 
 `images/portraits/neris.png` · Neris · HAIR. Reads early thirties and striking; ruled good (s44). Her hands are where the book keeps her — any full figure or scene puts them in frame and occupied.
 
-```
-SUBJECT — cool pale parchment ground.
-A grown woman of a mountain village, to all appearances.
-Eyes dark brown — they win the picture on CONTRAST rather than on
-colour: a dark iris against a clean, light, clearly drawn sclera,
-the widest jump from light to dark anywhere in the image packed
-into the smallest area, while the whole face around them is held
-at a quiet middle value. The eyes read wide open and awake.
-The face around the eyes is held at a quiet even middle value. The
-hair is dark but never solid: rendered as fine ink strands and open
-transparent washes with bare paper left through the mass, soft
-wash-bled edges, no hard-edged black anywhere in it. The sharpest
-step from light to dark in the whole picture happens inside the eye
-itself, at the edge of the iris.
-Long dark brown hair falling loose past the shoulders — warm rather
-than cool, plainly brown and not black, no blue anywhere in it —
-unstyled and naturally settled, a few strands across the temple.
-Ordinary — not arranged, not severe, not styled for anything.
-Skin with weather and sun on it but not coarsened — she has worked
-outdoors for years and it has not got into her the way it gets
-into the others.
-Fine bones — a narrow nose, a fine jaw, good structure close under
-the skin. Handsome and unremarkable in the same breath.
-Expression: entirely still, and the stillness is the subject of the
-picture. Attentive, composed, giving nothing back, watching the
-viewer the way you watch something you are deciding about. Mouth
-closed and relaxed. Not cold, not sad, not kind, not warm, not
-maternal, not tired.
-Plain village working cloth — a coarse overdress over a plain
-undershirt, the neck closed, in dull grey-brown and undyed
-oatmeal, worn soft and much mended. No ornament of any kind.
-```
+**The prompt is `prompts/portraits/neris.md`**, which is the source and holds it as run.
 
 ### Severin
 
 `images/portraits/severin.png` · Severin · HAIR · half-figure composition. Author-revised: the build moved out of the AGE block into the SUBJECT; the brows told not to match; the light hair defined against the pale ground; the expression moved to the eyes because the beard has the mouth.
 
-```
-SUBJECT — cool pale parchment ground.
-An old man, the head of a school.
-Eyes very dark brown, near black — the DARKEST VALUE in the
-picture by a wide margin, and the sharpest step from light to dark
-anywhere in the image happens inside the eye itself, at the edge
-of the iris. His hair and beard are the lightest mass in the frame
-and his eyes are the darkest point in it, and that opposition is
-the whole picture. The brows stay dark while the hair and beard
-are fully grey — they do not match, and that is correct.
-Hair FULLY GREY — the entire head, evenly and completely, a true
-neutral grey that is neither warm silver nor cold white. A FULL
-THICK HEAD OF IT, coarse and heavy, worn LONG — swept back off the
-forehead and falling past the collar to the shoulders. Not
-thinning, not wispy, not receding, no scalp showing. The hair and
-beard hold their shape as defined ink strands and clear drawn
-edges against the pale ground — never dissolving into the paper,
-never lost against it.
-A full grey beard and moustache, close-cropped and neatly kept,
-the same neutral grey as the hair.
-The grey is uniform everywhere: no streak, no seam, no band, no
-patch, nothing gathered or shaped anywhere in it, and no part of
-it lighter or colder than any other part.
-A big powerful old man — tall, long in the bone, wide and thick
-across the shoulders and deep through the chest, with visible hard
-muscle across the shoulders and upper back, a thick corded neck,
-and heavy thick wrists and forearms far too thick for a man whose
-work is paper. The robes do not disguise any of it: the frame
-reads straight through the cloth.
-A scholar's stoop laid over the top of that body and not fitting
-it — the head carried a little forward, the shoulders rounded, and
-the powerful frame underneath plainly not built for the posture.
-The stoop is a habit worn badly over a fighter's body, and both
-must be visible at once.
-Expression: the beard covers the mouth and jaw, so the whole
-expression lives in the eyes and brows. The gaze level, direct,
-unhurried and patient, the brows unmoved and completely relaxed,
-the eyes steady and giving out nothing at all — a face that has
-already priced whatever it is looking at. Courteous and attentive
-and entirely unreadable. Not warm, not kindly, not stern, not sad,
-not tired, not twinkling, not amused, not benign — and not a
-wizard, not a sage, not a kindly old mentor of any kind.
-Dark master's robes, heavy and plain, worn loose and open at the
-front over a plain undertunic so the chest and shoulders read
-through rather than being swallowed by cloth, with a broad chain
-of office lying across both shoulders — plain linked metal with
-real weight in it, dull and unpolished, no gems and no ornament of
-any kind. In deep charcoal and cold grey-brown, the chain in
-tarnished bronze.
-```
+**The prompt is `prompts/portraits/severin.md`**, which is the source and holds it as run.
 
 ---
 
 # Full figures — BASE · SUBJECT
 
-Anchored to the character's portrait — the one anchored portrait case, because the point is to extend an existing face. The `Image` line goes first, then BASE, SUBJECT, and the closing line.
+Anchored to the character's portrait — the one anchored portrait case, because the point is to extend an existing face. The file opens with the `Image` line, then BASE, SUBJECT and the closing line; **the prompts are one file each under `prompts/full-figures/`, hand-authored and the source** (author, s58).
 
 ## BASE block — full figure
 
@@ -623,110 +310,19 @@ reference shows head and shoulders only.
 
 `images/full-figures/kael-14-full.png`. Village register. The sheet carries no weapons; page canon has two short blades across his back in a cloth wrap — write the wrap into a scene by hand when the moment carries it.
 
-```
-Image 1: reference portrait of Kael — pale grey eyes, dark uneven
-hair, fifteen years old.
-
-SUBJECT — cool pale parchment ground.
-Age: still adolescent in frame — narrow through the shoulders
-compared to a grown man, limbs long relative to the torso, but
-densely built and visibly strong for his age.
-A fifteen-year-old boy, lean and hard, wiry strength from a life of
-hard physical training — cabled forearms, strong hands, deep chest,
-no soft weight anywhere. Compact and athletic rather than bulky.
-Eyes near-white neutral grey, cool and colourless, dark limbal ring
-— the lightest point in the face, visible even at distance.
-Dark hair, unstyled, cut short and uneven, falling over the
-forehead.
-Weathered and wind-chapped from conditioning outdoors at altitude,
-skin clean, no dirt or grime.
-Handsome, with faintly asymmetrical features — one brow set
-slightly higher, nose a fraction off centre.
-Posture: standing straight and perfectly balanced, weight evenly
-settled, shoulders level and relaxed, hands loose and open at his
-sides. Completely still. Economical and controlled — the stillness
-of someone trained, not the slouch of a labourer. Not posed, not
-braced, no swagger.
-Expression still and level, mouth closed, gaze flat and direct.
-Plain dark clothing, well-made and well-maintained, chosen to go
-unnoticed: a close-fitting long-sleeved tunic in charcoal grey,
-sleeves pushed to the forearm, belted at the waist with a plain
-leather belt. Dark fitted trousers. Cloth wraps at the calves. Soft
-dark leather boots, worn but sound, made for quiet movement.
-```
+**The prompt is `prompts/full-figures/kael-14-full.md`**, which is the source and holds it as run.
 
 ### Valeria — full figure
 
 `images/full-figures/valeria-14-full.png`. The matched pair is load-bearing; the collar insignia is canon-by-precedent.
 
-```
-Image 1: reference portrait of Valeria — green eyes, long straight
-dark hair, sixteen years old.
-
-SUBJECT — cool pale parchment ground.
-Age: still adolescent in frame — narrow through the shoulders
-compared to a grown woman, limbs long relative to the torso, but
-solidly built and visibly trained.
-A sixteen-year-old girl, lean and hard, trained — strong shoulders,
-strong hands, no soft weight. Athletic rather than heavy.
-Eyes vivid green, luminous, the brightest point in the face.
-Long straight dark hair, blue-black, tied back off the face for
-duty, loose strands escaping at the temples.
-Clear unmarked skin, no freckles.
-Posture: standing at ease but alert, weight settled evenly, chin
-level, shoulders square. Both hands resting lightly on the pommels
-of the two swords at her hips, elbows relaxed. Still and watchful.
-Not braced, no swagger.
-Expression: chin level, gaze flat and direct into the viewer,
-mouth closed and still. Unimpressed and faintly tired. Not
-vulnerable, not wistful, not searching.
-Royal guard uniform: a fitted knee-length sleeveless coat in deep
-charcoal over cool grey-blue, high collar, buttoned front, cut for
-movement, worn over a close-fitting long-sleeved underlayer. Simple
-bronze house insignia at the collar. Light armour only — plain
-unornamented steel vambraces on both forearms, a fitted gorget at
-the throat. Broad leather belt carrying a matched pair of plain
-longswords, one sheathed at each hip, scabbards identical, hilts
-unornamented, both blades sheathed.
-Dark fitted trousers. Black leather boots to the knee, well-worn
-and well-kept.
-```
+**The prompt is `prompts/full-figures/valeria-14-full.md`**, which is the source and holds it as run.
 
 ### Aeliana — full figure
 
 `images/full-figures/aeliana-15-full.png`. Hair loose here by default; a Ch. 22 plate puts it up.
 
-```
-Image 1: reference portrait of Aeliana — pale blue eyes, silver-white
-hair, sixteen years old.
-
-SUBJECT — warm aged parchment ground.
-Age: still adolescent in frame — narrow shoulders, slight build,
-limbs long relative to the torso, not yet filled out.
-A sixteen-year-old noble girl, slight and sheltered, soft — no
-muscle, no weathering, a body that has never worked.
-Eyes pale blue, luminous, the brightest point in the face.
-Long wavy silver-white hair falling past the shoulders, partly
-pinned at the crown, almost colourless, rendered mostly as bare
-paper and the palest cool greys with fine ink strands defining the
-locks. Colourless silver-white, not blonde — no yellow or gold in
-the hair. The hair is the lightest mass in the picture.
-Pale untouched skin, freckles across the nose and cheeks.
-Posture: standing straight, weight even, chin level, shoulders
-back, hands folded loosely in front of her. Formal and composed —
-the bearing of someone raised to be looked at, taught to stand
-still. Not braced, no swagger, nothing athletic in the stance.
-Expression quiet and slightly unguarded, lips closed and soft.
-Court dress: a full-length gown in a blue so dark it reads black
-until the light moves on it, fitted through the bodice with a high
-collar, long fitted sleeves, the skirt falling to the floor. Gold
-embroidery massed at the shoulders and heavily worked around the
-hem — dense, elaborate scrollwork in far greater quantity than any
-garment needs, the excess itself the point. Bare dark fabric
-between shoulder and hem. No armour, no pauldron, no belt, no
-visible weapon. Soft indoor slippers, barely visible beneath the
-hem.
-```
+**The prompt is `prompts/full-figures/aeliana-15-full.md`**, which is the source and holds it as run.
 
 ---
 

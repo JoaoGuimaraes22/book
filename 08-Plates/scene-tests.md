@@ -4,7 +4,7 @@
 
 **PROVENANCE.** Every block below is transcribed verbatim from that chat, not reassembled from the current system. Where a prompt has more than one version, the version that produced the uploaded image is marked `AS RUN` and the others are kept so nobody re-derives them.
 
-**`scripts/build-prompts.sh` emits the first fence under each `### SCENE-VERBATIM:` heading, untouched, to `prompts/scene-tests/<slug>.md`.** The plate template on `prompt-system.md` is cut from these.
+**THIS SHEET IS THE SINGLE HOME FOR THESE PROMPTS (s58).** Copies were generated into `prompts/scene-tests/` until then; they are gone, because several entries here carry a variant beside the adopted one and that pairing is the whole value of the sheet. The plate template on `prompt-system.md` is cut from these.
 
 **NOTE ON HEADINGS.** These use `### SCENE-VERBATIM: <slug>` to mirror `plates/`' `### PLATE-VERBATIM:`. The scene system has no such convention, which is exactly why these went missing.
 
