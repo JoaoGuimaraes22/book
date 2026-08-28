@@ -222,7 +222,7 @@ He said it low, at a moment when a man had just gone past outside and there was 
 
 She looked at him for a moment. "You have tried to get that one hand out for two months."
 
-"Yes. But, we have an opportunity we can't waste. I'll do it."
+"Yes. But we have an opportunity we can't waste. I'll do it."
 
 She did not ask what he meant to do with a hand, or whether he could, or what it would cost.
 
@@ -326,7 +326,7 @@ It was not shaped like a hand any more; it was more like a slab of meat than a h
 
 The bones moved under the iron the whole way, riding on each other. And unfortunately, it was still, barely, not enough.
 
-Tears came instinctively out of his eyes. His breathing was hard and uneven. He knew, the only solution from here, was to pull harder. And unfortunately, he did.
+Tears came instinctively out of his eyes. His breathing was hard and uneven. He knew the only solution from here was to pull harder. And unfortunately, he did.
 
 The skin came off his hand as he pulled his hardest. Not a strip this time: the whole of the back of the hand, from the knuckles to the wrist, turned back off him in one piece the way a glove comes off inside out, and caught at the wrist, and stayed there.
 
@@ -374,7 +374,7 @@ He closed it. There is no better way to put it than that: he closed what was lef
 
 The ankles took another half hour. It was the same work and it was worse folded up.
 
-Then the looking good, which he had planned in more detail than any other part of it, because it was the part where a mistake killed everybody. He put the empty band back over the ruin of the left hand so that it hung where iron hangs, and he arranged the chain in the straw in the shape chain makes when it is doing nothing, and he laid the tail of the rope from the ring in a curve on the boards with a bight in it that from a doorway would look exactly like a rope tied to a ring. He covered the wet straw. He covered the other straw. He put his back to the wall, in the place where he had laid for sixty-two days, in the position he lay in, with his knees up.
+Then the making-good, which he had planned in more detail than any other part of it, because it was the part where a mistake killed everybody. He put the empty band back over the ruin of the left hand so that it hung where iron hangs, and he arranged the chain in the straw in the shape chain makes when it is doing nothing, and he laid the tail of the rope from the ring in a curve on the boards with a bight in it that from a doorway would look exactly like a rope tied to a ring. He covered the wet straw. He covered the other straw. He put his back to the wall, in the place where he had lain for sixty-two days, in the position he lay in, with his knees up.
 
 He looked at it all from where a man in the doorway would be looking at it, in his head.
 
