@@ -130,7 +130,7 @@ Valeria said, "Highness, please. Aeliana. Drink it," which she had never done an
 
 The third thing was the talking, and it was the worst.
 
-Even after a month Kael was confused on why she was the only one kept unable to speak. She had four or five breaths of mouth a day while the cloth was off, and Kael expected, at the start, that she would use them the way she had used every mouthful of speech he had ever heard her use, which was to arrange the world. She did not. In the second week she said, "My father will surely pardon you and reward you with anything you wish, if you free me. Please. Anyone." Nobody answered her. The cloth went back on.
+A month in, he still could not work out why she was the only one they had gagged. She had four or five breaths of mouth a day while the cloth was off, and Kael expected, at the start, that she would use them the way she had used every mouthful of speech he had ever heard her use, which was to arrange the world. She did not. In the second week she said, "My father will surely pardon you and reward you with anything you wish, if you free me. Please. Anyone." Nobody answered her. The cloth went back on.
 
 In the fourth week she said it again. The same sentence, the same words, in the same order. He knew because he was a person who did not lose things. He lay in the straw afterward with it: a girl had said a sentence twice with sixteen days between, and there was nothing whatever to be done with that.
 
@@ -140,7 +140,7 @@ It came out through the cloth, small, and it went on slightly too long, and ther
 
 He filed all of it. He filed it as the heat, and then as the wrists, and then, later and more carefully, as an illness he did not have the training to name.
 
-He never got to the truth of it. It was three feet away from him for two months and it never once occurred to him, and the reason was not that he could not see it.
+He never got to the truth of it. It was three feet away from him for two months and it never once occurred to him.
 
 He had one thing of his own, and it was the count, and he turned it on himself because there was nothing else left to turn it on.
 
