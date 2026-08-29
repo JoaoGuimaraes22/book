@@ -1,7 +1,7 @@
 ## Planted Clues & Foreshadowing
 **LAW CORE.** The clue ledger: what was planted, where, and what the page has done with it. **STATE is the section a row sits in** — three states, no others; a row changes state by moving section. **The plans (the old §PLANNED) live in 00 and come back here as PLANTED rows only when the author plants one.** Read by `scripts/clues.sh` AFTER a scene is designed, for what the page holds on what it touches — never before, to find debts. **The Handling column is STATE (author, s54):** what the page has done with the plant and what it leaves open — never an instruction to a future page.
 
-### PLANTED (210) — on the page, still open · THE WORKING SET
+### PLANTED (209) — on the page, still open · THE WORKING SET
 On the page; the payoff is still owed. This section is the answer to "what is still owed?"
 
 | Clue | Planted in | Pays off in | Handling |
@@ -213,7 +213,6 @@ On the page; the payoff is still owed. This section is the answer to "what is st
 | **THE PAINTED IRON** — black *put there* in the grooves of the cuffs, worn and renewed; the smallest thread gets no answer; Kael's inference *Iron alone does not stop the Art … It must be that black paint* | **Ch. 39** | open — 00 | Nobody names it; nobody theorises it; the box was *built for Resonants* and had carried people before **s59:** Ch. 40 — the band's stop was measured for two months and beaten by breaking the hand, not the iron; with one band still on, the Art stays unanswered and nobody tries it |
 | **THE GOVERNOR AT THE DOOR** — Hazoun Sabrane, a day east of his city, opens the box and looks at the princess; *who kept Qeshet for the Emperor* | **Ch. 39** | open — 00 | The careful man who did not ask *how* is the taker; Kael has the who and nothing of the why (author, s58) **s59:** he is still on the road in the sixth week (Ch. 40), thinner, at the back, looking behind him every afternoon |
 | **THE GOVERNOR ON THE ROAD** — two months in the dust behind his own box; canopy and chair gone, thinner, sleeping badly, riding at the back, and turning every afternoon to look at the road behind him for as long as the road is straight | **Ch. 40** | open — 00 | Kael's answer — the goods are too valuable to hand to anybody, and thieves — is **wrong and uncorrected**, and the narration says so reaching forward: *it would be a long time before anybody told him.* What is behind him is on no page |
-| **THE NINTH VOICE** — the level Koine with the coast under it that gives the orders; heard perhaps thirty times in two months and never once from a place where Kael can see the mouth | **Ch. 39 → Ch. 40** | open | *After the first month that stopped being an accident.* He made a note of it and could do nothing with it; it has no face and no name on any page |
 | **THE HAND** — Kael breaks and skins his own left hand to get it out of the painted iron, silently, hours before the door; the ruin then does the holding for every knot | **Ch. 40** | open | **Whether it works again is on no page.** Valeria's *You may not be able to use it again* stands unanswered; the Art is not bought back by it, and the empty band and eleven links become what he is armed with |
 | **VALERIA SLEPT ON HIS WORD** — the watch divided in the second week; she does not argue, says *Very well*, and sleeps for two months while he takes the door, the road and everything past it | **Ch. 40** | open | *He filed it, and knew that something had happened, and did not have the size of it.* The page never says what it is; Ch. 20's *I do not sleep either* and Ch. 39's *I slept* are paid forward into something chosen |
 
@@ -228,8 +227,9 @@ Deliberately left open (author): both readings alive on the page. A payoff here 
 | **"I KNOW WHAT SHE IS"** — Severin stops Kael following his mother to the front of the shelf, and answers his half-sentence with it. A state, or a nature? | **Ch. 34** | never — both readings stay alive (liar's-knot family) | Open by design. He sources nothing, has not been asked to explain it, and it is entirely deniable as *she gave birth an hour ago*; he has not accounted for it |
 | **THE NIGHT-WATCH BLADE'S IDENTITY** — whether the blade "he had never been shown" across Neris's knees IS her chest dagger | **Ch. 4** | never — both readings stay alive | Open by design. If it is the dagger, "it keeps the cold out" turns on reread and "unsheathed" pre-echoes beat 19; if it is not, the chest stays wholly sealed. Unremarked either way |
 
-### PAID (0) — nothing further owed · THE EVICTION COHORT
+### PAID (1) — nothing further owed · THE EVICTION COHORT
 The payoff has landed. Kept only for the do-not-respend instruction. **EVICTION: lift this whole section to `planted-clues-book-N.md` at each book boundary.** **Book One's cohort was lifted to `planted-clues-book-1.md` at s54; this table refills from the working set as Book Two pays rows off.**
 
 | Clue | Planted in | Pays off in | Handling |
 |---|---|---|---|
+| **THE NINTH VOICE** — the level Koine with the coast under it that gives the orders; heard perhaps thirty times in two months and never once from a place where Kael can see the mouth | **Ch. 39 → Ch. 40** | **Ch. 40** | **PAID inside its own chapter (s62).** It is the governor's own voice, and Kael has it by the second week: Ivrit to his own men, the empire's tongue for what he wants done. The mystery it used to carry is gone; what the governor is looking for down the road behind him is a separate row and stays open |
