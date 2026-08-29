@@ -605,3 +605,20 @@ Two classes are admitted that are not "good lines", and both are explicitly mark
   - "Behind the box there was nothing, and there had never been anything." *(the blind side, and two months of nobody walking it)*
   - "where chain lies when it is doing nothing" *(a deliberate echo of Ch. 40's *the shape chain makes when it is doing nothing* — the same arrangement seen from inside it the morning after; admitted so a third use is caught)*
   - "It went uphill. It went back the way they had come. It went away from the water." *(the price of the only ground that takes no track)*
+
+- **Ch. 42 — "The Question"** *(admitted at s67; the s64 close recorded them as admitted and did not add them)*
+  - "the body deciding to spend the whole animal to save part of it, and it is nearly always wrong" *(his mother, on a lamb; the red line)*
+  - "a grown one carrying a light one" *(the tracker reading three people off the ground)*
+  - "the flat true bottom of a man who has nothing left to give" *(what he heard, and stopped at)*
+  - "the only number he had that went up instead of down" *(the count, on the princess's strides)*
+
+- **Ch. 43 — "The Water"**
+  - "A father is a name, and a name has a house on the end of it, and a house is somewhere a letter goes." *(why the cover story has no name in it; Qeshet's lesson, in his own mouth)*
+  - "we came down the water, because water goes down to people" *(the last line of the story, and the only true part of it)*
+  - "the last thing in him that still ran without being asked" *(the fieldcraft, working while the rest of him stops)*
+  - "Every one of them tells me about somebody who is coming for them." *(the headman's tell for whether a child is real)*
+  - "You will find out in the spring." *(the healer refusing to guess at the hand; rule-carrying — the hand stays unresolved)*
+
+- **Ch. 44 — "The Doors"**
+  - "Silver, like a thing that has been made." *(the description that blows the story, and arms one man)*
+  - "It makes no difference to the mule." *(Damir, on whose road it has been; the conquered country's whole stance, unremarked)*

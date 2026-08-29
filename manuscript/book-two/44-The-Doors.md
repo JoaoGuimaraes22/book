@@ -34,9 +34,9 @@ He did it in the same voice he had used about the mules, which was how Kael knew
 
 The princess's mouth was about a hand from his ear.
 
-"What is he saying," she said, in the Koine, on almost no breath at all.
+"What is he saying," she said, on almost no breath at all.
 
-He could have given her nothing. He thought about giving her nothing for about a quarter of a second, and then did not, because she had asked, and because he had already worked out that she would rather have it.
+He could have given her nothing. He thought about giving her nothing for about a quarter of a second, and then did not.
 
 "He has described the three of us," he said. "He got you right. He said there is nobody in the world with hair that colour."
 
@@ -235,7 +235,3 @@ It went the whole length of the anvil and into the block under it and stopped wh
 He sat in a smith's forge in Doresh with two fingers on an anvil and let it run for longer than he needed to, and did not think about anything at all.
 
 The hammering had stopped. It had been the only sound in that fold for two nights and now it was gone, and the water came back up underneath where it had been, and the whole of the village was quiet, and Kael sat in the middle of it and did not count one single thing.
-
-It was the last thing he thought that night, and he thought it comfortably, as a man thinks about weather that has been on his side.
-
-Under a noise like that, nothing in this fold could have heard anything at all.
