@@ -54,8 +54,8 @@
 - **The two months east — SPENT: Ch. 40 "The Hands"** (sixty-two days of road; the count kept and the day never lost; the governor who does not leave the box; the watch divided; the princess coming apart; the camp on the sixty-second day, and Kael's left hand broken and skinned to get it out of the band). Where the road ends is on no page.
 - **WHAT FOLLOWS: THE DOOR OPENS.** Three children in a camp, one ruined hand, no Art, an empty band and eleven links, nine men and four mules — and a princess who may not have taken in one word of what she was told. Not yet written.
 
-### BOOK TWO'S SHAPE (author, s60) — TWO YEARS, THE TRIO, AND THE ROAD TO SOLVENNA
-**Broad only, by destination (author, s60): the specifics are uncovered at design time, chapter by chapter.**
+### BOOK TWO'S SHAPE (author, s61) — TWO YEARS, THE TRIO, AND THE ROAD TO SOLVENNA
+**Broad only, by destination (author, s61): the specifics are uncovered at design time, chapter by chapter.**
 - **The span:** roughly two years from the wake — Kael and Valeria 13→15, Aeliana 14→16. **Only the three of them are on the page**; Neris, Wren, Severin, Aurelian and Elarine stay off it until the end.
 - **THE DESTINATION IS ALREADY ON THE PAGE (Ch. 38).** *You do not go to the capital from here — you go to Solvenna, and from Solvenna to the capital. Five months to Solvenna in good weather … The empire begins there.* **SOLVENNA** is the southernmost city of the empire's original borders; **Qeshet is a city-state**, held through a native ruler. Kael carries the number out of that bed. **Both halves of the party are walking to the same place**, which is what makes the ending a promise rather than a coincidence.
 - **1 — THE DOOR, AND THE OPEN GROUND.** The escape and what it costs; three children loose with one ruined hand, no Art and no road. They find out where they were taken: **ISHARETH**, a border city between the empire and the coalition country beyond it (both unspent; the country unminted).
