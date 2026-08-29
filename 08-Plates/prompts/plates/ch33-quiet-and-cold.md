@@ -17,20 +17,27 @@ Age: thirteen. The eyes at the vertical midpoint of the head, the
 jaw softly defined and not sharp.
 
 He has stopped fighting the arm and something else has arrived
-instead. He is completely still.
+instead. He is completely still, and the stillness is a cold one and
+not a calm one.
 
-KAEL — the face level, the eyes open and steady on something a long
-way up the slope past the edge of the frame, the mouth closed, the
-jaw easy. Nothing in the face is straining and nothing in it has
-gone slack. His hand lies on the old man's forearm and is not
-gripping it.
+KAEL — the head turned up the slope and the chin down, so that he is
+looking out from under his own brows. The eyes wide open and fixed on
+one point a long way up past the edge of the frame, and the whole of
+his attention is on that one point. The brows low and straight. The
+jaw set hard with the muscle standing at the corner of it. The mouth
+closed and pressed thin. EVERYTHING IN THE FACE IS SET HARD AND NONE
+OF IT IS MOVING.
+
+He has been screaming and there is none of it left: the eyes red at
+the rims, the face wet with it, the skin under the eyes dark. His
+hand lies on the old man's forearm and is not gripping it.
 
 Dark hair, short and cut badly, wet at the temples. There is dried
 red and wet red across his jaw and down his throat, dark and gone
 brown in places, and none of it is his. There is wet down both
 cheeks, not wiped. Nothing on him is bleeding. Undyed coarse working
-wool at the collar, much mended, more red than cloth, and nothing
-else of it in frame.
+wool up to the throat, much mended and more red than cloth, covering
+the shoulders and the collarbones, and nothing else of it in frame.
 
 THE OLD MAN'S FOREARM is the only other thing in the picture: bare,
 pushed out of a heavy sleeve, an old man's arm and still thick
