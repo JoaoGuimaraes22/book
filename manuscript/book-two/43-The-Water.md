@@ -14,7 +14,7 @@ Kael stopped and put his shoulder against a rock and stayed there.
 
 "How far."
 
-He listened to it properly. Sound came up a fold like this the way it came up a stairwell, and it lied about distance, and it lied in a direction he knew.
+He listened to it properly. Sound came up a fold like this and lied about the distance, and it lied in a direction he knew.
 
 "Mile. Little more."
 
@@ -68,7 +68,7 @@ Kael turned it over. It was not bad. It explained three children and it explaine
 
 "Then we do not use it."
 
-She was silent for a moment. Then she said, "I see," and stopped talking, and did not sulk about it, and Kael filed that too, in the place where he was keeping the things he did not have room to look at.
+She was silent for a moment. Then she said, "I see," and stopped talking, and did not sulk about it, and Kael filed that.
 
 "There is a bigger problem than the story," he said.
 
@@ -226,7 +226,7 @@ Bread, and a grey stew with barley in it and a little goat, and a hard sour chee
 
 Nobody at that table looked at what anybody else was given.
 
-That was the thing he could not get round. He had spent his life pricing what people did, and he had never once had to price a gift, and the sum came out fine — the sum came out exactly, that was the trouble, he had it to the day — and there was nothing at the other end of it to put against the number.
+That was the thing he could not get round. He had spent his life pricing what people did, and he had never once had to price a gift. The sum came out. That was the trouble: it came out exactly, and he had it to the day, and there was nothing at the other end of it to put against the number.
 
 Miresh put a second piece of bread in front of him on the second night.
 
@@ -262,7 +262,7 @@ She was not looking at him. She was watching the track, and her face was doing w
 
 Kael opened his mouth and found that he did not have anything in it.
 
-He had a great many answers and every one of them was a mechanism. Because they hate the empire. Because they want something. Because the headman has calculated that we are worth more alive to somebody. Because they are frightened of what we would do if they refused. He turned each one over and each one was wrong, and he knew it was wrong the way he knew a bout was going wrong, before he could have said why.
+He had a great many answers and every one of them was a mechanism. Because they hate the empire. Because they want something. Because the headman has calculated that we are worth more alive to somebody. Because they are frightened of what we would do if they refused. He turned each one over and each one was wrong, and he could not have said why.
 
 "I don't know," he said.
 
@@ -316,7 +316,7 @@ Kael waited.
 
 "Two nights," Damir agreed.
 
-Kael had been listening to the shape of the fold since the first morning — the way the water noise sat in it, the way the dogs at the far end came through — and he already knew the answer to the next thing, and asked it anyway.
+Kael had been listening to the shape of the fold since the first morning, to how the water noise sat in it and how the dogs at the far end came through, and he already knew the answer to the next thing, and asked it anyway.
 
 "Everybody will hear it."
 
@@ -344,7 +344,7 @@ Damir's world was bigger. Damir's world was the road.
 
 "You would know it if you had been anywhere," Damir said, not unkindly. "It is the last of it. It is a city on the river and the empire holds it and past the river it does not, and everything that is going to cross goes across there, and everything that comes back comes back through there." He set the bowl down. "Half of what goes up this road is going to Isharéth. I have put shoes on it for twenty-two years."
 
-Kael said the name over twice inside his head and put it where he put things.
+Kael said the name over twice inside his head.
 
 Isharéth. Six or seven days east, on a river, and the last of it.
 
@@ -356,7 +356,7 @@ He did not know one useful thing about it and he had it, and having it was not n
 
 The princess was very good with the child.
 
-That surprised him for about a day and then stopped surprising him, because he had watched her ask to hold his brother on a boat and get the head wrong and correct it herself, and had watched her hold a newborn through a barrage without being asked to, and he had been filing that in the wrong drawer for a month.
+That surprised him for about a day and then stopped surprising him, because he had watched her ask to hold his brother on a boat and get the head wrong and correct it herself, and he had been filing it under the wrong thing for a month.
 
 Neshah had decided about her on the first afternoon and there had been no appeal.
 
@@ -402,11 +402,11 @@ Kael stood at the edge of the hole.
 
 His body would not do it.
 
-He had gone through the whole of it in his head on the walk across the room — the size of the space, the boards, the dark, the fact of somebody else putting a cover over him — and his head had said yes to all of it, and then he was standing at the edge and none of the rest of him was going anywhere at all. He was aware of the exact temperature of his own hands.
+He had gone through the whole of it in his head on the walk across the room: the size of the space, the boards, the dark, the fact of somebody else putting a cover over him. His head had said yes to all of it, and then he was standing at the edge and none of the rest of him was going anywhere at all. He was aware of the exact temperature of his own hands.
 
 He got down and went in.
 
-It took about four seconds and it was the worst four seconds of the six days, and nobody saw it, and he put it where he put things.
+It took about four seconds and it was the worst four seconds of the six days, and nobody saw it.
 
 The boards went down. Damir put something on top of them that scraped, and then there were feet, and then there was a very long time.
 
@@ -416,7 +416,7 @@ The horses came into the yard at a walk.
 
 Kael lay on his side with his cheek in the dirt and his bound arm along the length of him, and turned his good ear up, and listened.
 
-Ten horses at least. Boots, and a lot of them — so they had come off the horses in the yard, which meant they were not in a hurry and had done this before, in other yards, that morning or the day before.
+Ten horses at least. Boots, and a lot of them, so they had come off the horses in the yard, which meant they were not in a hurry and had done this before, in other yards, that morning or the day before.
 
 A voice. Not the coast in it and not the Kharoun in it. Ivrit off the flat somewhere, and the flat accent of a man who has been given a list.
 
@@ -460,19 +460,19 @@ They went house by house, which he knew because he could hear the boots on the t
 
 Forty houses.
 
-He lay in the dark and counted the doors, and the count was the only thing he was doing, and he did it the way he did everything, which was completely. He got thirty-eight, and he was three short at one end because of the water noise, and he corrected for it and let it stand at forty.
+He lay in the dark and counted the doors, and he did it the way he did everything, which was completely. He got thirty-eight, and he was three short at one end because of the water noise, and he corrected for it and let it stand at forty.
 
 Forty doors. Forty people who had been told what was in this fold, and what it was worth, and what would happen to their house.
 
 And not one of them opened their mouth.
 
-There was a place in his chest where the count went when it was finished, and it went there, and it did not do what it usually did.
+He had the number and there was nothing to do with it. He lay in the dark and held it.
 
 The boots came back up the track. The horses went out of the yard at a walk, and down, and the water took the sound of them, and then there was nothing but the water.
 
 Nobody came to lift the boards for a long time.
 
-When they came up at last it was Miresh, and she was white to the mouth, and she said, "Out. Out. Come out of there," in a voice that was nothing like the one she used, and she got hold of the princess and pulled her up out of the hole and held on to her for about four seconds with her chin on the top of the scarf, and then let go of her and turned away and was extremely busy at the fire.
+When they came up at last it was Miresh. She was white to the mouth. "Out. Out. Come out of there," she said, in a voice that was nothing like the one she used, and she got hold of the princess and pulled her up out of the hole and held on to her for about four seconds with her chin on the top of the scarf, and then let go and turned away and was extremely busy at the fire.
 
 ---
 
@@ -482,7 +482,7 @@ It was the noise a place makes when it has stopped being frightened and does not
 
 It went round them and got taken up and came back, high and too fast, the way it does, and there was another one under it, and then two more.
 
-Kael stood against the wall of the shed with his arm across his chest and his heart going and his back flat against the stone, and made himself stay there, and did not look at anybody's face, and waited it out.
+Kael stood against the wall of the shed with his arm across his chest and his back flat against the stone, and made himself stay there, and did not look at anybody's face.
 
 It took a little under a minute.
 
@@ -492,17 +492,17 @@ Neshah came out of the house at a run because everyone was in the yard and being
 
 The princess picked her up.
 
-She did it one-handed and badly because of the iron, and got her onto her hip and hitched her up, and Neshah put both hands on the scarf.
+She did it one-handed and badly because of the iron, and got her onto her hip. Neshah put both hands on the scarf.
 
 She had been pulling at it for six days. She pulled at it because it was on the head of the only person in that house who let her do whatever she wanted, and because it was blue, and because it moved.
 
 The princess laughed and took hold of the front of it with her bound hands to keep it, and Neshah got the back of it, and it came off.
 
-It came off all at once and went down over her shoulder and hung, and the whole of it came down after it, two months of it, unwashed, unbrushed and full of dust and dulled the way nothing in the world dulls it, and the sun came round the corner of the shed and got into it.
+It came off all at once, and the whole of it came down after it, two months of it, unwashed and grey with dust, and the sun came round the corner of the shed and got into it, and the dust made no difference whatsoever.
 
 It was about four seconds.
 
-The princess had it back over her head before Kael had finished turning round, and she did it fast and without any fuss and with the child still on her hip, and she said something quiet to Neshah in the empire's tongue, and Neshah laughed at her.
+The princess had it back over her head before Kael had finished turning round. She did it fast and without any fuss and with the child still on her hip, and she said something quiet to Neshah in the empire's tongue, and Neshah laughed at her.
 
 Kael's first thought was the right one, and he had it before he had finished moving.
 
@@ -568,9 +568,9 @@ His own went last, on the second night, and it was the shortest of the three, be
 
 Tarim was not in the forge that night.
 
-He had been there the whole of the first one, on the bellows and then not needed and then sitting against the door with his arms round his knees watching his father work, and tonight he was not, and Kael noticed it in the way he noticed everything, and thought that a man who has been up two nights running sends his son to bed.
+He had been there the whole of the first one, on the bellows and then not needed and then sitting against the door with his arms round his knees watching his father work, and tonight he was not, and Kael noticed, and thought that a man who has been up two nights running sends his son to bed.
 
-He held his arm on the horn and watched the chisel and did not look away, and counted the blows, because it was the only thing he had that still worked as it should.
+He held his arm on the horn and watched the chisel and did not look away, and counted the blows.
 
 At a hundred and eleven the peen came off. Damir put the drift on the pin and hit it four times and the pin went out onto the block, and he opened the band with the bar, and the iron came off Kael's arm and he put it down on the block with the other five.
 
@@ -604,4 +604,6 @@ He sat in a smith's forge in Doresh with two fingers on an anvil and let it run 
 
 The hammering had stopped. It had been the only sound in that fold for two nights and now it was gone, and the water came back up underneath where it had been, and the whole of the village was quiet, and Kael sat in the middle of it and did not count one single thing.
 
-Under a noise like that, he thought — and it was the last thing he thought, and he thought it comfortably, as a man does about weather that has been on his side — under a noise like that, nothing in this fold could have heard anything at all.
+It was the last thing he thought that night, and he thought it comfortably, as a man thinks about weather that has been on his side.
+
+Under a noise like that, nothing in this fold could have heard anything at all.
