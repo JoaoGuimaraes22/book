@@ -1,10 +1,10 @@
 # Prompt System
 
-Tool: ChatGPT image generation. Describe what you want; a negation earns its place only when something in the picture pulls toward the thing banned. Paste `canon-brief.md` at the top of the conversation first.
+Tool: ChatGPT image generation. **One conversation per block, with `canon-brief.md` pasted at the top of each** — the conversation is the prompt, and a block run in an earlier block's conversation inherits that picture's setting (`ch33/behind-me`, run 1 against run 2). Describe what you want; a negation earns its place only when something in the picture pulls toward the thing banned.
 
 Two recipes. A **portrait** is generated unanchored — no reference attached — so the prompt carries the medium. A **scene or plate** is generated with reference images attached, so the references carry the medium, the faces and the apparent age, and the prompt carries everything else.
 
-**Nothing here is a finished prompt.** The fenced blocks below are the SHARED COMPONENTS — the ones used many times over — and a prompt is assembled from them by hand into its own file under `prompts/` (author, s58). Every finding, run record and revision that produced these rules is in `archive/findings.md`, verbatim, under its original heading.
+**Nothing here is a finished prompt.** The fenced blocks are the SHARED COMPONENTS, and a prompt is assembled from them by hand into its own file under `prompts/` (author, s58). The evidence behind every rule is in `archive/`: `findings.md` for the folder before s47, `prompt-system-s66.md` and `readme-s66.md` for s47–s65, and each plate's run record under its CHOSEN entry in `prompts/plate-candidates/`.
 
 ---
 
@@ -37,11 +37,9 @@ Lighting: soft directional light, gentle shadow beneath the
 cheekbone and along the jaw, most of the face held in light values.
 ```
 
-## AGE block — one per character
+## AGE — the rungs
 
-The eye line is the age instrument, and the only one that works on its own: eyes **below** the vertical midpoint of the head is a child, **at** it an adolescent, **above** it an adult — and it is a dial, not three stops (Kael at nine sits *just below*). Age words in the SUBJECT block alone are ignored.
-
-For a grown face, name the quality you want and the adjacent one that reads as decline, and forbid the decline by its markers: *weather, not age* (Vask); *lean, not wasted* (Severin); *fully grown, and nothing has been taken out of her — not girlish, not unformed* (Neris). One negation cannot hold a line against a stack of positives pointing the other way.
+The eye line is the age instrument: eyes **below** the vertical midpoint of the head is a child, **at** it an adolescent, **above** it an adult — a dial, not three stops (Kael at nine sits *just below*). Age words in the SUBJECT block alone are ignored. Two levers besides the eye line. For a grown face, name the quality wanted and the adjacent one that reads as decline, and forbid the decline by its markers — *weather, not age* (Vask); *lean, not wasted* (Severin); *fully grown, and nothing has been taken out of her* (Neris) — because one negation cannot hold a line against a stack of positives pointing the other way. And a stack of softness positives pulls an age **down**, about two years (`oss-14` read twelve off a rung that said fourteen): name the age once and let a softness clause or two go.
 
 #### Child — Kael at four
 
@@ -100,7 +98,7 @@ frame; nothing about her has caught up with her yet except the
 eyes.
 ```
 
-Noted s45: this block says *fifteen* and sets the eyes at the midpoint, the file it cut is named `-14`, and `03` has her at ~13. Both plates anchored on it drifted to mid-teens. Not re-cut.
+This block says *fifteen* and sets the eyes at the midpoint; the file it cut is named `-14` and `03` has her at ~13. Both plates anchored on it drifted to mid-teens. Not re-cut.
 
 #### Vask — grown and worn down
 
@@ -186,93 +184,32 @@ OR darkest value].
 [Garment, with its colours.]
 ```
 
-**How the eyes win — one axis each, and check it against the hair first.** Saturation: Valeria's green, Aeliana's blue, Aurelian's amber — and amber needs the skin around the eye kept cool and the cheeks quieter than it, or the warm face eats it. Lightest value: Kael's grey. Local contrast: Neris, Vask — two clauses, demote the hair to *fine ink strands and open transparent washes with bare paper left through the mass, no hard-edged black anywhere in it*, then *the sharpest step from light to dark in the whole picture happens inside the eye itself, at the edge of the iris*. Finish: Elarine — the only fully resolved thing in a loose picture. A dark eye cannot win on darkest value against dark hair unless the hair is demoted.
+**The eyes win on one axis each — check it against the hair first.** Saturation: Valeria's green, Aeliana's blue, Aurelian's amber (amber needs the skin around the eye kept cool and the cheeks quieter than it, or the warm face eats it). Lightest value: Kael's grey. Local contrast: Neris, Vask — two clauses: demote the hair to *fine ink strands and open transparent washes with bare paper left through the mass, no hard-edged black anywhere in it*, then *the sharpest step from light to dark in the whole picture happens inside the eye itself, at the edge of the iris*. Finish: Elarine — the only fully resolved thing in a loose picture. A dark eye cannot win on darkest value against dark hair unless the hair is demoted.
 
 **Hair: name what it competes with, then push the other way.** Dark hair against a dark eye → demote it. Light hair on pale ground → define it (*defined ink strands and clear drawn edges against the pale ground, never dissolving into the paper*). A grey head: tell the brows not to match, or the tool harmonises them. A beard covers the mouth: move the expression to the eyes and brows.
 
-**Ground is per character:** cool pale parchment for everyone but Aeliana, whose silver needs warm aged parchment to sit against. **Complexion encodes station:** Kael weathered → Valeria mid → Aurelian clear with sun on it → Elarine pale indoor → Aeliana pale untouched; the parents extend the scale off its top. The scale runs on weathering and value, never on speckle.
+**Ground is per character:** cool pale parchment for everyone but Aeliana, whose silver needs warm aged parchment to sit against. **Complexion encodes station:** Kael weathered → Valeria mid → Aurelian clear with sun on it → Elarine pale indoor → Aeliana pale untouched; the parents extend the scale off its top. The scale runs on weathering and value, never on speckle — the medium speckles every face, and it cannot be prompted away.
 
-**Ban the shape, count the thing.** Several negations aimed at one feature remove the feature — *no freckles* did nothing, and five bans on white in the hair removed Vask's grey. One ban on the bad form plus a positive quantity of the good one: *one strand in six, scattered, never gathered*. Attack the archetype the tool is reaching for (*not a wizard, not a sage*) as well as the affect. *Plain* and *not handsome* do not render; dirt, weather and a hacked crop do. Two edit passes at most — each softens the granulation and warms the palette. The medium speckles every face: texture, not freckles, and it cannot be prompted away.
+**Ban the shape, count the thing.** Several negations aimed at one feature remove the feature — *no freckles* did nothing, and five bans on white in the hair removed Vask's grey. One ban on the bad form plus a positive quantity of the good one: *one strand in six, scattered, never gathered*. Attack the archetype the tool is reaching for (*not a wizard, not a sage*) as well as the affect. *Plain* and *not handsome* do not render; dirt, weather and a hacked crop do. Two edit passes at most — each softens the granulation and warms the palette.
 
 ---
 
-# The characters — SUBJECT blocks
+# The references — what each one is
 
-**The prompts themselves are one file each under `prompts/portraits/`, hand-authored and the source** (author, s58) — the same ruling that put plate prompts in their own files. What is below is what each one IS: the reference it cut, its AGE rung, whether the HAIR line is in it, and what is known about the run. Each is the block that cut the adopted reference — or, for the s33 set, an assembly of the current system that will not reproduce it (`prompts/README.md`).
+**Every prompt is one file under `prompts/portraits/`, hand-authored and the source** (author, s58); `prompts/README.md` says which of them reproduces the picture it cut. Per reference: its rung, whether the HAIR line is in it, and the one thing to know before anchoring on it.
 
-### Kael at fourteen
-
-`images/portraits/kael-14.png` · adolescent · HAIR.
-
-**The prompt is `prompts/portraits/kael-14.md`**, which is the source and holds it as run.
-
-### Kael at four
-
-`images/portraits/kael-4.png` · child · HAIR. The one Kael whose face is not doing the coat; the block forbids the system's own default by name, or an unattended run inherits it.
-
-**The prompt is `prompts/portraits/kael-4.md`**, which is the source and holds it as run.
-
-### Kael at nine
-
-`images/portraits/kael-9.png` · nine · HAIR. Author-revised before the run. *The ink carries the cloth* is the finish counterweight for anything wearing worked cloth. Ran with a village behind him against the block's empty ground; adopted as it stands. Covers Ch. 3–7.
-
-**The prompt is `prompts/portraits/kael-9.md`**, which is the source and holds it as run.
-
-### Valeria
-
-`images/portraits/valeria-14.png` · adolescent · HAIR.
-
-**The prompt is `prompts/portraits/valeria-14.md`**, which is the source and holds it as run.
-
-### Aeliana
-
-`images/portraits/aeliana-15.png` · adolescent · HAIR. The adopted image carries a pauldron the block forbids; flagged, not regenerated.
-
-**The prompt is `prompts/portraits/aeliana-15.md`**, which is the source and holds it as run.
-
-### Aurelian
-
-`images/portraits/aurelian-14.png` · Aurelian · no HAIR. *Riding and hunting* is a rendering steer that bought the well-fed colouring; it is not canon and stays in this block. The reference was cut with no insignia, badge, house colour or chain on him — the quality of the cloth carrying the station. That is what the picture has, not a fact about him: `03` gives him none of it either way (moved from `canon-brief.md`, s59).
-
-**The prompt is `prompts/portraits/aurelian-14.md`**, which is the source and holds it as run.
-
-### Elarine
-
-`images/portraits/elarine-14.png` · Elarine · no HAIR. The darkest-value clause could not beat her own hair and the eyes won on finish; if she is ever re-cut, demote the hair (§SUBJECT template). The binding is her silhouette — *scholar* where Valeria reads *uniform* — and the one run that let it come loose returned Valeria's silhouette on her (§Damage); what that costs is known, and whether a picture spends it is the picture's (moved from `canon-brief.md`, s59).
-
-**The prompt is `prompts/portraits/elarine-14.md`**, which is the source and holds it as run.
-
-### Oss
-
-`images/portraits/oss-14.png` · a bespoke soft rung · no HAIR. **Cut at s64 on the author's word** (*we should actually choose a design for oss instead of having him be just a faceless thing*), to take `ch27/oss` off the no-resolved-face escape. `03/oss.md` gives the build, the bearing and the expression — *soft-built, round-faced, quick-eyed*, *everything he wears slightly too new*, *a face built for laughing that watches carefully between laughs* — and gives no colouring, so **the mid-brown hair, the mid-brown eyes and the bought dye are the block's proposal and not canon**; if the reference is adopted they belong in `03` before they belong here. The eyes win on local contrast, as Neris's and Vask's do, but **without their demotion clause**: his hair is a soft mid-brown rather than a dark mass, so there is nothing to demote. The cloth is the second subject and it is the character — new, pressed, dyed a colour that had to be paid for, against Kael's undyed and mended wool three feet away.
-
-**The prompt is `prompts/portraits/oss-14.md`**, which is the source and holds it as run. **Adopted first run, s64** (author: *its good*), 1145×1374. What landed: the expression the whole design turns on — the mouth still open on the shape of having just laughed and the eyes not laughing at all, wide and steady and watching · the eyes as the darkest and most finished thing with the sharpest step inside the iris, and the hair kept light enough not to compete · the round face, the soft jaw and the sloping shoulders · and the cloth exactly as specified, dyed madder red-brown, pressed, unworn, with one small bright button at the collar. **The colouring is now `03/oss.md`'s and `canon-brief.md`'s** (author, s64).
-
-**AND IT CAME BACK YOUNGER THAN THE AGE NAMED, WHICH IS THE FIRST TIME ANYTHING HAS PULLED AN AGE DOWN.** The rung said fourteen and stacked softness behind it — *nothing has hardened, jaw soft and barely defined, cheeks full with no hollow, chin small and soft, neck short and soft, no bone showing anywhere* — and the picture reads about twelve. Every other drift in the folder runs the other way, older than written. **So a stack of softness positives is an age lever downward, worth about two years**, and the note for the next block is to name the age once and let one or two of the softness clauses go. Not a correction owed: he is the youngest-reading face in the set and that suits him.
-
-### Vask
-
-`images/portraits/vask.png` · Vask · HAIR. The adopted image shows no grey and reads younger than `03`'s *used tools*; both ruled acceptable (s34, s43) and `03` does not move. The block is the corrected one; its grey instruction has failed twice and the cause is not settled — do not run the same fix a third time.
-
-**The prompt is `prompts/portraits/vask.md`**, which is the source and holds it as run.
-
-### Neris
-
-`images/portraits/neris.png` · Neris · HAIR. Reads early thirties and striking; ruled good (s44). Her hands are where the book keeps her — any full figure or scene puts them in frame and occupied.
-
-**The prompt is `prompts/portraits/neris.md`**, which is the source and holds it as run.
-
-### Neris — marked
-
-`images/portraits/neris-marked.png` · Neris · HAIR. The re-cut for the three quartz-white marks, which `neris.png` predates; **a plate uses the reference valid at its chapter**, so this one from Ch. 36 on and `neris.png` before it. Built as `neris.md` plus one inserted paragraph with nothing else moved, so the two read as one casting. **It came back about a decade older than `neris.png` and the author ruled that wanted** (s60: *i like it reading a bit older. she has taken a big toll*) — the AGE paragraph asked for a flat unhollowed cheek and no lines and did not get them, and **the white in the hair is itself a stack of positives pointing at age** (§AGE), which nothing in the block told it was a mark instead. Two findings on the marks, neither a correction owed: they took the sharpest step from light to dark in the picture where the block sent it to the eye, so anything anchored here inherits loud white; and they came back **evenly spaced and equal in width**, where the page has two arriving together and the third later and apart — the block said *separate from each other* and should have said the two sit near each other.
-
-**The prompt is `prompts/portraits/neris-marked.md`**, which is the source and holds it as run.
-
-### Severin
-
-`images/portraits/severin.png` · Severin · HAIR · half-figure composition. Author-revised: the build moved out of the AGE block into the SUBJECT; the brows told not to match; the light hair defined against the pale ground; the expression moved to the eyes because the beard has the mouth.
-
-**The prompt is `prompts/portraits/severin.md`**, which is the source and holds it as run.
+- **`kael-14`** · adolescent · HAIR. The anchor for every plate of him.
+- **`kael-4`** · child · HAIR. The one Kael whose face is not doing the coat; the block forbids the system's default by name, or a run inherits it.
+- **`kael-9`** · nine · HAIR. Author-revised; *the ink carries the cloth* is the finish counterweight for worked cloth. Covers Ch. 3–7.
+- **`valeria-14`** · adolescent · HAIR.
+- **`aeliana-15`** · adolescent · HAIR. Carries a pauldron the block forbids; not regenerated.
+- **`aurelian-14`** · Aurelian · no HAIR. *Riding and hunting* is a rendering steer, not canon. Cut with no insignia, badge, house colour or chain, the cloth carrying the station — a fact about the picture; `03` gives him none either way.
+- **`elarine-14`** · Elarine · no HAIR. The eyes won on finish, not on darkest value against her own hair — if re-cut, demote the hair. Her binding is her silhouette (*scholar* where Valeria reads *uniform*); let loose, it returned Valeria's.
+- **`oss-14`** · a bespoke soft rung · no HAIR. Cut at s64 (author: *we should actually choose a design for oss instead of having him be just a faceless thing*); the colouring the block proposed is now `03/oss.md`'s (author, s64). The cloth is the second subject — new, pressed, dyed a colour that had to be paid for. Reads about twelve off a rung that said fourteen (§AGE), and that suits him.
+- **`vask`** · Vask · HAIR. No grey, and younger than `03`'s *used tools*; ruled acceptable (s34, s43). The grey instruction has failed twice with the cause unsettled — not a third time.
+- **`neris`** · Neris · HAIR. Early thirties; ruled good (s44). Her hands are where the book keeps her: any full figure or scene puts them in frame and occupied.
+- **`neris-marked`** · Neris · HAIR. `neris.md` plus one paragraph for the three quartz-white marks, so the two read as one casting; valid from Ch. 36, `neris` before it. About a decade older, and wanted (author, s60). Anything anchored here inherits loud white — the marks took the sharpest light-to-dark step — and they came back evenly spaced where the page has two together and the third apart: say so.
+- **`severin`** · Severin · HAIR · half figure. Author-revised: the build in the SUBJECT, the brows told not to match, the light hair defined against the pale ground, the expression in the eyes because the beard has the mouth.
 
 ---
 
@@ -314,35 +251,23 @@ shown in the reference image. Extend to a full standing figure; the
 reference shows head and shoulders only.
 ```
 
-### Kael — full figure
-
-`images/full-figures/kael-14-full.png`. Village register. The sheet carries no weapons; page canon has two short blades across his back in a cloth wrap — write the wrap into a scene by hand when the moment carries it. The sheet's clothing — *plain dark clothing, well-made and well-maintained, chosen to go unnoticed* — disagrees with `03`: he is not dressed to conceal, and a plate dresses him in whatever his chapter has him in (moved from `canon-brief.md`, s59).
-
-**The prompt is `prompts/full-figures/kael-14-full.md`**, which is the source and holds it as run.
-
-### Valeria — full figure
-
-`images/full-figures/valeria-14-full.png`. The matched pair is load-bearing; the collar insignia is canon-by-precedent.
-
-**The prompt is `prompts/full-figures/valeria-14-full.md`**, which is the source and holds it as run.
-
-### Aeliana — full figure
-
-`images/full-figures/aeliana-15-full.png`. Hair loose here by default; a Ch. 22 plate puts it up.
-
-**The prompt is `prompts/full-figures/aeliana-15-full.md`**, which is the source and holds it as run.
+- **`kael-14-full`** — village register. Carries no weapons; page canon has two short blades across his back in a cloth wrap — write the wrap into a scene by hand when the moment carries it. Its *plain dark clothing, well-made and well-maintained, chosen to go unnoticed* disagrees with `03`: he is not dressed to conceal, and a plate dresses him in whatever his chapter has him in.
+- **`valeria-14-full`** — the matched pair is load-bearing; the collar insignia is canon-by-precedent.
+- **`aeliana-15-full`** — hair loose by default; a Ch. 22 plate puts it up.
 
 ---
 
 # Scenes and plates
 
-References attached: the full-figure sheet where one exists — it carries build and costume, a portrait carries only the face, and everything below a portrait's collar is then authored in the prompt and will not repeat in the next picture. A plate may attach both of one person. The `Image N:` lines name the file to attach.
+**References attached:** the full-figure sheet where one exists and the body is in frame — it carries build and costume, where a portrait carries only the face and everything below its collar is then authored in the prompt and will not repeat in the next picture. A close crop attaches the portrait. A plate may attach both of one person; the `Image N:` lines name the files.
 
-**The reference carries** the face, bone, eye and hair colour, skin, apparent age, the medium — and the expression. In a close crop the reference's mood beats the prompt: move the eyes onto an object or change the pose before writing an override, and if that fails cut a second reference. **The prompt must carry** posture, each hand, everything below the collar, the framing, the light where it is not soft side daylight, the hues on the objects that have them, and all clothing when more than one figure is present — costume bleeds between dark garments; identity does not.
+**The reference carries** the face, bone, eye and hair colour, skin, apparent age, the medium — and the expression: in a close crop the reference's mood beats the prompt, so move the eyes onto an object or change the pose before writing an override, and if that fails cut a second reference. **The prompt carries** posture, each hand, everything below the collar, the framing, the light where it is not soft side daylight, the hues on the objects that have them, and all clothing when more than one figure is present — costume bleeds between dark garments; identity does not.
+
+A plate is a moment, not a person, and THE PLATE FOLLOWS THE PAGE binds it (`README.md`): it writes its own composition and light every time, and it says who is not in the frame.
 
 ## Scene style line
 
-The header for anything with a reference attached. Every plate prompt carries it under its `Image` lines; a plate with no reference gets the STYLE block's Medium paragraph in its place.
+The header for anything with a reference attached, once, under the `Image` lines (*image* for one reference, *images* for more). A plate with no reference gets the STYLE block's Medium paragraph in its place. The check: `grep -c '^Same medium and style' prompts/plates/*.md` — every count 1, and 0 only where no reference is attached.
 
 ```
 Same medium and style as the reference images: loose watercolour and
@@ -352,24 +277,27 @@ bare paper in the lights.
 
 ## Plate template
 
-The scene-test register (author ruling, s47: the scene tests are the folder's best pictures). Start here and add an instrument from the list below only when this picture needs it.
+The scene-test register (author, s47: the scene tests are the folder's best pictures) — one implied wall, soft daylight from one side, faces near and engaged with each other, colour named on the objects that have it. Start here and add an instrument from the list below only when this picture needs it. The specimens: `scene-tests.md` §`talk-kael-valeria` for two figures and §`quartet-conversation` for four; `prompts/plates/ch33-behind-me.md` for a close-up.
 
 ```
 Image 1: <file>.png — <full-figure|portrait> reference of <who>.
 
-Same medium and style as the reference images: loose watercolour and
+Same medium and style as the reference image: loose watercolour and
 ink on rough cold-press paper, scratchy ink linework, wash blooms,
 bare paper in the lights.
+
+Composition: 3:4. <The crop, in the plainest term that names it —
+chest-up, one figure | a close-up of her face, head and shoulders
+only, the head large in the frame>. <Who is where, facing which way,
+at what depth.>
 
 Setting: <place> as loose wash suggestion — a wall implied behind
 them, the background falling into shadow. Soft daylight from one side.
 
-Composition: <tall upright frame, taller than it is wide | wide frame,
-wider than it is tall>. <Where the bottom edge cuts the body, and what
-that puts out of frame>. <Who is where, facing which way, at what depth.>
+<Age: <N>. The eyes at the vertical midpoint of the head, the jaw
+softly defined and not sharp. — only where this face has drifted.>
 
-<The moment, in one paragraph — or that nothing is happening, where
-the subject implies violence.>
+<The moment, in one paragraph — the state it leaves, not the action.>
 
 <NAME> <pose>. <Expression, pointed at the mouth and the brows.>
 <Costume by construction, hues named — deep umber and warm charcoal,
@@ -378,20 +306,20 @@ ink-black and dark olive.>
 <Where each pair of eyes goes. If they meet, the eye contact is the
 subject of the image.>
 
-Preserve each exactly as shown in their reference image — faces,
-hair, colouring, apparent age. Do not blend their features. Do not
-mix their clothing: <the X belongs only to A, the Y only to B>.
+<Lighting: — only where it is not soft side daylight: where the
+source is, that it is the only one, what it leaves dark.>
+
+Preserve <his|her|each> face, hair, colouring and apparent age
+exactly as shown in the reference image. <Two figures: Do not blend
+their features. Do not mix their clothing: the X belongs only to A,
+the Y only to B.>
 ```
-
-**A plate prompt carries the scene style line exactly once, under its `Image` lines** — it was emitted twice on both `ch26/the-fan` prompts when the build still prepended it (s51; nothing in the pictures depended on it). To check the whole folder: `grep -c '^Same medium and style' 08-Plates/prompts/plates/*.md` — every count should be 1, and 0 only where no reference is attached.
-
-The specimens are on `scene-tests.md`: `talk-kael-valeria` is the two-figure version of this and `quartet-conversation` the four.
 
 ## Instruments — one when the picture needs it, none by habit
 
-**The frame.** **NAMED AS A RATIO, FIRST IN THE COMPOSITION LINE** (author, s60): the tool takes an explicit aspect token and there are five — **1:1 · 3:4 · 9:16 · 4:3 · 16:9** (the author's interface is Portuguese and calls them *quadrado · retrato · story · paisagem · ecrã panorâmico*; the numbers are the portable part). **The s59 shape clause is retired** — *tall upright frame, taller than it is wide* cannot change a pixel the ratio has already set, and every clause must be able to change one. Do not write the bare words *portrait* or *landscape* alone, which name other things in this folder; write the ratio. The evidence: `ch38/nobody-say-it` ran twice, once on the shape clause and once on a ratio, and the adopted picture is exactly 3:4. The tool has three canvases and picks one from the content when nothing names it, and a tall canvas under *the bottom edge at the waist* has height to fill and fills it with body. Counted at s59: none of the ninety plate prompts named the frame, 64 of the 79 adopted plates came back tall, and the loose crop stood at twelve recorded instances with no correction ever tried against it. This is the first, and the next run under it is the test. **AND THE RATIO IS A PAGE-SIZE DECISION AND NOT ONLY A COMPOSITION ONE** (author, s63: *those are not so big on a page … 3:4 or 9:16 is more page filling*). `scripts/build-docx.py` fits every plate inside its `PLATE_MAX_W, PLATE_MAX_H` on a 6×9 trim, width first, so the ratio decides how much page the picture gets: **3:4 fills it, at 4.6 × 6.1in against a 4.6 × 7.5in text block**; 1:1 gives 4.6 × 4.6; **4:3 gives 4.6 × 3.5 and 16:9 gives 4.6 × 2.6, a third of the block.** **And 9:16 is a trap** — it meets the height cap first and comes back 3.5in wide, narrower than the text column and smaller on the page than 3:4. **So 3:4 is the default and a wide frame is spent where the picture is actually wide** (author: *sometimes its fine*), never by habit. Counted at s63: six of that session's first eight blocks were written 4:3, which is the drift this ruling exists against. The adopted pictures stand as drawn and no retroactive pass is owed.
+**The frame.** Named as one of the tool's five ratios, first in the Composition line — **1:1 · 3:4 · 9:16 · 4:3 · 16:9** (author, s60; the author's interface is Portuguese and calls them *quadrado · retrato · story · paisagem · ecrã panorâmico*). Not a shape in prose — *tall upright frame, taller than it is wide* cannot change a pixel the ratio has already set — and not the bare words *portrait* or *landscape*, which name other things in this folder. **3:4 is the default** (author, s63: *those are not so big on a page … 3:4 or 9:16 is more page filling*): `scripts/build-docx.py` fits every plate width-first inside its cap on a 6×9 trim, so 3:4 fills the page at 4.6 × 6.1in against a 4.6 × 7.5in text block, 1:1 gives 4.6 × 4.6, 4:3 gives 4.6 × 3.5, 16:9 a third of the block, and 9:16 meets the height cap first and comes back narrower than the text column. A wide frame is spent where the picture is actually wide (author: *sometimes its fine*), never by habit.
 
-**The cut.** Name it as a landmark on the body and say what it puts out of frame — *the bottom edge of the picture crosses both boys just below the collarbone, so that no arms, no hands and no legs are in the frame at all.* *Chest-up* and *waist-up* both came back wider. **THAT LINE IS WRONG AND THE FOLDER'S OWN PLATES SAY SO** (author, s65: *can't you just say "chest up" or something*). `ch23/the-horizon` opens its composition line *chest-up, one figure* and came back as the tightest crop in the folder; `ch11/the-fan-in-the-rain` and `ch18/caught-it-halfway` open the same way and hold. Against that, every crop written in the long form — camera position, then subject placement, then *the bottom edge crosses X at Y so that no A, no B and no C are in the frame* — has come back wider, **eight times in eight at s65**. **The variable is not the exclusion list and it is not the ratio: it is where the crop sits in the paragraph and how many words are on it.** Put the crop in the first words of the Composition line, in the plainest term that names it, and stop there. A long composition paragraph buries it, and what is buried is what the tool decides for itself. **CONFIRMED ON THE NEXT RUN** (`ch33/behind-me`, s65): nine words on the crop, first in the paragraph — *A close-up of her face. Head and shoulders only, the head large in the frame* — and it returned exactly that, immediately after eight failures of the long form, with the same tool, character and reference and nothing else changed. **AND THE SECOND HALF IS THE HALF THAT DOES THE WORK** (s63, six runs in one session): five blocks named the landmark and said nothing about what it excludes — `ch12`, `ch13`, `ch15`, `ch17`, `ch18` — and every one came back wider than written; `ch19/the-knife-hilt-first` added *so that no laps, no knees, no chairs and no floor are in the frame at all* and held first time. One variable, five to one. **AND THAT COUNT WAS READ TOO STRONGLY — THE EXCLUSION LIST HAS ONE CASE FOR IT AND NOW THREE AGAINST** (s65, three runs in one session). The five were blocks with NO exclusion list, so the instrument itself only ever rested on `ch19/the-knife-hilt-first`. Against it now: `ch31/the-eight-breaths` (waist named, four exclusions listed, came back at the hip), `ch32/the-half-step` (waist, three exclusions, came back at mid-thigh) and `ch32/out-of-the-door` (knee, came back a full figure with the feet on the ground) — all three with the ratio also named, which the frame instrument had made look like the other half of the fix. **All three widenings were improvements**, and the third is the one that explains the other two: a stride needs a floor to be taken across, and the shadows thrown ahead of those two figures exist only because the ground is in frame. **So the tool's read of how much body a movement needs is better than the landmark, and the thing to stop trusting is the tight-cut wording, not the tool.** Where a picture genuinely needs the frame closed — a hand-and-object crop, a face at scale, a body deliberately hidden — that still has to be bought some other way, and nothing in the folder has yet bought it. A cropped figure needs a floor, or it hangs on bare paper:
+**The cut.** First words of the Composition line, plainest term, stop (author, s65: *can't you just say "chest up" or something*): *chest-up, one figure* (`ch23/the-horizon`, the tightest crop in the folder); *A close-up of her face. Head and shoulders only, the head large in the frame* (`ch33/behind-me`, first run). The long form — camera, placement, then *the bottom edge crosses X so that no A, no B and no C are in the frame* — came back wider every time: what is buried in a long composition paragraph, the tool decides for itself. A body in movement widens past any landmark — a stride needs a floor — and the widening has been the better picture each time; trust the tool's read of how much body a movement needs. A frame held closed on a moving body has not yet been bought by any wording. A cropped figure needs a floor, or it hangs on bare paper:
 
 ```
 Setting: a stone hall as loose wash suggestion — a broad flagstone
@@ -425,19 +353,25 @@ Short limbs, a round torso, no waist, no length in him anywhere.
 The goat's shoulder is at about the child's chest.
 ```
 
-The two terms must sit where the frame can compare them. In a face-filling crop under the fourteen-year-old anchor no ratio has yet pulled an age down: the anchor is the lever, and the eye-line rung is cheap and may stay. **IT IS NOT CHEAP IN EVERY BLOCK** (s60, `prompts/plate-candidates/ch39.md`): carried into a picture whose subject was iron on a boy's wrists, the rung put four minor-markers — *Age* · *jaw softly defined but not sharp* · *some remaining fullness in the cheeks* · *Adolescent, not grown* — in one paragraph beside a restraint, and it was refused before any image was made. The reference carries apparent age (§Scenes and plates); the rung's job is to correct drift, so it earns its place where age has drifted and not by default.
+The two terms must sit where the frame can compare them.
 
-**Nouns.** A concrete noun arrives with its default, and the default beats every adjective hung on it — *dagger* returned a longsword, *coat* a frock coat, *candle* a wick flame, *standing stone* a menhir. When you want something other than the default, describe the construction — what it is made of, how it closes, how long it falls — with the defining feature first and measured, then kill the default by name. Banning a noun's features leaves nothing: describe what is there. The test: could a costumier from three centuries all draw it from the words?
+**Age in a plate.** The reference carries apparent age and the fourteen-year-old anchor is the lever; no ratio has pulled an age down in a face-filling crop. Where a face has drifted older — the adolescents do, on nearly every plate — the rung goes in as its age line and two eye-line clauses, *Age: thirteen. The eyes at the vertical midpoint of the head, the jaw softly defined and not sharp*, which brought `ch35/the-spotter` back to fourteen (author). It is not free beside a hard subject: four minor-markers in one paragraph next to iron on a boy's wrists were refused before any image was made (`ch39`), so beside restraint or harm let the reference carry the age.
 
-**The winner and the rival.** Where a small thing must win the picture, hold the rival at quiet middle values with no hard edges, then site the sharpest step from light to dark on the winner — two channels, edge and finish, so both clauses. It needs a rival to demote and a dark for it to recede into; in flat daylight the instrument is the crop. Below a hand's size in frame nothing carries finish, and the fix is again the crop. Read the framing, pose and costume back and check the tell is actually visible in the picture described. **THE SPECIMEN IS `archive/plate-sheets.md` §ch28's `the-hand-back` block** (author, s53): the winner is given a ratio to a body part — *the open hand is wider in the frame than his head* — and **the rival demoted is the face**, by name, on both channels at once — *his face and the whole of the rest of him are held at quiet middle values with soft wash-bled edges and no hard-edged dark anywhere; the sharpest step from light to dark in the picture happens at the edge of the red on the hand.* A face can be fully drawn and still be demoted; naming it as the thing to hold down is what makes an inch of subject win. **AND THE HARDEST VERSION YET RUN IS THE AUTHOR'S OWN, ON `ch33/standing-on-his-feet`** (s65): the winner is given the finish *alone* — *her face carries the only finished drawing in the picture* — and the rival is demoted by forbidding the channel outright rather than quieting it — *the man apart from the point where the blade enters him, the doorway, the pens and the yard have no hard edge anywhere in them, soft and wash-bled throughout.* It returned a faceless man who is the largest mass in the frame and still loses it, with two hard things in the whole picture: her face and four inches of steel.
+**Nouns.** A concrete noun arrives with its default, and the default beats every adjective hung on it — *dagger* returned a longsword, *coat* a frock coat, *candle* a wick flame, *standing stone* a menhir. For anything other than the default, describe the construction — what it is made of, how it closes, how long it falls — with the defining feature first and measured, then kill the default by name. Banning a noun's features leaves nothing: describe what is there. The test: could a costumier from three centuries all draw it from the words?
 
-**Light.** Soft side daylight is the default and needs no clause. A named source: say where it is, that it is the only one, what it leaves dark, and where the warmth lands. A warm source lights a face only when it is close — a candle on the bench does, a town at the foot of a mountain does not; where the source is far, the figure is lit by ambient sky and the source is the one warm thing. A low or high camera is written on two channels: in the picture-maker's own words — *low-angle view, the camera at the height of his knee, looking up* — and as the surfaces it exposes — *the underside of the jaw is visible; the horizon sits level with his knees*. The exposure clause on its own carried a kneeling subject (`ch37/the-old-man-on-his-knees`) and did not carry a standing one: `ch37/the-water-at-the-gate` wrote the height as exposure only, under this paragraph's old rule that the camera is never named as where the viewer stands, and came back at eye level. The camera words are the caption vocabulary the tool has read more often than any other description of an angle, and they are not banned (author, s59). For real depth, say where the viewer is first, stack the frame bottom to top, and pin it with a ratio.
+**The winner and the rival.** Where a small thing must win the picture, hold the rival at quiet middle values with no hard edges, then site the sharpest step from light to dark on the winner — edge and finish, both clauses. It needs a rival to demote and a dark for it to recede into; in flat daylight the instrument is the crop, and below a hand's size in frame nothing carries finish, so again the crop. Read the framing, pose and costume back and check the tell is actually visible. The rival may be the face, by name, with the winner sized by ratio — *the open hand is wider in the frame than his head … his face and the whole of the rest of him are held at quiet middle values with soft wash-bled edges and no hard-edged dark anywhere; the sharpest step from light to dark in the picture happens at the edge of the red on the hand* (`ch28/the-hand-back`). The hardest form gives the winner the finish alone — *her face carries the only finished drawing in the picture* — and forbids the rival the channel outright — *no hard edge anywhere in them* — and returned a faceless man who is the largest mass in the frame and still loses it (`ch33/standing-on-his-feet`). Both are the author's blocks.
 
-**Colour.** Name the hues on the objects that have them and ban nothing (author ruling, s42; re-ruled s45 after a global cool clause propagated through eleven blocks). The portrait Colour paragraph's *warmth belongs to the skin alone* is a portrait clause and does not reach a plate.
+**Light.** Soft side daylight is the default and needs no clause. A named source: say where it is, that it is the only one, what it leaves dark, and where the warmth lands. A warm source lights a face only when it is close — a candle on the bench does, a town at the foot of a mountain does not; where the source is far, the figure is lit by ambient sky and the source is the one warm thing. A low or high camera is written on two channels — the picture-maker's own words, *low-angle view, the camera at the height of his knee, looking up*, and the surfaces it exposes, *the underside of the jaw is visible; the horizon sits level with his knees*; the exposure clause alone carried a kneeling subject and not a standing one. Camera vocabulary is not banned (author, s59). For real depth, say where the viewer is first, stack the frame bottom to top, and pin it with a ratio.
+
+**Colour.** Name the hues on the objects that have them and ban nothing (author, s42, s45). The portrait Colour paragraph's *warmth belongs to the skin alone* does not reach a plate.
 
 **Absence.** Ban what something in the picture pulls toward — a herd behind a goat, a second blade near a swordsman, a face where the framing hid one, a watcher in a solitary moment — and nothing else. Naming a thing to ban it puts the word in front of the filter: *no blood on the bound child* was refused.
 
-**Gaze and expression.** Say where each pair of eyes goes. **Never tell a face to do nothing** — *his face is doing nothing at all* renders as vacancy, and vacancy is not stillness (author, s48: *Kael is kind of expressionless*). A still face gets one working part named: *the face level, the eyes steady on the man, the jaw set but easy.* *Level* and *flat* are directions, not temperaments — each has put a gaze on the viewer that the block sent elsewhere (`archive/plate-sheets.md` §ch14, `archive/plate-sheets.md` §ch17). **AND A COLD STILLNESS IS NOT A CALM ONE — THE FOLDER HAD ONE RECIPE FOR TWO OPPOSITE FACES** (s65, `ch33/quiet-and-cold` run 1, held not adopted; author: *his face is way too chill*). The specimen above — *the face level, the eyes steady on the man, the jaw set but easy* — is written for a man at rest, and used on a boy whose chapter says *very quiet and very cold and extremely exact* it returned a mild face looking softly over its shoulder. **The negations made it worse:** *nothing in the face is straining and nothing in it has gone slack* removes both directions and leaves the reference's own neutral expression, which in a close crop wins anyway. **Write a hard stillness as anatomy that is doing work and not moving:** the chin down so the eyes come out from under the brows, the eyes wide and fixed on ONE named point, the brows low and straight, the jaw set with the muscle standing at the corner, the mouth closed and pressed thin — then state the contradiction once, *everything in the face is set hard and none of it is moving*. And give the face its physical history: a boy who has just screamed his throat out has red rims and a wet face, and that evidence carries what an adjective cannot. Point at the mouth (*mouth open mid-word*), not the abstraction. State a contradiction as one — *the body is deferential and the attention is not.* *Not smiling — just not braced* got warmth without breaking character. Eye contact between two figures is named as the subject, on its own, in caps:
+**Gaze and expression.** Say where each pair of eyes goes. Never tell a face to do nothing — *his face is doing nothing at all* renders as vacancy, and vacancy is not stillness (author, s48: *Kael is kind of expressionless*): a still face gets one working part named, as a state the picture can hold and not an action the face performs. *Level* and *flat* are directions, not temperaments — each has put a gaze on the viewer that the block sent elsewhere. Point at the mouth (*mouth open mid-word*), not the abstraction; state a contradiction as one — *the body is deferential and the attention is not*; *not smiling — just not braced* got warmth without breaking character.
+
+**Two stillnesses, two recipes.** Calm: *the face level, the eyes steady on the man, the jaw set but easy.* Cold: anatomy doing work and not moving — the chin down so the eyes come out from under the brows, the eyes wide and fixed on one named point, the brows low and straight, the jaw set with the muscle standing at the corner, the mouth closed and pressed thin, the contradiction stated once (*everything in the face is set hard and none of it is moving*), and the face's physical history (a screamed-out throat leaves red rims and a wet face). The calm recipe on a cold moment returned a mild boy looking softly over his shoulder (`ch33/quiet-and-cold` run 1; author: *his face is way too chill*), and negations made it worse — *nothing in the face is straining and nothing in it has gone slack* clears both directions and leaves the reference's own neutral face, which in a close crop wins anyway.
+
+**Eye contact** is named as the subject, on its own, in caps:
 
 ```
 THE TWO ARE LOOKING DIRECTLY AT EACH OTHER. His eyes up, hers down,
@@ -445,7 +379,7 @@ the lines of sight meeting. This eye contact is the subject of the
 image.
 ```
 
-**IT LANDS ON A STILL BODY AND NOT ON A WORKING ONE** (s65, four post-register instances). Held: `ch21/the-doorway-at-the-end` and `ch36/the-boat-words`, both seated, still, with nothing in either body to do. Failed: `ch34/both-faces-wet`, where the pair were written running and her eyes came back down and past him, and `ch30/the-fold-under-the-terrace`, where his went to the danger while hers did what the block asked. **A pair of eyes will meet when the bodies have no competing task and will go to the task when they have one** — so where a moment needs both, give the working body a reason to have already finished, or take the eye contact and drop the task.
+It lands on still bodies and not on working ones: eyes meet when neither body has a competing task and go to the task when one has. Where a moment needs both, give the working body a reason to have already finished, or drop the task.
 
 **Ownership.** With two dark garments in frame, state it, and the absences per character as well as the possessions:
 
@@ -464,48 +398,37 @@ Aeliana, the armour only to Valeria, and Kael wears neither.
 A fresh cut across his cheekbone. Several on his forearm and torso.
 ```
 
-Torn clothing renders where absent clothing does not. Healed scars, bruising, grime and soot render without difficulty. **A refusal is often a fault in the block, not a limit on the moment** (s48, twice). `ch21/dead` — a blade stopped clear of a boy's throat — was refused and then ran after a rewording, and `ch23/the-horizon` was refused and ran on a two-word change with everything else identical: **`open cut` → `slash`, `blood` → `red`** (author, s48). Those two are the isolated result; the `dead` rewrite moved four things at once and proved nothing about which. So: reword once, changing as little as possible, and if it refuses again take that as the answer. Harm itself is not the barrier. **THE SPECIMEN IS `archive/plate-sheets.md` §ch26's `aftermath` block** (author, s51: *the perfect example for a battered cut bloody character*) — cut as a scene test, adopted onto the page at Ch. 26, and it renders bruising, soot, shredded cloth, old scars and fresh marks in one picture without a refusal. What it does, and what to copy:
+Torn clothing renders where absent clothing does not; healed scars, bruising, grime and soot render without difficulty. **Harm is not the barrier; a refusal is usually a fault in the block** — reword once, changing as little as possible, and take a second refusal as the answer for that attempt (author, s48). What passes the filter is also what renders: *slash* for *open cut*, *red* for *blood*, *lies level across his eyes* for *bound*, *hands curled loosely near his cheek in sleep* for *both fists shut and drawn up* — a shape, a colour, a placement or a state can be drawn where a category (cut, blood, restraint) cannot. Prefer them even where nothing is refused. What the guard reads is restraint apparatus filling the frame as the declared subject of a picture that also contains a child: the same iron and cloth passed at scene distance with the subject a line of sight, and were refused twice as a close crop opening *THE IRON IS THE SUBJECT* (`ch39`). Two routes out — scene distance, so the apparatus is incidental; or an object study, with no reference, no age and no face. Two specimens, on `archive/plate-sheets.md`:
 
-- **The garment is destroyed, not absent** — *torn open down the front and hanging off one shoulder, the left sleeve ripped away entirely, the fabric shredded and filthy but still on him.* Torn cloth renders where bare skin argues.
-- **Every mark is named by its site and never by tissue** — *dark bruising over one shoulder and along the ribs, older pale scars across the upper arm and collarbone.* Sites, not wounds.
-- **It closes on one negation, not a stack** — *Nothing bleeding.* That single clause is what buys the rest of the paragraph.
-- **The body is stated as build, not as suffering** — *lean, hard, wiry, visible ribs, the build of someone trained rather than grown* — and the face is *flat and tired, mouth slightly open*, which is exhaustion written as anatomy.
+- **Marks without flow — `ch26/aftermath`** (author, s51: *the perfect example for a battered cut bloody character*). The garment destroyed, not absent — *torn open down the front and hanging off one shoulder, the left sleeve ripped away entirely, the fabric shredded and filthy but still on him.* Every mark by its site — *dark bruising over one shoulder and along the ribs, older pale scars across the upper arm and collarbone.* One closing negation, not a stack — *Nothing bleeding.* The body as build — *lean, hard, wiry, visible ribs, the build of someone trained rather than grown* — and the face as anatomy, *flat and tired, mouth slightly open*.
+- **Blood that shows — `ch23/the-horizon`** (author, s51: *also managed to get blood of a cut very well with its prompt*). The site stated flat — *HIS LEFT ARM IS CUT.* A shape, a path and an edge — *a long slash runs along the outside of the left arm above the elbow, its edges clean.* The blood a route and an appearance, never a substance — *there is red down the outside of the forearm and across the back of the hand, dark and wet.* The dressing's absence said — *the arm is bare and unbound and no cloth or wrapping is on it.* The cloth corroborating the site, and the face forbidden the injury — *not dazed, not in pain.*
 
-**AND THE MATCHING SPECIMEN FOR BLOOD THAT SHOWS IS `archive/plate-sheets.md` §ch23's `the-horizon`** (author, s51: *also managed to get blood of a cut very well with its prompt*). Where `aftermath` closes on *Nothing bleeding* and gets marks without flow, this one opens on the site as a plain fact and gets flow by giving it a route:
+Dried red beside a rendered burn is not a separate channel to this tool; it comes back as more burn (`ch35/one-knee-at-the-mast`).
 
-- **The heading states it flat** — *HIS LEFT ARM IS CUT.* No hedging and no euphemism; the picture is told what is true before it is told what it looks like.
-- **The cut gets a shape, a path and an edge, not a wound** — *a long slash runs along the outside of the left arm above the elbow, its edges clean.*
-- **The blood is a route and an appearance, never a substance** — *there is red down the outside of the forearm and across the back of the hand, dark and wet.* Where it runs, and two words about how it looks.
-- **The absence of a dressing is said out loud** — *the arm is bare and unbound and no cloth or wrapping is on it* — which is what makes it read fresh rather than treated.
-- **The cloth corroborates the site** — *his clothing is torn where the cut is.*
-- **And the face is forbidden the injury** — *not dazed, not in pain* — so the wound does not hijack the expression, which on that plate is the subject.
+**Damage.** Never paid for out of the features that separate a character: *much mended* returned rags on a boy who is poor and not destitute; a Sedrane's *very good quality* cloth written *torn through* returned a beggar, and her binding let loose in the same breath returned Valeria's silhouette. Name what survives first — the quality, the binding, the build — then the damage as an exception to it, and ban the archetype the frame now pulls toward (*not ragged, not tattered, not a beggar's clothing*) rather than the tears. **The body is the same rule** (author, s58): damage as pure subtraction takes the person with it — *gone thin* put frailty on an old man `03` calls **not frail**. Put the survival in the same breath and last, where it lands: *a month at sea is on him and it is all on the surface: the skin scoured by wind and sun and salt, and the frame under it sound — the strength still there, nothing taken out of him, not frail and not diminished* (`ch37/the-old-man-on-his-knees`). §AGE's *weather, not age*, one layer in.
 
-**The vocabulary that passed the filter is also the vocabulary that rendered.** `slash` for `open cut` and `red` for `blood` were adopted at s48 as a refusal workaround, and they work for a second reason: *slash* names a shape and *red* names a colour that can be put somewhere, where *cut* and *blood* are categories with nothing to draw in them. Prefer them even where nothing is being refused. **AND THE SECOND CONFIRMATION IS A CHILD, NOT A WOUND** (s60, `prompts/plate-candidates/ch38.md`): refused on the adolescent-and-children guard before any image was made, and it ran on ***bound* level across his eyes → *lies* level across his eyes** and ***both fists shut and drawn up* → *hands curled loosely near his cheek in sleep***. **Bound** and **fists shut** are categories — restraint — where **lies** is a placement and **curled loosely in sleep** is a state. The block that ran kept everything a reader would expect to be the problem: a thirteen-year-old on a bed, an overhead camera, *lie on their backs*, *worn thin, the collar open at the throat*, and a stack of body-part negations at the cut. **The caveat is `ch21/dead`'s** — the rewrite moved five things at once and does not isolate which. **AND THE THIRD FINDING IS ABOUT SCALE, NOT WORDS** (s60, four runs in one session). `ch39/the-door-at-dusk` put a girl with a strip of cloth across her mouth and iron on both wrists into a picture and **passed first time**, because she is one figure at scene distance in a lit box and the subject is a line of sight. `ch39/the-black-in-the-iron` and `ch39/the-iron-did-nothing` were close crops that opened *THE IRON IS THE SUBJECT* and *HER WRISTS ARE MARKED*, and both were refused before any image was made. **What the guard reads is restraint apparatus filling the frame as the declared subject of a picture that also contains a child** — not the cloth, not the iron, not the harm. Two routes out, one per picture and both keeping the moment: pull to scene distance so the apparatus is incidental and the subject is what people are doing; or take every human and age cue out and let it be an object study, with no reference attached, no age named and no face in frame.
+**Write the state, not the action** (author, s53). A still picture cannot hold a thing happening over seconds; name the state it leaves and let the eye supply the verb. *The arm is not quite steady* cannot be drawn; *the lamp tilted slightly off level and the flame leaning* can (`ch33/the-lamp`). *Three olive trees splitting apart* cannot; *already split open, the trunks standing as ragged upright shells, and the strips off them out in the air clear of the trunks, low and level and mid-flight* can (`ch34`). Faces, objects and events alike.
 
-**Damage must not be paid for out of the features that separate a character** (s51, `archive/plate-sheets.md` §ch26). `ch23/empty` run 1 returned *much mended* as rags on a boy who is poor and not destitute; `ch26/not-kind-to-me` run 1 wrote a Sedrane's *very good quality* cloth as *torn through* and got a beggar, and in the same breath let her severe binding come loose and got Valeria's silhouette back. Name what survives first — the quality, the binding, the build — then the damage as an exception to it, and ban the archetype the frame now pulls toward (*not ragged, not tattered, not a beggar's clothing*) rather than the tears.
+**A face with no reference.** A character with no portrait is not blocked from a plate, only from a resolved face: against the light, or out of frame, the moment can be made. *No eyes are visible anywhere in the picture* has carried a man front-on, filling a lit doorway at the exact place the eye goes, with no features drawn on him (`ch39/the-door-at-dusk`), and a faceless man who is the largest mass in the frame (`ch33/standing-on-his-feet`). *Do not turn the head toward the viewer* is a second ban on the same channel, earned only where the face is deliberately hidden, and unproven.
 
-**AND IT HOLDS FOR THE BODY EXACTLY AS IT HOLDS FOR THE CLOTH (author, s58, twice in two plates — promoted under the s42 ruling).** Damage written as pure subtraction takes the person with it: *gone thin* put frailty on an old man `03` calls **not frail**, and *he is thin* was going the same way on a trained boy. Both blocks were corrected the same way and the correction was wanted both times. **Name the survival in the same breath as the damage, and put the survival last, where it lands:** *a month at sea is on him and it is all on the surface: the skin scoured by wind and sun and salt, and the frame under it sound — the strength still there, nothing taken out of him, not frail and not diminished* (`ch37/the-old-man-on-his-knees`), and *a month at sea has taken weight off him and left the rest* (`ch37/the-water-at-the-gate`). It is §AGE's *weather, not age* applied to a body that has been through something, and it is the clause above written one layer in — the cloth rule and the body rule are the same rule.
+## Before the run
 
-**WRITE THE STATE, NOT THE ACTION** (author, s53, twice in one session). A still picture cannot hold a thing happening over seconds, so name the state it leaves and let the eye supply the verb. *The arm is not quite steady* cannot be drawn; **the lamp tilted slightly off level and the flame leaning** can, and did (`archive/plate-sheets.md` §ch33). *Three olive trees splitting apart from the top downward* cannot be drawn; **already split open, the trunks standing as ragged upright shells, and the strips off them out in the air clear of the trunks, low and level and mid-flight** can, and did on one run (`archive/plate-sheets.md` §ch34). This is s51's face rule — *a working part must be a state the picture can hold, not an action the face performs* — and it holds for objects and events exactly as it holds for faces.
-
-**Before the run.** Each fact once, in the place it belongs. Every clause must be able to change a pixel; a note to a colleague goes on the sheet. A block long enough to restate itself is long enough to contradict itself, and the renderer splits the difference. Before cutting a repeat, name what it forbids and find where else that is forbidden — count the channel, not the sentence. Length is not the metric; ritual is (author, s48: *cutting for cutting's sake is not the goal … if it turns out a bit bigger sometimes, well that's that*). **A long block earns it clause by clause and a short one is not thereby right.** **AND THE AUTHOR CUT ONE IN HALF BEFORE RUNNING IT AND SAID SO** (s65: *less bloated prompt*). On `ch33/standing-on-his-feet` they removed about a fifth of a block written under this very paragraph, and every removal was one kind of thing: a declared-subject heading, a meta clause about what a face was doing, and a run of second passes — *not shouting*, *with no armour and no ornament anywhere on him*, *reads as a dark shape against them*, *his head is not turned toward the viewer*, *and nowhere else on either of them*, *Two sources and no others*, and an eye colour the reference already carried. **The channel list above catches these and I had still written them**, which is the point: the pass is not optional and it is not done by having read this paragraph. Ask of every clause what it forbids, then find where else that is already forbidden.
-
-**AND THESE ARE THE CHANNELS THAT KEEP BLOATING** (s51's *care with these bloated prompts*, and again at s53, where eighteen blocks were written without this pass and every one of them carried at least one of these). Each is ONE clause, once, in one place:
+Each fact once, in the place it belongs. Every clause must be able to change a pixel; a note to a colleague goes on the candidate list, not in the block. A block long enough to restate itself is long enough to contradict itself, and the renderer splits the difference. Length is not the metric; ritual is (author, s48: *cutting for cutting's sake is not the goal … if it turns out a bit bigger sometimes, well that's that*) — a long block earns it clause by clause and a short one is not thereby right. **Ask of every clause what it forbids, then find where else that is already forbidden.** The channels that keep bloating — each ONE clause, once, in one place:
 
 - **Only one person in the frame.** Composition already says *one boy alone*; a ban paragraph and a preserve line saying it again are the same channel three times.
-- **The gaze.** *He is not looking at the viewer* is earned where a reference pulls the eye there; *and his head is not turned toward the viewer* is a second ban on the same channel and is only earned where the face is deliberately hidden (§Plates).
-- **A ban stack.** *no glow, no haze, no cloud, nothing sprays, nothing arcs* is one channel five times, and §Absence warns that naming a thing puts the word in front of the filter — the longer the stack, the worse that gets.
-- **Build, under a full figure.** The full-figure reference carries build and costume; restating *lean, hard, wiry* cannot change a pixel it has not already set.
+- **The gaze.** *He is not looking at the viewer* is earned where a reference pulls the eye there; *and his head is not turned toward the viewer* is a second ban on the same channel.
+- **A ban stack.** *no glow, no haze, no cloud, nothing sprays, nothing arcs* is one channel five times, and each name goes in front of the filter.
+- **Build, under a full figure.** The reference carries build and costume; *lean, hard, wiry* cannot change a pixel it has not already set.
 - **The light, twice.** If Setting places the sources, the finish paragraph must not place them again.
-- **A meta-preamble.** *THIS READS IN THIS ORDER*, *this is one continuous chain* — a note to a colleague. It goes on the sheet; the ordered clauses go in the block.
+- **A meta-preamble.** *THIS READS IN THIS ORDER*, *THE SUBJECT OF THE IMAGE IS …*, *this is one continuous chain* — notes to a colleague. The ordered clauses go in the block.
 - **Stillness.** *Nothing is happening* does it. *He is not braced, he is not moving anywhere, nothing about him is in motion* is the same fact three more times.
+- **What the reference already carries.** An eye colour, an age, a build, under a reference that has it.
 
-## Plates — what changes from a scene
-
-A plate is a moment, not a person, and THE PLATE FOLLOWS THE PAGE binds it (`README.md`). It writes its own composition and light every time; it says who is not in the frame; where it hides a face for its own reasons it says *no eyes are visible anywhere in the picture* and *do not turn the head toward the viewer*, which are two bans. **THE FIRST OF THOSE CARRIES A FACE THAT HAS NO REFERENCE** (s60, `prompts/plate-candidates/ch39.md`): the whole-picture suppression has four post-register runs and all four are adopted, and `ch39/the-door-at-dusk` is the one that proves it alone — a man front-on, filling a lit doorway, at the exact place the eye goes, with no features drawn on him. **So a character with no portrait is not blocked from a plate, only from a resolved face**: against the light, or out of frame, the moment can be made, and `ch37/the-name-at-the-table` and `ch38/the-table standing` were filed blocked under the older reading. **The second ban still has one instance, pre-register, and one confounded run** (`ch38/the-eight-lights`), and remains unproven. **The prompt is written straight into `prompts/plates/ch<NN>-<slug>.md`, which is the source** (author, s58), with the run record under it and its CHOSEN entry on `prompts/plate-candidates/ch<NN>.md`. Prompts that have already run are not retrofitted, and where the author optimised one before running it, the file holds their version, as run.
+The author's pass on `ch33/standing-on-his-feet` (s65: *less bloated prompt*) took a fifth out of a block written under this list, and every removal was on it: the pass is not done by having read this paragraph.
 
 ## Limits
 
-**A WARM SOURCE IN THE FRAME COSTS THE PALETTE AND THE BARE PAPER, AND NO WORDING HAS MOVED IT** (s64, promoted under the s42 test). Every lamp-lit or fire-lit run in the folder comes back dense and warm with the paper tooth arriving as a hard reticulated texture and almost no bare unpainted paper, against daylight runs that hold the register every time; the count stood at three for three over eight runs before this session and is **five for five** after `ch24/she-saw-him-seeing-it` and `ch21/the-doorway-at-the-end`. **Both of those carried an explicit correction** — bare paper reserved by name on stated surfaces, the ink protected from a general softening — written on two different nights in two different rooms, and neither moved a pixel of it. The ink does hold: the linework stays the strongest element in both. So the choice is a design one and not a prompting one: light a plate with daylight and get the register, or take the night and accept the dense warm one.
-
-Run-to-run variance is real: rerun before changing anything. **A SUBSTANCE LYING IN THE GROOVES OF METAL, DISTINCT FROM THE METAL, DOES NOT RENDER** (s60, `prompts/plate-candidates/ch39.md`, dropped after two runs): matte black worked into the folds of a worn iron band — *the way ink lies in the cut of a letter* — came back as ordinary dark metal against a dark ground, and then, with the iron rewritten bright pale silver and the black named as the only dark thing on it, came back absent again. Both runs are otherwise fine pictures. Two grounds, one result: the distinction is below what the medium separates, and no rival-demotion fixes it. **THE ACTION FENCE IS STRUCK (author, s65).** What stood here said the tool breaks on overlapping limbs, occlusion and held objects at odd angles, *which is what an action scene is*, and that a fight beat rendered exactly is work for a commission. **The folder's own evidence contradicts it:** `scene-tests.md` §`fight-kael-valeria` is two bodies inside each other's reach with three blades crossing between them, it rendered, and it is one of the pictures the s47 ruling calls the best in the folder. What is true and stays is the cost — that one took six attempts, which is the budget an action plate is written against, not a reason to leave it unbuilt. The recipe is on that sheet and is the thing to copy: the count attached per hand, the blade sized against a body part, the second weapon given a contact point instead of a trajectory, both figures grounded on the same floor plane, and dry-brush drag and flicked spatter added to the style line for the movement.
+- **A warm source in the frame costs the palette and the bare paper, and no wording has moved it.** Every lamp-lit or fire-lit run comes back dense and warm, the tooth a hard reticulated texture and almost no bare paper, where daylight holds the register every time; bare paper reserved by name and the ink protected from softening changed nothing (five for five). The ink does hold. A design choice, not a prompting one: daylight and the register, or the night and the dense warm one.
+- **Run-to-run variance is real:** rerun before changing anything.
+- **A substance lying in the grooves of metal, distinct from the metal, does not render** — black in the folds of an iron band came back as dark metal on a dark ground, and absent again on bright silver with the black named as the only dark thing on it. Below what the medium separates; no demotion fixes it.
+- **Action is budgeted, not fenced** (author, s65). `scene-tests.md` §`fight-kael-valeria` — two bodies inside each other's reach with three blades crossing — took six attempts and is one of the folder's best pictures; `ch32/out-of-the-door` and `ch33/standing-on-his-feet` landed first run. The recipe: the count per hand, the blade sized against a body part, the second weapon given a contact point instead of a trajectory, both figures grounded on the same floor plane, dry-brush drag and flicked spatter added to the style line. At close range two bodies as one mass read as an embrace at thumbnail size — site something hard where the eye lands first.
