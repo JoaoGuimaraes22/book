@@ -148,7 +148,7 @@ Kael put it down where he put things, and went to see about the boards.
 
 ---
 
-It was finaly time to take the irons off.
+It was finally time to take the irons off.
 
 Damir did the princess first, because Valeria said so and Kael did not argue. He put a stake into the block and laid the band over the horn of it so that the iron rested on iron and there was nothing under the blow but the band itself, and Kael knelt on the far side and held her arm down on it with his one hand. Then Damir set the chisel on the peened head of the pin, and he tapped it, and set it, and tapped it.
 

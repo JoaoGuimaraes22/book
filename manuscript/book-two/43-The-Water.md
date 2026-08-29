@@ -530,7 +530,7 @@ He had been waiting to. He had spent four days getting the near ground off Tarim
 
 "East," Kael said. "Along the top. Where does it go."
 
-"It continues to go for days. Six, seven for a carriage that is loaded." Damir was scraping the bowl. "It stays on the south skirt the whole way because the north side is what you came down and nothing goes on the north side. Then the Kharoun stops and the ground goes down a long way, and there is a river, and at the river flows to Ishareth."
+"It continues to go for days. Six, seven for a carriage that is loaded." Damir was scraping the bowl. "It stays on the south skirt the whole way because the north side is what you came down and nothing goes on the north side. Then the Kharoun stops and the ground goes down a long way, and there is a river, and the river flows to Ishareth."
 
 "Ishareth."
 
