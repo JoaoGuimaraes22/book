@@ -198,17 +198,17 @@ OR darkest value].
 
 **Every prompt is one file under `prompts/portraits/`, hand-authored and the source** (author, s58); `prompts/README.md` says which of them reproduces the picture it cut. Per reference: its rung, whether the HAIR line is in it, and the one thing to know before anchoring on it.
 
-- **`kael-14`** · adolescent · HAIR. The anchor for every plate of him.
+- **`kael-14`** · adolescent · HAIR. The anchor for every plate of him. His grey is spent for plates (author, s42): a plate may show the eyes at full strength; on the page it stays unspent, which is a prose rule.
 - **`kael-4`** · child · HAIR. The one Kael whose face is not doing the coat; the block forbids the system's default by name, or a run inherits it.
 - **`kael-9`** · nine · HAIR. Author-revised; *the ink carries the cloth* is the finish counterweight for worked cloth. Covers Ch. 3–7.
-- **`valeria-14`** · adolescent · HAIR.
+- **`valeria-14`** · adolescent · HAIR. Never a one-sword identity — twin blades, both hands full, is what she is; where a hand is occupied with something else, a plate may leave the second blade out of frame or undrawn (author, s51).
 - **`aeliana-15`** · adolescent · HAIR. Carries a pauldron the block forbids; not regenerated.
 - **`aurelian-14`** · Aurelian · no HAIR. *Riding and hunting* is a rendering steer, not canon. Cut with no insignia, badge, house colour or chain, the cloth carrying the station — a fact about the picture; `03` gives him none either way.
 - **`elarine-14`** · Elarine · no HAIR. The eyes won on finish, not on darkest value against her own hair — if re-cut, demote the hair. Her binding is her silhouette (*scholar* where Valeria reads *uniform*); let loose, it returned Valeria's.
 - **`oss-14`** · a bespoke soft rung · no HAIR. Cut at s64 (author: *we should actually choose a design for oss instead of having him be just a faceless thing*); the colouring the block proposed is now `03/oss.md`'s (author, s64). The cloth is the second subject — new, pressed, dyed a colour that had to be paid for. Reads about twelve off a rung that said fourteen (§AGE), and that suits him.
 - **`vask`** · Vask · HAIR. No grey, and younger than `03`'s *used tools*; ruled acceptable (s34, s43). The grey instruction has failed twice with the cause unsettled — not a third time.
 - **`neris`** · Neris · HAIR. Early thirties; ruled good (s44). Her hands are where the book keeps her: any full figure or scene puts them in frame and occupied.
-- **`neris-marked`** · Neris · HAIR. `neris.md` plus one paragraph for the three quartz-white marks, so the two read as one casting; valid from Ch. 36, `neris` before it. About a decade older, and wanted (author, s60). Anything anchored here inherits loud white — the marks took the sharpest light-to-dark step — and they came back evenly spaced where the page has two together and the third apart: say so.
+- **`neris-marked`** · Neris · HAIR. `neris.md` plus one paragraph for the three quartz-white marks, so the two read as one casting; valid from Ch. 36, `neris` before it. About a decade older, and wanted (author, s60: *i like it reading a bit older. she has taken a big toll*). Anything anchored here inherits loud white — the marks took the sharpest light-to-dark step — and they came back evenly spaced where the page has two together and the third apart: say so.
 - **`severin`** · Severin · HAIR · half figure. Author-revised: the build in the SUBJECT, the brows told not to match, the light hair defined against the pale ground, the expression in the eyes because the beard has the mouth.
 
 ---
@@ -259,11 +259,33 @@ reference shows head and shoulders only.
 
 # Scenes and plates
 
+## Choosing the moment
+
+A plate is a moment, not a person, and THE PLATE FOLLOWS THE PAGE binds it (`README.md`): it depicts what its chapter has put in front of the reader, answers with framing where the page is silent, and says who is not in the frame.
+
+- **The default plate is a chest-up with a face doing something** (s42, s45). A hand-and-object crop has to earn itself; a faceless candidate is priced, not disqualified (s43). **The set is short of action and of close range, and that is the thing to correct** (author, s65: *i feel like we have little action shots and closeups … those are really cool*) — an action plate is budgeted at several runs (§Limits), and a close-up is a portrait of a moment, in the chapter's own light and expression.
+- **A hard moment is not passed over for fear of a refusal** (author, s60: *those are the best images, we can always do them, eventually*): write the block, run it, reword once if refused (§Injury), and take a second refusal as the answer for that attempt.
+- **The pregnancy is framed out, never drawn** (author, s51: *probably should have avoided illustrations with Neris' body showing — it is very weird with the guidelines and pregnancy*). Neris is pregnant from Ch. 21 to the end of Book One, and a plate carries it in posture, cloth and crop — no clause naming the term, the carry or the shape, and nothing below her collar authored where the frame can hold it. `ch21/the-nine-things` predates the ruling and stands.
+- **Aeliana's beauty is a page fact, handled with care:** it reaches the page as what a room does in her presence and as Kael's instruments failing, never as a narrator verdict (`03`), so a picture built to be about how beautiful she is would be saying a thing the book has not said. That her pictures are the author's favourites in the set (author, s53: *aeliana pics are the best*) is a taste note and not a programme — the two that earned it, `ch33/the-lamp` and `ch34/the-elbow`, are pictures of her doing a job with her hands.
+
+**Silhouette separation is a production rule.** Two characters who threaten to converge are separated on provenance and bearing before the face is touched — tested at thumbnail size on Kael and Valeria, both thirteen, dark-haired, carrying two blades, and since used on Valeria and Elarine (bound vs loose, scholar vs uniform) and on Kael and Aurelian (village vs house, hacked vs groomed):
+
+| | Kael | Valeria |
+|---|---|---|
+| build | hides its training | reads as function even at rest |
+| stillness | invisible — trained not to move | **it warns** |
+| hair | short, ordinary | well past the shoulders |
+| blades | bundled on the back | one in each hand |
+| cloth | undyed, light | dark |
+| provenance | out of a shed, unsold | eleven generations of service |
+
+## Writing the block
+
+**Every plate anchors on the fourteen-year-old references** — `kael-14`, `elarine-14`, `valeria-14`, `aurelian-14`, `aeliana-15` — for any chapter (s44): one consistent face across the book over age-accuracy in any single picture, and the age is written into the block (§Age in a plate) or the picture will be fourteen. `kael-4` and `kael-9` are in the library and not the default.
+
 **References attached:** the full-figure sheet where one exists and the body is in frame — it carries build and costume, where a portrait carries only the face and everything below its collar is then authored in the prompt and will not repeat in the next picture. A close crop attaches the portrait. A plate may attach both of one person; the `Image N:` lines name the files.
 
 **The reference carries** the face, bone, eye and hair colour, skin, apparent age, the medium — and the expression: in a close crop the reference's mood beats the prompt, so move the eyes onto an object or change the pose before writing an override, and if that fails cut a second reference. **The prompt carries** posture, each hand, everything below the collar, the framing, the light where it is not soft side daylight, the hues on the objects that have them, and all clothing when more than one figure is present — costume bleeds between dark garments; identity does not.
-
-A plate is a moment, not a person, and THE PLATE FOLLOWS THE PAGE binds it (`README.md`): it writes its own composition and light every time, and it says who is not in the frame.
 
 ## Scene style line
 
@@ -277,7 +299,7 @@ bare paper in the lights.
 
 ## Plate template
 
-The scene-test register (author, s47: the scene tests are the folder's best pictures) — one implied wall, soft daylight from one side, faces near and engaged with each other, colour named on the objects that have it. Start here and add an instrument from the list below only when this picture needs it. The specimens: `scene-tests.md` §`talk-kael-valeria` for two figures and §`quartet-conversation` for four; `prompts/plates/ch33-behind-me.md` for a close-up.
+The scene-test register (author, s47: *my favourite compositions, colouring, beauty are the images in scene tests*) — one implied wall, soft daylight from one side, faces near and engaged with each other, colour named on the objects that have it. The register starts at s47: the folder before it is history rather than precedent, and an instrument is argued from a post-register run, never from a pre-register failure (author, s51). Start here and add an instrument from the list below only when this picture needs it. The specimens: `scene-tests.md` §`talk-kael-valeria` for two figures and §`quartet-conversation` for four; `prompts/plates/ch33-behind-me.md` for a close-up.
 
 ```
 Image 1: <file>.png — <full-figure|portrait> reference of <who>.
@@ -357,7 +379,7 @@ The two terms must sit where the frame can compare them.
 
 **Age in a plate.** The reference carries apparent age and the fourteen-year-old anchor is the lever; no ratio has pulled an age down in a face-filling crop. Where a face has drifted older — the adolescents do, on nearly every plate — the rung goes in as its age line and two eye-line clauses, *Age: thirteen. The eyes at the vertical midpoint of the head, the jaw softly defined and not sharp*, which brought `ch35/the-spotter` back to fourteen (author). It is not free beside a hard subject: four minor-markers in one paragraph next to iron on a boy's wrists were refused before any image was made (`ch39`), so beside restraint or harm let the reference carry the age.
 
-**Nouns.** A concrete noun arrives with its default, and the default beats every adjective hung on it — *dagger* returned a longsword, *coat* a frock coat, *candle* a wick flame, *standing stone* a menhir. For anything other than the default, describe the construction — what it is made of, how it closes, how long it falls — with the defining feature first and measured, then kill the default by name. Banning a noun's features leaves nothing: describe what is there. The test: could a costumier from three centuries all draw it from the words?
+**Nouns.** A concrete noun arrives with its default, and the default beats every adjective hung on it — *dagger* returned a longsword, *coat* a frock coat, *candle* a wick flame, *standing stone* a menhir — and *the coat* is never designed at all: it is the book's metaphor for Kael's concealment, not a garment. For anything other than the default, describe the construction — what it is made of, how it closes, how long it falls — with the defining feature first and measured, then kill the default by name. Banning a noun's features leaves nothing: describe what is there. The test: could a costumier from three centuries all draw it from the words?
 
 **The winner and the rival.** Where a small thing must win the picture, hold the rival at quiet middle values with no hard edges, then site the sharpest step from light to dark on the winner — edge and finish, both clauses. It needs a rival to demote and a dark for it to recede into; in flat daylight the instrument is the crop, and below a hand's size in frame nothing carries finish, so again the crop. Read the framing, pose and costume back and check the tell is actually visible. The rival may be the face, by name, with the winner sized by ratio — *the open hand is wider in the frame than his head … his face and the whole of the rest of him are held at quiet middle values with soft wash-bled edges and no hard-edged dark anywhere; the sharpest step from light to dark in the picture happens at the edge of the red on the hand* (`ch28/the-hand-back`). The hardest form gives the winner the finish alone — *her face carries the only finished drawing in the picture* — and forbids the rival the channel outright — *no hard edge anywhere in them* — and returned a faceless man who is the largest mass in the frame and still loses it (`ch33/standing-on-his-feet`). Both are the author's blocks.
 
@@ -430,5 +452,6 @@ The author's pass on `ch33/standing-on-his-feet` (s65: *less bloated prompt*) to
 
 - **A warm source in the frame costs the palette and the bare paper, and no wording has moved it.** Every lamp-lit or fire-lit run comes back dense and warm, the tooth a hard reticulated texture and almost no bare paper, where daylight holds the register every time; bare paper reserved by name and the ink protected from softening changed nothing (five for five). The ink does hold. A design choice, not a prompting one: daylight and the register, or the night and the dense warm one.
 - **Run-to-run variance is real:** rerun before changing anything.
+- **Finish is not yet consistent across the set** and the author has not settled it. The controlled pair is `ch08-the-one-who-did-not-laugh` / `-cold`; new blocks reserve bare paper by name and protect the ink from a general softening, and leave hue per picture (s43).
 - **A substance lying in the grooves of metal, distinct from the metal, does not render** — black in the folds of an iron band came back as dark metal on a dark ground, and absent again on bright silver with the black named as the only dark thing on it. Below what the medium separates; no demotion fixes it.
 - **Action is budgeted, not fenced** (author, s65). `scene-tests.md` §`fight-kael-valeria` — two bodies inside each other's reach with three blades crossing — took six attempts and is one of the folder's best pictures; `ch32/out-of-the-door` and `ch33/standing-on-his-feet` landed first run. The recipe: the count per hand, the blade sized against a body part, the second weapon given a contact point instead of a trajectory, both figures grounded on the same floor plane, dry-brush drag and flicked spatter added to the style line. At close range two bodies as one mass read as an embrace at thumbnail size — site something hard where the eye lands first.
