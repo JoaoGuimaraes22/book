@@ -384,8 +384,6 @@ Miresh put a second piece of bread in front of him on the second night.
 
 "You have not," she said, and went on with what she was doing, and after a while he ate it.
 
----
-
 On the third day the child came and stood at the end of the bed with her thumb in her mouth and looked at him for some time, and then took it out.
 
 "What are you called," she said.
@@ -434,7 +432,7 @@ He had a great many answers and every one of them was a mechanism. Because they 
 
 "You always know."
 
-"I know why people do the other thing," Kael said. "I have never once had to work out this one."
+"I know why people take things," Kael said. "I have never once had to work out this."
 
 Valeria took that. She looked back at the track.
 
@@ -504,15 +502,15 @@ Damir's world was bigger. Damir's world was the road.
 
 "East," Kael said. "Along the top. Where does it go."
 
-"Days. Six, seven for a train that is loaded." Damir was scraping the bowl. "It stays on the south skirt the whole way because the north side is what you came down and nothing goes on the north side. Then the Kharoun stops and the ground goes down a long way, and there is a river, and at the river there is Isharéth."
+"Days. Six, seven for a train that is loaded." Damir was scraping the bowl. "It stays on the south skirt the whole way because the north side is what you came down and nothing goes on the north side. Then the Kharoun stops and the ground goes down a long way, and there is a river, and at the river there is Ishareth."
 
-"Isharéth."
+"Ishareth."
 
-"You would know it if you had been anywhere," Damir said, not unkindly. "It is the last of it. It is a city on the river and the empire holds it and past the river it does not, and everything that is going to cross goes across there, and everything that comes back comes back through there." He set the bowl down. "Half of what goes up this road is going to Isharéth. I have put shoes on it for twenty-two years."
+"You would know it if you had been anywhere," Damir said, not unkindly. "It is the last of it. It is a city on the river and the empire holds it and past the river it does not, and everything that is going to cross goes across there, and everything that comes back comes back through there." He set the bowl down. "Half of what goes up this road is going to Ishareth. I have put shoes on it for twenty-two years."
 
 Kael said the name over twice inside his head.
 
-Isharéth. Six or seven days east, on a river, and the last of it.
+Ishareth. Six or seven days east, on a river, and the last of it.
 
 That was where the box had been going. He had two months of east in him and no reason for any of it, and now there was a place at the end of the road with a name on it, and the number attached to the name was six or seven days.
 
