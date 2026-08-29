@@ -2,9 +2,11 @@
 
 The governor stood when the bread had gone round the third time, and the table stood with him, and Kael found that he had done it too.
 
-"The house has rooms," the governor said. "One each. There is a bed in every one of them and water in every one of them, and nobody under this roof will wake you before you wake." He looked down the table at the eight of them, the way he had looked at them in the square, one at a time. "Highness. Whatever the night wants, the woman at your door will fetch it. Sleep. Tomorrow we will arrange a carriage to the capital for all of you."
+"The house has rooms," the governor said. "One each. There is a bed in every one of them and water in every one of them, and nobody under this roof will wake you before you wake." He looked down the table at the eight of them, the way he had looked at them in the square, one at a time. "Highness. Whatever the night wants, the woman at your door will fetch it. Sleep. Tomorrow we will arrange a carriage. You do not go to the capital from here — you go to Solvenna, and from Solvenna to the capital. Five months to Solvenna in good weather." He put his hand flat to his breast. "The empire begins there."
 
-He put his hand flat to his breast and went out by a door behind him.
+He went out by a door behind him.
+
+Five months. Solvenna, and then the capital. Kael had the number before the door shut.
 
 ---
 
