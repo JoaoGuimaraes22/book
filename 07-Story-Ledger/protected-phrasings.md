@@ -598,3 +598,10 @@ Two classes are admitted that are not "good lines", and both are explicitly mark
   - "more like a slab of meat than a hand" *(the author's own wording)*
   - "So the holding was the ruin's." *(the knot, and which hand does it)*
   - "breathing like someone had removed his lungs" *(the author's own wording)*
+
+- **Ch. 41 — "The Second"**
+  - "He had thought about the front of it. It was the side." *(the throat, and where it actually is)*
+  - "the noise a man makes at a girl who has stood up when she has been told not to" *(the wrong half of the shout)*
+  - "Behind the box there was nothing, and there had never been anything." *(the blind side, and two months of nobody walking it)*
+  - "where chain lies when it is doing nothing" *(a deliberate echo of Ch. 40's *the shape chain makes when it is doing nothing* — the same arrangement seen from inside it the morning after; admitted so a third use is caught)*
+  - "It went uphill. It went back the way they had come. It went away from the water." *(the price of the only ground that takes no track)*

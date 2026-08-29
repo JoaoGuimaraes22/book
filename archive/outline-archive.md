@@ -110,3 +110,6 @@ Beats 16–20 are SPENT and keep one-line pins in 04; beat 15's spent half is pi
 
 **§Book Two+ — the s49 opening bullet, spent at Ch. 37 (rolled s55):**
 - **Opens on the water, not with the trio (author, s49):** eight aboard a mastless hull one day out — Kael, Neris, Wren, Severin, Valeria, Aeliana, Elarine, Aurelian — about nine days of water, drifting roughly a month, landfall on the **south coast of the continent**. The trio still crosses the continent together; the book no longer ends at the moment it becomes three.
+
+**§BOOK TWO'S SHAPE beat 1 — the s62 ruled escape shape, spent at Ch. 41 (rolled s63):**
+- **THE ESCAPE'S SHAPE IS RULED (author, s62):** the morning door — and Kael kills the man on the rope **with his teeth, at the throat**, because both his hands are spent and the mouth is the only silent thing he has left. **His whole job is to put a knife inside Valeria's reach**; she frees herself, and then the other two. Then **out of a camp of fifty, unseen** — fifty is not a number anybody fights. **Undesigned at the close of s62, ruled at s63:** the search party is the NEXT chapter, not this one (Claude's s62 read reversed at design time — the chapter's last line is worth more than the seam); **the princess acts** — she stands up, and the doorway turns to her. The search party half of the beat stays live in 04.

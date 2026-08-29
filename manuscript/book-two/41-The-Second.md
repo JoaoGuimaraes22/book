@@ -212,7 +212,7 @@ Neither of them said anything about it.
 
 Kael got his feet under him. There was a shelf above them that would show him the whole of the ground east and south, and the sun was going to be up on it in a few minutes, and after that they were going to have to be somewhere else.
 
-"Lucan," the princess said.
+"Kael," the princess said.
 
 It came out of her broken and about a third of the size of her voice, and it stopped him with one hand on the rock.
 
