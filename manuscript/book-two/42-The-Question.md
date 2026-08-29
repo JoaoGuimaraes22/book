@@ -88,7 +88,7 @@ She held the little knife in both hands and looked at it, and then at him.
 
 He gave the good knife to Valeria, and Valeria took it and went and lay down in the trees on the far side of the gap, in the deep needle-dark where the sun had not come and would not, flat, with the hand's width of chain gathered up in her fists and the knife point-down out of the bottom of them, in the place she would be when a man came through the gap bent over with his head down, and she stopped moving, and once she had stopped moving Kael, who knew exactly where she was, could not find her.
 
-He took the bank himself, on his belly, above the gap, where he could see the crossing and the gap both, with the eleven links of chain that hung off his right wrist gathered into his one good hand and nothing else. It was not much. He was not much. He knew the exact size of what he was worth in this and it was not large, and he had one thing they did not have, which was that he knew they were coming and from where.
+He took the bank himself, on his belly, above the gap, where he could see the crossing and the gap both, with the eleven links of chain that hung off his right wrist gathered into his one good hand and the third knife in his belt, and that was the whole of it. It was not much. He was not much. He knew the exact size of what he was worth in this and it was not large, and he had one thing they did not have, which was that he knew they were coming and from where.
 
 He put his face in the needles and breathed and kept the count on the stream, on the note of it going over the stones, so that if the note changed he would have it, and he waited.
 
@@ -128,7 +128,7 @@ He was further back and he was looking the right way at the wrong instant, and h
 
 Kael went for him from the bank.
 
-He came off the bank onto the man's back as the man was turning toward the shout, with the good knife in his right hand and the whole of his small weight behind it, and he put it into the side of the neck where his father had taught him a man carries the thing that matters, and the jar of it going home came back up his arm and into the ruined hand and the hand answered with a bolt of white that nearly put him out, so that he and the dying man went down into the needles together and for a moment he did not know which of them was which. He held on. He held the knife in and held the man down and the man stopped, and Kael got his knees under him and got up, swaying, one-handed, and the wood had gone to four men and a shout, and the shout was already up the slope.
+He came off the bank onto the man's back as the man was turning toward the shout, with the knife in his right hand and the whole of his small weight behind it, and he put it into the side of the neck where his father had taught him a man carries the thing that matters, and the jar of it going home came back up his arm and into the ruined hand and the hand answered with a bolt of white that nearly put him out, so that he and the dying man went down into the needles together and for a moment he did not know which of them was which. He held on. He held the knife in and held the man down and the man stopped, and Kael got his knees under him and got up, swaying, one-handed, and the wood had gone to four men and a shout, and the shout was already up the slope.
 
 They came all at once then, the last four, because there was nothing left to be quiet for.
 
