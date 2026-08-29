@@ -246,7 +246,7 @@ He let go of the hand and he sat back on his heels in the needles and he was sha
 
 Valeria killed him.
 
-She did it while Kael was still sitting back, without being asked and without asking, one clean movement, the good knife under the jaw and up, the way she had done it to the man at the ring, and she held her free hand flat on his chest until it stopped, and then she took her hand away and stood up.
+She did it while Kael was still sitting back, without being asked and without asking, one clean movement, the good knife under the jaw and up, and she held her free hand flat on his chest until it stopped, and then she took her hand away and stood up.
 
 Kael heard it happen. He did not stop her. He had the whole of the half-second it would have taken to say the word and he did not say it, and he knew, kneeling there with his ruined hand against his chest and his red line climbing his arm, that he had not said it because it was the right thing to have done.
 
