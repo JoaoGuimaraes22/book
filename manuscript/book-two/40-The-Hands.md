@@ -78,9 +78,9 @@ He was more careful after that, and it made him better.
 
 By the end of the first month he had all eight. He knew which two shared out of the same pot and which one ate alone; which one was frightened of the governor, and which one had stopped being frightened of him around the fourth week, which was worse for everybody; which one was kind about the mules and did it where the others could not see. He knew who was awake at what hour, because the changes were called quietly and not always at the same time, and a man who is called out of sleep walks differently from a man who has been standing up for two hours.
 
-And he never got the ninth voice.
+The ninth voice was the governor's, and he had it by the second week.
 
-It was the one from the first day, the level one in the Koine with the coast under it, that had said *not before the wells*. It gave the orders, or it gave the only orders that were obeyed without anybody thinking about it. In two months Kael heard it perhaps thirty times, never once from a place where he could see the mouth it came out of. After the first month that stopped being an accident. He made a note of it and could do nothing with it.
+It was the level one in the Koine with the coast under it that had come through the boards on the first day and said *not before the wells*, before he had any face to put to it. Hazoun Sabrane talked to his own men in Ivrit — the mules, the water, how far off a fire should be. When he wanted a thing done he said it in the empire's tongue, and it was done, and nobody thought about it first.
 
 Once, in the fifth week, the door opened between meals.
 
@@ -248,7 +248,7 @@ He looked past her.
 
 The princess was awake. She was sitting where she sat, her back down against the boards, her hands in her lap. Her eyes were on him, and had been for some time.
 
-He had run this part four hundred times and had never once got a good answer out of it. He had a girl who could not speak, could not be asked anything, could not be relied on to have understood, and could not be left behind, and who had not stood up on her own account for three weeks.
+He had run this part four hundred times and had never once got a good answer out of it. He had a girl who could not speak, could not be asked anything, could not be relied on to have understood, and could not be left behind, and who had not stood up on her own account for five weeks.
 
 "Highness," he said. "In the morning, when the door opens, you do not do anything at all. You do not stand and you do not run. Somebody will take you. Do not fight whoever takes you."
 
@@ -278,7 +278,7 @@ He waited. Outside, somebody a long way off said something to a mule.
 
 She did not look away.
 
-He had not the time to argue with a girl who could not answer him, so he stopped trying. He was aware, at the very edge of himself, that a thing which had sat in the corner of this box for three weeks with its back down was now sitting up and watching him with the whole of its attention, and that it was the first of anything she had done in a long while.
+He had not the time to argue with a girl who could not answer him, so he stopped trying. He was aware, at the very edge of himself, that a thing which had sat in the corner of this box for five weeks with its back down was now sitting up and watching him with the whole of its attention, and that it was the first of anything she had done in a long while.
 
 He put his right hand over his left thumb.
 
