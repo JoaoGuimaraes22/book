@@ -70,7 +70,7 @@ Kael turned it over. It was not bad. It explained three children and it explaine
 
 She was silent for a moment. Then she said, "I see," and stopped talking, and did not sulk about it, and Kael filed that.
 
-"It is the father," Kael said. "Not the rest of it. The rest of it is nearly right."
+"But you were right on your first assumption," Kael said. "Not the rest of it. We need a story."
 
 She turned her head.
 
@@ -82,15 +82,19 @@ She turned her head.
 
 He got his right hand up out of his lap and turned it over so that the band caught what light there was, and the eleven links came off it and swung.
 
-"And this is the other half, and I have had it upside down all day. I have been trying to build something that would survive the iron." He turned the wrist over. "It does not have to survive the iron. The iron is the part they will believe."
-
-He put the hand down.
-
-"East of here is theirs. It was a month of nothing and then theirs from the sea, and we have been going east for two months, so there is a war at the end of this road and it is not far. A war makes orphans faster than it makes anything else, and orphans get taken, and the people who take them put them in iron, because that is what you do with a thing you are going to sell."
+"East of here is theirs. There is a war at the end of this road and it is not far. A war makes orphans faster than it makes anything else, and orphans get taken, and the people who take them put them in iron, because that is what you do with a thing you are going to sell."
 
 Nobody said anything.
 
-"We are children who were taken," Kael said. "That is the whole of it. We do not say by whom, because a child who was taken does not always know, and nobody will think it strange that we cannot say. We do not say where from, because we have nowhere to be sent back to. And we got away and we came down the water, because water goes down to people."
+"We are orphans, and we were taken," Kael said. "That is the whole of it."
+
+He got to the end of it before it caught him.
+
+His father was dead; that had never been a story. His mother was the sum he had stopped building in the fourth week because it had two ends and no way to choose between them, and the word had gone straight into the middle of that and sat down in it, and there was nobody anywhere he could ask.
+
+He went on.
+
+"We do not say by whom, because a child who was taken does not always know, and nobody will think it strange that we cannot say. We do not say where from, because we have nowhere to be sent back to. And we got away and we came down the water, because water goes down to people."
 
 "I cannot speak," Valeria said.
 
@@ -98,17 +102,9 @@ Nobody said anything.
 
 The water went on going down past them.
 
-"Kael," Valeria said.
-
-"Yes."
-
-"It is not a story."
-
-"No," Kael said. "It isn't."
-
 ---
 
-The plan he did have, and kept, was his father's.
+The plan was set.
 
 They would come down to within four hundred strides of the near end of the village and get in above it where the water came out of the fold, and lie there through the dark and the whole of the next day, and he would learn it. Which house woke first. Where the men went in the morning and when they came back. Where the dogs slept. Which door the smith's smoke came out of. Who left the village and who came into it and how often and from which direction. That was a day's work and it was cheap and it was the only kind of work he had ever been any good at, and at the end of it he would know where to knock.
 
@@ -139,8 +135,6 @@ He did not look at his arm. He had been not looking at his arm since the middle 
 "Yes."
 
 "That is the whole of my father's school. Choose the ground. Do not let the ground choose you."
-
-"I know," Valeria said. "I was in the yard for it."
 
 She stood up.
 
