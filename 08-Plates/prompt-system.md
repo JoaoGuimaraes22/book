@@ -445,6 +445,8 @@ the lines of sight meeting. This eye contact is the subject of the
 image.
 ```
 
+**IT LANDS ON A STILL BODY AND NOT ON A WORKING ONE** (s65, four post-register instances). Held: `ch21/the-doorway-at-the-end` and `ch36/the-boat-words`, both seated, still, with nothing in either body to do. Failed: `ch34/both-faces-wet`, where the pair were written running and her eyes came back down and past him, and `ch30/the-fold-under-the-terrace`, where his went to the danger while hers did what the block asked. **A pair of eyes will meet when the bodies have no competing task and will go to the task when they have one** — so where a moment needs both, give the working body a reason to have already finished, or take the eye contact and drop the task.
+
 **Ownership.** With two dark garments in frame, state it, and the absences per character as well as the possessions:
 
 ```
