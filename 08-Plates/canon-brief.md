@@ -36,7 +36,7 @@ Tall for the cohort and built a year ahead of it — broad, heavy through the sh
 Dark-gold hair. Amber, gold-brown eyes — the one warm saturated point, with the skin around the eye kept cool or the face eats it. His ground stays cool; warm parchment is Aeliana's alone.
 Clear skin over good bone, with no weathering worked into it — the station is in the skin, whatever is on top of it.
 Open, easy, pleasant — unspent strength carried high, a boy never once put on the ground. Never sneering, smug or cruel.
-From Ch. 26 one arm is not all right and he pretends about it. Which arm is not established.
+From Ch. 26 the LEFT arm is not all right and he pretends about it, and it is held in against the body (Ch. 31, Ch. 32).
 
 ELARINE SEDRANE
 Small, neat, finely built; nothing on her that does not work. Narrow shoulders, a small head, a slender neck.
@@ -64,7 +64,7 @@ Scars, from Ch. 3: a long seam under the left shoulder; a round through-wound wi
 NERIS — the mother
 Passes as village until she is still; the stillness is the portrait. Fine bones under worked hands; weather and sun on her, but not the coarsening.
 Dark brown hair, long — warm rather than cool, plainly brown and not black, no blue in it. Dark eyes.
-Three quartz-white marks in her hair, permanent — two from Ch. 32, the third at the front of the hair from Ch. 33. Cold and hard, and distinct in kind from Aeliana's silver.
+Three quartz-white marks in her hair, permanent — two from Ch. 32, the third at the front of the hair from Ch. 36. Cold and hard, and distinct in kind from Aeliana's silver.
 Not warm, not maternal, not soft.
 Her hands are where the book keeps her: any full figure or scene puts them in frame and occupied.
 
