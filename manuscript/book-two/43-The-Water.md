@@ -74,7 +74,7 @@ She was silent for a moment. Then she said, "I see," and stopped talking, and di
 
 She turned her head.
 
-"A father is a name, and a name has a house on the end of it, and a house is somewhere a letter goes." He had learned that at a table in Qeshet in about four minutes, and it had cost him everything he had. "Give these people a name and some decent man in that village writes it down and sends it up the road to the nearest person who can read, because he thinks he is doing us a kindness. And he is. And it kills us."
+"A father is a name, and a name has a house on the end of it, and a house is somewhere a letter goes." He had learned that at a table in Qeshet in about four minutes. "Give these people a name and some decent man in that village writes it down and sends it up the road to the nearest person who can read, because he thinks he is doing us a kindness. And he is. And it kills us."
 
 "Then we give them nobody to write to," Valeria said.
 
