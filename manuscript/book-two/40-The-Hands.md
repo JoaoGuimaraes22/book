@@ -44,7 +44,7 @@ The direction he took off the sun in the afternoon and the sky at night, when th
 
 The rest of it he took at the door.
 
-They fed them twice a day and the box barely stopped for it: a slowing, the door open, the cups, bread, sometimes a handful of dried stuff that had been fruit a long time ago, and the door shut again before the man on the rope had got his feet properly under him. Six or seven breaths a time, twice a day. In two months that came to a little over four hours of looking at the world, and Kael spent every second of it.
+They fed them twice a day and the box barely stopped for it: a slowing, the door open, the cups, bread, sometimes a handful of dried stuff that had been fruit a long time ago, and the door shut again before the man on the rope had got his feet properly under him. Six or seven breaths a time, twice a day. In two months that came to a little over an hour of looking at the world, and Kael spent every second of it.
 
 He learned the ground. What grew in it, how far apart, what colour it went at the ends of the leaves; where the stone came through and what kind it was; whether the tracks in the dust had been made by anything with a load on it. He learned the light. At the wells there were other people once, a string of loaded animals coming the other way, and he got four seconds of them: the shape of their bundles, and the fact that not one of the men leading them looked at a black box with a barred slot going past in the middle of fifty armed men. That told him something about this country he did not enjoy knowing.
 
@@ -346,7 +346,7 @@ He was breathing like someone had removed his lungs. It was the loudest thing in
 
 Then the shaking started, and it would not be stopped by any means he had.
 
-He had a name for every kind of pain his father's school had ever handed him. He had one for the arm, one for the ribs, one for the thing the wasters did to the ends of the fingers in cold weather. He had none at all for this. He lay in the dark and shook, and understood, distantly, that he was in some trouble that had nothing to do with the nine men outside.
+He had a name for every kind of pain his father's school had ever handed him. He had one for the arm, one for the ribs, one for the thing the wasters did to the ends of the fingers in cold weather. He had none at all for this. He lay in the dark and shook, and understood, distantly, that he was in some trouble that had nothing to do with the men outside.
 
 Somewhere in it, from the other side of the box, low, Valeria Vel said, "One."
 
