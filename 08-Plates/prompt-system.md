@@ -242,6 +242,12 @@ OR darkest value].
 
 **The prompt is `prompts/portraits/elarine-14.md`**, which is the source and holds it as run.
 
+### Oss
+
+`images/portraits/oss-14.png` · a bespoke soft rung · no HAIR. **Cut at s64 on the author's word** (*we should actually choose a design for oss instead of having him be just a faceless thing*), to take `ch27/oss` off the no-resolved-face escape. `03/oss.md` gives the build, the bearing and the expression — *soft-built, round-faced, quick-eyed*, *everything he wears slightly too new*, *a face built for laughing that watches carefully between laughs* — and gives no colouring, so **the mid-brown hair, the mid-brown eyes and the bought dye are the block's proposal and not canon**; if the reference is adopted they belong in `03` before they belong here. The eyes win on local contrast, as Neris's and Vask's do, but **without their demotion clause**: his hair is a soft mid-brown rather than a dark mass, so there is nothing to demote. The cloth is the second subject and it is the character — new, pressed, dyed a colour that had to be paid for, against Kael's undyed and mended wool three feet away.
+
+**The prompt is `prompts/portraits/oss-14.md`**, which is the source.
+
 ### Vask
 
 `images/portraits/vask.png` · Vask · HAIR. The adopted image shows no grey and reads younger than `03`'s *used tools*; both ruled acceptable (s34, s43) and `03` does not move. The block is the corrected one; its grey instruction has failed twice and the cause is not settled — do not run the same fix a third time.
