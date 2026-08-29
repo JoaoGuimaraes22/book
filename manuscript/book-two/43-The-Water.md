@@ -12,15 +12,15 @@ Kael stopped and put his shoulder against a rock and stayed there.
 
 "Yes."
 
-"How far."
+"How far are we."
 
 He listened to it properly. Sound came up a fold like this and lied about the distance, and it lied in a direction he knew.
 
-"Mile. Little more."
+"A mile. Little more."
 
-Valeria set the princess down on her feet and the princess stood up on them, which she had been doing since the middle of the afternoon and which Kael had not stopped counting.
+Valeria set the princess down on her feet and the princess stood up on them.
 
-"Then we should talk about it now," he said, "and not there."
+"Then we should talk now," he said, "and not there."
 
 ---
 
@@ -28,15 +28,15 @@ They sat down where they were, in the grass at the side of the water, in the dar
 
 Kael had been building it all day, in between the strides, in the part of his head that still belonged to him. He laid it out.
 
-"There are forty houses. There is a headman and there is a smith. We want the smith and we want a healer and we want food, and we want all three of those from people who have never seen us before, in a country where I have been for a day."
+"There are forty houses. There is a headman and there is a smith. We want the smith and we want a healer and we want food, and we want all three of those from people who have never seen us before, in a country where we have been for a day."
 
-"Take the smith," Valeria said.
+"We can take the smith," Valeria said.
 
 He had known she would say it. It was the correct thing to say.
 
 "Go on."
 
-"At night, in his own house, alone. He does the work or he does not, and either way we are three miles from the village before it is light and nobody knows who we were." She said it without any weight on it at all. "It is the smallest number of people. Everything else is more people."
+"At night, in his own house, alone. He does the work or he does not, and either way we are three miles from the village before it is light and nobody knows who we were." She said it without any weight on it at all. "It is the safest way. Everything else is more people."
 
 "And the healer."
 
@@ -50,7 +50,7 @@ The princess had been sitting with her hands in her lap and her chin up, which w
 
 "Say more."
 
-"We were on the road with our father's train and it was taken. That happens. It happens constantly; my chamberlain used to complain about it in writing." She was looking at the water. "We were held and we got away."
+"We were on the road with our father's carriage and it was taken. That happens. It happens constantly; my chamberlain used to complain about it in writing." She was looking at the water. "We were held and we got away."
 
 Kael turned it over. It was not bad. It explained three children and it explained the state of them and it explained why they had nothing.
 
@@ -70,15 +70,41 @@ Kael turned it over. It was not bad. It explained three children and it explaine
 
 She was silent for a moment. Then she said, "I see," and stopped talking, and did not sulk about it, and Kael filed that.
 
-"There is a bigger problem than the story," he said.
+"It is the father," Kael said. "Not the rest of it. The rest of it is nearly right."
 
-He got his right hand up out of his lap and turned it over in front of them so that the band caught what light there was, and the eleven links came off it and swung, and he held it there.
+She turned her head.
 
-"Every one of them dies on this. Whatever we say, they look at our wrists, and iron on a child means one thing everywhere, and everybody who sees it will already know the answer before I open my mouth." He put the hand back down. "There is no story that survives a wrist. So we do not have a story. We have what we are."
+"A father is a name, and a name has a house on the end of it, and a house is somewhere a letter goes." He had learned that at a table in Qeshet in about four minutes, and it had cost him everything he had. "Give these people a name and some decent man in that village writes it down and sends it up the road to the nearest person who can read, because he thinks he is doing us a kindness. And he is. And it kills us."
 
-"That is not a plan," Valeria said.
+"Then we give them nobody to write to," Valeria said.
 
-"No," Kael said. "It is what is left when you take the plans away."
+"Yes."
+
+He got his right hand up out of his lap and turned it over so that the band caught what light there was, and the eleven links came off it and swung.
+
+"And this is the other half, and I have had it upside down all day. I have been trying to build something that would survive the iron." He turned the wrist over. "It does not have to survive the iron. The iron is the part they will believe."
+
+He put the hand down.
+
+"East of here is theirs. It was a month of nothing and then theirs from the sea, and we have been going east for two months, so there is a war at the end of this road and it is not far. A war makes orphans faster than it makes anything else, and orphans get taken, and the people who take them put them in iron, because that is what you do with a thing you are going to sell."
+
+Nobody said anything.
+
+"We are children who were taken," Kael said. "That is the whole of it. We do not say by whom, because a child who was taken does not always know, and nobody will think it strange that we cannot say. We do not say where from, because we have nowhere to be sent back to. And we got away and we came down the water, because water goes down to people."
+
+"I cannot speak," Valeria said.
+
+"No. And she cannot speak, and I can, and that is in it as well. We were not taken together. We were taken out of three places and put in together, and I am the only one of us with any Ivrit in his mouth." He had run out of air somewhere in the middle of that and got some more. "It is a good story, and the best of it is that I will not have to say most of it. They will look at your wrists and they will have the rest before I have finished."
+
+The water went on going down past them.
+
+"Kael," Valeria said.
+
+"Yes."
+
+"It is not a story."
+
+"No," Kael said. "It isn't."
 
 ---
 
@@ -132,7 +158,7 @@ The door opened and a woman came out into the yard with a lamp.
 
 She held it up. She was perhaps forty. She was in the pale cloth of this country, wound and hung, with her head covered, and she had come out with the lamp in one hand and a piece of firewood in the other in a manner that suggested she had done it before.
 
-Kael had four sentences ready. He had built them on the walk down and he had taken them apart twice and rebuilt them, and they were the best four sentences he had, and they were nothing at all, and he knew it, and he was going to use them anyway because a man says the thing he prepared.
+Kael had four sentences ready. He had built them on the walk down and taken them apart twice and rebuilt them, and they were good, and they were in the right order, and he was going to use them because a man says the thing he prepared.
 
 The lamp came up over the wall and found them.
 
@@ -212,6 +238,36 @@ He got a good look at her hands then, going round and round and round his arm, q
 
 ---
 
+The headman came on the second morning and sat down on the end of the bed without being asked, which Kael took to be the whole of his authority, and wanted to know who they were.
+
+Kael gave him the four sentences.
+
+He gave them slowly, because of the arm and because slowly was better, and he did not decorate any of it. They had been taken. They had been taken out of three places and put in together. He did not know the names of the men who did it and had never been told where they were being taken to. They had got out and come down the water because water goes down to people. And there was nobody anywhere to send word to, for any of the three of them, which he put last, and said flat, and watched the old man's face while he said it.
+
+The headman heard all of it with both hands on the top of his stick and his chin on his hands.
+
+"Where is your Ivrit from," he said, when Kael had stopped. "It is not from here."
+
+"The coast."
+
+"That is a long way to be taken."
+
+"Yes."
+
+The old man looked at him for a while.
+
+"Four winters ago two boys came down this water in the spring with a rope still on one of them," he said. "We had them until the summer and they went on west. There was a girl the year after and she did not live." He got up off the bed with the stick doing most of it. "Every one of them tells me about somebody who is coming for them. A mother. An uncle. A man who owes their father money. It is the first thing out of their mouths and it is never true."
+
+He got the door open with the end of the stick.
+
+"You did not," he said.
+
+"No," Kael said.
+
+"No," said the headman, and went out.
+
+---
+
 The house belonged to a man called Damir, who was the smith, and to his wife Miresh, who was the woman with the lamp.
 
 They had a son called Tarim, who was grown, twenty perhaps, with his father's shoulders coming on him and his mother's face, and who had given up his own bed and slept in the shed with the mules and made nothing of it.
@@ -254,7 +310,7 @@ She was not looking at him. She was watching the track, and her face was doing w
 
 "Doing what," he said, to make her say it.
 
-"They have been told what we are. Nobody has said it out loud in front of us but the old woman looked at my wrists and did not ask, and the headman came and looked at the three of us and went away again, and that man's son sleeps with the mules." She turned her head. "They know that we are being hunted. They know that whoever is hunting us is the empire, because who else puts iron on people. And they are feeding us out of a pot that does not have enough in it."
+"They have been told what we are. Nobody has said it out loud in front of us but the old woman looked at my wrists and did not ask, and the headman sat on your bed and asked you four questions and did not ask a fifth, and that man's son sleeps with the mules." She turned her head. "They know that we are being hunted. They know that whoever is hunting us is the empire, because who else puts iron on people. And they are feeding us out of a pot that does not have enough in it."
 
 "Yes."
 
@@ -430,6 +486,10 @@ And then he said it.
 
 Three of them. A boy of thirteen or fourteen, dark, an islander, who had a hand and an arm on him that would be in a bad way by now. A girl the same age, black hair, who was to be considered as dangerous as any man in this yard and was not to be approached by fewer than four, and there was a small sound in the yard when he said that.
 
+Kael lay with his cheek in the dirt and listened to his four sentences come apart over his head.
+
+An islander. A girl who was to be considered as dangerous as any man in that yard. There was nothing anywhere in it that was three children off a war road, and every person in Doresh who had heard him say it was standing in a yard somewhere at that moment, hearing the rest.
+
 And a girl of fourteen or fifteen.
 
 "And you will not need me to describe her," the voice said. "You will know her when you see her, and you will know her from the far end of this village, because there is nobody in the world with hair that colour. Not fair. Not white. Silver, like a thing that has been made."
@@ -524,7 +584,25 @@ Kael put it down where he put things, and went to see about the boards.
 
 They did it the next night, and the night after.
 
-Damir did the princess first, because Kael said so and Valeria did not argue. He put a stake into the block and laid the band over the horn of it so that the iron was resting on iron and there was nothing under the blow but her wrist held in his own left hand, and he set the chisel on the peened head of the pin, and he tapped it, and set it, and tapped it.
+Damir did the princess first, because Kael said so and Valeria did not argue. He put a stake into the block and laid the band over the horn of it so that the iron rested on iron and there was nothing under the blow but the band itself, and Kael knelt on the far side and held her arm down on it with his one hand. Then Damir set the chisel on the peened head of the pin, and he tapped it, and set it, and tapped it.
+
+Somewhere in the middle of the first band he stopped to let his hands come back, and stood with the chisel in his fist, looking down at the girl on the block.
+
+"She is not an orphan off a road," he said.
+
+"No."
+
+"And you knew what you were telling me."
+
+"Yes."
+
+Damir put his thumb along the edge of the chisel and looked at that instead of at Kael.
+
+"My father shod for the man who held this road before the empire had it," he said, "and for the empire after. It makes no difference to the mule."
+
+He set the chisel back on the pin.
+
+"Hold her arm."
 
 The forge was open at the front and the sound went out of it and up.
 
