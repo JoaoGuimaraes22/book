@@ -52,7 +52,7 @@
 - **The map (author, s55):** the island south of the continent; the empire its west, the coalition its east; Qeshet on the south coast; the road to the capital runs north and then west along the shoulder (`02-World-Bible/geography.md`).
 - Empire vs. coalition; the compass slowly rotates (the "enemies" humanize; the empire's rot surfaces). Long threads: 00.
 - **The two months east — SPENT: Ch. 40 "The Hands"** (sixty-two days of road; the count kept and the day never lost; the governor who does not leave the box; the watch divided; the princess coming apart; the camp on the sixty-second day, and Kael's left hand broken and skinned to get it out of the band). Where the road ends is on no page.
-- **WHAT FOLLOWS: THE DOOR OPENS.** Three children in a camp, one ruined hand, no Art, an empty band and eleven links, nine men and four mules — and a princess who may not have taken in one word of what she was told. Not yet written.
+- **WHAT FOLLOWS: THE DOOR OPENS.** Three children in a camp, one ruined hand, no Art, an empty band and eleven links, **a column of fifty** and four mules — and a princess who may not have taken in one word of what she was told. Not yet written.
 
 ### BOOK TWO'S SHAPE (author, s61) — TWO YEARS, THE TRIO, AND THE ROAD TO SOLVENNA
 **Broad only, by destination (author, s61): the specifics are uncovered at design time, chapter by chapter.**

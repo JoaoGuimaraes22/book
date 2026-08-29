@@ -46,17 +46,21 @@ The rest of it he took at the door.
 
 They fed them twice a day and the box barely stopped for it: a slowing, the door open, the cups, bread, sometimes a handful of dried stuff that had been fruit a long time ago, and the door shut again before the man on the rope had got his feet properly under him. Six or seven breaths a time, twice a day. In two months that came to a little over four hours of looking at the world, and Kael spent every second of it.
 
-He learned the ground. What grew in it, how far apart, what colour it went at the ends of the leaves; where the stone came through and what kind it was; whether the tracks in the dust had been made by anything with a load on it. He learned the light. At the wells there were other people once, a string of loaded animals coming the other way, and he got four seconds of them: the shape of their bundles, and the fact that not one of the men leading them looked at a black box with a barred slot going past. That told him something about this country he did not enjoy knowing.
+He learned the ground. What grew in it, how far apart, what colour it went at the ends of the leaves; where the stone came through and what kind it was; whether the tracks in the dust had been made by anything with a load on it. He learned the light. At the wells there were other people once, a string of loaded animals coming the other way, and he got four seconds of them: the shape of their bundles, and the fact that not one of the men leading them looked at a black box with a barred slot going past in the middle of fifty armed men. That told him something about this country he did not enjoy knowing.
 
-And he learned the men.
+And he learned the men, which took longer than the ground, because there were a great deal more of them than there was any reason for.
 
-There were nine of them. Six riders and two on the box seat from the first day. The ninth was the governor, and the governor was still there in the second week, and in the third, and in the sixth.
+He had the number by the fourth day and did not believe it until the sixth. Fifty. Two on the box seat and the rest mounted, strung out ahead of the box and behind it, and at a halt their fires went back further than the slot would show him at once.
+
+Eight of them belonged to the box: the two on the seat, and six who rode close and worked the door in threes, and it was the same six for sixty-two days. The rest were a number, and a number was all they ever became. They kept their own fires. They changed their places in the column. Not one of them came within twenty feet of that door in two months.
+
+The ninth man who ever came near that door was the governor, and the governor was still there in the second week, and in the third, and in the sixth.
 
 That was the thing Kael could not get to the bottom of. A man who keeps a city does not spend two months in the dust behind four mules. He had priced Hazoun Sabrane once, in a square, at a distance of nine feet: careful, slow, a man who came out to look at strangers himself instead of having them fetched in. Nothing about that man belonged on this road. He was here anyway, every day, and Kael watched him get worse.
 
 The first week there was a canopy at the halts and a chair under it. By the fifth week there was neither. He was thinner in the face; his cloth was not clean; he slept badly, which Kael could hear, because a camp at night is a quiet place and a man who gets up twice makes exactly twice as much noise as a man who does not. And he rode at the back. Not once or twice. Every day, at the back, and every day, at some point in the afternoon, he turned in the saddle and looked at the road behind him for as long as the road was straight.
 
-Kael built the answer out of what he had, and the answer he built was this: the goods were too valuable to hand to anybody, so the man was delivering them himself, and he looked back because he was afraid of thieves.
+Kael built the answer out of what he had, and the answer he built was this: the goods were too valuable to hand to anybody, so the man was delivering them himself, with fifty men round them because fifty men is what you put round a thing like that, and he looked back because he was afraid of thieves.
 
 He was wrong, and he had no way on this earth of knowing that he was wrong, and it would be a long time before anybody told him.
 
@@ -184,7 +188,7 @@ At the start of the ninth week there was standing water at a halt, in a cut, wit
 
 Kael got two seconds of it through the door and lay down afterward with his eyes shut and did the piece of work he had been waiting eight weeks to do.
 
-Water. Cover. Ground with something in it that a person could put in his mouth. Nine men and four mules, and a country that would now, if a person had to, keep three people alive for a few days.
+Water. Cover. Ground with something in it that a person could put in his mouth. Fifty men, which was not a number anybody was going to fight, and a country that would now, if a person had to, keep three people alive for a few days.
 
 The other terms had been ready for a long time. The moon was four days from nothing. His own numbers were going one way and were not going to turn round. And the box did not stop.
 
@@ -196,7 +200,7 @@ He felt it in his back before he understood it: the sound under the wheels went 
 
 He lay still and listened to them make a camp.
 
-It was not a halt. He had eight weeks of halts in him and this was not one. They took the mules out of the traces, all four, which they did not do at a halt. Somebody drove pegs. A fire went in, and then a second fire, further off. Men walked past the door with loads. There was a smell of dung smoke and then, later, of something cooking that had not come out of a sack, which meant somebody had bought it or shot it, and either way it meant they were staying.
+It was not a halt. He had eight weeks of halts in him and this was not one. They took the mules out of the traces, all four, which they did not do at a halt. Somebody drove pegs. A fire went in close to the box, and then another beyond it, and then more than he could keep separate. Men walked past the door with loads. There was a smell of dung smoke and then, later, of something cooking that had not come out of a sack, which meant somebody had bought it or shot it, and either way it meant they were staying.
 
 The light in the slot went from white to the colour of bread, and then it went, and nobody came to the door.
 
@@ -240,7 +244,7 @@ She did not ask what he meant to do with a hand, or whether he could, or what it
 
 "That is nothing."
 
-"It is not nothing. There are two of them awake out there and they change at some point after the middle of the night and both of them come past this door when they do it. If either of us has moved, they will see it."
+"It is not nothing. There are two on this box all night, whatever the rest of them are doing, and they change at some point after the middle of the night, and both of them come past this door when they do it. If either of us has moved, they will see it."
 
 "Then we will not have moved," she said.
 
@@ -258,9 +262,9 @@ He did not know whether one word of it had gone in, and had no way in the world 
 
 ---
 
-He waited until the second fire was down.
+He waited until the far fires were down.
 
-The camp got quiet in stages, and he took each stage off the sounds and put it in its place: the eating; the pots; men going down one at a time with the small grunts of men who have been on horses all day; then the long flat stretch with two sets of feet in it and nothing else.
+The camp got quiet in stages, and he took each stage off the sounds and put it in its place: the eating; the pots; men going down one at a time with the small grunts of men who have been on horses all day; the far fires talking a while after the near one had stopped, and then not; then the long flat stretch with two sets of feet in it and nothing else near him.
 
 The lantern in the box had gone out at some point in the evening and nobody had come to see to it, which was the ninth week for you.
 
@@ -394,7 +398,7 @@ He did not know what to do with any of that, so he put it where he put things.
 
 Then the sky in the slot went from black to a grey that was not the lantern, and the camp began, one man at a time.
 
-He listened to it come: a cough, a pot, somebody putting wood on. The mules. Feet going back and forth on ground that had frost in it. The voice of the one who was frightened of the governor. Then Rashim's. Then, further off and level, three words in the Koine he could not make out.
+He listened to it come: a cough, a pot, somebody putting wood on. Fifty men getting up in the cold, a long way back. The mules. Feet going back and forth on ground that had frost in it. The voice of the one who was frightened of the governor. Then Rashim's. Then, further off and level, three words in the Koine he could not make out.
 
 Then three sets of feet, coming from the fire toward the box.
 

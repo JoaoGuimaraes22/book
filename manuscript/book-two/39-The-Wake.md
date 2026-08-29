@@ -84,13 +84,13 @@ There was a corner of the straw wetter than the rest, that had been used for wha
 
 His head was worse in the middle of the day than it had been at the start of it. Whatever had put him under had not finished with him: it sat behind his eyes like a stone, and every jolt of the wheels moved it, and when he shut his eyes against it the box went round, so he kept them open. The last thing he had was her voice. *Stay awake, Kael*: her hand on the child and her eyes on the door, and *count*, and he had got to five, and then his name, in her voice, and then nothing. That was where they were. There was nothing after it that he could get to, and he went back to it again and again, the way a tongue goes back to a broken tooth, and it was the same every time.
 
-He listened. One box: he had the wheels under him, four of them and no more; one team; the riders, and nothing behind the riders. If they had been taken they had been put in another box, and there was no other box on this road. Then they were not here. Then they were in the house, or they were somewhere else, or they were nowhere, and he could not get to the end of that and did not try again. He did not have any of it. Whether she was alive. Whether the child was. Whether the old man had got up. He lay in the straw with the stone in his head and the count going round the same four things and giving him nothing, and his heart was going again, and this time it did not finish, and he could not put it anywhere.
+He listened. One box: he had the wheels under him, four of them and no more, and no other wheels anywhere on that road — nothing running ahead of them and nothing running behind, only hooves. If they had been taken they had been put in another box, and there was no other box on this road. Then they were not here. Then they were in the house, or they were somewhere else, or they were nowhere, and he could not get to the end of that and did not try again. He did not have any of it. Whether she was alive. Whether the child was. Whether the old man had got up. He lay in the straw with the stone in his head and the count going round the same four things and giving him nothing, and his heart was going again, and this time it did not finish, and he could not put it anywhere.
 
 ---
 
 He counted the rest, since it was there.
 
-Hooves: the team, and it was not horses. Mules, off the step, four of them. Behind the box and on both sides of it, more: riders; he got six, once seven, then six. Two voices on the box seat above the door, going in and out with the wind.
+Hooves: the team, and it was not horses. Mules, off the step, four of them. Behind the box, and on both sides of it, and ahead of it, more; and then more than that. He worked at them for a mile and could not get them apart. More than twenty. He could not honestly make it fewer, and it was the boards, and not himself, that stopped him making it more. Two voices on the box seat above the door, going in and out with the wind.
 
 They were talking Ivrit.
 
@@ -104,7 +104,7 @@ He put that with the black in the iron, and had two things, and no third to make
 
 Then he told the princess.
 
-He had not decided to. He turned his head and she was looking at him; she had watched him listen, he understood, she had watched his face do nothing for a mile; and it came out of him, low: "Four mules. Six riding; one of them not a rider. Two on the box. Water tomorrow, not today." And then, since she could not stop him: "Ivrit, all of them but one. The one gives the orders. We are going east."
+He had not decided to. He turned his head and she was looking at him; she had watched him listen, he understood, she had watched his face do nothing for a mile; and it came out of him, low: "Four mules. Two on the box. Riders — more than twenty, and I cannot get closer than that yet. Water tomorrow, not today." And then, since she could not stop him: "Ivrit, all of them but one. The one gives the orders. We are going east."
 
 She did not move. Her eyes stayed on him over the cloth.
 
@@ -130,7 +130,7 @@ Then she looked at Kael, the slot, the roof, the ring behind his head, the rope,
 
 "They?"
 
-"Two driving, six riding. They talk Ivrit; one gives orders in imperial, the Koine." He looked at her jaw. "You hit somebody?"
+"Two driving. More than twenty riding, and I have not got the number yet. They talk Ivrit; one gives orders in imperial, the Koine." He looked at her jaw. "You hit somebody?"
 
 "Yes." She moved the jaw, and stopped moving it. "There were four in our room. I felt my body weaker than it was after thirty days on the ship as I saw them enter. I got one in the throat before I fell asleep. Another got me back. I could not tell if it was from the punch, or from whatever it was that made me weak in the first place that made me sleep. Then there was something over my face, and I was on the floor, and from there, my memory goes dark." She was looking at the princess while she said it, not at him; it was a report, and it was not his. "They carried her past me. I do not know the rest."
 
