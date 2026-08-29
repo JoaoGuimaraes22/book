@@ -17,7 +17,7 @@ Paste `../canon-brief.md` once at the top of the conversation first.
 
 ## Provenance — which of these produced the adopted image
 
-**VERBATIM AS RUN.** `portraits/kael-9` (author-revised) · `kael-4` · `aurelian-14` · `elarine-14` · `neris` · `neris-marked` · `vask` · `severin` · every scene-test block on `../scene-tests.md` (recovered s47 from the chat that built the scene system; `fight-kael-valeria` is missing its closing paragraph and the adopted image is chest-up with the blade-swap edit applied — see `../scene-tests.md`; `kneel-kael-aeliana` is the bare-parchment version) · `plates/ch01-vask-kael-goat` · `plates/ch01-fallen-stars` · `plates/ch06-carried-past-the-rock`.
+**VERBATIM AS RUN.** `portraits/oss-14` (s64) · `portraits/kael-9` (author-revised) · `kael-4` · `aurelian-14` · `elarine-14` · `neris` · `neris-marked` · `vask` · `severin` · every scene-test block on `../scene-tests.md` (recovered s47 from the chat that built the scene system; `fight-kael-valeria` is missing its closing paragraph and the adopted image is chest-up with the blade-swap edit applied — see `../scene-tests.md`; `kneel-kael-aeliana` is the bare-parchment version) · `plates/ch01-vask-kael-goat` · `plates/ch01-fallen-stars` · `plates/ch06-carried-past-the-rock`.
 
 **ASSEMBLED, NOT AS-RUN.** `portraits/kael-14` · `valeria-14` · `aeliana-15` and all three `full-figures/` — the s33 set; the fixed block was split at s34, so a re-run will not reproduce the adopted image. Every other `plates/` file: the block is what ran, but the header above it is the current system's — from s47 the scene style line rather than the portrait Medium and Colour paragraphs. `git log` has the header each one ran under.
 

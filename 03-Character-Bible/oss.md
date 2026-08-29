@@ -9,7 +9,7 @@
 - **Limit:** Courage only in private — true things said to Kael alone, never in a court; when proximity to Kael costs standing he cannot spare, the herd wins.
 - **Awkwardness:** Talks too much when nervous, which is constantly.
 - **Abilities:** EARTH proficiency; fights "like a sack of flour" by his own pricing; his road is the counting-house.
-- **Appearance:** Soft-built, round-faced, quick-eyed; expressive hands that talk when he does, which is always. Everything he wears slightly too new — cloth that hasn't learned him yet (the bought name as wardrobe). A face built for laughing that watches carefully between laughs.
+- **Appearance:** Soft-built, round-faced, quick-eyed — **mid-brown hair, soft, kept short and combed, and warm mid-brown eyes** (author, s64), and his cloth is dyed where the island's is undyed; expressive hands that talk when he does, which is always. Everything he wears slightly too new — cloth that hasn't learned him yet (the bought name as wardrobe). A face built for laughing that watches carefully between laughs.
 
 ### DYNAMIC
 - **DEAD, on the lip of the breach, doing the one thing this sheet said he could not repeat.** He stopped at the top of the slot while everybody else ran and pulled up a wall of earth four feet high and eleven strides long — *the only working Kael had ever seen him do that was worth anything at all* — and it held four seconds, which was exactly enough, and then they went round it and killed him. **The courage arrived under load, once, and it cost him everything.**

@@ -47,6 +47,13 @@ Assessment in progress: attention fully engaged, giving nothing back, no verdict
 She carries a sword, in the doctrine grip: right hand full, left hand open.
 Spots of colour high on the cheeks are a state she has at Ch. 13 and Ch. 17, not a feature.
 
+OSS
+Soft-built, round-faced, with no hardness anywhere in him: full cheeks, a soft undefined jaw, a short soft neck, sloping shoulders.
+Mid-brown hair, soft, cut short and combed. Warm mid-brown eyes, small and quick.
+Clear well-fed skin with a little sun on it and no weathering.
+A face built for laughing that watches carefully between laughs.
+Everything he wears is slightly too new: good cloth, dyed, pressed, and not yet worn anywhere.
+
 VASK — the father
 Broad through the shoulders and no further; fills a doorway by carriage; moves exactly as much as is required.
 Iron-dark hair of medium length, greying early at the temples as diffuse scatter — never a streak, seam, blaze or band, which is the drain-mark's shape.
