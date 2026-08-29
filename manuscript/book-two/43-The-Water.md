@@ -142,33 +142,87 @@ She stood up.
 
 ---
 
-The dog came out at them at eighty strides and did its whole job and then some.
+The dogs were at the far end.
 
-It was a brown thing with no interest in biting anybody, and it stood in the middle of the track with its feet apart and told the entire fold about them for as long as it took a door to open somewhere below, and then it kept going anyway on general principle.
+He had been listening to them for the last half mile. All three of them were down at the bottom of the village where the water widened and there was nothing at the top end at all, and the wind, such as it was, came up the fold into his face. That was two things going right, and he did not expect a third.
 
-The house was the last one at the top end, close in against the water, with a low wall round a yard and a shed at the side of the yard whose roof was too big for a shed. Kael got that much. There was a fire's light going somewhere behind the shed, low and banked, the colour a fire goes when nobody is feeding it, and he had that too, and it was the last piece of work he did.
+The top house stood on its own, close in against the water, with a low wall round a yard, and beside the yard a shed with a roof too big for a shed.
 
-The door opened and a woman came out into the yard with a lamp.
+Kael looked at it for what he thought was a long time.
 
-She held it up. She was perhaps forty. She was in the pale cloth of this country, wound and hung, with her head covered, and she had come out with the lamp in one hand and a piece of firewood in the other in a manner that suggested she had done it before.
+There was a fire's light behind the shed, low and banked, the colour a fire goes when nobody has fed it for hours. What came off it was not a house fire. It was coal, and slack, and hot iron gone cold, and it had been in his own yard every time his father lit the little forge to true a blade.
 
-Kael had four sentences ready. He had built them on the walk down and taken them apart twice and rebuilt them, and they were good, and they were in the right order, and he was going to use them because a man says the thing he prepared.
+"That is him," he said. "The shed is the forge and the house is his, and he is up at this end on his own because a forge burns houses down and they put it where it cannot take the rest of them with it."
 
-The lamp came up over the wall and found them.
+"How do we do it," Valeria said.
 
-It found a girl in a dead man's coat with her hands in iron in front of her and a scarf that was not hers over her hair. It found another girl standing with her feet apart and a soldier's sword on her hip and iron on her wrists and nothing in her face. And it found a boy holding his left arm across his chest, grey to the lips, with three men's blood dried black down the front of him.
+"Over the wall on the water side, into the yard, and we wake him in his own house. Alone, before his neighbours and before his headman. One man hears it and then one man decides." He got some breath. "It has to be me, because all of it is in Ivrit. You stand back and to the left, out of the lamp, so that the first thing he sees is a boy and not a sword."
 
-The woman lowered the piece of firewood.
+"And if he shouts."
 
-She said something to the house behind her without turning round, one word, and the lamp came down, and she came over the wall's gap and put her hand flat on Kael's forehead the way you check a pot.
+"Then it will not matter what any of us does."
 
-Then she took hold of his good arm and pulled it over her shoulders.
+---
 
-"Get in the house," she said.
+They went over the wall on the water side, and it worked.
 
-She did not ask him anything.
+That was the strangest part of the whole night. Kael put them along the inside of the wall where the ground was hard and took no print, and got the yard in one look: the trough, the woodpile, a mule that was awake and did not care, the house door, the forge door, and the shutter above the house door standing two inches open for the smoke.
 
-He never used any of the four sentences. He was still holding them when the door shut behind them, and after that there was nowhere to put them, and eventually he stopped carrying them about.
+He had been doing this since he was five years old. It was the last thing in him that still ran without being asked, and it ran, and it was good work, and he knew it was good work.
+
+They got to the house door.
+
+He put his hand flat on it and found where the latch sat on the other side by the way the boards had gone, and turned his head to give Valeria the last piece of it.
+
+He got as far as her name.
+
+---
+
+There was the door under his hand, and then there was the ground against the side of his face.
+
+Nothing had happened in between. That was what he could not get past: not the falling, which he had no memory of at all, but that two things had been true one after the other with nothing joining them, and he had not been there for the join.
+
+He tried to get his arm underneath himself. The arm was somewhere else.
+
+*Get up.*
+
+He said it, or thought that he said it, and nothing anywhere in him did anything about it, and he lay in a stranger's yard with his cheek in the dirt and worked out, with the part that was still doing arithmetic and would apparently go on doing it until the end, that the plan had been him. There was not another one. There had never been another one.
+
+---
+
+He got some of what came after and not much, and none of it in order.
+
+Valeria was over him. He knew it off the weight of her hand between his shoulders and not off anything he saw. She said his name twice, flat, and then stopped saying it, which meant she had priced it and moved on to the next thing.
+
+Then a long piece of nothing.
+
+Then a sound.
+
+It was not a word. It came from a little above him and to the right, and it was a hard single knock of something against wood, deliberate, and then a second one, and it was the loudest thing that had happened in that village since they came down into it, and it was meant to be.
+
+He knew what it was doing. Anything that makes a noise like that in a yard in the dark is asking to be found.
+
+He did not know who was making it. Valeria's hand was still on his back, so it was not Valeria, and that left one person, and he could not make the two ends of that meet.
+
+Valeria did not stop her. He had time to notice that and no time at all to do anything with it.
+
+---
+
+A door came open above his head and there was light on the dirt in front of his face, moving.
+
+A woman's voice, in Ivrit, saying what anybody says who has come out of her own house in the middle of the night and does not yet know what she is looking at.
+
+Then two hands came down into the light where he could see them.
+
+They were held out flat and open and turned up, with iron on the wrists above them, and they were not Valeria's, and they stayed there. They did not point at anything. They did not do anything at all. They were held out in front of a stranger, empty, palms up, at about the height of a person's waist, and they did not move, and they did not come down.
+
+He had nothing to do that with. He put it somewhere in the dark without a name on it and lost it almost at once, and it did not come back to him for a very long time.
+
+After that there were hands under him, several of them and real, and a woman's voice much closer, and being lifted, which hurt in a way that had nothing to do with the arm. Then a doorway went over him.
+
+He had four sentences.
+
+He never said one of them.
 
 ---
 
@@ -185,6 +239,18 @@ He got it up in front of his face. It was bound from the knuckles to above the e
 The last time he had woken in a bed under a stranger's roof he had woken in a box a day east with his mother gone.
 
 He lay still until that had gone past him, and then he counted the boards in the ceiling, and there were nineteen.
+
+"How did we get in," he said.
+
+Valeria opened her eyes.
+
+"You fell down in the yard," she said. "A woman came out of the house with a lamp. She took you inside."
+
+"That is not how any of that works."
+
+"It is what happened."
+
+He waited for the rest of it. There was no more of it, and he had nothing left to go and get it with.
 
 ---
 
