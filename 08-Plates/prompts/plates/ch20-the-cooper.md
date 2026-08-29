@@ -13,14 +13,19 @@ pale, so that the road and the sheds are still in cold blue shade and
 the water carries the only warm light in the picture. Woodsmoke lying
 low along the roofs.
 
-Composition: 16:9. The camera stands on the road at head height. On
-the right, near, the boy is in frame from the chest up,
-three-quarters on and turned away down the slope, his head turned so
-that his face reads in three-quarter view. On the left, at about
-twenty strides, a man has straightened up off the turned hull he was
-working on and is looking up the road: a whole figure at that
-distance, small in the frame, drawn as a working man's shape with no
-features on the face at all.
+Composition: 3:4. The camera stands on the road at head height,
+looking down the slope, and the frame stacks bottom to top. Nearest
+and lowest, filling the bottom third, the boy stands three-quarters
+on and turned away down the slope, his head turned back so that his
+face reads in three-quarter view; the bottom edge of the picture
+crosses him just below the shoulder, so that no arms, no hands and no
+legs of his are in the frame at all. Above and beyond him the packed
+earth road runs away downhill. At about twenty strides, higher in the
+frame and small in it, a man has straightened up off the turned hull
+he was working on and is looking up the road: a whole figure at that
+distance, drawn as a working man's shape with no features on the face
+at all. Above him again, at the top of the frame, the sheds, the
+boats on the shingle and the flat grey water.
 
 NOTHING IS HAPPENING. The two of them are looking at each other
 across twenty strides of village road at dawn, and neither of them is

@@ -11,13 +11,16 @@ rough boards and a plank wall behind, the room falling away into deep
 cool shadow. One oil lamp stands at the far edge of the table off to
 one side, low and warm, and is the only light in the picture.
 
-Composition: 4:3. The camera is at the side of the table at seated
-height, so that the tabletop runs across the lower third of the frame
-and both of them are seen from the side, facing each other across it.
-The man is on the left, chest-up, leaning in with both forearms
-coming forward over the boards. The boy is on the right, chest-up,
-sitting back a little, both his hands resting on the table in front
-of him and neither of them raised.
+Composition: 3:4. The camera is at the side of the table at seated
+height and close in, so that the tabletop runs across the lower third
+of the frame and the two of them fill the upper two thirds, seen from
+the side and facing each other across it. The bottom edge of the
+picture crosses the near edge of the tabletop, so that no laps, no
+knees, no chairs and no floor are in the frame at all. The man is on
+the left, chest-up, leaning in with both forearms coming forward over
+the boards. The boy is on the right, chest-up, sitting back a little,
+both his hands resting on the table in front of him and neither of
+them raised.
 
 THE KNIFE IS HELD OUT ACROSS THE TABLE, HILT FIRST, AND IT HAS NOT
 BEEN TAKEN YET. The man's right hand holds it flat by the blade with
