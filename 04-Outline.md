@@ -53,7 +53,17 @@
 - Empire vs. coalition; the compass slowly rotates (the "enemies" humanize; the empire's rot surfaces). Long threads: 00.
 - **The two months east — SPENT: Ch. 40 "The Hands"** (sixty-two days of road; the count kept and the day never lost; the governor who does not leave the box; the watch divided; the princess coming apart; the camp on the sixty-second day, and Kael's left hand broken and skinned to get it out of the band). Where the road ends is on no page.
 - **WHAT FOLLOWS: THE DOOR OPENS.** Three children in a camp, one ruined hand, no Art, an empty band and eleven links, nine men and four mules — and a princess who may not have taken in one word of what she was told. Not yet written.
-- TBD.
+
+### BOOK TWO'S SHAPE (author, s60) — TWO YEARS, THE TRIO, AND THE ROAD TO SOLVENNA
+**Broad only, by destination (author, s60): the specifics are uncovered at design time, chapter by chapter.**
+- **The span:** roughly two years from the wake — Kael and Valeria 13→15, Aeliana 14→16. **Only the three of them are on the page**; Neris, Wren, Severin, Aurelian and Elarine stay off it until the end.
+- **THE DESTINATION IS ALREADY ON THE PAGE (Ch. 38).** *You do not go to the capital from here — you go to Solvenna, and from Solvenna to the capital. Five months to Solvenna in good weather … The empire begins there.* **SOLVENNA** is the southernmost city of the empire's original borders; **Qeshet is a city-state**, held through a native ruler. Kael carries the number out of that bed. **Both halves of the party are walking to the same place**, which is what makes the ending a promise rather than a coincidence.
+- **1 — THE DOOR, AND THE OPEN GROUND.** The escape and what it costs; three children loose with one ruined hand, no Art and no road. They find out where they were taken: **ISHARETH**, a border city between the empire and the coalition country beyond it (both unspent; the country unminted).
+- **2 — QESHET IS GONE.** Learned at distance, never visited: the coalition has struck it, and whatever was there is not there. What follows from it is Kael's own reasoning and the only thread he has — if the others live, they are for Solvenna.
+- **3 — THE CONTINENT IS AT WAR AND THE ROADS ARE WATCHED.** Moving hidden is the problem the book is built on; his father's fieldcraft and his mother's languages are what keep three people alive.
+- **4 — THE CREW (the main line).** They fall in with outlaws working west toward Solvenna, who know how to move through law. **Passage is paid in work** — jobs, heists, whatever the road asks — and the price of it is that **three identities have to be held for two years**, from the crew and from everybody else.
+- **5 — SOLVENNA, AND THE REUNION.** Book Two ends when the group is one again. Who arrives, and what it costs, is not yet written.
+- **Unminted / undecided:** the coalition country the border runs against · the capital's name (unnamed on every page to date) · the crew, its leader and its rules · whether the cover story is chosen once or accretes.
 
 ## Queued threads (unspent; no fixed beat — place at drafting)
 - **THE DRUSANE LETTER (Ch. 37).** The princess wrote Kael, Neris and Wren into the empire as House Drusane — *Lucan Drusane, the Lady Drusane, and the child* — in a governor's letter that left Qeshet for the capital the night they landed; Aurelian and Elarine are inside it with true sentences about the dead boy; Severin heard it and said nothing; Valeria gave only her own name. Kael has decided her reason was pride. What the capital, and House Drusane, do with a dead boy alive is unspent; so is what the princess does with a lie she had never told before.
