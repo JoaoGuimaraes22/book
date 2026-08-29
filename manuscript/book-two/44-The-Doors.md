@@ -2,7 +2,7 @@
 
 The horses came into the yard at a walk.
 
-Kael lay on his side with his cheek in the dirt and his bound arm along the length of him, and turned his good ear up, and listened.
+Kael lay on his side with his cheek in the dirt and his bound arm along the length of him, and listened.
 
 Ten horses at least. Boots, and a lot of them, so they had come off the horses in the yard, which meant they were not in a hurry and had done this before, in other yards, that morning or the day before.
 
@@ -16,11 +16,9 @@ The voice was asking Damir about his mules. It asked about his mules for a surpr
 
 And then he said it.
 
-Three of them. A boy of thirteen or fourteen, dark, an islander, who had a hand and an arm on him that would be in a bad way by now. A girl the same age, black hair, who was to be considered as dangerous as any man in this yard and was not to be approached by fewer than four, and there was a small sound in the yard when he said that.
+Three of them. A boy of thirteen or fourteen, dark, an islander, who had a hand and an arm on him that would be in a bad way by now. A girl the same age, black hair.
 
-Kael lay with his cheek in the dirt and listened to his four sentences come apart over his head.
-
-An islander. A girl who was to be considered as dangerous as any man in that yard. There was nothing anywhere in it that was three children off a war road, and every person in Doresh who had heard him say it was standing in a yard somewhere at that moment, hearing the rest.
+There was nothing anywhere in it that was three children off a war road, and every person in Doresh who had heard him say it was standing in a yard somewhere at that moment, hearing the rest.
 
 And a girl of fourteen or fifteen.
 
@@ -34,9 +32,45 @@ Then he named the other thing.
 
 He did it in the same voice he had used about the mules, which was how Kael knew that he meant it and had not enjoyed saying it. Any house. Any house that had them, or had had them, or had fed them and let them go. He did not describe what would happen to it. He said the words *any house* and then he stopped talking, and the stopping was the whole of it.
 
+The princess's mouth was about a hand from his ear.
+
+"What is he saying," she said, in the Koine, on almost no breath at all.
+
+He could have given her nothing. He thought about giving her nothing for about a quarter of a second, and then did not, because she had asked, and because he had already worked out that she would rather have it.
+
+"He has described the three of us," he said. "He got you right. He said there is nobody in the world with hair that colour."
+
+"And?"
+
+"And he has offered money for us."
+
+"How much."
+
+"Enough to buy this village. All of it. The ground under it."
+
+She was quiet.
+
+"There is more," Kael said. "You should have the rest of it. He said any house that has us, or has had us, or fed us and let us go." He got the next part out and it was not easy in a whisper. "He did not say what would happen to it. He stopped there, and that was the whole of it."
+
+For a long moment there was nothing from her at all.
+
+Then she said, "So they will give us up."
+
+"Yes."
+
+"You are certain."
+
+"I have done the sum from their side," Kael said. "There is not a way for it to come out any other way. I would give us up."
+
+The princess did not answer that.
+
+What she said, eventually, was not any of the things he had expected, and he had expected several.
+
+"Her name is Neshah," she said. "The child. I did not know that until yesterday, because I had to be told it twice."
+
 Kael lay under the floor of that storeroom and thought, with total clarity: *they will take it.*
 
-He was not angry about it. There was nothing in it to be angry about. He had priced the pot on the second morning and he had priced the sacks against the wall and he knew what this family had, and he had just heard a man offer them forty years of not being frightened, and he had heard the other side of it as well, and there was no arithmetic in which the answer came out any other way. He had done that sum on a bound man in a wood six days ago from the other side of it, and had got the answer he wanted, and had known exactly what he was doing while he did it.
+He was not angry about it. There was nothing in it to be angry about. He had priced the pot on the second morning and he had priced the sacks against the wall and he knew what this family had, and he had just heard a man offer them forty years of not being frightened, and he had heard the other side of it as well, and there was no arithmetic in which the answer came out any other way.
 
 He turned his head to the boards and waited for the light to come down.
 
@@ -98,15 +132,15 @@ The princess had it back over her head before Kael had finished turning round. S
 
 Kael's first thought was the right one, and he had it before he had finished moving.
 
-*Who is standing where they could see that.*
+*Who was standing where they could see that.*
 
-He got the yard in one pass, which took him rather longer than it would have done a week ago. Damir, facing away, arguing. The headman, facing away. The three men from below, all facing the headman. Miresh in the doorway with her back to it. Valeria at the gap in the wall, looking down the track, because that was where Valeria looked.
+He got the yard in one pass. Damir, facing away, arguing. The headman, facing away. The three men from below, all facing the headman. Miresh in the doorway with her back to it. Valeria at the gap in the wall, looking down the track.
 
 And Tarim, at the door of the forge shed, twenty feet off, with a bucket in his hand.
 
 Kael looked at him for perhaps a second and a half.
 
-He knew Tarim now. Tarim had given him his bed and had slept six nights in the shed with the mules about it, and had carried the old woman's water up the track twice a day, and had run a mile that morning to tell them, and had done it without being asked by anybody, and had stood in the yard and been afraid while the horses were in it and had not gone anywhere.
+He knew Tarim now. Tarim had given him his bed and had slept six nights in the shed with the mules about it, and had carried the old woman's water up the track twice a day, and had run a mile that morning to tell them, and had done it without being asked by anybody.
 
 Then the bucket went down and Tarim went into the shed after it.
 
@@ -114,9 +148,9 @@ Kael put it down where he put things, and went to see about the boards.
 
 ---
 
-They did it the next night, and the night after.
+It was finaly time to take the irons off.
 
-Damir did the princess first, because Kael said so and Valeria did not argue. He put a stake into the block and laid the band over the horn of it so that the iron rested on iron and there was nothing under the blow but the band itself, and Kael knelt on the far side and held her arm down on it with his one hand. Then Damir set the chisel on the peened head of the pin, and he tapped it, and set it, and tapped it.
+Damir did the princess first, because Valeria said so and Kael did not argue. He put a stake into the block and laid the band over the horn of it so that the iron rested on iron and there was nothing under the blow but the band itself, and Kael knelt on the far side and held her arm down on it with his one hand. Then Damir set the chisel on the peened head of the pin, and he tapped it, and set it, and tapped it.
 
 Somewhere in the middle of the first band he stopped to let his hands come back, and stood with the chisel in his fist, looking down at the girl on the block.
 
@@ -152,7 +186,7 @@ The pin went out of the princess's left band at somewhere near the fourth hour a
 
 She put her hand round her own wrist and held it.
 
-Then Damir did the other one, which took less time because he had the measure of it now, and when it came off she sat with both hands in her lap and looked at them, and said, in the empire's tongue, to nobody, "Oh."
+Then Damir did the other one, which took less time because he had the measure of it now, and when it came off she sat with both hands in her lap and looked at them, and said, in the empire's tongue, "Oh. Thank you."
 
 Valeria went the second night, and she was quicker than either girl had any right to be, because she put her arm on the horn and left it there and did not move it once in an hour, not by a hair, and Damir said afterward that he had never had anything so easy to work on in his life and had also never wanted so much to stop.
 
@@ -160,21 +194,9 @@ And when her second band came away Valeria stood up and walked out of the forge 
 
 Kael came out after her.
 
-She was standing in the middle of the yard with her hands down at her sides and her eyes shut and her head slightly back, and she was completely still. She was on the packed dirt where the mules turned, and there was rock two feet under it, and there was a whole fold of stone under that going down to the water and up the other side, and all of it was carrying something, and she had not been able to hear any of it for seventy days.
-
-He did not say anything to her.
-
-After a minute she opened her eyes.
-
-"There is somebody's cattle," she said. "A long way down. Nine or ten of them."
-
-"How far."
-
-"I do not know. Far. It is not — " She stopped and started again. "It is loud. I had forgotten that it is loud."
-
 ---
 
-His own went last, on the second night, and it was the shortest of the three, because there was only the one band left on his right wrist and because Damir was better at it than he had been.
+His own irons went last, on the second night, and it was the shortest of the three, because there was only the one band left on his right wrist and because Damir was better at it than he had been.
 
 Tarim was not in the forge that night.
 

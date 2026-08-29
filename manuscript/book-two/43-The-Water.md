@@ -400,6 +400,48 @@ Nobody had asked him that in two months. The last person to use the name his mot
 
 ---
 
+That evening the princess came and sat down on the floor by the bed with her back against the wall, which was where she had taken to sitting because it was out of the line of the window, and did not say anything for a while.
+
+Then she said, in the Koine, "I want you to teach me their language."
+
+Kael turned his head.
+
+She was looking straight ahead at the opposite wall and her hands were in her lap in the iron and the cloth was still over her hair, and she had clearly had the sentence built for some time.
+
+"Why."
+
+"Because a woman washed my feet yesterday," the princess said, "and I could not say one word to her about it, and I sat there like a dog being seen to. Because a child of four has more of this house than I do. And because if that man comes back up the track with his horses I would like to know what is being said about me while it is being said, and not afterward, and not because you have decided to tell me."
+
+"That is three reasons."
+
+"Yes," she said. "I have had two days."
+
+Kael lay and looked at the ceiling and thought about it, and what he thought was that it was the correct request, made for correct reasons, and that he had never taught anybody anything in his life.
+
+"It is called Ivrit," he said.
+
+"Ivrit."
+
+"The whole coast speaks it. It is not the empire's."
+
+"I know it is not the empire's," the princess said. "That is not a difficulty for me."
+
+"What do you want first."
+
+She did not have to think about it.
+
+"How do I say thank you."
+
+He told her.
+
+She said it back to him wrong, and he told her again, and she said it wrong in a different way, and he found that he was doing what his mother had done, which was to say the thing slowly and then at speed and then not at all, and wait, and make the other person go and get it themselves. He had never once thought about how she did it. He had only ever been on the other side of it.
+
+The princess got it on the fifth attempt and then said it eleven more times, flatly, to the wall, the way somebody drills.
+
+"Again tomorrow," she said, and got up, and went.
+
+---
+
 On the third day Valeria asked him a question.
 
 They were in the yard. He was sitting on the wall in the sun with the arm up on his knee because the old woman had told him to and because it did in fact help, and Valeria was standing near the gap in the wall where she could see the track, which was where she had stood for some part of every hour since they arrived. Her ribs had been strapped by the old woman on the first evening. She had let a stranger put hands on her, which Kael had watched and had not remarked on, and she had said thank you afterward in the empire's tongue to a woman who did not have it.
@@ -480,33 +522,19 @@ Kael waited.
 
 "Two nights," Damir agreed.
 
-Kael had been listening to the shape of the fold since the first morning, to how the water noise sat in it and how the dogs at the far end came through, and he already knew the answer to the next thing, and asked it anyway.
-
-"Everybody will hear it."
-
-"Everybody in Doresh will hear it," Damir said, "and everybody in Doresh will know exactly what it is, because a man does not cut iron at night for any reason there is a good reason for." He said it without heat. "There are forty houses here. Not one of them will come out."
-
-"You are sure of that."
-
-Damir looked at him.
-
-"No," he said, and got up.
-
 ---
 
 Later that evening Kael asked him about the road.
 
 He had been waiting to. He had spent four days getting the near ground off Tarim and off the boy who carried the healer's water and off anyone who would answer: which tracks went where, how far the next water was, what was between here and the flat. He had a map now that was better than the one he had come down with and it stopped about nine miles out in every direction, which was the size of a village's world.
 
-Damir's world was bigger. Damir's world was the road.
-
 "East," Kael said. "Along the top. Where does it go."
 
-"Days. Six, seven for a train that is loaded." Damir was scraping the bowl. "It stays on the south skirt the whole way because the north side is what you came down and nothing goes on the north side. Then the Kharoun stops and the ground goes down a long way, and there is a river, and at the river there is Ishareth."
+"It continues to go for days. Six, seven for a carriage that is loaded." Damir was scraping the bowl. "It stays on the south skirt the whole way because the north side is what you came down and nothing goes on the north side. Then the Kharoun stops and the ground goes down a long way, and there is a river, and at the river flows to Ishareth."
 
 "Ishareth."
 
-"You would know it if you had been anywhere," Damir said, not unkindly. "It is the last of it. It is a city on the river and the empire holds it and past the river it does not, and everything that is going to cross goes across there, and everything that comes back comes back through there." He set the bowl down. "Half of what goes up this road is going to Ishareth. I have put shoes on it for twenty-two years."
+"You would know it if you had been anywhere near it," Damir said, not unkindly. "It is the last of it. It is a city on the river and the empire holds it and past the river it does not." He set the bowl down. "Half of what goes up this road is going to Ishareth. I have put shoes on it for twenty-two years."
 
 Kael said the name over twice inside his head.
 
@@ -515,6 +543,10 @@ Ishareth. Six or seven days east, on a river, and the last of it.
 That was where the box had been going. He had two months of east in him and no reason for any of it, and now there was a place at the end of the road with a name on it, and the number attached to the name was six or seven days.
 
 He did not know one useful thing about it and he had it, and having it was not nothing.
+
+---
+
+The Ivrit went on every evening, against the wall, out of the line of the window. She had about forty words by the fourth day and all of them were nouns and two of them were verbs and none of them would have got her through a sentence, and she used every one of them on Miresh at the table whether it fitted or not, and Miresh corrected her food-words with enormous seriousness and let the rest go.
 
 ---
 
@@ -540,7 +572,7 @@ He came into the yard and said one word to his mother and Miresh put down what s
 
 "How many?" he said.
 
-Tarim looked at him and did not answer, because he was twenty and had run a mile and had never had to do this.
+Tarim looked at him and did not answer.
 
 "How many," Kael said again, in Ivrit, flat, the way you take a report.
 
@@ -562,14 +594,6 @@ Valeria went in first and turned herself round in the dark to face the opening.
 
 The princess went next. Miresh had her by both shoulders on the way down and said something to her, and the princess did not have a word of it and went in anyway and got flat.
 
-Kael stood at the edge of the hole.
-
-His body would not do it.
-
-He had gone through the whole of it in his head on the walk across the room: the size of the space, the boards, the dark, the fact of somebody else putting a cover over him. His head had said yes to all of it, and then he was standing at the edge and none of the rest of him was going anywhere at all. He was aware of the exact temperature of his own hands.
-
-He got down and went in.
-
-It took about four seconds and it was the worst four seconds of the six days, and nobody saw it.
+Kael placed himself last, got down and went in.
 
 The boards went down. Damir put something on top of them that scraped, and then there were feet, and then there was a very long time.
