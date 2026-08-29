@@ -106,7 +106,7 @@ They stopped at the top of the trees. There was talk, low, and it came down to h
 
 A voice that gave orders and was used to it told five men to stay with the horses at the top and keep them quiet. That left seven. One of the seven was not a soldier; Kael could hear it in how the others talked to him and how he talked back, which was less and slower, and this one went down to the stream first, alone, ahead of the rest, and Kael put his eye to the gap in the roots and watched him come.
 
-He came bent, slow, his eyes down, a man reading the ground and not looking for a fight, and he stopped at the crossing and crouched and looked at it for a while, and then he spoke back up the slope without turning round, and he read the three of them off the ground out loud to the man who gave orders, the way a clerk reads a list.
+He came bent, slow, his eyes down, a man reading the ground and not looking for a fight, and he stopped at the crossing and crouched and looked at it for a while, and then he spoke back up the slope without turning round.
 
 "Three. The boy is here." A hand at the crossing. "He is bleeding, badly, from the left hand; there is blood on every second stone. He will be slow and he will be getting slower. Two of them have no boots. One is being carried; the marks of the one carrying are deep and short, so a grown one carrying a light one." A pause. "The little one that is carried does not put her feet down at all."
 
@@ -136,7 +136,7 @@ Two went at the gap, and that was a mistake, because the gap only took one, and 
 
 The other two came round.
 
-They did not come through the gap. They came round the end of the bank, one and then the other, men who had understood the gap was death, and the first of them came round it straight onto Kael, who had nothing but a knife slick with another man's blood and one hand and a body that had begun, very quietly, to shut down, and the man hit him with the flat of a shoulder and put him on the ground and came down on top of him with a knee going into the middle of him and a hand, a whole hand, a working hand, closing over Kael's ruined left one where it lay in the needles and grinding it, on purpose, because he had seen it, because a man in a fight uses the thing that will make the other man stop, and Kael's whole world went to that hand and there was nothing else in it.
+They did not come through the gap. They came round the end of the bank, one and then the other, men who had understood the gap was death, and the first of them came round it straight onto Kael, who had nothing but a knife slick with another man's blood and one hand and a body that had begun, very quietly, to shut down, and the man hit him with the flat of a shoulder and put him on the ground and came down on top of him with a knee going into the middle of him and a hand, a whole hand, a working hand, closing over Kael's ruined left one where it lay in the needles and grinding it, on purpose, because he had seen it, and Kael's whole world went to that hand and there was nothing else in it.
 
 The princess came up off the ground behind the man.
 
@@ -174,7 +174,7 @@ Six men were dead in the space of forty feet, and one was on the ground alive wi
 
 "Then we are quick," Valeria said.
 
-They were quick. What six dead men had was more than they had had that morning by a great deal: four skins, three of them full, and Kael got the first full one against his own mouth and drank until his stomach hurt and then made himself stop, because a man who drinks it all now is a man with none tomorrow. Bread, hard, in cloth. Two cloaks that would do for the cold, and boots, boots off two of them small enough for the princess's feet and Valeria's, and Valeria sat the princess down and put a dead man's boots on her cut feet without a word and did the same for her own and said nothing about any of it. Swords, which Kael left, because a sword was not a thing he could use and not a thing they could carry three of. A short spear he kept. Nothing on any belt, on any of the six, that would open a peened iron pin: no key, no chisel, no file, no hammer. He had known there would not be. He looked anyway, on all six, with the part of his mind that was still doing arithmetic, and there was not.
+They were quick. What six dead men had was more than they had had that morning by a great deal: four skins, three of them full, and Kael got the first full one against his own mouth and drank until his stomach hurt and then made himself stop, because a man who drinks it all now is a man with none tomorrow. Bread, hard, in cloth. Two cloaks that would do for the cold, and boots, boots off two of them small enough for the princess's feet and Valeria's, and Valeria sat the princess down and put a dead man's boots on her cut feet without a word and did the same for her own and said nothing about any of it. Swords: two of the shorter ones, with the belts to hang them on, one for him and one for Valeria. His father's longsword he had never been able to use and could not now, but a plain soldier's sword he could manage one-handed, and it was worth more than a spear by a distance; a spear was a thing a man threw once and then wished he had not. Valeria was better with an edge than any man it had come off. The knives they kept, all of them, and left the spears in the needles. Nothing on any belt, on any of the six, that would open a peened iron pin: no key, no chisel, no file, no hammer. He had known there would not be. He looked anyway, on all six, with the part of his mind that was still doing arithmetic, and there was not.
 
 The princess was on her knees by the man Valeria had kneed, with her small knife back in her hand. She had gone and pulled it out of his leg herself, which he had not seen her do. She was holding it, and she was looking at the man, and she was not looking away from him.
 
@@ -206,7 +206,7 @@ He put the point of the little knife back into the wound the princess had made i
 
 "Where are we."
 
-The count was going the whole time. He had it on the man's pulse, which he could see in the man's throat, because his father had taught him that a body cannot lie about that; a body speeds up when it is going to lie and it does a different thing when it has decided to tell the truth, and if you know the man's own rhythm first you can read the change. So the first thing he had done, before he hurt him at all, was to take the pulse and hold it, forty counts of it, so that he would have the truth of it to measure the rest against. He was thirteen years old and he was doing it without deciding to, out of a school with no first day, and somewhere a long way under the fever a part of him watched himself do it and had nothing to say.
+The count was going the whole time. He had it on the man's pulse, which he could see in the man's throat, because his father had taught him that a body cannot lie about that; a body speeds up when it is going to lie and it does a different thing when it has decided to tell the truth, and if you know the man's own rhythm first you can read the change. So the first thing he had done, before he hurt him at all, was to take the pulse and hold it, forty counts of it, so that he would have the truth of it to measure the rest against. He was doing it without deciding to, out of a school with no first day, and somewhere a long way under the fever a part of him watched himself do it and had nothing to say.
 
 The man told him where they were.
 
@@ -248,7 +248,7 @@ Valeria killed him.
 
 She did it while Kael was still sitting back, without being asked and without asking, one clean movement, the good knife under the jaw and up, the way she had done it to the man at the ring, and she held her free hand flat on his chest until it stopped, and then she took her hand away and stood up.
 
-Kael heard it happen. He did not stop her. He had the whole of the half-second it would have taken to say the word and he did not say it, and he knew, kneeling there with his ruined hand against his chest and his mother's red line climbing his arm, that he had not said it because it was the right thing to have done and because he could not have made himself do it and that both of those were true and neither of them cancelled the other.
+Kael heard it happen. He did not stop her. He had the whole of the half-second it would have taken to say the word and he did not say it, and he knew, kneeling there with his ruined hand against his chest and his red line climbing his arm, that he had not said it because it was the right thing to have done.
 
 The princess had watched the whole of it. From the first lie to the last breath, she had watched it, on her knees in a dead man's coat with her hands in iron in her lap, and she had not looked away, and now she was looking at Kael, and he made himself look back at her, because he thought he owed her that, and he could not read one thing in her face, and for once in his life it was not because there was nothing there to read.
 
@@ -258,7 +258,7 @@ They went down off the Kharoun by the water, north, into the shadow the sun had 
 
 They went as fast as three people in irons could go, one of them carrying a girl part of the way and the girl walking part of it, in a dead man's boots, on her own feet, ten strides and then twenty and then, once, nearly a hundred before her legs gave out and Valeria caught her. Behind them and above them, back up in the trees, men were calling names into the wood and getting no answer, and their voices got smaller as the fold took the trio down, and after a while there was only the water.
 
-Kael carried the coat and a skin and the short spear and could carry nothing else, and he kept his feet by putting them one after another, and he kept the rest of himself by keeping the count.
+Kael carried the coat and a skin and could carry nothing else, the sword belted on where it wanted no hand, and he kept his feet by putting them one after another, and he kept the rest of himself by keeping the count.
 
 He counted the princess's strides when she was walking, because it was the only number he had that went up instead of down, and because it was a thing with an answer in it, and because a man who has the count has something.
 
