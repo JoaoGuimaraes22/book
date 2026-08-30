@@ -14,12 +14,15 @@ Paste `../canon-brief.md` once at the top of the conversation first.
 - `full-figures/` — `Image` line · BASE · SUBJECT · closing line. Anchored to the portrait.
 - `plates/` — `ch<NN>-<slug>.md`: the `Image` lines, then the scene style line (or, for a plate with no reference attached, the STYLE block's Medium paragraph), then the prompt. **Prompt text only** — no heading, no fence, no emphasis (s45); the run record lives under the plate's CHOSEN entry in `plate-candidates/`. Where the author optimised a prompt before running it, the file holds their version, as run.
 - `plate-candidates/` — `ch<NN>.md`: every candidate that chapter's design found, `## CHOSEN` first with the prompt path, `## CANDIDATES` after. **The chapter quote in a CHOSEN entry is what `scripts/build-docx.py` uses to place the picture on the page** (`../README.md` §The files).
+- `held/` — `<slug>.md`: the block behind a picture in `../images/held/` that is not a plate and not a reference — a run made for its own sake, kept because the block is worth having. Same rule as the rest: prompt text only, as run. There is no candidate list and no run record; the picture is the record.
 
 ## Provenance — which of these produced the adopted image
 
 **VERBATIM AS RUN.** `portraits/oss-14` (s64) · `portraits/kael-9` (author-revised) · `kael-4` · `aurelian-14` · `elarine-14` · `neris` · `neris-marked` · `vask` · `severin` · every scene-test block on `../scene-tests.md` (recovered s47 from the chat that built the scene system; `fight-kael-valeria` is missing its closing paragraph and the adopted image is chest-up with the blade-swap edit applied — see `../scene-tests.md`; `kneel-kael-aeliana` is the bare-parchment version) · `plates/ch01-vask-kael-goat` · `plates/ch01-fallen-stars` · `plates/ch06-carried-past-the-rock`.
 
 **ASSEMBLED, NOT AS-RUN.** `portraits/kael-14` · `valeria-14` · `aeliana-15` and all three `full-figures/` — the s33 set; the fixed block was split at s34, so a re-run will not reproduce the adopted image. Every other `plates/` file: the block is what ran, but the header above it is the current system's — from s47 the scene style line rather than the portrait Medium and Colour paragraphs. `git log` has the header each one ran under.
+
+**HELD RUNS, VERBATIM AS RUN, NO ADOPTED IMAGE.** `held/kael-the-stroke` and `held/kael-the-lock` (s68, author-authored, run outside a plate session) — the pictures are in `../images/held/` and are not pages. `../images/held/kael-post-battle.png` has no stored prompt.
 
 **NO STORED PROMPT.** `kael-17`, `valeria-17`, `aeliana-18` — age progressions run with a changed age line that was never written down.
 
