@@ -236,7 +236,7 @@ The part of him that would have argued about any of it did not say one word, the
 
 It was afterward, walking back up to the split rock, that he noticed it had not.
 
-He did the sum again on the way, because he wanted it to come out somewhere else. It would not. Nineteen men had come down that water to take a girl back to the man who had put three children in a box; if any one of them had got home, forty houses would have been burned with the people still inside them; and the ones in the holes could not be left where they were, and could not be carried, and could not be mended. He took it from every end he could find and it came out the same from all of them. He had been right. He was still right.
+Nineteen men had come down that water to take a girl back to the man who had put three children in a box; if any one of them had got home, forty houses would have been burned with the people still inside them; and the ones in the holes could not be left where they were, and could not be carried, and could not be mended. He took it from every end he could find and it came out the same from all of them. He had been right. He was still right.
 
 They had also been the kind of men who sew coins into a hem, and one of them had a roof that had been done before the rain.
 
@@ -290,7 +290,7 @@ She said it the way she had ruled the rooms at Qeshet, and Kael understood that 
 
 "And Ishareth."
 
-"Six or seven days for a loaded train, so eight or nine for us. Down off the Kharoun to a river, and a city, and the last of the empire before the river." He looked at Valeria, who had said nothing. "The road east is the one road on this continent that they have already searched, because they searched it coming the other way. And a city is the only place in the world where three people can be nobody at all."
+"Six or seven days for a loaded carriage, so eight or nine for us. Down off the Kharoun to a river, and a city, and the last of the empire before the river." He looked at Valeria, who had said nothing. "The road east is the one road on this continent that they have already searched, because they searched it coming the other way. And a city is the only place in the world where three people can be nobody at all."
 
 "And the man who is hunting me is in it," the princess said.
 
@@ -306,7 +306,7 @@ There was a silence in that room that went on a little too long.
 
 Kael did not look at her. He had known that whichever of the two of them made him say it out loud, it was going to be Valeria, and she had waited until the room was quiet to do it.
 
-"He is the only person alive who knows where my mother is," he said. "And my brother. And the old man. He put us in that box and he took us out of that house and he is the only thread there is, and there is not going to be a second one."
+"He is the only person alive who knows where my mother is," he said. "And my brother. And the old man, and Elarine and Aurelian. He put us in that box and he took us out of that house and he is the only thread there is, and there is not going to be a second one."
 
 "Yes," Valeria said.
 
