@@ -437,7 +437,7 @@ Valeria stood there for a moment.
 
 "Yes, Highness."
 
-Then she sat down on the floor with her back against the wall, in the corner where the stair came up, on the side the door was on, and put the flat of her hand on the boards. The floor came up into her hand, and the walls with it.
+Then she sat down on the floor with her back against the wall, in the corner where the stair came up, on the side the door was on, and put the flat of her hand on the boards. Her Art flowed through the floor and walls.
 
 "There are two above us," she said at last. "One is heavy and does not move much. The other has been at the top of the stair since we came up it and has not gone in or out."
 
