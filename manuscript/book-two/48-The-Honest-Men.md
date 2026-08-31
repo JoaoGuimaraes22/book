@@ -98,24 +98,14 @@ Valeria heard the whole thing without moving and asked one question at the end o
 
 The princess had her hands in her lap and she looked at them for a while.
 
-"You told Tarim he would have to decide," she said. "One day a man rides up that water with a paper saying Doresh is to be paid, and there is no way on earth for a smith to tell that from another man with a list, and you told him so. You told him he would not know and would have to decide anyway."
+Kael and Valeria went out at the middle of the morning, when a street is at its fullest. They went up the river on the inside of the wall until the yards stopped and the houses started.
 
-"Yes."
-
-"He said that was a poor answer."
-
-"It was the only honest one I had."
-
-"Yes," said the princess. "You are about to knock on a door you cannot see behind. I am not going to give you a better answer than you gave him."
-
-Kael went out at the middle of the morning, when a street is at its fullest and a boy on it is worth nothing to anybody, and he went alone, and he went up the river on the inside of the wall until the yards stopped and the houses started.
-
-It took him a while to find it and then it was obvious, in the way a thing is obvious once you know what it is: a long low house at the end of a street that did not go anywhere, with the plaster off it in two places and the shutters up on the upper floor in the middle of the day. There was a bench outside the door. There were two men on the bench and neither of them was doing anything at all.
+They went to it: a long low house at the end of a street that did not go anywhere, with the plaster off it in two places and the shutters up on the upper floor in the middle of the day. There was a bench outside the door. There were two men on the bench and neither of them was doing anything at all.
 
 Kael stopped at about twenty strides and looked at the two of them for a moment, because it costs nothing to look and because they were worth looking at. Neither of them had a weapon anywhere he could see. Neither of them had the shoulders. They were sitting the way men sit at the end of a long day, and one of them had his boots off, and between the two of them they had the whole of that street to the corner and back and did not appear to be watching one strides' worth of it.
 
 He counted the strides from the corner to the door.
 
-Then he walked up the street and stood in front of the bench, and the one with his boots off looked up at him, and Kael said, in the empire's tongue, so that there could be no mistake at all about which of the two languages in that city he had chosen to say it in:
+Then they walked up the street and stood in front of the bench, and the one with his boots off looked up at him, and Kael said, in the empire's tongue, so that there could be no mistake at all about which of the two languages in that city he had chosen to say it in:
 
 "I want to talk to somebody about the bridge-house."
