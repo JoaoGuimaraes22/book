@@ -645,3 +645,16 @@ Two classes are admitted that are not "good lines", and both are explicitly mark
   - "He had been right. He was still right." *(the sum, re-run, refusing to come out anywhere else)*
   - "It did not stay down." *(the first failure of putting a thing down)*
   - "You will not. You will have to decide." *(Tarim's last question answered)*
+
+### Ch. 47–48 (admitted at the s69 close)
+- *I see what is in front of me. All of it. And it stays.*
+- *"Which day."* — Kael, asked what was on a shelf.
+- *the part in the middle where you feel better*
+- *"Stopped taking it out." / "That is not the same as it being gone."*
+- *the description is three*
+- *They look at whoever is being looked after.*
+- *Nobody in the empire cared who came into Ishareth.*
+- *He is not spending a purse. He is spending a river.*
+- *they call them the honest men*
+- *It was a trade. That was the honest word for it, and he made himself use it.*
+- *"I want to talk to somebody about the bridge-house."*
