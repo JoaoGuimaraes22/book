@@ -622,3 +622,26 @@ Two classes are admitted that are not "good lines", and both are explicitly mark
 - **Ch. 44 — "The Doors"**
   - "Silver, like a thing that has been made." *(the description that blows the story, and arms one man)*
   - "It makes no difference to the mule." *(Damir, on whose road it has been; the conquered country's whole stance, unremarked)*
+
+- **Ch. 45 — "The Ground"**
+  - "There is no sentence in the world where you give us up and Doresh is not in it." *(the term Tarim had wrong; the whole of the bargain)*
+  - "It is the Art. It is what your iron was for." *(the proof, to a man with no word for it)*
+  - "She is stronger than I am. And so is the other one." *(the half-truth, told standing next to the half that is a lie)*
+  - "Doresh stands by children." *(Damir ruling for the village — author)*
+  - "there is no third thing under those two. There is just the two of them, and they are the same boy." *(a father on a son who did both — author)*
+  - "But five men, four times. That would be easy." *(the arithmetic the whole day is built on — author)*
+  - "That is where a man walks when the road stops being a road." *(why the pits go where they go)*
+  - "I wish I could see the world as you do Val." *(Kael's *Val*, and the Art as a sense — author)*
+  - "Because I would have liked to be the one who said it." *(the princess on the promise sold for her — author)*
+
+- **Ch. 46 — "The Narrow"**
+  - "Nobody looks at ground he has not walked on. He looks at the ground where the bad thing already happened." *(why the ambush works)*
+  - "It did not sound like swordwork. It sounded like a man being taken apart against the ground." *(Valeria at sixty strides)*
+  - "a number you have got twice is not a number you have got" *(the third count, out loud, with his hand on each of them)*
+  - "That is all of them. Nobody is going back up that water." *(the promise to Tarim, paid out loud)*
+  - "Making sure is a thing you do with your hands." *(and it is how he learns what they were)*
+  - "the roof had been done before the rain came and that she was not to worry about it" *(the letter in the wallet, written for a man who could not read)*
+  - "That part was nobody's fault but his. Nobody made him look."
+  - "He had been right. He was still right." *(the sum, re-run, refusing to come out anywhere else)*
+  - "It did not stay down." *(the first failure of putting a thing down)*
+  - "You will not. You will have to decide." *(Tarim's last question answered)*

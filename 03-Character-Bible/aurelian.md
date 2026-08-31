@@ -11,6 +11,7 @@
 - **Appearance:** Tall for his cohort, built a year ahead of his age; dark-gold hair; **amber, gold-brown eyes — author ruling s34, unspent on any page**; high carriage; unspent strength Kael prices on sight. Beautiful and knows the exact weight of it — the bench behaves differently in his radius (the page renders the radius, not the adjective). Fire's warmth in the coloring without stating it — it sits in the hair and the eyes together, and is never named as fire.
 
 ### DYNAMIC
+- **KAEL COUNTS AURELIAN AMONG THE PEOPLE HE IS WALKING TOWARD A MAN FOR (Ch. 46).** Asked why Ishareth, he named the governor of Qeshet as the only thread to his mother, his brother, the old man, *and Elarine and Aurelian.* **His Ch. 36 verdict on the gate is untouched and uncorrected**, and the page joins the two together nowhere.
 - **ON NO PAGE FROM CH. 39.** Not in the box; Valeria *saw nothing of … Corvane and Sedrane*; what became of him that night is 00's.
 - **He said it, since nobody else would** — *I have wanted a bed with my whole body for a month, and I find that I cannot walk to one* — and ended up in Elarine's room without either of them having arranged it: *The floor. You will have the floor.* / *Naturally.*
 - **He is inside the lie.** *Of the capital … Lucan and I were four years in the same cohort. His father stood on the eastern stretch of that wall beside mine, and I watched them both go up onto it, and neither of them came down* — every word true, said to the governor and not to Kael, gone the colour of the bread, the cup lifted and not drunk from.
