@@ -447,3 +447,129 @@ Nothing moved in the room at all.
 Every word of it was true.
 
 The man got up, went to the door, and opened it.
+
+---
+
+The four of them came back in and looked at the column of floor standing between the table and the window, and not one of them said anything about it.
+
+"They are in," the man said.
+
+"On what."
+
+"On a tenth. And the boy is in the building when it opens."
+
+"No."
+
+"Yes."
+
+"You have not asked him one question about who is hunting them, or what they did to get hunted, or who else knows they walked up that street this morning."
+
+"I have asked him everything I am going to ask him today," the man said. "Sit down or stand up. I do not mind which."
+
+Then he turned round in his chair and looked at the two of them for a while, and whatever he found there he seemed to enjoy.
+
+"You may want to do something with your faces," he said. "You have both got exactly what you came for and you are standing there like people waiting to be hit."
+
+Neither of them did anything with their faces.
+
+"When," said the man at the window.
+
+"You gave me the number yourself," the man at the table said to Kael. "Fifty-one, and four days later sixty-three. Say the rest of it out loud so that they hear it from you and not from me."
+
+"Every week you wait, the thing you want is behind six more men," Kael said. "And the money that is buying them does not run out, because it is not a purse. It is a river."
+
+"So."
+
+"So it does not get better. It gets worse at about six a week, for as long as anybody cares to sit and watch it."
+
+"The night after this one," the man said.
+
+The room came apart for a moment. Two of them talked at once; the one at the end of the table put both hands on it and leaned.
+
+"We are not ready."
+
+"We have been ready for a month," the man said, and he was not arguing, he was reciting. "We have the papers. We have the seal. We have the bank and we have the boats and we have had the boats since before the turn of the month, at a price I do not enjoy thinking about. There has been exactly one thing missing since the day we came into this city, and it is the inside of that building, and it walked up the street this morning and asked for a knife."
+
+Nobody said anything.
+
+"Get everybody. Tonight."
+
+---
+
+They came in over the next hour and a half, in ones and twos, off the water and off the street, and Kael counted them.
+
+Fifteen, with the four already there.
+
+Not one of them looked like anything. There was a man of about sixty in a good coat who came in and sat down without speaking to anybody. There were two who arrived together and were plainly brothers and plainly not from this country. There was a woman of perhaps thirty who came in with a basket on her hip, put the basket down by the door, and was greeted by more of them than anybody else who came in that hour. There were four who were of Ishareth and had been all their lives and could not have been anything else.
+
+There was nothing in that building anybody could have been arrested for.
+
+The wheel at the far end stopped turning about halfway through, and the three men on the walk coiled what they had made and came up to the lit end and sat on the floor with the rest of them, and the whole of the day's work in that place stopped, and nobody said one word about that either.
+
+Kael had never in his life been in a room where he was the reason.
+
+---
+
+It took an hour and a half.
+
+He gave them the eight faces and the order they worked in, and the two doors, and the hours, and the day in the second week when the bridge did not open at all and nobody in the yards could say why. He gave them the fifty-one and the sixty-three again with the days attached. He answered thirty or forty questions and did not know the answer to nine of them and said so nine times.
+
+The best of the questions came from the woman who had put her basket down by the door. She asked eleven. Nine of them were about the two doors, and the last two were about the boy himself, and he answered those as well.
+
+When it was finished, the light coming in along the open side of the walk had gone the colour it goes.
+
+"I am going now," Kael said.
+
+"No," said the man.
+
+Kael stood where he was.
+
+"I need to go."
+
+"You can't. Not tonight." The man was not looking at him; he had gone back to the sheet on the table and was reading down it. "You stood in my rope-walk for an hour and a half and told fifteen people how a thing is going to be done. Nobody who knows that leaves this building until it is done. Not you. Not her. Not me." He turned the sheet over. "She sleeps here tonight, and so do I, and so does everybody who came in that door this afternoon. It is not about you. It has never once been about anybody."
+
+"There is a third one of us."
+
+"I know. In a room, on her own, in a place you have not told me." He put the sheet down. "She'll just have to sleep worried tonight."
+
+"If we do not come up that stair tonight," Valeria said, "she will not go out and she will not send anybody. She will sit and wait for us until we come, or until somebody else does."
+
+The room was quiet for a moment.
+
+"Then that is two nights," the man said.
+
+"Yes."
+
+He looked at the two of them, and he did not look sorry, and he did not look pleased with himself either.
+
+"Tell me where she is," he said, "and I will have a word put under her door tonight, and another one tomorrow, and she will know why nobody has come."
+
+Kael did not say anything.
+
+"You do not have to," the man said. "It changes nothing about tonight. She will sit there for two nights not knowing, and people live through that, and she will be exactly as safe as she is now, which is a thing I have not asked you to tell me either."
+
+He picked the pen up.
+
+"Take a moment. I am going to be here."
+
+Kael took the moment.
+
+He had held one thing all day. He had held it in front of four men and a table and a knife and a column of his own making, and it was the only thing he had brought into that building and not put down on it.
+
+"Zahir's yard," he said. "Outside the wall on the downstream side. The stair on the outside of the long shed, the last room at the end. It has no window that opens."
+
+"Good," said the man.
+
+"She will not open the door to somebody she does not know."
+
+"Then give her something she will."
+
+Kael thought about it for longer than he expected to have to.
+
+"Tell her: nineteen boards," he said. "Eleven long and eight short over the joist. There was a knot in the fourth one."
+
+The woman by the door said it back to him once, exactly, in the order he had said it. Then she picked up her basket and went out.
+
+The man had already turned round in the chair.
+
+"Right," he said. "The door onto the bridge. Say it again, and say it slowly this time."
