@@ -21,18 +21,22 @@ doorway behind her, a second man bent under the roofline, a
 silhouette against the light.
 
 SHE IS STANDING AND NOTHING ABOUT IT IS ASKING PERMISSION. The back
-straight, the chin level, the head still, the shoulders down and
-square. Not defiant, not frightened, not theatrical — someone who has
-stood up.
+straight, the chin level, the shoulders down and square, and the head
+square on them and not turned back over one of them. She is facing
+straight down the length of the box, her eyes level and steady on the
+person lying at the near end. Not defiant, not frightened — someone
+who has stood up.
 
 Her hands are together in front of her, a plain closed ring of dark
-metal on each wrist with a hand's width of chain between them. A
-strip of pale cloth is wound across the lower half of her face and
-knotted behind her head, so that only the eyes and the brow are
-showing. Her hair is loose down her back, silver-white and
-colourless, dulled and matted with two months in the box. What is
-left of a fine gown, filthy, the cut of it still readable under the
-dirt.
+metal on each wrist, with no more chain between them than the width of
+her own hand, so the two wrists are held close together. A strip of
+pale cloth is wound across the lower half of her face and knotted
+behind her head, so that only the eyes and the brow are showing. Her
+hair is loose down her back, silver-white and colourless, and two
+months in the box are in it: unwashed and heavy, hanging in ropes
+rather than waves, darkened with grease at the parting. What is left
+of a fine gown, the cut of it still readable, the hem black with two
+months of floor and every light colour in it gone grey.
 
 She is the only upright thing in the picture and the lightest thing
 in it: her hair the lightest mass in the frame and her eyes above the
