@@ -222,15 +222,15 @@ That got him a small movement at the corner of the mouth, and he had no idea whe
 
 "And what have you got."
 
-"He pays at that table three days out of seven," Kael said. "On the first day I stood in that yard I counted fifty-one men. Four days later I counted sixty-three. He turns one in three away on sight, which means he can afford to."
+"He pays at that table three days out of seven," Kael said. "On the first day I stood in that yard I counted fifty-one men. Two days later I counted sixty-three. He turns one in three away on sight, which means he can afford to."
 
 "We have men in that yard."
 
-"Then you have a number. You do not have two numbers four days apart, because a man who has somebody in a yard is asking what is in it. I was asking how fast it is filling."
+"Then you have a number. You do not have two numbers with two days between them, because a man who has somebody in a yard is asking what is in it. I was asking how fast it is filling."
 
 Nobody said anything.
 
-"He is not sitting on that chest," Kael said. "He is spending it. And what he is spending it on is men, so every week you wait, the thing you want is behind six more of them. That is what the two numbers are for. It is the only thing I have brought you today and it is yours whatever else happens, because you cannot do anything with it that I mind."
+"He is not sitting on that chest," Kael said. "He is spending it. And what he is spending it on is men, so every day you wait, the thing you want is behind six more of them. That is what the two numbers are for. It is the only thing I have brought you today and it is yours whatever else happens, because you cannot do anything with it that I mind."
 
 The man at the end of the table stopped looking at Kael and looked at the man with the pen.
 
@@ -474,13 +474,13 @@ Neither of them did anything with their faces.
 
 "When," said the man at the window.
 
-"You gave me the number yourself," the man at the table said to Kael. "Fifty-one, and four days later sixty-three. Say the rest of it out loud so that they hear it from you and not from me."
+"You gave me the number yourself," the man at the table said to Kael. "Fifty-one, and two days later sixty-three. Say the rest of it out loud so that they hear it from you and not from me."
 
-"Every week you wait, the thing you want is behind six more men," Kael said. "And the money that is buying them does not run out, because it is not a purse. It is a river."
+"Every day you wait, the thing you want is behind six more men," Kael said. "And the money that is buying them does not run out, because it is not a purse. It is a river."
 
 "So."
 
-"So it does not get better. It gets worse at about six a week, for as long as anybody cares to sit and watch it."
+"So it does not get better. It gets worse at about six a day, for as long as anybody cares to sit and watch it."
 
 "The night after this one," the man said.
 

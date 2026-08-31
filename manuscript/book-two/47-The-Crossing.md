@@ -501,7 +501,7 @@ Rashim was on the yard gate. He had his thumbs in his belt and he was talking to
 
 That night he did the sum on the floor of the room with the two of them sitting against the wall.
 
-"Sixty-three the day before yesterday," he said. "It was fifty-one four days before that. He is paying at that table three days out of the week, and he is turning away one in three, which means he can afford to."
+"Sixty-three today," he said. "It was fifty-one two days ago. He is paying at that table three days out of the week, and he is turning away one in three, which means he can afford to."
 
 "How many can he afford," said Valeria.
 
