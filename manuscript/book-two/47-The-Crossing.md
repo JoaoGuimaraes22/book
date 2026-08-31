@@ -184,21 +184,15 @@ The princess laughed, once, out of nowhere, and put her hand over the bottom of 
 
 ---
 
-On the seventh night it came back.
-
-He was doing nothing. That was the part he could not account for afterward. He was sitting with his back against a rock scraping the last of the pot out with two fingers, and his hand was doing it and his head was empty, and then there it was, the whole of it, in the hand it had been written in by somebody who was not the man carrying it. That the roof had been done before the rain came. That she was not to worry about it.
-
-He put the pot down.
+On the seventh night he did not sleep, and there was nothing in the day behind him that accounted for it.
 
 He did not have a reason to be frightened. He went through the reasons anyway, in order, and got the same answer he had got in the fold, which was that nineteen men had come down that water to take a girl to a man who had put three children in a box, and that if one of them had gone home there would not be a Doresh.
 
-Then the sentence again. Word for word. He had read it once, on his knees, four days ago.
-
 He started counting.
 
-He got to about two hundred before he noticed he was doing it, and by then it was quieter, and he sat in the dark with the number running and let it run.
+He found the princess looking at him more and more the past few days. She came over to him.
 
-"Give me the hand," the princess said.
+"It's time for it. Give me the hand," the princess said.
 
 He had not heard her come over. She sat down on her heels beside him with the linen roll and the clay pot in her lap and put her hand out flat, and waited, and after a moment he put the hand into it.
 
@@ -213,30 +207,17 @@ She did it the way she had done it every evening since the village. The old stri
 "Yes."
 
 She finished the knot and did not let go of the wrist.
-
-"One," she said.
-
 Kael's head came round.
 
-She was looking at the strapping and not at him. She said it again. Then two, and three, and four, evenly, at about the speed a man walks.
+She put the hand down on his knee and put the lid back on the pot, and did not get up.
 
-He knew exactly where she had got it. She had been four feet away when Valeria did it, on the night of the hand, with a cloth in her mouth.
-
-She had it wrong in one particular, and it was not her fault: Valeria had picked him up off the last number he had said out loud, and the princess had no last number, because he had not said one. So she started at one, over the top of a count that was already running, and it cut across it, and for about three seconds he had two numbers going and neither of them meant anything.
-
-Then he had one.
-
-He got to about forty with her before he noticed he had joined in.
-
-She stopped there. She put the hand down on his knee and put the lid back on the pot, and did not get up.
-
-"What is it that you are actually doing," she said. "When you count."
+"What is it that you are actually doing," she said. "When you count. What are these numbers."
 
 "Counting."
 
 "That is not an answer and you know it is not."
 
-Nobody had ever asked him. That was the part he sat with for a moment: thirteen years, two parents who built it into him, a Temple, and not one person in any of it had ever put the question, and he had therefore never once had to find the words for it and did not have them ready.
+Nobody had ever asked him. That was the part he sat with for a moment: his whole life, two parents who built it into him, a Temple, and not one person in any of it had ever put the question, and he had therefore never once had to find the words for it and did not have them ready.
 
 "I see what is in front of me," he said. "All of it. And it stays."
 
@@ -256,15 +237,15 @@ It was out of him before he heard it, and it stopped her, and he saw it stop her
 
 He told her. It took some time, because there had been a good deal on it, and he got to the second jar from the end and the state of the cloth over it and she put her hand up.
 
-"And the numbers," she said.
+"And the numbers?" she said.
 
-"The numbers are so that I know when a thing has moved." That part he did have. "You cannot tell that something is gone unless you had it to start with. If I know there are nineteen boards then I know when there are eighteen, and eighteen boards is a man having got under that floor. Everything my father ever taught me is that, and it is only that."
+"The numbers can be many things." That part he did have. "Sometimes simply an amount. Eight boards. Two trees. Twenty soldiers. These things must be known. Sometimes it's time. How long did the soldier take to throw a spear. How much time a man looked at his face. And sometimes it's distances. How long a road is. How much space a room has. I count it all. And it all stays."
 
-"And the rest of it? All of it that is not useful?"
+"All of it? I'm sure most of what you count is not useful. What do you do with it? All of it that is not useful?"
 
 "It stays as well." He turned his hand over. "I have got the whole of a wall I walked past when I was six years old. I could not tell you my father's mother's name, because nobody ever said it in front of me."
 
-"Everybody does this," Kael said, when she did not say anything. "It is paying attention. It is not a thing."
+"It's simple," Kael said, when she did not say anything. "It is paying attention. It is not a thing."
 
 "No."
 
@@ -278,7 +259,7 @@ He told her. It took some time, because there had been a good deal on it, and he
 
 He almost laughed. He did not, but it was near.
 
-"Can you stop it," she said.
+"Can you stop it? Your count?" she said.
 
 "No."
 
@@ -300,21 +281,13 @@ Kael sat with that one.
 
 Neither of them said anything for a moment. Down in the wadi the fire had been out for two hours and the stones were still giving it back.
 
-"In the city," the princess said, getting up at last, "I will tell you everything I have seen, all of it, in the order I saw it, whether I know what any of it is worth or not. And you will keep it. That is what I am for."
+"In the city," the princess said, getting up at last, "I will tell you everything I have seen, all of it, in the order I saw it, whether I know what any of it is worth or not. I'll try this counting thing of yours."
 
 She put the lid on the pot and went back to the other side of the scrape.
 
-She did not ask him what the other number had been. Two months in a box had taught her which questions in that party came back empty, and she had stopped spending anything on them.
-
 ---
 
-They came to the end of the Kharoun on the ninth morning.
-
-It did not end the way a hill ends. The ground went on being the ground and then all of it was below him, going down in long grey shelves for further than he had ever seen anything go down, and at the bottom of it, a long way out, there was a line of green that had no business being green in that country, and in the green there was a river.
-
-The river was the largest moving thing Kael had ever seen. It came out of the north with the light on it and went south and east across the whole of the bottom of the world, brown at the edges and moving fast enough in the middle to have a shape, and the far bank of it was a different country. He could see that from the top. The near side was the colour of everything he had walked through for two months and the far side was darker and lower and had water lying in it.
-
-And on the near bank, where the road came down off the shelves and met the water, there was Ishareth.
+They came to the end of the Kharoun on the ninth morning, and where the road ended and met the water, there was Ishareth.
 
 He looked at it for a while.
 
@@ -324,7 +297,7 @@ He went looking for the empire in it and did not find very much. There was nothi
 
 And out of the middle of it, out over the brown water, there was one bridge.
 
-It was stone and it was old and it was not a bridge anybody had built recently. It went across on piers with the water piled up white on the upstream side of each of them, and it had a gatehouse at the near end and a gatehouse at the far end, and it was the only thing crossing that river in either direction for as far as the country went.
+It was stone and it was old. It went across on piers with the water piled up white on the upstream side of each of them, and it had a gatehouse at the near end and a gatehouse at the far end, and it was the only thing crossing that river in either direction for as far as the country went.
 
 Everything went to it. He could see that from the top of the shelves, which is the one place in the world where a thing like that can be seen: every track on that plain, from the north, from the south, from the road he was standing on, bent, and came together, and went in.
 
@@ -336,7 +309,24 @@ Everything went to it. He could see that from the top of the shelves, which is t
 
 "Then what is on the other side of it."
 
-"Not the empire," Kael said.
+"Nalar," Kael said.
+
+"You know that."
+
+"My mother said it once. I was seven or eight and she was teaching me Avestan, and I asked her whose it was, because everything she taught me was somebody's. She said it was the east's, and that the east began at Nalar." He was looking down at the water. "Then she made me do the verb again."
+
+The princess said the name over to herself, and said it differently from the way he had said it, and neither of them remarked on that.
+
+"We are at war with Nalar," she said.
+
+"Yes."
+
+"Then why is there a bridge."
+
+Kael looked back down at it. A string of animals no bigger than a stitch of thread was going across it from the far side to the near, and had been since they sat down.
+
+"That is the right question," he said, "and I have not got the answer to it."
+
 
 He started counting the city and stopped after four seconds, and it was not the way it had stopped at the district gate. He simply saw that the number was not a thing he needed. He did not need to know how many people were in Ishareth. He needed to know how many were in one building, and how many hours the gates on the bridge were open, and which of the tracks on that plain a man could leave by after dark.
 
