@@ -6,17 +6,19 @@ It came the way things come in a yard, which is sideways and in pieces, out of m
 
 The first piece was on the fourth day. Two of Zahir's regulars were arguing about a load of copper that had gone from a yard on the upstream side — not broken into, not forced, gone, out of a locked shed with the lock still on it and the man's own mark still on the door, and the man had gone to the watch and the watch had come and looked at the lock and gone away again. One of them started to say something about it and got four words in — *that is the same as* — and the other one made a small movement with his chin toward the open gate, and the first man stopped, and they talked about the weather in a city where the weather had not changed in nine days.
 
-The second piece was the princess's, and she brought it back with her feet still wet from the water-stair and did not sit down before she said it.
+The second piece was the princess's, and she had it off a window she was not allowed to open.
 
-"Nobody will hire out a boat," she said.
+She sat at it all day. There was nothing else in that room to do, and the yard was under it, and by the fifth day she was getting perhaps one word in four and asking him at night about the ones she had kept.
+
+"Nobody will hire out a boat," she said, before he was up the stair.
 
 "Say it properly."
 
-"There is a woman at the stair who has a brother on the other side of the river and she is very angry about it." The princess had the scarf pushed back off her forehead and her face had something in it that Kael had not seen on it before and could not name at all. "She says that until this month a man could go across at night below the town for two coppers and everybody knows it and the watch know it and nobody minds. And now not one boat on that bank will take anybody at any price, and they will not say why, and she has offered them nine times the money."
+"There is a woman who comes for water in the afternoon and has a brother on the other side of the river and is very angry about it. Until this month a man could go across at night below the town for two coppers, and the watch know it and nobody minds." She had her hands flat on her knees. "Now not one boat on that bank will take anybody at any price, and they will not say why, and she has offered them nine times the money."
 
-"You got that from one mouth."
+"You have that off one woman."
 
-"I got the boats from four mouths at the stair. They were all complaining at once, and they were complaining about the same thing, and none of them had said it to the others first because they had only just got there." She said it slightly too fast. "That is what you told me. Two mouths that do not know each other. I got four."
+"I have it off four. She said it to the man with the trough, and he said it back to somebody else two hours later and got it wrong, and then two others had it at the gate this morning and neither of them had been in the yard when she said it." She said it slightly too fast. "That is what you told me. Two mouths that do not know each other. I got four."
 
 "Yes," Kael said.
 
@@ -24,7 +26,7 @@ The second piece was the princess's, and she brought it back with her feet still
 
 "You did it correctly."
 
-She sat down. She was extremely pleased with herself and was doing a poor job of hiding it, and Kael watched a girl who had been carried up six shelves of stone in irons two months ago sit on a floor in a border city and be pleased with herself about a piece of work, and he did not say anything about that either.
+She was extremely pleased with herself and was doing a poor job of hiding it, and Kael watched a girl who had been carried up six shelves of stone in irons two months ago sit at a window she could not open and be pleased with herself about a piece of work, and he did not say anything about that either.
 
 The third piece was Zahir's, and Zahir gave it to him for nothing on the sixth evening because Zahir had had a good week and was in a mood to talk.
 

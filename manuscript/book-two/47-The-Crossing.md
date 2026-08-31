@@ -397,29 +397,57 @@ He had names for both of them ready, plain ones off the coast, and nothing at al
 
 He went on before either of them could look at that.
 
-"She goes out," he said, to Valeria, about the princess. "You do not."
+"Val, you and I can go out," he said. "The princess cannot."
 
 Valeria did not move.
 
 "Say the reason," she said.
 
-"Because you cannot be made to look like anything but what you are." He said it plainly, because she had asked for the reason and dressing it would have been an insult. "I have watched people try to stand next to you for a year. You are the most dangerous thing in any yard you have ever stood in and it comes off you at thirty strides, and there is no cloth for it and no walk for it. Anybody in this city whose trade is looking at people will look at you twice. She is a covered girl with an accent, and there are four thousand of those between here and the water."
+He looked at her.
 
-"That is correct," said Valeria.
+"Because she is the only one of the three of us anybody is looking for." He said it plainly, because she had asked for the reason and dressing it would have been an insult. "There is a man in this city who has spent a month paying people to say her description out loud in yards. Nobody has said mine anywhere. A cloth on her head was enough for a village of forty and it is not going to be enough for a city with his money in it."
 
-"It is also the whole of your job gone."
+"I know," said the princess. "I do not go out. Not to the water, not for bread, not once. I had that before you said it."
 
-"It is not the whole of it." She sat down on the floor with her back against the wall, in the corner where the stair came up, on the side the door was on. "I will be in this room. If either of you does not come back, I will be the one who is still able to do something about it, which is not nothing, and I would rather be in the room than in the street being looked at twice."
+"Then I stay with her," said Valeria.
 
-Then she put the flat of her hand on the boards.
+Kael turned round.
 
-She stayed like that for a while, and her eyes went the way they had gone in the smith's yard, and Kael did not say anything, and neither did the princess.
+"I will need you outside."
 
-"There are two above us," Valeria said at last. "One is heavy and does not move much. The other has been standing at the top of the stair since we came up it, and has not gone in or out, and is not doing anything."
+"Then you will need something else." There was no edge on it at all, which was how he knew it was not an argument. "There is one thing I am for. I have stood on her left since Qeshet, and I stood there before I ever met you, and I am not going to be in a street when somebody comes up that stair."
 
-"How long can you hold that."
+"Valeria."
 
-"Not long, and not while I am asleep, and I would rather nobody in this city knew I could do it at all." She took her hand off the boards. "Which is the other reason I am going to be in the room."
+It was the princess who said it.
+
+"When he asks you, you will go."
+
+Valeria turned round.
+
+"Highness—"
+
+"There is nothing you can do about a man on that stair that a bar on the door does not do first." She had her hands in her lap and she did not raise her voice. "What keeps me alive in this city is not you standing in front of me. It is him finding out where that man sleeps."
+
+"That is not how it is done."
+
+"I have had twelve of you and they all stood where it is done," said the princess, "and they are behind me on a mountain. Go when he asks you."
+
+Valeria stood there for a moment.
+
+"Yes, Highness."
+
+Then she sat down on the floor with her back against the wall, in the corner where the stair came up, on the side the door was on, and put the flat of her hand on the boards.
+
+She stayed like that for a while, and her eyes went the way they had gone in the smith's yard.
+
+"There are two above us," she said at last. "One is heavy and does not move much. The other has been at the top of the stair since we came up it and has not gone in or out."
+
+"How long can you hold it."
+
+"Not long, and not while I am asleep, and I would rather nobody in this city knew I could do it at all." She took her hand off the boards. "But I will know before the door does."
+
+"And I am not going to sit in here being kept," said the princess. "You will come up that stair every night and tell me what you saw, all of it, in the order you saw it. You have never once been inside a great man's household. I have never been anywhere else."
 
 ---
 
