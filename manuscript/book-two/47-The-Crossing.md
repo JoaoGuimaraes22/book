@@ -172,6 +172,8 @@ He looked at it for a while.
 
 It was not laid out. Qeshet had been laid out — walls the colour of the ground, a mole, a shape a man could hold. This had a wall on the land side that had been built for a smaller city and had been walked round and out of on both ends, and inside the wall it was packed solid and grey-brown to the water, and outside the wall on both sides it went on anyway in yards and pens and roofs of cloth, all the way down to the bank and then along it, upstream and down, as far as he could follow.
 
+He went looking for the empire in it and did not find very much. There was nothing white and blue on that wall. There were no towers on it that had been put up by somebody who had arrived later, and no straight street cut through the middle of the packed part, and nothing at all standing above the roofs except the roofs.
+
 And out of the middle of it, out over the brown water, there was one bridge.
 
 It was stone and it was old and it was not a bridge anybody had built recently. It went across on piers with the water piled up white on the upstream side of each of them, and it had a gatehouse at the near end and a gatehouse at the far end, and it was the only thing crossing that river in either direction for as far as the country went.
@@ -207,6 +209,10 @@ The girls walked with the train's own people, four animals back, in the dust, wi
 The gate at Ishareth was a toll gate and Kael understood it about ten strides out.
 
 There were two men at the wall taking money and a third with a stick and a board, and the board was what mattered. They were counting animals and they were counting loads. That was what the city charged for and that was therefore what the city could see. The driver said a number and the man with the stick walked down the string and made the number true, and never once looked at the height of anybody walking beside it.
+
+All three of them were of this country and none of them was a soldier. There was nobody on that gate in white and blue at all. Kael went under the arch waiting for the second part of it, the way there had been a second part to everything at Qeshet, and there was no second part. Nobody in the empire cared who came into Ishareth.
+
+He put that down carefully, because it was the largest thing he had learned all day and he did not yet know what it was for.
 
 Kael went through the gate of Ishareth with his hand on a mule's neck, in the middle of thirty-eight of them, and nobody in that city looked at him, and it cost the driver four coppers a head for the animals and nothing at all for the people.
 
@@ -306,6 +312,10 @@ So he asked about tolls.
 
 He asked what it cost to bring a string over the bridge, and whether it had gone up, and whether it went up in the summer, and who set it, and whether the man who set it was the same man as last year — and he got the tolls, and the bridge, and the gatehouse at each end, and the hours (open at first light, shut at full dark, and shut altogether for a whole day in the second week for a reason nobody could give him), and the fact that everything crossing that river crossed there, and that the tolls off it in a good month were a number three separate men gave him within a tenth of each other, which meant it was the number people said and not the number that was true.
 
+And he got one other thing, which was not an answer.
+
+Men in that yard would tell him anything about the road. They would tell him what a load of hides was worth at either end of it and whose brother had drowned and what the watch could be got to do for two coppers. They told him all of it cheerfully and at length, and then the talk would come up to the bridge, and stop, and go round it, and come out on the other side talking about something else — and not one of them ever noticed himself doing it. It was not fear. It was the shape a thing makes in a room when everybody has agreed for years not to put a hand on it.
+
 And he got the governor sideways, on the fifth day, out of a man complaining about the price of stabling.
 
 "It is the soldiers," the man said. "They have every yard inside the wall and they are paying, so nobody will take a string at the old price. There is a man come up from the coast who is buying soldiers like a woman buys onions."
@@ -323,6 +333,10 @@ He went and stood in the yard.
 He went twice, on two different days, at two different hours, and he went with a barrow both times because a boy with a barrow can stand anywhere in a city for as long as he likes.
 
 The bridge-house was the stone building at the near end of the bridge, on the upstream side, where the toll was taken. It was the oldest thing in Ishareth and it had been built by people who expected to be argued with: one door on the street, one door onto the bridge itself, a yard behind a wall with one gate in it, and slit windows on the upper floor that had been made narrow for a reason and had never been widened. There were four men on the street door and two on the yard gate.
+
+The men on it were not of this city. Not one of the six of them was, and Kael stood with the barrow and worked it out and then found it was not a discovery at all, because it was the same everywhere he had looked for two days: the city was Ishareth's, and the wall was Ishareth's, and the watch was Ishareth's and did nothing, and the one building the empire was standing in was the one you could not leave the country without walking past. A governor of a city four hundred miles west had come up this road and taken a bridge. He had not taken a town. Nobody had given him a town.
+
+*There is one bridge and it is his.* The man in the hole had said it plainly and Kael had heard it as a boast about the difficulty. It had not been a boast. It had been the whole of the man's holdings.
 
 In the yard there was a table.
 
@@ -390,7 +404,7 @@ The third piece was Zahir's, and Zahir gave it to him for nothing on the sixth e
 
 "The soldiers."
 
-"The soldiers are nothing. The soldiers are a man with a table." Zahir was in his own gate with his arms folded, looking at the street, and he said the next part with his voice at exactly the same size as the last part, which is how a man says a thing he has decided not to be interesting about. "There are people in the town this month. Since the turn of the month. They have got a house on the upstream side and there are two on the door of it day and night and nobody knows what they do."
+"The soldiers are nothing. The soldiers are a man with a table who will be gone by the spring, and this city was here before him and I have watched four of him." Zahir was in his own gate with his arms folded, looking at the street, and he said the next part with his voice at exactly the same size as the last part, which is how a man says a thing he has decided not to be interesting about. "There are people in the town this month. Since the turn of the month. They have got a house on the upstream side and there are two on the door of it day and night and nobody knows what they do."
 
 "Thieves."
 
