@@ -228,7 +228,83 @@ Then he had one.
 
 He got to about forty with her before he noticed he had joined in.
 
-She stopped there. She put the hand down on his knee and put the lid back on the pot and got up and went back to the other side of the scrape, and that was the whole of it. She did not ask him what the other number had been. Two months in a box had taught her which questions in that party came back empty, and she had stopped spending anything on them.
+She stopped there. She put the hand down on his knee and put the lid back on the pot, and did not get up.
+
+"What is it that you are actually doing," she said. "When you count."
+
+"Counting."
+
+"That is not an answer and you know it is not."
+
+Nobody had ever asked him. That was the part he sat with for a moment: thirteen years, two parents who built it into him, a Temple, and not one person in any of it had ever put the question, and he had therefore never once had to find the words for it and did not have them ready.
+
+"I see what is in front of me," he said. "All of it. And it stays."
+
+"Everybody sees what is in front of them."
+
+"There were nineteen boards in the floor of the room you were lying under in Doresh." He said it the way you read a list, because that was how it came. "Eleven ran the length of it. Eight were short ones cut in over the joist at the far end. The fourth one in from the door had a knot in it about the size of your thumb, and there was a nail head standing proud on the seventh by about that much." He held his finger and his thumb a little apart. "I did not learn it. I was lying on it."
+
+The princess looked at him for a while.
+
+"What was on the shelf in the kitchen," she said.
+
+"Which day."
+
+It was out of him before he heard it, and it stopped her, and he saw it stop her and did not know what he had said.
+
+"The last one."
+
+He told her. It took some time, because there had been a good deal on it, and he got to the second jar from the end and the state of the cloth over it and she put her hand up.
+
+"And the numbers," she said.
+
+"The numbers are so that I know when a thing has moved." That part he did have. "You cannot tell that something is gone unless you had it to start with. If I know there are nineteen boards then I know when there are eighteen, and eighteen boards is a man having got under that floor. Everything my father ever taught me is that, and it is only that."
+
+"And the rest of it? All of it that is not useful?"
+
+"It stays as well." He turned his hand over. "I have got the whole of a wall I walked past when I was six years old. I could not tell you my father's mother's name, because nobody ever said it in front of me."
+
+"Everybody does this," Kael said, when she did not say anything. "It is paying attention. It is not a thing."
+
+"No."
+
+"You have been in more rooms than I have been in."
+
+"I have been in rooms. That is not the same as looking at one." She said it without any apology in it. "There were men in that yard in Doresh with a list, and I could not tell you now whether there were nine of them or fifteen. I could tell you that one of them had a boil coming on the side of his neck and that he kept putting his collar over it, and I have thought about that man about forty times since, and I do not know what colour his coat was."
+
+"That is the useful half."
+
+"It is one half," said the princess. "You have the other one. Between us there is a whole person, which is more than either of us is managing alone."
+
+He almost laughed. He did not, but it was near.
+
+"Can you stop it," she said.
+
+"No."
+
+"Have you tried."
+
+"There is nothing to try. It is not a thing I begin."
+
+She sat back on her heels and thought about that for a good while, in a way that he could see and could not read.
+
+"Then when you say you have put a thing down," she said, "what is it that you have actually done with it."
+
+Kael sat with that one.
+
+"Stopped taking it out," he said.
+
+"That is not the same as it being gone."
+
+"No," he said. "It is not."
+
+Neither of them said anything for a moment. Down in the wadi the fire had been out for two hours and the stones were still giving it back.
+
+"In the city," the princess said, getting up at last, "I will tell you everything I have seen, all of it, in the order I saw it, whether I know what any of it is worth or not. And you will keep it. That is what I am for."
+
+She put the lid on the pot and went back to the other side of the scrape.
+
+She did not ask him what the other number had been. Two months in a box had taught her which questions in that party came back empty, and she had stopped spending anything on them.
 
 ---
 
