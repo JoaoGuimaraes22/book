@@ -16,7 +16,17 @@ Off the road, always in sight of it. Water before dark, whatever else has not be
 
 "Yes," Kael said. "That is why it is on the list."
 
-They had three days of bread for nine days of road, so they ate it in six and were hungry for three, which he had priced before they left Doresh and had not said. There was water twice on the first day and once on every day after, and on the sixth there was a well with a trough beside it and the ruts of a train that had watered there the day before, and he stood in the ruts for a while and read them and did not like the number, and then made himself put it down, because a train is not soldiers and a boy who cannot tell the difference will be no use in a city.
+They had three days of bread out of Doresh, and after that they ate what the country had, which was not much and was enough.
+
+He set the snares every evening before the light went and lifted them before it came back: eight of them, in the runs off the wadis where the thorn came down to the wet line and a thing had to come out into the open to get past. It was the first work his father had ever given him. A dry country will not feed a man walking across it in a straight line, and it will feed a man who leaves eight pieces of cord out overnight in the right eight places and comes back for them in the morning, and the whole of the difference between those two is taught to a boy before he is ten.
+
+He could not tie them one-handed. He got three done in the time three should have taken eight, and then he stopped and showed Valeria, and she watched him do one and did the next four herself, exactly, faster than he had ever done them, and found the entire business dull and said so.
+
+Hare, mostly. Two ground birds. On the fifth day something with a long back that Kael did not have a name for and cleaned and cooked anyway, and the princess ate her share of it and did not ask what it was, which four months ago would have been the second question out of her.
+
+They ate it in the middle of the day, off the skirt, down in a wadi with the fire in a hole the size of a hat — because a fire on a slope at night is a light and can be seen from the road for two hours' walking in both directions, and a fire at midday under a bright sky is smoke, and smoke a hundred feet down in a cut is nothing at all.
+
+Water was the thing. There was water twice on the first day and once on every day after, and on the sixth there was a well with a trough beside it and the ruts of a train that had watered there the day before, and he stood in the ruts for a while and read them and did not like the number, and then made himself put it down, because a train is not soldiers and a boy who cannot tell the difference will be no use in a city.
 
 ---
 
