@@ -50,7 +50,7 @@ Kael's hands went on doing what they were doing.
 
 "Why."
 
-"Because they have never broken into anywhere in their lives." Zahir laughed, and it was the same laugh the driver had laughed in the yard four days ago about a lock that was still locked. "Everything they have ever taken has walked out of a gate in daylight, with the paper in order and the man on the gate holding the door for it. That is what they do. That is the whole of what they do. There was a heist at Solvenna two years ago that is still unexplainable. A whole marble statue was stolen. There is a man in the capital who paid two hundred men to stand round the yard where it was being built, for a month, and it went out of the front of it on a cart with his own seal on the cart."
+"Because they have never broken into anywhere in their lives." Zahir laughed, and it was the same laugh the driver had laughed in the yard four days ago about a lock that was still locked. "Everything they have ever taken has walked out of a gate in daylight, with the paper in order and the man on the gate holding the door for it. That is what they do. That is the whole of what they do. There was a robbery at Solvenna two years ago that nobody has explained yet. A whole marble statue. There is a man in the capital who paid two hundred men to stand round the yard where it was being cut, for a month, and it went out of the front of it on a cart with his own seal on the cart."
 
 He unfolded his arms.
 
