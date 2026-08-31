@@ -1787,3 +1787,9 @@ What it inherits is the house look and nothing else: the **Medium** and **Colour
 These models pattern-match rather than model objects. Overlapping limbs, occlusion, and held objects at odd angles are where that breaks — which is exactly what an action scene is.
 
 The techniques here get a usable image in two or three attempts instead of ten. They do not make it reliable. For a specific fight beat rendered exactly, this is reference material for a commission, not a substitute for one.
+
+## The cap on refusal attempts is gone (s68)
+
+**Superseded, verbatim.** §Choosing the moment carried *write the block, run it, reword once if refused (§Injury), and take a second refusal as the answer for that attempt*, and §Injury carried *reword once, changing as little as possible, and take a second refusal as the answer for that attempt (author, s48)*.
+
+**Replaced by the author's ruling (s68): *injury rule should be rerun as long as i want to*.** There is no cap; a refusal ends nothing on its own and the author calls when an attempt is over. The rest of §Injury is untouched — the instrument that rewords a refused block is unchanged, and it is now run as many times as it is wanted rather than once. This also retires the last of s42's *do not iterate on a refusal*, above, which s48 had already narrowed.
