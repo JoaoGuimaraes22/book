@@ -15,10 +15,11 @@ hard-edged shadow.
 Composition: 3:4. The camera is on the ground under the cart, level
 with the frost, looking out between the wheels. THREE FACES fill the
 near half of the frame, lying flat side by side in the dark under the
-boards, all of them turned out toward the light. Beyond them, out in
-it, a pair of boots and the lower legs of a man standing with his
-back against the boards — nothing above his knee is in the frame, and
-he is four feet away.
+boards, all of them turned out toward the light. Beyond them,
+standing right at the cart with his heels almost under its edge, the
+boots and lower legs of a man with his back to the boards — near
+enough that his legs are the largest things in the light, and nothing
+above his knee is in the frame.
 
 NOBODY UNDER THE CART IS MOVING. Not braced, not crouched, not about
 to go: three people lying still on frozen ground with their weight
