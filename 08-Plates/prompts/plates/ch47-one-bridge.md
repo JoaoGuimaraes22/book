@@ -15,13 +15,9 @@ Composition: 3:4. The viewer stands at the lip where the road ends,
 looking down and out.
 
 NEAREST, in the bottom quarter: the stony lip of the road, hard pale
-dirt and low thorn, and THREE SMALL FIGURES standing at the edge of
-it with their backs to the viewer, looking out. They are children,
-drawn small, with no features anywhere on them. One of them has an
-arm bound in white linen held in against the chest, and that linen is
-the whitest thing in the picture.
+dirt and low thorn.
 
-BELOW AND BEYOND THEM, filling the middle of the frame: a city, grey
+BELOW AND BEYOND IT, filling the middle of the frame: a city, grey
 and brown, packed absolutely solid, its flat roofs running down to
 the water. An old wall crosses the land side of it, and the city has
 grown round both ends of that wall and out past it — yards, animal
@@ -50,6 +46,6 @@ each other, join, and go in at the near gatehouse.
 
 The bridge and the white water at its piers carry the sharpest step
 from light to dark and the most finished ink drawing in the picture;
-the city, the plain, the tracks, the far bank and the three figures
+the city, the plain, the tracks and the far bank
 stay at quiet middle values with soft wash-bled edges and no hard
 edge in them.
