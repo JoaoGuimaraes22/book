@@ -181,3 +181,73 @@ He had twenty-two minutes of a man walking somewhere and coming back. He had twe
 It was not a place on a map. It was a shape on one. The shape was not large. He put it where he put things.
 
 The door in the side wall opened.
+
+---
+
+There was a small room off the rope-walk with a window in it, and a table, and on the table a great deal of paper.
+
+That was the first thing Kael saw and it was the thing he went on looking at. Paper weighted flat under a stone in three piles. A strip of it with a column of figures down one side. A stick of wax, and two seals in a dish, and a third seal lying loose beside the dish where somebody had put it down in the middle of using it. There was more writing in that room than Kael had seen since the Temple.
+
+A man was sitting at the table with a pen in his hand.
+
+He did not look up. He finished the line he was writing, which took about four seconds, and then he looked up.
+
+Past fifty. Thin, and grey, and going bald from the front. He had the sort of face you are given directions by. When he spoke, his Koine was better than the governor's had been, and there was nothing southern under it at all.
+
+"So," he said. "You have information about the bridge-house."
+
+"Yes."
+
+"Everybody in this city has information about the bridge-house. There is a woman two doors up from where you were sitting who has information about the bridge-house." He put his hands flat on either side of the sheet. "What do you want."
+
+"To be in it when you take the chest out of the bridge-house," Kael said. "And a share of what is in it."
+
+The man at the end of the table laughed, once, and stopped when nothing came back to him from anywhere in the room.
+
+The one at the table did nothing whatever with his face.
+
+"That is a great deal of sentence," he said. "Say the rest of it."
+
+"There is no rest of it. That is what I want."
+
+"You understand what you have just said out loud."
+
+"Yes."
+
+"And to whom."
+
+"No," Kael said. "Nobody has told me anything about who."
+
+That got him a small movement at the corner of the mouth, and he had no idea whether he had earned it or walked into it.
+
+"And what have you got."
+
+"He pays at that table three days out of seven," Kael said. "On the first day I stood in that yard I counted fifty-one men. Four days later I counted sixty-three. He turns one in three away on sight, which means he can afford to."
+
+"We have men in that yard."
+
+"Then you have a number. You do not have two numbers four days apart, because a man who has somebody in a yard is asking what is in it. I was asking how fast it is filling."
+
+Nobody said anything.
+
+"He is not sitting on that chest," Kael said. "He is spending it. And what he is spending it on is men, so every week you wait, the thing you want is behind six more of them. That is what the two numbers are for. It is the only thing I have brought you today and it is yours whatever else happens, because you cannot do anything with it that I mind."
+
+The man at the end of the table stopped looking at Kael and looked at the man with the pen.
+
+"And her," said the man at the table.
+
+He said it about Valeria, in front of Valeria, in the tone of a man asking about a mule that had been brought along.
+
+"I am with him," Valeria said.
+
+He looked at her for the first time.
+
+"I did not ask you."
+
+"No," she said. "You did not."
+
+The man at the window made a sound in his nose. The one at the table looked at Valeria a moment longer than he had meant to, and then went back to Kael, and did not go back to Valeria again, and Kael put that down too: not that the man had been wrong about her, but that he had been wrong about her out loud, in front of four people, and had not enjoyed it.
+
+"Last question," the man at the table said. "How does a child come to spend six days counting a governor's yard."
+
+"That," Kael said, "is the part I would like to say to you with nobody else in the room."
