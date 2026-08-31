@@ -2,7 +2,7 @@
 
 The front horse went down about eleven strides in. It went down hard, knees first and then over, and the man on it went off the front and did not get up, because the horse came over on top of him.
 
-It did not stay down. It got its forelegs under it and could not get the rest, and went on trying, with a man's chest under its shoulder and its hind feet cutting grooves in the track. The noise that came out of it went up the fold and came back off the far side.
+It would not lie still. It got its forelegs under it and could not get the rest, and went on trying, with a man's chest under its shoulder and its hind feet cutting grooves in the track. The noise that came out of it went up the fold and came back off the far side.
 
 The second horse did not go down. It stopped. It screamed. There was a thing the size of a walnut in the frog of its off fore with a point of it standing up out of the top of the hoof. It put that foot down once and would not put it down again. It stood on three legs in a place eleven feet wide and turned, and turned, and struck out with the others. It put a man against the rock of the rise with its shoulder, and he was a long time getting up off it. Nobody behind it could get past it. Nobody behind it could get away from it.
 
@@ -204,7 +204,7 @@ Kael gave him some.
 
 Then he stood up and killed him.
 
-He used the knife, because the sword was too much sword for a man lying down and he had one hand to do it with. He put his boot on the wrist of the arm that still worked, and went in at the side of the neck under the angle of the jaw, and drew it out toward himself. It emptied fast. A man opened there has about as long as it takes to say a short sentence, and the officer spent his looking at him, in Ivrit, and Kael understood every word of it and did not answer.
+He used the knife. He went in at the side of the neck under the angle of the jaw, and drew it out toward himself. It emptied fast. A man opened there has about as long as it takes to say a short sentence, and the officer spent his looking at him, in Ivrit, and Kael understood every word of it and did not answer.
 
 Then he went along the holes.
 
@@ -222,11 +222,31 @@ Then he went the length of the flat place and made sure of the rest of them, whi
 
 There were two he had to go back for.
 
-The part of him that would have argued about any of it did not say one word.
+And because making sure is a thing you do with your hands, he learned what they were while he was doing it.
+
+No two of the coats were the same. Four had the governor's mark at the shoulder and the rest had nothing on them at all, and the boots were of six different makes, and one man was wearing a mail shirt over a shepherd's coat with the sleeves cut off it by somebody using something blunt. They had been bought. The officer had said so and Kael had heard him say it and had put it away in the part of his head where facts about the other side go, and here it was under his hands.
+
+They had the things men have.
+
+A child's tooth on a cord. Coins sewn into the hem, in three of the coats, where you sew them. A folded paper in a wallet, gone soft and split along the folds from being taken out and put back, which he opened, and which somebody else had written for a man who could not read himself, and which said that the roof had been done before the rain came and that she was not to worry about it.
+
+He went along the whole of them and read everything there was. That part was nobody's fault but his. Nobody made him look.
+
+The part of him that would have argued about any of it did not say one word, then or at any point in the whole of it.
 
 It was afterward, walking back up to the split rock, that he noticed it had not.
 
-He put that down where he put things and went on walking.
+He did the sum again on the way, because he wanted it to come out somewhere else. It would not. Nineteen men had come down that water to take a girl back to the man who had put three children in a box; if any one of them had got home, forty houses would have been burned with the people still inside them; and the ones in the holes could not be left where they were, and could not be carried, and could not be mended. He took it from every end he could find and it came out the same from all of them. He had been right. He was still right.
+
+They had also been the kind of men who sew coins into a hem, and one of them had a roof that had been done before the rain.
+
+Both of those were true. Neither of them moved the other one at all, and there was nowhere he could think of to put a thing that was shaped like that.
+
+He put it down anyway, because putting things down was the only thing he had ever learned to do with them.
+
+It did not stay down.
+
+He went on walking.
 
 Tarim had come as far as the near end of the flat place and had not come any further, and was standing there when Kael came back past him. Kael did not say anything about that either.
 
