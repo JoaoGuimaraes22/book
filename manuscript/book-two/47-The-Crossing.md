@@ -16,19 +16,21 @@ Valeria got eleven and missed twice. She threw from the shoulder, flat, without 
 
 The food of the ground was the princess's, and that half of it was his mother's, and he heard whose words they were the first time he opened his mouth to use them.
 
-"Wild onion you get by the smell before you have found the leaf. Break it and put it under your nose. If you have to think about it, it is not onion."
+"Everything that smells of onion is onion," he said. "Nothing else does. Break it and put it under your nose. If you have to decide, you have not got onion."
 
-She broke one and put it under her nose.
+"What is it if it is not."
 
-"That is onion."
+"Two things on this ground have that leaf. One of them does nothing at all. The other one stops your heart in about two hours, and by then you will not connect it with anything you ate." He put his hand out; she put the leaf into it; he broke it and gave it back. "That is onion."
 
-"That is onion."
+"How much may we take."
 
-"And this one?"
+"All of it. It keeps four days and it makes everything else edible."
 
-"That is the one that looks like onion." He did not turn round. "It smells of nothing at all. That is the whole of the test and there is not a better one."
+"Then give me that and the greens and the stems," she said, "and go and be over there with the knife. You are the one of us who can throw."
 
-Later that day it was the green on the wet side of a stone and never the dry side, and thistle, if she had the patience for the stem.
+He gave her the greens and the stems. She had them in two days: which side of a stone, why the wet side, why not the ones with the milk in them when you break the leaf. She was slow and she asked twice about everything and she got nothing wrong.
+
+Thistle was the fourth day.
 
 "I have the patience for the stem."
 
@@ -36,33 +38,47 @@ Later that day it was the green on the wet side of a stone and never the dry sid
 
 She had it on the eleventh.
 
-On the sixth day she came up the line with her hands cupped in front of her.
+"Now the ones I am supposed to be frightened of," she said. "You have been leaving those out."
 
-"Two days after rain, in the bottom of a cut," she said. "You said two days after rain."
+"You do not need them. There is enough without them."
 
-Kael looked into her hands. Then he took what was in them out of them and threw it into the thorn.
+"There is enough today." She had the sack on her shoulder and her hand on the strap of it. "If I am doing this, I have to know what I am walking past. I would rather know a thing and not need it."
 
-The princess watched it go and did not say anything about it.
+Kael walked four strides and then told her, because she was right and because it was the same argument he had used on his own mother twice.
 
-"There are three of those on this road and one of them is food," Kael said. "The place was right. The place is most of it and it is not all of it. The underside, then the smell, then what it is standing next to. In that order, every time. If any one of the three is wrong you leave it where it is."
+"Two days after rain, in the bottom of a cut, you get things that were not there the day before. Most of them are food. Three on this road are not, and one of the three will do all of us out of one sack." He stopped at the next one they came past and crouched over it without touching it. "You cannot tell from the top. The top of the one that kills you is the same as the top of the one you want. You take it out of the ground whole, with the dirt on it, and you look at the part that was under."
 
-"Again."
+"What am I looking for."
 
-He said it again.
+"Three things, and any one of them is enough to leave it. A bag round the bottom of the stem, like a skin it has come up out of — that one is often under the ground, and if you pull instead of digging you will snap it off and never see it. A ring on the stem, higher up, like a collar. And the ribs under the cap being white and staying white when the cap is not white." He stood. "Any one. Not all three."
 
-She said it back to him, the whole of it, in the order he had said it, with the underside and the smell the wrong way round. He told her so. She said those two twice more on her own, walking.
+"And if I break it getting it up?"
 
-"What would it have done," she said.
+"Then you have nothing to look at, and you leave it. A thing you cannot check is a thing you do not take."
 
-"Nothing for a day. Then a great deal."
+She said the three back to him. She had the ring and the ribs the wrong way round, and he told her so, and she said those two again twice, walking, under her breath.
 
-She thought about that.
+"What does it do," she said. "The one that kills."
 
-"I would have put it in the sack," she said. "Not in my mouth. In the sack, with the rest of it."
+"You eat it and nothing happens. Ten hours, twelve. Then you are sick, and you go on being sick until there is nothing left in you, and then in the morning you feel better." He said it the way it had been said to him. "You feel better and you are not better. It has finished with your liver by then and it takes two more days, and there is nobody in any city who can do anything about it. My mother made me say that back to her four times when I was eight. Not the bag and not the ring. The part in the middle where you feel better."
 
-"I know," said Kael. "That is the one that kills the other two of us."
+The princess walked for a while with the sack against her hip.
 
-She did not say anything for a while. After that she held everything up before it went in, every time, including the things she had been sure of for four days, and Kael looked at every one of them and never once told her she did not need to.
+"Say the three again," she said.
+
+On the sixth day she came up the line with three of them in her hands and the dirt still on all three.
+
+"These two are right," she said. "Nothing on the bottom, nothing on the stem, and the ribs are brown. This one I do not know, because I pulled it and it came apart."
+
+Kael looked at all three. Then he took the broken one out of her hand and threw it into the thorn.
+
+"Those two are right," he said.
+
+"And the third?"
+
+"The third was the correct answer and you gave it to me before I had to."
+
+She looked pleased about that for a second and put it away, which was a thing she had learned from somebody in that party and had not learned from him.
 
 Kael could not clean a hare with one hand, so they split the killing and Valeria did the rest of it, the way she did everything with her hands. The princess watched the first two and did the third.
 
