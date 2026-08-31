@@ -35,12 +35,12 @@ and is not resolved, and the same is along the inside of the forearm
 below it. His right wrist carries the same ring, with a short run of
 links lying away from it along the straw.
 
-KAEL lying still: back to the boards,
-shoulders let down, breathing the shallow even way someone asleep
-breathes, the lashes down and the eyes open under them, steady on
-the barred slot behind the viewer. Nothing in the face admits the
-hand. Dark hair, short, cut unevenly, straw in it. A plain undyed light fawn tunic, much mended, no
-ormament.
+KAEL lying still: back to the boards, shoulders let down, breathing
+the shallow even way someone asleep breathes, the lashes down and the
+eyes open under them, steady on the barred slot behind the viewer.
+Nothing in the face admits the hand. Dark hair, short, cut unevenly,
+straw in it. A plain undyed light fawn tunic, much mended, no
+ornament.
 
 Lighting: cold grey daylight and no other kind. The bar off the slot
 is the brightest thing in the frame and carries bare unpainted
