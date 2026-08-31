@@ -325,7 +325,7 @@ He started counting the city and stopped after four seconds. He simply saw that 
 
 They came in on the eleventh day, which was two more than he had said it would be, in the middle of a train of thirty-eight mules, and it cost them nothing but three days of walking beside it.
 
-Kael had picked the train up at the last halt. He had watched two go past before he chose it — one too small, one with a man on it who counted his own animals twice at the same halt, which meant he counted people too — and the third one had thirty-eight mules, four men, and a load of cut stone and hides, and a driver whose off-side lead animal was going short on the near fore and had been for at least a day.
+Kael had picked the train up at the last halt. He had watched two go past before he chose it — one too small, one with a man on it who counted his own animals twice at the same halt, which meant he counted people too — and the third one had thirty-eight mules, four men, and a load of cut stone and hides, and a driver whose lead animal was putting less on one front foot than the other and had been for a day at least.
 
 He told the man about the hoof before he asked for anything, which is a thing his father had never had to explain to him twice: you do not open with what you want.
 
@@ -405,9 +405,9 @@ Valeria did not move.
 
 He looked at her.
 
-"Because she is the only one of the three of us anybody is looking for." He said it plainly, because she had asked for the reason and dressing it would have been an insult. "There is a man in this city who has spent a month paying people to say her description out loud in yards. Nobody has said mine anywhere. A cloth on her head was enough for a village of forty and it is not going to be enough for a city with his money in it."
+"Because she is the only one of the three of us anybody is truly looking for." He said it plainly, because she had asked for the reason and dressing it would have been an insult. "There is a man in this city who has spent a month paying people to say her description out loud in yards. Nobody has said mine anywhere. A cloth on her head was enough for a village of forty and it is not going to be enough for a city with his money in it."
 
-"I know," said the princess. "I do not go out. Not to the water, not for bread, not once. I had that before you said it."
+"I know," said the princess. "I won't go out. Not to the water, not for bread, not once. I had that before you said it."
 
 "Then I stay with her," said Valeria.
 
@@ -427,33 +427,31 @@ Valeria turned round.
 
 "Highness—"
 
-"There is nothing you can do about a man on that stair that a bar on the door does not do first." She had her hands in her lap and she did not raise her voice. "What keeps me alive in this city is not you standing in front of me. It is him finding out where that man sleeps."
+"There is nothing you can do about a man on that stair that a bar on the door does not do first." She had her hands in her lap and she did not raise her voice. "What keeps me alive in this city is not you standing in front of me. It is finding out where that man sleeps."
 
 "That is not how it is done."
 
-"I have had twelve of you and they all stood where it is done," said the princess, "and they are behind me on a mountain. Go when he asks you."
+"I have had twelve royal guard stand beside me and they all died for me," said the princess, "and I won't have it again. Go when he asks you."
 
 Valeria stood there for a moment.
 
 "Yes, Highness."
 
-Then she sat down on the floor with her back against the wall, in the corner where the stair came up, on the side the door was on, and put the flat of her hand on the boards.
-
-She stayed like that for a while, and her eyes went the way they had gone in the smith's yard.
+Then she sat down on the floor with her back against the wall, in the corner where the stair came up, on the side the door was on, and put the flat of her hand on the boards. The floor came up into her hand, and the walls with it.
 
 "There are two above us," she said at last. "One is heavy and does not move much. The other has been at the top of the stair since we came up it and has not gone in or out."
 
-"How long can you hold it."
+"How long can you do that for."
 
-"Not long, and not while I am asleep, and I would rather nobody in this city knew I could do it at all." She took her hand off the boards. "But I will know before the door does."
+"Not long, and not while I am asleep, and I would rather nobody in this city knew I could do it at all." She took her hand off the boards.
 
 "And I am not going to sit in here being kept," said the princess. "You will come up that stair every night and tell me what you saw, all of it, in the order you saw it. You have never once been inside a great man's household. I have never been anywhere else."
 
 ---
 
-He went looking for the governor the way you look for a man you cannot afford to be seen looking for, which is to say he did not look for him at all.
+He went looking for the governor.
 
-He worked. The road came into that yard from four directions, and every string on it had a man with it who had been somewhere else the week before. By the fourth day he was the boy three of the regular drivers asked for by pointing, because he was cheap, he did not talk, and he could read a mule's near fore off ten strides of walking.
+He worked. The road came into that yard from four directions, and every string on it had a man with it who had been somewhere else the week before. By the fourth day he was the boy three of the regular drivers asked for by pointing, because he was cheap, he did not talk, and he could see a bad foot on an animal from ten strides of walking.
 
 Men talk over animals. They talk more over animals than they talk over drink, because their hands are busy and their faces are pointed at something else and there is nothing else to do with the hour.
 
