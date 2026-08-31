@@ -1,4 +1,4 @@
-Image 1: kael-14.png — portrait reference of Kael.
+Image 1: portrait reference of Kael.
 
 Same medium and style as the reference image: loose watercolour and
 ink on rough cold-press paper, scratchy ink linework, wash blooms,
@@ -35,18 +35,17 @@ and is not resolved, and the same is along the inside of the forearm
 below it. His right wrist carries the same ring, with a short run of
 links lying away from it along the straw.
 
-KAEL lying as he has lain for sixty-two days: back to the boards,
-shoulders let down, breathing the shallow even way a sleeping boy
+KAEL lying still: back to the boards,
+shoulders let down, breathing the shallow even way someone asleep
 breathes, the lashes down and the eyes open under them, steady on
 the barred slot behind the viewer. Nothing in the face admits the
-hand. Eyes pale grey, near white. Dark hair, short, cut unevenly,
-straw in it. A plain undyed light fawn tunic, much mended, no
-ornament. Two months in the box has taken weight off him.
+hand. Dark hair, short, cut unevenly, straw in it. A plain undyed light fawn tunic, much mended, no
+ormament.
 
 Lighting: cold grey daylight and no other kind. The bar off the slot
 is the brightest thing in the frame and carries bare unpainted
 paper; the rest of the box sits at quiet middle values with nothing
 black in it. No lamp and no flame anywhere.
 
-Preserve his face, hair, colouring and apparent age exactly as shown
-in the reference image.
+Preserve him exactly as shown in his reference image — face, hair,
+colouring. Pale grey eyes, the lightest value in his face.
