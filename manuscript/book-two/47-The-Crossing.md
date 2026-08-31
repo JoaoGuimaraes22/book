@@ -8,25 +8,63 @@ The country did what the smith had said it would do. The Kharoun went on east an
 
 Off the road, always in sight of it. Water before dark, whatever else has not been done. No fire on the skirt, because a fire on a slope at night can be seen from the road for two hours' walking in both directions. And nobody goes anywhere alone.
 
-"That is not four rules," Valeria said. "That is three rules and a preference."
+They had three days of bread out of Doresh, and after that they took what the road had.
 
-"It is four."
-
-"It is the one you would break first."
-
-"Yes," Kael said. "That is why it is on the list."
-
-They had three days of bread out of Doresh, and after that they took what the road had, which was not much and was enough.
-
-Kael hunted it walking. He went wide of the line and a little ahead of it, along the loose ground above the wadis, where a hare sits out the day under a thorn and will not move for a man until he is close enough to be a problem. Then it breaks. There is about half a second of it, and a knife is faster than a hare for exactly that half second and not one grain longer. He got four and missed nine, and went and found the knife every time, because a knife left in a wadi is a knife you do not have.
+Kael hunted. He went wide of the line and a little ahead of it, along the loose ground above the wadis, where a hare sits out the day under a thorn and will not move for a man until he is close enough to be a problem. Then it breaks. There is about half a second of it, and a knife is faster than a hare for exactly that half second and not one grain longer. He got four and missed nine.
 
 Valeria got eleven and missed twice. She threw from the shoulder, flat, without appearing to have decided to, and after the second day Kael stopped competing with her about it and started giving her the side the wind was on.
 
-The ground was the princess's. That half of it was his mother's and it came out of him in his mother's words, which he heard himself using and went on using: this one and not that one, and never the one that looks like that one; the green on the wet side of a stone; wild onion by the smell before you have found the leaf; thistle, if you have the patience for the stem, and she had; and mushrooms in the bottom of a cut two days after rain, up in a night and gone in two, of which there were three kinds on that road and one of them was food.
+The food of the ground was the princess's, and that half of it was his mother's, and he heard whose words they were the first time he opened his mouth to use them.
 
-She was slow and she was careful and she asked before anything went into the sack, every time. On the sixth day she brought him something in her cupped hands and he took it out of them and threw it into the thorn and told her why, and she made him say it twice and then said it back to him.
+"Wild onion you get by the smell before you have found the leaf. Break it and put it under your nose. If you have to think about it, it is not onion."
 
-Kael could not clean a hare with one hand, so he did the killing and Valeria did the rest of it, the way she did everything with her hands. The princess watched the first two and did the third.
+She broke one and put it under her nose.
+
+"That is onion."
+
+"That is onion."
+
+"And this one?"
+
+"That is the one that looks like onion." He did not turn round. "It smells of nothing at all. That is the whole of the test and there is not a better one."
+
+Later that day it was the green on the wet side of a stone and never the dry side, and thistle, if she had the patience for the stem.
+
+"I have the patience for the stem."
+
+"You will not have it on the fourth one."
+
+She had it on the eleventh.
+
+On the sixth day she came up the line with her hands cupped in front of her.
+
+"Two days after rain, in the bottom of a cut," she said. "You said two days after rain."
+
+Kael looked into her hands. Then he took what was in them out of them and threw it into the thorn.
+
+The princess watched it go and did not say anything about it.
+
+"There are three of those on this road and one of them is food," Kael said. "The place was right. The place is most of it and it is not all of it. The underside, then the smell, then what it is standing next to. In that order, every time. If any one of the three is wrong you leave it where it is."
+
+"Again."
+
+He said it again.
+
+She said it back to him, the whole of it, in the order he had said it, with the underside and the smell the wrong way round. He told her so. She said those two twice more on her own, walking.
+
+"What would it have done," she said.
+
+"Nothing for a day. Then a great deal."
+
+She thought about that.
+
+"I would have put it in the sack," she said. "Not in my mouth. In the sack, with the rest of it."
+
+"I know," said Kael. "That is the one that kills the other two of us."
+
+She did not say anything for a while. After that she held everything up before it went in, every time, including the things she had been sure of for four days, and Kael looked at every one of them and never once told her she did not need to.
+
+Kael could not clean a hare with one hand, so they split the killing and Valeria did the rest of it, the way she did everything with her hands. The princess watched the first two and did the third.
 
 They ate in the middle of the day, off the skirt, down in a wadi with the fire in a hole the size of a hat — because a fire on a slope at night is a light and can be seen from the road for two hours' walking in both directions, and a fire at midday under a bright sky is smoke, and smoke a hundred feet down in a cut is nothing at all.
 
