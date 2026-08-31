@@ -275,6 +275,11 @@
 - A deeper enemy/mystery beyond the known world; clues exist from Book One (the pale-making word in Kael's "bird languages," the chart with a coastline that officially doesn't exist, the third-hand glimpse in the raid).
 - The origin/nature of magic braids into this thread. Two mysteries that turn out to be one. (Now includes: whether the elemental taxonomy is all there is; what Kynemir's particle/infection truly is; where the bloodline comes from.)
 
+## KAEL AND THE TENTH — THE WANT UNDER IT (author, s70; said in chat, on no page)
+- At Ch. 49 Kael asks the honest men for **one part in ten** of what comes out of the bridge-house, and for one thing that is not money: **to be inside the building when the door opens.** **The author's ruling: he does not care about the money. What he wants is to assassinate the governor, and he disguises it as a want for money.**
+- **None of that is on any page, and the chapter was built so that none of it is.** What the page keeps is the disguise working and half-failing: he has no answer ready when he is asked what a child would do with a tenth of it; **he is offered a fifth and does not ask for it**; and the reason he gives for wanting to be in the building is functional, correct, useful, and closed with *Every word of it was true*, which is the one sentence that tells the reader it is not the reason.
+- **THE COLLISION IS UNRULED AND LIVE.** Ch. 46's page has him say out loud that the governor is the only person alive who knows where his mother, his brother, the old man, Elarine and Aurelian are, and *there is not going to be a second one.* A dead governor is a dead thread. **Claude flagged this twice during drafting and it was not ruled**, so the page names nothing and both readings stand. Whether he means to kill the man, to take him, or has simply not let himself finish the sentence, is the author's to say — and until it is said, no live file carries any of this.
+
 ## FROM THE LIVE FILES — the s46 spoiler sweep (verbatim; each live line was cut or edited in place)
 #### 04-Outline.md
 - **Destination:** the Requiem ending (sealed — see 00 Author Canon). Bittersweet; the witness is Valeria.
