@@ -4,7 +4,7 @@ Everything that governs image generation lives here; `CLAUDE.md` carries one lin
 
 **CONTRACT:** the reader-facing illustrations, and the method that makes them.
 **ADMISSION TEST:** *does this govern how an image is generated, or record what one has depicted?*
-**EVICTION:** the rules live in `prompt-system.md` and are amended in place; a run's record goes under its plate's CHOSEN entry; a finding becomes a rule only when it has failed the same way, with the same cause, more than once and the correction was wanted every time (author, s42: *no need to be a rule — case by case we do adjust*) — the pictures are judged by looking at them. Superseded rules and the evidence behind current ones go to `archive/` verbatim.
+**EVICTION:** the rules live in `prompt-system.md` and are amended in place; a run's record goes under its plate's CHOSEN entry; a finding becomes a rule only when it has failed the same way, with the same cause, more than once and the correction was wanted every time (author, s42: *no need to be a rule — case by case we do adjust*) — the pictures are judged by looking at them. **A DRIFT IS NOT A DEBT** (author, s68: *stop being so fixed on the drifts … you adding rules at every little drift is not optimal*): chasing every one back into the block is what bloats it. **What earns a place here is a wording that FOUND SUCCESS**, written as a suggestion, not a correction filed against a failure. Superseded rules and the evidence behind current ones go to `archive/` verbatim.
 
 ## Session
 
