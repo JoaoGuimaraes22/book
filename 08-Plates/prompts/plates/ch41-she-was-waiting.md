@@ -22,15 +22,12 @@ the eyes level and straight out at the camera and holding it, the
 face still. She has said something and she is waiting to be answered:
 not pleading, not apologising, not defiant.
 
-HER FACE IS UNCOVERED FOR THE FIRST TIME AND THE CLOTH HAS LEFT ITS
-MARK ON IT. At each corner of the mouth a split runs back into the
-cheek about as long as the width of her own thumbnail, dark and dry
-and matched on both sides, and it is the one damaged thing in the
-picture and is drawn as clearly as her eyes. The rest of the mouth is
-closed and unhurt, and the lips are dry, shrunken and finely lined
-from two months of not enough water, with the skin drawn tight over
-the cheekbones and shadow standing under the eyes. Pale untouched skin
-under all of it, freckles across the nose and cheeks.
+HER FACE IS UNCOVERED FOR THE FIRST TIME. The corners of her mouth
+have gone — split into the flesh on both sides, dark and dry, long
+healed and split again — and the rest of the mouth is closed and
+unhurt. Two months without enough water is in the lips and under the
+eyes. Pale untouched skin under it, freckles across the nose and
+cheeks.
 
 Her hair is loose down her back and over one shoulder, silver-white
 and colourless, and two months in a box are in it: unwashed and
