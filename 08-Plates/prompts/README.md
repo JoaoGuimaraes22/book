@@ -14,7 +14,7 @@ Paste `../canon-brief.md` once at the top of the conversation first.
 - `full-figures/` — `Image` line · BASE · SUBJECT · closing line. Anchored to the portrait.
 - `plates/` — `ch<NN>-<slug>.md`: the `Image` lines, then the scene style line (or, for a plate with no reference attached, the STYLE block's Medium paragraph), then the prompt. **Prompt text only** — no heading, no fence, no emphasis (s45); the run record lives under the plate's CHOSEN entry in `plate-candidates/`. Where the author optimised a prompt before running it, the file holds their version, as run.
 - `plate-candidates/` — `ch<NN>.md`: every candidate that chapter's design found, `## CHOSEN` first with the prompt path, `## CANDIDATES` after. **The chapter quote in a CHOSEN entry is what `scripts/build-docx.py` uses to place the picture on the page** (`../README.md` §The files).
-- `held/` — `<slug>.md`: the block behind a picture in `../images/held/` that is not a plate and not a reference — a run made for its own sake, kept because the block is worth having. Same rule as the rest: prompt text only, as run. There is no candidate list and no run record; the picture is the record.
+- `held/` — `<slug>.md`: **only for a picture in `../images/held/` that has no prompt anywhere else** — a run made for its own sake rather than for a plate or a reference. Prompt text only, as run; there is no candidate list and no run record, and the picture is the record. **Most of `../images/held/` is not this**: a held run of a plate block keeps its prompt in `plates/` under the plate's own name, and its record on that plate's `plate-candidates/` entry.
 
 ## Provenance — which of these produced the adopted image
 
