@@ -251,3 +251,199 @@ The man at the window made a sound in his nose. The one at the table looked at V
 "Last question," the man at the table said. "How does a child come to spend six days counting a governor's yard."
 
 "That," Kael said, "is the part I would like to say to you with nobody else in the room."
+
+---
+
+"No," said the man at the end of the table.
+
+"He is a child."
+
+"He came up that street on his own feet in the middle of the morning and said the word out loud. There are two of them in this room with marks on their wrists that I could put a name to from the other side of a yard, and there is a man across that water paying every drunk in this city to describe exactly those two, and you have brought them up the river and stood them in front of you." He had not raised his voice at any point. "And now he wants the room."
+
+"Yes," Kael said. "Now I want the room."
+
+The man at the table looked at the sheet in front of him for a moment.
+
+"Go and get on with the rope," he said.
+
+"You do not know what he is."
+
+"No. Go and get on with the rope."
+
+They went. The last one out shut the door harder than it needed shutting, which was the loudest thing anybody in that crew had done all morning.
+
+"Well," said the man at the table.
+
+"Is there a knife I can borrow? I need to show you something."
+
+The man grinned. Then he opened the drawer under the table, and took out a small knife with a blade worn thin from sharpening, and pushed it across the paper toward Kael, and took his hand off it.
+
+Kael picked it up by the handle and laid two fingers along the flat of the blade.
+
+Then he sent it.
+
+The white came up the whole of the steel at once and stayed there, from the guard out to the point, and it did not flicker and it did not run. He held it for four seconds. Then he let it go, and put the knife back down on the paper, and took a breath he did not bother to hide.
+
+The man had not moved.
+
+"Again," he said.
+
+Kael did it again.
+
+"Does that cut."
+
+"Better than it did."
+
+The man sat back.
+
+"Val," Kael said.
+
+She looked at him.
+
+"He has to see it."
+
+She did not say anything about it, which was its own kind of answer. She went down on one knee at the edge of the beaten floor and put her hand flat on it.
+
+There was no noise. Nothing flew anywhere and nothing came off her. A column of the floor about as thick through as a man came up out of the ground between the table and the window, and went on coming until it stopped at the height of her shoulder, and the earth for three feet round the foot of it went down by about the width of a thumb.
+
+She stood up and stepped back off it, and looked at the man, and waited.
+
+The man looked at the pillar of his own floor for a while.
+
+"That is a great deal of trouble," he said, "to bring into a room."
+
+"Yes."
+
+"There is a man across that water who came four hundred miles up a road he has no business on, and took a bridge, and has been spending the whole take of it on soldiers for a month, and has not told one person in this city why." He said it slowly, the way a man says a column of figures he is adding as he goes. "Three weeks ago his people started going round the yards with a description. Three children. Two of them with iron on. And one of them a girl with hair he did not have to describe twice."
+
+He put his hand flat on the paper.
+
+"And this morning a boy comes up my street with a chain-mark on both wrists, and a girl who can take my floor up."
+
+Kael did not say anything.
+
+"You are the ones out of his box."
+
+Kael did not say anything to that either.
+
+"You are not saying no."
+
+"No," Kael said.
+
+The man nodded slowly, once, as though a sum had come out.
+
+"You know what the three of you are worth."
+
+"Yes."
+
+"Say it."
+
+"Every roof in a village," Kael said, "and the ground under them."
+
+"That was in a village." He picked up the pen and put it in the dish. "It is more here."
+
+Nobody had sat down in that room since they came into it.
+
+"Sit down," the man said.
+
+---
+
+They sat.
+
+"Say what you are selling," the man said. "All of it, in order, and do not be clever about the order."
+
+Kael said it.
+
+Nine of the sixty-three in that yard came off the road with the box. Eight of them worked its door, in threes, twice a day, for sixty-two days, and they did it in the same order every morning of it.
+
+The man himself rode at the back of a column of fifty for two months and never once came near the middle of it. He gave his orders in the empire's tongue to men who did not use it with each other. He spoke to his own people in Ivrit about mules and water and how far off a fire should be.
+
+And every afternoon, at some point in it, he turned in the saddle and looked at the road behind him for as long as the road was straight.
+
+"How long have you got of him," the man said.
+
+"Sixty-two days."
+
+"Sixty-two days of what."
+
+"Of a slot in a door about that wide," Kael said, and held his hands apart. "And nothing else to do."
+
+"And the rest of it."
+
+"Two of us can do what you have seen. If you have a wall you want down, or a something you want cut, that is what you have got, and it is not a great deal at the size you are thinking of, and you should not build anything on it that would not hold up without it."
+
+"There are three of you."
+
+"There are two of us for that."
+
+Valeria's head came round about an inch.
+
+"She is not part of what I am selling," Kael said. "She is the reason there is anything to sell. She is not going anywhere near that building and I am not going to be talked round it, and if that is the end of it then it is the end of it."
+
+The man sat with that for a moment.
+
+"Sensible," he said, and Kael could not tell whether he meant it.
+
+"And what do you want for the whole of that."
+
+"One part in ten of what comes out of that building."
+
+"A tenth." The man's eyebrows went up a very small distance. "You have not asked me what is in it."
+
+"No."
+
+"Why not."
+
+"Because I cannot count it," Kael said. "A share is the only way to price a thing you have not been allowed to count."
+
+The man laughed. It was a short, genuine, entirely unguarded laugh, and it was the first thing that had happened in that room that did not appear to have been decided beforehand.
+
+"A tenth," he said again. "That is not very much."
+
+"No."
+
+"Boys ask for half. Men ask for a third, and then take a fifth, and are pleased with themselves for a week." He put his elbows on the table. "What is a child going to do with a tenth of that."
+
+"Get three people to Solvenna."
+
+"Do you know what is between here and Solvenna."
+
+Kael did not answer.
+
+"Thirteen months," the man said. "That is thirteen months for a man with a paper in his coat, who can walk on the road, and sleep in a house, and eat what is put in front of him."
+
+He laid one finger on the table and moved it along.
+
+"You are three children who, for some reason I'll find out, cannot be seen. So you do not use the road, you use the ways round it, and they are twice as long and there is nothing on them. You pay for everything twice. You pay a boatman not to remember you, and then you pay him again in the spring when he remembers. You buy bread at four times what bread costs, from the kind of man who will sell it to you without looking at your face, and that is what he charges for the not looking. And there is a war lying across the middle of all of it, which puts men with a list on every road worth walking on, and the other kind on the rest."
+
+He took his finger off the table.
+
+"A tenth would do it," he said. "It might be short."
+
+"Then it is short."
+
+"I would have gone to a fifth."
+
+Kael did not say anything.
+
+"You are not going to ask me for a fifth."
+
+"I asked for a tenth."
+
+The man looked at him for about a second longer than the answer had been worth, and then let it go, and Kael did not know whether it had been let go or put somewhere.
+
+"And there is one thing that is not money," Kael said.
+
+"Of course there is."
+
+"When that door opens, I am inside the building."
+
+Nothing moved in the room at all.
+
+"Say why."
+
+"Because I am the only person you have who has watched those men work a door," Kael said. "In one second I can tell you which of them has stopped looking and which of them never did. You cannot buy that off me in advance, because I do not know it until I am looking at them."
+
+Every word of it was true.
+
+The man got up, went to the door, and opened it.
