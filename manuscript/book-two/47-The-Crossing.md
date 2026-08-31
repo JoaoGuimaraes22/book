@@ -80,11 +80,9 @@ Kael looked at all three. Then he took the broken one out of her hand and threw 
 
 She looked pleased about that for a second and put it away, which was a thing she had learned from somebody in that party and had not learned from him.
 
-Kael could not clean a hare with one hand, so they split the killing and Valeria did the rest of it, the way she did everything with her hands. The princess watched the first two and did the third.
+Kael could not clean a hare with one hand, so he split the killing with Valeria, and let her do the rest of it, the way she did everything with her hands. The princess watched the first two and did the third.
 
 They ate in the middle of the day, off the skirt, down in a wadi with the fire in a hole the size of a hat — because a fire on a slope at night is a light and can be seen from the road for two hours' walking in both directions, and a fire at midday under a bright sky is smoke, and smoke a hundred feet down in a cut is nothing at all.
-
-Water was the thing. There was water twice on the first day and once on every day after, and on the sixth there was a well with a trough beside it and the ruts of a train that had watered there the day before, and he stood in the ruts for a while and read them and did not like the number, and then made himself put it down, because a train is not soldiers and a boy who cannot tell the difference will be no use in a city.
 
 ---
 
@@ -92,17 +90,15 @@ On the third evening he laid it out for them properly, because it could not wait
 
 They were sitting in a scrape below the skirt with the last light going off the tops and the water skin between them. Kael had the sacking across his knees. It held five bands, a chain, and a hard little weight in the bottom of it that was not iron, and it had been on his back all day, and would be tomorrow.
 
-"They said three things about us in that yard," he said. "A boy of thirteen or fourteen, dark, an islander, with an arm that would be in a bad way. A girl the same age with black hair. And a girl of fourteen or fifteen, and you will not need me to describe her." He looked up. "Only one of those three is a description. Say which."
+"They said three things about us in that yard," he said. "A boy of thirteen or fourteen, dark, an islander, with an arm that would be in a bad way. A girl the same age with black hair. And a silver haired girl of fourteen or fifteen." He looked up. "Only one of those three is a description. Say which."
 
-Valeria did not have to think about it.
+Valeria responded.
 
-"The last one."
+"So what do you suggest?"
 
-"No."
+He looked at her.
 
-She looked at him.
-
-"The last one is a description of a thing that can be covered with a cloth," Kael said. "The first one is a description of half the boys on this road, and it will stop being a description of me the week this arm comes out of a sling and starts being an arm again. The second one is a description of one girl in nine." He turned his hand over. "The description is *three*. It is three children of that age walking together, and it does not come off with a cloth, and it does not mend."
+"The last one is a description of a thing that can be covered with a cloth," Kael said. "The first one is a description of half the boys on this road, and it will stop being a description of me the week this arm comes out of a sling and starts being an arm again. The second one is a description of one girl in nine." He turned his hand over. "The description is *three*. It is three children of that age walking together."
 
 Nobody said anything for a moment.
 
@@ -112,11 +108,13 @@ Nobody said anything for a moment.
 
 "And after the gate?"
 
-"After the gate a city is full of people and nobody in it can see more than thirty strides of the street he is standing in." He said it flatly, because it was the only good news he had and he did not want it dressed up. "A city is the only place in the world where three people can be nobody at all. The gate is the only part of it that is a gate."
+"After the gate a city is full of people and nobody in it can see more than thirty strides of the street he is standing in." He said it flatly, because it was the only good news he had and he did not want it dressed up. "A city is the only place in the world where three people can be nobody at all. The gate is the only part of it that may be problematic."
+
+"I can't be away from her Highness. It would be too dangerous, even for a split second."
 
 The princess had her knees up and her arms round them and the scarf still on, the way she now wore it from waking to sleeping without anybody having told her to.
 
-"You are wrong about one thing," she said.
+"You are wrong," she said.
 
 Kael waited.
 
@@ -126,31 +124,29 @@ Valeria's head came round.
 
 "Say the rest of it," Kael said.
 
-"There is a shape people make round somebody who matters." The princess said it without any particular weight, as though she were reading a list. "It is not a formation. Nobody is told to do it. But there is always a space in front, and somebody is always half a step off the shoulder on the side the room is on, and the person in the middle never has to decide which way to go, because the shape decides it. Anybody who has ever stood in a hall in this empire can see it from the other end of the hall." She turned her head. "She has been doing it since Qeshet. She did it in that village. She is doing it now."
+"There is a shape people make around somebody who matters." The princess said it without any particular weight, as though she were reading a list. "It is not a formation. Nobody is told to do it. But there is always a space in front, and somebody is always half a step off the shoulder on the side the room is on, and the person in the middle never has to decide which way to go, because the shape decides it. Anybody who has ever stood in a hall in this empire can see it from the other end of the hall." She turned her head. "She has been doing it since Qeshet. She did it in that village. She is doing it now."
 
 Kael looked.
 
 Valeria was sitting three feet from the princess with her back to the open ground, on the side the ground was on, half a body's turn off her shoulder.
 
-"That is where I stand," Valeria said.
+"That is true. It is where I stand," Valeria said.
 
 "Yes," said the princess.
 
 "It is where I have always stood."
 
-"Yes. And I have never once had to think about which way to walk, and I never noticed, and I am telling you now because I would like to stop finding these things out too late to be of any use." She put her chin on her knees. "I am not saying it to be difficult. I would rather you stood there. I am saying that a man who has spent ten years standing at a gate will see it in the time it takes us to walk past him."
+"Yes. And I have never once had to think about which way to walk, and I never noticed, and I am telling you now because I would like to stop finding these things out too late to be of any use." She put her chin on her knees. "I am not saying it to be difficult. I would rather you stood there. I am saying that a man who's looking for us, who has spent ten years standing at a gate may see it in the time it takes us to walk past him."
 
 Kael sat and did the sum, and it came out the way she had built it, which was not a thing he had expected of that mouth six weeks ago.
 
-"Can you not do it," he said to Valeria.
-
-"For how long."
+"Ok Highness. We will separate. For how long?" said Valeria.
 
 "An hour. Through a gate and up a street."
 
 "An hour, yes." Valeria said it the way she said everything. "Not a week."
 
-"An hour is what I need."
+"An hour is what we'll need." said Kael.
 
 "Then you will have it."
 
@@ -186,8 +182,6 @@ The princess laughed, once, out of nowhere, and put her hand over the bottom of 
 
 "It is a fair comparison," said Valeria. "Both of them are work."
 
-And Kael, walking half a stride behind the two of them on the ninth day with the sacking on his back, heard himself say *again, from the start, and slower*, and then say nothing at all for a count of eight while she found it, and knew exactly where he had got that from, and did not say so.
-
 ---
 
 On the seventh night it came back.
@@ -218,13 +212,23 @@ She did it the way she had done it every evening since the village. The old stri
 
 "Yes."
 
-She finished the knot and did not let go of the wrist immediately.
+She finished the knot and did not let go of the wrist.
 
-"You are counting," she said.
+"One," she said.
 
-Kael did not answer that.
+Kael's head came round.
 
-The princess put the hand down on his knee, and put the lid back on the pot, and got up, and went back to the other side of the scrape, and that was the whole of it. She never asked him what the number was. Two months in a box had taught her which questions in that party came back empty, and she had stopped spending anything on them.
+She was looking at the strapping and not at him. She said it again. Then two, and three, and four, evenly, at about the speed a man walks.
+
+He knew exactly where she had got it. She had been four feet away when Valeria did it, on the night of the hand, with a cloth in her mouth.
+
+She had it wrong in one particular, and it was not her fault: Valeria had picked him up off the last number he had said out loud, and the princess had no last number, because he had not said one. So she started at one, over the top of a count that was already running, and it cut across it, and for about three seconds he had two numbers going and neither of them meant anything.
+
+Then he had one.
+
+He got to about forty with her before he noticed he had joined in.
+
+She stopped there. She put the hand down on his knee and put the lid back on the pot and got up and went back to the other side of the scrape, and that was the whole of it. She did not ask him what the other number had been. Two months in a box had taught her which questions in that party came back empty, and she had stopped spending anything on them.
 
 ---
 
