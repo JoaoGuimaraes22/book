@@ -1,7 +1,7 @@
 ## Planted Clues & Foreshadowing
 **LAW CORE.** The clue ledger: what was planted, where, and what the page has done with it. **STATE is the section a row sits in** — three states, no others; a row changes state by moving section. **The plans (the old §PLANNED) live in 00 and come back here as PLANTED rows only when the author plants one.** Read by `scripts/clues.sh` AFTER a scene is designed, for what the page holds on what it touches — never before, to find debts. **The Handling column is STATE (author, s54):** what the page has done with the plant and what it leaves open — never an instruction to a future page.
 
-### PLANTED (226) — on the page, still open · THE WORKING SET
+### PLANTED — on the page, still open · THE WORKING SET
 On the page; the payoff is still owed. This section is the answer to "what is still owed?"
 
 | Clue | Planted in | Pays off in | Handling |
@@ -241,7 +241,7 @@ On the page; the payoff is still owed. This section is the answer to "what is st
 | **THE QUESTION — KAEL'S FIRST TORTURE** — a bound man, for the ground (the Kharoun) and the village (Doresh); feverish, the count on the man's own pulse to stay clinical, *his father's body-school turned outward for the first time*; the desperation surfaces and he oversteps onto his mother and does it to a man he has already read as telling the truth, one second before he stops | **Ch. 42** | 01's thesis — *dangerous without becoming them*; the unfiled faculty (conscience) OVERRIDDEN for the first time; the Requiem's moral spine; whatever Aeliana does with having watched | **No narratorial verdict; sourced to nothing; resolved into neither justification nor self-horror.** The what/why holds — he reads the body perfectly, the thing nobody built does not stop him. **Valeria kills the prisoner unasked and he lets her**, knowing he had the half-second and *did not use it because it was the right thing and because he could not have made himself, and did not resolve it* |
 | **THE BOX LEFT BARRED ON THREE DEAD MEN** — the door pulled to and the bar seated from outside in two tries, so that from ten strides there is a black box with its door shut | **Ch. 41** | open — what the camp finds, when, and what the governor does with it | Kael's, said before he decided to say it; Valeria's arms, because it took a grown man two tries with both hands (Ch. 39). **Nobody in that camp knows at the chapter's end**, and the page does not say how long that holds |
 
-### VALVE (5) — open by design · BOTH READINGS ALIVE
+### VALVE — open by design · BOTH READINGS ALIVE
 Deliberately left open (author): both readings alive on the page. A payoff here would change the book, not advance it.
 
 | Clue | Planted in | Pays off in | Handling |
@@ -252,7 +252,7 @@ Deliberately left open (author): both readings alive on the page. A payoff here 
 | **"I KNOW WHAT SHE IS"** — Severin stops Kael following his mother to the front of the shelf, and answers his half-sentence with it. A state, or a nature? | **Ch. 34** | never — both readings stay alive (liar's-knot family) | Open by design. He sources nothing, has not been asked to explain it, and it is entirely deniable as *she gave birth an hour ago*; he has not accounted for it |
 | **THE NIGHT-WATCH BLADE'S IDENTITY** — whether the blade "he had never been shown" across Neris's knees IS her chest dagger | **Ch. 4** | never — both readings stay alive | Open by design. If it is the dagger, "it keeps the cold out" turns on reread and "unsheathed" pre-echoes beat 19; if it is not, the chest stays wholly sealed. Unremarked either way |
 
-### PAID (1) — nothing further owed · THE EVICTION COHORT
+### PAID — nothing further owed · THE EVICTION COHORT
 The payoff has landed. Kept only for the do-not-respend instruction. **EVICTION: lift this whole section to `planted-clues-book-N.md` at each book boundary.** **Book One's cohort was lifted to `planted-clues-book-1.md` at s54; this table refills from the working set as Book Two pays rows off.**
 
 | Clue | Planted in | Pays off in | Handling |

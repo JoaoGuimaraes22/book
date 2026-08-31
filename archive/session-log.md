@@ -2985,3 +2985,10 @@ Asked *anything left? any file bloated, wrong?*, the audit found three small wro
 
 **NEXT:** Ch. 50 — the plan, and a job set for the night after. 05 §NEXT TARGET carries what it comes in holding.
 
+### SESSION 70 — ADDENDUM (2026-09-01): the three itches, fixed
+The author ruled *fix itches* after the close, so all three were closed in one pass and committed separately from the chapter.
+- **Ch. 47's hole.** *"Valeria responded."* is replaced by the answer it was standing in for, with the author's own added line kept: *"The last one," Valeria said. / "No." / "So what do you suggest?"* — she takes the test, is corrected in one word, and goes straight to the practical without arguing, which is her register. Nothing else in the passage moved.
+- **The only *Ok* in the manuscript** (`47:141`) becomes **Very well**, her established word since Ch. 40's *said "Very well," and lay down*. Ch. 47's baseline moves 6,705 → 6,710.
+- **`planted-clues.md`'s typed section counts are removed** — PLANTED, VALVE and PAID now carry no number, because `scripts/clues.sh` prints the real one and a typed count is a second home for a fact the script owns (ONE FACT, ONE HOME). PLANTED had drifted seven rows and would have gone on drifting. **ZERO-LOSS verified, not asserted:** the 242 table lines are byte-identical before and after, `clues.sh` with no arguments returns the same three sections with the same row counts, and a wide parity query (`-a -p 'bridge|Vask|fire|gate|iron|princess'`) returns **95/233 rows matched** both ways with byte-identical output apart from the removed number.
+- **05's *193 stay in the working set*** (the s54 open item) is left alone: it is a record of what that prune decided, not a live count.
+

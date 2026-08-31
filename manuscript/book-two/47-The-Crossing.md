@@ -90,7 +90,9 @@ On the third evening he laid it out for them, in a scrape below the skirt with t
 
 "They said three things about us in that yard," he said. "A boy of thirteen or fourteen, dark, an islander, with an arm that would be in a bad way. A girl the same age with black hair. And a silver haired girl of fourteen or fifteen." He looked up. "Only one of those three is a description. Say which."
 
-Valeria responded.
+"The last one," Valeria said.
+
+"No."
 
 "So what do you suggest?"
 
@@ -138,7 +140,7 @@ Valeria was sitting three feet from the princess with her back to the open groun
 
 Kael sat and did the sum, and it came out the way she had built it, which was not a thing he had expected of that mouth six weeks ago.
 
-"Ok Highness. We will separate. For how long?" said Valeria.
+"Very well, Highness. We will separate. For how long?" said Valeria.
 
 "An hour. Through a gate and up a street."
 
