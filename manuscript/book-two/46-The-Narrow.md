@@ -2,39 +2,45 @@
 
 The front horse went down about eleven strides in. It went down hard, knees first and then over, and the man on it went off the front and did not get up, because the horse came over on top of him.
 
-The second horse did not go down. It stopped. It screamed. It stood on three legs with the fourth held up off the ground, turning in a circle in a place eleven feet wide, and the men behind it could not get past it or get away from it.
+It did not stay down. It got its forelegs under it and could not get the rest, and went on trying, with a man's chest under its shoulder and its hind feet cutting grooves in the track. The noise that came out of it went up the fold and came back off the far side.
+
+The second horse did not go down. It stopped. It screamed. There was a thing the size of a walnut in the frog of its off fore with a point of it standing up out of the top of the hoof. It put that foot down once and would not put it down again. It stood on three legs in a place eleven feet wide and turned, and turned, and struck out with the others. It put a man against the rock of the rise with its shoulder, and he was a long time getting up off it. Nobody behind it could get past it. Nobody behind it could get away from it.
 
 There were about six seconds in there where the whole thing might have gone the other way.
 
-Then somebody at the back of the column shouted, and the shout had *ambush* in it, and after that it was arithmetic.
+Then somebody at the back of the column shouted, and the shout had *ambush* in it.
 
 They came off the horses.
 
 They came off them the way soldiers do, fast and correctly, backs to the rise, spears up, looking at the track in front of them. It was the right thing to do. It was the thing Kael had built the entire day around. Nobody looks at ground he has not walked on. He looks at the ground where the bad thing already happened.
 
-A voice was shouting to hold, in Ivrit, off the flat somewhere.
-
 About half of them held.
 
-The other half did not hold. Eight of them came down along the water side, three together and then five behind, along the strip of flattened grass where a man does not have to think about his feet, moving fast because they thought the fight was in front of them.
+The other half did not hold. Nine of them came down along the water side, three together and then six behind, along the strip of flattened grass where a man does not have to think about his feet, moving fast because they thought the fight was in front of them.
 
-The first man went in to the chest.
+They fell.
+
+The first man went in to the chest. He was running when he went. The leg he was on took the whole of him against the packed side of the hole and folded the wrong way in the middle of the thigh, and the end of the bone came out through the front of it and stood there. He did not scream at first. There was no air left in him to do it with.
 
 The second man went in beside him, because he was watching the first man. The litter gave in a piece about four feet across and took him down onto the other one, and something in one of them broke with a sound that carried the whole length of the narrow.
 
+Then they both screamed. Neither of them stopped, and it went on underneath the whole of the rest of it.
+
 The third stopped at the edge with his arms out.
 
-Valeria came off the rise onto his back.
+Valeria came off the rise onto his back. She came off it from twelve feet up with everything she had spent inward. He went down flat under her, and his face went into the grass and did not come out of it again.
 
 Two more went into the second hole inside the next ten seconds, because men running at a thing do not stop when the man in front of them goes down. They go round him. Going round him on that strip meant going wide, and wide was where she had put it.
 
 That left four of them standing on the grass with her.
 
-Kael did not see most of what she did to those four, because he was at the bottom of the hundred strides and it happened sixty strides above him, and what reached him was the shape of it and not the detail. She had a soldier's sword in her right hand and a knife in her left, and both hands had been full for two days, which they had not been since the island. She went along that strip of grass the way weather goes along a coast.
+Kael did not see most of what she did to those four, because he was at the bottom of the hundred strides and it happened sixty strides above him, and what reached him was the shape of it and not the detail. She had a soldier's sword in her right hand and a knife in her left, and both hands. She went along that strip of grass the way waves go along a coast.
+
+The detail reached him anyway, because sound goes up a fold and comes back. It did not sound like swordwork. It sounded like a man being taken apart against the ground, and then like another one.
 
 Three of them never got a spear round.
 
-The fourth got his round and got it into the ground and she went up the shaft of it.
+The fourth got his round and got it into the ground, and she went up the shaft of it and took the front of his face off with the pommel on the way. She finished it kneeling.
 
 Kael counted her and made himself stop counting her, because men were coming down the track toward him now, three of them, and the whole of his job was arriving.
 
@@ -42,39 +48,57 @@ He put the thread into the blade before they could see him, and stood in the mid
 
 The first one came at him hard, because he was a boy.
 
-Kael did not trade. He had never once been able to, and everything he had was built on not being where the blow was. He took the man's spear off its line with the flat of the blade and stepped inside it. The spear went past his ear. He put the point up under the arm where the arm had come away from the body, and the threading took it through coat and leather as if neither had been there. He got out sideways. The man went down behind him, and the spear went into the water.
+Kael did not trade. Everything he had was built on not being where the blow was. He took the man's spear off its line with the flat of the blade and stepped inside it. The spear went past his ear. He put the point up under the arm where the arm had come away from the body, and the threading took it through coat and leather as if neither had been there, and out through the top of the shoulder on the far side. He got out sideways and took the blade with him. The man went down behind him making a noise like somebody trying to be sick, and the spear went into the water.
 
 The second one had watched the first one and came in low and careful.
 
-That one took longer and cost him. He was working one-handed against a grown man with a spear in eight feet of ground and there is no clever answer to that; there is only the answer of not being there, over and over, until the other man does something with his feet. It took eleven exchanges. Kael took a cut across the top of the shoulder on the eighth. The ninth was the man's mistake, a long step onto loose stone at the water's edge. The tenth put the sword into the inside of the thigh. The eleventh was not necessary and he did it anyway.
+That one took longer and cost him. He was working one-handed against a grown man with a spear in eight feet of ground and there is no clever answer to that; there is only the answer of not being there, over and over, until the other man does something with his feet. It took eleven exchanges. Kael took a cut across the top of the shoulder on the eighth. The ninth was the man's mistake, a long step onto loose stone at the water's edge. The tenth put the sword into the inside of the thigh and opened it. What came out came out in a rope and went five or six feet across the stones before he had finished falling. The eleventh was his end.
 
 The third man saw the second man go down and turned round and ran back up the track.
 
-Kael let him go. The alternative was chasing a grown man uphill on legs that had given out in a yard eight nights ago, and there were only two ways out of the hundred strides. Valeria was standing in the other one.
+Kael let him go. There were only two ways out of the hundred strides. Valeria was standing in the other one.
 
 He heard where the man got to.
 
 That was the first minute.
 
-The rest of it took nine more and it was not a fight, and Kael stood in the mouth for the whole of it because standing in the mouth was his job and there was nothing else in the world for him to do.
+The rest of it took twenty more, and it was not a fight, and Kael stood in the mouth for the whole of it because standing in the mouth was his job.
 
-Seven men were still at the top of the narrow with the officer, and they had three ways to go and none of them was a way. Back up the track was two dead horses and fifteen strides of ground that had already taken the front of the column. The rise was a climb with a girl standing over it. That left the strip along the water, one and two at a time, into a place they had just watched eight men walk into.
+Six of them were still at the top of the narrow and the officer was one of them, and they had three ways to go and none of them was a way. Back up the track was two horses on the ground and one still turning, and fifteen strides that had already taken the front of the column. The rise was a climb with a girl standing over it. That left the strip along the water, one and two at a time, into a place they had just watched nine men walk into, with four of those nine still in it and still making the noise.
 
-They came anyway. There is nothing else a man does in a narrow, and the officer was still saying his name.
+They came anyway. There is nothing else a man does in a narrow.
 
 Valeria worked back up the strip toward them.
 
-She did not hurry any of it. That was the part Kael understood best and liked least: she took the ground she wanted first and then took the man, every time, and when two came at her together she moved so that they were one behind the other and dealt with the order she had made. One of them went wide off the strip to get round her and put himself into the third hole and did not come up out of it again. Another went into the water and was carried thirty feet and stood up in the shallows on the far side, and she was there before he had got his feet under him.
+She had stopped pretending to fight them. Twice she took a spear coming in and let it through the meat of her left arm to get her hand onto the shaft. Both times the man went into the rock of the rise and did not come off it in one piece. One of them she got by the belt and the back of the neck and put head first into the third hole. He went in to the shoulders and stopped there, and his legs went on moving for a while.
 
-By the end of it there was one man across the water, going up the far side of the fold on his hands, a long way above everything.
+She was slowing. Kael could see it at sixty strides in the way she came off a man — later each time, a half-beat standing over the work before she went to the next of it.
 
-Kael saw him and could not do anything at all about him, which he had known would be true of somebody from the moment he chose the ground and had put down where he put things.
+Two got past her.
+
+They came down the strip at a run with nothing behind them and reached the mouth about four seconds apart, and what was waiting for them was eight feet of ground, one arm, and a boy who could no longer hold the thread past a count of six.
+
+The first was easy and he was ashamed of how easy it was. The man came in already turned to look behind him.
+
+The second was not. He was older, he had a spear, and he had watched. He backed Kael eleven feet down the track and then eleven more. The point went across Kael's ribs and skidded on bone, and the whole left side of him went white and stopped belonging to him. He got in under it because the man put a foot in the water and the water was moving. He took the leg out from underneath him with a boot and did the rest of it kneeling on the man's chest, one-handed, with no thread in the blade. It took four goes. A soldier's sword is not a knife, and the man kept getting his forearm up.
+
+When it was done the man slid off the stones into the water and the water took him. Kael let it. He stood up and looked at the top of the narrow.
+
+The officer had stopped coming.
+
+He was between the horses with his back to the rock and his spear out in front of him at a girl with blood coming out of her sleeve, and there was nobody anywhere left for him to shout at.
+
+Kael started up the track and did not get there.
+
+She did not kill him. She put his knee the wrong way with her heel and left him lying, which nobody had asked her for.
+
+Then she sat down on the horse and did not get up.
 
 ---
 
-It took ten minutes altogether and then it was quiet except for the horses and the men in the holes.
+It had taken something over twenty minutes, and after it there was the water, and the men in the holes, and the horses.
 
-Kael came up the track along the water side with the sword still in his hand and the thread out of it. He looked at what was in the flat place. Then he went on up to the top of the narrow, where the first two horses were.
+Kael came up the track along the water side with the sword still in his hand and no thread in it. He looked at what was in the flat place. Then he went on up to the top of the narrow.
 
 The princess came down off the rise with the cloak over her arm.
 
@@ -90,41 +114,57 @@ She was extremely white and her mouth was doing something at the corner. She cam
 
 "Nineteen."
 
-Kael went along them and counted. He got eighteen, and then he counted again from the other end and got eighteen again, and the two numbers stood there in front of him and agreed with each other about a man on a rise.
+Kael went along them and counted.
 
-"Valeria."
+He got eighteen. He counted again from the other end and got eighteen again. Then he made himself do it a third time, slowly, out loud, putting his hand on each of them, because a number you have got twice is not a number you have got.
 
-She came down off the flat place. There was a great deal on her and none of it was hers.
+Eighteen.
 
-"Eighteen," he said. "She has nineteen. One of them got across the water and went up the far side on his hands about four minutes ago, and I could not reach him."
+"Val."
 
-Valeria did not ask him anything about it. She went up the fold at a run without waiting to be told, and was out of sight in about nine seconds.
+She came off the horse and came down the track. There was a great deal on her and about a third of it was hers.
 
-It took her an hour and ten minutes.
+"Eighteen," he said. "She has nineteen."
 
-Kael sat at the top of the narrow for the whole of it, back against the rock, arm across his chest, able to do nothing whatever about any of it. Tarim sat about fifteen feet off. Neither of them said anything for the first half hour.
+Valeria looked at the water.
 
-"I did not know," Tarim said, at last.
+"The one at your mouth," she said. "He went in."
 
-"No."
+He had watched the man go into the water and had not put him in the count, because a man in the water was a man he had already finished with, and that was exactly the thing his father had spent ten years taking out of him.
 
-"I have seen men fight. There was a year when they came up the road both ways." He had his hands hanging off his knees and he was not looking at anything. "That was not fighting."
+The water came down out of the narrow, opened, and ran shallow over stones for a long way before the first of the houses.
+
+He went down it with Tarim.
+
+They found him a little over two hundred strides below the mouth, in eight inches of water at the inside of a bend, face down, with his coat filled and holding him against the stones.
+
+He was breathing.
+
+Kael got into the water beside him and turned him over with his one hand. The man's eyes came open and found him. There was nothing in them that was going to be reasoned with, and there was nothing left in Kael that was going to try. It took a moment. The water went on going down past both of them, and had a colour in it for a while, and then did not have it any more.
+
+Tarim stood on the stones and watched the whole of it, and did not help, and was not asked to.
+
+"I have seen men fight," he said, when they were walking back up. "There was a year when they came up the road both ways." He was not looking at anything. "That was not fighting."
 
 "No," Kael said. "It was not meant to be."
 
-When Valeria came back down she was alone and she was walking. She did not say anything. She went past them, sat down at the water and put her hands in it.
+Kael counted him on the way past — out of the water, along the stones, up to the mouth — and made nineteen, and set it down, and it stayed.
 
-"Nineteen," Kael said.
+"That is all of them," he said. "Nobody is going back up that water."
 
-"Nineteen," she said.
+Tarim looked up the fold at where the narrow was, and did not say anything at all.
 
 ---
 
-Four of the men in the holes were alive.
+The princess bound Valeria's arm at the top of the narrow while Kael was down at the water.
 
-Kael went along the edge of the flat place and looked into each of them in turn, and the fourth one, who was the one with the flat accent and the list, was lying on his side in the bottom of the second hole with a leg that had gone the wrong way at the knee and no way of getting out and about an hour left in him, and he looked up at a thirteen-year-old boy standing on the edge of his grave with one arm in a sling.
+She did it with a strip off her own hem and she did it wrong twice and then right, and Valeria sat and let her, and said thank you afterward, and neither of them said anything else about it. It was the first thing the princess had ever done for her with her hands.
 
-Kael crouched down. It hurt to crouch. He kept the count on the man's pulse anyway, without deciding to, by watching the side of his throat, which was a thing he did now.
+Then Kael went and did the rest of it.
+
+The officer was on the track between the horses with the leg Valeria had left him, and he had the words, so Kael did him first.
+
+He crouched down. It hurt to crouch. He kept the count on the man's pulse anyway, without deciding to, by watching the side of his throat, which was a thing he did now.
 
 "I am going to ask you three things," he said, in Ivrit. "You will hear the difference in how I ask them."
 
@@ -158,11 +198,25 @@ Kael stayed there a moment longer.
 
 Kael gave him some.
 
-Then he stood up and went along the other three, and asked each of them the first question and got the same city out of two of them and nothing out of the third, and when he had what he had come for he did what had to be done about the four of them, and it did not take very long, and the part of him that would have argued about it did not say anything at all.
+Then he stood up and did him, and went along the holes.
+
+Four of them were alive in there. He asked each of them the first question anyway, because a thing you have from one mouth you do not have, and got the same city out of two, and nothing at all out of the third, and out of the fourth a spine that had stopped working somewhere in the middle and no interest in any of it.
+
+Then he did them.
+
+The first was the worst and he had known it would be, because the first was a man with both hands up out of the hole and about four words of the empire's tongue in him, and he used all four of them, twice. Kael did it kneeling at the edge with the sword held short, and it was not clean, and it took two.
+
+The other three did not take long. By the third he had the place on the side of the neck and it was one each, and he did not talk to any of them and none of them talked to him.
+
+Then he went the length of the flat place and made sure, which took longer than the killing had, because making sure is a thing you do with your hands.
+
+The part of him that would have argued about any of it did not say one word.
 
 It was afterward, walking back up to the split rock, that he noticed it had not.
 
 He put that down where he put things and went on walking.
+
+Tarim had come as far as the near end of the flat place and had not come any further, and was standing there when Kael came back past him. Kael did not say anything about that either.
 
 ---
 
@@ -174,9 +228,11 @@ There were thirteen of them standing about in the narrow by the middle of the af
 
 "They are evidence," Damir said. He said it the way he had said it about the iron, standing in the middle of his own yard with his son thirty feet away and neither of them looking at the other. "The same as the rest of it."
 
-"They are also thirteen horses."
+"They are also thirteen horses," Kael said.
 
-"Yes," said the headman, who had come up the fold behind him, "they are," and that was the end of the discussion. "One at a time. Down the water, in the spring, and again the spring after, where the men who buy do not ask and would not know the brand if they did. It will take four years and nobody in this fold has ever had anything that took four years."
+Damir looked at them for a while.
+
+"Yes," he said, and that was the end of the discussion. "One at a time. Down the water, in the spring, and again the spring after, where the men who buy do not ask and would not know the brand if they did. It will take four years. Nobody in this fold has ever had anything that took four years."
 
 The rest of it went into the water with stones in the coats, a long way up. The ground got put back over the holes. It rained that night, which Kael thought was the only piece of luck any of them had been handed since the box.
 
