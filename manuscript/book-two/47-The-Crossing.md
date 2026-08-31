@@ -333,7 +333,7 @@ By the third morning he was doing the loads at the halt one-handed, and the driv
 
 The girls walked with the train's own people, four animals back, in the dust, with their heads covered, which in that country is what a head is.
 
-The gate was a toll gate and Kael had it about ten strides out. Two men taking money and a third with a stick and a board, counting animals and counting loads: that was what the city charged for and therefore all it could see. The driver said a number, and the man with the stick walked down the string and made the number true, and never once looked at the height of anybody walking beside it.
+The gate was a toll gate and Kael had it about ten strides out. Two men taking money and a third with a stick and a board, counting animals and counting loads: that was what the city charged for and therefore all it could see. The driver said a number, and the man with the stick walked down the line of them and made the number true, and never once looked at the height of anybody walking beside it.
 
 All three were of this country and none of them was a soldier. There was nobody on that gate in white and blue at all. Kael went under the arch waiting for the second part of it, the way there had been a second part to everything at Qeshet, and there was no second part.
 
@@ -343,7 +343,7 @@ He went in with his hand on a mule's neck in the middle of thirty-eight of them,
 
 ---
 
-The train put up outside the old wall on the downstream side, where the ground was flat and there was water and the streets were wide enough to turn a string in. The man who owned the yard was called Zahir, and he had eleven mules of his own and four rooms over the long shed with an outside stair to them.
+The train put up outside the old wall on the downstream side, where the ground was flat and there was water and the streets were wide enough to turn a train in. The man who owned the yard was called Zahir, and he had eleven mules of his own and four rooms over the long shed with an outside stair to them.
 
 Kael stood in the yard for an hour before he went to him. He watched him take money off two men, turn one away, and shout at a boy about a trough, and he watched what he did with his eyes while he was doing all three.
 
@@ -451,13 +451,13 @@ Then she sat down on the floor with her back against the wall, in the corner whe
 
 He went looking for the governor.
 
-He worked. The road came into that yard from four directions, and every string on it had a man with it who had been somewhere else the week before. By the fourth day he was the boy three of the regular drivers asked for by pointing, because he was cheap, he did not talk, and he could see a bad foot on an animal from ten strides of walking.
+He worked. The road came into that yard from four directions, and every train on it had a man with it who had been somewhere else the week before. By the fourth day he was the boy three of the regular drivers asked for by pointing, because he was cheap, he did not talk, and he could see a bad foot on an animal from ten strides of walking.
 
 Men talk over animals. They talk more over animals than they talk over drink, because their hands are busy and their faces are pointed at something else and there is nothing else to do with the hour.
 
-He never asked a question he wanted the answer to. You ask the thing beside it, as though the answer bores you, and let the man arrive at it on his own, because a man who has arrived at a thing on his own gives you the whole of it and is pleased with himself for doing it. That was his mother's, and it had come to him at nine dressed as something else.
+He never asked a question he wanted the answer to. You ask the thing beside it, as though the answer bores you, and let the man arrive at it on his own. That was his mother's, and it had come to him at nine dressed as something else.
 
-So he asked about tolls. What it cost to bring a string over, whether it had gone up, who set it, whether the man who set it was the same as last year.
+So he asked about tolls. What it cost to bring a train over, whether it had gone up, who set it, whether the man who set it was the same as last year.
 
 He got the bridge out of that: a gatehouse at each end, the hours — open at first light, shut at full dark, and shut altogether for a whole day in the second week for a reason nobody could give him — and what a month of it was worth, which three separate men gave him within a tenth of each other, so it was the number people said and not the number that was true.
 
@@ -467,7 +467,7 @@ They would tell him anything. What a load of hides was worth at either end of th
 
 And he got the governor sideways, on the fifth day, out of a man complaining about the price of stabling.
 
-"It is the soldiers," the man said. "They have every yard inside the wall and they are paying, so nobody will take a string at the old price. There is a man come up from the coast who is buying soldiers like a woman buys onions."
+"It is the soldiers," the man said. "They have every yard inside the wall and they are paying, so nobody will take a train at the old price. There is a man come up from the coast who is buying soldiers like a woman buys onions."
 
 "Buying them for what."
 
