@@ -22,7 +22,7 @@ They fell.
 
 The first man went in to the chest. He was running when he went. The leg he was on took the whole of him against the packed side of the hole and folded the wrong way in the middle of the thigh, and the end of the bone came out through the front of it and stood there. He did not scream at first. There was no air left in him to do it with.
 
-The second man went in beside him, because he was watching the first man. The litter gave in a piece about four feet across and took him down onto the other one, and something in one of them broke with a sound that carried the whole length of the narrow.
+The second man went in beside him, because he was watching the first. The litter gave in a piece about four feet across and took him down onto the other one, and something in one of them broke with a sound that carried the whole length of the narrow.
 
 Then they both screamed. Neither of them stopped, and it went on underneath the whole of the rest of it.
 
@@ -34,7 +34,7 @@ Two more went into the second hole inside the next ten seconds, because men runn
 
 That left four of them standing on the grass with her.
 
-Kael did not see most of what she did to those four, because he was at the bottom of the hundred strides and it happened sixty strides above him, and what reached him was the shape of it and not the detail. She had a soldier's sword in her right hand and a knife in her left, and both hands. She went along that strip of grass the way waves go along a coast.
+Kael did not see most of what she did to those four, and what reached him was the shape of it and not the detail. She had a soldier's sword in her right hand and a knife in her left, and both hands. She went along that strip of grass the way waves go along a coast.
 
 The detail reached him anyway, because sound goes up a fold and comes back. It did not sound like swordwork. It sounded like a man being taken apart against the ground, and then like another one.
 
@@ -44,7 +44,7 @@ The fourth got his round and got it into the ground, and she went up the shaft o
 
 Kael counted her and made himself stop counting her, because men were coming down the track toward him now, three of them, and the whole of his job was arriving.
 
-He put the thread into the blade before they could see him, and stood in the middle of the mouth, which was eight feet wide, and waited.
+He put the thread into the blade before they could see him, and stood in the middle of the mouth, and waited.
 
 The first one came at him hard, because he was a boy.
 
@@ -52,7 +52,7 @@ Kael did not trade. Everything he had was built on not being where the blow was.
 
 The second one had watched the first one and came in low and careful.
 
-That one took longer and cost him. He was working one-handed against a grown man with a spear in eight feet of ground and there is no clever answer to that; there is only the answer of not being there, over and over, until the other man does something with his feet. It took eleven exchanges. Kael took a cut across the top of the shoulder on the eighth. The ninth was the man's mistake, a long step onto loose stone at the water's edge. The tenth put the sword into the inside of the thigh and opened it. What came out came out in a rope and went five or six feet across the stones before he had finished falling. The eleventh was his end.
+That one took longer and cost him. He was working one-handed against a grown man with a spear in eight feet of ground and there is no clever answer to that; there is only the answer of not being there, over and over, until the other commits a mistake. It took eleven exchanges. Kael took a cut across the top of the shoulder on the eighth. The ninth was the man's mistake, a long step onto loose stone at the water's edge. The tenth put the sword into the inside of the thigh and opened it. What came out came out in a rope and went five or six feet across the stones before he had finished falling. The eleventh was his end.
 
 The third man saw the second man go down and turned round and ran back up the track.
 
@@ -140,7 +140,11 @@ They found him a little over two hundred strides below the mouth, in eight inche
 
 He was breathing.
 
-Kael got into the water beside him and turned him over with his one hand. The man's eyes came open and found him. There was nothing in them that was going to be reasoned with, and there was nothing left in Kael that was going to try. It took a moment. The water went on going down past both of them, and had a colour in it for a while, and then did not have it any more.
+Kael got into the water beside him and turned him over with his one hand. The man's eyes came open and found him. There was nothing in them that was going to be reasoned with, and there was nothing left in Kael that was going to try.
+
+He put his knee on the man's chest to hold him on the stones, because he had one hand and needed it for the knife. Then he put the knife in at the side of the neck under the ear, as deep as it went, and drew it forward, which is the fastest of the ways he knows and the one that makes the most mess. The man got both hands up onto Kael's forearm and stayed there for a while, not pulling, just holding on to it. Then he let go.
+
+The water went on going down past both of them, and had a colour in it for a while, and then did not have it any more.
 
 Tarim stood on the stones and watched the whole of it, and did not help, and was not asked to.
 
@@ -162,7 +166,7 @@ She did it with a strip off her own hem and she did it wrong twice and then righ
 
 Then Kael went and did the rest of it.
 
-The officer was on the track between the horses with the leg Valeria had left him, and he had the words, so Kael did him first.
+The officer was on the track between the horses with the leg Valeria had left him, and he had the words, so Kael went to him first.
 
 He crouched down. It hurt to crouch. He kept the count on the man's pulse anyway, without deciding to, by watching the side of his throat, which was a thing he did now.
 
@@ -186,7 +190,7 @@ The count stayed level the whole way through it. It went up on *buying men* and 
 
 "Why what."
 
-"Why three children in a box. Why he did not sell you the reason." Kael leaned a little. "You have been on that road for two months and forty of you have been wondering. What did he tell you."
+"Why three children in a box." Kael leaned a little. "What did he tell you."
 
 "He told us nothing," the man said. "He has told nobody anything since the day he shut that door. He rode at the back and he looked behind him and he told us nothing."
 
@@ -198,17 +202,25 @@ Kael stayed there a moment longer.
 
 Kael gave him some.
 
-Then he stood up and did him, and went along the holes.
+Then he stood up and killed him.
 
-Four of them were alive in there. He asked each of them the first question anyway, because a thing you have from one mouth you do not have, and got the same city out of two, and nothing at all out of the third, and out of the fourth a spine that had stopped working somewhere in the middle and no interest in any of it.
+He used the knife, because the sword was too much sword for a man lying down and he had one hand to do it with. He put his boot on the wrist of the arm that still worked, and went in at the side of the neck under the angle of the jaw, and drew it out toward himself. It emptied fast. A man opened there has about as long as it takes to say a short sentence, and the officer spent his looking at him, in Ivrit, and Kael understood every word of it and did not answer.
 
-Then he did them.
+Then he went along the holes.
 
-The first was the worst and he had known it would be, because the first was a man with both hands up out of the hole and about four words of the empire's tongue in him, and he used all four of them, twice. Kael did it kneeling at the edge with the sword held short, and it was not clean, and it took two.
+Four of them were alive in there. He asked each of them the first question anyway, because a thing you have out of one mouth you do not have, and got the same city out of two, and nothing at all out of the third, and out of the fourth a spine that had stopped working somewhere in the middle and no interest in any of it.
 
-The other three did not take long. By the third he had the place on the side of the neck and it was one each, and he did not talk to any of them and none of them talked to him.
+Then he killed the four of them.
 
-Then he went the length of the flat place and made sure, which took longer than the killing had, because making sure is a thing you do with your hands.
+The first was the worst and he had known it would be, because the first was a man with both hands up out of the hole and about four words of the empire's tongue in him, and he used all four of them, twice.
+
+Kael got down on his knees at the edge and leaned in over him. The angle was wrong from up there and the man got hold of his forearm and turned the first one, so that it went in above the collarbone instead of the neck and came out again without having done anything except make him worse. He was screaming by then. The second one Kael took his time over: he put his weight down on the man's wrist through the splint, which hurt him more than it hurt the man, and got the point in under the jaw and pushed it up, and held on to it until it was finished.
+
+The other three did not take long. Two were down against the packed sides of their holes with the broken legs under them and could not get their arms up past their own heads, and he did those from above, in at the side of the neck and out, one each. The fourth was the one whose back had gone. He was looking at the sky and did not look at Kael at any point, and Kael did it the same way, and he did not appear to notice it happening.
+
+Then he went the length of the flat place and made sure of the rest of them, which took longer than the killing had. Making sure is a thing you do with your hands: two fingers on the side of the neck where the blood goes up, and you wait, and if there is nothing under them you go on to the next one.
+
+There were two he had to go back for.
 
 The part of him that would have argued about any of it did not say one word.
 
