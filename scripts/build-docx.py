@@ -8,7 +8,7 @@ Usage:
     uv run scripts/build-docx.py                # -> build/Book-One.docx
     uv run scripts/build-docx.py book-two
 
-Trim is 6x9 (author, s55). Each adopted plate in 08-Plates/images/plates/ is
+Trim is 6x9 (author, s55). Each adopted plate in 08-Plates/images/plates/<book>/ is
 placed after the paragraph its own sheet quotes from the page, so the picture
 punctuates the beat rather than pre-empting it. Where a sheet is a craft record
 with no page quote, the anchor is in MANUAL below — a snippet of the paragraph
@@ -96,7 +96,7 @@ def norm(s):
 def sheet_sections(t):
     """The CHOSEN bullets of a plate-candidates file, keyed by plate slug.
 
-    Since s58 the chapter's candidate list at 08-Plates/prompts/plate-candidates/
+    Since s58 the chapter's candidate list at 08-Plates/prompts/plate-candidates/<book>/
     replaces the retired 08-Plates/plates/ sheets. A CHOSEN bullet names its plate
     by the prompt path it points at, and carries the chapter quote that anchors the
     picture (see canon_frags). The old sheets are in 08-Plates/archive/plate-sheets.md.
@@ -104,7 +104,7 @@ def sheet_sections(t):
     out = {}
     m = re.search(r"^## CHOSEN\s*$(.*?)(?=^## |\Z)", t, flags=re.M | re.S)
     for line in (m.group(1).split("\n") if m else []):
-        s = re.search(r"`\.\./plates/ch\d+-([a-z0-9-]+)\.md`", line)
+        s = re.search(r"`[^`]*plates/(?:book-[a-z]+/)?ch\d+-([a-z0-9-]+)\.md`", line)
         if s:
             out[s.group(1)] = line
     return out
@@ -124,14 +124,14 @@ def canon_frags(body):
 
 def resolve_images(chapters):
     adopted = {}
-    for p in sorted(glob.glob(os.path.join(PLATES, "*.png"))):
+    for p in sorted(glob.glob(os.path.join(PLATES, "*", "*.png"))):
         m = re.match(r"ch(\d+)-(.+)$", os.path.basename(p)[:-4])
         if m and int(m.group(1)) in chapters:
             adopted.setdefault(int(m.group(1)), []).append((m.group(2), p))
     placed, missed = {}, []
     for n in sorted(adopted):
-        sheet = os.path.join(ROOT, "08-Plates/prompts/plate-candidates/ch%02d.md" % n)
-        secs = sheet_sections(open(sheet).read()) if os.path.exists(sheet) else {}
+        hits = glob.glob(os.path.join(ROOT, "08-Plates/prompts/plate-candidates/*/ch%02d.md" % n))
+        secs = sheet_sections(open(hits[0]).read()) if hits else {}
         nb = chapters[n]["norm"]
         for slug, path in adopted[n]:
             idx = None
