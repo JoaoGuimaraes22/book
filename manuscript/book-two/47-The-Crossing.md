@@ -16,15 +16,19 @@ Off the road, always in sight of it. Water before dark, whatever else has not be
 
 "Yes," Kael said. "That is why it is on the list."
 
-They had three days of bread out of Doresh, and after that they ate what the country had, which was not much and was enough.
+They had three days of bread out of Doresh, and after that they took what the road had, which was not much and was enough.
 
-He set the snares every evening before the light went and lifted them before it came back: eight of them, in the runs off the wadis where the thorn came down to the wet line and a thing had to come out into the open to get past. It was the first work his father had ever given him. A dry country will not feed a man walking across it in a straight line, and it will feed a man who leaves eight pieces of cord out overnight in the right eight places and comes back for them in the morning, and the whole of the difference between those two is taught to a boy before he is ten.
+Kael hunted it walking. He went wide of the line and a little ahead of it, along the loose ground above the wadis, where a hare sits out the day under a thorn and will not move for a man until he is close enough to be a problem. Then it breaks. There is about half a second of it, and a knife is faster than a hare for exactly that half second and not one grain longer. He got four and missed nine, and went and found the knife every time, because a knife left in a wadi is a knife you do not have.
 
-He could not tie them one-handed. He got three done in the time three should have taken eight, and then he stopped and showed Valeria, and she watched him do one and did the next four herself, exactly, faster than he had ever done them, and found the entire business dull and said so.
+Valeria got eleven and missed twice. She threw from the shoulder, flat, without appearing to have decided to, and after the second day Kael stopped competing with her about it and started giving her the side the wind was on.
 
-Hare, mostly. Two ground birds. On the fifth day something with a long back that Kael did not have a name for and cleaned and cooked anyway, and the princess ate her share of it and did not ask what it was, which four months ago would have been the second question out of her.
+The ground was the princess's. That half of it was his mother's and it came out of him in his mother's words, which he heard himself using and went on using: this one and not that one, and never the one that looks like that one; the green on the wet side of a stone; wild onion by the smell before you have found the leaf; thistle, if you have the patience for the stem, and she had; and mushrooms in the bottom of a cut two days after rain, up in a night and gone in two, of which there were three kinds on that road and one of them was food.
 
-They ate it in the middle of the day, off the skirt, down in a wadi with the fire in a hole the size of a hat — because a fire on a slope at night is a light and can be seen from the road for two hours' walking in both directions, and a fire at midday under a bright sky is smoke, and smoke a hundred feet down in a cut is nothing at all.
+She was slow and she was careful and she asked before anything went into the sack, every time. On the sixth day she brought him something in her cupped hands and he took it out of them and threw it into the thorn and told her why, and she made him say it twice and then said it back to him.
+
+Kael could not clean a hare with one hand, so he did the killing and Valeria did the rest of it, the way she did everything with her hands. The princess watched the first two and did the third.
+
+They ate in the middle of the day, off the skirt, down in a wadi with the fire in a hole the size of a hat — because a fire on a slope at night is a light and can be seen from the road for two hours' walking in both directions, and a fire at midday under a bright sky is smoke, and smoke a hundred feet down in a cut is nothing at all.
 
 Water was the thing. There was water twice on the first day and once on every day after, and on the sixth there was a well with a trough beside it and the ruts of a train that had watered there the day before, and he stood in the ruts for a while and read them and did not like the number, and then made himself put it down, because a train is not soldiers and a boy who cannot tell the difference will be no use in a city.
 
