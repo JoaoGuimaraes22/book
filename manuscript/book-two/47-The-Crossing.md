@@ -2,9 +2,9 @@
 
 The road ran east along the south skirt for nine days, and Kael counted it.
 
-He had started again from one above Doresh without deciding to, and by the second morning the number was into the tens of thousands and still going. He found that he did not want to stop it. It sat underneath everything else he did. It was there while he walked and it was there while he ate and it was there when he lay down in the dark with his arm up on his chest, and it asked him nothing.
+He had started again from one above Doresh without deciding to, and by the second morning it was into the tens of thousands and still going, and he found that he did not want to stop it.
 
-The country did what the smith had said it would do. The Kharoun went on east and got drier as it went, the grey-green in the low places thinning out into thorn and then into nothing much at all, and the road kept to the south skirt because there was nowhere else for a road to keep to. They walked off it. That was the first rule and there were four of them, and Kael said all four out loud on the first morning so that nobody would have to guess.
+The Kharoun went east and got drier as it went, and the road kept to the south skirt because there was nowhere else for a road to keep to. They walked off it. That was the first rule, and there were four, and Kael said all four out loud on the first morning so that nobody would have to guess.
 
 Off the road, always in sight of it. Water before dark, whatever else has not been done. No fire on the skirt, because a fire on a slope at night can be seen from the road for two hours' walking in both directions. And nobody goes anywhere alone.
 
@@ -28,7 +28,7 @@ The food of the ground was the princess's, and that half of it was his mother's,
 
 "Then give me that and the greens and the stems," she said, "and go and be over there with the knife. You are the one of us who can throw."
 
-He gave her the greens and the stems. She had them in two days: which side of a stone, why the wet side, why not the ones with the milk in them when you break the leaf. She was slow and she asked twice about everything and she got nothing wrong.
+She had the greens and the stems in two days. She was slow, she asked twice about everything, and she got nothing wrong.
 
 Thistle was the fourth day.
 
@@ -82,13 +82,11 @@ She looked pleased about that for a second and put it away, which was a thing sh
 
 Kael could not clean a hare with one hand, so he split the killing with Valeria, and let her do the rest of it, the way she did everything with her hands. The princess watched the first two and did the third.
 
-They ate in the middle of the day, off the skirt, down in a wadi with the fire in a hole the size of a hat — because a fire on a slope at night is a light and can be seen from the road for two hours' walking in both directions, and a fire at midday under a bright sky is smoke, and smoke a hundred feet down in a cut is nothing at all.
+They ate in the middle of the day, off the skirt, down in a wadi, with the fire in a hole the size of a hat. A fire at night is a light. A fire at midday under a bright sky is smoke, and smoke a hundred feet down in a cut is nothing at all.
 
 ---
 
-On the third evening he laid it out for them properly, because it could not wait for the city and it was going to cost somebody something.
-
-They were sitting in a scrape below the skirt with the last light going off the tops and the water skin between them. Kael had the sacking across his knees. It held five bands, a chain, and a hard little weight in the bottom of it that was not iron, and it had been on his back all day, and would be tomorrow.
+On the third evening he laid it out for them, in a scrape below the skirt with the water skin between them and the sacking of iron across his knees.
 
 "They said three things about us in that yard," he said. "A boy of thirteen or fourteen, dark, an islander, with an arm that would be in a bad way. A girl the same age with black hair. And a silver haired girl of fourteen or fifteen." He looked up. "Only one of those three is a description. Say which."
 
@@ -112,7 +110,7 @@ Nobody said anything for a moment.
 
 "I can't be away from her Highness. It would be too dangerous, even for a split second."
 
-The princess had her knees up and her arms round them and the scarf still on, the way she now wore it from waking to sleeping without anybody having told her to.
+The princess had her knees up and the scarf still on, the way she now wore it from waking to sleeping without anybody having told her to.
 
 "You are wrong," she said.
 
@@ -154,7 +152,7 @@ Kael sat and did the sum, and it came out the way she had built it, which was no
 
 He taught them Ivrit while they walked, because there was nothing else to do with nine days and because two of the three of them were going to have to open their mouths in that city.
 
-The princess was quick and the reason was that she was not frightened of being wrong in front of anybody, which Kael had put down to arrogance in the spring and had since revised twice. She had come off the Kharoun with about forty words and she had four hundred by the ninth day, most of them nouns, all of them said too loudly and in the wrong order, and by the sixth day she had started to hear which order was wrong before he told her.
+The princess was quick, because she was not frightened of being wrong in front of anybody, which Kael had put down to arrogance in the spring and had since revised twice. She came off the Kharoun with forty words and had four hundred by the ninth day, and by the sixth she had started to hear which order was wrong before he told her.
 
 Valeria was the worst student he had ever had.
 
@@ -196,7 +194,7 @@ He found the princess looking at him more and more the past few days. She came o
 
 He had not heard her come over. She sat down on her heels beside him with the linen roll and the clay pot in her lap and put her hand out flat, and waited, and after a moment he put the hand into it.
 
-She did it the way she had done it every evening since the village. The old strip off, the pot, the honey warmed a moment between her palms because the old woman had told her to and she had never once skipped it, the new strip round and round with the thumb kept out of it and the whole thing tied off on the back where he could not lie on the knot. She had been bad at it for two days and she was not bad at it now.
+She did it the way she had done it every evening since the village: the old strip off, the honey warmed a moment between her palms because the old woman had told her to, the new strip round with the thumb kept out of it and tied off on the back where he could not lie on the knot. She had been bad at it for two days and was not bad at it now.
 
 "It is less hot," she said.
 
@@ -217,7 +215,7 @@ She put the hand down on his knee and put the lid back on the pot, and did not g
 
 "That is not an answer and you know it is not."
 
-Nobody had ever asked him. That was the part he sat with for a moment: his whole life, two parents who built it into him, a Temple, and not one person in any of it had ever put the question, and he had therefore never once had to find the words for it and did not have them ready.
+Nobody had ever asked him. His whole life, two parents who built it into him, a Temple, and not one person in any of it had put the question, so he had never had to find the words for it and did not have them ready.
 
 "I see what is in front of me," he said. "All of it. And it stays."
 
@@ -290,30 +288,25 @@ She put the lid on the pot and went back to the other side of the scrape.
 They came to the end of the Kharoun on the ninth morning, and where the road ended and met the water, there was Ishareth.
 
 He looked at it for a while.
-
-It was not laid out. Qeshet had been laid out — walls the colour of the ground, a mole, a shape a man could hold. This had a wall on the land side that had been built for a smaller city and had been walked round and out of on both ends, and inside the wall it was packed solid and grey-brown to the water, and outside the wall on both sides it went on anyway in yards and pens and roofs of cloth, all the way down to the bank and then along it, upstream and down, as far as he could follow.
+It had a wall on the land side that had been walked round and out of on both ends, and inside the wall it was packed solid and grey-brown to the water, and outside the wall on both sides it went on anyway in yards and pens and roofs of cloth, all the way down to the bank of the river and then along it, upstream and down, as far as he could follow.
 
 He went looking for the empire in it and did not find very much. There was nothing white and blue on that wall. There were no towers on it that had been put up by somebody who had arrived later, and no straight street cut through the middle of the packed part, and nothing at all standing above the roofs except the roofs.
 
 And out of the middle of it, out over the brown water, there was one bridge.
 
-It was stone and it was old. It went across on piers with the water piled up white on the upstream side of each of them, and it had a gatehouse at the near end and a gatehouse at the far end, and it was the only thing crossing that river in either direction for as far as the country went.
+It was stone and it was old, on piers with the water piled up white on the upstream side of each, a gatehouse at either end, and it was the only thing crossing that river for as far as the country went.
 
-Everything went to it. He could see that from the top of the shelves, which is the one place in the world where a thing like that can be seen: every track on that plain, from the north, from the south, from the road he was standing on, bent, and came together, and went in.
+Everything went to it. He could see it all from where he stood: every track on that plain, from the north, from the south, from the road he was standing on, bent, and came together, and went in.
 
 "That is the last of the empire," he said.
 
-"On this side of the water," said the princess, beside him.
-
-"Yes."
-
-"Then what is on the other side of it."
+"Then what is on the other side of it." said the princess, beside him.
 
 "Nalar," Kael said.
 
 "You know that."
 
-"My mother said it once. I was seven or eight and she was teaching me Avestan, and I asked her whose it was, because everything she taught me was somebody's. She said it was the east's, and that the east began at Nalar." He was looking down at the water. "Then she made me do the verb again."
+"My mother said it once. I was seven or eight and she was teaching me Avestan, and I asked her whose it was, because everything she taught me was somebody's. She said it was the east's, and that the east began at Nalar." He was looking down at the water.
 
 The princess said the name over to herself, and said it differently from the way he had said it, and neither of them remarked on that.
 
@@ -327,38 +320,30 @@ Kael looked back down at it. A string of animals no bigger than a stitch of thre
 
 "That is the right question," he said, "and I have not got the answer to it."
 
-
-He started counting the city and stopped after four seconds, and it was not the way it had stopped at the district gate. He simply saw that the number was not a thing he needed. He did not need to know how many people were in Ishareth. He needed to know how many were in one building, and how many hours the gates on the bridge were open, and which of the tracks on that plain a man could leave by after dark.
-
-He took the four hundredth stride of the descent and let the rest of the count go, and it went, and he noticed that it went.
-
+He started counting the city and stopped after four seconds. He simply saw that the number was not a thing he needed. He needed to know how many were in one building, and how many hours the gates on the bridge were open, and which of the tracks on that plain a man could leave by after dark.
 ---
 
 They came in on the eleventh day, which was two more than he had said it would be, in the middle of a train of thirty-eight mules, and it cost them nothing but three days of walking beside it.
 
-Kael had picked the train up at the last halt on the shelves. He had watched two go past before he chose it — one too small, one with a man on it who counted his own animals twice at the same halt, which meant he counted people too — and the third one had thirty-eight mules, four men, and a load of cut stone and hides, and a driver whose off-side lead animal was going short on the near fore and had been for at least a day.
+Kael had picked the train up at the last halt. He had watched two go past before he chose it — one too small, one with a man on it who counted his own animals twice at the same halt, which meant he counted people too — and the third one had thirty-eight mules, four men, and a load of cut stone and hides, and a driver whose off-side lead animal was going short on the near fore and had been for at least a day.
 
 He told the man about the hoof before he asked for anything, which is a thing his father had never had to explain to him twice: you do not open with what you want.
 
-By the second morning he was walking the string. By the third he was doing the loads at the halt, one-handed, with the bad arm in the sling and the good hand doing the work of both, and the driver had stopped saying anything to him at all, which is what men do when a thing is getting done.
+By the third morning he was doing the loads at the halt one-handed, and the driver had stopped saying anything to him at all, which is what men do when a thing is getting done.
 
 The girls walked with the train's own people, four animals back, in the dust, with their heads covered, which in that country is what a head is.
 
-The gate at Ishareth was a toll gate and Kael understood it about ten strides out.
+The gate was a toll gate and Kael had it about ten strides out. Two men taking money and a third with a stick and a board, counting animals and counting loads: that was what the city charged for and therefore all it could see. The driver said a number, and the man with the stick walked down the string and made the number true, and never once looked at the height of anybody walking beside it.
 
-There were two men at the wall taking money and a third with a stick and a board, and the board was what mattered. They were counting animals and they were counting loads. That was what the city charged for and that was therefore what the city could see. The driver said a number and the man with the stick walked down the string and made the number true, and never once looked at the height of anybody walking beside it.
+All three were of this country and none of them was a soldier. There was nobody on that gate in white and blue at all. Kael went under the arch waiting for the second part of it, the way there had been a second part to everything at Qeshet, and there was no second part.
 
-All three of them were of this country and none of them was a soldier. There was nobody on that gate in white and blue at all. Kael went under the arch waiting for the second part of it, the way there had been a second part to everything at Qeshet, and there was no second part. Nobody in the empire cared who came into Ishareth.
+Nobody in the empire cared who came into Ishareth. He put that down carefully, because it was the largest thing he had learned all day and he did not know what it was for.
 
-He put that down carefully, because it was the largest thing he had learned all day and he did not yet know what it was for.
-
-Kael went through the gate of Ishareth with his hand on a mule's neck, in the middle of thirty-eight of them, and nobody in that city looked at him, and it cost the driver four coppers a head for the animals and nothing at all for the people.
+He went in with his hand on a mule's neck in the middle of thirty-eight of them, and it cost the driver four coppers a head for the animals and nothing at all for the people.
 
 ---
 
-The train put up at a yard on the downstream side, outside the old wall, where the ground was flat and there was water and the streets were wide enough to turn a string in. That was the whole reason such yards are where they are and Kael had it in about a minute.
-
-The man who owned it was called Zahir. He had the yard, he had eleven mules of his own, and he had four rooms over the long shed with an outside stair up to them, and he rented all four of them to whoever was on the road that week.
+The train put up outside the old wall on the downstream side, where the ground was flat and there was water and the streets were wide enough to turn a string in. The man who owned the yard was called Zahir, and he had eleven mules of his own and four rooms over the long shed with an outside stair to them.
 
 Kael stood in the yard for an hour before he went to him. He watched him take money off two men, turn one away, and shout at a boy about a trough, and he watched what he did with his eyes while he was doing all three.
 
@@ -378,17 +363,17 @@ Zahir looked at him for a moment longer than he needed to.
 
 "Six."
 
-"For the week," Kael said. "Not seven for seven."
+"For the week," Kael said. "Not seven?"
 
 Zahir laughed, which Kael had not expected, and something moved across the back of his head about that and he put it where he put things.
 
-"Six," said Zahir. "You have done this before."
+"Six," said Zahir. "You haven't done this before have you?"
 
 "No."
 
 "No," Zahir agreed. "You have not. Give me the six."
 
-Kael went up the stair and untied the sacking on the floor of the room and took out the little hard weight from the bottom of it and counted six coppers out of it with the good hand, and put the rest back, and went down and paid the man. There had been coin sewn into the hems of three of those coats and he had cut all three of them out on his knees in the flat place above Doresh with the light going, and had put it in the sacking with the iron, and had not said anything about it to either of them then or since. It bought a room with no window that opened, and it bought bread that evening for three people, and the man who took the coin for the bread put it between his teeth first.
+There had been coin sewn into the hems of three of those coats. He had cut all three out on his knees in the flat place above Doresh with the light going, and put it in the sacking with the iron, and said nothing about it to either of them then or since. It bought the room, and it bought bread that evening for three people, and the man who took it for the bread put it between his teeth first.
 
 Kael watched him do that.
 
@@ -402,7 +387,7 @@ The rules of the house took ten minutes and he was harder about them than he had
 
 That stopped him, which annoyed him.
 
-He had names for both of them ready — plain ones, off the coast, the kind of name that goes past a man's ear without touching it — and he had nothing at all for himself, because in thirteen years nobody had ever needed to write him down. He had been *Kael* at the Temple, and *Kael of the Island* in front of eleven thousand people, and the one full name he had ever owned had been given to him at a table in Qeshet by the girl sitting on the floor in front of him, and it was in the capital's post under a governor's own seal, and it was the single most dangerous word in his mouth.
+He had names for both of them ready, plain ones off the coast, and nothing at all for himself. The one full name he had ever owned had been given to him at a table in Qeshet by the girl sitting on the floor in front of him, and it was in the capital's post under a governor's seal, and it was the most dangerous word in his mouth.
 
 "Kael," he said. "It is a name off every coast on this sea. I will not answer to anything else fast enough and a man who does not answer to his own name is remembered for a month."
 
@@ -440,19 +425,19 @@ She stayed like that for a while, and her eyes went the way they had gone in the
 
 He went looking for the governor the way you look for a man you cannot afford to be seen looking for, which is to say he did not look for him at all.
 
-He worked. Zahir's yard took in what came off the road and the road came in from four directions and every string that came into that yard had a man with it who had been somewhere else the week before. Kael did the water and he did the loads and he did the feet, and by the fourth day he was the boy that three of the regular drivers asked for by pointing, because he was cheap, he did not talk, and he could read a mule's near fore off ten strides of walking.
+He worked. The road came into that yard from four directions, and every string on it had a man with it who had been somewhere else the week before. By the fourth day he was the boy three of the regular drivers asked for by pointing, because he was cheap, he did not talk, and he could read a mule's near fore off ten strides of walking.
 
 Men talk over animals. They talk more over animals than they talk over drink, because their hands are busy and their faces are pointed at something else and there is nothing else to do with the hour.
 
-He never asked a question he wanted the answer to. That was his mother's, and it had come to him at nine years old dressed as something else entirely, and he had it now with the dressing off: you do not ask the thing. You ask the thing beside it, and you ask it as though the answer bores you, and you let the man arrive at the thing on his own, because a man who has arrived at a thing on his own will give you the whole of it and be pleased with himself for doing it.
+He never asked a question he wanted the answer to. You ask the thing beside it, as though the answer bores you, and let the man arrive at it on his own, because a man who has arrived at a thing on his own gives you the whole of it and is pleased with himself for doing it. That was his mother's, and it had come to him at nine dressed as something else.
 
-So he asked about tolls.
+So he asked about tolls. What it cost to bring a string over, whether it had gone up, who set it, whether the man who set it was the same as last year.
 
-He asked what it cost to bring a string over the bridge, and whether it had gone up, and whether it went up in the summer, and who set it, and whether the man who set it was the same man as last year — and he got the tolls, and the bridge, and the gatehouse at each end, and the hours (open at first light, shut at full dark, and shut altogether for a whole day in the second week for a reason nobody could give him), and the fact that everything crossing that river crossed there, and that the tolls off it in a good month were a number three separate men gave him within a tenth of each other, which meant it was the number people said and not the number that was true.
+He got the bridge out of that: a gatehouse at each end, the hours — open at first light, shut at full dark, and shut altogether for a whole day in the second week for a reason nobody could give him — and what a month of it was worth, which three separate men gave him within a tenth of each other, so it was the number people said and not the number that was true.
 
 And he got one other thing, which was not an answer.
 
-Men in that yard would tell him anything about the road. They would tell him what a load of hides was worth at either end of it and whose brother had drowned and what the watch could be got to do for two coppers. They told him all of it cheerfully and at length, and then the talk would come up to the bridge, and stop, and go round it, and come out on the other side talking about something else — and not one of them ever noticed himself doing it. It was not fear. It was the shape a thing makes in a room when everybody has agreed for years not to put a hand on it.
+They would tell him anything. What a load of hides was worth at either end of the road, whose brother had drowned, what the watch could be got to do for two coppers. Then the talk would come up to the bridge, and stop, and go round it, and come out the other side on something else, and not one of them ever noticed himself doing it. It was not fear. It was the shape a thing makes in a room where everybody has agreed for years not to put a hand on it.
 
 And he got the governor sideways, on the fifth day, out of a man complaining about the price of stabling.
 
@@ -470,9 +455,9 @@ He went and stood in the yard.
 
 He went twice, on two different days, at two different hours, and he went with a barrow both times because a boy with a barrow can stand anywhere in a city for as long as he likes.
 
-The bridge-house was the stone building at the near end of the bridge, on the upstream side, where the toll was taken. It was the oldest thing in Ishareth and it had been built by people who expected to be argued with: one door on the street, one door onto the bridge itself, a yard behind a wall with one gate in it, and slit windows on the upper floor that had been made narrow for a reason and had never been widened. There were four men on the street door and two on the yard gate.
+The bridge-house was the stone building at the near end, where the toll was taken, and it had been built by people who expected to be argued with: one door on the street, one door onto the bridge, a yard behind a wall with one gate in it, and slits upstairs made narrow for a reason and never widened. Four men on the street door and two on the yard gate.
 
-The men on it were not of this city. Not one of the six of them was, and Kael stood with the barrow and worked it out and then found it was not a discovery at all, because it was the same everywhere he had looked for two days: the city was Ishareth's, and the wall was Ishareth's, and the watch was Ishareth's and did nothing, and the one building the empire was standing in was the one you could not leave the country without walking past. A governor of a city four hundred miles west had come up this road and taken a bridge. He had not taken a town. Nobody had given him a town.
+Not one of the six was of this city. The wall was Ishareth's and the watch was Ishareth's and did nothing, and the one building the empire was standing in was the one you could not leave the country without walking past. A governor of a city four hundred miles west had come up this road and taken a bridge. He had not taken a town. Nobody had given him a town.
 
 *There is one bridge and it is his.* The man in the hole had said it plainly and Kael had heard it as a boast about the difficulty. It had not been a boast. It had been the whole of the man's holdings.
 
