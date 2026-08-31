@@ -459,7 +459,7 @@ He never asked a question he wanted the answer to. You ask the thing beside it, 
 
 So he asked about tolls. What it cost to bring loaded mules over, whether it had gone up, who set it, whether the man who set it was the same as last year.
 
-He got the bridge out of that: a gatehouse at each end, the hours — open at first light, shut at full dark, and shut altogether for a whole day in the second week for a reason nobody could give him — and what a month of it was worth, which three separate men gave him within a tenth of each other, so it was the number people said and not the number that was true.
+He got the bridge out of that: a gatehouse at each end, the hours — open at first light, shut at full dark, and shut altogether for a whole day in the second week for a reason nobody could give him — and what a month of it was worth.
 
 And he got one other thing, which was not an answer.
 
