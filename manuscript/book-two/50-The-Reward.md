@@ -147,3 +147,77 @@ He did it again, tighter.
 "Better."
 
 When it was done the chain hung between his wrists, swung, and touched itself twice.
+
+---
+
+They went down the river in two boats, and nobody put anything over his head.
+
+He counted it anyway. Nine minutes with the current where it had been twelve against it, the bank close on his right this time instead of his left, and the four places where the sound off the water went flat were where he had put them. The building he had been in for a day and a half stood about two hundred strides upstream of where he had drawn it.
+
+He had a point now instead of a shape. He did not do anything with it.
+
+They came in at a landing below the town and walked up through the yards, six men and two children. It took no time at all, because nobody looked twice at it. The bridge was still open. There was a line of animals coming off it in the last of the light and a man at the near gatehouse waving them through with his arm out flat.
+
+Then the street, and the bridge-house at the end of it.
+
+---
+
+There were more men outside that building than there were on any other street in Ishareth.
+
+They stood along the wall of the yard in no order at all, forty or fifty of them, and they had come from somewhere else. Kael had watched the same thing three days a week for a month from behind a barrow, and it had never once been this many.
+
+Some of them had their own steel and some had nothing. One had a spear that had been a hayfork. There was a man of sixty who had put himself at the front and been left there. There were four or five who had done it before and stood like it, apart from the rest and not talking. There was a boy no older than Kael holding his own elbow.
+
+The man with the board came out and went down the line, turning them away by touching his own chin and moving his hand. He did not say a word to any of them. About one in three went, and they went without arguing, and the ones who stayed did not look at the ones who went.
+
+Two of the men along that wall had been in the rope-walk. He went along the rest of them twice and could not have said.
+
+Neither of the two looked at him. One of them was chewing something and watching the gate like a man who has been waiting a long time and expects to wait longer. He was doing it so well that Kael had to make himself stop looking at him.
+
+The party did not go to the back of the line. They went up the middle of the street to the gate and stopped in front of it. The two children were brought up level with the men and turned to face the yard.
+
+Everything on that wall stopped.
+
+"We have two of them," the talker said, in the Koine. "We want the price on these two, and we want the work of getting the third."
+
+The man with the board came over. He did not look at the talker. He looked at Kael for about a second, then at Valeria for longer. Then he did the thing Kael had been waiting for him to do.
+
+He looked at their wrists.
+
+---
+
+Then they were searched, and it took a long time.
+
+The two on the gate did it, one man at a time. They were not quick and they were not rough, and they went about it like men who had been told what happens if they get it wrong.
+
+Steel first, onto the ground: four knives and a short sword and a thing that was neither. Then the hands. The first man's boots, both of them, the tops and then down the outside of the leg to the ankle. Then the sleeves, pushed back one at a time. Then the small of the back under the belt, which is where the belt is, so a hand goes there anyway. Then inside the coat, high, under the arm.
+
+Five places.
+
+They did all five, on all five of them, and Kael stood four feet away with his hands in front of him and counted twenty-five of them. He got to the end and nobody had been anywhere near him.
+
+The second one on the gate did come over at the end. He took Kael's chin in his hand, turned his face up into the last of the light and looked at it. Then he let go, and lifted the left hand by the chain, and looked at the marks above the band, and put it down.
+
+Then he went and looked at the other one's face for longer, and said something to the man with the board, who went in through the yard door at a walk that was not quite a walk.
+
+---
+
+They put the two of them against the wall inside the gate and left them there.
+
+There was nothing to do. His hands were in front of him at the height of his belt, which is where they go, and there was not one thing left in that yard he had not looked at twice. So he looked at those.
+
+The bands were plain. There was nothing cut into them, anywhere, on either side.
+
+He turned the right one over as far as it would go.
+
+Nothing cut into it. Nowhere for the black to sit.
+
+In two months that man had given exactly one instruction about the three of them that Kael had heard with his own ears. It had been given in Ivrit, over their heads, to men who opened that door in threes, and it had been about a girl's hands.
+
+Valeria had been chained to the wall four feet from him while it was said, and she had not understood one word of it, because nobody had ever taught her any.
+
+Kael stood against the wall of that yard and did not move his hands.
+
+There was a man holding his right arm above the elbow. There were fifty men along a wall. There was a door about to open.
+
+There was no version of the next four seconds in which he opened his mouth.
