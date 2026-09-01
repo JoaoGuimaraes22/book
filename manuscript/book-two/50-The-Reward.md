@@ -112,13 +112,39 @@ She opened the band, put it round his right wrist and closed it. It sat down on 
 
 "Too tight."
 
-"No."
+"No." He turned the wrist over and looked at it. "I hate these things."
 
-She did the left one over the back of his hand without once touching the back of his hand, which took her a while.
+"Yes."
+
+"I am telling you so that it has been said."
+
+Her thumb stopped on the pin for about half a second.
+
+"It has been said," she said.
+
+She started the left one, working it over the back of his hand without once touching the back of his hand, which took her a while.
+
+"His were heavier," he said.
+
+"They were the same."
+
+"They were heavier."
+
+"Very well. They were heavier."
 
 Then she held her own arms out.
 
-He could only use the one hand, so he was slow. She stood and let him be slow, and nobody in that building looked at either of them while it was going on.
+He had one hand that was any use, so he was slow. She stood and let him be slow, and nobody in that building looked at either of them while it was going on.
+
+"Tighter," she said.
+
+"It does not need to be tighter."
+
+"It needs to look like it was done by somebody who did not care."
+
+He did it again, tighter.
+
+"Better."
 
 When it was done the chain hung between his wrists, swung, and touched itself twice.
 
