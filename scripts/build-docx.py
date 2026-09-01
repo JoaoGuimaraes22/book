@@ -170,7 +170,9 @@ def resolve_images(chapters):
         src = os.path.join(PORTRAITS_DIR, fn)
         if not os.path.exists(src):
             sys.exit("missing portrait: " + src)
-        if chap not in chapters or blk >= len(chapters[chap]["blocks"]):
+        if chap not in chapters:
+            continue          # PORTRAITS is Book One only; skip when building another book
+        if blk >= len(chapters[chap]["blocks"]):
             sys.exit("portrait anchor out of range: %s ch%02d block %d" % (fn, chap, blk))
         by_chapter.setdefault(chap, {}).setdefault(blk, []).append((fn, src, "portrait"))
         n_port += 1
