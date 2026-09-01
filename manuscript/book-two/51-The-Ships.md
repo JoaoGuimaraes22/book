@@ -110,7 +110,7 @@ He stopped again.
 
 ---
 
-Kael stopped for a breath. It seems that somehow the others resisted, or fled, or somehow fought back.
+Kael stopped for a breath. It seemed that somehow the others resisted, or fled, or fought back.
 
 "My people. Who was still standing," Kael said. "At the end of it."
 
@@ -186,7 +186,7 @@ Somebody had counted them. Not a herald, not a report, not a soldier telling ano
 
 "They, is what that man represented. A resistance."
 
-"A resistance? To the empire. So doomed an island full of people."
+"A resistance? To the empire. So you doomed an island full of people."
 
 "Yes."
 
