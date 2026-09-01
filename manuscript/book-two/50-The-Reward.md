@@ -378,4 +378,4 @@ The man on the stool behind him did not go anywhere.
 
 Kael had known he would not, and had known it since the rope-walk. It changed nothing. There was no version of this in which he did not ask.
 
-"There were fifty men on that road," he said. "How many are left."
+"The people who were with us in Qeshet," he said. "Where are they?"
