@@ -36,7 +36,9 @@ wrists.
 
 THE MAN IS LOOKING AT THE COLUMN AND NOT AT HER. Sitting back from
 the table, one hand flat on the paper, the head turned up and across
-to the top of it. Mouth closed, brows unmoved. A plain dark coat.
+to the top of it, so that his uncovered eye is toward her and toward
+the viewer. The beard has his mouth: the brow is level and unmoved
+and the one eye carries it. A plain dark coat.
 
 The column and Valeria's face carry the finished drawing; the man
 comes next; the table, the paper, the window and the walls stay at
