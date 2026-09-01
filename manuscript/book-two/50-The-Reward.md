@@ -285,3 +285,52 @@ Kael did not know what he had found.
 The man who had been sitting at the table in the rope-walk had not said one word since the street. He had been watching the governor's face, and nothing else in that room, for as long as they had been in it.
 
 "That will do," he said.
+
+
+---
+
+Six men moved at once, and not one of them moved toward a weapon.
+
+The hand came off Kael's arm.
+
+What they went for was hands and mouths. The one who had been talking about a road took the nearest guard by the wrist and the elbow, turned him into the wall, and had a forearm over the lower half of his face before the shoulder got there. The two who were brothers took one man between them without either of them looking at the other. Somebody put a knee into the back of a knee and rode a man down onto the boards with a hand already in place.
+
+A chair went over. A cup came off the table and did not break.
+
+Nobody shouted, which was the whole of it.
+
+Valeria went past two of them, not fast, in a straight line, to the man nearest the door, because he was the one who could get out of it.
+
+There was nothing to see. She had a fistful of the front of him and a hand round his wrist. He came up off the floor about an inch. After that he did not move any part of himself again, and his face did what a face does when it has understood something it has no way of using.
+
+The man from the rope-walk went round the end of the table, took the governor of Qeshet by the front of the coat, and hit him twice, low, with the other hand.
+
+He did it the way a man does a job he has done before and does not enjoy. There had been nothing in either of his hands all evening, and there was nothing in them now.
+
+---
+
+Then it stopped being fast.
+
+Choking a man out takes longer than anybody thinks. It is fifteen seconds if you have it right and a good deal longer if you have not, and the whole of that time he is working, and you can feel him working.
+
+Two of them had it right. One did not, and had to give it up and start again, and made more noise doing it than everything else in that room put together. The man beside him put a hand flat on the top of the guard's head and held it still until it was done.
+
+Boots on boards. A heel going twice against a table leg and then not going again.
+
+Valeria's man was the last, and she did not do it herself. She held him where he was until one of them came over to do it. She was still holding him when it was finished, and she let go about two seconds after there was any reason to.
+
+The yard went on underneath them. Somebody down there was arguing about a name on a board.
+
+---
+
+One of them went along the five, put two fingers under the jaw of each, left them there a while, and moved on.
+
+Then he stood up and looked at the governor of Qeshet, who was on his knees at the wall with a man's hand in his collar, awake, breathing through his mouth, looking at the boy in the middle of the room.
+
+"That one as well," said the one with the fingers.
+
+"No," Kael said.
+
+It was the first thing he had said since the street.
+
+"Leave him awake. I need to talk to him."
