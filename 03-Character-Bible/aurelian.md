@@ -11,6 +11,7 @@
 - **Appearance:** Tall for his cohort, built a year ahead of his age; dark-gold hair; **amber, gold-brown eyes — author ruling s34, unspent on any page**; high carriage; unspent strength Kael prices on sight. Beautiful and knows the exact weight of it — the bench behaves differently in his radius (the page renders the radius, not the adjective). Fire's warmth in the coloring without stating it — it sits in the hair and the eyes together, and is never named as fire.
 
 ### DYNAMIC
+- **THE HOUSE FOUGHT, AND HE STILL DOES NOT KNOW (Ch. 51).** Ten of the governor's sixteen never came out of it and it was still going when the box left the yard, and the governor kept nothing and waited for nothing. **Qeshet has since been taken**, so the men who could have said what happened are gone with it.
 - **KAEL COUNTS AURELIAN AMONG THE PEOPLE HE IS WALKING TOWARD A MAN FOR (Ch. 46).** Asked why Ishareth, he named the governor of Qeshet as the only thread to his mother, his brother, the old man, *and Elarine and Aurelian.* **His Ch. 36 verdict on the gate is untouched and uncorrected**, and the page joins the two together nowhere.
 - **ON NO PAGE FROM CH. 39.** Not in the box; Valeria *saw nothing of … Corvane and Sedrane*; what became of him that night is 00's.
 - **He said it, since nobody else would** — *I have wanted a bed with my whole body for a month, and I find that I cannot walk to one* — and ended up in Elarine's room without either of them having arranged it: *The floor. You will have the floor.* / *Naturally.*

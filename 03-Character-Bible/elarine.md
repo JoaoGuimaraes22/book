@@ -16,6 +16,7 @@
 - **Appearance:** Ink-dark hair bound severely; pale, economical — nothing on her that doesn't work; small; dark eyes that price before they blink. Forgettable at a glance and unforgettable the third time you notice she hasn't moved. What others react to: they mostly don't — which she has noticed, and wears as neatness.
 
 ### DYNAMIC
+- **THE HOUSE FOUGHT, AND HE STILL DOES NOT KNOW (Ch. 51).** Ten of the governor's sixteen never came out of it and it was still going when the box left the yard, and the governor kept nothing and waited for nothing. **Qeshet has since been taken**, so the men who could have said what happened are gone with it.
 - **KAEL COUNTS ELARINE AMONG THE PEOPLE HE IS WALKING TOWARD A MAN FOR (Ch. 46).** Asked why Ishareth, he named the governor of Qeshet as the only thread to his mother, his brother, the old man, *and Elarine and Aurelian.* **His Ch. 36 verdict on the gate is untouched and uncorrected**, and the page joins the two together nowhere.
 - **ON NO PAGE FROM CH. 39.** Not in the box; Valeria *saw nothing of … Corvane and Sedrane*; what became of her that night is 00's.
 - **She examined it and it came out the same:** *I have not been further than an arm from any of you in thirty days. I do not want to begin tonight.* She went past Aurelian into her room, left the door open, and gave him the floor.

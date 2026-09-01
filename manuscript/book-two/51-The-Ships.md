@@ -289,7 +289,7 @@ He went to the shutters, put one finger on the slat and moved it down the width 
 
 "I need the rest of tonight with him," Kael said.
 
-"No. "
+"No."
 
 "You have not asked me why."
 
@@ -369,7 +369,7 @@ Then somebody put their steel down on the stones in front of them, two swords an
 
 He said it the way he had said everything else, which was as though it were a thing already written down somewhere and he was reading it out.
 
-"We are not in this city after tomorrow. We will make our way to Solvena. If you hear a thing about us it will not be true, and if you ever see one of us in a street you will walk past him, because that is what we will be doing to you."
+"We are not in this city after tomorrow. We will make our way to Solvenna. If you hear a thing about us it will not be true, and if you ever see one of us in a street you will walk past him, because that is what we will be doing to you."
 
 "I have your face," Kael said.
 
