@@ -334,3 +334,48 @@ Then he stood up and looked at the governor of Qeshet, who was on his knees at t
 It was the first thing he had said since the street.
 
 "Leave him awake. I need to talk to him."
+
+
+---
+
+"He can shout," said the one with the fingers.
+
+"Then see that he cannot," said the man from the rope-walk.
+
+That was all of it. Kael had three reasons ready and was not asked for one of them.
+
+They did the governor of Qeshet with two of his own men's belts and a length of cord off the table: wrists behind him, ankles crossed, sitting up against the wall under the shuttered window. Then a strip of somebody's shirt in his mouth, tied behind his head. Kael watched the knots go on. He had spent an hour and a half of his life on one knot in the dark with a ruined hand, and these were better than that one had been.
+
+Two of them went out. A door below, then a long time, then the sound of something heavy coming down a stair with two men who were not enjoying it.
+
+Then a voice in the yard, in the Koine, pitched to carry the way orders got given round that building.
+
+The governor had paid them for the boy.
+
+Nobody in the yard said anything about it. Fifty men had stood along that wall in the last of the light and watched two children walk in through that gate. A man with a board had gone in at a run to fetch somebody. Now a chest was coming out.
+
+Kael stood in the room and listened to it go. It went at a walk, and nothing came after it.
+
+---
+
+They did not leave.
+
+The man from the rope-walk pulled a stool out from under the table with his foot and sat down on it. The woman put her basket down by the door. She had carried it up a stair, through a search, into a room where six men had put five on the floor, and nobody had once asked her about it. Two others stayed with the guards. One went to the top of the stair and stood there.
+
+Valeria came off the wall and put herself half a step behind Kael's left shoulder, which is where she puts herself. She did not say anything about that either.
+
+"Take that out of his mouth," Kael said.
+
+Somebody took it out.
+
+The governor of Qeshet worked his jaw twice and looked up at him. Kael looked back and did not find anything he had not expected. The man was not frightened. He had been a governor for a long time. Eleven minutes ago he had been in a stone building with fifty armed men outside it, and now he was on the floor of it, and he had already got to the far side of that and was working.
+
+There was one chair in that room. It had been pushed back from the table before any of them came in, and nobody had sat in it since.
+
+Kael pulled it round so that it faced the wall, sat down in it, and put his hands in his lap. The chain lay across them.
+
+The man on the stool behind him did not go anywhere.
+
+Kael had known he would not, and had known it since the rope-walk. It changed nothing. There was no version of this in which he did not ask.
+
+"There were fifty men on that road," he said. "How many are left."
