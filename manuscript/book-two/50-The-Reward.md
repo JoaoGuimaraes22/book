@@ -193,3 +193,95 @@ The second one on the gate did come over at the end. He took Kael's chin in his 
 Then he went and looked at the other one's face for longer, and said something to the man with the board, who went in through the yard door at a walk that was not quite a walk.
 
 They put the two of them against the wall inside the gate and left them there.
+
+---
+
+It was eleven minutes before the yard door opened, and the man who came out of it was Rashim.
+
+He came halfway across and stopped. Kael had him off the walk before he had him off the face.
+
+Rashim looked at his face, then at the iron, then at his face again. His mouth moved once without making a word out of it. Then he went back across that yard fast. Kael had watched that man for eight weeks and had never once seen him hurry.
+
+The door opened because a man had been right.
+
+---
+
+They went in through the yard door, up a stair with a turn in it, past two men who did not come with them, into a room at the front of the building with the shutters closed on the street side.
+
+Six men, two children, five and the governor.
+
+It was not a large room. There was a table with a lamp on it, a second lamp on a bracket, papers weighted flat, a chair pushed back and not sat in again.
+
+The governor of Qeshet stood at the far side of the table with his hands on it.
+
+He was thinner than he had been at the door of the box. His cloth was not clean and had not been for some time. The one band of imperial blue at the edge of it was the only part of him that had been looked after.
+
+He did not look at the children.
+
+"Say it again," he said, in the Koine.
+
+"We have two of them," the talker said. "We want the price on these two, and we want the work of getting the third."
+
+"Where is she."
+
+"That is the work."
+
+"Where is she."
+
+"If I knew where she was I would have brought her and we would be talking about a different amount of money."
+
+The governor took his hands off the table.
+
+"Who told you there was a price."
+
+"Everybody between here and the Kharoun."
+
+Nobody in that room moved except the governor, who came round the end of the table.
+
+---
+
+The talking went on above him and Kael stopped listening to it.
+
+A man on his right shifted his weight, put a hand down, and the right boot came lighter.
+
+A man behind him said two words to somebody who was not Kael, in the voice of a man remarking on the weather. Then a hand came past the small of his back under the coat, and that went too.
+
+The one on his left leaned in as though to hold him better, took the one out of the front of the coat, and stood back with her arms folded and her hand inside her own sleeve.
+
+Then the sleeve. Two turns of thread, and the thread broke the way it was made to.
+
+Four.
+
+The fifth was the left boot, and it did not come, and it did not come. The man it belonged to was talking to the governor about a road. Then he crouched down as though his own boot wanted something doing to it, and it went.
+
+Kael stood in the middle of a room with nothing on him and his hands in front of him. It was the lightest he had been in three days.
+
+Nobody in that room had looked below anybody's belt once.
+
+---
+
+The governor came along the front of them and looked at the two children the way a man looks at a load that has been delivered while he is thinking about something else.
+
+He looked at Valeria first, and longer, because he was looking for hair that was not there.
+
+"This one is nothing," he said. "This one I do not know."
+
+"That is the boy out of your box," said the talker.
+
+The governor stopped.
+
+Then he came the two strides, took Kael's chin in his hand and turned it up under the lamp. Kael let his eyes go where a boy's eyes go. The man looked at him for a long time and did not find anything, because he had never once looked at that face properly and had nothing to match it against.
+
+So he let go of the chin, took the left wrist instead, and turned it over.
+
+He looked at the marks above the band, which were the right marks, and were his.
+
+Then he stopped.
+
+He did not look up and he did not let go. His thumb stayed where it was on the iron. For about a second and a half he did not move at all.
+
+Kael did not know what he had found.
+
+The man who had been sitting at the table in the rope-walk had not said one word since the street. He had been watching the governor's face, and nothing else in that room, for as long as they had been in it.
+
+"That will do," he said.
