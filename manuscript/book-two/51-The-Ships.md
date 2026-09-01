@@ -18,7 +18,7 @@ Below them the yard was still going. Somebody down there was telling somebody el
 
 "And then we were separated. Where are they?"
 
-"I had them. And then I did not have them. I do not where they are."
+"I had them. And then I did not have them. I do not know where they are."
 
 ---
 
@@ -182,7 +182,7 @@ Somebody had counted them. Not a herald, not a report, not a soldier telling ano
 
 "Because they were going to have Qeshet." The voice did not move at all. "That was not a thing I could arrange or prevent. What I could arrange was how it was done, and when, and to whom."
 
-"Who's "they"?"
+"Who's *they*?"
 
 "They, is what that man represented. A resistance."
 
