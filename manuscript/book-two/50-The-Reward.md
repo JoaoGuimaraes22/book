@@ -154,7 +154,7 @@ They went down the river in two boats, and they still put sacks over their heads
 
 Kael guessed whatever this was it would be a one time thing.
 
-They came in at a landing below the town and walked up through the yards, six men and two children. It took no time at all, because nobody looked twice at it. The bridge was still open. There was a line of animals coming off it in the last of the light and a man at the near gatehouse waving them through with his arm out flat.
+They came in at a landing below the town and walked up through the yards, six men, a woman and two children. It took no time at all, because nobody looked twice at it. The bridge was still open. There was a line of animals coming off it in the last of the light and a man at the near gatehouse waving them through with his arm out flat.
 
 Then the street, and the bridge-house at the end of it.
 
@@ -180,13 +180,13 @@ He looked at their wrists.
 
 Then they were searched, and it took a long time.
 
-The two on the gate did it, one man at a time. They were not quick and they were not rough, and they went about it like men who had been told what happens if they get it wrong.
+The two on the gate did it, one at a time. They were not quick and they were not rough, and they went about it like men who had been told what happens if they get it wrong.
 
 Steel first, onto the ground: four knives and a short sword and a thing that was neither. Then the hands. The first man's boots, both of them, the tops and then down the outside of the leg to the ankle. Then the sleeves, pushed back one at a time. Then the small of the back under the belt, which is where the belt is, so a hand goes there anyway. Then inside the coat, high, under the arm.
 
 Five places.
 
-They did all five, on all five of them, and Kael stood four feet away with his hands in front of him and counted twenty-five of them. He got to the end and nobody had been anywhere near him.
+They did all five, on all seven of them, and Kael stood four feet away with his hands in front of him and counted thirty-five of them. He got to the end and nobody had been anywhere near him.
 
 The second one on the gate did come over at the end. He took Kael's chin in his hand, turned his face up into the last of the light and looked at it. Then he let go, and lifted the left hand by the chain, and looked at the marks above the band, and put it down.
 
@@ -208,7 +208,7 @@ The door opened because a man had been right.
 
 They went in through the yard door, up a stair with a turn in it, past two men who did not come with them, into a room at the front of the building with the shutters closed on the street side.
 
-Six men, two children, five and the governor.
+Six men, a woman, two children, five and the governor.
 
 It was not a large room. There was a table with a lamp on it, a second lamp on a bracket, papers weighted flat, a chair pushed back and not sat in again.
 
