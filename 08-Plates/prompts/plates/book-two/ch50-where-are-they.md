@@ -17,32 +17,31 @@ only, dark and soft, no features of his face visible — toward KAEL,
 who sits on a plain wooden chair facing him at the middle distance,
 knees to head in frame, with VALERIA standing behind him.
 
-THE FOREGROUND MAN sits on the floor with his back to the viewer, his
-hands behind his back and out of sight. His cloth is dusty and has
+THE FOREGROUND MAN sits low on the floor with his back to the viewer.
+His cloth is dusty and has
 not been clean for some time, and along its edge runs one narrow band
 of imperial blue, clean and looked after — the only bright colour on
 him.
 
 KAEL sits still in the chair, feet flat, back straight, his hands
-together in his lap with a short iron chain lying across them — plain
-iron bands on both wrists. His eyes are steady on the seated man in
+resting together in his lap, palms up, with a short chain lying slack
+across them. His eyes are steady on the seated man in
 the near frame, just past the viewer and not on the viewer. The mouth
 is just open, mid-word, asking something quietly; the brows are level
 and nothing in the face is hot.
 
 VALERIA stands half a step behind his left shoulder — on the viewer's
-right — hands low in front of her, plain iron bands on both wrists
-with the chain hanging between them. Her eyes are on the same man.
+right — her hands low and still in front of her. Her eyes are on the
+same man.
 Her face is level, the jaw set but easy. Long black hair loose well
 past the shoulders.
 
-Both children wear plain dark road clothing, coarse and travel-worn —
-the boy a plain dark coat over a tunic, the girl a coarse dark tunic
-over trousers, no skirt and no dress. No weapon is visible anywhere
-in the frame.
+Both wear plain dark road clothing, coarse and travel-worn — the boy
+a plain dark coat over a tunic, the girl a coarse dark tunic over
+trousers, no skirt and no dress.
 
-The boy's face and the chain across his hands carry the finished
-drawing; the standing girl comes next; the foreground man, the walls
+The boy's face and his hands in his lap carry the finished drawing;
+the standing girl comes next; the foreground man, the walls
 and the floor stay at quiet middle values with soft wash-bled edges
 and no hard edge in them.
 
