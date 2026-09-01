@@ -237,7 +237,45 @@ Kael looked in the leader's eyes. He did not disagree or disavow the governor.
 
 ---
 
-Nobody answered him.
+Kael stood up.
+
+The chair went over behind him on the boards.
+
+"Where would they have been taken?"
+
+"I do not know."
+
+"If they came out of that house alive, where do they go? Somebody feeds them. Somebody puts them somewhere. Who?"
+
+"I do not know."
+
+"Then give me one name." He was standing over the man now. "One man in that city I can go and stand in front of. A name, and a street, and I will not ask you for anything else as long as I live."
+
+"There is nobody to ask," the governor said. "Every man who could have told you one thing about that house was in Qeshet, and Qeshet is not there any more. Whoever is sitting in my house tonight is not somebody either of us has ever met."
+
+---
+
+Two months.
+
+Sixteen men and four doors. Six out and ten in. Twenty-six minutes. He had more numbers than he had come into that room with, and not one of them had a name in it.
+
+Kael had a fistful of the man's cloth at the shoulder. The chain had come across with his hands and was lying on the man's throat, and he had not decided to do that either.
+
+He could feel the pulse through the back of his own hand.
+
+It was the first clean one he had got all night.
+
+"Come back," said the man from the rope-walk.
+
+He had not moved off the stool and he did not raise his voice. He had never asked the boy's name and he did not have one to call him by.
+
+Valeria had not moved at all.
+
+Kael took his hand off the man's shoulder. He lifted the chain away from the throat, put it back into his own two hands, picked the chair up off the boards, and sat down in it.
+
+"All right," he said.
+
+---
 
 Then the man from the rope-walk stood up off the stool. He had sat behind Kael's left shoulder from the moment the belts went on and had put no part of himself into any of it.
 
