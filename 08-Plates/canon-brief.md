@@ -67,6 +67,12 @@ Three quartz-white marks in her hair, permanent — two from Ch. 32, the third a
 Not warm, not maternal, not soft.
 Her hands are where the book keeps her: any full figure or scene puts them in frame and occupied.
 
+THE CREW LEADER — the man at the table
+Past fifty, thin, upright, and nothing taken out of him. A paper man: nothing in the neck or the shoulders was built by work.
+ONE EYE. A plain worn oval of dark leather over the RIGHT eye, on a thin cord back into the hair. The left eye is the one that sees, light grey-brown, and it is the only fully resolved thing in his face.
+Grey hair, thin on top and receded well back, the rest swept back over the ears. A full grey beard, kept and close-cut. The brows are dark and match neither.
+A narrow face, long through the nose, weathered by living and not by work.
+
 SEVERIN — the First Master
 Old, worn to what mattered; not frail, not kindly-grandfatherly. Tall, gone lean, still broad across the shoulder. The wrists are the tell — too thick for a man whose work was paper. The scholar's stoop is borrowed, over an enforcer's frame; both visible at once.
 Hair fully grey, the whole head, a true neutral grey — not quartz white, not warm silver — and even everywhere: no seam, streak or patch.
