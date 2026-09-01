@@ -116,11 +116,11 @@ She opened the band, put it round his right wrist and closed it. It sat down on 
 
 "Yes."
 
-"I am telling you so that it has been said."
+"If you have any ideas besides this I'd love to hear them."
 
 Her thumb stopped on the pin for about half a second.
 
-"It has been said," she said.
+"I do not," she said.
 
 She started the left one, working it over the back of his hand without once touching the back of his hand, which took her a while.
 
@@ -147,5 +147,3 @@ He did it again, tighter.
 "Better."
 
 When it was done the chain hung between his wrists, swung, and touched itself twice.
-
-He had carried five bands and a chain up a road for eleven days and had not once put one on.
