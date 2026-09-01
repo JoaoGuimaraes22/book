@@ -125,3 +125,137 @@ Kael had walked that town once, up from the water, in the middle of six spears, 
 Twenty-six minutes.
 
 He did not say it out loud. Nothing in the room changed. The woman by the door moved her basket onto her other arm.
+
+---
+
+"What happened in Qeshet," Kael said.
+
+"You will have to be more exact than that."
+
+"You told my mother that nothing would touch my brother in your house."
+
+The governor did not say anything for a moment.
+
+"I did say that."
+
+"Was it true when you said it."
+
+"Yes. It was true when I said it and it was true in the morning, and nothing did touch him." He worked his shoulders against the wall to get them off the bone. "You are asking me whether I lied at my own table. I did not. That is not the same as being honest, and I am not going to stand it up and call it the same."
+
+"Then say it in order."
+
+---
+
+"Men came to me before your island," the governor said. "In the winter. Not soldiers. One man, twice, with nothing in his hands either time."
+
+"What did he want."
+
+"The coast."
+
+Kael waited.
+
+"Not the harbour. Nothing in the harbour, nothing on the mole, nobody's cargo. He wanted my watch standing on the wall on certain nights looking at the water, and he wanted nothing about those nights in any letter going north."
+
+"And you gave it to him."
+
+"I gave it to him."
+
+"How many nights."
+
+"Three."
+
+"How many ships."
+
+"Nobody told me that," the governor said. "I counted them. Thirty-one."
+
+Kael sat still.
+
+Somebody had counted them. Not a herald, not a report, not a soldier telling another soldier. A man on his own wall in the dark on three nights, going along a line of hulls with his mouth shut, the way Kael would have done it.
+
+---
+
+"You keep that city for the empire," Kael said.
+
+"I have kept that city for the empire for seventeen years, and my father kept it before me. The name I carry was given to this family when the empire took the city. I have worn it every day of my life."
+
+"Then why."
+
+"Because they were going to have Qeshet." The voice did not move at all. "That was not a thing I could arrange or prevent. What I could arrange was how it was done, and when, and to whom."
+
+"So you sold an island."
+
+"Yes."
+
+"There were four hundred children on that island."
+
+"I did not ask what was on it," the governor said.
+
+---
+
+"What did you give us," Kael said.
+
+"I was sent a thing and told what it would do and how much of it to use. I did not ask what it was and I was not told." He looked at the floor between them. "It did not do all of it. That is why there were sixteen men in my house that night instead of four."
+
+"Who sent it."
+
+"That is a different question."
+
+"It is the same one."
+
+"No," the governor said. "It is not."
+
+---
+
+He shifted against the wall again, and stopped.
+
+"There is a thing you have not asked me," he said.
+
+Kael did not answer.
+
+"Qeshet has been taken."
+
+The yard went on below the shutters. Somebody down there had begun putting a barrow away.
+
+"When."
+
+"I do not know the day. It was set for after the island, and every other thing they set has been done on the day they set it." He said it flatly, in order, and then he stopped in the middle of it, which he had not done anywhere else. "It is done. It was done while I was on that road."
+
+"You have not had a letter."
+
+"I have not had anything since I shut my own gate."
+
+"Then you do not know."
+
+"I know," the governor said.
+
+---
+
+"Nobody in this city has heard it," Kael said.
+
+"Nobody in this city has heard it yet. A city goes down in a day and the road takes a month, and it is across that water before it is here, because there is a bridge and they use it." The head came round toward the shutters and back. "You will hear it in this city inside a month. They move quicker than news of them does. They always have."
+
+"You looked down the road behind you every afternoon for two months," he said.
+
+The governor looked at him properly for the second time that night.
+
+"Yes."
+
+"What was on it."
+
+"Nothing was on it. I was working out how far behind me it was."
+
+"You had fifty men and a box. News was not going to hurt you."
+
+The governor did not answer that.
+
+---
+
+"How many days," said the woman by the door.
+
+Nobody else in that room had said anything since the belts went on.
+
+The governor turned his head. He answered her the way he had answered everything else — the roads out of the south, which of them carried a rider and which of them carried a train, what the coast road did in the summer, and where a man would first hear it said out loud by somebody who had been there.
+
+She asked two more. Both of them were about days.
+
+Kael did not turn round.
