@@ -361,13 +361,15 @@ Kael put his hands out. The pin came out with two fingers, exactly as he had bee
 
 Valeria rubbed her wrist once and stopped doing it.
 
+Then somebody put their steel down on the stones in front of them, two swords and two knives with the belts still through them, and nobody made anything of that either.
+
 ---
 
 "You will not see any of us again," the man from the rope-walk said.
 
 He said it the way he had said everything else, which was as though it were a thing already written down somewhere and he was reading it out.
 
-"We are not in this city after tonight. We do not come back to places. If you hear a thing about us in two years it will not be true, and if you ever see one of us in a street you will walk past him, because that is what he will be doing to you."
+"We are not in this city after tomorrow. We will make our way to Solvena. If you hear a thing about us it will not be true, and if you ever see one of us in a street you will walk past him, because that is what we will be doing to you."
 
 "I have your face," Kael said.
 
@@ -397,11 +399,9 @@ It was small and it was heavier than it had any business being.
 
 "Yes." The man put his hand down. "You said that to me once already and it did not cost you anything then either."
 
----
-
 He turned to go and then did not, quite.
 
-"There were three of you," he said. "There are still three of you. I said I would find out why you cannot be seen and I have found out most of it tonight, and I am going to do you the courtesy of not saying the rest of it out loud in a street." He looked at Kael for about a second longer than the sentence needed. "Get her off this river. Everything that man said tonight is going to be true here first."
+"There were three of you," he said. "There are still three of you. I said I would find out why you cannot be seen and I have found out most of it tonight, and I am going to do you the courtesy of not saying the rest of it out loud in a street." He looked at Kael for about a second longer than the sentence needed. "Get her off this river. Everything that man said tonight is going to be true here soon."
 
 Then the whole of them went, at a walk, in twos, and by the time Kael had counted to thirty there was nobody in that street who had been in it a minute before.
 
@@ -423,11 +423,25 @@ Then the bar came off.
 
 ---
 
-She had her back to the lamp and he could not see her face at all. She stood out of the doorway to let them in, shut the door behind them and put the bar back on, and only then turned round. "I have been standing behind that door since the middle of last night. I want you to know that I did not open it once."
+Valeria went in first, with the sack in one hand and her sword back on her.
+
+Aeliana had hold of her before she was properly through the door.
+
+She did not say anything. She had both arms round her and her hands shut in the back of Valeria's coat and her face down on the shoulder, and she stayed there.
+
+Valeria stood with her hands full.
+
+Then she put the sack down on the boards, and put her hand flat between the girl's shoulders, and left it there.
+
+Twenty-three seconds.
+
+Kael stayed in the doorway until it was over.
+
+---
 
 "Highness," Valeria said.
 
-"Do not."
+"Do not." Aeliana let go of her, shut the door behind Kael and put the bar back on. "I have been standing behind that door since the middle of last night. I want you to know that I did not open it once."
 
 She looked at the two of them properly then: the coats, the boots, and their wrists, and she looked at their wrists for a long time, because she knew exactly what she was looking at.
 
