@@ -245,7 +245,7 @@ The chair went over behind him on the boards.
 
 "I do not know."
 
-"If they came out of that house alive, where do they go? Somebody feeds them. Somebody puts them somewhere. Who?"
+"If they came out of that house alive, where do they go? Maybe somebody feeds them. Maybe they got captured, and they put them somewhere. Who?"
 
 "I do not know."
 
@@ -255,9 +255,7 @@ The chair went over behind him on the boards.
 
 ---
 
-Two months.
-
-Sixteen men and four doors. Six out and ten in. Twenty-six minutes. He had more numbers than he had come into that room with, and not one of them had a name in it.
+He had more numbers than he had come into that room with, and not one of them had a name in it.
 
 Kael had a fistful of the man's cloth at the shoulder. The chain had come across with his hands and was lying on the man's throat, and he had not decided to do that either.
 
@@ -283,7 +281,7 @@ Then the man from the rope-walk stood up off the stool. He had sat behind Kael's
 
 "About the war?"
 
-"About the time."
+"Yes, but not only. About the time."
 
 He went to the shutters, put one finger on the slat and moved it down the width of an eye. He looked, and let it come back.
 
@@ -291,13 +289,13 @@ He went to the shutters, put one finger on the slat and moved it down the width 
 
 "I need the rest of tonight with him," Kael said.
 
-"No."
+"No. "
 
 "You have not asked me why."
 
 "Say why."
 
-"Because he is the only man alive who was standing in that yard. Because tomorrow he will be somewhere I cannot get to, and he knows that. By the middle of the day he will have worked out what he should not have said tonight, and he will never say it again." Kael did not take his eyes off the man on the floor while he said it. "There is not going to be a second one of these."
+"It's about my family. This is the one person I know that has information on them." Kael did not take his eyes off the man on the floor while he said it. "There is not going to be a second one of these."
 
 "That is all true," the man from the rope-walk said. "No."
 
@@ -350,3 +348,127 @@ The gate opened.
 Forty-nine in the yard. He had the number before they were halfway across it.
 
 Every man in it watched two children go out through that gate, and every man in it had been told why. It held.
+
+---
+
+They went up the street and round the corner of it and kept going for a good while after that, at a walk, six men and a woman and two children in irons, until the bridge-house was three turns and most of the packed part of the town behind them.
+
+Then the party stopped in a place where two walls came together and there was nothing in the angle of them.
+
+"Wrists."
+
+Kael put his hands out. The pin came out with two fingers, exactly as he had been told it would, and the band came off the ridge of skin it had been sitting on since dusk and went into a sack with the other three.
+
+Valeria rubbed her wrist once and stopped doing it.
+
+---
+
+"You will not see any of us again," the man from the rope-walk said.
+
+He said it the way he had said everything else, which was as though it were a thing already written down somewhere and he was reading it out.
+
+"We are not in this city after tonight. We do not come back to places. If you hear a thing about us in two years it will not be true, and if you ever see one of us in a street you will walk past him, because that is what he will be doing to you."
+
+"I have your face," Kael said.
+
+"Yes."
+
+"You knew that in the rope-walk."
+
+"I knew it before you sat down." The one eye did not go anywhere. "I have been described by better men than you and none of it has ever come to anything, because a description is not worth the paper until somebody wants it enough to pay for it, and the day somebody wants my face that badly I will already be finished." He put his hand out flat. "You are not going to be the one who sells it. I have watched you for two days and I know what you are for. You are for one thing and it is not money."
+
+Kael did not say anything to that.
+
+"That is not a compliment," the man said. "It is the most expensive way there is to live."
+
+---
+
+Then he took a bag out of his coat, held it a moment as though he were about to say a number, and put it into Kael's hands instead.
+
+It was small and it was heavier than it had any business being.
+
+"It is not what a tenth of that chest weighs. It is what a tenth of that chest is worth after somebody who knows how has turned it into something two children can carry through a gate. You would not have got that on your own, and you will not get it again."
+
+"How far does it go?"
+
+"That is the right question and you are going to like the answer less than the last one." He counted it off on his own fingers, without hurry. "Winter in a town where nobody asks. Boats twice. A man on a border who does not look. Bread at four times what bread costs, for three people, for a while." He stopped at the fourth finger and left the rest of the hand where it was. "It does not go thirteen months. I told you in that room that it might be short. It is short."
+
+"Then it is short," Kael said.
+
+"Yes." The man put his hand down. "You said that to me once already and it did not cost you anything then either."
+
+---
+
+He turned to go and then did not, quite.
+
+"There were three of you," he said. "There are still three of you. I said I would find out why you cannot be seen and I have found out most of it tonight, and I am going to do you the courtesy of not saying the rest of it out loud in a street." He looked at Kael for about a second longer than the sentence needed. "Get her off this river. Everything that man said tonight is going to be true here first."
+
+Then the whole of them went, at a walk, in twos, and by the time Kael had counted to thirty there was nobody in that street who had been in it a minute before.
+
+---
+
+Zahir's yard was outside the wall on the downstream side, and it took them most of an hour to get to it without using any of the ways he would have used in daylight.
+
+The mules were quiet. There was one lamp burning low under the long shed and nothing at the outside stair.
+
+Valeria went up first. Kael had not asked her to and she had not said anything about it.
+
+The door did not open.
+
+"Nineteen boards," said her voice through it. "Eleven long and eight short over the joist."
+
+"There was a knot in the fourth one."
+
+Then the bar came off.
+
+---
+
+She had her back to the lamp and he could not see her face at all. She stood out of the doorway to let them in, shut the door behind them and put the bar back on, and only then turned round. "I have been standing behind that door since the middle of last night. I want you to know that I did not open it once."
+
+"Highness," Valeria said.
+
+"Do not."
+
+She looked at the two of them properly then: the coats, the boots, and their wrists, and she looked at their wrists for a long time, because she knew exactly what she was looking at.
+
+"Did he say anything about your mother," she said.
+
+"No."
+
+"Nothing at all?"
+
+"He does not know. There were sixteen men in that house and ten of them never came out of it, and the people in it were still fighting when he took us out of the yard, and he does not know how it ended and there is nobody left alive who does." Kael put the bag down on the boards, where it made a sound that was not the sound of nothing. "That is all of it. I have had two months to get to that and that is all of it."
+
+Aeliana sat down on the edge of the bed with her hands in her lap.
+
+"Then tell me the rest," she said. "There is a rest. You would not both be standing there like that if there were not a rest."
+
+---
+
+He told her.
+
+He told it in order, the way it had come, and he did not soften any part of it and it did not occur to him to try. The man in the winter with nothing in his hands. The coast, and the watch on the wall, and nothing about those nights in any letter going north. Thirty-one hulls counted off a wall in the dark by a man who counts.
+
+And then Qeshet.
+
+She did not make any sound at all. She sat on the edge of that bed with her back doing the thing it had done at the governor's table, and she heard the whole of it, and when he had finished she was quiet for a long time.
+
+"Say the last part again," she said.
+
+"Qeshet has been taken. By the same people who took the island."
+
+"By men my father is at war with. In a city my father holds. Which nobody in this country has heard about yet."
+
+"Yes."
+
+"And I am four hundred miles the wrong side of it," Aeliana said, "in a room over a mule yard, with two children and a bag of somebody else's money."
+
+Nobody said anything for a moment.
+
+"Three children," she said. "I am sorry. That was badly done."
+
+Kael sat down on the floor with his back against the door, which was where he had been going to sit anyway.
+
+Twenty-six minutes.
+
+He had carried it out of that building, down a street and up a stair. He had not said it to anybody in that room, and he did not say it now.
