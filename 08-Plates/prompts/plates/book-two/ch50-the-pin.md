@@ -33,8 +33,8 @@ VALERIA's eyes are down on the pin under her thumb, not on his face
 and not on the viewer. Her face is level, the jaw set but easy.
 
 Both wear plain dark road clothing, coarse and travel-worn — his a
-plain dark coat over a tunic, hers with the sleeves down over both
-wrists. Her long black hair is loose well past the shoulders. She is
+plain dark coat over a tunic, hers a coarse dark tunic over trousers,
+the sleeves down over both wrists. She wears no skirt and no dress. Her long black hair is loose well past the shoulders. She is
 lean and athletic, a working build; he is lean and narrow through the
 shoulders. No weapon is visible anywhere in the frame, and nobody else
 is in it.

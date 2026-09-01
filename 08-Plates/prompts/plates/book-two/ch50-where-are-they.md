@@ -36,8 +36,10 @@ with the chain hanging between them. Her eyes are on the same man.
 Her face is level, the jaw set but easy. Long black hair loose well
 past the shoulders.
 
-Both children wear plain dark road clothing, coarse and travel-worn.
-No weapon is visible anywhere in the frame.
+Both children wear plain dark road clothing, coarse and travel-worn —
+the boy a plain dark coat over a tunic, the girl a coarse dark tunic
+over trousers, no skirt and no dress. No weapon is visible anywhere
+in the frame.
 
 The boy's face and the chain across his hands carry the finished
 drawing; the standing girl comes next; the foreground man, the walls
