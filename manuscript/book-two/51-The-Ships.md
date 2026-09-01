@@ -514,7 +514,4 @@ Nobody said anything for a moment.
 "Three children," she said. "I am sorry. That was badly done."
 
 Kael sat down on the floor with his back against the door, which was where he had been going to sit anyway.
-
-Twenty-six minutes.
-
-He had carried it out of that building, down a street and up a stair. He had not said it to anybody in that room, and he did not say it now.
+She was right. What should they do next?
