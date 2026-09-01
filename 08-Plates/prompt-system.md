@@ -145,6 +145,8 @@ Each fact once, in the place it belongs. Every clause must be able to change a p
 - **Stillness.** *Nothing is happening* does it. *He is not braced, he is not moving anywhere, nothing about him is in motion* is the same fact three more times.
 - **What the reference already carries.** An eye colour, an age, a build, under a reference that has it.
 
+**One channel has earned being said twice: a head entirely covered.** The figure block and the preserve line both, *a plain cloth tied over her head with no hair showing anywhere* and *her hair entirely covered* — held at `prompts/plates/book-two/ch44-nobody-said-anything.md` and `ch48-the-window.md`, and the single form let her hair through at `ch47-the-shape.md`. The hair is the loudest mass on the page and the reference is wearing none of it.
+
 The author's pass on `ch33/standing-on-his-feet` (s65: *less bloated prompt*) took a fifth out of a block written under this list, and every removal was on it: the pass is not done by having read this paragraph.
 
 ## Limits
