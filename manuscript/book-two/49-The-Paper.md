@@ -192,7 +192,15 @@ A man was sitting at the table with a pen in his hand.
 
 He did not look up. He finished the line he was writing, which took about four seconds, and then he looked up.
 
-Past fifty. Thin, and grey, and going bald from the front. He had the sort of face you are given directions by. When he spoke, his Koine was better than the governor's had been, and there was nothing southern under it at all.
+Past fifty. Thin, and grey, and going bald from the front, with a close grey beard that somebody kept.
+
+Over the right eye there was a plain oval of dark leather on a cord, and the cord went up under the hair at the side and did not cross the face anywhere else. The other eye did all of the looking and did not hurry over it.
+
+The rest of the face was the sort you are given directions by.
+
+Everybody Kael had seen in that building so far could have been anybody at all. This one could be described.
+
+When he spoke, his Koine was better than the governor's had been, and there was nothing southern under it at all.
 
 "So," he said. "You have information about the bridge-house."
 
