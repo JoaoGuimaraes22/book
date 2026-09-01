@@ -437,15 +437,47 @@ Twenty-three seconds.
 
 Kael stayed in the doorway until it was over.
 
----
-
 "Highness," Valeria said.
 
 "Do not." Aeliana let go of her, shut the door behind Kael and put the bar back on. "I have been standing behind that door since the middle of last night. I want you to know that I did not open it once."
 
+"A woman came."
+
+"Twice. She said nineteen boards through the wood, both times, and that the two of you were alive and could not come, and that she would come again tomorrow. And she did." Aeliana had not moved off the door she had just barred. "So somebody in this city knows which room I am in."
+
+"Yes."
+
+"How?"
+
+"I told them," Kael said. "It was the only way to get two words to you. I decided that you sitting in here for two nights not knowing was worse than one stranger having the number of a room."
+
+She took that without any part of her face doing anything with it.
+
+"I am not arguing with you," she said. "I have spent two nights working out how frightened I ought to be. Now I know, and it is less than it was."
+
+Valeria had gone round that room without appearing to: the shutter, the corner by the bed, the sack, back to the door.
+
 She looked at the two of them properly then: the coats, the boots, and their wrists, and she looked at their wrists for a long time, because she knew exactly what she was looking at.
 
-"Did he say anything about your mother," she said.
+"You were in iron again."
+
+"They had two pairs made for us that week." Kael turned his hand over so she could see the whole of the mark on it. "There is no black in them. That was the entire point of them."
+
+"Why were you in iron at all?"
+
+"Because that man has spent two months and a river looking for three children, and we brought him two." There was no other way it was going to come out, so he let it come out flat. "We walked in through the front of that building with our hands in front of us, and fifty men stood along the wall of that yard and watched two children go in, and a man with a board wrote us down. Nobody searched me. Nobody searches the goods."
+
+Aeliana sat down slowly on the edge of the bed.
+
+"And it worked."
+
+"Nobody was killed. Five of his guard are asleep on that floor, and the chest went out of the gate at a walk, in the open, and what they told the yard was that the governor had paid them for the boy."
+
+"And him."
+
+"Tied to the wall of his own room with his own men's belts. Awake."
+
+"What happened? Did he say anything about your mother," she said.
 
 "No."
 
