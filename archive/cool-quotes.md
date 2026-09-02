@@ -28,3 +28,5 @@
 "I hear the call i must answer"
 
 "Perfection,  is lots of little things done well "
+
+"The opposite of depression is not happiness.  It's creation."
