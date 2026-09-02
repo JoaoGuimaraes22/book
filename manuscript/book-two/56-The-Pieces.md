@@ -172,11 +172,11 @@ He stopped at the well in the square and drank, because a boy who has carried wo
 
 "Yes."
 
-"You said you did not know what I do about him."
+"You said you did not know what to do about him."
 
 "No."
 
-"I do not either," Borren said. "I will tell you the whole of it, since you are the one who saw his hand. I have never once in my life stood in a yard with a Resonant in it. I have gone round them. A man of the trade goes round them the way a mule goes round a hole, because a Resonant is not a man with a sword. A man with a sword you take by the hands and the mouth and he is nothing. A Resonant does not need his hands. He needs a breath. If that officer is what you say he is, and he is a fire, and he gets one breath in a cellar full of the Emperor's coin with eight of my people in it and one door out, then it is not a job that went wrong, it is eight people who do not come back up the stair, and the whole of that yard awake, and a description of every face that walked in at the gate going west with the escort. That is what he is. He is the only thing in that building I cannot price."
+"I do not either," Borren said. "I will tell you the whole of it, since you are the one who saw his hand. I have gone round them. A man of the trade goes round them the way a mule goes round a hole, because a Resonant is not a man with a sword. A man with a sword you take by the hands and the mouth and he is nothing. A Resonant does not need his hands. He needs a breath. If that officer is what you say he is, and he is a fire, and he gets one breath in a cellar full of the Emperor's coin with eight of my people in it and one door out, then it is not a job that went wrong, it is eight people who do not come back up the stair, and the whole of that yard awake, and a description of every face that walked in at the gate going west with the escort. That is what he is. He is the only thing in that building I cannot price."
 
 He looked at the town.
 
