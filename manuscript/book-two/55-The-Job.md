@@ -40,7 +40,7 @@ They both waited.
 
 "Yes," Valeria said. "That is what it is for."
 
-Kael lay and heard it and did not say what he thought, which was that she was right that it would hold up anything, and that this was the thing about it that frightened him, and that he had no right to be frightened by it because his own was worse. He had gone up a stair a week ago and cut a man so that the man would keep his arm, and come down, and knelt in a stream, and nothing had come. He had waited for the thing that told him. It had told him at nine, in a yard, in the dark, and he had misheard it and carried the mishearing for four years. It had told him at thirteen at a gate. It had told him, wrongly or rightly, every time there had been blood, and he had built himself around the fact that it came. He did not know what it meant that it had stopped. He did not know whether nothing was what wrong felt like, when you had done enough of it, or whether nothing was what right felt like, when you had finally done a thing cleanly, and he turned the two over in the dark and they weighed the same.
+Kael lay and heard it and did not say what he thought, which was that she was right that it would hold up anything, and that this was the thing about it that frightened him, and that he had no right to be frightened by it because his own was worse. He had gone up a stair a week ago and cut a man so that the man would keep his arm, and come down, and knelt in a stream, and nothing had come. He had waited for the thing that told him. It had told him, wrongly or rightly, every time there had been blood, and he had built himself around the fact that it came. He did not know what it meant that it had stopped. He did not know whether nothing was what wrong felt like, when you had done enough of it, or whether nothing was what right felt like, when you had finally done a thing cleanly, and he turned the two over in the dark and they weighed the same.
 
 "I do not know," he said.
 
@@ -104,7 +104,7 @@ He had not meant to. It came out of him in the dark, once, short, and he heard t
 
 "I did not say it was a thing. I said it was happening."
 
-Kael lay between them and let them talk about him as though he were a mule on the line, and found that he did not mind it, and did not know what to do with not minding it either. He put it with the rest.
+Kael lay between them and let them talk about him as though he were a mule on the line, and found that he did not mind it, and did not know what to do with not minding it either.
 
 "When we walk into Solvenna," Aeliana said, "I will have to be her again."
 
@@ -116,13 +116,13 @@ Nobody answered that. It had not been a question.
 
 The town had a name and he was given it and he forgot it, as he had been told he would, and he was surprised to find that he could. Some things did not stay. He had not known that about himself.
 
-It was a town where nobody asked. He never found out whether that was the town or the winter. They were a carrier's yard at the edge of it: a long shed with the mules in it and a house behind, and a gate onto a lane, and rope in the shed because the rope was real and a carrier's yard wants rope. Ambros kept the house. Kael had not known what that meant until he watched a man do it: where the food came from and how much of it, who slept where, what went out of the gate and what came in and whether the lane could see it. Forty-one years of a house forty miles north of the capital and the man ran eighteen thieves in a shed as though the house had never fallen down, and Kael, who had grown up under a woman who ran a mountain the same way, watched him and said nothing, and once caught the princess watching him too, from the door of the kitchen, with a look on her face he could not have priced and did not try to.
+It was a town where nobody asked. He never found out whether that was the town or the winter. They were a carrier's yard at the edge of it: a long shed with the mules in it, a house behind, a gate onto a lane, and rope in the shed because the rope was real and a carrier's yard wants rope. Ambros kept the house. Kael had not known what that meant until he watched a man do it: where the food came from and how much; who slept where; what went out of the gate, what came in, whether the lane could see it. Forty-one years of a house forty miles north of the capital and the man ran eighteen thieves in a shed as though the house had never fallen down. Kael, who had grown up under a woman who ran a mountain the same way, watched him and said nothing. Once he caught the princess watching him too, from the door of the kitchen, with a look on her face he could not have priced and did not try to.
 
-He was bad at it. He had known he would be and he had not known how bad. The trade in a town was not the walk or the voice or the lock, it was being there every morning when the woman from the next yard came to the trough, and having a face she had seen before, and something to say to it. He had nothing to say to it. He had never in his life been somewhere he was allowed to stay, and it turned out that staying was a thing people did with their mouths, and his had been built for other work. The princess had a hundred things to say to the woman at the trough. Valeria had none and did not need any, because a girl who carries water and never speaks is a thing every town has one of. Kael stood between the two of them at the trough with a bucket in his good hand and understood, in the whole of his body, why Borren had priced this winter as a cost and not as rest.
+He was bad at it. He had known he would be and he had not known how bad. The trade in a town was not the walk or the voice or the lock, it was being there every morning when the woman from the next yard came to the trough, with a face she had seen before and something to say to it. He had nothing to say to it. He had never in his life been somewhere he was allowed to stay, and it turned out that staying was a thing people did with their mouths, and his had been built for other work. The princess had a hundred things to say to the woman at the trough. Valeria had none and did not need any, because a girl who carries water and never speaks is a thing every town has one of. Kael stood between the two of them at the trough with a bucket in his good hand and understood why Borren had priced this winter as a cost and not as rest.
 
 He turned fourteen in it, somewhere. Nobody said so, because nobody knew, and he did not take it out to look at.
 
-Borren made paper all winter in the room at the back of the house. Seals, and the wax for them, and hands that were not his own hand, and documents that said a thing had been permitted by somebody who had never heard of it. He did not hide the work and he did not show it. Kael stood in the door of that room once, in the second month, and watched a man write out a bill of passage in the level Koine of a provincial clerk, blot it, hold it to the light, and burn it because the second *s* was his own, and start again. Then Borren looked up, and Kael went away.
+Borren made paper all winter in the room at the back of the house. Seals, the wax for them, hands that were not his own hand, documents that said a thing had been permitted by somebody who had never heard of it. He did not hide the work and he did not show it. Kael stood in the door of that room once, in the second month, and watched a man write out a bill of passage in the level Koine of a provincial clerk, blot it, hold it to the light, and burn it because the second *s* was his own, and start again. Then Borren looked up, and Kael went away.
 
 ---
 
@@ -130,11 +130,11 @@ In the spring the hand shut.
 
 He had been told the spring and it was the spring, and one morning in the shed he found that the fingers had come round onto the rope without being asked and were holding it, and he stood and looked at that for a while. It was slow to open again. It would hold a rope. It would hold a knife, if the knife did not have to do anything clever. It would never again do what the right one did, and he knew that the way he knew the number of mules in the shed, and put it down, and went on.
 
-The roads became roads. They went out of the town by the gate onto the lane, eighteen people and six mules and a great deal of rope, and nobody in the town asked where, because nobody had asked anything for three months and was not going to start.
+The roads became roads. They went out of the town by the gate onto the lane, and nobody in the town asked where. Nobody had asked anything for three months and was not going to start.
 
-The jobs came back the same and faster. He was not started small any more. He was the one on the stair now, whichever stair it was, and the one under the window, and the one who went into a room ahead of the others because he could get into a room without the room knowing. A strongbox out of an inn. A ledger out of a house whose owner had paid to have it lost. A man's own horse walked out of his own stable under a boy who said the man's name as though he were bored of it. He did the thing the job needed at the moment it needed it and he did not look for anything afterward. He had stopped looking in the winter. Whatever had come after the blood, when it came, had been a thing he waited for; and a thing you wait for and that does not come is a thing you stop waiting for, and that was all there was to say about it, and he did not say it.
+The jobs came back the same and faster. He was not started small any more. He was the one on the stair now, whichever stair it was; the one under the window; the one who went into a room ahead of the others because he could get into a room without the room knowing. A strongbox out of an inn. A ledger out of a house whose owner had paid to have it lost. A man's own horse walked out of his own stable under a boy who said the man's name as though he were bored of it. He did the thing the job needed at the moment it needed it and he did not look for anything afterward. He had stopped looking in the winter. Whatever had come after the blood, when it came, had been a thing he waited for; and a thing you wait for that does not come is a thing you stop waiting for. That was all there was to say about it, and he did not say it.
 
-At a river in the fourth month there was a bridge with a soldiers' post on it, and Borren stood on a hill above it and said, without looking round, "Where is your ford," and Kael told him, and they crossed at it before light and were on the far side of the bridge by the time the man in the post had his breakfast, and neither of them said a word about it then or afterward.
+At a river in the fourth month there was a bridge with a soldiers' post on it, and Borren stood on a hill above it and said, without looking round, "Where is your ford," and Kael told him. They crossed at it before light and were past the bridge before the man in the post had his breakfast, and neither of them said a word about it then or afterward.
 
 The princess stayed brown. It did not come off in the winter and by the summer it was not going to. Valeria stayed Valeria.
 
@@ -144,7 +144,7 @@ He had every day still. He never took them out.
 
 It was the ninth month when Borren sat down last at the fire and did not have a cup.
 
-That was the first thing. Kael had never seen him come to the fire without one. The second thing was that he looked round the circle before he spoke, one face at a time, the whole way round, and Kael had seen him do that once before, in a doorway, at three children, and knew before the man opened his mouth that whatever this was he was pricing what it would cost each of them.
+That was the first thing. Kael had never seen him come to the fire without one. The second thing was that he looked round the circle before he spoke, one face at a time, the whole way round, and Kael knew before the man opened his mouth that whatever this was he was pricing what it would cost each of them.
 
 "Before I say anything," Borren said, "the rule."
 
@@ -154,11 +154,11 @@ Nobody moved.
 
 He waited.
 
-Kael watched the circle not move. He watched it the way he had watched it not ask, at the first fire, one face at a time. Tirzah with the basket between her feet. Ambros with the coat buttoned. Oran with a hand on his brother's shoulder and Talo looking at the fire. The talker not talking. The princess, between Tirzah and Selis, with her sleeves down and her hands in her lap. Nobody got up. Nobody looked at anybody else to see whether they would.
+Kael watched the circle not move, one face at a time. Tirzah with the basket between her feet. Ambros with the coat buttoned. Oran with a hand on his brother's shoulder and Talo looking at the fire. The talker not talking. The princess, between Tirzah and Selis, with her sleeves down and her hands in her lap. Nobody got up. Nobody looked at anybody else to see whether they would.
 
 "Right," Borren said.
 
-"There is a province west of here. I will not name it. The war is going to come through it. Not this month. Before the leaves are off. The empire knows this, and has known it since the winter, and has done what the empire does when it knows a thing like that, which is write it down." He said it the way he said everything, as though he were reading it off a page. "In the chief town of that province there is a tax-house, and under the tax-house there is a room with an iron door, and into that room has gone every coin that province has paid the Emperor for six years. None of it has gone out. It could not go out. The road it would have gone out by has had a war lying across it, and a governor who wanted to keep his head did not send six years of the Emperor's money down a road with a war on it. So it sat."
+"There is a province west of here. I will not name it. The war is going to come through it. Not this month. Before the leaves are off. The empire knows this, and has known it since the winter, and has done what the empire does when it knows a thing like that, which is write it down." He said it as though he were reading it off a page. "In the chief town of that province there is a tax-house, and under the tax-house there is a room with an iron door, and into that room has gone every coin that province has paid the Emperor for six years. None of it has gone out. It could not go out. The road it would have gone out by has had a war lying across it, and a governor who wanted to keep his head did not send six years of the Emperor's money down a road with a war on it. So it sat."
 
 Kael had the shape of it before the man finished the sentence and did not like the shape.
 
@@ -234,7 +234,7 @@ He lay with that. It was a thing she had never asked of him: to say a thing that
 
 "It is also the sound there would be if they were dead. Nobody writes that down either."
 
-"I know." She had stopped folding the blanket. "I am not a fool. I am the Emperor's daughter and I have never once been told a thing I did not want to hear, and I know exactly what that has made me, and I am asking anyway. Do you hope, Kael? I have watched you for nine months and I cannot tell."
+"I know." She had stopped folding the blanket. "I am not a fool. I am the Emperor's daughter and I have never once been told a thing I did not want to hear, and I know exactly what that has made me, and I still want to hear it. Do you hope, Kael? I have watched you for nine months and I cannot tell."
 
 He looked at the roof of the tent, which he could not see.
 
