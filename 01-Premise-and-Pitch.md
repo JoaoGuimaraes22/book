@@ -18,7 +18,7 @@ Each disaster strips another illusion from him and forges what remains. To survi
 
 ## POV & Style
 
-- **Close third limited, Kael-focused** (amended session 12: single POV is the DEFAULT, no longer absolute — governed departures per 06 §POV: external-camera pan-aways with cut-before-the-answer discipline, rare interludes/split-group bits in later acts, occasional first-person reflective slips in Kael at emotional turning points).
+- **Close third limited, Kael-focused.** Single POV is the DEFAULT, not an absolute: the camera can pan away from him, a chapter or a bit can sit in another head, and a retrospective *I* can surface at an emotional turn. What each is for and how each is written: 06 §POV.
 - **Prose matures with his age** (Joyce / *Portrait* technique): early chapters in a child's rhythms; complexity, irony and self-awareness grow as he does.
 - **Strict information rule (scoped at amendment):** within Kael's scenes, the reader never receives information he doesn't have, except by inference. Sanctioned departures may show what Kael doesn't know — but they relocate dread, never unseal 00: machinations moving, not answers landing. All dread is still built through gaps between innocence and understanding — Kael's and now sometimes the world's.
 
