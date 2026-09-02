@@ -196,7 +196,7 @@ Borren looked at it for a long time.
 
 "For the one who keeps his hand empty," Kael said.
 
-He did not say what it was. He did not have to, because a man who had watched him for two days in Ishareth had found out most of what he could not be seen for and had done him the courtesy of not saying it in a street, and the iron said the rest. Borren did not touch it. He looked at it, and then at the boy, and then back at the iron, and something went across his face and was gone.
+He did not say what it was. Borren did not touch it. He looked at it, and then at the boy, and then back at the iron, and something went across his face and was gone.
 
 "Where did you get those," Borren said, and it was not a question, it was the thing he said instead of one, and he said it very quietly.
 
@@ -206,7 +206,7 @@ Nothing. The fire. Tirzah's needle.
 
 "That is the piece," Borren said at last. He picked the chain up, and weighed it, and put it down. "I will not ask you why you carried it."
 
-"I did not know why."
+"I did know why I carried it. I'm a Resonant like that man. But I do not know *why* why those who had it, had it."
 
 "No. I do not suppose you did."
 
@@ -220,13 +220,13 @@ He was on the flat below the camp with the last of the light, doing what he did 
 
 He looked at the stick.
 
-"You have not," he said.
+"Well this takes me back," he said.
 
-"No."
+"It does indeed. How long has it been?"
 
 "Since the island."
 
-She stepped back three strides, onto the flat, and waited. "You are going into a building tomorrow with twenty-four men in it and one hand, and nobody in this camp has put you on your back since the spring of last year, and I would like to know what I am sending. Pick it up."
+She stepped back three strides, onto the flat, and waited. "You are going into a building tomorrow with twenty-four men in it and one hand, and nobody in this camp has put you on your back since the spring of last year, and I would like to know what *I* am sending. Pick it up."
 
 He picked it up.
 
@@ -238,7 +238,7 @@ The second exchange she went for the left.
 
 Not the hand. The side. A stick is not a blade and she was not trying to hit him, she was trying to make him do the thing that a body does when a blow comes at its weak side, which is to put the weak hand up. He put it up. It went up late, and closed on nothing, and she was already on the far side of it with the stick laid across the back of his neck, lightly, the way you lay a hand on a horse.
 
-"That," she said. "You bind with the left. You have always bound with the left, because you keep the right free to do the thing you do. You cannot bind. Everything you did with two hands you now do with your feet, and your feet are good, and they are slower than your hands were. A man with a sword will not know it. A man who has watched you for a year will." She took the stick off his neck. "Again."
+"That," she said. "You take my blade with the left and hold it there, and the right does the thing you do. You have always done it that way. You cannot hold a blade with that hand now. Everything you did with two hands you now do with your feet, and your feet are good, and they are slower than your hands were. A man with a sword will not know it. A man who has watched you for a year will." She took the stick off his neck. "Again."
 
 Again. Again. She went for the left every third time and he learned, in about nine exchanges, not to put it up, and learned what that cost, which was the whole of that side. He could not close. He could not take a blade on the left and do anything with the right at the same time, so he had to not be there, all the time, every time, and being not there was a thing that took the legs, and the legs had a bottom, and she found it. The tenth time, she was inside, and there was nowhere he could go that she had not already gone, and she stopped the stick an inch from the side of his head and held it there.
 
