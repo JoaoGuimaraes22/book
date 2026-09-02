@@ -1,5 +1,5 @@
 ## NERIS (the mother)
-**Glance:** Kael's mother; teacher of the mind · ex-asset of the program — bearer of the bloodline (00) · age unpinned, **and the same as Vask's (author, s34)** · **on no page since the night at Qeshet — two months on, her son still does not know whether she is alive, and has stopped building the sum because it has two ends and no way to choose; what she did that night is 00's**
+**Glance:** Kael's mother; teacher of the mind · ex-asset of the program — bearer of the bloodline (00) · age unpinned, **and the same as Vask's (author, s34)** · **on no page since the night at Qeshet; her son does not know whether she is alive and has stopped building the sum, which has three ends and no way to choose; what she did that night is 00's**
 
 ### STATIC
 - **Name:** Chosen, not given (00). Belongs to no naming register; villagers assume it foreign; its true nature is sealed (00) and unexplained on the page.

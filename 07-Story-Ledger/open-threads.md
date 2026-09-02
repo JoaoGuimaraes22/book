@@ -1,5 +1,5 @@
 ## Open Threads (LIVE)
-**LAW CORE.** What the story has opened and not yet closed, as of Ch. 54. **Organised by kind, not by chapter, and MAINTAINED BY REMOVAL:** a thread is added when a chapter opens it and **deleted when a chapter answers it** — the record of what each chapter opened and answered is `chapter-records.md`, and the pre-s76 per-chapter log is `../archive/open-threads-log.md`. Sealed answers are 00's; this file holds only the question the page has left standing.
+**LAW CORE.** What the story has opened and not yet closed, as of Ch. 55. **Organised by kind, not by chapter, and MAINTAINED BY REMOVAL:** a thread is added when a chapter opens it and **deleted when a chapter answers it** — the record of what each chapter opened and answered is `chapter-records.md`, and the pre-s76 per-chapter log is `../archive/open-threads-log.md`. Sealed answers are 00's; this file holds only the question the page has left standing.
 
 ### THE FAMILY, AND THE HOUSE AT QESHET
 - **Whether anybody in that house lived.** Sixteen men in, ten never out, the people in it still fighting when the box left the yard — **no name, no outcome, and nobody left alive who knows** (Ch. 51). Kael's sum has three ends and is no smaller.
@@ -9,9 +9,9 @@
 - **The man who killed his father is still unnamed**, and the third want is untouched.
 
 ### THE ROAD, AND THE CREW
-- **The road itself.** *Between Ishareth and Solvenna*, and no page names a town, a river or a lord on it; the next name is given on the day they go in and forgotten on the day out.
-- **The winter Borren priced** — *a winter in a town where nobody asks* — still ahead.
-- **Whether Borren ever uses one of Kael's fords.** *Next time you find me one, I might use it … do keep your count up, Kael.*
+- **The road itself.** *Between Ishareth and Solvenna*, and no page names a town, a river or a lord on it; the next name is given on the day they go in and forgotten on the day out. The winter town is one of them.
+- **The job.** A province west that no page names; a room under a tax-house holding six years of a province's coin, to be moved *west, inside the old borders, before the autumn*, with *more men than we have ever stood near* — and **how a crew that does not leave bodies takes a convoy is on no page**: *you are not meant to see it yet.* **Nobody is paying**, and *there is no honest men, after* — whether the crew ends with it.
+- **Where Borren's paper came from.** *A thing was written down in the winter by a man who knew, and I had it in my hand for an hour before the man it was written to did* — who and how forbidden; Kael's read that it was said to stop him looking for something else.
 - **The letter in the boot** — a lord of the east's seal, carried to Borren unread; who paid for it and what it said are on no page. **The man on the stair**, alive with his arm, who could not have said why he did not shout.
 - **The road names, and thirteen months to hold them.** *Tamar* and *Adah*, *my sister and my cousin, our people are dead* — now said to fifteen people.
 - **Whether the crew ever learns Kael has Avestan.** He heard Oran reach for it and let his face do nothing. **And the tongue the princess has with Selis** that is neither Koine nor Ivrit, which Kael does not have.
@@ -34,7 +34,9 @@
 
 ### THE THREE OF THEM
 - **What the princess does with the house she knows.** *I know which one it was*, said in the dark to two people; whether it is ever said to Ambros, or to anybody, and what a girl who *shall have it written down* does with a house her father's cousin sent to the wall.
-- **The crown-vs-Kael choice is still not made.** The crown ordered Valeria toward Kael's work rather than away from it, and Valeria's *I do not like the rest of it, I am saying so once* is unresolved.
+- **The crown-vs-Kael choice is still not made.** The crown ordered Valeria toward Kael's work rather than away from it, and Valeria's *I do not like the rest of it, I am saying so once* is unresolved. At Ch. 55 she said which way she would go if the princess stood up and walked out of a camp — with her, *and the boy would have had to choose, and I would have been interested to see which way.*
+- **Who walks into Solvenna.** The princess must be *her, the princess, again* and does not know if she wants to — *I have never been asked what I want. I have been told what I will have*; Kael does not know *who is doing the walking*.
+- **What she cannot rule on.** Her father's coin, wrong to take and taken, and the water carried anyway — *I do not know what that makes me*, unanswered.
 - **Whether the princess understood what happened on that boat**; whether she ever learns a knock on the wood was hers to give, or that she asked for his life with two empty hands.
 - **Whether *Kael* in her mouth, in place of *Lucan*, is ever remarked on by anybody.**
 - **The letter.** The trio distrust it; whether it ever went north is on no page, and the Drusane thread runs regardless (`../04-Outline.md` §Queued threads). **Whether Elarine's and Aurelian's parents are in fact dead** — the page never confirms it and the children never learn.
@@ -42,10 +44,10 @@
 ### WHAT IT IS COSTING HIM
 - **A thing he put down did not stay down** (Ch. 45–46). The mechanism he has relied on since the island failed him once, and nothing resolves it.
 - **What the twenty-six minutes does to him**, carried out of that building and said to nobody.
-- **Whether the hand shuts.** *You will find out in the spring*, still unanswered.
 - **What he does with a man who let thirty-one hulls past a coast** and is not the man he wants.
 - **What the count is** — explained out loud once and believed by him to be ordinary; whether anybody ever tells him otherwise, and whether *stopped taking it out* becomes anything better. **The part of him that would have argued has not said one word, three times now, and the third time he had the count on it.**
-- **The thing that did not come at the stream.** Somebody else's blood on him and nothing after it, for the first time; *he had looked for the wanting … and it was not there.* Whether it comes back, and what he is when it does not.
+- **The thing that no longer comes after blood.** *Felt nothing*, undated in his own mouth (*I noticed it was gone not too long ago*); two nothings that weigh the same, wrong done enough or a thing done cleanly; nine months on it has not come back and he has stopped looking. Whether it returns, and what he is when it does not.
+- **He hoped aloud once** — his brother alive and fed — and was thanked for what it cost; whether it is ever asked of him again.
 - **Envy, perhaps.** Under the admiring of Valeria a thing with no place and no word his mother gave him; he is not sure what he was when he walked onto the island and sure it is not what sits on that slope.
 - **Kael's three wants, one of which is aimed at the wrong enemy.**
 

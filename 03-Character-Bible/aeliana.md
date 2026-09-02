@@ -1,5 +1,5 @@
 ## AELIANA CASSIVARA VESSANTINE (the princess)
-**Glance:** royal princess; the raid's prime target · House Vessantine · **14 — one year above Kael and Valeria** · **a couple of months inside an outlaw crew as *Adah* — gone brown, hard-handed, doing camp work nobody told her to do until nobody was watching, which was what she wanted; laughing low across a fire while Kael kneels in a stream**
+**Glance:** royal princess; the raid's prime target · House Vessantine · **15 — one year above Kael and Valeria; her age is on no page** · **nine months inside an outlaw crew as *Adah*, whom she likes — she asked whether it is wrong, cannot rule on her father's coin and carries the water anyway, and does not know whether she wants to be the princess again at Solvenna**
 
 ### STATIC
 - **Name:** Aeliana Cassivara Vessantine; "Cassivara" is an honor-name in the formal chain.
@@ -14,13 +14,18 @@
 - **She is hidden by a scarf and by ordinariness**, and nobody looks at her twice. **The hair is the one thing that cannot be changed: silver, and nothing else in the world that colour** (author, s55: unique). Her eyes' colour is still unspent.
 - **She was asked whether standing on that bank was her own choice and said *"It is. Entirely."*** — the outlaw's own procedure doing what no court ever did. **What she is stays unsaid by everybody**, and the crew's leader enforces the not-saying himself.
 - **She knows which house Ambros meant.** *I know which one it was*, said in the dark to two people, in a voice that was not the one she uses for ruling things. **No page says what she does with it.**
+- **She asked whether it is wrong** — the water carried for a strongbox, a letter, a copper — and *I find I cannot rule on it. It is the first thing I have not been able to rule on*; what the empire is she had only ever heard *from people who were paid to tell me*.
+- **She likes Adah.** *Nobody has ever looked at Adah twice … It is the most restful thing that has ever happened to me in my life. I did not know it was a weight until it came off.* She did the work so nobody would watch and found she *wanted to be a person who did it*.
+- **The coin is her father's and she did not stand up.** *It is his and it is wrong to take it. It is his and it was taken. I cannot make those into one thing* — and she carries the water anyway, not knowing what that makes her.
+- **She counts what she has not heard** — no princess found dead, no woman with a bound child taken, no First Master anywhere — calls nothing a good sound, and asked Kael to say so knowing he could not.
+- **She has never been asked what she wants, only told what she will have**, and has no answer to the first. **At Solvenna she must be the princess again**, and does not know if she wants to.
 
 **WHAT SHE IS**
 - **She rules, and the ruling is final** — *Then I have ruled. We go.* She takes the decision *we make together* and closes it, and she reads agreement off faces and says so.
 - **She has never been contradicted, and does not know that is a condition.**
 - **She spends her rank on other people now.** *I have had twelve royal guard stand beside me and they all died for me, and I won't have it again* — the first time she has ever spent it on somebody's behalf rather than her own.
 - **Her one currency is her word, and she knows exactly what it is worth:** their names read at court with their houses standing, *and I shall have it written down.* She prices twelve dead royal guard as correct and refuses to be delicate about it *because that would make it smaller than it was.* **Not evil, and uncorrected on the page.**
-- **She refuses the form from Valeria now** — *"Highness," / "Do not."*
+- **She refuses the form from Valeria now** — *"Highness," / "Do not."*; still, in the summer tent — *"Highness." / "I have told you."*
 - **She is good at intelligence and knows she is.** She built the boats out of four mouths that had not spoken to each other, tracked as one fact moving through a yard and being repeated wrong; told she had done it correctly, **she was extremely pleased with herself and hid it badly.**
 - **She does not look away** — the hand, the door, the questioning, from the first lie to the last breath.
 - **She asks for the dangerous half of a job.** She took the foraging so Kael could throw, learned the greens in two days, and argued him into the poisons: *I would rather know a thing and not need it.*

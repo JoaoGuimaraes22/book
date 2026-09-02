@@ -663,3 +663,16 @@ Two classes are admitted that are not "good lines", and both are explicitly mark
 - *because the sum did not have her in it*
 - *the only part of that house that is still standing up*
 - *"He did not name the house." / "No." / "I know which one it was."*
+
+### Ch. 55 (admitted at the s78 close)
+- *"Do you think it is wrong,"*
+- *That is not an answer. That is a wall.* / *That is what it is for.*
+- *I did not know it was a weight until it came off.*
+- *You may as well ask the sword.* / *The sword does not polish itself every night.*
+- *this time the empire is going to do the walking*
+- *"Who is paying us." / "Nobody."*
+- *Work out for yourself what it means that I was.* — deliberate echo of Ch. 52's *Work out for yourself what I have just told you* (Borren's manner)
+- *I hope my brother is alive, and I hope somebody is feeding him.*
+- *Then I will have been early for a very long time.*
+- *I have never been asked what I want. I have been told what I will have.*
+- *Thank you for hoping. I know it cost you.*

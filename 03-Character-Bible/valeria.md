@@ -1,5 +1,5 @@
 ## VALERIA VEL
-**Glance:** rival → first friend · Line of Vel (eleven generations — tiers in `../02-World-Bible/factions.md`) · 13 (Kael's age) · **a couple of months inside the honest men as *Tamar* — unchanged, half a step off the princess, the plain sword polished nightly, drilling with a stick where a blade would be seen; *I know where you go … Until then it is his***
+**Glance:** rival → first friend · Line of Vel (eleven generations — tiers in `../02-World-Bible/factions.md`) · 14 (Kael's age) · **nine months inside the honest men as *Tamar* — unchanged, and says so; *what is done so that she keeps standing is not wrong*; taught early or late and never the middle, and *early for a very long time* if they never come**
 
 ### STATIC
 - **Role:** Daughter of the Line of Vel. Kael's rival, then first friend. The rest of her role is in 00.
@@ -15,7 +15,7 @@
 ### DYNAMIC
 **WHERE SHE STANDS**
 - **She is *TAMAR* on the road**, said at the fire as one word and the end of the sentence.
-- **Her post under the crew's terms is the camp and the princess** — Kael's own conditions put her back where she is for. **The crown and Kael point the same way, so the crown-vs-Kael choice is still not made, and nobody has been asked to make it.**
+- **Her post under the crew's terms is the camp and the princess** — Kael's own conditions put her back where she is for. **The crown and Kael point the same way, so the crown-vs-Kael choice is still not made, and nobody has been asked to make it.** She has said which way she would go if they split: with the princess, *and I would have been interested to see which way* the boy chose.
 - **She lies across the door of whatever the three of them sleep in**, whatever anybody says.
 - **She said it plainly, in front of Kael:** *"I am with them."*
 - **She has said once that she does not like the rest of it** and said she would not say it again. She has not.
@@ -23,6 +23,9 @@
 - **She said what keeping is:** *I was made for one thing. It is not difficult to keep a thing you were made for. It is the other kind that is difficult.* The crew stopped seeing her by the second week, because a thing that never changes stops being there.
 
 **WHAT SHE IS**
+- **Her measure, said whole:** *Where she stands, I stand, and what is done so that she keeps standing is not wrong. That is the whole of it.* Called a wall — *It would hold up anything* — and agreed to: *That is what it is for.*
+- **She was taught early or late and never the middle**, and is not good at the middle. Hope, for her: *If they are there, I will have been late, and I will bear it. If they are not, I will have been early, and I will wait* — and if they never come, *early for a very long time*.
+- **Asked whether she wants to change:** *You may as well ask the sword.* **She does not know what minding would be for.**
 - **Internal reinforcement is her specialty** and it leaves no mark on the world — nothing goes out of her body, so nothing signs a room as Resonants' work. **Her Art is fully back** and the page shows it costing her nothing.
 - **The ground-sense is a projection, not a passive reading** (author, s69; `../02-World-Bible/magic.md`): a hand flat on floor or ground, short range, not long and not while asleep — **and she would rather nobody knew she could do it at all.**
 - **She opens ground by subtraction rather than digging**, which takes a long time and costs her.
