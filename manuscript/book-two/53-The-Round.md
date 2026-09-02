@@ -70,7 +70,7 @@ She said it in the empire's tongue with the coast under it.
 
 "Selis."
 
-The girl who said it was the youngest of them after the three, eighteen perhaps, thin, with her hair cut off short at the jaw the way and she said the name to the fire and not to anybody.
+The girl who said it was the youngest of them after the three, eighteen perhaps, thin, with her hair cut off short at the jaw, and she said the name to the fire and not to anybody.
 
 "Of Ammareth."
 
