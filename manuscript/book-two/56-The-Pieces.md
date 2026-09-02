@@ -4,9 +4,9 @@ Twenty-four.
 
 He had it by the middle of the first morning and spent the rest of the day trying to make it wrong.
 
-The town lay in the bottom of the valley the way a thing lies when it has been put down carefully: a wall that had been built for it and then grown out of, a square with a well in it, a tower for the bell, roofs going down to a river that was a river and not the thing at Ishareth. Leaves on the trees along the square. Full leaves, dark, the kind that are on for months yet. He lay along the top of a cut on the eastern side with Oran on his left and two of Ishareth on his right and the town did not look up, because a town does not.
+The town lay in the bottom of the valley the way a thing lies when it has been put down carefully: a wall that had been built for it and then grown out of, a square with a well in it, a tower for the bell, roofs going down to a river that was a river and not the thing at Ishareth. Leaves on the trees along the square. Full leaves, dark, the kind that are on for months yet. He lay along the top of a cut on the eastern side with Oran on his left and two of Ishareth on his right.
 
-The tax-house was on the square, stone, three floors, the only building in the town that had been built by somebody who was not from it. A door onto the square with two men on it. A yard behind, walled, with a gate onto a lane, and two men on that. Behind the yard a long low room with a chimney that smoked all day, which was where the rest of them were, because men who are not on a door are in a room with a fire.
+The tax-house was on the square, stone, three floors, the only building in the town that had been built by somebody who was not from it. A door onto the square with two men on it. A yard behind, walled, with a gate onto a lane, and two men on that. Behind the yard a long low room with a chimney that smoked all day, which was where the rest of them were.
 
 Two on the square. Two on the lane. Two more walking the wall of the yard, one going one way and one the other, meeting at the corner and not speaking. Six out. The change came in the afternoon when the bell went four, and six came out of the long room and six went into it, and he had all twelve faces. It came again at full dark, and it was the first six again, so there were twelve on the doors in a day and twelve men were not twenty-four. He waited. The long room fed them: a boy went in with wood and came out without it, twice; a woman went in with a pot and came out with a pot. He counted the wood. He counted the bread that went in on the second day, which was in a cloth and was more bread than twelve men eat. Eighteen. Then the officer came out of the tax-house door and walked down the line of the yard in the evening, and six men he had not seen came out of the long room and stood up straight for him, and went back in.
 
@@ -45,6 +45,8 @@ Nobody at the fire said anything. Tirzah had white cloth across her knees and a 
 The pieces were everywhere and none of them was the thing.
 
 Tirzah had white cloth, and blue, and thread, and she sewed at the fire every night with her back to it so the light fell on the work. The white was not the coast's white. It was the flat dead white the empire dyed nothing into, and the blue was the blue, and she had a coat from somewhere that she was unpicking a seam at a time to see how the thing was made. He did not ask her what it was for. He had known what it was for since the first sleeve.
+
+The princess sewed beside her. She had come and sat down on the second night with her sleeves over her wrists and held out her hand for a needle, and Tirzah had looked at the hand and given her the blue. Not the white. The blue went at the collar and the cuff and down the front where the coat closed, a line as wide as a finger, and it had to sit exactly or it was a coat with blue on it and not the coat. Her stitches were small and even and quicker than Tirzah's, and she did not look at them while she made them. She looked at the coat. Tirzah, who had kept a stall of cloth and thread, looked at the stitches once and went back to the white.
 
 One of Ishareth, the warehouse man, had a block of wax in a cloth and a file and a thing on a cord round his neck that he took out and looked at and put back. He sat apart and worked with his hands close to his body, and when Kael went past him he closed the cloth over it without hurrying, which was not hiding, it was a man's hands doing what they did.
 
@@ -278,6 +280,14 @@ She thought about that.
 
 She put the bucket down where the mule could reach it, and stood a moment longer.
 
+"I sewed the blue," she said.
+
+"I saw."
+
+"It has to sit exactly at the collar, or a man who has worn the coat knows. Tirzah has never stood near enough to one to know that. I have stood next to a thousand." She looked at the mule and not at him. "I thought about where the stitch went and nothing else, for three hours. I recommend it."
+
+He did not say anything to that. There was nothing in it that wanted an answer.
+
 "Adah will be here," she said. "When you come back. She will have carried the water."
 
 ---
@@ -286,7 +296,7 @@ At dusk the camp was already gone.
 
 Not gone. Packed. The canvas down and rolled and on the mules, the fires out and the ground put back over them, the line up, the animals standing with their loads on and nothing to do but stand. Eighteen people in a fold of ground with nothing in it, waiting for nine of them to go down into a valley and come back up out of it with three wagons, so that the whole of it could walk the moment the wagons came over the lip. Selis with the mules. Talo, who did not talk, sitting with his hands on his knees and the blanket empty beside him. Valeria one half-step off the princess's shoulder in the dark, where she was, where she would be.
 
-Nine of them in white and blue. He had watched Tirzah make it and it still stopped him, seeing it on people: Borren in an officer's coat with the one eye, Ambros in the coat of a man of the capital, buttoned to the throat, which was the only coat he had ever seen the man wear and now it had the empire's colour on it, the talker, the warehouse man, Oran, four more. Tirzah was not in white. She was in what she was always in, with the basket, because a woman with a basket at a yard gate at full dark is a woman who has brought something for the soldiers, and the noise was hers. Kael was in what a boy is in. He had the wood. Two pieces of it were not wood.
+Nine of them in white and blue. He had watched two women make it and it still stopped him, seeing it on people: Borren in an officer's coat with the one eye, Ambros in the coat of a man of the capital, buttoned to the throat, which was the only coat he had ever seen the man wear and now it had the empire's colour on it, the talker, the warehouse man, Oran, four more. Tirzah was not in white. She was in what she was always in, with the basket, because a woman with a basket at a yard gate at full dark is a woman who has brought something for the soldiers, and the noise was hers. Kael was in what a boy is in. He had the wood. Two pieces of it were not wood.
 
 Borren came down the line of them and stopped at him.
 
