@@ -70,7 +70,7 @@ Ambros finished the line.
 
 ---
 
-He had the shape by the third night, and did not bring it, because on the third night Borren sat down at the fire and looked across it at him.
+On the third night Borren sat down at the fire and looked across it at him.
 
 "Kael," he said. "Tell us the numbers."
 
