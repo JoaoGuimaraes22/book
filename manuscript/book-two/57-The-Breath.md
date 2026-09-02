@@ -70,7 +70,7 @@ Nineteen in the room, and none of them a sound.
 
 The gate opened to the empire's colours.
 
-Kael was not at the gate. He was already through it, along the wall in the dark of the yard, but he heard it, because a plan is a thing you hear when you cannot see it: Ambros's voice in the capital's Koine, level, tired, faintly put upon, and the two men on the lane gate going from bored to straight-backed in the space of a sentence. The advance. A day early, which an advance is. The paper. The seal. A pause while a man who could read read a thing written to be read, and then the gate, and boots on the yard stones, unhurried, the boots of men who had every right to be there.
+Kael was not at the gate. He was already through it, along the wall in the dark of the yard, but he heard it, because a plan is a thing you hear when you cannot see it: Ambros's voice in the capital's Koine, level, tired, faintly put upon, and the two men on the lane gate going from bored to straight-backed in the space of a sentence. The advance. A day early, which an advance is. The paper. The seal. A pause while a man read, and then the gate, and boots on the yard stones, unhurried, the boots of men who had every right to be there.
 
 Then the officer came out of the tax-house door with a lamp, and his left hand was empty.
 
@@ -82,7 +82,7 @@ Kael had it and could not say what it was. A man reads an order and hands it bac
 
 "You are early," the officer said.
 
-"We are early," Ambros said, in the voice, as though early were a thing lesser men did to him. "There is a war four days west of your wall, Commander. I would rather be early to a thing than late to it. My people will want to see the chests tonight and count them, and I will want to sleep in a bed that is not a wagon, and in the morning the escort proper comes to your gate and we are gone before the town is up and you have your yard back. You have had this coin under your floor for six years. You will not miss the last night of it."
+"We are early," Ambros said, as though early were a thing lesser men did to him. "There is a war four days west of your wall, Commander. I would rather be early to a thing than late to it. My people will want to see the chests tonight and count them, and I will want to sleep in a bed that is not a wagon, and in the morning the escort proper comes to your gate and we are gone before the town is up and you have your yard back. You have had this coin under your floor for six years. You will not miss the last night of it."
 
 The officer looked at him a moment.
 
@@ -100,7 +100,7 @@ It was the thing Kael had not seen coming and Borren had, and it was the whole o
 
 The officer took it.
 
-He would tell himself, if he ever thought about it again, that he had thought about it, but he did not think about it, because a man does not examine a gift that lands in the exact shape of the thing he has wanted for a month, which was to be rid of it. He gave an order. The six on the doors came off the doors. Six men who had been going to stand a wall all night in the cold walked across the yard toward the warmth of the long room and the beds in it, glad, off duty, and Kael counted them in through the door, one, two, three, four, five, six, into a room where nineteen men lay on the floor in the dark not breathing loud enough to hear, and the door shut behind them.
+He gave an order. The six on the doors came off the doors. Six men who had been going to stand a wall all night in the cold walked across the yard toward the warmth of the long room and the beds in it, glad, off duty, and Kael counted them in through the door, one, two, three, four, five, six, into a room where nineteen men lay on the floor in the dark not breathing loud enough to hear, and the door shut behind them.
 
 Twenty-four in the room now. Only six of them still had the wit to lie down on purpose.
 
@@ -126,7 +126,7 @@ It went a third of the way and stopped.
 
 Kael saw the man's face not change, which was the tell, because a face that does not change is a face working. The warehouse man drew the key out a hair and pushed it back and turned again, gently, feeling for the ward, and it went the third of the way and stopped, and the officer, who was a hand away with a lamp, said, "Is there a difficulty."
 
-"It sticks," the warehouse man said, in the Koine, without a country in it, mild. "Your tax-master keeps a dirty lock, Commander. They all do." He worked it. "A moment."
+"It sticks," the warehouse man said. "Your tax-master keeps a dirty lock, Commander. They all do." He worked it. "A moment."
 
 Kael held the lamp and held the count and did the arithmetic he did not want to do. The change was at first light. First light was, he had it exactly, and it was hours off yet, but hours were not the thing. The thing was that a wax key does not fail slowly. It either turns or it is wrong, and a wrong key gets more wrong the more you work it, because the wax gives, and the man had one key and no second try, and behind them up the stair was a yard held by six people pretending to be an escort, and a town that would wake, and eight chests short of everything, no chests at all, if this door did not open.
 
@@ -158,9 +158,7 @@ The officer's face.
 
 Kael was a foot away with the lamp and he watched it happen, watched a man reach inside himself for the thing that had always been there, the thing he had been raised to keep a hand free for, and find nothing. Find a hand. Find the world gone flat and ordinary and a stone room and three men and a boy and no answer anywhere in his own arm. Kael had felt that in a box east of Qeshet, the smallest thread he had getting no answer for the first time in his life. He had never watched it land on somebody else, and it landed all at once and from underneath, and the man made a sound that was not a word, and Borren's hand came off the throat and over the mouth, and the sound stayed inside it.
 
-Kael looked for the thing that came.
-
-The count came. Twenty-four in the room above, six of them awake an hour ago and not now. One on the stair. This one. Thirty-eight chests, and the arithmetic of two men to a chest and a stair with a turn in it. That came. The other thing did not, and he did not have the time to kneel in a stream and look for it, and he found that he was glad, and did not look at the gladness either.
+The count came. Twenty-four in the room above, six of them awake an hour ago and not now. One on the stair. This one. Thirty-eight chests, and the arithmetic of two men to a chest and a stair with a turn in it. That came. *Was this right or wrong?* He did not have the time to kneel in a stream and look for it, and he found that he was glad, and did not look at the gladness either.
 
 "Iron," the warehouse man said, and Kael gave him the second band, and the officer's hands were behind him, and it was done, and nobody had died, and the empire's fire was a man on his knees in his own cellar breathing through his nose.
 
@@ -204,7 +202,7 @@ Kael had it before the man finished. The escort. The real one. Early too, the wa
 
 First light came the way it comes, without asking.
 
-The town gate opened at the first grey because a town gate opens at first grey, and three wagons rolled out through it, unhurried, the empire's colours on the seats, an officer riding at the head with a patch under his cap and a boy on the last box with the count running so hard it was the only thing in him.
+The town gate opened at the first grey, and three wagons rolled out through it, unhurried, the empire's colours on the seats, an officer riding at the head with a patch under his cap and a boy on the last box with the count running so hard it was the only thing in him.
 
 Outside the gate, off the road, nine men and an officer stood with their horses in the grey, stiff from a cold night on the ground, watching the escort's advance leave with the coin.
 
@@ -212,7 +210,7 @@ The two officers looked at each other.
 
 Borren lifted a hand off the rein, a hand's width, the greeting of a man who has been up all night and is glad to be going home. The other officer, cold, tired, a night on the ground behind him and a day of counting chests ahead, half-lifted his own hand back before his face had finished deciding whether the thing in front of him made sense.
 
-That was the half-second. Kael had it. The distance between a hand going up because a hand went up, and a mind catching up to what the hand had done. It was the same half-second the two men on a bench had not spent at the rope-walk. It was the whole of the trade. The wagons rolled, and the officer's hand was up, and by the time his face had finished the wagons were past, and by the time his mouth opened the first wagon was turning off the road onto the track that went where the road did not, and a track is a slow thing to turn a wagon onto and a slow thing to follow a wagon down, and the last thing Kael saw of the west road was the man swinging up onto his horse, and by then it did not matter, because the ground had them, and the ground was the crew's.
+That was the half-second. Kael had it. The distance between a hand going up because a hand went up, and a mind catching up to what the hand had done. It was the whole of the trade. The wagons rolled, and the officer's hand was up, and by the time his face had finished the wagons were past, and by the time his mouth opened the first wagon was turning off the road onto the track that went where the road did not, and a track is a slow thing to turn a wagon onto and a slow thing to follow a wagon down, and the last thing Kael saw of the west road was the man swinging up onto his horse, and by then it did not matter, because the ground had them, and the ground was the crew's.
 
 He did not take the count off the nine until the track had bent twice and the road was gone.
 
