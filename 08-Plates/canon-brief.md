@@ -73,6 +73,13 @@ ONE EYE. A plain worn oval of dark leather over the RIGHT eye, on a thin cord ba
 Grey hair, thin on top and receded well back, the rest swept back over the ears. A full grey beard, kept and close-cut. The brows are dark and match neither.
 A narrow face, long through the nose, weathered by living and not by work.
 
+TIRZAH — the woman with the basket
+About thirty, of the southern coast. Brown skin, warm and sun-darkened, weathered at the outer corner of the eye and across the nose.
+Her head is covered in every picture: coarse undyed cloth wound over the head and once round the throat and knotted at one side, with no hair showing anywhere. Nothing she wears is dyed and there is no ornament on her.
+A long face over strong bone, a firm jaw, straight dark brows.
+Dark brown eyes, and they are the most finished drawing in her face.
+The attention is forward and level, and she is generally about to ask something.
+
 SEVERIN — the First Master
 Old, worn to what mattered; not frail, not kindly-grandfatherly. Tall, gone lean, still broad across the shoulder. The wrists are the tell — too thick for a man whose work was paper. The scholar's stoop is borrowed, over an enforcer's frame; both visible at once.
 Hair fully grey, the whole head, a true neutral grey — not quartz white, not warm silver — and even everywhere: no seam, streak or patch.
