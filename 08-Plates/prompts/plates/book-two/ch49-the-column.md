@@ -1,5 +1,5 @@
 Image 1: valeria-14.png — portrait reference of Valeria.
-Image 2: crew-leader.png — portrait reference of the man at the table.
+Image 2: borren.png — portrait reference of the man at the table.
 
 Same medium and style as the reference images: loose watercolour and
 ink on rough cold-press paper, scratchy ink linework, wash blooms,

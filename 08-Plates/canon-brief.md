@@ -67,7 +67,7 @@ Three quartz-white marks in her hair, permanent — two from Ch. 32, the third a
 Not warm, not maternal, not soft.
 Her hands are where the book keeps her: any full figure or scene puts them in frame and occupied.
 
-THE CREW LEADER — the man at the table
+BORREN — the man at the table
 Past fifty, thin, upright, and nothing taken out of him. A paper man: nothing in the neck or the shoulders was built by work.
 ONE EYE. A plain worn oval of dark leather over the RIGHT eye, on a thin cord back into the hair. The left eye is the one that sees, light grey-brown, and it is the only fully resolved thing in his face.
 Grey hair, thin on top and receded well back, the rest swept back over the ears. A full grey beard, kept and close-cut. The brows are dark and match neither.

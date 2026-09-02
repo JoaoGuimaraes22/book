@@ -1,4 +1,4 @@
-Image 1: crew-leader.png — portrait reference of the man at the table.
+Image 1: borren.png — portrait reference of the man at the table.
 
 Same medium and style as the reference image: loose watercolour and
 ink on rough cold-press paper, scratchy ink linework, wash blooms,

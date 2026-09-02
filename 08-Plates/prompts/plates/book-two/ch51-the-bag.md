@@ -1,5 +1,5 @@
 Image 1: kael-14.png — portrait reference of Kael.
-Image 2: crew-leader.png — portrait reference of the one-eyed man.
+Image 2: borren.png — portrait reference of the one-eyed man.
 
 Same medium and style as the reference images: loose watercolour and
 ink on rough cold-press paper, scratchy ink linework, wash blooms,
