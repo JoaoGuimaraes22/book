@@ -44,7 +44,7 @@ Nobody at the fire said anything. Tirzah had white cloth across her knees and a 
 
 The pieces were everywhere and none of them was the thing.
 
-Tirzah had white cloth, and blue, and thread, and she sewed at the fire every night with her back to it so the light fell on the work. The white was not the coast's white. It was the flat dead white the empire dyed nothing into, and the blue was the blue, and she had a coat from somewhere that she was unpicking a seam at a time to see how the thing was made. He did not ask her what it was for. He had known what it was for since the first sleeve.
+Tirzah had white cloth, and blue, and thread, and she sewed at the fire every night with her back to it so the light fell on the work. The white was not the coast's white. It was the flat dead white the empire dyed nothing into, and the blue was the blue, and she had a coat from somewhere that she was unpicking a seam at a time to see how the thing was made.
 
 The princess sewed beside her. She had come and sat down on the second night with her sleeves over her wrists and held out her hand for a needle, and Tirzah had looked at the hand and given her the blue. Not the white. The blue went at the collar and the cuff and down the front where the coat closed, a line as wide as a finger, and it had to sit exactly or it was a coat with blue on it and not the coat. Her stitches were small and even and quicker than Tirzah's, and she did not look at them while she made them. She looked at the coat. Tirzah, who had kept a stall of cloth and thread, looked at the stitches once and went back to the white.
 
@@ -53,8 +53,6 @@ One of Ishareth, the warehouse man, had a block of wax in a cloth and a file and
 Talo had a blanket, and on the blanket were the things he had spent the winter making in the shed at the back of the carrier's yard with a file and a vice, that nobody had said the name of, and that Kael had watched him make for four months and had put with the rope, because a carrier's yard has iron in it. Twenty pairs. Plain, no black in the grooves, the pin peened on one side and not the other so it would drive out again. Beside them a heap of cloth strips the width of a hand, rolled, and he knew what those were for without a winter to work it out in.
 
 He stood over the blanket for a while.
-
-It had been in the winter. He had gone through the winter thinking the winter was a cost, that Borren had priced it as a cost and paid it because the roads were not roads, and it had been a shed with a vice in it. It had been a man with a needle on the other side of the fire from him at the trough. He had been inside a thing for four months without knowing the shape of it, in a town where he had stood every morning with a bucket and nothing to say, and the thing had been going on around him with its hands in plain sight.
 
 Ambros wrote.
 
@@ -72,9 +70,11 @@ Ambros finished the line.
 
 ---
 
-He had the shape by the third night, and he brought it, because he had been told to.
+He had the shape by the third night, and did not bring it, because on the third night Borren sat down at the fire and looked across it at him.
 
-They sat away from the fire, on the slope, where the town's few lights showed in the valley. He gave it in order, short, the way he had been told to give things. He had built it on his father's ground and then taken the bodies out, and it had taken him two days.
+"Kael," he said. "Tell us the numbers."
+
+He gave it in order, short, the way he had been told to give things. He had built it on his father's ground and then taken the bodies out, and it had taken him two days.
 
 "The escort comes in five days. Three wagons, thirty-eight chests, twenty-four men out of the tax-house and whatever the escort brings. They go west by the river road. The first night they are at the ford eleven miles down, because a wagon does not do more than eleven miles on that road and there is nowhere else to water three teams. They will camp on the near side of the ford, because the far side is a bank. The smoke goes into their fires after dark. I have a plant that will do it. They sleep. We take the wagons across the ford at first light and we are on a track the far side before anybody on the near side can stand up, and nobody is dead, and there is nothing for anybody to remember."
 
@@ -88,7 +88,7 @@ Borren said nothing for a while.
 
 Kael did not say anything.
 
-"You have taken the bodies out," Borren said. "I will grant you that. You have taken out the bodies and left in the road. The road is the thing. On the road the paper is on the escort and every man they pass is a man who will remember three wagons that were not the escort. You would have it for eleven miles." He picked a stone up off the slope and turned it over. "You are still taking it. That is the mistake. We are being handed it."
+"You have taken the bodies out," Borren said. "I will grant you that. You have taken out the bodies and left in the road. The road is the thing. On the road the paper is on the escort and every man they pass is a man who will remember three wagons that were not the escort. You would have it for eleven miles." He picked a stone up off the ground and turned it over. "You are still taking it. That is the mistake. We are being handed it."
 
 "By whom."
 
