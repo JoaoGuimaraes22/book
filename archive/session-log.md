@@ -3140,3 +3140,11 @@ The author ruled *fix itches* after the close, so all three were closed in one p
 **INSTRUMENTS AT THE CLOSE.** check-quotes: 1,446 fragments, **0 not on any page** (1,525 → 1,446 as text moved to archive, which the script does not scan; the invariant that matters held at 0 through all five moves). Baselines: all 55 match. check-echoes and clues.sh: parity, and `manuscript/` untouched — **no prose changed this session.**
 
 **BASELINES:** unchanged; no chapter was edited.
+
+**ADDENDUM (s76) — BOOK TWO'S PARTS DECLARED (author).** `chapter-records.md` is the CURRENT-PART accumulator and rolls per Part, but **Book Two declared no Parts anywhere in 04 or `timeline.md`, so the roll could never fire** — 23,016 words at Ch. 53, and on course for ~48,000 by the book's end, all of it in every cold read. Claude proposed the structure off what is on the page; the author ruled the two-Part shape, seam at Ch. 47:
+- **PART V — THE BOX (Ch. 37–46).** Eight ashore at Qeshet to three free above Doresh. It closes on the fullest cadence Book Two has: the pursuit destroyed to the last man, the iron off, the Art back, and the road east chosen by the map.
+- **PART VI — THE HONEST MEN (Ch. 47–, OPEN).** Ishareth, the trade, and the road inside a crew.
+
+Ten records rolled to `07-Story-Ledger/chapter-records-part-5.md`, **all ten byte-identical and the seven that stayed byte-identical too**; the accumulator is **23,016 → 9,527**. Declared in `07/timeline.md` §Parts, `07/index.md`, and 04 §Book Two+. **The roll mechanism now fires by itself at every future Part close instead of never.**
+
+**FINAL: the every-session cold read is 126,223 → 72,092 words, ~168k → ~96k tokens — 43% smaller.** check-quotes 0 phantoms, baselines all 55 match, `manuscript/` untouched.

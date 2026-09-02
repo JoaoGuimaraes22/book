@@ -46,6 +46,7 @@
 ---
 
 ## Book Two+ — The Continent
+**PARTS (author, s76).** **Part V — THE BOX** (Ch. 37–46): eight ashore at Qeshet to three free above Doresh; closes on the pursuit destroyed to the last man, the iron off, the Art back and the road east chosen by the map. **Part VI — THE HONEST MEN** (Ch. 47–, OPEN): Ishareth, the trade, and the road inside a crew. Records roll per Part at each Part close (`07-Story-Ledger/`).
 - **Opens on the water, not with the trio (author, s49).** — SPENT: Ch. 37 "The Still" (thirty days; the still; landfall at QESHET; all eight ashore; the governor's table and the letter).
 - **The no-farewell, and the wake.** — SPENT: Ch. 38 "The Watch" + Ch. 39 "The Wake" (the last conversation and the languages' true names; a sleep that was not tiredness; a box east, and no farewell).
 - **Inherited unspent, owed in Book Two:** the Phantom, asked-and-declined · the word in a raider's mouth and the mother's face · Severin's hull and *ask me the rest of it on the other side of that water* · the crown-vs-Kael choice · Halden's fuse · Wren's eyes · Neris's true capacity · **Kael's three wants, one of which is aimed at the wrong enemy.** (The separation is SPENT — Ch. 38–39.)

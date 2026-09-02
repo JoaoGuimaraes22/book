@@ -1,7 +1,7 @@
 ## Timeline
 **LAW CORE.** Part/age structure, and every age pinned on the page. Check any new chapter's age and season against this table.
 
-- **Parts:** Part I: Kael ~4–10 (ends with permission + enrollment) · Part II: ~10–12 (Temple years, peers, BEFORE Valeria) · Part III: ~12–13 (Valeria) · Part IV: ~13–14 (tournament, birth of brother, the fire).
+- **Parts:** Part I: Kael ~4–10 (ends with permission + enrollment) · Part II: ~10–12 (Temple years, peers, BEFORE Valeria) · Part III: ~12–13 (Valeria) · Part IV: ~13–14 (tournament, birth of brother, the fire) — **BOOK ONE ENDS AT CH. 36.** **BOOK TWO (author, s76):** **Part V — THE BOX**, Ch. 37–46, Kael 13 (eight ashore at Qeshet to three free above Doresh; closes on the pursuit destroyed, the iron off and the road east chosen) · **Part VI — THE HONEST MEN**, Ch. 47–, Kael 13→ (Ishareth, the trade, and the road inside a crew).
 - **Convention:** birthdays pass unmarked inside a year; no date has ever been pinned.
 
 | Ch. | Age | Pinned on page | Season / span |
