@@ -3,9 +3,9 @@
 
 ## LAW CORE — read at every session open
 - [timeline.md](timeline.md) — part/age structure and every age pinned on the page.
-- [standing-rules.md](standing-rules.md) — author-ratified story-side state: what is spent, fixed, or may not be contradicted.
+- [standing-rules.md](standing-rules.md) — author-ratified story-side state that **no single chapter owns**: the departure ledger, the parents at capacity, what the fire left, the boat, and the facts that outlast Book One. **Per-chapter state is `chapter-records.md`, not here** — the Ch. 37–53 sections were rolled to `../archive/standing-rules-book-two.md` at s76 as duplicates of it.
 - [magic-snapshot.md](magic-snapshot.md) — canon snapshot; deep layer in 00, public layer in 02.
-- [open-threads.md](open-threads.md) — end-of-Book-One state of the live threads.
+- [open-threads.md](open-threads.md) — the LIVE threads, organised by kind and **maintained by removal**: added when a chapter opens one, deleted when a chapter answers it. Pre-s76 per-chapter log: `../archive/open-threads-log.md`.
 - [established-facts.md](established-facts.md) — facts no single chapter owns; names in use, blocked and available.
 
 ## DESIGN-TIME — read when designing a chapter, not at every open

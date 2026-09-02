@@ -1,0 +1,93 @@
+## Closed Enquiries — do not re-raise (rolled out of 05, s76)
+**ARCHIVE.** Rolled from `../05-Continuity-Log.md` §OPEN ITEMS at s76. It had grown to a 2,998-word single paragraph inside a file whose contract is *pointer-style — what will be false in ten sessions*; a closed enquiry is by definition not live state. **Spot-read on demand; not cold-read.** One entry per line, split on the ` · ` separator the original used; the join is byte-identical to the rolled line.
+
+- the dash register (s21)
+- the dialogue-lexicon rule (s22)
+- the *older than* line (s23)
+- 03's Glance stamps (s35)
+- the storm-weeks (s25)
+- beat 18's *trials of arms, wits* wording (s26)
+- the reader notebook being behind (s29)
+- guarding `08-Plates` on open (s35)
+- everything `08-Plates/` had listed as owed (s37)
+- the phantom district-gate admission rate (s38)
+- the soft line breaks, all now closed and the manuscript carries ZERO (s41)
+- Valeria's *sir* (s41)
+- the Sedrane exchange's intended point (s41)
+- the s46 doc-system direction (done; the record is `archive/session-log.md` §SESSION 46, the practice is in CLAUDE.md)
+- the three s42 items — *the Ghost* in Severin's mouth, the birth's hours-to-minutes, the house flip (§SESSION 42 addendum)
+- the Ch. 32 register (s43 — now a standing rule in `07/standing-rules.md`)
+- the Part IV roll (s52)
+- Book Two's numbering (s52 — runs on from Ch. 36; `manuscript/book-two/`; the scripts glob `manuscript/*/`)
+- the §PLANNED audit and 04 beat 15 (s52 — four rows and two beat-15 items struck, not reassigned; the duel and the eyes come much later; Kael's science and the languages queued in 04)
+- the five UNRULED manuscript items (s52 — *the Art* takes the capital in every magic sense, `02/lexicon.md`; Ch. 31's count is hers; Ch. 27 says *the final*; the Ch. 29 edits and Ch. 30's lines stand as the page, `07/standing-rules.md` §AUTHOR-DECIDED LINES)
+- the doc-system audit, items 1–7 (s54 — all seven done; the record is §SESSION 54, the rolled text is `archive/standing-rules-book-one.md` and `archive/world-bible-book-one.md`)
+- facts, not prohibitions (s54 — ruled with a retro pass; CLAUDE.md §Standing rules; the pre-pass text is `archive/state-files-before-facts-ruling.md`)
+- the compass (s55 — the map ruled: empire west, coalition east, the island south; Ch. 36's Aurelian line turned to match)
+- the governor's name (s55 — Hazoun Sabrane stands with the chapter)
+- the Ch. 37 overture (s55 — a structural slip, ratified; six spent)
+- 06 joining the facts pass (s56 — a staleness pass first, then tiers 1–2: the content fences to 00, the *never*s rewritten as craft; the old text in `archive/style-sheet-book-one.md`; what remains in 06 is how prose is written; CLAUDE.md's *untouched by this* amended to match, author, s56)
+- the naming-collision rules (s57 — struck by the author: real-world words are not barred in any register, and the outside-collisions list is gone; `02/naming.md`, `07/established-facts.md`)
+- the child-names (s58 — turned by the author: Kael thinks and says *Ivrit*, *Avestan*, *the Koine* from Ch. 39; `02/lexicon.md`)
+- the eight-asleep line (s58 — the files reduced to what the Ch. 38 page has)
+- the live-edits practice (s58 — ratified by the author into CLAUDE.md §Work 6: `git diff <file>` before every `git add`)
+- the forward-reaching narration (s59 — allowed, not a first-person slip, takes no departure and is not counted; 06 §POV)
+- the what/why pace (s59 — Book One ran it as an always; from Book Two it moves; 06, 03, and the state in 07 §THE ROAD EAST)
+- training in the box (s59 — struck by the author: nobody drills on those rations; Valeria banks strength by spending nothing)
+- *the child* for Wren (s59 — a warmth judgement about Kael's mouth, explicitly not a rule; Ch. 37–39 untouched, no retro pass)
+- the four Ch. 40 wordings (s59 — all four fixed on the author's word: *But* without its comma, *had lain*, *the making-good* restored, and the comma pair out of *He knew the only solution from here was to pull harder*)
+- **the Solvenna retro pass (s61 — done: one mention, Ch. 38's governor line; Ch. 36 untouched and its callback intact)**
+- the capital's name (s61 — unnamed on every page and staying so until a mouth needs otherwise)
+- Ammareth as the border city (s61 — declined by the author; the border city is ISHARETH, unspent and living in 04)
+- the *(author, s60)* stamp on Valeria's burn (s61 — flagged at the open and **the flag was wrong**: s60 is the plate session of 2026-08-28 and the stamp is correct)
+- **the two Ch. 40 arithmetic slips (s63 — both fixed on the author's word: the door's *four hours* is an hour, and *the nine men outside* is *the men outside*; the ledger's three quotes moved with the page)**
+- **the search party's placement (s63 — Claude's s62 read reversed at design time and approved: it is Ch. 42's, and Ch. 41 ends on the count instead)**
+- **whether the princess acts at the door (s63 — she does; she stands up, she never says why, and Kael does not get there)**
+- **her first word out of the gag (s63 — the author turned *Lucan* to *Kael* in their own pass; nobody on the page remarks on the name)**
+- **the two Ch. 41 miscounts (s64 — both Claude's, fixed at the close: the iron is on *five* wrists not six, Kael's left hand out of its band; the box-haul was *three* knives not two — the rope-man's plus two off belts; the state files corrected, the committed chapter untouched)**
+- **the swords (s64 — author: both Kael and Valeria take a plain soldier's sword off the dead, usable one-handed unlike the father's longsword, keep the daggers, leave the spears; `07/standing-rules.md` §THE QUESTION)**
+- **the Kharoun and Doresh (s64 — minted in the south register in a soldier's Ivrit; whether the upland belongs to a people who would name it otherwise is unspent, the country before Ishareth unminted; `02/naming.md`, `geography.md`)**
+- **Ishareth held (s64 — the prisoner was asked only where they are and the nearest village, so the border city was still unspoken and the author's to first-name; SPENT at s67)**
+- **the kind village (s67 — author: the poor non-imperial town is genuinely kind to battered children, hides the princess, cuts the iron and mends them with no Art; the other half of the frame is 00's; the good of humanity is the point, and it is character work for the princess, who sees what the countries the empire conquers are full of)**
+- **the cover story (s67 — author: they have a plan, and it is war orphans who were taken; Claude's *no story survives a wrist* was inverted — the iron is the part a village believes, and the story is blown by the soldiers' own description and the village hides them anyway)**
+- **the arrival (s67 — author: the plan must run and Kael must be the thing that fails; he sneaks the yard, goes down at the door, and the two girls with no Ivrit between them ask for help without a word)**
+- **the split (s67 — author: one chapter became Ch. 43 "The Water" and Ch. 44 "The Doors", cut at the boards going down)**
+- **the Kael–Aeliana line (s67 — author: the more unexplored relationship, and she had almost no dialogue; she asks him to teach her Ivrit and he does, and he gives her her own price under the floor)**
+- **the Qeshet clause (s67 — author: *he hasn't*; Ch. 43's *and it had cost him everything he had* is cut and the sentence ends at *in about four minutes*, so nothing on the page has Kael joining the Drusane letter to the taking — `07/standing-rules.md` §THE BOX stands: he knows nothing of why he was taken or why these three)**
+- **Valeria's ground-sense on its return (s67 — flagged by Claude as its own error against `02-World-Bible/magic.md`'s SHORT RANGE limit: she was reading cattle a long way down the fold. **The author cut the whole exchange**, so the Art's return on her side is now withheld — she walks out into the yard and does nothing at all for a while and the page gives none of it)**
+- **Ishareth's spelling (s67 — author: plain ISHARETH, no acute; the live files and the page carry it, and `archive/session-log.md` keeps the accented form in the s64 record, because records are appended and never rewritten)**
+- **the two author typos and the Doresh day-count (s68 — *finaly* → *finally*; *at the river flows to* → *the river flows to*; and the timeline rows corrected, Ch. 43 ending on the sixty-ninth morning and Ch. 44 on the seventy-first, since the sixth morning in Doresh is day 69)**
+- **the split (s68 — author: Ch. 45 at 9,641 cut at the held breath into "The Ground" and "The Narrow")**
+- **the betrayer (s68 — author: Kael does not stop Tarim, he buys him; the Art as proof, the half-truth about the two girls, and the reward promised on the princess without asking her)**
+- **the ambush's outcome (s68 — author: all nineteen die in that fold and not one escapes; the man who got away is gone and the missing one is a body in the water who turns out to be breathing)**
+- **the killing (s68 — author: *be explicit, dont have fear*; the officer, the four in the holes, the first one going wrong, and what making sure actually is)**
+- **the weight (s68 — author: they were bought men with families and he finished them anyway, and it does not leave him as much as he feels it was right; rendered as what was in their coats, and as the first failure of putting a thing down — no verdict either way)**
+- **the decision (s68 — author: ISHARETH; the map settles it and Valeria never has to choose, so the crown-vs-Kael choice stands unmade)**
+- **the road as one movement (s69 — author: no chapter on the road; one movement in, and the rest is arriving and the search)**
+- **the hair (s69 — author: it stays hidden, not cut; the scarf is enough because a covered head is ordinary in the south)**
+- **who goes out (s69 — author: the princess stays in and Valeria wants to stay with her always, that being all of her purpose; Claude had it backwards against a line the author had already written, and the fix is the princess ordering her Vel out)**
+- **the ground-sense (s69 — author: *it is a sort of projection*; 02/magic.md's *a reading, never a projection
+- nothing leaves her body
+- perception only* clause STRUCK, and it now sits under the distance law with Kael's boot-thread)**
+- **the register (s69 — author: *this is not a real world, i can use whatever words i think fit*; 02/curriculum.md's *no modern terminology* clause retired — the ban is what a term DRAGS IN (notation, units, an apparatus or discipline this world has not built), never how modern the word sounds. *heist* ruled in; my objection to *reconnaissance* was wrong on the same grounds and the author's line is one edit away)**
+- **stable and road jargon (s69 — *near fore* and *string* both queried; made plain, and the page now carries no collective noun for the mules at all, since *train* drags a railway in)**
+- **Ishareth (s69 — author asked whether it should be retroactively made non-imperial; no retro change was needed, because Ch. 43 already said the empire HOLDS it and the name is minted in the south's register, which by naming law is the statement. What the page gained instead: the hold is one bridge wide)**
+- **the Tarim callback (s69 — it was leaning on Ch. 46 to supply the parallel; rewritten to carry itself, then cut by the author, who also sent Valeria to the door with Kael)**
+- **the fake-out (s70 — author: the house on the upstream side is not the house; sacks on their heads and led somewhere else, which is the crew's method run on Kael before a word of business is done)**
+- **Valeria's showing (s70 — author: an earth pillar up out of the floor, *simpler*, rather than the ground-sense or reinforcement; her ground-sense stays a thing she would rather nobody in that city knew about)**
+- **the Art (s70 — author: by Ch. 49 it is fully back on both of them; Ch. 45's *my Art is still returning to me Kael* is discharged and the cost-showing was cut out of the pillar)**
+- **the road's price (s70 — author: **thirteen months** from Ishareth to Solvenna, and a war makes hiding DEARER, slower and more dangerous, never cheaper; Ch. 38's *five months to Solvenna* was said at Qeshet and stands untouched)**
+- **going home (s70 — author: they are not allowed to; the rule falls on the whole crew, so it is procedure rather than captivity, and the price of a word to the princess is the address Kael had held all day)**
+- **the trim standard (s70 — every narrated Kael-conclusion cut and the observable action left; four of Claude's plants went with it — the capital under the leader's voice, the four men going round a name, the before-dark promise and its reversal, and the *come out here and tell them* close)**
+- **the tenth (s70 — Claude asked twice whether *assassinate the governor* turns Ch. 46's *there is not going to be a second one*; the author moved on, so it was written with the want unnamed on the page and carried by the refused fifth alone, and the collision stays live and unresolved)**
+- **the three itches (s70 — all fixed on the author's word after the close). (a)** Ch. 47's contentless line is given her answer back and the author's own added line is kept — *"The last one," Valeria said. / "No." / "So what do you suggest?"* — so the test is answered, she is corrected, and she does not argue. **(b)** the manuscript's only *Ok* is turned to **Very well**, her established word since Ch. 40. **(c)** `07-Story-Ledger/planted-clues.md`'s typed section counts are REMOVED — `scripts/clues.sh` prints the true count, so the number was a second home for a fact a script owns and had drifted seven rows; the rows were verified byte-identical before and after and a wide parity query returns 95/233 both ways.**
+- **the s73 open-session itches (s73 — all three fixed on the author's word: the Ch. 50 gate search read *five places on five men* against an escort the page states three times as six men, with the woman making a seventh adult who is separately said to have gone *through a search*, so it is now seven and thirty-five, with the woman added to the two inventory lines and *one man at a time* made *one at a time*; the princess had been alone TWO nights and not three, per Valeria's own *then that is two nights* and the leader's word-tonight-and-another-tomorrow; and 05's duplicated word counts were REMOVED rather than corrected — the s71 sentence and the s70/s72 parentheticals — so the canonical baselines line is the only home)**
+- **the s73 typos (s73 — all on the author's word: *I do not know where they are* restored; the nested quotes in *Who's "they"?* set as italic *they*; *It seems* → *It seemed* with the doubled *somehow* dropped; *So doomed an island* given its subject as *So you doomed*, chosen because it replaced *So you sold an island* in the same slot; and **Solvena → SOLVENNA** in the leader's parting, a misspelling of a minted name)**
+- **the bridge-house rate (s71 — an arithmetic itch flagged at the open and fixed on the author's word). Ch. 47 said it twice and disagreed with itself: the narration had *fifty-one on the first day … sixty-three on the third*, and Kael's mouth that same night had *the day before yesterday … four days before that*, which also contradicted the scene's own *That night*; Ch. 49 had built the trade on the dialogue's version (*four days later*, twice), and the ledger carried all three intervals. **The narration was the sound half** — it is the one consistent with the scene and with Ch. 48's day-map — so the dialogue was turned to match (*Sixty-three today … fifty-one two days ago*) and Ch. 49's four mentions with it. **And the derived rate was wrong in every reading:** twelve men across two days is six a DAY, not the *six a week* the page said, which is also the only version that explains a crew moving a month-old plan to the night after next.**
+- **the s74 open itches (s74 — both fixed on the author's word: the *seven days before* slip in `03/kael.md` and 05's s72 block — the crew's search was the day before the raid, Ch. 49 being the seventh day and the raid the eighth; and factions.md's stale Ch. 48-era tail (*everything else about them … is open*) cut, the 04 pointer kept)**
+- **the Line of Vel (s74 — author: just her family line, not an institution; the council's *The Line teaches it* turned to *I was taught it*; the page's only bare use stays Ch. 14's narration shorthand)**
+- **the letter (s74 — author: the trio would sooner disbelieve it; rendered as distrust, not verdict — *I would not put weight on that letter* — and whether it went north stays on no page)**
+- **the council made probabilistic (s74 — author: Kael is already a good reader and grows toward a great one, but conclusions stay probabilistic; the confident *he reads the way that pays* replaced with the three-roads pricing)**
+- **the five mechanical fixes (s74 — all on the author's word: *know*, *you two*, *as if*, *princess's* (the manuscript's twenty-to-one convention), and Valeria's bare *Highness* restored)**
+- **the s75 open itches (s75 — both fixed on the author's word: *inside a month* for Ishareth hearing Qeshet, in 05 and 07/open-threads, was on no page and is now Borren's *soon*; aeliana.md's two stale *whether she opens the door is on no page* sentences cut, Ch. 51 having answered it)**
+- **the Selis line (s75 — a dangling *the way* left by the author's own cut, mended on their word)**
