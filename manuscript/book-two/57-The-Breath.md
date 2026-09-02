@@ -2,11 +2,11 @@
 
 The shutter was shut.
 
-He saw it from the lane with the wood on his shoulder and had the whole afternoon go over in his head in the time it took to take a step. Two pieces at the bottom of a fire in a closed room and the room stayed closed and eighteen men breathed it and did not wake. That was the other side of the margin. That was the side he was not allowed to be on.
+He saw it from the lane with the wood on his shoulder and had the whole afternoon go over in his head in the time it took to take a step. Two pieces at the bottom of a fire in a closed room, the room stays closed, eighteen men breathe it and do not wake. That was the other side of the margin. That was the side he was not allowed to be on.
 
-He went in through the yard gate bored at the soldier and the soldier bored back, and across the yard with his eyes on the ground and had it: three wagons under the shed roof, wheels on all three now, greased, loaded canvas folded on the seats. Ready. The empire was ready to walk. He had four days and the empire had a made-up mind.
+He went in through the yard gate bored at the soldier, the soldier bored back, and crossed with his eyes on the ground and had it: three wagons under the shed roof, wheels on all three now, greased, canvas folded on the seats. Ready. The empire was ready to walk. He had four days. The empire had a made-up mind.
 
-The long room took him with the wood. Eleven men. Three asleep. The fire low and red. He knelt at the hearth and stacked, piece by piece, and the two that were not wood went in at the bottom under the others where the coals were hottest and would take slow, and he did it without his hands stopping, and then he stood and there was the shutter, high on the yard wall, closed against the cold.
+The long room took him with the wood. Eleven men. Three asleep. The fire low and red. He knelt at the hearth and stacked, piece by piece. The two that were not wood went in at the bottom, under the others, where the coals were hottest and would take slow; his hands did not stop over them. Then he stood, and there was the shutter, high on the yard wall, closed against the cold.
 
 He could not open it and stay a boy stacking wood.
 
@@ -22,7 +22,7 @@ He went out across the yard and did not look at the shutter and had it in the co
 
 The bell went four.
 
-The change came out of the long room, six, and six went in, and the two on the square were relieved and the two on the lane were relieved, and Kael was at the well in the square with a cup, drinking, a boy who had carried wood. He watched the six who came off the doors go into the long room where a fire was taking two pieces of his mother's herb at the bottom of it, and the door shut behind them, and he counted the room again from the outside. Eighteen, now. The evening ones. Two hours of a shut room and a fire and a shutter open one hand.
+The change came out of the long room, six, and six went in. The two on the square were relieved, and the two on the lane. Kael was at the well in the square with a cup, drinking, a boy who had carried wood. He watched the six who came off the doors go into the long room where a fire was taking two pieces of his mother's herb at the bottom of it, and the door shut behind them, and he counted the room again from the outside. Eighteen, now. The evening ones. Two hours of a shut room and a fire and a shutter open one hand.
 
 He put the cup back on its hook.
 
@@ -58,11 +58,11 @@ Kael went first and alone, along the lane, a boy in the dark on an errand, and t
 
 He did not fight him.
 
-He came up out of the dark on the man's blind side the way his father had taught him to come up on anything, all at once and from where the thing was not looking, and he had the man's own knife out of the man's own belt before the man had finished turning, and the point of it under the ear where the man could feel exactly what it was.
+He came up out of the dark on the man's blind side, all at once, off where the thing was not looking, the way his father had taught him, and he had the man's own knife out of the man's own belt before the man had finished turning, and the point of it under the ear where the man could feel exactly what it was.
 
 "The officer wants you," Kael said, in the Koine, bored, a boy sent to fetch. "In the room. Now. Don't do your belt up, he said now."
 
-It was a stupid thing to say and it was the right stupid thing, because a man with a knife under his ear and his breeches open does not think, he obeys, and the two sentences did not agree with each other and that was why they worked. The man went back up the lane ahead of him with the knife where his kidney was, in through the small gate, across the yard, and Kael opened the door of the long room and put him into it, into the dark and the low fire and the eighteen men asleep on the floor and the smell, and the man had one half-second to understand the shape of what he was looking at, and in that half-second Talo took him.
+It was a stupid thing to say and it was the right stupid thing, because a man with a knife under his ear and his breeches open does not think, he obeys, and the two sentences did not agree with each other, which was why they worked. The man went back up the lane ahead of him with the knife at his kidney, in through the small gate, across the yard. Kael opened the door of the long room and put him into it: the dark, the low fire, the eighteen asleep on the floor, the smell. The man had one half-second to understand the shape of it, and in that half-second Talo took him.
 
 Nineteen in the room, and none of them a sound.
 
@@ -152,11 +152,11 @@ The officer's left hand opened against his own chest to spend a thread into the 
 
 And Kael put the iron on it.
 
-He had it out of the front of his shirt already, the band open in his good hand, and he closed it over the wrist and over the black in the grooves, one-handed, the way he had learned to do things one-handed, by getting the weight of the thing where he wanted it before he asked the hand for anything, and the band shut, and the pin was already through, and he leaned the whole of himself on it and it seated.
+He had it out of the front of his shirt already, the band open in his good hand. He closed it over the wrist and the black in the grooves, one-handed, getting the weight where he wanted it before he asked the hand for anything. The band shut. The pin was already through. He leaned the whole of himself on it, and it seated.
 
 The officer's face.
 
-Kael was a foot away with the lamp and he watched it happen, watched a man reach inside himself for the thing that had always been there, the thing he had been raised to keep a hand free for, and find nothing. Find a hand. Find the world gone flat and ordinary and a stone room and three men and a boy and no answer anywhere in his own arm. Kael had felt that in a box east of Qeshet, the smallest thread he had getting no answer for the first time in his life. He had never watched it land on somebody else, and it landed the way the water going out from under your feet lands, all at once and from underneath, and the man made a sound that was not a word, and Borren's hand came off the throat and over the mouth, and the sound stayed inside it.
+Kael was a foot away with the lamp and he watched it happen, watched a man reach inside himself for the thing that had always been there, the thing he had been raised to keep a hand free for, and find nothing. Find a hand. Find the world gone flat and ordinary and a stone room and three men and a boy and no answer anywhere in his own arm. Kael had felt that in a box east of Qeshet, the smallest thread he had getting no answer for the first time in his life. He had never watched it land on somebody else, and it landed all at once and from underneath, and the man made a sound that was not a word, and Borren's hand came off the throat and over the mouth, and the sound stayed inside it.
 
 Kael looked for the thing that came.
 
@@ -170,13 +170,13 @@ The count came. Twenty-four in the room above, six of them awake an hour ago and
 
 Two men to a chest, up a stair that turned once.
 
-Kael counted them out. Thirty-eight chests in the room, small, iron-strapped, heavier than a thing that size had any business being, six years of a province going up a stair on the shoulders of thieves in the empire's colours. He stood at the turn with the lamp and counted, and priced each one going past, and held the whole of it against the dawn.
+Kael counted them out. Thirty-eight chests in the room, small, iron-strapped, heavier than a thing that size had any business being. Six years of a province, going up a stair on the shoulders of thieves in the empire's colours. He stood at the turn with the lamp, counted, priced each one going past, held the whole of it against the dawn.
 
 Thirty went.
 
-Three wagons hold thirty, loaded right, and thirty was what three wagons held, and eight were left in the stone room because a wagon that breaks an axle eleven miles down a road at first light is worse than eight chests the Emperor gets to keep. Borren made the call without a word about it, a hand flat, no more, that meant stop, and Kael stopped counting them up and started counting them down, out into the yard, onto the wagons under the shed roof, canvas over, roped, the mules that had come down with the crew backed into the traces in the dark by men who did it every day of their lives.
+Three wagons hold thirty, loaded right, and thirty was what three wagons held, and eight were left in the stone room because a wagon that breaks an axle eleven miles down a road at first light is worse than eight chests the Emperor gets to keep. Borren made the call without a word, a hand flat, no more, that meant stop. Kael stopped counting them up and started counting them down: out into the yard, onto the wagons, canvas over, roped, the mules backed into the traces in the dark by men who did it every day of their lives.
 
-Above them the town slept. The tax-master slept in his bed. The eighteen and the six slept the sleep that had been chosen for them, and the two who had walked into it awake slept beside them now, and in the long room a man breathed wrong, once, and the boy who had been left to watch them dragged him by the collar to the door and the open shutter and the cold air, because the rule was the rule, and the man breathed, and stayed alive to guard a coin that was already on a wagon.
+Above them the town slept. The tax-master slept in his bed. The eighteen and the six slept the sleep that had been chosen for them, and the two who had walked into it awake slept beside them now. In the long room a man breathed wrong, once, and the boy left to watch them dragged him by the collar to the door and the open shutter and the cold air, because the rule was the rule, and the man breathed, and stayed alive to guard a coin that was already on a wagon.
 
 The bell in the tower went, some hour, and nobody counted it but Kael, and Kael did not need it, because he had the dawn already, and the dawn was coming.
 
