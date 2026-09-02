@@ -4,15 +4,11 @@ He had every day. That was the trouble with them.
 
 On the road out of Qeshet he had kept the days because the days were the only thing in the box that was his, and each one had been a different weight. Now he had them the way he had everything, whether he wanted them or not, and for the first time in his life having them was no use, because he could not have told anybody what the fortieth was that the thirty-ninth had not been. A fold of ground above a stream. Canvas up before he had seen who carried it. Three fires dug down, the stones on the side they had come from. Six mules to hobble with one hand and a knee. The count went on making its numbers and the numbers went on being the same, and somewhere in the third week he stopped taking them out to look at them, which was not the same as their being gone.
 
-The camp never stayed. That was the first rule and nobody had said it. It moved the way smoke moves off a fire when the wind cannot decide: two nights under trees that dripped on them, then a gorge with a floor of dry stones that the mules hated, then a ravine, then a ruin on a hill with half a wall standing and a hearth in it older than the empire. They never went back to a place. They never went through a place twice. He tried for a while to build the country out of it, the way he had built Ishareth out of a walk under a sack, and gave it up, because a country made of places you are never going to see again is not a map, it is a list.
+The camp never stayed. That was the first rule and nobody had said it. It moved the way smoke moves off a fire when the wind cannot decide: two nights under trees that dripped on them, then a gorge with a floor of dry stones that the mules hated, then a ravine, then a ruin on a hill with half a wall standing and a hearth in it older than the empire. They never went back to a place. They never went through a place twice.
 
 He asked Borren once, in the second week, where they were.
 
-"Between," Borren said.
-
-"Between what."
-
-"Ishareth and Solvenna." He did not look up from the strap he was mending. "You will get the name of the next town on the day we go into it, and not before, and you will forget it on the day we go out. That is not a punishment. That is what a name is for."
+"Between Ishareth and Solvenna." He did not look up from the strap he was mending. "You will get the name of the next town on the day we go into it, and not before, and you will forget it on the day we go out."
 
 ---
 
@@ -32,11 +28,11 @@ They did not take the convoy. They took one wagon out of it, at the river, after
 
 Neither of them stood.
 
-"That was for profit," he said to Borren, on the track, in the dark.
+"So all you do is for coin," he said to Borren, on the track, in the dark.
 
 "Yes."
 
-"Only for profit."
+"Only for coin?"
 
 "What else is there," Borren said. It was not a question.
 
@@ -60,13 +56,13 @@ Ambros taught him the voice. Not a new one: the same Koine he had been given at 
 
 "Yes," Ambros said, and got up, and that was the lesson.
 
-One of the four of Ishareth, the one who had lost a warehouse and said so in eleven words, taught him locks. He did it without any words at all. He put a lock on a stone in front of Kael, an ordinary lock, the kind that had been on the warehouse, and he took a length of twine out of his coat and wet it in his mouth and fed it into the gap under the shackle, and worked it, and the twine went round the tongue of the thing where a key would have pushed it, and he leaned on it, and the lock came open. Then he shut it and gave Kael the twine. It took Kael most of a morning, one-handed, with the left hand holding the lock against the stone the way it could hold things now, which was by weight and not by grip. When it came open the man from Ishareth nodded once and took his lock back. Kael had been given a thing worth more than a warehouse, and the man was never going to say so.
+One of the four of Ishareth, the one who had lost a warehouse, taught him locks. He did it without any words at all. He put a lock on a stone in front of Kael, an ordinary lock, the kind that had been on the warehouse, and he took a length of twine out of his coat and wet it in his mouth and fed it into the gap under the shackle, and worked it, and the twine went round the tongue of the thing where a key would have pushed it, and he leaned on it, and the lock came open. Then he shut it and gave Kael the twine. It took Kael most of a morning, one-handed, with the left hand holding the lock against the stone the way it could hold things now, which was by weight and not by grip. When it came open the man from Ishareth nodded once and took his lock back. Kael had been given a thing worth more than a warehouse, and the man was never going to say so.
 
 The road he learned to smell like by walking on it. That one nobody had to teach.
 
 The drunks were Borren's.
 
-"Not the drunkest," Borren said. They were on a bench outside a house in a town whose name Kael had been given that morning and was going to forget. "The drunkest man in a room knows nothing and will tell you all of it. You want the one who is drunk on purpose. He came here to be drunk and he is doing it carefully and he has something he came here to stop thinking about. That man will sell you what he is trying not to think about for the price of being asked."
+"Not the drunkest," Borren said. They were on a bench outside a house in a town whose name Kael had been given that morning. "The drunkest man in a room knows nothing and will tell you all of it. You want the one who is drunk on purpose. He came here to be drunk and he is doing it carefully and he has something he came here to stop thinking about. That man will sell you what he is trying not to think about for the price of being asked."
 
 "How do you know which he is."
 
@@ -136,7 +132,7 @@ He came down off the hill and gave it to Borren the way he had given the man the
 
 "Six soldiers. Ford four miles up. Tonight."
 
-Borren looked at him with the one eye for about as long as he had looked at him in the doorway of the small room. Then he looked at the mules, which had rope on them; at the crew, eighteen people who did not look like anything; at the girl four mules back with her head covered; and back at Kael.
+Borren looked at him with the one eye. Then he looked at the mules, which had rope on them; at the crew, eighteen people who did not look like anything; at the girl four mules back with her head covered; and back at Kael.
 
 "We go over the bridge," he said. "Tomorrow. In the middle of the day. We pay the toll and we argue about it."
 
@@ -154,7 +150,7 @@ He walked over the bridge at noon the next day behind the fourth mule with his g
 
 Two on the bar. The one who was over the others came out of the house at the sight of the animals, as he had come out for everything with more than three, and walked down the line of them, and Kael had the man's hands and the man's eyes and where the man's weight was, and knew that if the man went to the seventh mule and put a hand up to the scarf of the girl walking beside it there was nothing on this earth that was going to stop Valeria, one mule behind her, and the bridge would have six bodies on it and a hunt with a name in it by the third week.
 
-The man did not go to the seventh mule. He never got there. Tirzah met him at the third with the basket on her hip and a price in her mouth, the toll as it was said on the board against the toll as it had been last year against the toll as it was at the next bridge down, which she had never seen, and the whole of the man's attention went where she had put it, into the argument, which was the thing on that bridge that was making a noise. Ambros paid, in the end, in the voice, short by a copper. He got the copper back off the soldier with a look, and the soldier laughed. Kael walked over a bridge with soldiers on it in daylight and nobody looked at his face once, because there was nothing on his face to look at, and there was a woman with a basket six feet away being difficult about a copper.
+The man did not go to the seventh mule. He never got there. Tirzah met him at the third with the basket on her hip and a price in her mouth. Ambros paid, in the end, in the voice, short by a copper. He got the copper back off the soldier with a look, and the soldier laughed. Kael walked over a bridge with soldiers on it in daylight and nobody looked at his face once, because there was nothing on his face to look at, and there was a woman with a basket six feet away being difficult about a copper.
 
 On the far side he walked for a mile before he took the count off the six and let them go.
 
@@ -170,19 +166,28 @@ Borren dropped back beside him toward evening.
 
 "But not this time."
 
-"This time there was a bridge," Borren said, "and a bridge is the thing they built to let us across."
+"Not this time, no," Borren said, "but do keep your count up, Kael, I'll make sure to make good use of it."
 
 ---
 
 He was started small, and he knew he was being started small, and he did it.
 
-Distractions. He stood in the doorway of a shop in a town he would forget and dropped a jar, once, at the moment a man he had never seen went past the counter with something under his coat. He picked the pieces up and was sorry in the Koine with a town in it. The shopkeeper never found out that he had been robbed until the evening, and never found out how. Watch. A night on a stone above a yard with two fingers ready and nothing to raise them for. Drops: a thing left under a particular stone at a particular hour, a thing taken up from under another, and Kael never once knowing what was in either and finding, somewhere in the fourth week, that he had stopped needing to.
+Distractions. He stood in the doorway of a shop in a town he would forget and dropped a jar, once, at the moment a man he had never seen went past the counter with something under his coat. He picked the pieces up and was sorry. The shopkeeper never found out that he had been robbed until the evening, and never found out how. 
+
+Watch. A night on a stone above a yard with two fingers ready and nothing to raise them for. 
+
+Drops: a thing left under a particular stone at a particular hour, a thing taken up from under another, and Kael never once knowing what was in either and finding, somewhere in the fourth week, that he had stopped needing to.
 
 Then it was not small.
 
-There was a shipment: he never learned of what, only that it went in four crates and that the crates had a lord's mark on them and a man riding with them who carried the lord's paper. The crew did not take it on the road. They took it at the inn, on the second night, out of the yard, by the front gate, at first light, on a cart with the lord's own mark chalked on the crates and Ambros on the box with a paper in his coat that had a seal on it as good as the lord's, because it had been made off the lord's, off wax that a drunk had let a boy sit next to. The man on the gate held it for them. Kael sat on the back of the cart with his feet hanging and the count on the window of the inn where the man with the real paper was still asleep, and they went out of a yard in daylight past a man who was helping them, and he understood the joke about the honest men in the whole of his body, and did not laugh, because it was not funny, it was correct.
+There was a shipment: he never learned of what, only that it went in four crates and that the crates had a lord's mark on them and a man riding with them who carried the lord's paper. The crew did not take it on the road. 
+They took it at the inn, on the second night, out of the yard, by the front gate, at first light, on a cart with the lord's own mark chalked on the crates and Ambros on the box with a paper in his coat that had a seal on it as good as the lord's, because it had been made off the lord's, off wax that a drunk had let a boy sit next to. The man on the gate held it for them. 
 
-There was a lord. Not a great one: a man with a house on a river with a name in the empire's shape and a face of this country, who drank at his own table with the door open to the hall because he was that kind of lord, and who kept a document in a chest that somebody, somewhere, had paid Borren for the misplacing of. Kael never knew who. He was the boy who carried the wine. He was the boy who carried the wine for four days, with the voice, and the walk, and his left hand held the way a boy holds a hand that has been hurt in a kitchen, which nobody looked at twice because kitchens hurt boys. On the fourth night the lord was drunk on purpose and Kael was bored at him, and the lord told the boy with the wine what he was trying not to think about. It was the document, and where it was. By morning it was somewhere else, and the lord had misplaced it, and would go on believing he had.
+Kael sat on the back of the cart with his feet hanging and the count on the window of the inn where the man with the real paper was still asleep, and they went out of a yard in daylight past a man who was helping them, and he understood the joke about the honest men in the whole of his body, and did not laugh.
+
+There was a lord. Not a great one: a man with a house on a river with a name in the empire's shape and a face of this country, who drank at his own table with the door open to the hall because he was that kind of lord, and who kept a document in a chest that somebody, somewhere, had paid Borren for the misplacing of. Kael never knew who. 
+
+He was the boy who carried the wine. He was the boy who carried the wine for four days, with the voice, and the walk, and his left hand held the way a boy holds a hand that has been hurt in a kitchen, which nobody looked at twice because kitchens hurt boys. On the fourth night the lord was drunk on purpose and Kael was bored at him, and the lord told the boy with the wine what he was trying not to think about. It was the document, and where it was. By morning it was somewhere else, and the lord had misplaced it, and would go on believing he had.
 
 There were supplies, moved between two provinces that did not want them moved, over a hill, at night, on mules, in the rain, and at the top of the hill Kael looked down at the fires of a camp of soldiers whose job was the hill and counted them and put the mules past them on a track the soldiers had never walked because it did not go anywhere a soldier would want to go, and Borren, at the bottom, said nothing at all, and the nothing was the second time.
 
@@ -196,7 +201,9 @@ A house. A stair. A man on the stair who should not have been on it, according t
 
 He was on the fourth step from the top when the man came round the turn above him with a candle.
 
-He had the man's hands. That was the whole of it. The man's right hand had the candle and the man's left hand came down for his collar, and Kael had already priced the stair, the drop, the door at the bottom, the two of the crew outside it, the rule. He had the rule before he had decided anything: not a body. He had never once had a rule arrive before the decision it was for; it arrived, and the knife came out of the left sleeve on its two turns of thread into his good hand, and he opened the inside of the man's forearm from wrist to elbow, along it, not across, where it would bleed and let go and keep the hand. The hand let go. The candle went down the stair ahead of him and went out. He went up past the man, who had sat down on the step holding his arm and had not yet started to make any noise about it. He was in the room and out of it with the letter inside his boot in the time it took the man to draw the breath.
+He had the man's hands. That was the whole of it. The man's right hand had the candle and the man's left hand came down for his collar, and Kael had already priced the stair, the drop, the door at the bottom, the two of the crew outside it, the rule. He had the rule before he had decided anything: not a body. He had never once had a rule arrive before the decision it was for; it arrived, and the knife came out of the left sleeve on its two turns of thread into his good hand, and he opened the inside of the man's forearm from wrist to elbow, along it, not across, where it would bleed and let go and keep the hand. The hand let go. 
+
+The candle went down the stair ahead of him and went out. He went up past the man, who had sat down on the step holding his arm and had not yet started to make any noise about it. He was in the room and out of it with the letter inside his boot in the time it took the man to draw the breath.
 
 Nobody in the house woke. The man on the stair had not shouted. He would not have been able to say afterward why he had not shouted, and Kael could have told him: because a thing that is done that fast to you does not feel like a thing yet.
 
