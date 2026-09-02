@@ -1,14 +1,14 @@
 # Chapter Fifty-Three — The Round
 
-They went up the river in the dark, before there was any light to go by, and Kael never saw Ishareth again.
+They went up the river in the dark, before there was any light to go by. Kael never saw Ishareth again.
 
-Three boats, low, with the coils in them and the people sitting on the coils. The bank stayed close on the left the whole way, where the water was slow, and the men on the sweeps worked it the way men work a thing they have done every week of their lives. Nobody spoke. Somewhere behind them, downstream, was the one building in that city the empire stood in, and they were going the other way from it, and they never passed it. It was the first leaving of his life that nobody had watched.
+Three boats, low, with the coils in them and the people sitting on the coils. The bank stayed close on the left the whole way, where the water was slow. The men on the sweeps worked it as men work a thing they have done every week of their lives. Nobody spoke. Somewhere behind them, downstream, was the one building in that city the empire stood in. They were going the other way from it. They never passed it. It was the first leaving of his life that nobody had watched.
 
-He had the count on the oars and let it run, and did nothing with it.
+He had the count on the oars. He let it run and did nothing with it.
 
-When the light came it came grey and then brown, and the city was gone behind a bend and the river was only a river. In the middle boat the woman with the basket sat with her back to the water and the two girls beside her, one either side, the way a woman sits with her daughters. Kael was in the last boat with hemp under his right hand and nothing under his left, and he could see the backs of their heads and nothing else, and it was the first time since the box that he could not have got to either of them in one movement.
+When the light came it came grey, then brown. The city was gone behind a bend and the river was only a river. In the middle boat the woman with the basket sat with her back to the water and the two girls beside her, one either side, the way a woman sits with her daughters. Kael was in the last boat with hemp under his right hand and nothing under his left. He could see the backs of their heads and nothing else. It was the first time since the box that he could not have got to either of them in one movement.
 
-They landed in the middle of the morning on a shelf of gravel where a track came down to the water. There were six mules on the track with a boy holding them, and nobody said whose they were. The coils went out of the boats and onto the mules, and the boats went back down the river with two men in them that Kael had not seen before and did not see again, and by the time the sun was overhead they were walking, with the river behind them and the sun going round onto their backs, eighteen people and six mules and a great deal of rope, and not one of them looked like anything.
+They landed in the middle of the morning on a shelf of gravel where a track came down to the water. There were six mules on the track with a boy holding them, and nobody said whose they were. The coils went out of the boats and onto the mules. The boats went back down the river with two men in them that Kael had not seen before and did not see again. By the time the sun was overhead they were walking, the river behind them, the sun coming round onto their backs: eighteen people, six mules, a great deal of rope, and not one of them looked like anything.
 
 ---
 
@@ -32,7 +32,7 @@ They ate all at once, out of the pot, and nobody counted anything onto anybody's
 
 Afterward the fires were built up a little, not much, and the crew came in round the middle one in the way people come in round a thing when they have done it before and know where they sit. Kael sat where a space was. The girls sat where the woman with the basket had put them, which was beside her, with the princess between the two of them and her sleeves down over her wrists.
 
-Borren sat down last. He had a cup in his hand, and he looked at the three of them across the fire the way he had looked at them in the doorway of the small room, as a load he had agreed to carry.
+Borren sat down last. He had a cup in his hand, and he looked at the three of them across the fire for about as long as he had looked at them in the doorway of the small room.
 
 "You know what they are paid," he said, to the crew and not to Kael. "You should know what they are called."
 
@@ -126,38 +126,38 @@ Kael did not look at the princess again. He did not have to. He had the set of h
 
 ---
 
-It went on round. A man of Ishareth who had lost a warehouse and said so in eleven words. One of the four who would not say anything at all and was not made to. The talker, who had a wife somewhere and did not say where, and made the circle laugh once, on purpose, so that it would not have to sit in the last thing for any longer. The laugh went round and came back and Kael sat inside it with his hands flat on his knees and let it pass over him, and nobody noticed him do it.
+It went on round. A man of Ishareth who had lost a warehouse and said so in eleven words. One of the four who would not say anything at all and was not made to. The talker, who had a wife somewhere and did not say where, and made the circle laugh once, on purpose, so that it would not have to sit in the last thing for any longer. The laugh went round and came back. Kael sat inside it with his hands flat on his knees and let it pass over him, and nobody noticed him do it.
 
 Then it was his turn, and the circle knew it was his turn without anybody saying so.
 
 "The island," Kael said.
 
-There was only one island anybody on that continent was talking about that year, and every face in the circle knew which one, and he watched every face in it know.
+There was only one island anybody on that continent was talking about that year. Every face in the circle knew which one, and he watched every face in it know.
 
-He did not say anything else. He had thought, on the river, about what he would say if it came to this, and he had had four versions of it ready, and when it came he found he did not have any of them. He had a name, and a place that was not there any more, and the two of them were the whole of what was true that could be said at a fire.
+He did not say anything else. He had thought, on the river, about what he would say if it came to this. He had had four versions of it ready. When it came he found he did not have any of them. He had a name, and a place that was not there any more, and those two were the whole of what was true that could be said at a fire.
 
 Nobody asked. Tirzah looked at him for about a second, the way she had looked at the hand, and then looked at the fire.
 
-Borren said nothing at all, for the whole of it. He had sat with his cup and listened to fifteen people tell three children where they had come from, and he had not told them anything, and Kael noticed that and put it where he put things.
+Borren said nothing at all, for the whole of it. He had sat with his cup and listened to fifteen people tell three children where they had come from. He had told them nothing. Kael noticed that.
 
 ---
 
-The tent was at the edge of the camp on the side away from the stream, and it was the woman with the basket who had put it there and who said, when the fire was being put down, that the three of them would be in it and nobody else. Nobody argued with her. Nobody had argued with her about anything all day.
+The tent was at the edge of the camp on the side away from the stream. The woman with the basket had put it there, and it was she who said, when the fire was being put down, that the three of them would be in it and nobody else. Nobody argued with her. Nobody had argued with her about anything all day.
 
-Valeria went in first and lay down across the door of it, which was where she was going to lie whatever anybody said. The princess went in past her. Kael came in last and lay down along the other wall with the sacking under his head and the iron in it, and the bag inside his coat, and the canvas a foot above his face.
+Valeria went in first and lay down across the door of it, which was where she was going to lie whatever anybody said. The princess went in past her. Kael came in last and lay down along the other wall, the sacking under his head with the iron in it, the bag inside his coat, the canvas a foot above his face.
 
-It was very dark. Outside the fires were down to nothing and the stream was going on being a stream.
+It was very dark. Outside, the fires were down to nothing. The stream went on being a stream.
 
 For a long time nobody said anything.
 
 "He did not name the house," Aeliana said.
 
-Her voice was very low, and it was not the voice she used for ruling things.
+Her voice was very low. It was not the voice she used for ruling things.
 
 "No," Kael said.
 
 "I know which one it was."
 
-She did not say any more than that, and he did not ask her, and Valeria, across the door, did not move.
+She did not say any more than that. He did not ask her. Valeria, across the door, did not move.
 
-After a while the watch changed outside. He heard it change, and had the number of it, and did not need the number for anything, and lay in the dark with his sister and his cousin breathing on either side of him until the count ran down on its own and stopped.
+After a while the watch changed outside. He heard it change and had the number of it, and did not need the number for anything. He lay in the dark with his sister and his cousin breathing on either side of him until the count ran down on its own and stopped.
