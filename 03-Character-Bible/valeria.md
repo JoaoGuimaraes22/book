@@ -1,5 +1,5 @@
 ## VALERIA VEL
-**Glance:** rival → first friend · Line of Vel (eleven generations — tiers in `../02-World-Bible/factions.md`) · 13 (Kael's age) · **inside the honest men, posted back where she is for — with the princess, in the camp, as its protection — by Kael's own terms, and nobody had to choose anything**
+**Glance:** rival → first friend · Line of Vel (eleven generations — tiers in `../02-World-Bible/factions.md`) · 13 (Kael's age) · **one day inside the honest men as *Tamar*, the sister — beside the princess in the boat and at the fire, and across the door of the tent, which is where she was going to lie whatever anybody said**
 
 ### STATIC
 - **Role:** Daughter of the Line of Vel. Kael's rival, then first friend. The rest of her role is in 00.
@@ -13,6 +13,8 @@
 - **Appearance:** Lean, strong, athletic — a working build that reads as function even at rest. Long black hair worn loose well past the shoulders, no ornament (lengthened s33 — the page moved with it, Ch. 14). Emerald green eyes — color spent at reading distance only; worn plain and bored as display (the boredom died against Kael). Her stillness WARNS — nothing like his. Knuckles older than her face; guard-lineage calluses. Rooms rearrange around the name before the girl; reverence draws her one untrained tell, the microscopic flinch — **SPENT at Ch. 27** (the s32 close DE-LISTED it: available, not owed).
 
 ### DYNAMIC
+- **SHE IS *TAMAR* NOW.** Said at the fire as one word and the end of the sentence; nothing else from her all night.
+- **SHE LAY ACROSS THE DOOR.** The tent is the trio's; she went in first and lay down across the door of it, *which was where she was going to lie whatever anybody said*, and did not move when the princess said *I know which one it was.*
 - **SHE GAVE THE COUNCIL ITS DOCTRINE AND ITS OBJECTION.** The rally rule in her own family register — *When a party is broken, you do not search for it. You go where the party was going … I was taught it before I was taught anything with an edge on it. You are early or you are late* — and then the one question with teeth, asked twice now: *If they say no, do they let us walk out.* She named the crew for the princess (*The honest men, they call them*) and did not argue the ruling.
 - **SHE TOLD THE PRINCESS SHE WOULD HAVE ARGUED HER INTO IT.** *"I would try, Highness."* — to *whatever would be my ruling, I'm sure she'd find a way to convince me eventually.* Said plainly, in front of Kael.
 - **SHE WALKED A CITY WITHOUT TURNING HER HEAD.** The not-a-three unmade her whole geometry: ahead of the princess, not waiting, never once looking back — and Kael, forty strides in front, read what the not-turning cost off the set of her shoulders.

@@ -1,5 +1,5 @@
 ## BORREN (the crew's leader)
-**Glance:** leader of the honest men (`../02-World-Bible/factions.md`) · no house — a soldier-worn given name, *given to me; I did not choose it* · past fifty · **carrying three children to Solvenna under his one rule, having named himself to the boy at the door and given him his first order**
+**Glance:** leader of the honest men (`../02-World-Bible/factions.md`) · no house — a soldier-worn given name, *given to me; I did not choose it* · past fifty · **one day out of Ishareth with eighteen people and six mules — he opened the round of names at the first fire and told no story of his own**
 
 ### STATIC
 - **Role:** leader of the fifteen; the trio's passage to Solvenna for thirteen months. Character Law applies; limit, wound and awkwardness are being built from the page and nothing here outruns it.
@@ -9,6 +9,8 @@
 - **Appearance:** past fifty, thin, grey, going bald from the front, close grey beard; **a plain oval of dark leather over the right eye on a cord that goes up under the hair** (author, s72) — the one member of the crew who can be described; the rest of the face *the sort you are given directions by*. Reference face: `../../08-Plates/prompts/portraits/crew-leader.md`.
 
 ### DYNAMIC
+- **HE OPENED THE ROUND AND TOLD NOTHING.** *"You know what they are paid … You should know what they are called"* — to the crew, and then he waited and let the boy do it himself. He sat with his cup through fifteen people's stories and gave none; Kael noticed.
+- **HIS CREW MOVES THE WAY HIS ROPE-WALK STOPPED.** Boats before light, a landing with mules nobody claims, tracks instead of the road, a camp that makes itself; fires dug down with stones on the back side, and everyone eating at once out of one pot. Tirzah decides where the trio sleeps and nobody argues.
 - **HIS NEVER-AGAIN STOOD ONE NIGHT AND HE PRICED THE FAILURE INSTEAD OF RESENTING IT.** *"It was true when I said it."* Three children walked his hidden place up to his door off a hooded count, and what he did was ask *how*, put six wasted turns on the table, be corrected to eight, and laugh.
 - **HE TOOK THEM, AND THE TERMS ARE HIS SHAPE.** Kael's hands for any work; the two girls with the camp; **the whole-share forfeit refused** — *a man on a job who is owed nothing is a man with nothing under his feet* — their bread out of the boy's share and the remainder the boy's, taken. He asked consent of all three, the princess last and straight at her, and **he looked at Valeria while she answered this time.** The standing up was the signature.
 - **HE NAMED THE PRICE THAT HURTS, AND OWNED HIS OWN HALF OF IT.** Thirteen months of obedience for a boy who has been the one deciding — *on my road, being right is not a rank* — with the admission made in the room: *some of those evenings I will be wrong. You will do it anyway.*

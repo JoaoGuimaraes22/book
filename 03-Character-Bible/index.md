@@ -25,4 +25,5 @@ Sheet structure (session 18 addendum): **Glance** line (Role · Faction · Age �
 - [HALDEN (the judge — the smiling man; introduced Ch. 13)](halden.md)
 - [HAZOUN SABRANE (the governor of Qeshet)](hazoun-sabrane.md)
 - [BORREN (the crew's leader)](borren.md)
+- [THE HONEST MEN — THE NAMED FIVE: TIRZAH · SELIS · ORAN · TALO · AMBROS](crew.md)
 - [APPEARANCE REGISTER (rules — entries live in each character sheet)](appearance-ledger.md)

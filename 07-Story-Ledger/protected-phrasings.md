@@ -658,3 +658,8 @@ Two classes are admitted that are not "good lines", and both are explicitly mark
 - *they call them the honest men*
 - *It was a trade. That was the honest word for it, and he made himself use it.*
 - *"I want to talk to somebody about the bridge-house."*
+- *"You know what they are paid … You should know what they are called."*
+- *the second leaving of his life that nobody had watched*
+- *because the sum did not have her in it*
+- *the only part of that house that is still standing up*
+- *"He did not name the house." / "No." / "I know which one it was."*
