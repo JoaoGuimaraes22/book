@@ -44,7 +44,7 @@ Tirzah taught him to walk like a seller, which was not the same as walking. A se
 
 "You walk like you are going somewhere," she said. "Sellers are not going anywhere. They are already there. Slower. No. That is a soldier being slow. Again."
 
-Ambros taught him the voice. Not a new one: the same Koine he had been given at his mother's table, worn down until it had a town in it. The empire's tongue as it was spoken forty miles north of the capital by a man who wanted to sell you something and had sold it to better men than you. Kael had four languages and had never once thought about where in a mouth a word sat. Ambros made him say the same nine words for an hour beside a fire, the steward's face doing nothing, until the *r* had gone to the back of his throat and stayed there.
+Ambros taught him the voice. Not a new one: the same Koine he had been given at his mother's table, worn down until it had a town in it. The empire's tongue as it was spoken forty miles north of the capital by a man who wanted to sell you something and had sold it to better men than you. Kael had five languages and had never once thought about where in a mouth a word sat. Ambros made him say the same nine words for an hour beside a fire, the steward's face doing nothing, until the *r* had gone to the back of his throat and stayed there.
 
 "Now say where you are from."
 
@@ -180,8 +180,7 @@ Drops: a thing left under a particular stone at a particular hour, a thing taken
 
 Then it was not small.
 
-There was a shipment: he never learned of what, only that it went in four crates and that the crates had a lord's mark on them and a man riding with them who carried the lord's paper. The crew did not take it on the road. 
-They took it at the inn, on the second night, out of the yard, by the front gate, at first light, on a cart with the lord's own mark chalked on the crates and Ambros on the box with a paper in his coat that had a seal on it as good as the lord's, because it had been made off the lord's, off wax that a drunk had let a boy sit next to. The man on the gate held it for them. 
+There was a shipment: he never learned of what, only that it went in four crates and that the crates had a lord's mark on them and a man riding with them who carried the lord's paper. The crew did not take it on the road. They took it at the inn, on the second night, out of the yard, by the front gate, at first light, on a cart with the lord's own mark chalked on the crates and Ambros on the box with a paper in his coat that had a seal on it as good as the lord's, because it had been made off the lord's, off wax that a drunk had let a boy sit next to. The man on the gate held it for them. 
 
 Kael sat on the back of the cart with his feet hanging and the count on the window of the inn where the man with the real paper was still asleep, and they went out of a yard in daylight past a man who was helping them, and he understood the joke about the honest men in the whole of his body, and did not laugh.
 
