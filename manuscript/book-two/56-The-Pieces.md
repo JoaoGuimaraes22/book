@@ -54,6 +54,8 @@ Talo had a blanket, and on the blanket were the things he had spent the winter m
 
 He stood over the blanket for a while.
 
+The herb he had tested on the second night, because a thing his mother had told him at eight was a thing he had never once seen do what she said. A closed tent, one piece on a dish of coals, and himself inside it with the count running and Borren outside with the flap in his hand. He got to four hundred and forty and did not remember the rest. He came round in the open air with his head on a saddle and Borren sitting on the ground beside him, which Borren did not do, and the man was laughing. Not the way he had laughed at the rope-walk. Quietly, and for a long time, with a hand over the one eye. He said, when he could, that in a long life in the trade he had seen a great many men poisoned and never once a man who had done it to himself on purpose to see whether it worked, and that he would like it known that the answer was yes. Kael asked what number he had been on. Borren laughed again.
+
 Ambros wrote.
 
 He sat at the fire with a board across his knees and paper on the board, and wrote, in a hand that did not hurry, and dried it, and folded it. He had done it in Ishareth. He had done it in the winter house, every night, at the table, after the gate was shut. Kael had been a steward's boy for four months and had never once asked what a steward wrote.
@@ -76,7 +78,15 @@ On the third night Borren sat down at the fire and looked across it at him.
 
 He gave it in order, short, the way he had been told to give things. He had built it on his father's ground and then taken the bodies out, and it had taken him two days.
 
-"The escort comes in five days. Three wagons, thirty-eight chests, twenty-four men out of the tax-house and whatever the escort brings. They go west by the river road. The first night they are at the ford eleven miles down, because a wagon does not do more than eleven miles on that road and there is nowhere else to water three teams. They will camp on the near side of the ford, because the far side is a bank. The smoke goes into their fires after dark. I have a plant that will do it. They sleep. We take the wagons across the ford at first light and we are on a track the far side before anybody on the near side can stand up, and nobody is dead, and there is nothing for anybody to remember."
+"The escort comes in five days. Three wagons, thirty-eight chests, twenty-four men out of the tax-house and whatever the escort brings. They go west by the river road. The first night they are at the ford eleven miles down, because a wagon does not do more than eleven miles on that road and there is nowhere else to water three teams. They will camp on the near side of the ford, because the far side is a bank. I have a herb that puts men to sleep when it smokes."
+
+"It is true," Borren said, to the fire. "I have seen him test it with my own eyes."
+
+"We would have it in their fires."
+
+"How."
+
+"The halt has a woodpile. Every halt on a road has one. They get there at dusk and burn what is there before they cut their own. I put it in the pile in the afternoon, at the bottom, and they build their fires on top of it. They sleep. We take the wagons across the ford at first light and we are on a track the far side before anybody on the near side can stand up, and nobody is dead, and there is nothing for anybody to remember."
 
 Borren said nothing for a while.
 
