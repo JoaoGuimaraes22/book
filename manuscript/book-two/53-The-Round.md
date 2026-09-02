@@ -2,11 +2,9 @@
 
 They went up the river in the dark, before there was any light to go by. Kael never saw Ishareth again.
 
-Three boats, low, with the coils in them and the people sitting on the coils. The bank stayed close on the left the whole way, where the water was slow. The men on the sweeps worked it as men work a thing they have done every week of their lives. Nobody spoke. Somewhere behind them, downstream, was the one building in that city the empire stood in. They were going the other way from it. They never passed it. It was the first leaving of his life that nobody had watched.
+Three boats, low, with the coils in them and the people sitting on the coils. The bank stayed close on the left the whole way, where the water was slow. The men on the sweeps worked it as men work a thing they have done every week of their lives. Nobody spoke. Somewhere behind them, downstream, was the one building in that city the empire stood in. They were going the other way from it. They never passed it. It was the second leaving of his life that nobody had watched.
 
-He had the count on the oars. He let it run and did nothing with it.
-
-When the light came it came grey, then brown. The city was gone behind a bend and the river was only a river. In the middle boat the woman with the basket sat with her back to the water and the two girls beside her, one either side, the way a woman sits with her daughters. Kael was in the last boat with hemp under his right hand and nothing under his left. He could see the backs of their heads and nothing else. It was the first time since the box that he could not have got to either of them in one movement.
+When the light came it came grey, then brown. The city was gone behind a bend and the river was only a river. In the middle boat the woman with the basket sat with her back to the water and the two girls beside her, one either side, the way a woman sits with her daughters. Kael was in the last boat with hemp under his right hand and nothing under his left. He could see the backs of their heads and nothing else.
 
 They landed in the middle of the morning on a shelf of gravel where a track came down to the water. There were six mules on the track with a boy holding them, and nobody said whose they were. The coils went out of the boats and onto the mules. The boats went back down the river with two men in them that Kael had not seen before and did not see again. By the time the sun was overhead they were walking, the river behind them, the sun coming round onto their backs: eighteen people, six mules, a great deal of rope, and not one of them looked like anything.
 
@@ -16,7 +14,7 @@ They walked until the light went, off the road, on tracks that went where the ro
 
 That was the whole of the first day, and he could have told anybody the number of strides in it.
 
-The camp was made on a flat above a stream in a fold of ground that could not be seen from anywhere a man would be standing, and it was made the way the rope-walk had stopped: one pair of hands at a time, without anybody telling anybody anything. The mules went to the water and then to a line. Canvas came off one of them and was up before he had worked out which of the crew had carried it. Three fires, and all three of them small, dug down into the ground, with the flat stones stood round them on the side that faced the way they had come. He had grown up with that rule. He had never once seen anybody else keep it.
+The camp was made on a flat above a stream in a fold of ground that could not be seen from anywhere a man would be standing: one pair of hands at a time, without anybody telling anybody anything. The mules went to the water and then to a line. Canvas came off one of them and was up before he had worked out which of the crew had carried it. Three fires, and all three of them small, dug down into the ground, with the flat stones stood round them on the side that faced the way they had come. He had grown up with that rule. He had never once seen anybody else keep it.
 
 He stood with his hands at his sides for about the length of a breath, because there was nothing in front of him that he had been told to do.
 
@@ -34,19 +32,19 @@ Afterward the fires were built up a little, not much, and the crew came in round
 
 Borren sat down last. He had a cup in his hand, and he looked at the three of them across the fire for about as long as he had looked at them in the doorway of the small room.
 
-"You know what they are paid," he said, to the crew and not to Kael. "You should know what they are called."
+"You know what they are paid," he said, to the crew. "You should know what they are called."
 
 Then he waited, and the whole circle waited with him, and Kael understood that it was not a thing that was going to be done for him.
 
 "Kael," he said.
 
-Nothing after it. There was nothing after it in that city and there was nothing after it here, and the one full name he had ever owned was in a letter four hundred miles west and was not going to be said at a fire.
+Nothing after it.
 
-Nobody asked for more. He watched the whole circle not ask, one face at a time, and it was the same not-asking the man from the rope-walk had done with his two questions in the small room. They had all learned it from somewhere and it had not been from him.
+Nobody asked for more. He watched the whole circle not ask, one face at a time, and it was the same not-asking the man from the rope-walk had done with his two questions in the small room.
 
 "Tamar," Valeria said.
 
-She said it the way she had said *Valeria Vel* to a governor's clerk, as two syllables that were true and were the end of the sentence. The two of them had had the names off him in the room over the mule yard, plain ones off the coast, and had not needed them until now. The princess said the other one.
+The two of them had had the names off him in the room over the mule yard, plain ones off the coast, and had not needed them until now. The princess said the other one.
 
 "Adah."
 
@@ -60,23 +58,23 @@ It went round after that. He had not known that it would. Nobody said that it wa
 
 The woman with the basket went first because she was nearest the pot.
 
-"Tirzah," she said. "Of the coast. West of Qeshet, three days, a town you have not heard of and I am not going to say. I had a stall in the market there. Cloth, and thread, and the things people want with thread." She had the basket between her feet and she put a hand on it while she talked, without seeming to know she was doing it. "The governor's son took a thing off my stall one morning and did not pay for it, and my husband went after him to be paid. He was paid. The watch had him at the gate by the middle of the day, and he was hanging from it by the evening, and the thing the son took was a length of blue ribbon that I would have given him for nothing if he had asked."
+"Tirzah," she said. "Of the coast. Three days west of Qeshet. I had a stall in the market there. Cloth, and thread, and the things people want with thread." She had the basket between her feet and she put a hand on it while she talked, without seeming to know she was doing it. "The governor's son took a thing off my stall one morning and did not pay for it, and my husband went after him to be paid. He was paid. The watch had him at the gate by the middle of the day, and he was hanging from it by the evening, and the thing the son took was a length of blue ribbon that I would have given him for nothing if he had asked."
 
 The fire moved. Nobody said anything.
 
 "That is the basket off my stall," Tirzah said. "It is what there was of it that I could carry."
 
-She said it in the empire's tongue with the whole coast under it, and Kael heard the town in it and could have named the town, and did not.
+She said it in the empire's tongue with the coast under it.
 
 ---
 
 "Selis."
 
-The girl who said it was the youngest of them after the three, eighteen perhaps, thin, with her hair cut off short at the jaw the way it is cut when there has been something in it, and she said the name to the fire and not to anybody.
+The girl who said it was the youngest of them after the three, eighteen perhaps, thin, with her hair cut off short at the jaw the way and she said the name to the fire and not to anybody.
 
 "Of Ammareth."
 
-Kael had heard the word said in a Temple corridor by a boy who had just told him that a city was a prize, and he had asked who lived in it, and three children of the empire had looked at him as though he had asked what colour a number was.
+Kael had heard the word said in a Temple corridor by a boy.
 
 "The empire took the top off it two years ago," Selis said. "That is how it was said to us afterward, by the men who came. That the old top was gone and a new one was put on and nothing else needed to change. And for most of the city nothing did. The wells were where they had been. The market was where it had been." She turned a stick over in the edge of the fire. "My father had carried the old lord's cup. That was his whole work. He carried a cup into a room and out of it, for thirty years. When the new top went on, the men came to every house where anybody had carried anything for the old one, because a man who has carried a cup might carry something else. That was how it was said to us. That was the sentence."
 
@@ -112,7 +110,7 @@ The man of sixty had not said anything yet. He was sitting with his coat on, and
 
 "Ambros," he said.
 
-It was the empire's tongue as it is spoken in the empire, with nothing under it at all. Kael had heard it in one mouth before, at a governor's table, and the man who spoke it there had been a princess's clerk.
+It was the empire's tongue as it is spoken in the empire.
 
 "Of the capital, and then of a house forty miles north of it, and then of nowhere. I kept a house. Forty-one years. I was the steward of it, which means that everything that came into it or went out of it passed under my hand and I wrote it down, and I was very good, and the house was very old." He turned the cup in his hands. "It had land. The land was the difficulty. A cousin of the Emperor wanted the land, and had wanted it for some years, and had asked for it in the way that such people ask, which is by being told no and waiting."
 
@@ -144,7 +142,7 @@ Borren said nothing at all, for the whole of it. He had sat with his cup and lis
 
 The tent was at the edge of the camp on the side away from the stream. The woman with the basket had put it there, and it was she who said, when the fire was being put down, that the three of them would be in it and nobody else. Nobody argued with her. Nobody had argued with her about anything all day.
 
-Valeria went in first and lay down across the door of it, which was where she was going to lie whatever anybody said. The princess went in past her. Kael came in last and lay down along the other wall, the sacking under his head with the iron in it, the bag inside his coat, the canvas a foot above his face.
+Valeria went in first and lay down across the door of it, which was where she was going to lie whatever anybody said. The princess went in past her. Kael came in last and lay down along the other wall.
 
 It was very dark. Outside, the fires were down to nothing. The stream went on being a stream.
 
