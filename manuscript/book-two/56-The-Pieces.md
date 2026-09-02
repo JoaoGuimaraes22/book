@@ -72,9 +72,9 @@ Ambros finished the line.
 
 He had the shape by the third night, and he brought it, because he had been told to.
 
-They sat away from the fire, on the slope, where the town's few lights showed in the valley the way lights do when it is late and the people under them are ordinary. He gave it in order, short, the way he had been told to give things. He had built it on his father's ground and then taken the bodies out, and it had taken him two days.
+They sat away from the fire, on the slope, where the town's few lights showed in the valley. He gave it in order, short, the way he had been told to give things. He had built it on his father's ground and then taken the bodies out, and it had taken him two days.
 
-"The escort comes in five days. Three wagons, thirty-eight chests, twenty-four men out of the tax-house and whatever the escort brings. They go west by the river road. The first night they are at the ford eleven miles down, because a wagon does not do more than eleven miles on that road and there is nowhere else to water three teams. They will camp on the near side of the ford, because the far side is a bank. The smoke goes into their fires after dark. I have a plant that will do it. They sleep. We take the wagons across the ford at first light and we are on a track the far side before anybody on the near side can stand up, and nobody is dead, and they cannot say what happened to them because a thing that is done that fast to you does not feel like a thing yet."
+"The escort comes in five days. Three wagons, thirty-eight chests, twenty-four men out of the tax-house and whatever the escort brings. They go west by the river road. The first night they are at the ford eleven miles down, because a wagon does not do more than eleven miles on that road and there is nowhere else to water three teams. They will camp on the near side of the ford, because the far side is a bank. The smoke goes into their fires after dark. I have a plant that will do it. They sleep. We take the wagons across the ford at first light and we are on a track the far side before anybody on the near side can stand up, and nobody is dead, and there is nothing for anybody to remember."
 
 Borren said nothing for a while.
 
@@ -116,7 +116,7 @@ Borren waited.
 
 "The boy who carries the wood."
 
-It came out of him before he had finished having it, the way the rule had come on the stair. A boy went into that room twice a day with wood and came out without it. A boy went in with wood the afternoon of the change and one of the pieces in his arms was not wood, and it went on the fire at the bottom where it would burn slow, and the room shut its door against the evening the way it did every evening, and eighteen men breathed it for two hours in a room built for twelve.
+It came out of him before he had finished having it. A boy went into that room twice a day with wood and came out without it. A boy went in with wood the afternoon of the change and one of the pieces in his arms was not wood, and it went on the fire at the bottom where it would burn slow, and the room shut its door against the evening, and eighteen men breathed it for two hours in a room built for twelve.
 
 "Then say what it does," Borren said. "Say it exactly."
 
@@ -132,11 +132,11 @@ It came out of him before he had finished having it, the way the rule had come o
 
 He carried wood into the tax-house yard the next afternoon behind a man of the town whose back was bad, who had been paid to have a bad back, and who did not know he had been.
 
-The gate on the lane opened to a boy with wood because a boy with wood is the shape of the gate opening. He was bored at the soldier in the voice with a town in it and the soldier was bored back. He went across the yard with the load on his good shoulder and his left arm holding the bottom of it the way it could hold things, by weight, and his eyes on the ground, because a boy with wood looks at the ground, and had the yard in the first four strides. The wagons, three, under a shed roof against the far wall, wheels off two of them and a man with grease. The tax-house's back door, shut, with a stair going up outside it to a door above, which was the tax-master's, because it had a window with a curtain in it. A low door beside the back door with no window and no step, which was the only door in that yard that went down and not up.
+The gate on the lane opened to a boy with wood because a boy with wood is the shape of the gate opening. He was bored at the soldier in the voice with a town in it and the soldier was bored back. He went across the yard with the load on his good shoulder and his left arm under the bottom of it, and his eyes on the ground, because a boy with wood looks at the ground, and had the yard in the first four strides. The wagons, three, under a shed roof against the far wall, wheels off two of them and a man with grease. The tax-house's back door, shut, with a stair going up outside it to a door above, which was the tax-master's, because it had a window with a curtain in it. A low door beside the back door with no window and no step, which was the only door in that yard that went down and not up.
 
 The long room.
 
-He went in through its door with his eyes on the floor and had it anyway. Nine strides by seven. A hearth at the far end, big, brick, the fire in it low and red the way it is kept when men will be in and out. Six pallets along each wall and the space between, and a table, and eleven men in it at that hour, three asleep, the rest doing what soldiers do in a room, which is nothing carefully. A window. One, high, on the yard side, with a shutter, and the shutter open a hand. He put the wood down by the hearth, piece by piece, the way a boy does who has been told to stack it, and put his hand on the brick of the hearth as he straightened and felt what the brick had in it, and looked at the ceiling once, because a ceiling that is low keeps smoke and a ceiling that is high loses it, and it was low.
+He went in through its door with his eyes on the floor and had it anyway. Nine strides by seven. A hearth at the far end, big, brick, the fire in it low and red. Six pallets along each wall and the space between, and a table, and eleven men in it at that hour, three asleep, the rest doing what soldiers do in a room, which is nothing carefully. A window. One, high, on the yard side, with a shutter, and the shutter open a hand. He put the wood down by the hearth, piece by piece, the way a boy does who has been told to stack it, and put his hand on the brick of the hearth as he straightened and felt what the brick had in it, and looked at the ceiling once, because a ceiling that is low keeps smoke and a ceiling that is high loses it, and it was low.
 
 "Go on, then," a soldier said, in the Koine, not unkindly, and Kael went.
 
@@ -144,9 +144,9 @@ He had the whole of it. He had it by the time he was through the door: nine by s
 
 He walked out of the yard across the square and did not look at the tax-house door and did not look up at the leaves, and had the sum by the time he was across the square, and did not like it.
 
-One piece was not enough for a room that size. Three was too many if the shutter got closed. He could not put it into the room and then stand outside the room and know which way the shutter had gone. He could give it a margin, and the margin was either a room of men who woke up in the night and shouted, or a room of men who did not wake up, and he did not know which side of that he was allowed to be wrong on, and then he did know, because it was the first rule and nobody had said it. Not a body. Nobody in that building. He would have to be wrong on the side of men waking.
+One piece was not enough for a room that size. Three was too many if the shutter got closed. He could not put it into the room and then stand outside the room and know which way the shutter had gone. He could give it a margin, and the margin was either a room of men who woke up in the night and shouted, or a room of men who did not wake up, and he did not know which side of that he was allowed to be wrong on, and then he did know. Not a body. Nobody in that building. He would have to be wrong on the side of men waking.
 
-He stopped at the well in the square and drank, because a boy who has carried wood drinks. Round him the town went about the end of its afternoon. A woman shook a cloth out of a window. Two men were arguing about a horse, and the horse stood between them and was not interested. The bell went four, and the change came out of the long room, and the tax-house door got its two new men, and none of them knew that a boy at the well had just counted the room they slept in and decided how much of it he was allowed to put to sleep. None of them knew what was going to come up the valley before those leaves were off. He did. He stood with the cup in his good hand and looked for the thing that should have been there, in him, about that, and found the count. Twenty-four. Six out. A boy with wood. The count was not a feeling. It was there instead of one, and it had been for a long time now, and he put the cup back on its hook and walked out of the town by the east gate, slowly, the way a seller walks, who is already there.
+He stopped at the well in the square and drank, because a boy who has carried wood drinks. Round him the town went about the end of its afternoon. A woman shook a cloth out of a window. Two men were arguing about a horse, and the horse stood between them and was not interested. The bell went four, and the change came out of the long room, and the tax-house door got its two new men, and none of them knew that a boy at the well had just counted the room they slept in and decided how much of it he was allowed to put to sleep. None of them knew what was going to come up the valley before those leaves were off. He did. He stood with the cup in his good hand and looked for the thing that should have been there, in him, about that, and found the count. Twenty-four. Six out. A boy with wood. He put the cup back on its hook and walked out of the town by the east gate, slowly, the way a seller walks.
 
 ---
 
@@ -176,7 +176,7 @@ Borren looked at it for a long time.
 
 "For the one who keeps his hand empty," Kael said.
 
-He did not say what it was. He did not have to, because a man who had watched him for two days in Ishareth had found out most of what he could not be seen for and had done him the courtesy of not saying it in a street, and the iron said the rest. Borren did not touch it. He looked at it, and then at the boy, and then back at the iron, and the thing that went across his face was not a thing Kael could price and he did not try to.
+He did not say what it was. He did not have to, because a man who had watched him for two days in Ishareth had found out most of what he could not be seen for and had done him the courtesy of not saying it in a street, and the iron said the rest. Borren did not touch it. He looked at it, and then at the boy, and then back at the iron, and something went across his face and was gone.
 
 "Where did you get those," Borren said, and it was not a question, it was the thing he said instead of one, and he said it very quietly.
 
@@ -206,17 +206,17 @@ He looked at the stick.
 
 "Since the island."
 
-"Since the island." She stepped back three strides, onto the flat, and stood the way she stood, which was the way a thing stands that has been put somewhere. "You are going into a building tomorrow with twenty-four men in it and one hand, and nobody in this camp has put you on your back since the spring of last year, and I would like to know what I am sending. Pick it up."
+She stepped back three strides, onto the flat, and waited. "You are going into a building tomorrow with twenty-four men in it and one hand, and nobody in this camp has put you on your back since the spring of last year, and I would like to know what I am sending. Pick it up."
 
 He picked it up.
 
 The crew were at the fire above them and did not come to the lip. Some of them could see. He did not look to find out which.
 
-She came in the way she had come in on the island, which was all at once, and he was not where she came, because that was the one thing his body still did without asking him. Half a step, the weight going the wrong way for what she had priced, the stick already past. He had it. He had the whole of the first exchange the way he had used to have it, her line and his and the place where they did not meet, and it was clean, and it was the only clean thing he did.
+She came in the way she had come in on the island, which was all at once, and he was not where she came, because that was the one thing his body still did without asking him. Half a step, the weight going the wrong way for what she had priced, the stick already past. He had it. He had the whole of the first exchange as he had used to have it, her line and his and the place where they did not meet, and it was clean, and it was the only clean thing he did.
 
 The second exchange she went for the left.
 
-Not the hand. The side. A stick is not a blade and she was not trying to hit him, she was trying to make him do the thing that a body does when a blow comes at its weak side, which is to put the weak hand up. He put it up. It went up the way it went up now, late, and it closed on nothing, and she was already on the far side of it with the stick laid across the back of his neck, lightly, the way you lay a hand on a horse.
+Not the hand. The side. A stick is not a blade and she was not trying to hit him, she was trying to make him do the thing that a body does when a blow comes at its weak side, which is to put the weak hand up. He put it up. It went up late, and closed on nothing, and she was already on the far side of it with the stick laid across the back of his neck, lightly, the way you lay a hand on a horse.
 
 "That," she said. "You bind with the left. You have always bound with the left, because you keep the right free to do the thing you do. You cannot bind. Everything you did with two hands you now do with your feet, and your feet are good, and they are slower than your hands were. A man with a sword will not know it. A man who has watched you for a year will." She took the stick off his neck. "Again."
 
@@ -270,7 +270,7 @@ She thought about that.
 
 "Does she know you know it? Your mother. That you have it and what you are using it on."
 
-"She knows I have it." He put his good hand flat on the mule's neck, because it wanted something to do. "She taught me so there would be nowhere on this continent I could not go. She did not say what I would do when I got there. I do not think she thought that far. I think she thought that was mine."
+"She knows I have it." He put his good hand flat on the mule's neck. "She taught me so there would be nowhere on this continent I could not go. She did not say what I would do when I got there. I do not think she thought that far. I think she thought that was mine."
 
 "Is it?"
 
@@ -300,4 +300,4 @@ Borren came down the line of them and stopped at him.
 
 "Good," Borren said, and it was the second time, and then he said the name of the town, once, quietly, so that Kael would have it on the day, and Kael took it, and knew already that he would not keep it.
 
-They went down out of the fold in the last of the light, in a line, not close together, the way people go down to a town who have business in it. Below them the valley was going blue and the town's lamps were coming on in it, one and then another, the way they come on in a place where nobody is afraid. He had the wood on his good shoulder and the left arm under it, holding by weight. He had been told, when he was four years old, in the first sentence he could remember being told anything, never to go toward those lights. He went toward them.
+They went down out of the fold in the last of the light, in a line, not close together, the way people go down to a town who have business in it. Below them the valley was going blue and the town's lamps were coming on in it, one and then another, the way they come on in a place where nobody is afraid. He had the wood on his good shoulder and the left arm under it, holding by weight. He had been told, at four years old, never to go toward those lights. He went toward them.
