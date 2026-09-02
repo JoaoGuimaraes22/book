@@ -38,7 +38,7 @@ Kael looked at the princess's eyes.
 
 "I feel as if you are suggesting we join some thieves?" responded Aeliana.
 
-"The *honest men*, they call them." Valeria said.
+"The *honest men*, they call them," Valeria said.
 
 "These people are more than simple thieves Aeliana."
 
