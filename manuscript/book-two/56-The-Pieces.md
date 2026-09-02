@@ -110,7 +110,7 @@ Kael looked at the fire, where Tirzah's needle went in and out of the empire's w
 
 "They come a day early. The escort's advance. Nine men and an officer out of the capital sent ahead to see the road and count the chests, because that is what an escort does, and the paper says so, because the paper was written to say so." Borren looked at him with the one eye. "You had that. Say the rest."
 
-"You go in at the night change. Full dark. The six going off are tired and the six coming on are not awake. You take the yard gate on the paper. The officer comes out to look at you because he comes out for everything. Ambros talks to him in the voice." He stopped. "Then you are in the yard with twenty-four men and an officer who can burn the building, and I do not know what you do."
+"You go in at the night change. Full dark. The six going off are tired and the six coming on are not awake. You take the yard gate on the paper. The officer comes out to look at you because he comes out for everything. Ambros talks to him." He stopped. "Then you are in the yard with twenty-four men and an officer who can burn the building, and I do not know what you do."
 
 "No," Borren said. "You do not. Go on."
 
@@ -150,7 +150,7 @@ The long room.
 
 He went in through its door with his eyes on the floor and had it anyway. Nine strides by seven. A hearth at the far end, big, brick, the fire in it low and red. Six pallets along each wall and the space between, and a table, and eleven men in it at that hour, three asleep, the rest doing what soldiers do in a room, which is nothing carefully. A window. One, high, on the yard side, with a shutter, and the shutter open a hand. He put the wood down by the hearth, piece by piece, the way a boy does who has been told to stack it, and put his hand on the brick of the hearth as he straightened and felt what the brick had in it, and looked at the ceiling once, because a ceiling that is low keeps smoke and a ceiling that is high loses it, and it was low.
 
-"Go on, then," a soldier said, in the Koine, not unkindly, and Kael went.
+"Go on, then," a soldier said, in the Koine, and Kael went.
 
 He had the whole of it. He had it by the time he was through the door: nine by seven, low, one window with the shutter open a hand, a hearth that would take three of his pieces at the bottom under the others and burn them for two hours without anybody seeing that the wood was wrong, and eighteen men breathing it with the door shut, and the door would be shut, because the evening was cold in the valley and men shut doors.
 
@@ -176,7 +176,15 @@ He stopped at the well in the square and drank, because a boy who has carried wo
 
 "No."
 
-"I do not either," Borren said. "I have never once in my life stood in a yard with a man who could burn the building. I have gone round them. I cannot go round this one, because he comes out for everything, and he will come out for me. Ambros will talk to him, and the voice will hold him for as long as the voice holds a man, and then he will want to see the chests counted, and he will want to see it in the cellar with a lamp, and he will go down that stair with the tax-master's key on his belt and Ambros at his shoulder, because that is what an officer of the capital does, and at the bottom of that stair there is a door with two locks and he has the second key and we have the first." He turned the stone over. "And at the bottom of that stair, in the dark, with the door open and the coin in front of him, is where he has to stop being a man who can burn a building, and I do not know how that is done. I know how it is done to a man. I do not know how it is done to that."
+"I do not either," Borren said. "I will tell you the whole of it, since you are the one who saw his hand. I have never once in my life stood in a yard with a Resonant in it. I have gone round them. A man of the trade goes round them the way a mule goes round a hole, because a Resonant is not a man with a sword. A man with a sword you take by the hands and the mouth and he is nothing. A Resonant does not need his hands. He needs a breath. If that officer is what you say he is, and he is a fire, and he gets one breath in a cellar full of the Emperor's coin with eight of my people in it and one door out, then it is not a job that went wrong, it is eight people who do not come back up the stair, and the whole of that yard awake, and a description of every face that walked in at the gate going west with the escort. That is what he is. He is the only thing in that building I cannot price."
+
+He looked at the town.
+
+"And I cannot go round him, because he comes out for everything, and he will come out for me. So here is what has to happen. Ambros talks to him at the gate in the capital's voice, and the voice holds him for as long as a voice holds a man. Then he does what an officer does when the escort's advance is standing in his yard: he wants the chests counted, in the cellar, by lamp, in front of the capital's man, so that nobody can say afterward the count was wrong. He goes down that stair himself. He takes Ambros with him, and the boy with the lamp, and the man who is going to count. There is a door at the bottom with two locks and two keys. We have the tax-master's. It was three months getting it. The other one lives on that officer's belt, and he will put it in the lock with his own hand and turn it, because he is showing the capital its money. That is the whole reason we go in the front. He opens the one door we could not open."
+
+He was quiet a moment.
+
+"And at the bottom of that stair, in the dark, with the door open and the coin in front of him, and four of my people in a stone room with him, is where he has to stop being a Resonant. Before the breath. I know how that is done to a man. I do not know how it is done to that. I have sat on this since the winter and I have every piece of it but that one, and I was going to go down the stair without it, and see what happened."
 
 Kael sat with it.
 
@@ -196,7 +204,7 @@ He did not say what it was. He did not have to, because a man who had watched hi
 
 Nothing. The fire. Tirzah's needle.
 
-"That is the one piece I had not got," Borren said at last. "I have been sitting on this since the winter and that is the one piece I had not got, and I was going to go down that stair without it and see what happened." He picked the chain up, and weighed it, and put it down. "I will not ask you why you carried it."
+"That is the piece," Borren said at last. He picked the chain up, and weighed it, and put it down. "I will not ask you why you carried it."
 
 "I did not know why."
 
