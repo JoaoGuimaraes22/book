@@ -1,0 +1,153 @@
+# Chapter Fifty-Eight — The Feast
+
+They did not move that day.
+
+Borren looked at the wagons over the lip and looked at the sun and said, "We rest the animals," which was not a thing he had ever said, and Kael understood without being told that it was not the animals. It was that a man cannot ask fifteen people to walk six years of a province up out of a valley in the dark and then walk them all day as well. It was that there had to be, once, a place you got to.
+
+So they got to it.
+
+The wagons came in under the trees at the top of the fold and the canvas came off and there it was, in the flat light, thirty chests, iron-strapped, the Emperor's mark on every one, and for a while nobody said anything at all, because there is a size of thing that takes the words out of a person. Then Oran laughed. He put his hand flat on the top of a chest, the way you put your hand on an animal to be sure it is real, and he laughed, once, and said something in Avestan to his brother, and Talo, who did not talk, looked at the chests and then looked at his brother and his face came open in a way Kael had not seen a face do in a long time.
+
+"Count it," Borren said. To Kael. "Not the coin. The chests. Say the number out loud so they hear a boy say it."
+
+"Thirty," Kael said.
+
+"Thirty," Borren said, to the crew, "is enough."
+
+---
+
+Ambros kept the count that mattered, because that was Ambros. He sat on a chest with the board across his knees and wrote, and the crew came past him one at a time, and he entered a share against each name in a hand that did not hurry, and it meant nothing yet and it meant everything, because a man who is owed a share of that is a man who is going to be somewhere, after, and doing something, and there had never once in any of their lives been an after with a thing that size in it.
+
+Kael watched him write. The coat buttoned to the throat, the blue at the collar sitting exactly where the princess had put it, the pen going in the even hand. *Everything. What came in and what went out.* He had a strange half-thought, watching, that he could not finish and did not try to, about a man who wrote everything down and nobody ever read it, and then Tirzah put a cup in his hand, warm, and the half-thought went where the others went.
+
+"Drink it," she said. "You have not sat down since yesterday."
+
+"I do not—"
+
+"It is not a question, is it," she said, and sat down beside him with her basket between her feet, and he drank it.
+
+---
+
+There was a fire that night, bigger than the rule, and nobody dug it down.
+
+That was the thing that told him, more than the resting or the sitting or the cup: the fire was on the ground and not in a pit, and the stones were not on the side they had come from, they were all round it, the way you build a fire for people and not the way you build a fire to be unseen. Borren had let it be built that way. Kael sat on the far side of it and looked at the flames going up into the dark, high, the way he had been told his whole life a fire must never go, and could not decide whether the thing in his chest was fear or the other thing, the thing he did not have a word for, that a fire like that was for.
+
+They ate out of the one pot and nobody counted anything onto anybody's plate. Selis, who was eighteen and did not laugh, laughed at something one of the four of Ishareth said, and put her hand over her mouth the way the princess did. The warehouse man, who had said four words in Kael's hearing in his whole life, told a story about a warehouse, his own, the one the empire had cost him, and it was a funny story, which Kael had not known a warehouse could be, and the crew laughed at the parts that were funny and did not at the part that was not, and the man got to the end of it and drank, and somebody put a hand on his shoulder.
+
+The princess sat between Tirzah and Selis with her sleeves down and her face brown in the firelight and laughed, properly, more than once, and did not put her hand over it, and Kael watched her do it and thought that he had never once seen her do it before this crew and would not see her do it after, because at Solvenna she would be somebody who did not, and here, for one night, on a chest full of her father's money, she was a girl called Adah at a fire, laughing.
+
+Valeria lay along the outside of it, on her back, with the sword along her leg. She did not laugh. But once, when the princess did, Kael saw Valeria turn her head and look at the girl laughing, and hold it a moment, and turn back to the dark, and that was Valeria laughing.
+
+And Borren watched Tirzah.
+
+Kael had the count on everything, because he could not not have it, and so he had it on that too, and he wished afterward that he had not. Borren sat with his cup and did not say much, which was Borren, and the one eye went round the fire the way it always went round a room, pricing, and every third or fourth time it went round it stopped on Tirzah for a beat longer than it stopped on anybody else, and then went on, and she never saw it, because she was telling the princess something with her hands, and the firelight was on her, and she was thirty and sharp and alive and laughing, and the old man on the far side of the fire looked at her the way a man looks at a thing he priced a long time ago and put down because he could not afford it and has never once stopped seeing in the window.
+
+He never said it. Kael would think about that for the rest of his life. There was a whole evening in which he could have said it, and he had a cup in his hand and the money was got and everyone he had was alive around one fire, and he did not say it, because he was a man who had spent his whole life learning that the thing you want is a thing you go round, and he went round it one more time, and there was not going to be another time, and he did not know that, and Kael did not know it either, and nobody at that fire knew it, and that was the mercy of it, the only mercy in the whole of what came next: that they had the evening, and did not know it was the last thing.
+
+---
+
+Tirzah stopped laughing.
+
+Kael saw it before he heard anything, because he was watching her, because Borren was watching her. She was in the middle of a sentence to the princess, her hands up, and her hands stopped, and her head turned, not fast, toward the east, down the fold, the way they had come in, the way she had looked that morning.
+
+"Oran," she said.
+
+Oran was up the slope, on the watch. He did not answer, because he was already listening, his head turned the same way, and then he came down off the slope, not running, low and fast, the way he had come to Kael at the wagons, and Kael was on his feet before the man reached the fire because a man does not move like that for nothing.
+
+"Horses," Oran said. "A lot of them. East. And—" He stopped. He looked at Borren and something went across his face that Kael had never seen on it, and Oran had walked off an imperial column at fourteen with his mother burning in a house behind him. "Not the empire," he said. "They are not in white and blue. They are not in anything. They are coming up the fold from the water, all of it, and they are not stopping to look."
+
+Nobody at that fire had ever heard the coalition and did not know the word. But Kael had. Kael had lain on a mountainside and watched four hundred men who were not in anything come up a path that could not be come up, for a girl who was standing in a yard, and he stood at a fire on a chest of the Emperor's money four hundred miles from that mountain and felt the whole of the last year fold shut like a book.
+
+"How," he said. It came out of him low. "This place cannot be seen. You said it cannot be seen from anywhere a man would stand."
+
+"No," Borren said. "It cannot."
+
+And the old man's eye went, once, across the fire, to Ambros, who had set down his board and was standing, and whose face, in the firelight, was the face of a man who has been waiting a long time for a thing to arrive and is not surprised that it has, and is not glad.
+
+Borren looked at him for the length of a breath.
+
+Then he stopped looking at him, because there was no time for it, and became something Kael had never seen.
+
+---
+
+"Wagons," Borren said, and his voice was not loud and it went everywhere. "Both of them. Teams in now. Selis, Talo, the near one. Oran, the far. Tirzah—" the smallest catch, a quarter of a beat, the count had it "—Tirzah, the far wagon, with the twins. Load nothing. Leave the chests that are out. You four, the lane side. You three, with me."
+
+The crew moved. They did not ask a question. Fifteen people who had spent an evening being people were, between one word and the next, the thing they actually were, and the mules were being backed into the traces in the dark and the chests that could be reached were going up onto the boards and the ones that could not were being left, six years of a province left in the grass because a wagon that is loaded heavy does not run, and Kael stood in the middle of it with three knives and one hand and no idea yet what he was for.
+
+"You," Borren said, to him, passing. "You are for the girls. Both of them. Whatever happens on this ground, you put them on a wagon and you are on it, and you go where the wagons go, and you do not come back for anybody. That is the last order I am going to have to argue with you about, so do not make me."
+
+"You are giving orders like a man who is not getting on a wagon."
+
+Borren stopped. For half a second, in the firelight, with the sound of horses coming up the fold now so that everyone could hear it, he looked at Kael, and it was the look from across the fire, the one that had stopped on Tirzah, and Kael understood that it had stopped on him too, all these months, and he had not been watching for it on himself.
+
+"Get the girls," Borren said, and went to meet them.
+
+---
+
+They came out of the dark at the bottom of the fold all at once, and the first of the crew died before Kael had the princess by the arm.
+
+It was one of the four of Ishareth. Kael did not see which. He saw a shape come off a horse at the edge of the firelight and a crew man go to meet it with a blade the way you meet a man, squared, ready, and the shape did not fight him the way a man fights, it went through him, low and fast and without any grammar to it at all, and the crew man was down and not moving and the shape was already past him and into the light, and Kael knew that walk. He had spent a winter learning that there were schools that fought with no school in them, and here was one, in the flesh, in his camp, coming for the people he ate with.
+
+"Up," he said to the princess, and she was already up, she had been up since Oran came down the slope, and Valeria was between her and the dark before Kael had finished the word, both blades out, and the plain sword she carried caught the firelight and Kael saw her face and it was the face from the arena, from the mountain, the one that had nothing on it at all.
+
+"The far wagon," Kael said. "Tirzah's. Go. I have your back."
+
+"No," Valeria said. "You have hers." She did not look at him. "I have the ground."
+
+And she put her hand flat on the earth, once, for less than a second, and stood up into the first of them.
+
+---
+
+It was not a fight. It was a slaughter with two directions to it, and for a while Kael could not tell which way it was going, because it was going both.
+
+The coalition had come to kill a bandit crew and take a chest of coin, and a bandit crew is a thing you kill. They had not come to fight Resonants, because nobody had told them there were Resonants, because the man who told them everything did not know. So the first minute of it was the thing they expected: crew men dying, fast, in the dark, against soldiers who did not fight the way soldiers fight. Kael got the princess to the far wagon with his hand on her back and Tirzah pulling her up over the board and the twins in the traces, and he turned around with his back to the wheel and three knives and watched the camp he had eaten in come apart.
+
+And then it stopped being the thing they expected.
+
+Valeria went into four of them at the near wagon and took the ground out from under two of them at once, not lifting it, taking it away, so that the earth they had put a foot on was not there and they went down into it to the knee and could not get out, and she was on them before they understood they had stopped moving. She fought the way she had fought on the mountain, which was without any mercy and without any waste, and the coalition men who reached her found that the girl in front of them was not a girl, and some of them had the half-second to be surprised and none of them had longer than that.
+
+Selis died. Kael saw it. She was in the traces of the near wagon and a man put a spear into her from the dark and she folded over the mule's back and did not come off it, and the princess made a sound Kael had never heard a person make, and Tirzah's hand closed on the back of the princess's coat and held her on the wagon, because a princess going back for Selis was a princess dead in the grass with her.
+
+"Adah," Tirzah said, low and hard, into her ear, "you do not get down. You do not get down. Look at me. You do not get down."
+
+---
+
+"Resonants," a man shouted, in Avestan, from the dark, and the word went through the coalition line like cold water, because they had come for bandits, "they have Resonants, tell Thiro, they have—"
+
+And a volume of the air at the near wagon, where four coalition men were closing on Valeria, went wrong.
+
+Kael felt it before he understood it, the way you feel a room change. The four men closing on Valeria stopped closing. They reached, all four of them at once, for their own throats, for the straps of their own coats, for the collar, clawing at nothing, at the air, and their mouths came open and no sound came out of them and no mark was on them anywhere, and they went down, all four, in a space the size of a table, clawing at a thing that was not there, and did not get up.
+
+Kael had never seen it. He had heard it, once, from a girl who did not waste words, in a box east of Qeshet: *a volume of air at ten feet, with no visible part to it at all. Men reach for their own armour and then cannot breathe. There is no mark on them afterwards.*
+
+Valeria had gone very still.
+
+She stood in the middle of the near wagon's ground with a blade in each hand and four men dead at her feet who were not hers, and she was looking past them into the dark at the bottom of the fold, and Kael, thirty strides off with his back to a wheel, saw her look, and knew the look, and it was not the arena look. It was older than that. It was a look he had seen once, on a shelf above the sea, when a thing she had not beaten came back.
+
+A man walked up out of the dark into the edge of the firelight. Young, thin, never still, even now, even walking, some part of him always moving, and he was looking at Valeria and his face was doing a thing that on anybody else would have been delight.
+
+"You," Thiro said, in Avestan, and he smiled, and the air around three more of the crew went wrong at the same time, three of them, in three different places, without him looking at any of them. "The little one. From the mountain. Who stood on my feet."
+
+---
+
+Borren killed him.
+
+Or tried to, and did the thing that was not that, and it was the second thing Kael saw that he did not understand and would not understand for a long time, until a woman told him, in another city, what he had been looking at.
+
+The old man came across the ground faster than a man of past fifty comes across anything, faster than Kael had ever seen him move, and there was no grammar in it either, none, it was the school with no school, the same walk the coalition men had, and Kael thought, in the quarter-second he had to think anything, *he fought them before, he fought exactly these men before, he knows this walk because it was his*—and Borren went into Thiro with a plain soldier's blade, and Thiro, who could take the breath out of four men in a space the size of a table without looking at them, turned the volume of the air on the old man at ten feet.
+
+And it did nothing.
+
+Kael saw it do nothing. He saw the air go wrong around Borren the way it had gone wrong around the four at the wagon, and he saw Borren walk through it, not clawing, not reaching, breathing, his one eye open and flat and fixed on the young man in front of him, and something white ran down the length of the plain blade in his hand, the whole length of it, and Kael's whole body went cold, because he knew that white, he had made that white, it was his, it was his father's, it was the thing that ran down a blade when a Resonant put it there.
+
+Borren was a Resonant.
+
+Borren had been a Resonant the whole time. Through Ishareth, through the winter, through the fire where the job was told, through the cup he did not have and the crouch to the boy's level and the two laughs, an old one-eyed man who ran a rope-walk and a rope train and had asked a boy what he wanted and never once asked who he was, had a thing in him that he had not shown to a single soul, and he was showing it now, in the dark, on the ground where his people were dying, to keep a young man who could not be reached from reaching six people on two wagons.
+
+"Go," Borren said, without turning his head, and it was to Kael, and it was the last order. "Now. Both wagons. Go."
+
+Behind him, on the west road, up out of the dark where the town was, there was a light that should not have been there. Kael's eye went to it the way it went to everything, and priced it, and did not want the answer.
+
+Torches. A column of them. Coming back.
+
+The escort's advance had seen the smoke of a fire that was not dug down, and heard the noise of a thing that could be heard for two hours' walking in both directions, and had turned around on the west road and was coming back to find out what had happened to the coin, and every man of them was in white and blue, and their officer, riding at the head with the torchlight on him, held his left hand empty.
