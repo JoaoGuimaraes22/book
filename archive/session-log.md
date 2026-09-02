@@ -3245,6 +3245,22 @@ Ten records rolled to `07-Story-Ledger/chapter-records-part-5.md`, **all ten byt
 
 **CLOSE.** Record in `07/chapter-records.md`; timeline row; `open-threads.md` by removal (the first job and the obedience term deleted as answered; the letter, the winter, the ford offer, the third silence, the stream and *envy, maybe* added); five rows into the clue ledger's working set and the honest-men row extended; 04 pin and beat 4 refreshed; 02 factions (the trade as taught) and geography (*between*, unnamed); 03 DYNAMIC for Kael, Valeria, Aeliana (freckles spent), Borren, and the crew sheet (a §THE OTHER NINE for the warehouse man and the talker, still unnamed); 05 STATUS, baseline and NEXT TARGET (Ch. 55, design from the scene; the priced winter ahead). **00 maintenance:** nothing new sealed this session and no spoiler line found in the live files; not opened. Reader notebook synced (Ch. 54 added).
 
+**ADDENDUM 2 (s77) — CH. 54 "THE TRADE" PLATED, THREE FOR THREE, FIRST RUN.**
+
+*Like a seller* (Tirzah teaching him to walk with a basket in his good hand), *She did not stop* (Valeria's drill at dusk with a stick, the boy watching from the ridge), *They were clean* (the hands out of the stream at first grey). **Ten plates and a portrait this session, every one adopted on its first run.**
+
+**THE NEW REFERENCE WORKS AT FULL-FIGURE DISTANCE.** `tirzah` carried face, colouring and the covered head into a plate first time out, with everything below her collar authored in the block.
+
+**THE ACTION PLATE LANDED FIRST RUN**, where `scene-tests.md` §fight-kael-valeria took six: the weight on the front foot with both feet on one ground, the stick sized and placed at the end of the cut, the empty hand named, and dry-brush drag and flicked spatter in the style line. **The costume ban held completely on a reference whose canon is a uniform** — one clause, and not a buckle came through — and no blade appears against the twin-blade identity, which is the s51 allowance used on purpose.
+
+**TWO RULES CLOSED, BOTH BY EVIDENCE THIS SESSION PRODUCED.**
+1. **§Gaze's escape condition is proven.** The qualifier added this morning — an object holds a gaze only where the face already points at it — carried a way out that had never been tried: give the head a reason to be down already. `ch54/they-were-clean` was written as that test and passed; the specimen is in the rule. Meanwhile the qualifier took a third confirmation at `ch54/like-a-seller`, where a woman's eyes were sent to a boy's feet and stayed level instead — **an object below the eyeline is no different from one in the hands.**
+2. **§Nouns: a garment's STATE is described the way its construction is** — its own sentence, with an endpoint. *Pushed back clear of both forearms and wet at the cuff* and *down over both wrists to the base of the hand* both landed; the same instruction buried at the end of a sentence that had already called the cloth too big did not. Two successes and one failure, same cause.
+
+**ONE SHAPE RECORDED AND DELIBERATELY NOT MADE A RULE** (one instance): the gaze needs a thing, not a place. *Down the line of the stick at the place the cut finished* sent the eyes to a location that is not drawn, and they went elsewhere; every gaze that has held went to an object actually in the frame.
+
+**AND ONE THING THE PAGE SETTLED FOR US.** Four plates running covered the princess's head as a framing answer where the page was silent. Ch. 54 says it outright — *not allowed a scarf across her face, only across her hair* — and the bridge scene has *the girl four mules back with her head covered*. The plates were right and it is page canon now.
+
 ## SESSION 78 (2026-09-02) — CH. 55: THE JOB
 
 **OPEN.** Verify clean. Cold read raised five itches, none touched without the author: Ch. 54's *four languages* against Ch. 26's *five*; Ch. 54's *white and blue* at a bridge-house yard the page never dressed so; a stray newline in Ch. 54's shipment paragraph; Borren's sheet note *spend it sparingly* against eighteen uses in Ch. 54 (replaced at the close by the page-fact, a reversible call); and three Glance durations (Neris *two months on*, Severin *two months east*, Wren *three months old*) outrun by Ch. 54 — stripped at the close as hygiene, since they were chapter stamps in disguise.
