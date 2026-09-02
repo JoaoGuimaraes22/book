@@ -12,7 +12,7 @@ She said it into the dark, low, and he did not know for a moment which of them s
 
 "What," he said.
 
-"What we do. What they do, and we carry the water for it." A pause. "I have carried water for a man who has stolen a toll-keeper's strongbox, and for a man who kept a letter for a lord who paid him to keep it, and for a woman who put a copper in a soldier's hand so that nobody would look at me. I have washed the pot they ate out of afterward. I want to know whether it is wrong. I have not been able to decide."
+"What we do. What they do, and we carry the water for it." A pause. "I have carried water for a man who has stolen a toll-keeper's strongbox, and for a man who kept a letter for a lord who paid him to keep it, and for a woman who argued with a soldier about a copper so that nobody would look at me. I have washed the pot they ate out of afterward. I want to know whether it is wrong. I have not been able to decide."
 
 He thought about it, because she had asked it as a question and not as a thing she already knew, and he had never heard her do that.
 
@@ -98,7 +98,7 @@ He had not meant to. It came out of him in the dark, once, short, and he heard t
 
 "Into what?"
 
-"I do not know," Valeria said. "Neither does he. I watched him walk into this camp with the road on him and did not know it was him until he was past the fire. I have known his walk for two years. Nobody has ever got past me on a walk."
+"I do not know," Valeria said. "Neither does he. I watched him walk into this camp with the road on him and did not know it was him until he was past the fire. I have known his walk for a year and a half. Nobody has ever got past me on a walk."
 
 "Is it a bad thing?"
 

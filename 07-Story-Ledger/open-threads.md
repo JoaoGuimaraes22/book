@@ -21,7 +21,7 @@
 ### ISHARETH, LEFT BEHIND
 - **The governor's morning.** A crowd at the bridge-house since first light and no table put out, unfollowed; what a man tied to his own wall does about sixty unpaid men, five guards who wake up, and a chest.
 - **Rashim, awake, with Kael's face.**
-- **When Ishareth hears that Qeshet has fallen** — *soon*, in Borren's mouth; whether the trio is gone by then.
+- **When Ishareth hears that Qeshet has fallen** — *soon*, in Borren's mouth, nine months ago.
 - **Why there is a bridge to a country the empire is at war with**, which Kael named the right question and could not answer · **what the whole day the bridge was shut was for** · **whether Zahir is what he appears to be**.
 - **Whether Kael ever learns the crew's method is the one he used at that gate** — joined up by nobody.
 
