@@ -1,5 +1,5 @@
 ## Open Threads (LIVE)
-**LAW CORE.** What the story has opened and not yet closed, as of Ch. 53. **Organised by kind, not by chapter, and MAINTAINED BY REMOVAL:** a thread is added when a chapter opens it and **deleted when a chapter answers it** — the record of what each chapter opened and answered is `chapter-records.md`, and the pre-s76 per-chapter log is `../archive/open-threads-log.md`. Sealed answers are 00's; this file holds only the question the page has left standing.
+**LAW CORE.** What the story has opened and not yet closed, as of Ch. 54. **Organised by kind, not by chapter, and MAINTAINED BY REMOVAL:** a thread is added when a chapter opens it and **deleted when a chapter answers it** — the record of what each chapter opened and answered is `chapter-records.md`, and the pre-s76 per-chapter log is `../archive/open-threads-log.md`. Sealed answers are 00's; this file holds only the question the page has left standing.
 
 ### THE FAMILY, AND THE HOUSE AT QESHET
 - **Whether anybody in that house lived.** Sixteen men in, ten never out, the people in it still fighting when the box left the yard — **no name, no outcome, and nobody left alive who knows** (Ch. 51). Kael's sum has three ends and is no smaller.
@@ -9,11 +9,12 @@
 - **The man who killed his father is still unnamed**, and the third want is untouched.
 
 ### THE ROAD, AND THE CREW
-- **The road itself.** Upstream, then off the road on tracks that go where the road does not, and no page says where or for how long.
-- **The first job**, still unshown — and **the first job is not the one Kael brings them**.
-- **The obedience term, untested.** *Some of those evenings I will be wrong. You will do it anyway* stands as a term; the first day held no order he would have given differently.
+- **The road itself.** *Between Ishareth and Solvenna*, and no page names a town, a river or a lord on it; the next name is given on the day they go in and forgotten on the day out.
+- **The winter Borren priced** — *a winter in a town where nobody asks* — still ahead.
+- **Whether Borren ever uses one of Kael's fords.** *Next time you find me one, I might use it … do keep your count up, Kael.*
+- **The letter in the boot** — a lord of the east's seal, carried to Borren unread; who paid for it and what it said are on no page. **The man on the stair**, alive with his arm, who could not have said why he did not shout.
 - **The road names, and thirteen months to hold them.** *Tamar* and *Adah*, *my sister and my cousin, our people are dead* — now said to fifteen people.
-- **Whether the crew ever learns Kael has Avestan.** He heard Oran reach for it and let his face do nothing.
+- **Whether the crew ever learns Kael has Avestan.** He heard Oran reach for it and let his face do nothing. **And the tongue the princess has with Selis** that is neither Koine nor Ivrit, which Kael does not have.
 - **What Borren is.** He opened the round and told nothing of himself, and Kael noticed. **And what he found out about her and did not say** — *I am going to do you the courtesy of not saying the rest of it out loud in a street* — now travelling with them.
 - **Whether the crew's not-asking holds** thirteen months, and whether being kept until a job is done is ever more than procedure.
 
@@ -43,7 +44,9 @@
 - **What the twenty-six minutes does to him**, carried out of that building and said to nobody.
 - **Whether the hand shuts.** *You will find out in the spring*, still unanswered.
 - **What he does with a man who let thirty-one hulls past a coast** and is not the man he wants.
-- **What the count is** — explained out loud once and believed by him to be ordinary; whether anybody ever tells him otherwise, and whether *stopped taking it out* becomes anything better. **The part of him that would have argued has not said one word, twice now.**
+- **What the count is** — explained out loud once and believed by him to be ordinary; whether anybody ever tells him otherwise, and whether *stopped taking it out* becomes anything better. **The part of him that would have argued has not said one word, three times now, and the third time he had the count on it.**
+- **The thing that did not come at the stream.** Somebody else's blood on him and nothing after it, for the first time; *he had looked for the wanting … and it was not there.* Whether it comes back, and what he is when it does not.
+- **Envy, perhaps.** Under the admiring of Valeria a thing with no place and no word his mother gave him; he is not sure what he was when he walked onto the island and sure it is not what sits on that slope.
 - **Kael's three wants, one of which is aimed at the wrong enemy.**
 
 ### SMALL, AND STILL OPEN

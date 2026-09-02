@@ -1,5 +1,5 @@
 ## VALERIA VEL
-**Glance:** rival → first friend · Line of Vel (eleven generations — tiers in `../02-World-Bible/factions.md`) · 13 (Kael's age) · **one day inside the honest men as *Tamar*, the sister — beside the princess in the boat and at the fire, and across the door of the tent, which is where she was going to lie whatever anybody said**
+**Glance:** rival → first friend · Line of Vel (eleven generations — tiers in `../02-World-Bible/factions.md`) · 13 (Kael's age) · **a couple of months inside the honest men as *Tamar* — unchanged, half a step off the princess, the plain sword polished nightly, drilling with a stick where a blade would be seen; *I know where you go … Until then it is his***
 
 ### STATIC
 - **Role:** Daughter of the Line of Vel. Kael's rival, then first friend. The rest of her role is in 00.
@@ -19,6 +19,8 @@
 - **She lies across the door of whatever the three of them sleep in**, whatever anybody says.
 - **She said it plainly, in front of Kael:** *"I am with them."*
 - **She has said once that she does not like the rest of it** and said she would not say it again. She has not.
+- **She has not asked where he goes and will not:** *You go where he sends you and you come back. If you did not come back I would want to know where. Until then it is his.* She has watched him come into camp and not known it was him until he was past the fire, and said so.
+- **She said what keeping is:** *I was made for one thing. It is not difficult to keep a thing you were made for. It is the other kind that is difficult.* The crew stopped seeing her by the second week, because a thing that never changes stops being there.
 
 **WHAT SHE IS**
 - **Internal reinforcement is her specialty** and it leaves no mark on the world — nothing goes out of her body, so nothing signs a room as Resonants' work. **Her Art is fully back** and the page shows it costing her nothing.
