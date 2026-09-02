@@ -32,15 +32,15 @@ There was a fire that night, bigger than the rule, and nobody dug it down.
 
 That was the thing that told him, more than the resting or the sitting or the cup: the fire was on the ground and not in a pit, and the stones were not on the side they had come from, they were all round it, the way you build a fire for people and not the way you build a fire to be unseen. Borren had let it be built that way. Kael sat on the far side of it and looked at the flames going up into the dark, high, the way he had been told his whole life a fire must never go, and could not decide whether the thing in his chest was fear or the other thing, the thing he did not have a word for, that a fire like that was for.
 
-They ate out of the one pot and nobody counted anything onto anybody's plate. Selis, who was eighteen and did not laugh, laughed at something one of the four of Ishareth said, and put her hand over her mouth the way the princess did. The warehouse man, who had said four words in Kael's hearing in his whole life, told a story about a warehouse, his own, the one the empire had cost him, and it was a funny story, which Kael had not known a warehouse could be, and the crew laughed at the parts that were funny and did not at the part that was not, and the man got to the end of it and drank, and somebody put a hand on his shoulder.
+They ate out of the one pot and nobody counted anything onto anybody's plate. Selis, who was eighteen and did not laugh, laughed at something one of the four of Ishareth said, and put her hand over her mouth as the princess did. The warehouse man, who had said four words in Kael's hearing in his whole life, told a story about a warehouse, his own, the one the empire had cost him. It was a funny story, which Kael had not known a warehouse could be. The crew laughed at the parts that were funny and not at the part that was not. The man got to the end of it and drank, and somebody put a hand on his shoulder.
 
-The princess sat between Tirzah and Selis with her sleeves down and her face brown in the firelight and laughed, properly, more than once, and did not put her hand over it, and Kael watched her do it and thought that he had never once seen her do it before this crew and would not see her do it after, because at Solvenna she would be somebody who did not, and here, for one night, on a chest full of her father's money, she was a girl called Adah at a fire, laughing.
+The princess sat between Tirzah and Selis, her sleeves down, her face brown in the firelight, and laughed, properly, more than once, and did not put her hand over it. Kael watched her do it. He had never once seen her do it before this crew, and would not see her do it after, because at Solvenna she would be somebody who did not. Here, for one night, on a chest full of her father's money, she was a girl called Adah at a fire, laughing.
 
 Valeria lay along the outside of it, on her back, with the sword along her leg. She did not laugh. But once, when the princess did, Kael saw Valeria turn her head and look at the girl laughing, and hold it a moment, and turn back to the dark, and that was Valeria laughing.
 
 And Borren watched Tirzah.
 
-Kael had the count on everything, because he could not not have it, and so he had it on that too, and he wished afterward that he had not. Borren sat with his cup and did not say much, which was Borren, and the one eye went round the fire the way it always went round a room, pricing, and every third or fourth time it went round it stopped on Tirzah for a beat longer than it stopped on anybody else, and then went on, and she never saw it, because she was telling the princess something with her hands, and the firelight was on her, and she was thirty and sharp and alive and laughing, and the old man on the far side of the fire looked at her the way a man looks at a thing he priced a long time ago and put down because he could not afford it and has never once stopped seeing in the window.
+Kael had the count on everything, because he could not not have it, and so he had it on that too, and he wished afterward that he had not. Borren sat with his cup and did not say much, which was Borren, and the one eye went round the fire as it always went round a room, pricing, and every third or fourth time it went round it stopped on Tirzah for a beat longer than it stopped on anybody else, and then went on. She never saw it, because she was telling the princess something with her hands, the firelight on her, thirty and sharp and alive and laughing. The old man on the far side of the fire looked at her the way a man looks at a thing he priced a long time ago and put down because he could not afford it and has never once stopped seeing in the window.
 
 He never said it. Kael would think about that for the rest of his life. There was a whole evening in which he could have said it, and he had a cup in his hand and the money was got and everyone he had was alive around one fire, and he did not say it, because he was a man who had spent his whole life learning that the thing you want is a thing you go round, and he went round it one more time, and there was not going to be another time, and he did not know that, and Kael did not know it either, and nobody at that fire knew it, and that was the mercy of it, the only mercy in the whole of what came next: that they had the evening, and did not know it was the last thing.
 
@@ -48,7 +48,7 @@ He never said it. Kael would think about that for the rest of his life. There wa
 
 Tirzah stopped laughing.
 
-Kael saw it before he heard anything, because he was watching her, because Borren was watching her. She was in the middle of a sentence to the princess, her hands up, and her hands stopped, and her head turned, not fast, toward the east, down the fold, the way they had come in, the way she had looked that morning.
+Kael saw it before he heard anything, because he was watching her, because Borren was watching her. She was in the middle of a sentence to the princess, her hands up, and her hands stopped, and her head turned, not fast, toward the east, down the fold, the way she had looked that morning.
 
 "Oran," she said.
 
@@ -112,7 +112,7 @@ Selis died. Kael saw it. She was in the traces of the near wagon and a man put a
 
 ---
 
-"Resonants," a man shouted, in Avestan, from the dark, and the word went through the coalition line like cold water, because they had come for bandits, "they have Resonants, tell Thiro, they have—"
+"Resonants," a man shouted, in Avestan, from the dark, and the word went down the coalition line, because they had come for bandits, "they have Resonants, tell Thiro, they have—"
 
 And a volume of the air at the near wagon, where four coalition men were closing on Valeria, went wrong.
 
