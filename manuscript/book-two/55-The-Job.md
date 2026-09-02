@@ -22,7 +22,7 @@ He thought about it, because she had asked it as a question and not as a thing s
 
 "And not this."
 
-"No." The blankets moved. "I have sat at that fire for two months and listened to fifteen people tell me what my father's empire is. Not to me. They do not know it is me. They say it to the fire and I am sitting at the fire. A ribbon. A cup. A house with land." She stopped, and he heard her decide not to say the rest of that one. "I was told what the empire was every day of my life by people who were paid to tell me. I had never once heard it from somebody who was not being paid. I find I cannot rule on it. It is the first thing I have not been able to rule on, and I do not like it, and I wanted to say so to somebody."
+"No." The blankets moved. "I have sat at that fire for two months and listened to fifteen people tell me what my father's empire is. Not to me, of course. A ribbon. A cup. A house with land." She stopped, and he heard her decide not to say the rest of that one. "I was told what the empire was every day of my life by people who were paid to tell me. I had never once heard it from somebody who was not being paid. I find I cannot rule on it. It is the first thing I have not been able to rule on, and I do not like it, and I wanted to say so to somebody."
 
 Nobody said anything for a while. The mules shifted on the line. Somewhere across the camp a man coughed and turned over.
 
@@ -30,7 +30,7 @@ Nobody said anything for a while. The mules shifted on the line. Somewhere acros
 
 They both waited.
 
-"I was made for one thing," she said. "The thing I was made for is lying beside me under two blankets. Where she stands, I stand, and what is done where she stands is not wrong, because if it were wrong she would not be standing there. That is the whole of it. I am sorry it is not more."
+"I was made for one thing," she said. "The thing I was made for is lying beside me under two blankets. Where she stands, I stand, and what is done so that she keeps standing is not wrong. That is the whole of it."
 
 "That is not an answer," Aeliana said. "That is a wall."
 
@@ -40,7 +40,7 @@ They both waited.
 
 "Yes," Valeria said. "That is what it is for."
 
-Kael lay and heard it and did not say what he thought, which was that she was right that it would hold up anything, and that this was the thing about it that frightened him, and that he had no right to be frightened by it because his own was worse. He had gone up a stair a week ago and cut a man so that the man would keep his arm, and come down, and knelt in a stream, and nothing had come. He had waited for the thing that told him. It had told him, wrongly or rightly, every time there had been blood, and he had built himself around the fact that it came. He did not know what it meant that it had stopped. He did not know whether nothing was what wrong felt like, when you had done enough of it, or whether nothing was what right felt like, when you had finally done a thing cleanly, and he turned the two over in the dark and they weighed the same.
+Kael lay and heard it and did not say what he thought, which was that she was right that it would hold up anything, and that this was the thing about it that frightened him, and that he had no right to be frightened by it because his own was worse. He had gone up a stair a week ago and cut a man, stole from him, and felt nothing. He had waited for the thing that told him. It had told him, wrongly or rightly, every time there had been blood, and he had built himself around the fact that it came. And suddenly, whatever that thing is was gone. He did not know whether nothing was what wrong felt like, when you had done enough of it, or whether nothing was what right felt like, when you had finally done a thing cleanly, and he turned the two over in the dark and they weighed the same.
 
 "I do not know," he said.
 
@@ -50,11 +50,11 @@ Kael lay and heard it and did not say what he thought, which was that she was ri
 
 "When did it stop?"
 
-"At the stream. After the stair."
+"I'm not sure when. I noticed it was gone not too long ago."
 
 He had not meant to say that, and he heard Valeria not move.
 
-"Well," Aeliana said, after a time. "Then there are two of us."
+"Well," Aeliana said, after a time. "Then there are two of us you can rely on for that."
 
 ---
 
@@ -104,9 +104,9 @@ He had not meant to. It came out of him in the dark, once, short, and he heard t
 
 "I did not say it was a thing. I said it was happening."
 
-Kael lay between them and let them talk about him as though he were a mule on the line, and found that he did not mind it, and did not know what to do with not minding it either.
+Kael lay between them and let them talk about him as though he were a mule on the line, and found that he did not mind it.
 
-"When we walk into Solvenna," Aeliana said, "I will have to be her again."
+"When we walk into Solvenna," Aeliana said, "I will have to be her, the princess, again."
 
 Nobody answered that. It had not been a question.
 
@@ -116,23 +116,23 @@ Nobody answered that. It had not been a question.
 
 The town had a name and he was given it and he forgot it, as he had been told he would, and he was surprised to find that he could. Some things did not stay. He had not known that about himself.
 
-It was a town where nobody asked. He never found out whether that was the town or the winter. They were a carrier's yard at the edge of it: a long shed with the mules in it, a house behind, a gate onto a lane, and rope in the shed because the rope was real and a carrier's yard wants rope. Ambros kept the house. Kael had not known what that meant until he watched a man do it: where the food came from and how much; who slept where; what went out of the gate, what came in, whether the lane could see it. Forty-one years of a house forty miles north of the capital and the man ran eighteen thieves in a shed as though the house had never fallen down. Kael, who had grown up under a woman who ran a mountain the same way, watched him and said nothing. Once he caught the princess watching him too, from the door of the kitchen, with a look on her face he could not have priced and did not try to.
+It was a town where nobody asked. He never found out whether that was the town or the winter. They were a carrier's yard at the edge of it: a long shed with the mules in it, a house behind, a gate onto a lane, and rope in the shed because the rope was real and a carrier's yard wants rope. Ambros kept the house. Kael had not known what that meant until he watched a man do it: where the food came from and how much; who slept where; what went out of the gate, what came in, whether the lane could see it. 
+
+Forty-one years of a house forty miles of the capital and the man ran eighteen thieves in a shed as though the house had never fallen down. Kael, who had grown up under a woman who ran a mountain the same way, watched him and said nothing. Once he caught the princess watching him too, from the door of the kitchen, with a look on her face he could not have priced and did not try to.
 
 He was bad at it. He had known he would be and he had not known how bad. The trade in a town was not the walk or the voice or the lock, it was being there every morning when the woman from the next yard came to the trough, with a face she had seen before and something to say to it. He had nothing to say to it. He had never in his life been somewhere he was allowed to stay, and it turned out that staying was a thing people did with their mouths, and his had been built for other work. The princess had a hundred things to say to the woman at the trough. Valeria had none and did not need any, because a girl who carries water and never speaks is a thing every town has one of. Kael stood between the two of them at the trough with a bucket in his good hand and understood why Borren had priced this winter as a cost and not as rest.
 
 He turned fourteen in it, somewhere. Nobody said so, because nobody knew, and he did not take it out to look at.
 
-Borren made paper all winter in the room at the back of the house. Seals, the wax for them, hands that were not his own hand, documents that said a thing had been permitted by somebody who had never heard of it. He did not hide the work and he did not show it. Kael stood in the door of that room once, in the second month, and watched a man write out a bill of passage in the level Koine of a provincial clerk, blot it, hold it to the light, and burn it because the second *s* was his own, and start again. Then Borren looked up, and Kael went away.
-
 ---
 
-In the spring the hand shut.
+The spring had come.
 
-He had been told the spring and it was the spring, and one morning in the shed he found that the fingers had come round onto the rope without being asked and were holding it, and he stood and looked at that for a while. It was slow to open again. It would hold a rope. It would hold a knife, if the knife did not have to do anything clever. It would never again do what the right one did, and he knew that the way he knew the number of mules in the shed, and put it down, and went on.
+One morning in the shed he found that the fingers on his bad hand had come round onto the rope without being asked and were holding it, and he stood and looked at that for a while. It was slow to open again. It would hold a rope. It would hold a knife, if the knife did not have to do anything clever. It would not do what the right one did. Perhaps it would not ever do again.
 
-The roads became roads. They went out of the town by the gate onto the lane, and nobody in the town asked where. Nobody had asked anything for three months and was not going to start.
+The roads became roads. They went out of the town by the gate onto the lane, and nobody in the town asked where.
 
-The jobs came back the same and faster. He was not started small any more. He was the one on the stair now, whichever stair it was; the one under the window; the one who went into a room ahead of the others because he could get into a room without the room knowing. A strongbox out of an inn. A ledger out of a house whose owner had paid to have it lost. A man's own horse walked out of his own stable under a boy who said the man's name as though he were bored of it. He did the thing the job needed at the moment it needed it and he did not look for anything afterward. He had stopped looking in the winter. Whatever had come after the blood, when it came, had been a thing he waited for; and a thing you wait for that does not come is a thing you stop waiting for. That was all there was to say about it, and he did not say it.
+The jobs came back the same and faster. He was not started small any more.
 
 At a river in the fourth month there was a bridge with a soldiers' post on it, and Borren stood on a hill above it and said, without looking round, "Where is your ford," and Kael told him. They crossed at it before light and were past the bridge before the man in the post had his breakfast, and neither of them said a word about it then or afterward.
 
@@ -184,7 +184,7 @@ Borren did not answer that at once. He looked round the circle again.
 
 That was the thing that went round the fire. Kael watched it go. Every job he had done for these people, a man somewhere had paid for. The letter in his boot had been wanted by somebody. The ledger, the document, the supplies over the hill. He had never known who and had stopped needing to, but there had always been a who, and the who was the shape of the thing: the honest men were a thing you hired. He saw fifteen people hear that for the first time in their lives nobody had hired them, and he saw what it did to their faces, and he could not have said what it was.
 
-"The rest you will have in pieces," Borren said, "the way you have had everything. Tomorrow we go west." He stood up. "Go and hobble something."
+"The rest you will have in pieces," Borren said, "the way you have had everything. Tomorrow we go west." He stood up. "Go and sleep."
 
 ---
 
@@ -288,7 +288,7 @@ He had known this was coming since the fire, and had not known which of them wou
 
 "No," Valeria said.
 
-"You are of the Line. It is the Emperor's coin."
+"You are a Vel. It is the Emperor's coin."
 
 "You are the Emperor's daughter and you were sitting at the fire," Valeria said. "I have told you what my measure is. It has not changed."
 
@@ -296,13 +296,13 @@ He had known this was coming since the fire, and had not known which of them wou
 
 "Then I would have stood up with you and we would have been two women walking out of a camp with six mules between us and the river, and the boy would have had to choose, and I would have been interested to see which way." She said it without any weight at all. "You did not stand up."
 
-"No. I did not." Aeliana was quiet. "I have been trying, since the fire, to make it come out. It is his. It was paid to him by people who did not have it to pay, and I know that because I have sat at a fire with them, and I have never once in my life had to think about where a coin was before it was on my table. It is his and it is wrong to take it. It is his and it was taken. I cannot make those into one thing." She turned over. "I have ruled on everything. Since I could talk. I ruled on the road, in that room, and you all went. And I cannot rule on this and I am going to carry the water anyway, and I do not know what that makes me, and I would like one of you to tell me and I know you will not."
+"No. I did not." Aeliana was quiet. "I have been trying, since the fire, to make it come out. It is his. It is his and it is wrong to take it. It is his and it was taken. I cannot make those into one thing." She turned over. "I have ruled on everything. Since I could talk. I ruled on the road, in that room, and you all went. And I cannot rule on this and I am going to carry the water anyway, and I do not know what that makes me, and I would like one of you to tell me and I know you will not."
 
 "You are the one who asked whether it was wrong," Kael said. "In the autumn. Nobody else at that fire has asked. Not once. Not in nine months."
 
 "Is that an answer?"
 
-"No. I do not have one. It is a thing I have." He turned his head toward her voice. "I have watched fifteen people who were robbed by your father's empire take a little of it back, one wagon at a time, for nine months, and I have helped them, and nothing in me has said a word about it either way. You asked. I would rather be in a tent with somebody who asked."
+"No. I do not have one." He turned his head toward her voice. "I have watched fifteen people who were robbed by your father's empire take a little of it back, one wagon at a time, for nine months, and I have helped them, and nothing in me has said a word about it either way. You asked. I would rather be in a tent with somebody who asked."
 
 She did not say anything to that for a while.
 
@@ -310,7 +310,7 @@ She did not say anything to that for a while.
 
 "Yes."
 
-"I will have to be her. There is no other way in. A princess of the empire walks into the first city of the old borders and says her name and her father's machine does the rest, and then the machine has me again, and Adah is a girl who carried water for a summer and is not anywhere." She said it very steadily. "I have been trying to decide whether I want that. I have decided that I have never been asked what I want. I have been asked what I will have. Those are different questions and I did not know it until this year, and I do not have an answer to the first one, and I am fifteen years old."
+"I will have to be her. There is no other way in. A princess of the empire walks into the first city of the old borders and says her name and her father's machine does the rest, and then the machine has me again, and Adah is a girl who carried water for a summer and is not anywhere." She said it very steadily. "I have been trying to decide whether I want that. I have decided that I have never been asked what I want. I have been told what I will have. Those are different questions and I did not know it until this year, and I do not have an answer to the first one."
 
 "You will be what you are," Valeria said.
 
@@ -324,7 +324,7 @@ She did not say anything to that for a while.
 
 Aeliana laughed, then, properly, and it went out through the open door of the tent into the camp and somebody at the fire turned their head, and she put her hand over her mouth and laughed behind it, and it was a long time before she stopped.
 
-"And you," she said, when she had. "Who walks into Solvenna? Lucan Drusane is on a letter. The Ghost is on a bed sheet on an island that is not there. Kael is at a fire, with nothing after it. Which one goes through the gate?"
+"And you," she said, when she had. "Who walks into Solvenna?"
 
 He thought about it honestly, because she had.
 
