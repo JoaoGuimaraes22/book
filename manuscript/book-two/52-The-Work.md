@@ -26,17 +26,17 @@ Nobody said anything about the third one.
 
 ---
 
-"Now the rest of it," he said. "Thirteen months, for people who can use the road. We cannot use the road. We won't have enough coin for thirteen months, so we'd need to survive without its use, or find other ways, which would slow us down. And we can't trust anyone, not empire, or otherwise, until we finally reach Solvenna. There it's old empire borders, not susceptible to the coalition's manipulations, deeply loyal to the empire. People who'll help the you two undoubtedly."
+"Now the rest of it," he said. "Thirteen months, for people who can use the road. We cannot use the road. We won't have enough coin for thirteen months, so we'd need to survive without its use, or find other ways, which would slow us down. And we can't trust anyone, not empire, or otherwise, until we finally reach Solvenna. There it's old empire borders, not susceptible to the coalition's manipulations, deeply loyal to the empire. People who'll help you two undoubtedly."
 
 "You have already built something," Aeliana said. "I have been listening to you build it. Say it."
 
-"As far as we now, the south coast is in chaos. That means every road south and east of Solvenna must be filled with people we won't know if we can trust, until it's too late."
+"As far as we know, the south coast is in chaos. That means every road south and east of Solvenna must be filled with people we won't know if we can trust, until it's too late."
 
-Kael looked at the princess' eyes.
+Kael looked at the princess's eyes.
 
 "That old bandit guy I talked about earlier, said that fifteen of his people will leave this city tomorrow, going to Solvenna. They are not the empire's and they are not the coalition's. Moving things through a war without being looked at is their whole trade." He let that sit for a breath. "Nobody counts three children inside eighteen people."
 
-"I feel as you are suggesting we join some thieves?" responded Aeliana.
+"I feel as if you are suggesting we join some thieves?" responded Aeliana.
 
 "The *honest men*, they call them." Valeria said.
 
@@ -78,7 +78,7 @@ The bed frame ticked as Aeliana sat back against the wall. When she spoke it was
 
 "Everything left to us is a risk. You have not yet let us down Kael." The frame ticked again. "And I can see in Valeria's eyes, she believes it is the right choice too. Whatever would be my ruling, I'm sure she'd find a way to convince me eventually."
 
-"I would try, your Highness."
+"I would try, Highness."
 
 "Then I have ruled. We go."
 
