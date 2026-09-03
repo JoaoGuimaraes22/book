@@ -1,5 +1,5 @@
 ## THE COALITION'S FIVE — PELLAN · DUNMAR · THIRO · FENNA · GALLOS
-**Glance:** the coalition's senior command · five of them, and the page never says so · all fire, and no two of them the same fire · **four of them walked off that mountain.**
+**Glance:** the coalition's senior command · five of them, and the page never says so · all fire, and no two of them the same fire · **four walked off the island; THIRO is now dead (Ch. 59), killed by Valeria in the fold — three of the five remain.**
 
 ### STATIC — the group
 - **Role:** the coalition's five. Sealed material — what they are, what they answer to, why one of them grieves what he does — is in 00 (not read at open or draft time).
@@ -19,7 +19,8 @@
 - **Fire put INTO ground, not onto men.** He turned the one flat on that mountain wide enough for numbers into grey ruin nobody would cross again, and it made almost no noise. **He takes terrain by subtraction.**
 - **He killed Kael's father** — walked round the edge of his own ruin, put a flat hand on the chest with the fire going in and out through the back, took a sword off a dead man, and swung once, level, at the height of the shoulders. He did not do anything clever. **Kael saw all of it, and Kael went up the slope at four hundred men to get to him.**
 
-### THIRO — alive, and badly hurt
+### THIRO — DEAD (Ch. 59), killed by Valeria in the fold
+- **DEAD.** Recovered from the island and in the field for the coalition, he came up the fold with the force that destroyed the crew, took the breath out of six of them without moving, and **knew Valeria on sight** — *You. The little one. From the mountain. Who stood on my feet.* **The island rematch closed the way the island one could not:** Borren (an air Resonant) held his own air against Thiro's and closed inside the ten feet so the killing volume was no weapon; Kael put the threading through the back of Thiro's knee and made the never-still man still half a second; **Valeria went up under the jaw with both blades** — no clawing at his throat, because there was nothing wrong with his throat. **His one counter (below) is what killed him** — the tag-team forced him off the air and inside it.
 - Young, thin, never stops moving. Laughs.
 - **A volume of air, at about ten feet, with no visible part to it whatsoever.** Men reach for their own armour, and then cannot breathe, and there is no mark on any of them afterwards. He killed the last five of the royal guard with it.
 - **THE COUNTER, and it is the only one (Ch. 33):** he cannot spend it on air he is standing in the middle of. Valeria Vel went the whole way in until she was standing on his feet, put a blade four inches in under his ribs and a second into his side, and **he took her off the ground by the hair and put her into a door frame.** She did not beat him. He was carried out and **came back**, held upright between two men, to take the breath of a man who could not walk away from it.

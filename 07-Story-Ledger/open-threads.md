@@ -9,14 +9,15 @@
 - **The man who killed his father is still unnamed**, and the third want is untouched.
 
 ### THE ROAD, AND THE CREW
+- **AMBROS BETRAYED THE CREW, AND IS DEAD.** He wrote everything down for a winter and a year because a man showed him proof his daughters had been taken (Ch. 59); his handler is the coalition's architect of the island and Qeshet (00). Borren killed him with understanding. **Whether his daughters live is on no page**, and **the architect has no name and no face** — the same winter-man who bought Qeshet's coast.
+- **The empire's Resonant officer** who burned the fold with real fire — his fate is unresolved; two wagons of the coin he came for are gone down a track. **What the surviving coalition make of Resonant bandits** who killed a general (Thiro) is open.
+- **Tirzah will tell Kael what Borren was, at Solvenna** (00) — a reserved beat; she alone carries it, and what Borren never said to her.
 - **The road itself.** *Between Ishareth and Solvenna*, and no page names a town, a river or a lord on it; the next name is given on the day they go in and forgotten on the day out. The winter town is one of them.
-- **The job.** A province west that no page names; a room under a tax-house holding six years of a province's coin, to be moved *west, inside the old borders, before the autumn*, with *more men than we have ever stood near* — and **how a crew that does not leave bodies takes a convoy is on no page**: *you are not meant to see it yet.* **Nobody is paying**, and *there is no honest men, after* — whether the crew ends with it.
-- **Where Borren's paper came from.** *A thing was written down in the winter by a man who knew, and I had it in my hand for an hour before the man it was written to did* — who and how forbidden; Kael's read that it was said to stop him looking for something else.
+- **The job is done, and it destroyed the crew.** The tax-house was robbed silent (Ch. 57) and the crew was attacked in the fold the next night and wiped out but for six (Ch. 58–59). **Six are out with half the coin** — Kael, Valeria, Aeliana, Tirzah, Oran, Talo — bound for Solvenna; what they do with a fortune and a road, and whether the empire or the coalition follows the two wagons, is open.
+- **What Borren was.** Answered on the page as *a Resonant and a master* — AIR (Ch. 58–59); the rest (a great imperial general) is sealed and **Tirzah will tell Kael at Solvenna** (00). His paper-source and everything he found out and did not say died with him.
 - **The letter in the boot** — a lord of the east's seal, carried to Borren unread; who paid for it and what it said are on no page. **The man on the stair**, alive with his arm, who could not have said why he did not shout.
 - **The road names, and thirteen months to hold them.** *Tamar* and *Adah*, *my sister and my cousin, our people are dead* — now said to fifteen people.
-- **Whether the crew ever learns Kael has Avestan.** He heard Oran reach for it and let his face do nothing. **And the tongue the princess has with Selis** that is neither Koine nor Ivrit, which Kael does not have.
-- **What Borren is.** He opened the round and told nothing of himself, and Kael noticed. **And what he found out about her and did not say** — *I am going to do you the courtesy of not saying the rest of it out loud in a street* — now travelling with them.
-- **Whether the crew's not-asking holds** thirteen months, and whether being kept until a job is done is ever more than procedure.
+- **The three surviving crew now hold the trio's real names** (said in the fold, Ch. 59): Kael's *Aeliana*, Borren's *Valeria*; the princess's RANK is still unsaid on the page. Whether the crew learns Kael has Avestan is still open (Oran, who reaches for it, lives). The tongue Aeliana had with Selis dies with Selis.
 
 ### ISHARETH, LEFT BEHIND
 - **The governor's morning.** A crowd at the bridge-house since first light and no table put out, unfollowed; what a man tied to his own wall does about sixty unpaid men, five guards who wake up, and a chest.

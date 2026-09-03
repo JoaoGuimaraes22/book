@@ -1,5 +1,5 @@
 ## AELIANA CASSIVARA VESSANTINE (the princess)
-**Glance:** royal princess; the raid's prime target · House Vessantine · **15 — one year above Kael and Valeria; her age is on no page** · **nine months inside an outlaw crew as *Adah*, whom she likes — she asked whether it is wrong, cannot rule on her father's coin and carries the water anyway, and does not know whether she wants to be the princess again at Solvenna**
+**Glance:** royal princess; the raid's prime target · House Vessantine · **15 — one year above Kael and Valeria; her age is on no page** · **she sewed the empire's blue into the crew's disguise, laughed at the last fire without her hand over it, and drove a wagon of her father's coin out of a massacre when Kael put the reins in her hands and said her real name — *Adah* is off her now, and the crew she laughed with is dead**
 
 ### STATIC
 - **Name:** Aeliana Cassivara Vessantine; "Cassivara" is an honor-name in the formal chain.
@@ -10,6 +10,9 @@
 
 ### DYNAMIC
 **WHERE SHE STANDS**
+- **She drove the escape wagon out of the fold.** Kael put the reins in her hands — *Aeliana. You have carried the water. Now carry it out* — and she took them and set her feet, because she had ruled on harder things in worse rooms. She is one of six out with half the coin.
+- **She sewed the empire's blue into the disguise** (Ch. 56) — the blue at the collar and cuff, which must sit exactly or a man who has worn the coat knows, and she has stood next to a thousand: her empire's weakening stitched by her own hand to keep herself alive. At the last feast she laughed properly, without her hand over her mouth, and would buy *blue ribbon* and put her head on Tirzah's shoulder; Ambros's last word was for her, *I am sorry to the girl. She sewed the blue.*
+- **The crew she called family are dead** — Selis in the traces, the warehouse man, Ambros, Borren — and her real name is off her in front of the three who lived; at Solvenna she must be the princess again, and does not know if she wants to.
 - **She is *ADAH* on the road**, one of the two plain coast names; *our people are dead* was said for her. **Her sleeves stay down over her wrists.** **She has gone brown**, hands hard from daily work; she does camp work nobody told her to, having watched Tirzah once. **She speaks to the crew in the Koine and in Ivrit, and to Selis in something that is neither**, which Selis answers and Kael does not have.
 - **She is hidden by a scarf and by ordinariness**, and nobody looks at her twice. **The hair is the one thing that cannot be changed: silver, and nothing else in the world that colour** (author, s55: unique). Her eyes' colour is still unspent.
 - **She was asked whether standing on that bank was her own choice and said *"It is. Entirely."*** — the outlaw's own procedure doing what no court ever did. **What she is stays unsaid by everybody**, and the crew's leader enforces the not-saying himself.

@@ -1,5 +1,5 @@
 ## VALERIA VEL
-**Glance:** rival → first friend · Line of Vel (eleven generations — tiers in `../02-World-Bible/factions.md`) · 14 (Kael's age) · **nine months inside the honest men as *Tamar* — unchanged, and says so; *what is done so that she keeps standing is not wrong*; taught early or late and never the middle, and *early for a very long time* if they never come**
+**Glance:** rival → first friend · Line of Vel (eleven generations — tiers in `../02-World-Bible/factions.md`) · 14 (Kael's age) · **she killed THIRO in the fold (Ch. 59) — the island rematch closed, both blades up under the jaw — and then held the whole of Kael down on the wagon while the crew burned, the boat-arm again; the crown-vs-Kael choice still not made, and out of the fold with the trio, Tirzah and the twins**
 
 ### STATIC
 - **Role:** Daughter of the Line of Vel. Kael's rival, then first friend. The rest of her role is in 00.
@@ -14,6 +14,9 @@
 
 ### DYNAMIC
 **WHERE SHE STANDS**
+- **She closed the island rematch: THIRO is dead by her hand** (`../02-World-Bible/magic.md`, `coalition-generals.md`) — she went in on his feet as she had on the shelf above the sea, and this time, with Borren holding the air and Kael's threading in the man's knee, she went up under the jaw with both blades. She did not beat him alone; the three of them did.
+- **She held Kael on the wagon while Borren bought the escape** — both arms across him, the same arm that was in front of him on a boat before a blow was anywhere, and this time she stopped not his hand but the whole of him: *He is buying this. Do not make it for nothing.*
+- **Borren named her to her face in the fold** (*That's your real name, is it not*) — he had known the whole time; the road name *Tamar* is off her now in front of the three surviving crew.
 - **She is *TAMAR* on the road**, said at the fire as one word and the end of the sentence.
 - **Her post under the crew's terms is the camp and the princess** — Kael's own conditions put her back where she is for. **The crown and Kael point the same way, so the crown-vs-Kael choice is still not made, and nobody has been asked to make it.** She has said which way she would go if they split: with the princess, *and I would have been interested to see which way* the boy chose.
 - **She lies across the door of whatever the three of them sleep in**, whatever anybody says.
