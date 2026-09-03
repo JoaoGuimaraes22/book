@@ -18,9 +18,6 @@ no face on either of them. KAEL stands a foot away at the right of the
 frame with a lamp raised in his left hand, his own face lit by it,
 watching.
 
-Age: fourteen. The boy's eyes at the vertical midpoint of the head,
-the jaw softly defined and not sharp.
-
 THE OFFICER HAS JUST REACHED FOR SOMETHING AND IT IS NOT THERE. The
 eyes are wide open and fixed on nothing, the brows up and drawn
 together at their inner ends, the mouth open with the jaw slack, and
