@@ -32,11 +32,41 @@ There was a fire that night, bigger than the rule, and nobody dug it down.
 
 That was the thing that told him, more than the resting or the sitting or the cup: the fire was on the ground and not in a pit, and the stones were not on the side they had come from, they were all round it, the way you build a fire for people and not the way you build a fire to be unseen. Borren had let it be built that way. Kael sat on the far side of it and looked at the flames going up into the dark, high, the way he had been told his whole life a fire must never go, and could not decide whether the thing in his chest was fear or the other thing, the thing he did not have a word for, that a fire like that was for.
 
-They ate out of the one pot and nobody counted anything onto anybody's plate. Selis, who was eighteen and did not laugh, laughed at something one of the four of Ishareth said, and put her hand over her mouth as the princess did. The warehouse man, who had said four words in Kael's hearing in his whole life, told a story about a warehouse, his own, the one the empire had cost him. It was a funny story, which Kael had not known a warehouse could be. The crew laughed at the parts that were funny and not at the part that was not. The man got to the end of it and drank, and somebody put a hand on his shoulder.
+They ate out of the one pot and nobody counted anything onto anybody's plate, and then, because there was more than there had ever been, they ate again, and somebody had wine that had come out of the town in a way nobody asked about, and it went round.
 
-The princess sat between Tirzah and Selis, her sleeves down, her face brown in the firelight, and laughed, properly, more than once, and did not put her hand over it. Kael watched her do it. He had never once seen her do it before this crew, and would not see her do it after, because at Solvenna she would be somebody who did not. Here, for one night, on a chest full of her father's money, she was a girl called Adah at a fire, laughing.
+"I am going to buy a warehouse," the warehouse man said. He had said four words in Kael's hearing in his whole life and now he could not stop. "A good one. Dry. Stone. And I am going to fill it with things that are mine, and I am going to sit in the door of it in a chair, and when a man in white and blue comes down the street I am going to look at him, and he is going to keep walking, because it is going to be a warehouse with a paper for everything in it, and every paper is going to be real."
 
-Valeria lay along the outside of it, on her back, with the sword along her leg. She did not laugh. But once, when the princess did, Kael saw Valeria turn her head and look at the girl laughing, and hold it a moment, and turn back to the dark, and that was Valeria laughing.
+"You are going to buy a warehouse to sit in front of," Oran said.
+
+"I am going to buy a warehouse to sit in front of."
+
+"After all this." Oran spread his hands at the dark, at the chests, at the whole of it. "A man could buy a valley. He could buy a coast. He could buy a name and a house with the name over the door, and this one is going to buy a shed and a chair."
+
+"It is not a shed. Were you listening. It is stone."
+
+"Forgive me. A stone shed." Oran was laughing before he finished it, and the warehouse man threw the heel of the bread at him and missed, and Talo caught it out of the air without looking and ate it, and that, from Talo, who did not talk, was the funniest thing that had happened in a year, and the whole fire went, even Selis, who was eighteen and did not laugh and laughed now with her hand over her mouth the way the princess did.
+
+"What will you buy," the princess said, to Tirzah. Adah said it. She had her knees up and her arms round them and the wine had put colour in her that the sun had started.
+
+Tirzah thought about it, and the thinking took the noise down, because Tirzah thinking about a thing was worth watching.
+
+"Cloth," she said, at last. "A stall of it. The best there is. Thread in every colour they make, and some they do not." She looked into the fire. "I had one. It was a good one." She did not say the rest of it, the husband and the gate and the basket, and nobody made her, and the princess, who knew the rest of it, put her head for a moment on Tirzah's shoulder, and Tirzah let her, and put an arm round her, and that was that.
+
+"And blue ribbon," Aeliana said, into her shoulder.
+
+Tirzah went still for a beat. Then she laughed, once, low, and it had the whole of the thing in it, the ribbon and the gate and the nine months and the girl leaning on her, and she said, "And blue ribbon. All the blue ribbon in the world. And I will give it away, and let them owe me nothing for it."
+
+Oran sang, after that. Nobody asked him to. He had a voice nobody would have guessed at out of a man who talked as much as he did, and the song was in Avestan, the downhill tongue, the one that sings, and Kael had it off his mother's mouth before he had it off Oran's and had to hold his own face very still, because it was a song about a road and a house at the end of it, and Talo, who did not talk, and who had not said a word since a valley across the water, put his head back against a wagon wheel and closed his eyes and moved his mouth to the words. He knew every one of them. He did not make a sound. Oran sang for the both of them, the way, Kael understood, he had been doing for a long time.
+
+The princess laughed, and laughed again, and did not put her hand over it once, and Kael watched her do it and thought that he had never seen her do it before this crew and would not see her do it after, because at Solvenna she would be somebody who did not. Here, for one night, on a chest full of her father's money, she was a girl called Adah at a fire, with wine in her and her head on a cloth-seller's shoulder, laughing.
+
+"You," Tirzah said to Kael, across the fire, because she had caught him at the edge of it with the count running instead of a cup. "Come in from the dark. You have carried more than anybody here and you are sitting out there totting us up. Come in."
+
+"I am in," Kael said.
+
+"You are on the line of it. There is a difference." She patted the ground beside her, on the far side from the princess, and Kael, who did not know how to be at a fire, who had never once in his life been somewhere he was allowed to stay, got up and went and sat where a woman with a basket told him to sit, between her and the warehouse man, and somebody put a cup in his hand, and for the length of one song and part of another he was not counting anything, which had not happened to him since before the box, and might not have happened to him ever.
+
+Valeria lay along the outside of it, on her back, with the sword along her leg. She did not sing and she did not drink. But once, when the princess laughed, Kael saw Valeria turn her head and look at the girl laughing, and hold it a moment, and turn back to the dark, and that was Valeria laughing.
 
 And Borren watched Tirzah.
 
