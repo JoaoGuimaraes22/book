@@ -44,7 +44,7 @@ They ate out of the one pot and nobody counted anything onto anybody's plate, an
 
 "It is not a shed. Were you listening. It is stone."
 
-"Forgive me. A stone shed." Oran was laughing before he finished it, and the warehouse man threw the heel of the bread at him and missed, and Talo caught it out of the air without looking and ate it, and that, from Talo, who did not talk, was the funniest thing that had happened in a year, and the whole fire went, even Selis, who was eighteen and did not laugh and laughed now with her hand over her mouth the way the princess did.
+"Forgive me. A stone shed." Oran was laughing before he finished it, and the warehouse man threw the heel of the bread at him and missed, and Talo caught it out of the air without looking and ate it, and that, from Talo, who did not talk, was the funniest thing that had happened in a year, and the whole fire went, even the young Selis laughed with her hand over her mouth the way the princess did.
 
 "What will you buy," the princess said, to Tirzah. Adah said it. She had her knees up and her arms round them and the wine had put colour in her that the sun had started.
 
@@ -72,7 +72,7 @@ And Borren watched Tirzah.
 
 Kael had the count on everything, because he could not not have it, and so he had it on that too, and he wished afterward that he had not. Borren sat with his cup and did not say much, which was Borren, and the one eye went round the fire as it always went round a room, pricing, and every third or fourth time it went round it stopped on Tirzah for a beat longer than it stopped on anybody else, and then went on. She never saw it, because she was telling the princess something with her hands, the firelight on her, thirty and sharp and alive and laughing. The old man on the far side of the fire looked at her the way a man looks at a thing he priced a long time ago and put down because he could not afford it and has never once stopped seeing in the window.
 
-He never said it. Kael would think about that for the rest of his life. There was a whole evening in which he could have said it, and he had a cup in his hand and the money was got and everyone he had was alive around one fire, and he did not say it, because he was a man who had spent his whole life learning that the thing you want is a thing you go round, and he went round it one more time, and there was not going to be another time, and he did not know that, and Kael did not know it either, and nobody at that fire knew it, and that was the mercy of it, the only mercy in the whole of what came next: that they had the evening, and did not know it was the last thing.
+He never said it. Kael would think about that for the rest of his life.
 
 ---
 
@@ -86,7 +86,7 @@ Oran was up the slope, on the watch. He did not answer, because he was already l
 
 "Horses," Oran said. "A lot of them. East. And—" He stopped. He looked at Borren and something went across his face that Kael had never seen on it, and Oran had walked off an imperial column at fourteen with his mother burning in a house behind him. "Not the empire," he said. "They are not in white and blue. They are not in anything. They are coming up the fold from the water, all of it, and they are not stopping to look."
 
-Nobody at that fire had ever heard the coalition and did not know the word. But Kael had. Kael had lain on a mountainside and watched four hundred men who were not in anything come up a path that could not be come up, for a girl who was standing in a yard, and he stood at a fire on a chest of the Emperor's money four hundred miles from that mountain and felt the whole of the last year fold shut like a book.
+Nobody at that fire had ever heard the coalition and did not know the word. But Kael had. Kael had lain on a mountainside and watched four hundred men who were not in anything come up a path that could not be come up, and he stood at a fire on a chest of the Emperor's money four hundred miles from that mountain and felt the whole of the last year fold shut like a book.
 
 "How," he said. It came out of him low. "This place cannot be seen. You said it cannot be seen from anywhere a man would stand."
 
@@ -106,11 +106,11 @@ The crew moved. They did not ask a question. Fifteen people who had spent an eve
 
 "You," Borren said, to him, passing. "You are for the girls. Both of them. Whatever happens on this ground, you put them on a wagon and you are on it, and you go where the wagons go, and you do not come back for anybody. That is the last order I am going to have to argue with you about, so do not make me."
 
-"You are giving orders like a man who is not getting on a wagon."
+"Borren, what will we do? We need to escape, we need to go, now."
 
 Borren stopped. For half a second, in the firelight, with the sound of horses coming up the fold now so that everyone could hear it, he looked at Kael, and it was the look from across the fire, the one that had stopped on Tirzah, and Kael understood that it had stopped on him too, all these months, and he had not been watching for it on himself.
 
-"Get the girls," Borren said, and went to meet them.
+"Get the girls, now," Borren said, and went to meet them.
 
 ---
 
@@ -124,7 +124,7 @@ It was one of the four of Ishareth. Kael did not see which. He saw a shape come 
 
 "No," Valeria said. "You have hers." She did not look at him. "I have the ground."
 
-And she put her hand flat on the earth, once, for less than a second, and stood up into the first of them.
+And she put her hand flat on the earth, once, for less than a second, and it stood up into the first of them.
 
 ---
 
@@ -136,7 +136,7 @@ And then it stopped being the thing they expected.
 
 Valeria went into four of them at the near wagon and took the ground out from under two of them at once, not lifting it, taking it away, so that the earth they had put a foot on was not there and they went down into it to the knee and could not get out, and she was on them before they understood they had stopped moving. She fought the way she had fought on the mountain, which was without any mercy and without any waste, and the coalition men who reached her found that the girl in front of them was not a girl, and some of them had the half-second to be surprised and none of them had longer than that.
 
-Selis died. Kael saw it. She was in the traces of the near wagon and a man put a spear into her from the dark and she folded over the mule's back and did not come off it, and the princess made a sound Kael had never heard a person make, and Tirzah's hand closed on the back of the princess's coat and held her on the wagon, because a princess going back for Selis was a princess dead in the grass with her.
+Kael saw it Selis in the traces of the near wagon. A man put a spear into her from the dark and she folded over the mule's back and did not come off it, and the princess made a sound Kael had never heard a person make, and Tirzah's hand closed on the back of the princess's coat and held her on the wagon, because a princess going back for Selis was a princess dead in the grass with her.
 
 "Adah," Tirzah said, low and hard, into her ear, "you do not get down. You do not get down. Look at me. You do not get down."
 
@@ -160,17 +160,14 @@ A man walked up out of the dark into the edge of the firelight. Young, thin, nev
 
 ---
 
-Borren killed him.
 
-Or tried to, and did the thing that was not that, and it was the second thing Kael saw that he did not understand and would not understand for a long time, until a woman told him, in another city, what he had been looking at.
-
-The old man came across the ground faster than a man of past fifty comes across anything, faster than Kael had ever seen him move, and there was no grammar in it either, none, it was the school with no school, the same walk the coalition men had, and Kael thought, in the quarter-second he had to think anything, *he fought them before, he fought exactly these men before, he knows this walk because it was his*—and Borren went into Thiro with a plain soldier's blade, and Thiro, who could take the breath out of four men in a space the size of a table without looking at them, turned the volume of the air on the old man at ten feet.
+Borren came across the ground faster than a man of past fifty comes across anything, faster than Kael had ever seen him move, and there was no grammar in it either, none, it was the school with no school, the same walk the coalition men had, and Kael thought, in the quarter-second he had to think anything, *he fought them before, he fought exactly these men before, he knows this walk because it was his*—and Borren went into Thiro with a plain soldier's blade, and Thiro, who could take the breath out of four men in a space the size of a table without looking at them, turned the volume of the air on the old man at ten feet.
 
 And it did nothing.
 
-Kael saw it do nothing. He saw the air go wrong around Borren the way it had gone wrong around the four at the wagon, and he saw Borren walk through it, not clawing, not reaching, breathing, his one eye open and flat and fixed on the young man in front of him, and something white ran down the length of the plain blade in his hand, the whole length of it, and Kael's whole body went cold, because he knew that white, he had made that white, it was his, it was his father's, it was the thing that ran down a blade when a Resonant put it there.
+Kael saw it do nothing. The air went wrong around Borren the way it had gone wrong around the four at the wagon, and Borren walked through it, not clawing, not reaching, breathing, his one eye open and flat and fixed on the young man in front of him, and Kael understood that the old man was breathing his own air, that whatever Thiro was doing to the ten feet around Thiro, Borren was holding the ten feet around Borren, close and hard against himself where nothing could get at it. And there was no thread of white down the blade in his hand, nothing on the steel at all, because it was not that. It was the air. Kael saw the dust lift off the ground where Borren stepped and not fall, saw it stand in a line the length of the blade and move with the blade, faster than the blade, and where that edge went into a man it went in the way his mother's had gone through a trunk on a shelf above the sea, without the resistance a blade meets, as clean as a scythe cut. There was no noise to it. There was never any noise to it. It was the thing he had watched his mother do and priced to the grain and found no bottom in, in the wrong hands, in an old man's hands, in the dark, and Kael's whole body went cold.
 
-Borren was a Resonant.
+Borren was a Resonant. Air, the same as his mother, and nothing at all like her, because it was bent to a blade and a body and the ten feet a man can reach.
 
 Borren had been a Resonant the whole time. Through Ishareth, through the winter, through the fire where the job was told, through the cup he did not have and the crouch to the boy's level and the two laughs, an old one-eyed man who ran a rope-walk and a rope train and had asked a boy what he wanted and never once asked who he was, had a thing in him that he had not shown to a single soul, and he was showing it now, in the dark, on the ground where his people were dying, to keep a young man who could not be reached from reaching six people on two wagons.
 
