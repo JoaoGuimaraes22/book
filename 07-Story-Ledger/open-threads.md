@@ -1,5 +1,5 @@
 ## Open Threads (LIVE)
-**LAW CORE.** What the story has opened and not yet closed, as of Ch. 55. **Organised by kind, not by chapter, and MAINTAINED BY REMOVAL:** a thread is added when a chapter opens it and **deleted when a chapter answers it** — the record of what each chapter opened and answered is `chapter-records.md`, and the pre-s76 per-chapter log is `../archive/open-threads-log.md`. Sealed answers are 00's; this file holds only the question the page has left standing.
+**LAW CORE.** What the story has opened and not yet closed, as of Ch. 60. **Organised by kind, not by chapter, and MAINTAINED BY REMOVAL:** a thread is added when a chapter opens it and **deleted when a chapter answers it** — the record of what each chapter opened and answered is `chapter-records.md`, and the pre-s76 per-chapter log is `../archive/open-threads-log.md`. Sealed answers are 00's; this file holds only the question the page has left standing.
 
 ### THE FAMILY, AND THE HOUSE AT QESHET
 - **Whether anybody in that house lived.** Sixteen men in, ten never out, the people in it still fighting when the box left the yard — **no name, no outcome, and nobody left alive who knows** (Ch. 51). Kael's sum has three ends and is no smaller.
@@ -11,13 +11,12 @@
 ### THE ROAD, AND THE CREW
 - **AMBROS BETRAYED THE CREW, AND IS DEAD.** He wrote everything down for a winter and a year because a man showed him proof his daughters had been taken (Ch. 59); his handler is the coalition's architect of the island and Qeshet (00). Borren killed him with understanding. **Whether his daughters live is on no page**, and **the architect has no name and no face** — the same winter-man who bought Qeshet's coast.
 - **The empire's Resonant officer** who burned the fold with real fire — his fate is unresolved; two wagons of the coin he came for are gone down a track. **What the surviving coalition make of Resonant bandits** who killed a general (Thiro) is open.
-- **Tirzah will tell Kael what Borren was, at Solvenna** (00) — a reserved beat; she alone carries it, and what Borren never said to her.
 - **The road itself.** *Between Ishareth and Solvenna*, and no page names a town, a river or a lord on it; the next name is given on the day they go in and forgotten on the day out. The winter town is one of them.
-- **The job is done, and it destroyed the crew.** The tax-house was robbed silent (Ch. 57) and the crew was attacked in the fold the next night and wiped out but for six (Ch. 58–59). **Six are out with half the coin** — Kael, Valeria, Aeliana, Tirzah, Oran, Talo — bound for Solvenna; what they do with a fortune and a road, and whether the empire or the coalition follows the two wagons, is open.
-- **What Borren was.** Answered on the page as *a Resonant and a master* — AIR (Ch. 58–59); the rest (a great imperial general) is sealed and **Tirzah will tell Kael at Solvenna** (00). His paper-source and everything he found out and did not say died with him.
+- **Six are out with half the coin** — Kael, Valeria, Aeliana, Tirzah, Oran, Talo — on the tracks to Solvenna with the share ruled (Ch. 60: the coin into the ground outside the walls, each carrying what a gate does not look at twice; three in at the gate, three on up the water, no meeting after). **Whether the shape holds**, whether anybody ever comes back for the ground, and **whether the empire's officer or the surviving coalition follows the two wagons** — nobody did on the first day — are open.
+- **What Borren was is on the page (Ch. 60, Tirzah): a general of the empire, in the east, who stopped, and swore never to swear or kill again.** His paper-source and everything he found out and did not say died with him. **Kael holds a number back from Tirzah** — that the vow did not hold at the end — and does not know whether she saw it; whether it is ever said between them is open.
 - **The letter in the boot** — a lord of the east's seal, carried to Borren unread; who paid for it and what it said are on no page. **The man on the stair**, alive with his arm, who could not have said why he did not shout.
 - **The road names, and thirteen months to hold them.** *Tamar* and *Adah*, *my sister and my cousin, our people are dead* — now said to fifteen people.
-- **The three surviving crew now hold the trio's real names** (said in the fold, Ch. 59): Kael's *Aeliana*, Borren's *Valeria*; the princess's RANK is still unsaid on the page. Whether the crew learns Kael has Avestan is still open (Oran, who reaches for it, lives). The tongue Aeliana had with Selis dies with Selis.
+- **The three surviving crew hold the trio's real names and the princess's rank** (Ch. 59; Ch. 60 — *My father is the Emperor*, hair uncovered, and Tirzah put the scarf back herself). **The promise** — *better than them*, the first of her life, made with her mouth to Tirzah's face — is on the page and unpaid. Whether the crew learns Kael has Avestan is still open (Oran, who reaches for it, lives). The tongue Aeliana had with Selis dies with Selis.
 
 ### ISHARETH, LEFT BEHIND
 - **The governor's morning.** A crowd at the bridge-house since first light and no table put out, unfollowed; what a man tied to his own wall does about sixty unpaid men, five guards who wake up, and a chest.
@@ -50,7 +49,8 @@
 - **The thing that no longer comes after blood.** *Felt nothing*, undated in his own mouth (*I noticed it was gone not too long ago*); two nothings that weigh the same, wrong done enough or a thing done cleanly; nine months on it has not come back and he has stopped looking. Whether it returns, and what he is when it does not.
 - **He hoped aloud once** — his brother alive and fed — and was thanked for what it cost; whether it is ever asked of him again.
 - **Envy, perhaps.** Under the admiring of Valeria a thing with no place and no word his mother gave him; he is not sure what he was when he walked onto the island and sure it is not what sits on that slope.
-- **Kael's three wants, one of which is aimed at the wrong enemy.**
+- **Kael's three wants, one of which is aimed at the wrong enemy.** At Ch. 60 he tried to make the sides come out — the empire's general dead for the thrown-away, the coalition's general dead with a girl's blade in him — *and could not get one side of it to be the side*; the naming is not taken back.
+- **The place where the dead fathers go is two deep now**, and he does not know how deep it goes; he cried once, in front of five people, and nobody has spoken of it.
 
 ### SMALL, AND STILL OPEN
 - **The black in the grooves** — a smith of twenty-two years did not know it either.

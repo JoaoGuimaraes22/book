@@ -1,5 +1,5 @@
 ## VALERIA VEL
-**Glance:** rival → first friend · Line of Vel (eleven generations — tiers in `../02-World-Bible/factions.md`) · 14 (Kael's age) · **she killed THIRO in the fold (Ch. 59) — the island rematch closed, both blades up under the jaw — and then held the whole of Kael down on the wagon while the crew burned, the boat-arm again; the crown-vs-Kael choice still not made, and out of the fold with the trio, Tirzah and the twins**
+**Glance:** rival → first friend · Line of Vel (eleven generations — tiers in `../02-World-Bible/factions.md`) · 14 (Kael's age) · **she killed THIRO in the fold (Ch. 59) — the island rematch closed, both blades up under the jaw — and then held the whole of Kael down on the wagon while the crew burned, the boat-arm again; the crown-vs-Kael choice still not made, and out of the fold with the trio, Tirzah and the twins; at the first fire she refused a share — *I do not want it* — and did not move while the princess gave her name**
 
 ### STATIC
 - **Role:** Daughter of the Line of Vel. Kael's rival, then first friend. The rest of her role is in 00.
@@ -15,6 +15,7 @@
 ### DYNAMIC
 **WHERE SHE STANDS**
 - **She closed the island rematch: THIRO is dead by her hand** (`../02-World-Bible/magic.md`, `coalition-generals.md`) — she went in on his feet as she had on the shelf above the sea, and this time, with Borren holding the air and Kael's threading in the man's knee, she went up under the jaw with both blades. She did not beat him alone; the three of them did.
+- **She refused the coin** — *I do not want it*, from the edge of the light with both blades across her knees, her first words since the fold; Tirzah had watched her at fifteen fires not once look at a chest. She lies across the door of the tent with a blade along her leg.
 - **She held Kael on the wagon while Borren bought the escape** — both arms across him, the same arm that was in front of him on a boat before a blow was anywhere, and this time she stopped not his hand but the whole of him: *He is buying this. Do not make it for nothing.*
 - **Borren named her to her face in the fold** (*That's your real name, is it not*) — he had known the whole time; the road name *Tamar* is off her now in front of the three surviving crew.
 - **She is *TAMAR* on the road**, said at the fire as one word and the end of the sentence.

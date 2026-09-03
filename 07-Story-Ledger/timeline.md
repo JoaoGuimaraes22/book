@@ -65,3 +65,4 @@
 | 57 | 14 | not re-pinned | **THE AFTERNOON BEFORE TO FIRST LIGHT** — the heist, one unbroken run, continuous from Ch. 56. |
 | 58 | 14 | not re-pinned | **THE DAY AND NIGHT AFTER THE HEIST**, in the fold — the one night's rest, then the attack at full dark; continuous into Ch. 59. |
 | 59 | 14 | not re-pinned | **CONTINUOUS from Ch. 58** — the three-way and the escape, one unbroken run into the dark on the track. |
+| 60 | 14 | not re-pinned | **THE DAY AFTER THE FOLD AND ITS NIGHT**, continuous from Ch. 59's track — two wagons going down and west and a little south through the first grey, three stops for water, a cut with a stream at dusk, one fire, the first watch. Still the summer; *before the leaves are off* is still ahead. No place named. |
