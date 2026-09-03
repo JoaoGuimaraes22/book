@@ -30,4 +30,4 @@
 - **HE KNOWS WHAT KAEL IS FOR.** *You are for one thing and it is not money … It is the most expensive way there is to live* — and he heard the hour of questions about the family that the one thing points at.
 
 ### FORWARD
-- **DEAD.** MEMORY from here. What he was — a great imperial general — and the whole of his past are sealed (00) and reach the page only through **Tirzah, who will tell Kael at Solvenna**; his air Art, his fatherhood toward Kael and his unspoken love for Tirzah are spent. The job he opened (six years of a province's coin) was taken and cost the crew everything: fifteen of the honest men are dead, three survive.
+- **DEAD.** MEMORY from here. What he was — a great imperial general — and the whole of his past are sealed (00) and reach the page only through **Tirzah, who will tell Kael at Solvenna**; his air Art, his fatherhood toward Kael and his unspoken love for Tirzah are spent. The job he opened (six years of a province's coin) was taken and cost the crew everything: twelve of the fifteen honest men are dead, three survive.

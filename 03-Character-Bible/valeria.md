@@ -32,7 +32,7 @@
 - **Internal reinforcement is her specialty** and it leaves no mark on the world — nothing goes out of her body, so nothing signs a room as Resonants' work. **Her Art is fully back** and the page shows it costing her nothing.
 - **The ground-sense is a projection, not a passive reading** (author, s69; `../02-World-Bible/magic.md`): a hand flat on floor or ground, short range, not long and not while asleep — **and she would rather nobody knew she could do it at all.**
 - **She opens ground by subtraction rather than digging**, which takes a long time and costs her.
-- **She carries a plain soldier's sword** off the dead (author, s64), and is better with an edge than any man it came off. She still fights as though there were a hand's width of chain between her fists.
+- **She carries two blades — the plain soldier's sword off the dead (author, s64) and a second beside it (author, s80): twin blades again, both hands full** — and is better with an edge than any man either came off. She still fights as though there were a hand's width of chain between her fists.
 - **She has never once asked Kael a question about the mountain** — a year, a treeline, the yard, the fall, the boat. **That is hers, not leverage.**
 - **She asked him one question in her life** — *why are they doing this* — got no answer, and did not raise it again.
 - **She is learning Ivrit and is the worst student he has ever had:** every sound correct and nothing else about it right, because *I have never in my life had to want anything out loud in front of a stranger.*

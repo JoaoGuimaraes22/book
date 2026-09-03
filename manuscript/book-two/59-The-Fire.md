@@ -134,7 +134,7 @@ Kael felt it before he understood it, a hand of wind under him that was not wind
 
 "No," Valeria said.
 
-She was on the wagon. She had the princess driving and she had Kael by the coat with both hands, her arm across him, the same arm that had been in front of him on a boat before a blow was anywhere, and she did not stop his hand this time, because his hand was not the thing. She stopped the whole of him, she put her weight on him and held him down among his father's money while he came apart.
+She was on the wagon. She had the princess driving and she had Kael by the coat with both hands, her arm across him, the same arm that had been in front of him on a boat before a blow was anywhere, and she did not stop his hand this time, because his hand was not the thing. She stopped the whole of him, she put her weight on him and held him down among the Emperor's money while he came apart.
 
 "He is buying this," she said, into his ear, hard, flat, the truth with no comfort in it because there was none and she would not insult him with the other kind. "Do not make it for nothing. Do not."
 
