@@ -2,11 +2,11 @@
 
 Nobody spoke on the wagons, and nobody had decided not to.
 
-The track went down and the dark went on and the wagon ahead was a shape that was there at every bend and gone between them, and Kael lay among the chests and counted the bends, because he could not not, and at some point Valeria's arm was no longer across him and he did not have the point. The smoke thinned. The stars came back, a few, then the rest, and he put the wagon on the sky the way he had once put a hull on it and got west, and a little south, and did not know what to do with it, because the man who had known where west went was standing in a fire.
+The track went down and the dark went on and the wagon ahead was a shape that was there at every bend and gone between them, and Kael lay among the chests and counted the bends, because he could not not, and at some point Valeria's arm was no longer across him and he did not have the point. The smoke thinned. The stars came back, a few, then the rest, and he put the wagon on the sky and got west, and a little south, and did not know what to do with it, because the man who had known where west went was standing in a fire.
 
-Aeliana drove. He came up over the chests when the grey started and sat on the board beside her and held out his good hand for the reins, and she did not look at it, and after a while he took it back. Her hands were exactly where he had put them. She had not moved them all night except to follow the wagon in front, and there was a line of dried something down the side of her face that had come out of her eyes and been left where it fell, and she was not crying now. She was driving.
+Aeliana drove. He came up over the chests when the grey started and sat on the board beside her and held out his good hand for the reins, and she did not look at it, and after a while he took it back. Her hands were exactly where he had put them. She had not moved them all night except to follow the wagon in front, and there was a line of dried salt down the side of her face, left where it fell. She was not crying now. She was driving.
 
-He looked back at every bend. He had the count on every bend and there was nothing on the track behind them but the track. He did not believe it. Three sides had watched two wagons go over a lip with half of six years on them, and one of those sides had a paper in its coat with the crew's own words on it and a fire Resonant at its head, and one of them had forty men who were not in anything and a road they had come up. He priced why nobody came and got answers he did not trust: the officer had eight chests left to sit on and dead to count; the coalition had a dead man to carry who was worth more to them than money. A fire with nobody's name on it yet. Borren had said a hunt had a name in it by the third week. This was the first morning.
+He looked back at every bend. He had the count on every bend and there was nothing on the track behind them but the track. He did not believe it. Three sides had watched two wagons go over a lip with half of six years on them. One of those sides had a paper in its coat with the crew's own words on it, and a fire Resonant at its head. One had forty men who were not in anything and a road they had come up. He priced why nobody came and got answers he did not trust: the officer had eight chests left to sit on and dead to count; the coalition had a dead man to carry who was worth more to them than money. A fire with nobody's name on it yet. Borren had said a hunt had a name in it by the third week. This was the first morning.
 
 They stopped three times for water. Nobody got down who did not have to. At the second one Oran walked back from the near wagon and stood at the mule's head and looked up at the two of them on the board and said, "She is all right?" in the Koine, and Kael said, "She is driving," and Oran nodded as though that were an answer and went back. That was all the speech there was in the day.
 
@@ -16,19 +16,19 @@ The mules ended it. At dusk the track came down into a cut with water in the bot
 
 Talo was down first.
 
-He went to the flat above the water with the spade off the near wagon and dug the fire down into the ground, deep, and set the flat stones on the east side of it, the side they had come from, and the fold was on that side and so was everything else, and he did it without a word because he was Talo, and Kael stood by the wheel and watched a rule his father had put in him at five years old get kept by a man who had never once been told it by anybody Kael knew. The man was dead who had kept it in this crew. The rule did not know that. Talo laid the sticks and struck the light and put his hand flat on the ground beside it a moment, the way you put a hand on an animal, and then went to the mules.
+He went to the flat above the water with the spade off the near wagon and dug the fire down into the ground, deep, and set the flat stones on the east side of it, the side they had come from, and the fold was on that side and so was everything else, and he did it without a word because he was Talo, and Kael stood by the wheel and watched a rule his father had put in him at five years old get kept by a man who had never once been told it by anybody Kael knew. The man was dead who had kept it in this crew. The rule did not know that. Talo laid the sticks and struck the light and put his hand flat on the ground beside it a moment, and then went to the mules.
 
-Oran took the teams out of the traces and walked them up out of the water and hobbled them, and talked to them the whole time, low, in Avestan, the way a man talks to animals in the tongue he had before he had any other, and Kael let his face do nothing and then noticed that there was nobody left at this fire to keep it from except two, and let his face do nothing anyway, because it was a habit and because the habit was one of the things he had left.
+Oran took the teams out of the traces and walked them up out of the water and hobbled them, and talked to them the whole time, low, in Avestan, the tongue he had had before he had any other, and Kael let his face do nothing, and then noticed that there was nobody left at this fire to keep it from except two, and let it do nothing anyway.
 
 Oran did not sing.
 
-Aeliana got down off the board at last, stiff, and stood a moment holding the wheel, and then she went to the near wagon, to the traces where Selis had stood in them yesterday morning and folded over a mule's back last night, and she did the work that had been Selis's. The water for the animals. The straps. The feed out of the sack on the near wagon, measured in the hand, the way a girl of eighteen from Ammareth had shown her, and nobody had told her to and she did not look at anybody while she did it. Tirzah watched her and said nothing.
+Aeliana got down off the board at last, stiff, and stood a moment holding the wheel, and then she went to the near wagon, to the traces where Selis had stood in them yesterday morning and folded over a mule's back last night, and she did the work that had been Selis's. The water for the animals. The straps. The feed out of the sack on the near wagon, measured in the hand, as Selis had shown her, and nobody had told her to and she did not look at anybody while she did it. Tirzah watched her and said nothing.
 
-Valeria sat on a chest at the edge of the light with both blades across her knees and cleaned them, one and then the other, with a rag and the stream, and there was more on them than there had been at the fold, because she had not cleaned them at the fold, and she did it the way she did everything, without any visible cost, and Kael watched her hands and could not find anything in them and knew that the not finding was the thing.
+Valeria sat on a chest at the edge of the light with both blades across her knees and cleaned them, one and then the other, with a rag and the stream, and there was more on them than there had been at the fold, because she had not cleaned them at the fold, and Kael watched her hands and could not find anything in them.
 
 Tirzah put the basket down by the fire and did not open it. She sat with her hands on her knees and looked into the fire Talo had made and did not say anything to anybody, and that was the strangest of all of them, because Tirzah at a fire was a woman with something to say to it.
 
-And Kael counted. Six. Two wagons. Thirty chests, iron-strapped, the Emperor's mark on every one. Four mules. Three swords, two of them hers, and his three knives, and a basket. Then the ones who were not there, again, in order, the way he had done it in the dark, and he had every one of them and it did not get smaller for being done twice. He could not stop it. He had stopped trying to somewhere on the track and did not know where.
+And Kael counted. Six. Two wagons. Thirty chests, iron-strapped, the Emperor's mark on every one. Four mules. Three swords, two of them hers, and his three knives, and a basket. Then the ones who were not there, again, in order, as he had in the dark, and he had every one of them and it did not get smaller for being done twice. He could not stop it. He had stopped trying to somewhere on the track and did not know where.
 
 They ate. Tirzah's pot, the one pot, and nobody counted anything onto anybody's plate, and there was less than there had been, because most of the food was in the fold with the wine, and nobody said so.
 
@@ -40,7 +40,7 @@ She said it to the fire, the way Selis had said her name to it. Nobody had asked
 
 "You knew him best," Oran said.
 
-"I knew him longest. Nine years. That is not the same." She looked round the fire, one face at a time, the way the old man had looked round it, and Kael saw her know that she was doing it, and do it anyway. "You should know what this crew was, first. You think you know. You do not."
+"I knew him longest. Nine years. That is not the same." She looked round the fire, one face at a time, as the old man had, and Kael saw her know that she was doing it, and do it anyway. "You should know what this crew was, first. You think you know. You do not."
 
 "Thieves," Kael said.
 
@@ -54,7 +54,7 @@ She let it go round the fire, and it went.
 
 "Every one of us was a thing somebody had thrown away," she said. "Every one. He went about the roads picking them up. That is what the crew was. That was what it was for. The trade was so that we ate."
 
-Kael sat with that and did not restate it to himself, because there was no way to make it smaller. Fifteen people who could not be described. A crew that took a room and left everybody in it alive. A man who asked what you wanted and what you had got and never who you were, because who you were was the thing that had been thrown away, and he already knew. Three children on a bank who could not be seen.
+A man who asked what you wanted and never who you were, because who you were was the thing that had been thrown away, and he had already known.
 
 "He was a soldier," Tirzah said. "No. That is the word for what he was not. He was the empire's, and he was over soldiers. A great many of them. There is a word in the Koine for it and it is his word, the Emperor's, and I will say it once and then not again. He was a general. He led the empire's men in the empire's wars, in the east, for a long time, and he was very good at it, and the empire knew his name, and some of the people on the other side of him knew it too." Her hands were still on her knees. "He killed a great many people. He said so. He did not say how many. He said a man who has a number for it has kept the number, and he had kept it, and he was not going to give it to anybody, because it was his."
 
@@ -82,25 +82,25 @@ He did not know if she knew. Perhaps she did. Perhaps she had seen every bit of 
 
 She said it to Kael. He did not understand her.
 
-"On the bank at Ishareth. The night you asked for a knife. Afterward, when you had gone back to that yard with the girl, he sat in that room with the paper and did not touch it, and I asked him what he was thinking, and he said, that one has been thrown in the road and does not know it yet." She looked straight at him across the fire, thirty and sharp and worn. "He said, I want him. He said it the way he said everything, as though it were written down somewhere. I want him. He is going to be a great many things and none of them will be for himself, and somebody had better be standing next to him while he finds that out. He said that about you, before he knew your name, before you had a name."
+"On the bank at Ishareth. The night you asked for a knife. Afterward, when you had gone back to that yard with the girl, he sat in that room with the paper and did not touch it, and I asked him what he was thinking, and he said, that one has been thrown in the road and does not know it yet." She looked straight at him across the fire, worn and sharp. "He said, I want him. He said it the way he said everything, as though it were written down somewhere. I want him. He is going to be a great many things and none of them will be for himself, and somebody had better be standing next to him while he finds that out. He said that about you, before he knew your name, before you had a name."
 
 Kael did not decide anything.
 
-It came off him the way the rule had come on the stair, before he had a say in it. His face did a thing and then water was coming down it, and he sat with his hands on his knees the way she sat and let it come down, and it made no sound, because he did not know how to make a sound with it, nobody had ever shown him that, and it went on for longer than he would have said he had in him. Nobody touched him. Tirzah went on looking at him across the fire and did not look away and did not say anything, and that was the thing she did. Aeliana, beside him, put her hand on the ground between them, flat, and left it there, and did not put it on him.
+It came off him the way the rule had come on the stair, before he had a say in it. His face did a thing and then water was coming down it, and he sat with his hands on his knees, as she sat, and let it come down, and it made no sound, because he did not know how to make a sound with it, and it went on for longer than he would have said he had in him. Nobody touched him. Tirzah went on looking at him across the fire and did not look away. Aeliana, beside him, put her hand on the ground between them, flat, and left it there, and did not put it on him.
 
-He had liked the old man. He had known that as a fact, the way he knew the number of strides in a day. He had not known the size of it, because nobody had ever asked him, and now the size of it was coming out of his eyes in front of five people and he could not put it back.
+He had liked the old man. He had known that as a fact. He had not known the size of it, because nobody had ever asked him, and now the size of it was coming out of his eyes in front of five people and he could not put it back.
 
 ---
 
 "He said nobody at that fire would work again," Tirzah said, later, when the fire had burned down and Talo had built it up. "He said it and he meant it. There are six of us at this fire. That is what is left of what he said, and I mean to see it kept."
 
-"Thirty chests," Kael said. His voice was his own again, more or less. "The mark on every one. We cannot go through a gate with them. We cannot go over a bridge with them. Nobody at any toll on this continent looks at a chest with that mark on it and holds the door. A chest is a hunt, and that chest is a hunt with the Emperor's name on it before anybody has to say a word." He had the sum and he gave it in order, short, the way he had been told to. "And the war is coming through this province before the leaves are off. Every road worth walking on will have men with a list on it. We have two wagons that cannot go anywhere a road goes and four mules that will not pull them much further, and thirty chests we cannot open in front of anybody."
+"Thirty chests," Kael said. His voice was his own again, more or less. "The mark on every one. We cannot go through a gate with them. We cannot go over a bridge with them. Nobody at any toll on this continent looks at a chest with that mark on it and holds the door. A chest is a hunt, and that chest is a hunt with the Emperor's name on it before anybody has to say a word." He had the sum and he gave it in order, short, as he had been told to. "And the war is coming through this province before the leaves are off. Every road worth walking on will have men with a list on it. We have two wagons that cannot go anywhere a road goes and four mules that will not pull them much further, and thirty chests we cannot open in front of anybody."
 
 "Say what you would do."
 
 He had not been asked that since the fold. He found he had it anyway.
 
-"Coin is coin. It is the chest that is the mark, not what is in it. Get it to Solvenna, on the tracks, the way he moved everything. Outside the walls, before anybody is looking, into the ground. All of it that we cannot carry. Then each of us takes what a person can walk through a gate with and not be looked at twice, and no more than that, and the rest stays where it is, in the ground, for whoever comes back for it." He looked at Tirzah. "That is a share. It is not a fair one. I do not know how to make it fair without a board and I do not have the board."
+"Coin is coin. It is the chest that is the mark, not what is in it. Get it to Solvenna, on the tracks, as he moved everything. Outside the walls, before anybody is looking, into the ground. All of it that we cannot carry. Then each of us takes what a person can walk through a gate with and not be looked at twice, and no more than that, and the rest stays where it is, in the ground, for whoever comes back for it." He looked at Tirzah. "That is a share. It is not a fair one. I do not know how to make it fair without a board and I do not have the board."
 
 "Ambros had the board," Oran said.
 
@@ -128,7 +128,7 @@ Nobody argued with it. Kael turned it over for the place where it was wrong and 
 
 She was sitting beside Kael, with her knees up and her arms round them, and she said it quietly, and she reached up and took the scarf off her head.
 
-Kael had seen it before. He had seen it on a strand, and in a yard for four seconds, and in a tent by the light of one candle, and it still did the thing it did, which was to make every other colour at the fire into a colour and itself into something else. Silver, and nothing else in the world that colour, down her back over the brown of the road and the blue at her collar that she had sewn herself, and the fire went into it and came back out of it changed.
+Kael had seen it before, and it still did the thing it did, which was to make every other colour at the fire into a colour and itself into something else. Silver, and nothing else in the world that colour, down her back over the brown of the road and the blue at her collar that she had sewn herself, and the fire went into it and came back out of it changed.
 
 Tirzah looked at it for a long time.
 
@@ -136,7 +136,7 @@ Tirzah looked at it for a long time.
 
 Tirzah went on looking at her.
 
-And then she smiled. She could not help it. It came up on her face the way it had come up when the girl had said blue ribbon into her shoulder, low, with the whole of a thing in it, and she shook her head, once, at the fire and the wagons and the four mules and the year.
+And then she smiled. She could not help it. She shook her head, once, at the fire and the wagons and the four mules and the year.
 
 "We put the Emperor's daughter on a mule," she said. "We fed her out of the pot and gave her the hobbles and had her carry water for eighteen thieves for a summer."
 
@@ -154,7 +154,7 @@ Oran had gone very still on the far side of the fire. He looked at the hair, and
 
 "Yes."
 
-Oran nodded, and that was all he did with it, and Talo, who did not talk, looked at the hair once more and then at the fire, and Kael understood that the not-asking had outlived the crew as well, and that it was the same thing as the fire being dug down. It was what they had been given, and they kept it.
+Oran nodded, and that was all he did with it, and Talo, who did not talk, looked at the hair once more and then at the fire.
 
 "Your father's watch hanged my husband over a ribbon," Tirzah said. To the girl. Not hard. As a thing that had come in and had gone out. "Not your father. A governor's son and a watch and a gate, three days west of Qeshet, with your father's name over the gate. You know that. I told it at a fire and you sat next to me and did not move. I am not going to pretend it away because you have taken a scarf off. It is the truest thing I have about what you are."
 
@@ -182,13 +182,13 @@ Valeria had not moved through any of it. Kael looked at her once, at the edge of
 
 He took the first watch, because nobody had told him to and because he could not have slept.
 
-The lip of the cut, with the stream below him and the fire dug down behind him giving nothing to anybody a hundred strides off, and the track going up into the dark the way they had come, and the count on it, on every bend of it, and nothing on it. Six, behind him. He had them by the sound. Oran and Talo under the near wagon. Tirzah by the fire with the basket, sitting up, not sleeping, the way Borren had always been awake when anybody came in. Aeliana in the tent. Valeria across the door of it, on her back, with a blade along her leg, whatever anybody said.
+The lip of the cut, with the stream below him and the fire dug down behind him giving nothing to anybody a hundred strides off, and the track going back up into the dark, and the count on it, on every bend of it, and nothing on it. Six, behind him. He had them by the sound. Oran and Talo under the near wagon. Tirzah by the fire with the basket, sitting up, not sleeping, as Borren had always been awake when anybody came in. Aeliana in the tent. Valeria across the door of it, on her back, with a blade along her leg, whatever anybody said.
 
 He tried to make the sides come out and they would not. The empire's general had gone round the empire's roads picking up what the empire had thrown in them. The coalition had come up a fold for a bandit's coin and killed the thrown-away by the dozen. The empire's fire had come down it and burned the coalition and the crew alike and the old man last. He had named the coalition his enemy on a beach with his father a day dead and had not taken it back, and here was the coalition's general dead with a girl's blade in his brain, and the empire's general dead in the empire's fire for a cloth-seller and two boys and three children with no names, and Kael sat on the lip of a cut and could not get one side of it to be the side.
 
 He did the count on the dead one more time, because it was going to be done whether he did it or not, and put Borren at the end of it, the heaviest thing at the bottom.
 
-The place where his father was had room. He found that out. He had thought it was full, on the wagon, lying among the coin, and it was not; it had only ever been one man deep, and now it was two, and he sat and looked at that and did not know how deep it went, or how many more it would take before he found the bottom of it, and he did not want to know, and the count did not care what he wanted.
+The place where his father was had room. He had thought it was full, on the wagon, lying among the coin, and it was not. It had only ever been one man deep. Now it was two, and he did not know how deep it went, and did not want to, and the count did not care what he wanted.
 
 Behind him, low, from the fire, Tirzah's voice.
 
