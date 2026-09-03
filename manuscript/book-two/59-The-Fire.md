@@ -28,7 +28,7 @@ Behind him the fire went up the fold.
 
 Valeria met the first of them where the wagons stood, and the ground helped her.
 
-She put her hand flat and took it out from under three men at once, the earth going down and sideways the way sand goes when you pull the bottom out of it, and they dropped to the knee in it and could not run and she was through them before the third had understood he had stopped. She did not fight them the way she fought Kael, with a measure and a stop. She fought them the way the Line was made to fight, which was to end a thing in the fewest possible motions and go to the next thing, and Kael, cutting a coalition man off the tail of the near wagon with the threading up the whole of the borrowed sword, saw her open a man from the hip to the sternum on the way past him to somewhere else and not look back to see him fall, because a thing that is done does not need looking at.
+She put her hand flat and took it out from under three men at once, the earth going down and sideways, sand with the bottom pulled out of it, and they dropped to the knee and could not run and she was through them before the third had understood he had stopped. She did not fight them the way she fought Kael, with a measure and a stop. She fought them the way the Line was made to fight, which was to end a thing in the fewest possible motions and go to the next thing, and Kael, cutting a coalition man off the tail of the near wagon with the threading up the whole of the borrowed sword, saw her open a man from the hip to the sternum on the way past him to somewhere else and not look back to see him fall, because a thing that is done does not need looking at.
 
 The threading held. His hand did not. He put it through the first man clean and the second man he had to take on the feet, not being where the spear was, the left hand trying to bind and closing on nothing, and he felt the whole of what Valeria had told him on the flat, that the hand was gone and the legs were the whole of it now, and the legs had a bottom, and there were forty men in this fold.
 
@@ -122,7 +122,7 @@ He did not want to do it and he did it because the man told him to and because i
 
 The warehouse man died getting Kael to the wagon.
 
-He came out of the smoke where nobody was, the man who had wanted a stone warehouse and a chair in the door of it, and he got a shoulder under Kael's arm and hauled him bodily off his own feet and toward the lip, six strides, five, and a coalition man who was on fire and did not know it yet came out of the burning with a spear and put it through the warehouse man's back and out the front of him, and the man's face, over Kael's shoulder, did the thing a face does, and he said, "Go on, then," which was a thing Borren said, and he shoved Kael the last of the way with the spear still in him, and Kael went over the lip and the man did not.
+He came out of the smoke where nobody was, the man who had wanted a stone warehouse and a chair in the door of it. He got a shoulder under Kael's arm and hauled him bodily off his feet toward the lip. Six strides. Five. A coalition man who was on fire and did not know it yet came out of the burning with a spear and put it through the warehouse man's back and out the front of him. The man's face, over Kael's shoulder, did the thing a face does. He said, "Go on, then," which was a thing Borren said, and shoved Kael the last of it with the spear still in him, and Kael went over the lip and the man did not.
 
 He never learned his name. He had learned a lock off him and a story about a warehouse and never once his name, and now there was nobody to ask.
 
@@ -134,7 +134,7 @@ Kael felt it before he understood it, a hand of wind under him that was not wind
 
 "No," Valeria said.
 
-She was on the wagon. She had the princess driving and she had Kael by the coat with both hands, her arm across him, the same arm, the way she had been in front of him on a boat before the blow was anywhere, and she did not stop his hand this time because his hand was not the thing, she stopped the whole of him, she put her weight on him and held him down among his father's money while he came apart.
+She was on the wagon. She had the princess driving and she had Kael by the coat with both hands, her arm across him, the same arm that had been in front of him on a boat before the blow was anywhere, and she did not stop his hand this time, because his hand was not the thing. She stopped the whole of him, she put her weight on him and held him down among his father's money while he came apart.
 
 "He is buying this," she said, into his ear, hard, flat, the truth with no comfort in it because there was none and she would not insult him with the other kind. "Do not make it for nothing. Do not."
 
@@ -150,7 +150,7 @@ On the other wagon, ahead and to the left, over the lip and gone into the dark o
 
 Kael saw her across the fire, on the box of the near wagon with the twins, her hand up to her mouth, looking back down into the fold at the old man standing in it, and for one second, one, the old man looked up the track at her, and Kael was between them and had both faces at once, the count giving him the two of them across two hundred feet of burning ground, and he saw the thing pass between them that the old man had never once said and now never would, and he saw her know it, at last, in the worst way a person can be told a thing, by watching the man who never said it stand still in a fire so that she could go.
 
-She did not scream. She was not that kind. She put her hand flat on the board in front of her, the way Valeria put a hand on the ground, as though there were something under it she could reach, and there was not, and the wagon took her over the rise and down and Borren was gone from her sight before he was gone from Kael's.
+She did not scream. She was not that kind. She put her hand flat on the board in front of her, as Valeria put a hand on the ground, as though there were something under it she could reach, and there was not, and the wagon took her over the rise and down and Borren was gone from her sight before he was gone from Kael's.
 
 ---
 
