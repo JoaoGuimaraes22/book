@@ -177,4 +177,4 @@ Behind him, on the west road, up out of the dark where the town was, there was a
 
 Torches. A column of them. Coming back.
 
-The escort's advance had seen the smoke of a fire that was not dug down, and heard the noise of a thing that could be heard for two hours' walking in both directions, and had turned around on the west road and was coming back to find out what had happened to the coin, and every man of them was in white and blue, and their officer, riding at the head with the torchlight on him, held his left hand empty.
+The empire escort's advance had seen the smoke of a fire that was not dug down, and heard the noise of a thing that could be heard for two hours' walking in both directions, and had turned around on the west road and was coming back to find out what had happened to the coin, and every man of them was in white and blue, and their officer, riding at the head with the torchlight on him, held his left hand empty.

@@ -18,7 +18,7 @@ He got the princess onto the far wagon and put the reins in her hands.
 
 "Kael—"
 
-"You go anyway." He put his good hand flat on the mule's neck, once, the animal shaking under it. "Adah. You have carried the water. Now carry it out."
+"You go anyway." He put his good hand flat on the mule's neck, once, the animal shaking under it. "Aeliana. You have carried the water. Now carry it out."
 
 She looked at him, and her face did a thing, and then it stopped doing it, because she was the Emperor's daughter and she had ruled on harder things than this in worse rooms, and she took the reins and set her feet.
 
@@ -28,9 +28,9 @@ Behind him the fire went up the fold.
 
 Valeria met the first of them where the wagons stood, and the ground helped her.
 
-She put her hand flat and took it out from under three men at once, the earth going down and sideways, sand with the bottom pulled out of it, and they dropped to the knee and could not run and she was through them before the third had understood he had stopped. She did not fight them the way she fought Kael, with a measure and a stop. She fought them the way the Line was made to fight, which was to end a thing in the fewest possible motions and go to the next thing, and Kael, cutting a coalition man off the tail of the near wagon with the threading up the whole of the borrowed sword, saw her open a man from the hip to the sternum on the way past him to somewhere else and not look back to see him fall, because a thing that is done does not need looking at.
+She put her hand flat and took it out from under three men at once, the earth going down and sideways, sand with the bottom pulled out of it, and they dropped to the knee and could not run and she was through them before the third had understood he had stopped. She did not fight them the way she fought Kael, with a measure and a stop. She fought them the way the line of Vel was made to fight, which was to end a thing in the fewest possible motions and go to the next thing, and Kael, cutting a coalition man off the tail of the near wagon with the threading up the whole of the borrowed sword, saw her open a man from the hip to the sternum on the way past him to somewhere else and not look back to see him fall.
 
-The threading held. His hand did not. He put it through the first man clean and the second man he had to take on the feet, not being where the spear was, the left hand trying to bind and closing on nothing, and he felt the whole of what Valeria had told him on the flat, that the hand was gone and the legs were the whole of it now, and the legs had a bottom, and there were forty men in this fold.
+The threading held. His hand did not. He put it through the first man clean and the second man he had to take on the feet, not being where the spear was, the left hand trying to parry and closing on nothing, and he felt the whole of what Valeria had told him on the flat.
 
 "Wagon," Borren's voice went across all of it. "Load and go. Now."
 
@@ -48,13 +48,13 @@ Kael saw the whole of the next thing and could do nothing with any of it, which 
 
 Thiro laughed when he saw the old man coming.
 
-He had taken the breath out of six of the crew by then without moving toward any of them, and the coalition men behind him were burning where the empire's officer reached them, and Thiro did not seem to mind either thing, the dying of his own men or the dying of the crew, because he was looking at Valeria across the fire, and now at the old man walking at him, and he was a young man who had never in his life met the thing he could not do.
+He had taken the breath out of six of the crew by then without moving toward any of them, and the coalition men behind him were burning where the empire's officer reached them, and Thiro did not seem to mind either thing, the dying of his own men or the dying of the crew, because he was looking at Valeria across the fire, and now at the old man walking at him, and he was a young man who had never in his life met a thing he could not do.
 
-"Old man," he said, in Avestan, delighted. "Old man, you are breathing. Nobody breathes."
+"Old man," he said, in Avestan, delighted. "Old man, you are breathing. Nobody breathes when I'm around."
 
 And he put the volume of dead air over Borren again, thicker, wider, a killing weight of nothing, and Borren walked into it and kept his own ten feet close against himself and it did not touch him, and Kael, thirty strides off, understood that he was watching two men do the same thing to the same air and one of them was going to run out first.
 
-"Val," Borren said. Not loud. It went to her the way his orders went, through everything. "His feet. Same as before. I have the air."
+"Valeria. That's your real name, is it not," Borren said. Not loud. It went to her the way his orders went, through everything. "Target his feet. I have the air."
 
 And Valeria, who had gone into this man once on a shelf above the sea and put four inches of steel in him twice and been thrown into a door frame by the hair, went in again.
 
@@ -62,7 +62,7 @@ And Valeria, who had gone into this man once on a shelf above the sea and put fo
 
 It took the three of them, and it took everything, and it took too long.
 
-Borren held the air. That was the thing only Borren could do: he stood at eight feet, then six, then four, close enough that Thiro could not make the ten feet between them into a weapon because there was not ten feet, and he held his own air against Thiro's the way you hold a door against a man on the other side of it, and it cost him, Kael could see it costing him, the old man's face going grey and wet, an old man doing a young man's work.
+Borren held the air. That was the thing only Borren could do: he stood at eight feet, then six, then four, and he held his own air against Thiro's the way you hold a door against a man on the other side of it, and it cost him, Kael could see it costing him, the old man's face going grey and wet, an old man doing a young man's work.
 
 Thiro stopped laughing.
 
@@ -82,7 +82,7 @@ Kael saw him in a cut of the firelight, the coat buttoned to the throat, the blu
 
 Borren came to him.
 
-The old man was spent, grey, moving like a man twice his own age now, the air gone out of him, and he came up the fold to Ambros through the burning of it, and Kael, twenty strides off and moving toward Borren because he had already decided the thing he was not allowed to decide, heard the whole of it.
+The old man was spent, grey, moving like a man twice his own age now, the air gone out of him, and he came up the fold to Ambros through the burning of it, and Kael, twenty strides off and moving toward Borren heard the whole of it.
 
 "They took my daughters," Ambros said. He did not say it to be forgiven. He said it the way he said everything, as a thing that had come in and a thing that had gone out. "In the winter. A man came and showed me a thing that they had, that could only have come off one of them, and he told me what would happen, and I wrote it down for him. Everything. I wrote it all down." His voice did not break. "I do not know if it kept them alive. I will never know now."
 
@@ -92,7 +92,7 @@ The old man was spent, grey, moving like a man twice his own age now, the air go
 
 Borren looked at him for the length of a breath, the way he had looked at Kael across a fire, the way he had looked at Tirzah.
 
-"I know what they do," Borren said. "I know it better than you will ever know it. I have done it." And there was a thing in that Kael did not have the room to hear then and would have for the rest of his life. "I am not going to tell you it is all right. It is not all right. But I know."
+"I know what they do," Borren said. "I know it better than you will ever know it. I have done it. But, you must understand me too." And there was a thing in that Kael did not have the room to hear then and would have for the rest of his life. "I am not going to tell you it is all right. It is not all right. But I know."
 
 And he killed him. Not with the air, which was gone. With his hands, one on the back of the head and one under the jaw, the way the crew took a room, four seconds, quiet, close, a mercy and a sentence in the same motion, and he held the old man against his own chest while it happened the way you hold a thing you are setting down, and when it was done he let him down into the grass gently, and that was the last strength he spent on anybody but Kael.
 
@@ -134,7 +134,7 @@ Kael felt it before he understood it, a hand of wind under him that was not wind
 
 "No," Valeria said.
 
-She was on the wagon. She had the princess driving and she had Kael by the coat with both hands, her arm across him, the same arm that had been in front of him on a boat before the blow was anywhere, and she did not stop his hand this time, because his hand was not the thing. She stopped the whole of him, she put her weight on him and held him down among his father's money while he came apart.
+She was on the wagon. She had the princess driving and she had Kael by the coat with both hands, her arm across him, the same arm that had been in front of him on a boat before a blow was anywhere, and she did not stop his hand this time, because his hand was not the thing. She stopped the whole of him, she put her weight on him and held him down among his father's money while he came apart.
 
 "He is buying this," she said, into his ear, hard, flat, the truth with no comfort in it because there was none and she would not insult him with the other kind. "Do not make it for nothing. Do not."
 
@@ -158,10 +158,10 @@ The fire closed over the fold behind them.
 
 Kael lay among the chests with Valeria's arm still across him though he had stopped fighting it, and watched the light of it on the underside of the smoke get smaller as the track bent, and bent again, and the ground took them the way the ground had always taken them, down and away, where the road did not go.
 
-He did the count, because he could not stop, because it was the thing that came instead of the other thing, and it was the cruelest count he had ever done.
+He did the count, because he could not stop, and it was the cruelest count he had ever done.
 
 Two wagons. Fifteen chests on each. Six people. Him, the two girls, the two brothers, the woman with the basket. Six, out of eighteen. He counted the ones who were not on the wagons, because the count did not let him not, and he had every one of them, the warehouse man who had wanted a chair, Selis who had laughed at the fire, the four of Ishareth, Talo who had caught the bread out of the air, no, Talo was on the wagon, he made himself do it again, slower, and got it right, and the getting of it right was worse.
 
 And Borren. He put Borren at the end of it, the way you put the heaviest thing at the bottom, and he did not have a place to keep him, because his father was in the place where the dead fathers went and there was only the one place and it was full.
 
-The wagon went down into the dark. Ahead, the other one. Above, no stars he could see for the smoke. Behind, the fire, getting smaller, and a man in it, standing, who had asked a boy once what he wanted, and never once who he was, and had known the whole time, and had thrown him onto a wagon with the last breath in his body, the way another man had once closed a boy's hand around a sword, and Kael understood, lying among the coins, that he had now watched it happen twice, and lived through it twice, and that both times he had lived because the man had spent himself to make it so, and that this was the thing he was, the thing that walked away from the fire on the strength of somebody else's dying, and he did not know how a person carried that, and there was no one left on the wagon he could ask.
+The wagon went down into the dark. Ahead, the other one. Above, no stars could be seen due to the smoke. Behind, the fire, getting smaller, and a man in it, standing, who had asked a boy once what he wanted, and never once who he was, and had known the whole time, and had thrown him onto a wagon with the last breath in his body, the way another man had once closed a boy's hand around a sword, and Kael understood, lying among the coins, that he had now watched it happen twice, and lived through it twice, and that both times he had lived because the man had spent himself to make it so, and that this was the thing he was, the thing that walked away from the fire on the strength of somebody else's dying, and he did not know how a person carried that, and there was no one left on the wagon he could ask.
