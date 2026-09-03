@@ -46,9 +46,7 @@ travel-worn. The leather patch belongs only to the man.
 
 The two faces carry the finished drawing and the sharpest step from
 light to dark sits at the lit edge of each; everything behind them
-stays at quiet low values with no hard edge in it. The picture falls
-away to bare unpainted paper at its edges rather than being painted
-out to the border.
+stays at quiet low values with no hard edge in it.
 
 Preserve each face, hair, colouring and apparent age exactly as shown
 in the reference images. Kael's eyes pale grey; the man's uncovered

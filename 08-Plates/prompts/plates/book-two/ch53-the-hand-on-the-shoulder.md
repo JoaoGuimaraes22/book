@@ -44,8 +44,7 @@ Their two faces and the hand on the shoulder carry the finished
 drawing, and the sharpest step from light to dark sits at the edge of
 the lit side of each face; the fire below the frame, the ground and
 the dark behind them stay at quiet low values with no hard edge in
-them. The picture falls away to bare unpainted paper at its edges
-rather than being painted out to the border.
+them.
 
 The two faces are the same face. Do not make one of them older, or
 heavier, or differently coloured.

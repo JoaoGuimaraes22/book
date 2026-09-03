@@ -55,8 +55,7 @@ them has anything on their head.
 Their two faces carry the finished drawing and the sharpest step from
 light to dark sits at the lit edge of each; the doorway, the shape
 lying across it and the canvas stay at quiet low values with no hard
-edge in them. The picture falls away to bare unpainted paper at its
-edges rather than being painted out to the border.
+edge in them.
 
 Preserve each face, colouring and apparent age exactly as shown in
 the reference images. Her eyes pale blue, his pale grey. Do not blend

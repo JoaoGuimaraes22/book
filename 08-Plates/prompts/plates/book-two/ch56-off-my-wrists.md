@@ -43,9 +43,6 @@ The man wears a plain dark coat over a plain collar. Kael wears a
 plain dark coat over a tunic, travel-worn. The leather patch belongs
 only to the man.
 
-The picture falls away to bare unpainted paper at its edges rather
-than being painted out to the border.
-
 Preserve each face, hair, colouring and apparent age exactly as shown
 in the reference images. Kael's eyes pale grey; the man's uncovered
 eye light grey-brown. Do not blend their features.

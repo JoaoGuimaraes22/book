@@ -40,9 +40,7 @@ in her lap, one lying in the other, still.
 Her face and the front of her throat carry the finished drawing, and
 the sharpest step from light to dark sits inside the eye at the edge
 of the iris; the seated shapes behind her stay at quiet low values
-with soft wash-bled edges and no hard edge in them. The picture falls
-away to bare unpainted paper at its edges rather than being painted
-out to the border.
+with soft wash-bled edges and no hard edge in them.
 
 Preserve her face, colouring and apparent age exactly as shown in the
 reference image. Pale blue eyes, and her hair entirely covered.
