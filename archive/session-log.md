@@ -3267,6 +3267,21 @@ Ten records rolled to `07-Story-Ledger/chapter-records-part-5.md`, **all ten byt
 
 **AND ONE EXPLANATION WITHDRAWN.** The `ch53/her-back-went-straight` record proposed a cause for the fire sliding out from under the frame — that the other block kept it beneath by letting the fire show at the edge. `ch55/level-with-the-boy` used the same wording as the failure and got the correct result, so it is run-to-run variance, which §Limits already says to expect. The proposed cause is withdrawn in the later record rather than left standing in the earlier one.
 
+**ADDENDUM 4 (s77) — CH. 56 "THE PIECES" PLATED, AND AN INSTRUMENT WITHDRAWN.**
+
+*The blue and the white* (Tirzah and the princess sewing the empire's uniform), *Off my wrists* (the child's manacles on the ground between the boy and the man who prices everything), *Nine strides by seven* (the boy measuring the room he is going to put to sleep). Three blocks, three first runs, three adoptions. **The author's Ch. 55 correction was the design rule: every one is a face in front of another person, and the chapter's two best object beats are on the bench under it.**
+
+**THE INSTRUMENT I INVENTED AND THE AUTHOR CAUGHT (author, s77: *these bare paper margins, did we have these in past prompts? feel like these are more recently being used a lot by you* … *strip it all*).** At Ch. 53 a fire-lit run kept a clean unpainted margin and I read it as a discovery, wrote a sentence for it, and put that sentence into five blocks — **five in 176, all mine, all in one session, against none in the folder's whole history.** I then recorded the results as *three for three* and *four for four*, as though the wording had bought the margin. **It had not been shown to buy anything:** `ch51/come-back` kept its margin with no clause at all, so the base rate was never zero, and four-with against one-of-two-without does not separate the wording from the tool. The clause is out of all five blocks, §Limits is back to the surviving rule with the edge question marked unsettled and explicitly not an instrument, and the Ch. 53 and Ch. 55 records carry a line saying the clause was in those blocks as run — because the prompt file is meant to reproduce its picture and four of them no longer do. **The failure mode is the one already on the record: start at the template, and an instrument needs a reason in this picture.**
+
+**THREE RULES CONFIRMED BY EVIDENCE THIS CHAPTER PRODUCED, EACH WITH ITS COUNTS WRITTEN INTO THE RULE.**
+1. **§Scale now covers spaces, proved both ways inside one picture.** *The ceiling is low and close over everything* came back exactly; *nine strides by seven* in the same block returned a long barrack, because a count of paces has nothing in the frame to measure against.
+2. **§Before the run: the covered head is said LAST and alone.** Six holds, one failure, and the failure was the block whose closing sentence was also assigning hair to a second character.
+3. **§Gaze's escape condition took a fourth confirmation** — the woman's head already down over her own sewing, only her eyes moved across onto the girl's stitches, and they went.
+
+**AND THE PAGE'S OWN STAGING KEEPS TURNING OUT TO BE THE LIGHTING INSTRUCTION.** *She sewed with her back to the fire so the light fell on the work* gave a picture lit entirely by the white cloth in their laps throwing light back up into both faces. Nothing was invented for it.
+
+**`aeliana-15` HAS NOW FAILED TO GO BROWN IN THREE PICTURES.** A reference carries skin and a state clause does not beat it; §Hard rules prescribes a re-cut and it is the author's call, still open.
+
 ## SESSION 77 (2026-09-02) — CH. 54: THE TRADE
 
 **OPEN.** Verify clean. Cold read raised three itches, all fixed on the author's word before any design: a tag full-stop in Ch. 52 (*"they call them," Valeria said*); the typed word counts on the Ch. 52 and 53 records struck (05's baselines are the one home, and the Ch. 53 figure was two words wrong); the s76 STATUS block cut from ~600 words to its four-line cap.
